@@ -357,13 +357,17 @@ if __name__ == "__main__":
     pool = Pool(25)
     zone_transfer_enabled_list += [x for x in pool.map(get_one_tld, tlds) if x is not None]
 
+    # Create markdown file and tab-separated list of zone-transfer enabled nameservers
     zone_transfer_enabled_markdown = "# List of TLDs & Roots With Zone Transfers Currently Enabled\n\n"
+    zone_transfer_enabled_tsv = ""
 
     for zone_status in zone_transfer_enabled_list:
         if zone_status["hostname"] == ".":
             zone_transfer_enabled_markdown += "* `" + zone_status["hostname"] + "` via `" +  zone_status["nameserver"] + "`: [Click here to view zone data.](" + "archives/root/" + zone_status["nameserver"] + "zone)\n"
         else:
-            zone_transfer_enabled_markdown += "* `" + zone_status["hostname"] + "` via `" +  zone_status["nameserver"] + "`: [Click here to view zone data.](" + "archives/" + zone_status["hostname"] + "/" + zone_status["nameserver"] + "zone)\n"
+            filename = "archives/" + zone_status["hostname"] + "/" + zone_status["nameserver"] + "zone"
+            zone_transfer_enabled_markdown += "* `" + zone_status["hostname"] + "` via `" +  zone_status["nameserver"] + "`: [Click here to view zone data.](" + filename + ")\n"
+            zone_transfer_enabled_tsv += zone_status["hostname"] + "\t" + zone_status["nameserver"] + "\t" + filename + "\n"
 
     file_handler = open( "transferable_zones.md", "w" )
     file_handler.write(
@@ -371,29 +375,8 @@ if __name__ == "__main__":
     )
     file_handler.close()
 
-    # Add all new zone files
-    print( "Git adding...")
-    proc = subprocess.Popen([
-        "/usr/bin/git", "add", "."
-    ], stdout=subprocess.PIPE)
-    print(
-        proc.stdout.read()
+    file_handler = open( "transferable_zones.tsv", "w" )
+    file_handler.write(
+        zone_transfer_enabled_tsv
     )
-
-    # Commit them
-    print( "Git committing...")
-    proc = subprocess.Popen([
-        "/usr/bin/git", "commit", '-m "Updating zone information"'
-    ], stdout=subprocess.PIPE)
-    print(
-        proc.stdout.read()
-    )
-
-    # Commit them
-    print( "Git pushing...")
-    proc = subprocess.Popen([
-        "/usr/bin/git", "push"
-    ], stdout=subprocess.PIPE)
-    print(
-        proc.stdout.read()
-    )
+    file_handler.close()
