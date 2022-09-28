@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '* */6 * * *' # every 6 hours
+    - cron: '27 * * * *' # every hour at minute 27
 
 jobs:
   scan:
