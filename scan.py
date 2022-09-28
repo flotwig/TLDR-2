@@ -14,6 +14,7 @@ import time
 import json
 import sys
 import os
+from multiprocessing import Pool
 
 from contextlib import contextmanager
 
@@ -315,7 +316,7 @@ if __name__ == "__main__":
 
     tlds = dnstool.get_root_tlds()
 
-    for tld in tlds:
+    def get_one_tld(tld):
         full_tld = tld + "."
 
         nameservers = dnstool.get_nameserver_list(
@@ -327,12 +328,6 @@ if __name__ == "__main__":
                 full_tld,
                 nameserver,
             )
-
-            if zone_transfer_succeeded( zone_data ):
-                zone_transfer_enabled_list.append({
-                    "nameserver": nameserver,
-                    "hostname": tld,
-                })
 
             if( len( zone_data ) > 99614720 ): # Max github file size.
                 write_dig_output(
@@ -349,7 +344,15 @@ if __name__ == "__main__":
                     False,
                 )
 
-    # Create markdown file of zone-transfer enabled nameservers
+            if zone_transfer_succeeded( zone_data ):
+                return {
+                    "nameserver": nameserver,
+                    "hostname": tld,
+                }
+
+    pool = Pool(25)
+    zone_transfer_enabled_list += [x for x in pool.map(get_one_tld, tlds) if x is not None]
+
     zone_transfer_enabled_markdown = "# List of TLDs & Roots With Zone Transfers Currently Enabled\n\n"
 
     for zone_status in zone_transfer_enabled_list:
