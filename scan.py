@@ -226,6 +226,10 @@ def pprint( input_dict ):
     )
 
 def write_dig_output( hostname, nameserver, dig_output, is_gzipped ):
+    if not zone_transfer_succeeded( dig_output ):
+        # skip writing
+        return
+
     if hostname == ".":
         hostname = "root"
 
