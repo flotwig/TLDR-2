@@ -1,5 +1,6 @@
 # List of TLDs & Roots With Zone Transfers Currently Enabled
 
+* `.` via `e.root-servers.net.`: [Click here to view zone data.](archives/root/e.root-servers.net.zone)
 * `.` via `d.root-servers.net.`: [Click here to view zone data.](archives/root/d.root-servers.net.zone)
 * `.` via `c.root-servers.net.`: [Click here to view zone data.](archives/root/c.root-servers.net.zone)
 * `.` via `b.root-servers.net.`: [Click here to view zone data.](archives/root/b.root-servers.net.zone)
@@ -10,9 +11,10 @@
 * `cd` via `ns-root-22.scpt-network.net.`: [Click here to view zone data.](archives/cd/ns-root-22.scpt-network.net.zone)
 * `cv` via `cv01.dns.pt.`: [Click here to view zone data.](archives/cv/cv01.dns.pt.zone)
 * `er` via `sawanew.noc.net.er.`: [Click here to view zone data.](archives/er/sawanew.noc.net.er.zone)
-* `fj` via `ns1.fj.`: [Click here to view zone data.](archives/fj/ns1.fj.zone)
+* `fj` via `ns2.fj.`: [Click here to view zone data.](archives/fj/ns2.fj.zone)
 * `gp` via `ns2.nic.gp.`: [Click here to view zone data.](archives/gp/ns2.nic.gp.zone)
 * `kg` via `ns2.kg.`: [Click here to view zone data.](archives/kg/ns2.kg.zone)
+* `mw` via `domwe.sdn.mw.`: [Click here to view zone data.](archives/mw/domwe.sdn.mw.zone)
 * `pg` via `ns1.tiare.net.pg.`: [Click here to view zone data.](archives/pg/ns1.tiare.net.pg.zone)
 * `sl` via `ns2.neoip.com.`: [Click here to view zone data.](archives/sl/ns2.neoip.com.zone)
 * `ss` via `b.ns.tznic.or.tz.`: [Click here to view zone data.](archives/ss/b.ns.tznic.or.tz.zone)
