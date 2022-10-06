@@ -1,4 +1,4 @@
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022100501 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022100601 86400 7200 2592000 300
 cv.			28800	IN	NS	c.dns.pt.
 cv.			28800	IN	NS	ns.dns.cv.
 cv.			28800	IN	NS	anyc.dnsnode.net.
@@ -2387,8 +2387,8 @@ matilde.com.cv.		28800	IN	NS	ns3.matilde.com.cv.
 matilde.com.cv.		28800	IN	NS	ns4.matilde.com.cv.
 ns1.matilde.com.cv.	28800	IN	AAAA	2a06:fb00:1::1:66
 ns1.matilde.com.cv.	28800	IN	A	185.136.96.66
-ns2.matilde.com.cv.	28800	IN	A	185.136.97.66
 ns2.matilde.com.cv.	28800	IN	AAAA	2a06:fb00:1::2:66
+ns2.matilde.com.cv.	28800	IN	A	185.136.97.66
 ns3.matilde.com.cv.	28800	IN	AAAA	2a06:fb00:1::3:66
 ns3.matilde.com.cv.	28800	IN	A	185.136.98.66
 ns4.matilde.com.cv.	28800	IN	AAAA	2a06:fb00:1::4:66
@@ -2507,11 +2507,11 @@ nosmarka.com.cv.	28800	IN	NS	ns2.cvtelecom.cv.
 nport.com.cv.		28800	IN	NS	NS1.101DOMAIN.COM.
 nport.com.cv.		28800	IN	NS	NS2.101DOMAIN.COM.
 nport.com.cv.		28800	IN	NS	NS5.101DOMAIN.COM.
-nrg4.com.cv.		28800	IN	AAAA	2604:9a00:2100:a001:2::1
-nrg4.com.cv.		28800	IN	A	85.159.233.17
 nrg4.com.cv.		28800	IN	NS	ns01.trademarkarea.com.
 nrg4.com.cv.		28800	IN	NS	ns02.trademarkarea.com.
 nrg4.com.cv.		28800	IN	NS	ns03.trademarkarea.com.
+nrg4.com.cv.		28800	IN	AAAA	2604:9a00:2100:a001:2::1
+nrg4.com.cv.		28800	IN	A	85.159.233.17
 nubai.com.cv.		28800	IN	NS	ns1.cloudns.net.
 nubai.com.cv.		28800	IN	NS	ns2.cloudns.net.
 nubai.com.cv.		28800	IN	NS	ns3.cloudns.net.
@@ -8483,6 +8483,10 @@ ttns.cv.		28800	IN	NS	ns2.tuxdns.net.
 ttns.cv.		28800	IN	NS	ns3.tuxdns.net.
 ttns.cv.		28800	IN	NS	ns4.tuxdns.net.
 mail.ttns.cv.		28800	IN	A	195.200.252.124
+tttalk.cv.		28800	IN	NS	ns-204.awsdns-25.com.
+tttalk.cv.		28800	IN	NS	ns-719.awsdns-25.net.
+tttalk.cv.		28800	IN	NS	ns-1236.awsdns-26.org.
+tttalk.cv.		28800	IN	NS	ns-1604.awsdns-08.co.uk.
 tuacar.cv.		28800	IN	NS	ns01.trademarkarea.com.
 tuacar.cv.		28800	IN	NS	ns02.trademarkarea.com.
 tuacar.cv.		28800	IN	NS	ns03.trademarkarea.com.
@@ -8625,9 +8629,9 @@ uno.cv.			28800	IN	NS	ns2.surf-town.net.
 uno.cv.			28800	IN	NS	ns3.surf-town.net.
 unotur.cv.		28800	IN	NS	ns1.gov.cv.
 unotur.cv.		28800	IN	NS	ns2.gov.cv.
-untc.cv.		28800	IN	A	41.221.194.233
 untc.cv.		28800	IN	NS	ns1.okservidores.com.br.
 untc.cv.		28800	IN	NS	ns2.okservidores.com.br.
+untc.cv.		28800	IN	A	41.221.194.233
 untc-cs.cv.		28800	IN	NS	ns1.gov.cv.
 untc-cs.cv.		28800	IN	NS	ns2.gov.cv.
 upapit.cv.		28800	IN	NS	ns1.linxisp.net.
@@ -8970,4 +8974,4 @@ zonetech.cv.		28800	IN	NS	ns3.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns1.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns2.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns3.dnscpanel.com.
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022100501 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022100601 86400 7200 2592000 300
