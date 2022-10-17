@@ -1,4 +1,4 @@
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022101201 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022101701 86400 7200 2592000 300
 cv.			28800	IN	NS	c.dns.pt.
 cv.			28800	IN	NS	ns.dns.cv.
 cv.			28800	IN	NS	anyc.dnsnode.net.
@@ -2019,12 +2019,12 @@ citydia.com.cv.		28800	IN	NS	ns1.entornodns.com.
 citydia.com.cv.		28800	IN	NS	ns2.entornodns.com.
 citydia.com.cv.		28800	IN	AAAA	::195.77.116.8
 citydia.com.cv.		28800	IN	AAAA	2a01:1c8:1001:2:be30:5bff:fedf:67ee
+cloud.com.cv.		28800	IN	A	213.13.28.116
+cloud.com.cv.		28800	IN	A	213.13.30.116
 cloud.com.cv.		28800	IN	NS	ns.sapo.pt.
 cloud.com.cv.		28800	IN	NS	ns2.sapo.pt.
 cloud.com.cv.		28800	IN	NS	dns01.sapo.pt.
 cloud.com.cv.		28800	IN	NS	dns02.sapo.pt.
-cloud.com.cv.		28800	IN	A	213.13.28.116
-cloud.com.cv.		28800	IN	A	213.13.30.116
 cloudpt.com.cv.		28800	IN	A	213.13.28.116
 cloudpt.com.cv.		28800	IN	A	213.13.30.116
 cloudpt.com.cv.		28800	IN	NS	ns.sapo.pt.
@@ -5209,6 +5209,9 @@ ns1.jetavoyages.cv.	28800	IN	A	80.172.233.23
 ns2.jetavoyages.cv.	28800	IN	A	80.172.233.24
 jic.cv.			28800	IN	NS	ns1.mundogest.com.
 jic.cv.			28800	IN	NS	ns2.mundogest.com.
+jinimobiliaria.cv.	28800	IN	NS	ns1.nosiwebhosting.com.
+jinimobiliaria.cv.	28800	IN	NS	ns2.nosiwebhosting.com.
+jinimobiliaria.cv.	28800	IN	NS	ns3.nosiwebhosting.com.
 jmholding.cv.		28800	IN	NS	ns1.servconfig.com.
 jmholding.cv.		28800	IN	NS	ns2.servconfig.com.
 jminova.cv.		28800	IN	AAAA	2a02:c205:0:891::1
@@ -5308,12 +5311,12 @@ khimobiliaria.cv.	28800	IN	NS	pns1.cloudns.net.
 khimobiliaria.cv.	28800	IN	NS	pns2.cloudns.net.
 khimobiliaria.cv.	28800	IN	NS	pns3.cloudns.net.
 khimobiliaria.cv.	28800	IN	NS	pns4.cloudns.net.
-khymnegoce.cv.		28800	IN	AAAA	2604:9a00:2100:a001:2::1
 khymnegoce.cv.		28800	IN	A	85.159.233.17
 khymnegoce.cv.		28800	IN	NS	ns1.cloudns.net.
 khymnegoce.cv.		28800	IN	NS	ns2.cloudns.net.
 khymnegoce.cv.		28800	IN	NS	ns3.cloudns.net.
 khymnegoce.cv.		28800	IN	NS	ns4.cloudns.net.
+khymnegoce.cv.		28800	IN	AAAA	2604:9a00:2100:a001:2::1
 kibali.cv.		28800	IN	NS	ns1.hostigo.nl.
 kibali.cv.		28800	IN	NS	ns2.hostigo.nl.
 kibo.cv.		28800	IN	NS	ns1.mydnspt.net.
@@ -6193,12 +6196,12 @@ nhaskonta.cv.		28800	IN	NS	nia.ns.cloudflare.com.
 nhaskonta.cv.		28800	IN	NS	guss.ns.cloudflare.com.
 nhataxi.cv.		28800	IN	NS	ns1.nhataxi.cv.
 ns1.nhataxi.cv.		28800	IN	A	208.87.102.102
-nhoston.cv.		28800	IN	NS	ns.inwx.de.
-nhoston.cv.		28800	IN	NS	ns2.inwx.de.
-nhoston.cv.		28800	IN	NS	ns3.inwx.eu.
 nhoston.cv.		28800	IN	AAAA	2001:67c:1bc::104
 nhoston.cv.		28800	IN	AAAA	2001:67c:10b8::104
 nhoston.cv.		28800	IN	AAAA	2a01:4f8:222:b03::2
+nhoston.cv.		28800	IN	NS	ns.inwx.de.
+nhoston.cv.		28800	IN	NS	ns2.inwx.de.
+nhoston.cv.		28800	IN	NS	ns3.inwx.eu.
 nicesgroup.cv.		28800	IN	NS	ns.jcle.pt.
 nicesgroup.cv.		28800	IN	NS	ns.jcle.net.
 nobai.cv.		28800	IN	NS	ns.phpnet.org.
@@ -7369,14 +7372,14 @@ robinson-cabo-verde.cv.	28800	IN	AAAA	2600:2000:1000::7
 robinson-cabo-verde.cv.	28800	IN	AAAA	2600:2000:1001::7
 robinson-cabo-verde.cv.	28800	IN	NS	ns01.brandshelter.com.
 robinson-cabo-verde.cv.	28800	IN	NS	ns02.brandshelter.net.
-robinson-caboverde.cv.	28800	IN	AAAA	2600:2000:1000::7
-robinson-caboverde.cv.	28800	IN	AAAA	2600:2000:1001::7
 robinson-caboverde.cv.	28800	IN	NS	ns01.brandshelter.com.
 robinson-caboverde.cv.	28800	IN	NS	ns02.brandshelter.net.
-robinson-club.cv.	28800	IN	NS	ns01.brandshelter.com.
-robinson-club.cv.	28800	IN	NS	ns02.brandshelter.net.
+robinson-caboverde.cv.	28800	IN	AAAA	2600:2000:1000::7
+robinson-caboverde.cv.	28800	IN	AAAA	2600:2000:1001::7
 robinson-club.cv.	28800	IN	AAAA	2600:2000:1000::7
 robinson-club.cv.	28800	IN	AAAA	2600:2000:1001::7
+robinson-club.cv.	28800	IN	NS	ns01.brandshelter.com.
+robinson-club.cv.	28800	IN	NS	ns02.brandshelter.net.
 robinson-club-cabo-verde.cv. 28800 IN	AAAA	2600:2000:1000::7
 robinson-club-cabo-verde.cv. 28800 IN	AAAA	2600:2000:1001::7
 robinson-club-cabo-verde.cv. 28800 IN	NS	ns01.brandshelter.com.
@@ -7789,13 +7792,13 @@ silentdisco.cv.		28800	IN	NS	ns03.trademarkarea.com.
 silentsystem.cv.	28800	IN	NS	ns01.trademarkarea.com.
 silentsystem.cv.	28800	IN	NS	ns02.trademarkarea.com.
 silentsystem.cv.	28800	IN	NS	ns03.trademarkarea.com.
+silmac.cv.		28800	IN	AAAA	2a02:c200:0:10::891:1
+silmac.cv.		28800	IN	A	5.189.191.29
+silmac.cv.		28800	IN	A	79.143.182.242
 silmac.cv.		28800	IN	NS	ns1.mydnspt.net.
 silmac.cv.		28800	IN	NS	ns2.mydnspt.net.
 silmac.cv.		28800	IN	NS	ns7.mydnspt.net.
 silmac.cv.		28800	IN	NS	ns8.mydnspt.net.
-silmac.cv.		28800	IN	AAAA	2a02:c200:0:10::891:1
-silmac.cv.		28800	IN	A	5.189.191.29
-silmac.cv.		28800	IN	A	79.143.182.242
 silosmarangatu.cv.	28800	IN	NS	ns1.contabo.net.
 silosmarangatu.cv.	28800	IN	NS	ns2.contabo.net.
 silosmarangatu.cv.	28800	IN	NS	ns3.contabo.net.
@@ -8150,10 +8153,10 @@ stu.cv.			28800	IN	NS	ns2.mydnspt.net.
 student.cv.		28800	IN	NS	ns01.trademarkarea.com.
 student.cv.		28800	IN	NS	ns02.trademarkarea.com.
 student.cv.		28800	IN	NS	ns03.trademarkarea.com.
-sucla.cv.		28800	IN	A	45.154.66.253
-sucla.cv.		28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 sucla.cv.		86400	IN	NS	ns1.webs24h.com.
 sucla.cv.		86400	IN	NS	ns2.webs24h.com.
+sucla.cv.		28800	IN	A	45.154.66.253
+sucla.cv.		28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 sucupira.cv.		28800	IN	NS	ns1.wtservers.com.
 sucupira.cv.		28800	IN	NS	ns2.wtservers.com.
 sucupira.cv.		28800	IN	NS	ns3.wtservers.com.
@@ -8688,11 +8691,11 @@ vascaboverde.cv.	28800	IN	NS	ns1.rigorcg.pt.
 vascaboverde.cv.	28800	IN	NS	ns2.rigorcg.pt.
 vasconcelos.cv.		28800	IN	NS	ns11.wv.pt.
 vasconcelos.cv.		28800	IN	NS	ns12.wv.pt.
-vc-cs.cv.		28800	IN	NS	ns3.whmwebhosting.com.
-vc-cs.cv.		28800	IN	NS	ns4.whmwebhosting.com.
 vc-cs.cv.		28800	IN	A	35.182.190.110
 vc-cs.cv.		28800	IN	A	52.215.11.135
 vc-cs.cv.		28800	IN	A	199.73.55.49
+vc-cs.cv.		28800	IN	NS	ns3.whmwebhosting.com.
+vc-cs.cv.		28800	IN	NS	ns4.whmwebhosting.com.
 vcv.cv.			28800	IN	A	94.46.14.249
 vcv.cv.			28800	IN	A	94.46.14.250
 vcv.cv.			28800	IN	A	130.185.80.200
@@ -8879,11 +8882,11 @@ web.cv.			28800	IN	NS	ns1-vh.tagadab.com.
 web.cv.			28800	IN	NS	ns2-vh.tagadab.com.
 web3.cv.		28800	IN	NS	ns1.alidns.com.
 web3.cv.		28800	IN	NS	ns2.alidns.com.
-webdesign.cv.		28800	IN	NS	ns1.cogenttec.com.
-webdesign.cv.		28800	IN	NS	ns2.cogenttec.com.
 webdesign.cv.		28800	IN	AAAA	2a02:c205:0:891::1
 webdesign.cv.		28800	IN	A	5.189.191.29
 webdesign.cv.		28800	IN	A	79.143.182.242
+webdesign.cv.		28800	IN	NS	ns1.cogenttec.com.
+webdesign.cv.		28800	IN	NS	ns2.cogenttec.com.
 webfood.cv.		28800	IN	NS	ns1.contabo.net.
 webfood.cv.		28800	IN	NS	ns2.contabo.net.
 webfood.cv.		28800	IN	NS	ns3.contabo.net.
@@ -8983,4 +8986,4 @@ zonetech.cv.		28800	IN	NS	ns3.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns1.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns2.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns3.dnscpanel.com.
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022101201 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022101701 86400 7200 2592000 300
