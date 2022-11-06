@@ -7,7 +7,7 @@
 * `.` via `k.root-servers.net.`: [Click here to view zone data.](archives/root/k.root-servers.net.zone)
 * `.` via `g.root-servers.net.`: [Click here to view zone data.](archives/root/g.root-servers.net.zone)
 * `.` via `f.root-servers.net.`: [Click here to view zone data.](archives/root/f.root-servers.net.zone)
-* `arpa` via `e.ns.arpa.`: [Click here to view zone data.](archives/arpa/e.ns.arpa.zone)
+* `arpa` via `d.ns.arpa.`: [Click here to view zone data.](archives/arpa/d.ns.arpa.zone)
 * `cd` via `ns-root-22.scpt-network.net.`: [Click here to view zone data.](archives/cd/ns-root-22.scpt-network.net.zone)
 * `cv` via `cv01.dns.pt.`: [Click here to view zone data.](archives/cv/cv01.dns.pt.zone)
 * `er` via `sawanew.noc.net.er.`: [Click here to view zone data.](archives/er/sawanew.noc.net.er.zone)
@@ -17,4 +17,3 @@
 * `pg` via `ns1.tiare.net.pg.`: [Click here to view zone data.](archives/pg/ns1.tiare.net.pg.zone)
 * `sl` via `ns2.neoip.com.`: [Click here to view zone data.](archives/sl/ns2.neoip.com.zone)
 * `xn--mgbai9azgqp6j` via `ns.ntc.net.pk.`: [Click here to view zone data.](archives/xn--mgbai9azgqp6j/ns.ntc.net.pk.zone)
-* `xn--ygbi2ammx` via `dns1.gov.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/dns1.gov.ps.zone)
