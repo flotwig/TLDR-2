@@ -1,4 +1,4 @@
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022111001 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022111101 86400 7200 2592000 300
 cv.			28800	IN	NS	c.dns.pt.
 cv.			28800	IN	NS	ns.dns.cv.
 cv.			28800	IN	NS	anyc.dnsnode.net.
@@ -4212,8 +4212,9 @@ followme.cv.		28800	IN	NS	dns1.freehostia.com.
 followme.cv.		28800	IN	NS	dns2.freehostia.com.
 fonsecaesantos.cv.	28800	IN	NS	ns25.boxsecured.com.
 fonsecaesantos.cv.	28800	IN	NS	ns26.boxsecured.com.
-fonsecasantos.cv.	28800	IN	NS	ns1.domain.com.
-fonsecasantos.cv.	28800	IN	NS	ns2.domain.com.
+fonsecasantos.cv.	28800	IN	NS	ns1.dnscpanel.com.
+fonsecasantos.cv.	28800	IN	NS	ns2.dnscpanel.com.
+fonsecasantos.cv.	28800	IN	NS	ns3.dnscpanel.com.
 fontebaptista.cv.	28800	IN	NS	r3.gigilist.com.
 fontebaptista.cv.	28800	IN	NS	r4.gigilist.com.
 fonti.cv.		28800	IN	NS	ns1.dns-parking.com.
@@ -4905,11 +4906,11 @@ imaginason.cv.		28800	IN	NS	ns15.wixdns.net.
 imajem.cv.		28800	IN	NS	ns56.hocnet.pt.
 imajem.cv.		28800	IN	NS	ns57.hocnet.pt.
 imajem.cv.		28800	IN	NS	pt101.rumonetpt.com.
-imenu.cv.		28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 imenu.cv.		28800	IN	NS	ns1.wtservers.com.
 imenu.cv.		28800	IN	NS	ns2.wtservers.com.
 imenu.cv.		28800	IN	NS	ns3.wtservers.com.
 imenu.cv.		28800	IN	A	45.154.66.253
+imenu.cv.		28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 img.cv.			28800	IN	NS	ns01.trademarkarea.com.
 img.cv.			28800	IN	NS	ns02.trademarkarea.com.
 img.cv.			28800	IN	NS	ns03.trademarkarea.com.
@@ -4995,8 +4996,9 @@ industry.cv.		28800	IN	NS	ns1.is-fun.net.
 industry.cv.		28800	IN	NS	ns2.is-fun.net.
 ine.cv.			28800	IN	NS	ns1.gov.cv.
 ine.cv.			28800	IN	NS	ns2.gov.cv.
-infinance.cv.		28800	IN	NS	dns1.ex2-p35.com.
-infinance.cv.		28800	IN	NS	dns2.ex2-p35.com.
+infinance.cv.		28800	IN	NS	ns1.ex2.com.
+infinance.cv.		28800	IN	NS	ns2.ex2.com.
+infinance.cv.		28800	IN	NS	ns3.ex2.com.
 infinox.cv.		28800	IN	NS	ns01.trademarkarea.com.
 infinox.cv.		28800	IN	NS	ns02.trademarkarea.com.
 infinox.cv.		28800	IN	NS	ns03.trademarkarea.com.
@@ -6314,13 +6316,13 @@ oa.cv.			28800	IN	NS	ns44.he-inc.net.
 oa.cv.			28800	IN	NS	ns45.he-inc.net.
 oac.cv.			28800	IN	NS	ns47.domaincontrol.com.
 oac.cv.			28800	IN	NS	ns48.domaincontrol.com.
-oacv.cv.		28800	IN	NS	ns816.hostgator.com.br.
-oacv.cv.		28800	IN	NS	ns817.hostgator.com.br.
 oacv.cv.		28800	IN	A	45.119.209.45
 oacv.cv.		28800	IN	A	69.25.120.150
 oacv.cv.		28800	IN	AAAA	2604:6600:0:7::8888
 oacv.cv.		28800	IN	AAAA	2604:6600:2000:39::3
 oacv.cv.		28800	IN	AAAA	2607:f8f8:7e0:1f00::8888
+oacv.cv.		28800	IN	NS	ns816.hostgator.com.br.
+oacv.cv.		28800	IN	NS	ns817.hostgator.com.br.
 oasisatlantico.cv.	28800	IN	NS	ns1.dynu.com.
 oasisatlantico.cv.	28800	IN	NS	ns2.dynu.com.
 oasisatlantico.cv.	28800	IN	NS	ns3.dynu.com.
@@ -6890,14 +6892,14 @@ pin.cv.			28800	IN	NS	dns1.apthost.com.
 pin.cv.			28800	IN	NS	dns2.apthost.com.
 piripiri.cv.		28800	IN	NS	ns01.spotnet.cv.
 piripiri.cv.		28800	IN	NS	ns02.spotnet.cv.
-pivot.cv.		28800	IN	NS	ns1.instala.biz.
-pivot.cv.		28800	IN	NS	ns2.instala.biz.
 pivot.cv.		28800	IN	A	94.46.14.249
 pivot.cv.		28800	IN	A	94.46.14.250
 pivot.cv.		28800	IN	A	130.185.80.200
 pivot.cv.		28800	IN	A	130.185.80.201
 pivot.cv.		28800	IN	A	130.185.80.210
 pivot.cv.		28800	IN	A	130.185.80.211
+pivot.cv.		28800	IN	NS	ns1.instala.biz.
+pivot.cv.		28800	IN	NS	ns2.instala.biz.
 pixel.cv.		28800	IN	NS	ns1.mydnspt.net.
 pixel.cv.		28800	IN	NS	ns2.mydnspt.net.
 pj.cv.			28800	IN	NS	ns1.nosiwebhosting.com.
@@ -7009,10 +7011,10 @@ pratex.cv.		28800	IN	NS	ns3.digitalocean.com.
 predio.cv.		28800	IN	NS	ns1.dreamhost.com.
 predio.cv.		28800	IN	NS	ns2.dreamhost.com.
 predio.cv.		28800	IN	NS	ns3.dreamhost.com.
-presidencia.cv.		28800	IN	NS	ns1.servconfig.com.
-presidencia.cv.		28800	IN	NS	ns2.servconfig.com.
 presidencia.cv.		28800	IN	A	41.221.194.233
 presidencia.cv.		28800	IN	A	41.221.194.234
+presidencia.cv.		28800	IN	NS	ns1.servconfig.com.
+presidencia.cv.		28800	IN	NS	ns2.servconfig.com.
 presidenciais2011.cv.	28800	IN	NS	ns1.gov.cv.
 presidenciais2011.cv.	28800	IN	NS	ns2.gov.cv.
 prevencaorodoviaria.cv.	28800	IN	NS	ns1.nosiwebhosting.com.
@@ -7065,9 +7067,10 @@ proempresacandidaturas.cv. 28800 IN	NS	ns2.gov.cv.
 professional.cv.	28800	IN	NS	ns.inwx.de.
 professional.cv.	28800	IN	NS	ns2.inwx.de.
 professional.cv.	28800	IN	NS	ns3.inwx.eu.
-profile.cv.		28800	IN	NS	ns01.trademarkarea.com.
-profile.cv.		28800	IN	NS	ns02.trademarkarea.com.
-profile.cv.		28800	IN	NS	ns03.trademarkarea.com.
+profile.cv.		28800	IN	NS	dns1.p01.nsone.net.
+profile.cv.		28800	IN	NS	dns2.p01.nsone.net.
+profile.cv.		28800	IN	NS	dns3.p01.nsone.net.
+profile.cv.		28800	IN	NS	dns4.p01.nsone.net.
 progarante.cv.		28800	IN	NS	ns1.nosiwebhosting.com.
 progarante.cv.		28800	IN	NS	ns2.nosiwebhosting.com.
 progarante.cv.		28800	IN	NS	ns3.nosiwebhosting.com.
@@ -8088,13 +8091,13 @@ spiga.cv.		28800	IN	NS	ans250.securenet-server.net.
 spikevax.cv.		28800	IN	NS	ns01.trademarkarea.com.
 spikevax.cv.		28800	IN	NS	ns02.trademarkarea.com.
 spikevax.cv.		28800	IN	NS	ns03.trademarkarea.com.
+sportsmidia.cv.		28800	IN	NS	ns1.webhs.org.
+sportsmidia.cv.		28800	IN	NS	ns2.webhs.org.
+sportsmidia.cv.		28800	IN	NS	ns3.webhs.org.
 sportsmidia.cv.		28800	IN	A	45.63.42.179
 sportsmidia.cv.		28800	IN	A	94.237.33.102
 sportsmidia.cv.		28800	IN	AAAA	2a00:801:fb:253::4
 sportsmidia.cv.		28800	IN	AAAA	2a03:f80:ed15:158:255:211:116:1
-sportsmidia.cv.		28800	IN	NS	ns1.webhs.org.
-sportsmidia.cv.		28800	IN	NS	ns2.webhs.org.
-sportsmidia.cv.		28800	IN	NS	ns3.webhs.org.
 spotify.cv.		28800	IN	NS	dns01.dipcon.com.
 spotify.cv.		28800	IN	NS	dns02.ports.se.
 spotify.cv.		28800	IN	NS	dns03.ports.se.
@@ -8877,10 +8880,10 @@ voluntarioscovid19.cv.	28800	IN	NS	ns-1478.awsdns-56.org.
 voluntarioscovid19.cv.	28800	IN	NS	ns-1904.awsdns-46.co.uk.
 vossomercado.cv.	28800	IN	NS	ns1.helpdeskcvwebhosting.com.
 vossomercado.cv.	28800	IN	NS	ns2.helpdeskcvwebhosting.com.
-voxsys.cv.		28800	IN	A	185.11.165.251
-voxsys.cv.		28800	IN	A	185.11.165.252
 voxsys.cv.		28800	IN	NS	ns1.voxsys.com.pt.
 voxsys.cv.		28800	IN	NS	ns2.voxsys.com.pt.
+voxsys.cv.		28800	IN	A	185.11.165.251
+voxsys.cv.		28800	IN	A	185.11.165.252
 voz.cv.			28800	IN	NS	dns1.rede1024.com.
 voz.cv.			28800	IN	NS	dns2.rede1024.com.
 voz.cv.			28800	IN	NS	dns3.rede1024.com.
@@ -9023,4 +9026,4 @@ zonetech.cv.		28800	IN	NS	ns3.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns1.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns2.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns3.dnscpanel.com.
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022111001 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022111101 86400 7200 2592000 300
