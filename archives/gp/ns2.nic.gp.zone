@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022122100 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022122122 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -204,14 +204,10 @@ action-sport.gp.	86400	IN	NS	ns1.p68.dns.oraclecloud.net.
 action-sport.gp.	86400	IN	NS	ns2.p68.dns.oraclecloud.net.
 action-sport.gp.	86400	IN	NS	ns3.p68.dns.oraclecloud.net.
 action-sport.gp.	86400	IN	NS	ns4.p68.dns.oraclecloud.net.
-activereporter.gp.	86400	IN	NS	ns1.conetrix.com.
-activereporter.gp.	86400	IN	NS	ns2.conetrix.com.
-activereporter.gp.	86400	IN	NS	ns3.conetrix.com.
-activereporter.gp.	86400	IN	NS	ns4.conetrix.com.
-activreporter.gp.	86400	IN	NS	ns1.conetrix.com.
-activreporter.gp.	86400	IN	NS	ns2.conetrix.com.
-activreporter.gp.	86400	IN	NS	ns3.conetrix.com.
-activreporter.gp.	86400	IN	NS	ns4.conetrix.com.
+activereporter.gp.	86400	IN	NS	lisa.ns.cloudflare.com.
+activereporter.gp.	86400	IN	NS	julian.ns.cloudflare.com.
+activreporter.gp.	86400	IN	NS	lisa.ns.cloudflare.com.
+activreporter.gp.	86400	IN	NS	julian.ns.cloudflare.com.
 adac.gp.		86400	IN	NS	ns1045.ui-dns.de.
 adac.gp.		86400	IN	NS	ns1045.ui-dns.biz.
 adac.gp.		86400	IN	NS	ns1045.ui-dns.com.
@@ -2661,10 +2657,8 @@ jetbrains.gp.		86400	IN	NS	ns4.markmonitor.com.
 jetbrains.gp.		86400	IN	NS	ns5.markmonitor.com.
 jetbrains.gp.		86400	IN	NS	ns6.markmonitor.com.
 jetbrains.gp.		86400	IN	NS	ns7.markmonitor.com.
-jetreports.gp.		86400	IN	NS	ns1.conetrix.com.
-jetreports.gp.		86400	IN	NS	ns2.conetrix.com.
-jetreports.gp.		86400	IN	NS	ns3.conetrix.com.
-jetreports.gp.		86400	IN	NS	ns4.conetrix.com.
+jetreports.gp.		86400	IN	NS	lisa.ns.cloudflare.com.
+jetreports.gp.		86400	IN	NS	julian.ns.cloudflare.com.
 jets.gp.		86400	IN	NS	ns101.ovh.net.
 jets.gp.		86400	IN	NS	dns101.ovh.net.
 jets-200.gp.		86400	IN	NS	dns1.cloudns.net.
@@ -4303,22 +4297,14 @@ repetto.gp.		86400	IN	NS	ns3.nameshield.net.
 repetto.gp.		86400	IN	NS	obs.ns1.fr.
 replay.gp.		86400	IN	NS	ns1.ikoula.fr.
 replay.gp.		86400	IN	NS	ns2.ikoula.fr.
-report.gp.		86400	IN	NS	ns1.conetrix.com.
-report.gp.		86400	IN	NS	ns2.conetrix.com.
-report.gp.		86400	IN	NS	ns3.conetrix.com.
-report.gp.		86400	IN	NS	ns4.conetrix.com.
-reporter.gp.		86400	IN	NS	ns1.conetrix.com.
+report.gp.		86400	IN	NS	lisa.ns.cloudflare.com.
+report.gp.		86400	IN	NS	julian.ns.cloudflare.com.
 reporter.gp.		86400	IN	NS	ns2.conetrix.com.
-reporter.gp.		86400	IN	NS	ns3.conetrix.com.
-reporter.gp.		86400	IN	NS	ns4.conetrix.com.
+reporter.gp.		86400	IN	NS	julian.ns.cloudflare.com.
 reporting.gp.		86400	IN	NS	ns1.conetrix.com.
 reporting.gp.		86400	IN	NS	ns2.conetrix.com.
-reporting.gp.		86400	IN	NS	ns3.conetrix.com.
-reporting.gp.		86400	IN	NS	ns4.conetrix.com.
-reports.gp.		86400	IN	NS	ns1.conetrix.com.
-reports.gp.		86400	IN	NS	ns2.conetrix.com.
-reports.gp.		86400	IN	NS	ns3.conetrix.com.
-reports.gp.		86400	IN	NS	ns4.conetrix.com.
+reports.gp.		86400	IN	NS	lisa.ns.cloudflare.com.
+reports.gp.		86400	IN	NS	julian.ns.cloudflare.com.
 resamania.gp.		86400	IN	NS	ns111.ovh.net.
 resamania.gp.		86400	IN	NS	dns111.ovh.net.
 researchinmotion.gp.	86400	IN	NS	ns1.markmonitor.com.
@@ -5511,4 +5497,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022122100 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2022122122 86400 7200 2592000 345600
