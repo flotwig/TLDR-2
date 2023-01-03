@@ -1,4 +1,4 @@
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022122901 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023010301 86400 7200 2592000 300
 cv.			28800	IN	NS	c.dns.pt.
 cv.			28800	IN	NS	ns.dns.cv.
 cv.			28800	IN	NS	anyc.dnsnode.net.
@@ -1921,10 +1921,10 @@ ares.com.cv.		28800	IN	NS	ns2.hostingpanel2.com.
 mail.ares.com.cv.	28800	IN	A	188.165.205.162
 arquipelago.com.cv.	28800	IN	NS	ns1.mydnspt.net.
 arquipelago.com.cv.	28800	IN	NS	ns2.mydnspt.net.
-artefaktos.com.cv.	28800	IN	NS	ns1.ipage.com.
-artefaktos.com.cv.	28800	IN	NS	ns2.ipage.com.
 artefaktos.com.cv.	28800	IN	A	66.96.142.162
 artefaktos.com.cv.	28800	IN	A	66.96.142.163
+artefaktos.com.cv.	28800	IN	NS	ns1.ipage.com.
+artefaktos.com.cv.	28800	IN	NS	ns2.ipage.com.
 atlantico.com.cv.	28800	IN	NS	ns1.nosiwebhosting.com.
 atlantico.com.cv.	28800	IN	NS	ns2.nosiwebhosting.com.
 atlantico.com.cv.	28800	IN	NS	ns3.nosiwebhosting.com.
@@ -6498,10 +6498,10 @@ aavt.org.cv.		28800	IN	NS	ns2.inmotionhosting.com.
 abac.org.cv.		28800	IN	NS	ns1.abac.org.cv.
 mail.abac.org.cv.	28800	IN	A	80.172.233.23
 ns1.abac.org.cv.	28800	IN	A	80.172.233.23
-abadacaboverde.org.cv.	28800	IN	A	67.23.226.199
 abadacaboverde.org.cv.	28800	IN	NS	ns1.webhs.org.
 abadacaboverde.org.cv.	28800	IN	NS	ns2.webhs.org.
 abadacaboverde.org.cv.	28800	IN	NS	ns3.webhs.org.
+abadacaboverde.org.cv.	28800	IN	A	67.23.226.199
 abc.org.cv.		28800	IN	NS	1.nshub.com.
 abc.org.cv.		28800	IN	NS	2.nshub.com.
 aca-eua.org.cv.		28800	IN	NS	ns1.mundogest.com.
@@ -6610,10 +6610,10 @@ educar.org.cv.		28800	IN	NS	ns2000.mochahost.com.
 famf.org.cv.		28800	IN	NS	ns1.servconfig.com.
 famf.org.cv.		28800	IN	NS	ns2.servconfig.com.
 familcarcabral.org.cv.	28800	IN	NS	dns1.prime.cv.
-famipicos.org.cv.	28800	IN	AAAA	2a07:5741:0:ffd::1
-famipicos.org.cv.	28800	IN	AAAA	2a07:5741:0:ffd::2
 famipicos.org.cv.	28800	IN	NS	ns120.truehoster.net.
 famipicos.org.cv.	28800	IN	NS	ns121.truehoster.net.
+famipicos.org.cv.	28800	IN	AAAA	2a07:5741:0:ffd::1
+famipicos.org.cv.	28800	IN	AAAA	2a07:5741:0:ffd::2
 fcj.org.cv.		28800	IN	NS	ns1.mydnspt.net.
 fcj.org.cv.		28800	IN	NS	ns2.mydnspt.net.
 fcs.org.cv.		28800	IN	NS	ns1.nosiwebhosting.com.
@@ -6969,6 +6969,10 @@ polar.cv.		28800	IN	NS	ns1.mydnspt.net.
 polar.cv.		28800	IN	NS	ns2.mydnspt.net.
 polar.cv.		28800	IN	NS	ns7.mydnspt.net.
 polar.cv.		28800	IN	NS	ns8.mydnspt.net.
+polarlogistics.cv.	28800	IN	NS	ns1.mydnspt.net.
+polarlogistics.cv.	28800	IN	NS	ns2.mydnspt.net.
+polarlogistics.cv.	28800	IN	NS	ns7.mydnspt.net.
+polarlogistics.cv.	28800	IN	NS	ns8.mydnspt.net.
 policianacional.cv.	28800	IN	NS	ns1.gov.cv.
 policianacional.cv.	28800	IN	NS	ns2.gov.cv.
 policlinicasantiago.cv.	28800	IN	NS	a.host-services.com.
@@ -7186,10 +7190,10 @@ psicoterapia.cv.	28800	IN	NS	ns1.dns-parking.com.
 psicoterapia.cv.	28800	IN	NS	ns2.dns-parking.com.
 anacao.publ.cv.		28800	IN	NS	ns1.weblx-0.net.
 anacao.publ.cv.		28800	IN	NS	ns2.weblx-0.net.
-asemana.publ.cv.	28800	IN	NS	ns1.efedus.com.
-asemana.publ.cv.	28800	IN	NS	ns2.efedus.com.
 asemana.publ.cv.	28800	IN	AAAA	2a01:68:100:1::2
 asemana.publ.cv.	28800	IN	A	91.121.162.16
+asemana.publ.cv.	28800	IN	NS	ns1.efedus.com.
+asemana.publ.cv.	28800	IN	NS	ns2.efedus.com.
 expressodasilhas.publ.cv. 28800	IN	AAAA	2400:cb00:2049:1::a29f:1819
 expressodasilhas.publ.cv. 28800	IN	AAAA	2400:cb00:2049:1::a29f:1827
 expressodasilhas.publ.cv. 28800	IN	AAAA	2400:cb00:2049:1::a29f:1981
@@ -8557,12 +8561,12 @@ trans.cv.		28800	IN	NS	ns02.trademarkarea.com.
 trans.cv.		28800	IN	NS	ns03.trademarkarea.com.
 transcor.cv.		28800	IN	NS	ns1.dns-parking.com.
 transcor.cv.		28800	IN	NS	ns2.dns-parking.com.
-transinsular.cv.	28800	IN	AAAA	2400:cb00:2049:1::a29f:18c9
-transinsular.cv.	28800	IN	AAAA	2400:cb00:2049:1::a29f:192a
 transinsular.cv.	28800	IN	NS	ns-a1.vodafone.pt.
 transinsular.cv.	28800	IN	NS	ns-a2.vodafone.pt.
 transinsular.cv.	28800	IN	NS	ns-b1.vodafone.pt.
 transinsular.cv.	28800	IN	NS	ns-b2.vodafone.pt.
+transinsular.cv.	28800	IN	AAAA	2400:cb00:2049:1::a29f:18c9
+transinsular.cv.	28800	IN	AAAA	2400:cb00:2049:1::a29f:192a
 translearn.cv.		28800	IN	NS	ns1.dns-parking.com.
 translearn.cv.		28800	IN	NS	ns2.dns-parking.com.
 transmarini.cv.		28800	IN	NS	ns1.ams41.siteground.eu.
@@ -8800,11 +8804,11 @@ vascaboverde.cv.	28800	IN	NS	ns1.rigorcg.pt.
 vascaboverde.cv.	28800	IN	NS	ns2.rigorcg.pt.
 vasconcelos.cv.		28800	IN	NS	ns11.wv.pt.
 vasconcelos.cv.		28800	IN	NS	ns12.wv.pt.
-vc-cs.cv.		28800	IN	NS	ns3.whmwebhosting.com.
-vc-cs.cv.		28800	IN	NS	ns4.whmwebhosting.com.
 vc-cs.cv.		28800	IN	A	35.182.190.110
 vc-cs.cv.		28800	IN	A	52.215.11.135
 vc-cs.cv.		28800	IN	A	199.73.55.49
+vc-cs.cv.		28800	IN	NS	ns3.whmwebhosting.com.
+vc-cs.cv.		28800	IN	NS	ns4.whmwebhosting.com.
 vcv.cv.			28800	IN	A	94.46.14.249
 vcv.cv.			28800	IN	A	94.46.14.250
 vcv.cv.			28800	IN	A	130.185.80.200
@@ -8991,11 +8995,11 @@ web.cv.			28800	IN	NS	ns1-vh.tagadab.com.
 web.cv.			28800	IN	NS	ns2-vh.tagadab.com.
 web3.cv.		28800	IN	NS	ns1.alidns.com.
 web3.cv.		28800	IN	NS	ns2.alidns.com.
-webdesign.cv.		28800	IN	NS	ns1.cogenttec.com.
-webdesign.cv.		28800	IN	NS	ns2.cogenttec.com.
 webdesign.cv.		28800	IN	AAAA	2a02:c205:0:891::1
 webdesign.cv.		28800	IN	A	5.189.191.29
 webdesign.cv.		28800	IN	A	79.143.182.242
+webdesign.cv.		28800	IN	NS	ns1.cogenttec.com.
+webdesign.cv.		28800	IN	NS	ns2.cogenttec.com.
 webfood.cv.		28800	IN	NS	ns1.contabo.net.
 webfood.cv.		28800	IN	NS	ns2.contabo.net.
 webfood.cv.		28800	IN	NS	ns3.contabo.net.
@@ -9102,4 +9106,4 @@ zonetech.cv.		28800	IN	NS	ns3.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns1.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns2.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns3.dnscpanel.com.
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2022122901 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023010301 86400 7200 2592000 300
