@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023011115 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023011117 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -1387,6 +1387,8 @@ dmw.gp.			86400	IN	NS	ns4.value-domain.com.
 dmw.gp.			86400	IN	NS	ns5.value-domain.com.
 dns.gp.			86400	IN	NS	ns1.geek.gp.
 dns.gp.			86400	IN	NS	ns2.geek.gp.
+dnssec.gp.		86400	IN	NS	dns5.cloudns.net.
+dnssec.gp.		86400	IN	NS	dns6.cloudns.net.
 doctor.gp.		86400	IN	NS	ns1.controldns.co.uk.
 doctor.gp.		86400	IN	NS	ns2.controldns.co.uk.
 doctors.gp.		86400	IN	NS	dns1.namecheaphosting.com.
@@ -5478,4 +5480,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023011115 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023011117 86400 7200 2592000 345600
