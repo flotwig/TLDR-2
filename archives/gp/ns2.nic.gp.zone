@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023012415 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023012416 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -592,12 +592,12 @@ batica.gp.		86400	IN	NS	ns101.ovh.net.
 batica.gp.		86400	IN	NS	dns101.ovh.net.
 bblou.gp.		86400	IN	NS	duke.ns.cloudflare.com.
 bblou.gp.		86400	IN	NS	zara.ns.cloudflare.com.
+bbva.gp.		86400	IN	NS	ns1.bbvaedge.com.
+bbva.gp.		86400	IN	NS	ns2.bbvaedge.com.
 bbva.gp.		86400	IN	NS	a3-66.akam.net.
 bbva.gp.		86400	IN	NS	a4-67.akam.net.
 bbva.gp.		86400	IN	NS	a6-64.akam.net.
-bbva.gp.		86400	IN	NS	a7-65.akam.net.
 bbva.gp.		86400	IN	NS	a1-166.akam.net.
-bbva.gp.		86400	IN	NS	a22-65.akam.net.
 bda.gp.			86400	IN	NS	ns15.ovh.net.
 bda.gp.			86400	IN	NS	dns15.ovh.net.
 bdswiss.gp.		86400	IN	NS	ns1.eurodns.com.
@@ -868,20 +868,20 @@ camaieu.gp.		86400	IN	NS	ns2.domainnetwork.se.
 camaieu.gp.		86400	IN	NS	ns3.domainnetwork.com.
 campanile.gp.		86400	IN	NS	dns1.cscdns.net.
 campanile.gp.		86400	IN	NS	dns2.cscdns.net.
-canal-connect.gp.	86400	IN	NS	ns2.observatoiredesmarques.fr.
-canal-connect.gp.	86400	IN	NS	ns3.nameshield.net.
-canal-connect.gp.	86400	IN	NS	obs.ns1.fr.
-canal-plus.gp.		86400	IN	NS	ns2.observatoiredesmarques.fr.
-canal-plus.gp.		86400	IN	NS	ns3.nameshield.net.
-canal-plus.gp.		86400	IN	NS	obs.ns1.fr.
+canal-connect.gp.	86400	IN	NS	nsa.perf1.fr.
+canal-connect.gp.	86400	IN	NS	nsb.perf1.com.
+canal-connect.gp.	86400	IN	NS	nsc.perf1.com.
+canal-plus.gp.		86400	IN	NS	nsa.perf1.fr.
+canal-plus.gp.		86400	IN	NS	nsb.perf1.com.
+canal-plus.gp.		86400	IN	NS	nsc.perf1.com.
 canalantilles.gp.	86400	IN	NS	ns1-gp.mediaserv.net.
 canalantilles.gp.	86400	IN	NS	ns1-mq.mediaserv.net.
-canalconnect.gp.	86400	IN	NS	ns2.observatoiredesmarques.fr.
-canalconnect.gp.	86400	IN	NS	ns3.nameshield.net.
-canalconnect.gp.	86400	IN	NS	obs.ns1.fr.
-canalplustelecom.gp.	86400	IN	NS	ns2.observatoiredesmarques.fr.
-canalplustelecom.gp.	86400	IN	NS	ns3.nameshield.net.
-canalplustelecom.gp.	86400	IN	NS	obs.ns1.fr.
+canalconnect.gp.	86400	IN	NS	nsa.perf1.fr.
+canalconnect.gp.	86400	IN	NS	nsb.perf1.com.
+canalconnect.gp.	86400	IN	NS	nsc.perf1.com.
+canalplustelecom.gp.	86400	IN	NS	nsa.perf1.fr.
+canalplustelecom.gp.	86400	IN	NS	nsb.perf1.com.
+canalplustelecom.gp.	86400	IN	NS	nsc.perf1.com.
 cannonhygiene.gp.	86400	IN	NS	dns1.comlaude-dns.com.
 cannonhygiene.gp.	86400	IN	NS	dns2.comlaude-dns.net.
 cannonhygiene.gp.	86400	IN	NS	dns3.comlaude-dns.co.uk.
@@ -899,12 +899,12 @@ capitalideas.gp.	86400	IN	NS	pdns153.ultradns.net.
 capitalideas.gp.	86400	IN	NS	pdns153.ultradns.org.
 car.gp.			86400	IN	NS	ns1.bodis.com.
 car.gp.			86400	IN	NS	ns2.bodis.com.
-caraibes-tv.gp.		86400	IN	NS	ns2.observatoiredesmarques.fr.
-caraibes-tv.gp.		86400	IN	NS	ns3.nameshield.net.
-caraibes-tv.gp.		86400	IN	NS	obs.ns1.fr.
-caraibestv.gp.		86400	IN	NS	ns2.observatoiredesmarques.fr.
-caraibestv.gp.		86400	IN	NS	ns3.nameshield.net.
-caraibestv.gp.		86400	IN	NS	obs.ns1.fr.
+caraibes-tv.gp.		86400	IN	NS	nsa.perf1.fr.
+caraibes-tv.gp.		86400	IN	NS	nsb.perf1.com.
+caraibes-tv.gp.		86400	IN	NS	nsc.perf1.com.
+caraibestv.gp.		86400	IN	NS	nsa.perf1.fr.
+caraibestv.gp.		86400	IN	NS	nsb.perf1.com.
+caraibestv.gp.		86400	IN	NS	nsc.perf1.com.
 carcom.gp.		86400	IN	NS	ns17.ovh.net.
 carcom.gp.		86400	IN	NS	dns17.ovh.net.
 care.gp.		86400	IN	NS	tia.ns.cloudflare.com.
@@ -4013,9 +4013,9 @@ pliss.gp.		86400	IN	NS	ns-153-c.gandi.net.
 pliss.gp.		86400	IN	NS	ns-183-a.gandi.net.
 plus500.gp.		86400	IN	NS	ns.rackspace.com.
 plus500.gp.		86400	IN	NS	ns2.rackspace.com.
-pluspourmonile.gp.	86400	IN	NS	ns2.observatoiredesmarques.fr.
-pluspourmonile.gp.	86400	IN	NS	ns3.nameshield.net.
-pluspourmonile.gp.	86400	IN	NS	obs.ns1.fr.
+pluspourmonile.gp.	86400	IN	NS	nsa.perf1.fr.
+pluspourmonile.gp.	86400	IN	NS	nsb.perf1.com.
+pluspourmonile.gp.	86400	IN	NS	nsc.perf1.com.
 pneudeal.gp.		86400	IN	NS	ns1.register.be.
 pneudeal.gp.		86400	IN	NS	ns2.register.be.
 pneumologue.gp.		86400	IN	NS	ns1.kinamo.be.
@@ -5036,12 +5036,12 @@ tudorwatch.gp.		86400	IN	NS	dns3.p02.nsone.net.
 tudorwatch.gp.		86400	IN	NS	dns4.p02.nsone.net.
 tv.gp.			86400	IN	NS	ns1.ikoula.fr.
 tv.gp.			86400	IN	NS	ns2.ikoula.fr.
-tv-caraibes.gp.		86400	IN	NS	ns2.observatoiredesmarques.fr.
-tv-caraibes.gp.		86400	IN	NS	ns3.nameshield.net.
-tv-caraibes.gp.		86400	IN	NS	obs.ns1.fr.
-tvcaraibes.gp.		86400	IN	NS	ns2.observatoiredesmarques.fr.
-tvcaraibes.gp.		86400	IN	NS	ns3.nameshield.net.
-tvcaraibes.gp.		86400	IN	NS	obs.ns1.fr.
+tv-caraibes.gp.		86400	IN	NS	nsa.perf1.fr.
+tv-caraibes.gp.		86400	IN	NS	nsb.perf1.com.
+tv-caraibes.gp.		86400	IN	NS	nsc.perf1.com.
+tvcaraibes.gp.		86400	IN	NS	nsa.perf1.fr.
+tvcaraibes.gp.		86400	IN	NS	nsb.perf1.com.
+tvcaraibes.gp.		86400	IN	NS	nsc.perf1.com.
 tw.gp.			86400	IN	NS	ns1.website.org.
 tw.gp.			86400	IN	NS	ns2.website.org.
 twdsaw.gp.		86400	IN	NS	170.ns1.above.com.
@@ -5493,4 +5493,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023012415 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023012416 86400 7200 2592000 345600
