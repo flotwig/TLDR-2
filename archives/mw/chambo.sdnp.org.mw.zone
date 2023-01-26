@@ -1,4 +1,4 @@
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1674583501 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1674749101 1800 600 604800 1800
 mw.			18000	IN	NS	mw-e.ns.nic.cz.
 mw.			18000	IN	NS	pch1.nic.mw.
 mw.			18000	IN	NS	chambo.sdnp.org.mw.
@@ -123,8 +123,6 @@ mw.			18000	IN	NS	ns4.apnic.net.
 9.mw.			18000	IN	NS	ns1.netim.net.
 9.mw.			18000	IN	NS	ns2.netim.net.
 9.mw.			18000	IN	NS	ns3.netim.net.
-90.mw.			18000	IN	NS	mckenzie.ns.cloudflare.com.
-90.mw.			18000	IN	NS	rene.ns.cloudflare.com.
 99.mw.			18000	IN	NS	hunts.ns.cloudflare.com.
 99.mw.			18000	IN	NS	jill.ns.cloudflare.com.
 a.mw.			18000	IN	NS	ns1.mailart.com.
@@ -223,6 +221,8 @@ aircharterservice.mw.	18000	IN	NS	ns1.instradns.com.
 aircharterservice.mw.	18000	IN	NS	ns2.instradns.com.
 airtel.mw.		18000	IN	NS	arnold.ns.cloudflare.com.
 airtel.mw.		18000	IN	NS	reza.ns.cloudflare.com.
+airtelmoney.mw.		18000	IN	NS	arnold.ns.cloudflare.com.
+airtelmoney.mw.		18000	IN	NS	reza.ns.cloudflare.com.
 ais.mw.			18000	IN	NS	ns1.industrialimagination.com.
 ais.mw.			18000	IN	NS	ns2.industrialimagination.com.
 aisl.mw.		18000	IN	NS	ns1.bdsmw.com.
@@ -479,11 +479,11 @@ bbonline.mw.		18000	IN	NS	ns2.bb-online.org.
 bbonline.mw.		18000	IN	NS	ns3.bb-online.info.
 bbonline.mw.		18000	IN	NS	ns4.bb-online.biz.
 bbva.mw.		18000	IN	NS	a1-166.akam.net.
-bbva.mw.		18000	IN	NS	a22-65.akam.net.
 bbva.mw.		18000	IN	NS	a3-66.akam.net.
 bbva.mw.		18000	IN	NS	a4-67.akam.net.
 bbva.mw.		18000	IN	NS	a6-64.akam.net.
-bbva.mw.		18000	IN	NS	a7-65.akam.net.
+bbva.mw.		18000	IN	NS	ns1.bbvaedge.com.
+bbva.mw.		18000	IN	NS	ns2.bbvaedge.com.
 bcdtravel.mw.		18000	IN	NS	dns1.cscdns.net.
 bcdtravel.mw.		18000	IN	NS	dns2.cscdns.net.
 bdswiss.mw.		18000	IN	NS	ns1.eurodns.com.
@@ -581,8 +581,6 @@ birkenstock.mw.		18000	IN	NS	a.ns14.net.
 birkenstock.mw.		18000	IN	NS	b.ns14.net.
 birkenstock.mw.		18000	IN	NS	c.ns14.net.
 birkenstock.mw.		18000	IN	NS	d.ns14.net.
-bitcoin.mw.		18000	IN	NS	cash.ns.cloudflare.com.
-bitcoin.mw.		18000	IN	NS	nelly.ns.cloudflare.com.
 bitpanda.mw.		18000	IN	NS	ns-134-c.gandi.net.
 bitpanda.mw.		18000	IN	NS	ns-188-a.gandi.net.
 bitpanda.mw.		18000	IN	NS	ns-224-b.gandi.net.
@@ -1039,10 +1037,6 @@ ctech.mw.		18000	IN	NS	ns1.cloud-35538c.managed-vps.net.
 ctech.mw.		18000	IN	NS	ns2.cloud-35538c.managed-vps.net.
 cumo.mw.		18000	IN	NS	ns1.cloud-35538c.managed-vps.net.
 cumo.mw.		18000	IN	NS	ns2.cloud-35538c.managed-vps.net.
-curehospital.mw.	18000	IN	NS	ns1.dnsimple.com.
-curehospital.mw.	18000	IN	NS	ns2.dnsimple.com.
-curehospital.mw.	18000	IN	NS	ns3.dnsimple.com.
-curehospital.mw.	18000	IN	NS	ns4.dnsimple.com.
 cybersource.mw.		18000	IN	NS	ns1.dnsvisa.com.
 cybersource.mw.		18000	IN	NS	ns2.dnsvisa.com.
 cybersource.mw.		18000	IN	NS	ns3.dnsvisa.com.
@@ -2251,10 +2245,12 @@ kitchenaid.mw.		18000	IN	NS	ns1e.whirlpool.com.
 kitchenaid.mw.		18000	IN	NS	ns2e.whirlpool.com.
 kliktsi.mw.		18000	IN	NS	ruben.ns.cloudflare.com.
 kliktsi.mw.		18000	IN	NS	savanna.ns.cloudflare.com.
-klm.mw.			18000	IN	NS	ns2.kpn.net.
-klm.mw.			18000	IN	NS	ns4.kpn.net.
-klm.mw.			18000	IN	NS	ns.klm.nl.
-klm.mw.			18000	IN	NS	nss.klm.nl.
+klm.mw.			18000	IN	NS	a1-101.akam.net.
+klm.mw.			18000	IN	NS	a20-65.akam.net.
+klm.mw.			18000	IN	NS	a22-66.akam.net.
+klm.mw.			18000	IN	NS	a3-64.akam.net.
+klm.mw.			18000	IN	NS	a4-65.akam.net.
+klm.mw.			18000	IN	NS	a9-67.akam.net.
 knight-frank.mw.	18000	IN	NS	ns1.netnames.net.
 knight-frank.mw.	18000	IN	NS	ns2.netnames.net.
 knightfrank.mw.		18000	IN	NS	ns1.netnames.net.
@@ -2916,6 +2912,8 @@ mwcert.mw.		18000	IN	NS	ns3.bdsmw.com.
 mwcert.mw.		18000	IN	NS	ns4.bdsmw.com.
 mweiti.mw.		18000	IN	NS	domwe.sdn.mw.
 mweiti.mw.		18000	IN	NS	nyala.sdnp.org.mw.
+my.mw.			18000	IN	NS	ns1.101domain.com.
+my.mw.			18000	IN	NS	ns2.101domain.com.
 mybucksbanking.mw.	18000	IN	NS	proxy2.africa-online.net.
 mybucksbanking.mw.	18000	IN	NS	proxy3.africa-online.net.
 mydar.mw.		18000	IN	NS	ns73.domaincontrol.com.
@@ -4558,4 +4556,4 @@ zurich.mw.		18000	IN	NS	dns1.cscdns.net.
 zurich.mw.		18000	IN	NS	dns2.cscdns.net.
 zutari.mw.		18000	IN	NS	dns1.cscdns.net.
 zutari.mw.		18000	IN	NS	dns2.cscdns.net.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1674583501 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1674749101 1800 600 604800 1800
