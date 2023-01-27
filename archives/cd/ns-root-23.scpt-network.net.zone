@@ -1,5 +1,5 @@
-cd.			86400	IN	SOA	pch.nic.cd. noc.nic.cd. 2023012706 3600 600 1209600 3600
-cd.			86400	IN	TXT	"Generation Time: 1674799653"
+cd.			86400	IN	SOA	pch.nic.cd. noc.nic.cd. 2023012712 3600 600 1209600 3600
+cd.			86400	IN	TXT	"Generation Time: 1674821622"
 cd.			86400	IN	NS	pch.nic.cd.
 cd.			86400	IN	NS	gransy-anycast1.nic.cd.
 cd.			86400	IN	NS	gransy-anycast2.nic.cd.
@@ -127,6 +127,8 @@ cd.			86400	IN	NS	gransy-anycast2.nic.cd.
 2.cd.			86400	IN	NS	ns-696.awsdns-23.net.
 2.cd.			86400	IN	NS	ns-1412.awsdns-48.org.
 2.cd.			86400	IN	NS	ns-1889.awsdns-44.co.uk.
+2023.cd.		86400	IN	NS	ns106.ovh.net.
+2023.cd.		86400	IN	NS	dns106.ovh.net.
 2222.cd.		86400	IN	NS	f1g1ns1.dnspod.net.
 2222.cd.		86400	IN	NS	f1g1ns2.dnspod.net.
 22bet.cd.		86400	IN	NS	ns1.instradns.com.
@@ -416,7 +418,7 @@ abnamro.cd.		86400	IN	NS	g4.nstld.com.
 abnamro.cd.		86400	IN	NS	l4.nstld.com.
 absolut.cd.		86400	IN	NS	dns1.cscdns.net.
 absolut.cd.		86400	IN	NS	dns2.cscdns.net.
-ac.cd.			86400	IN	TXT	"Generation Time: 1674799654"
+ac.cd.			86400	IN	TXT	"Generation Time: 1674821624"
 abil.ac.cd.		86400	IN	NS	ns1.panelboxmanager.com.
 abil.ac.cd.		86400	IN	NS	ns2.panelboxmanager.com.
 angazainstitute.ac.cd.	86400	IN	NS	cpanel11.lws-hosting.com.
@@ -2846,39 +2848,40 @@ camrose.cd.		86400	IN	NS	mustard.ecoweb.co.za.
 camrose.cd.		86400	IN	NS	nitrogen.ecoweb.co.za.
 canafrica.cd.		86400	IN	NS	ns.ipsystems.cd.
 canafrica.cd.		86400	IN	NS	dns.ipsystems.cd.
-canal-plus.cd.		86400	IN	NS	ns2.observatoiredesmarques.fr.
-canal-plus.cd.		86400	IN	NS	ns3.nameshield.net.
-canal-plus-advertising.cd. 86400 IN	NS	ns2.observatoiredesmarques.fr.
-canal-plus-advertising.cd. 86400 IN	NS	ns3.nameshield.net.
-canal-plus-advertising.cd. 86400 IN	NS	obs.ns1.fr.
-canal-plus-advertising-africa.cd. 86400	IN NS	ns2.observatoiredesmarques.fr.
-canal-plus-advertising-africa.cd. 86400	IN NS	ns3.nameshield.net.
-canal-plus-advertising-africa.cd. 86400	IN NS	obs.ns1.fr.
-canalbox.cd.		86400	IN	NS	ns2.observatoiredesmarques.fr.
-canalbox.cd.		86400	IN	NS	ns3.nameshield.net.
-canalbox.cd.		86400	IN	NS	obs.ns1.fr.
-canalboxbusiness.cd.	86400	IN	NS	ns2.observatoiredesmarques.fr.
-canalboxbusiness.cd.	86400	IN	NS	ns3.nameshield.net.
-canalboxbusiness.cd.	86400	IN	NS	obs.ns1.fr.
+canal-plus.cd.		86400	IN	NS	nsa.perf1.fr.
+canal-plus.cd.		86400	IN	NS	nsb.perf1.com.
+canal-plus.cd.		86400	IN	NS	nsc.perf1.com.
+canal-plus-advertising.cd. 86400 IN	NS	nsa.perf1.fr.
+canal-plus-advertising.cd. 86400 IN	NS	nsb.perf1.com.
+canal-plus-advertising.cd. 86400 IN	NS	nsc.perf1.com.
+canal-plus-advertising-africa.cd. 86400	IN NS	nsa.perf1.fr.
+canal-plus-advertising-africa.cd. 86400	IN NS	nsb.perf1.com.
+canal-plus-advertising-africa.cd. 86400	IN NS	nsc.perf1.com.
+canalbox.cd.		86400	IN	NS	nsa.perf1.fr.
+canalbox.cd.		86400	IN	NS	nsb.perf1.com.
+canalbox.cd.		86400	IN	NS	nsc.perf1.com.
+canalboxbusiness.cd.	86400	IN	NS	nsa.perf1.fr.
+canalboxbusiness.cd.	86400	IN	NS	nsb.perf1.com.
+canalboxbusiness.cd.	86400	IN	NS	nsc.perf1.com.
 canalfuturtv.cd.	86400	IN	NS	ns1.7sur7.cd.
 canalfuturtv.cd.	86400	IN	NS	ns2.7sur7.cd.
-canalplus.cd.		86400	IN	NS	ns2.observatoiredesmarques.fr.
-canalplus.cd.		86400	IN	NS	ns3.nameshield.net.
-canalplus.cd.		86400	IN	NS	obs.ns1.fr.
-canalplus-afrique.cd.	86400	IN	NS	ns2.observatoiredesmarques.fr.
-canalplus-afrique.cd.	86400	IN	NS	ns3.nameshield.net.
-canalplus-afrique.cd.	86400	IN	NS	obs.ns1.fr.
-canalplus-university.cd. 86400	IN	NS	ns2.observatoiredesmarques.fr.
-canalplus-university.cd. 86400	IN	NS	ns3.nameshield.net.
-canalplus-university.cd. 86400	IN	NS	obs.ns1.fr.
+canalplus.cd.		86400	IN	NS	nsa.perf1.fr.
+canalplus.cd.		86400	IN	NS	nsb.perf1.com.
+canalplus.cd.		86400	IN	NS	nsc.perf1.com.
+canalplus-afrique.cd.	86400	IN	NS	nsa.perf1.fr.
+canalplus-afrique.cd.	86400	IN	NS	nsb.perf1.com.
+canalplus-afrique.cd.	86400	IN	NS	nsc.perf1.com.
+canalplus-university.cd. 86400	IN	NS	nsa.perf1.fr.
+canalplus-university.cd. 86400	IN	NS	nsb.perf1.com.
+canalplus-university.cd. 86400	IN	NS	nsc.perf1.com.
 canalplusadvertising.cd. 86400	IN	NS	ns1.mongwd.com.
 canalplusadvertising.cd. 86400	IN	NS	ns2.mongwd.com.
-canalplusadvertisingafrica.cd. 86400 IN	NS	ns2.observatoiredesmarques.fr.
-canalplusadvertisingafrica.cd. 86400 IN	NS	ns3.nameshield.net.
-canalplusadvertisingafrica.cd. 86400 IN	NS	obs.ns1.fr.
-canalplusuniversity.cd.	86400	IN	NS	ns2.observatoiredesmarques.fr.
-canalplusuniversity.cd.	86400	IN	NS	ns3.nameshield.net.
-canalplusuniversity.cd.	86400	IN	NS	obs.ns1.fr.
+canalplusadvertisingafrica.cd. 86400 IN	NS	nsa.perf1.fr.
+canalplusadvertisingafrica.cd. 86400 IN	NS	nsb.perf1.com.
+canalplusadvertisingafrica.cd. 86400 IN	NS	nsc.perf1.com.
+canalplusuniversity.cd.	86400	IN	NS	nsa.perf1.fr.
+canalplusuniversity.cd.	86400	IN	NS	nsb.perf1.com.
+canalplusuniversity.cd.	86400	IN	NS	nsc.perf1.com.
 canalsante.cd.		86400	IN	NS	ns1.dns-parking.com.
 canalsante.cd.		86400	IN	NS	ns2.dns-parking.com.
 canalsat.cd.		86400	IN	NS	ns2.observatoiredesmarques.fr.
@@ -3651,7 +3654,7 @@ colruyt-export.cd.	86400	IN	NS	ajay.ns.cloudflare.com.
 colruyt-export.cd.	86400	IN	NS	arch.ns.cloudflare.com.
 coltanvalley.cd.	86400	IN	NS	ns1.mypandos.com.
 coltanvalley.cd.	86400	IN	NS	ns2.mypandos.com.
-com.cd.			86400	IN	TXT	"Generation Time: 1674799654"
+com.cd.			86400	IN	TXT	"Generation Time: 1674821624"
 14trees.com.cd.		86400	IN	NS	ns01ch.holcim.com.
 14trees.com.cd.		86400	IN	NS	ns01us.holcim.com.
 14trees.com.cd.		86400	IN	NS	ns02ch.holcim.com.
@@ -4530,10 +4533,8 @@ deloitte.cd.		86400	IN	NS	dns1.deloitte.cd.
 dns1.deloitte.cd.	86400	IN	A	193.221.117.200
 delphservice.cd.	86400	IN	NS	ns1.panelboxmanager.com.
 delphservice.cd.	86400	IN	NS	ns2.panelboxmanager.com.
-deltaprotection.cd.	86400	IN	NS	ns1.doracreation.com.
-deltaprotection.cd.	86400	IN	NS	ns2.doracreation.com.
-deltaprotection.cd.	86400	IN	NS	ns367.websitewelcom.com.
-deltaprotection.cd.	86400	IN	NS	ns368.websitewelcom.com.
+deltaprotection.cd.	86400	IN	NS	ns8035.hostgator.com.
+deltaprotection.cd.	86400	IN	NS	ns8036.hostgator.com.
 deltech.cd.		86400	IN	NS	ns.ipsystems.cd.
 deltech.cd.		86400	IN	NS	dns.ipsystems.cd.
 deluxe.cd.		86400	IN	NS	ajay.ns.cloudflare.com.
@@ -5263,7 +5264,7 @@ edtech-243.cd.		86400	IN	NS	cp1.dnshostservices.com.
 edtech-243.cd.		86400	IN	NS	cp2.dnshostservices.com.
 edtech243.cd.		86400	IN	NS	cp1.dnshostservices.com.
 edtech243.cd.		86400	IN	NS	cp2.dnshostservices.com.
-edu.cd.			86400	IN	TXT	"Generation Time: 1674799654"
+edu.cd.			86400	IN	TXT	"Generation Time: 1674821624"
 bnn.edu.cd.		86400	IN	NS	ns110.ovh.net.
 bnn.edu.cd.		86400	IN	NS	dns110.ovh.net.
 ecole.edu.cd.		86400	IN	NS	ns106.ovh.net.
@@ -6943,7 +6944,7 @@ gothere.cd.		86400	IN	NS	ajay.ns.cloudflare.com.
 gothere.cd.		86400	IN	NS	arch.ns.cloudflare.com.
 gourmandine.cd.		86400	IN	NS	ns1.uniteddns.net.
 gourmandine.cd.		86400	IN	NS	ns2.uniteddns.net.
-gouv.cd.		86400	IN	TXT	"Generation Time: 1674799656"
+gouv.cd.		86400	IN	TXT	"Generation Time: 1674821626"
 acorep.gouv.cd.		86400	IN	NS	ns1.acorep.gouv.cd.
 acorep.gouv.cd.		86400	IN	NS	ns2.acorep.gouv.cd.
 ns1.acorep.gouv.cd.	86400	IN	A	75.119.139.203
@@ -7276,7 +7277,7 @@ gouvtanganyika.cd.	86400	IN	NS	dns44.cloudns.net.
 gov.cd.			86400	IN	NS	ns-root-21.scpt-network.net.
 gov.cd.			86400	IN	NS	ns-root-22.scpt-network.net.
 gov.cd.			86400	IN	NS	ns-root-23.scpt-network.net.
-gov.cd.			86400	IN	TXT	"Generation Time: 1674799654"
+gov.cd.			86400	IN	TXT	"Generation Time: 1674821624"
 egov.gov.cd.		86400	IN	NS	ns1.scpt-network.cd.
 egov.gov.cd.		86400	IN	NS	ns2.scpt-network.cd.
 presidence.gov.cd.	86400	IN	NS	ns1.scpt-network.cd.
@@ -11665,7 +11666,7 @@ nesys.cd.		86400	IN	NS	ns1.m77.siteground.biz.
 nesys.cd.		86400	IN	NS	ns2.m77.siteground.biz.
 net.cd.			86400	IN	NS	ns-root-21.scpt-network.net.
 net.cd.			86400	IN	NS	ns-root-22.scpt-network.net.
-net.cd.			86400	IN	TXT	"Generation Time: 1674799655"
+net.cd.			86400	IN	TXT	"Generation Time: 1674821624"
 egov.net.cd.		86400	IN	NS	ns1.scpt-network.cd.
 egov.net.cd.		86400	IN	NS	ns2.scpt-network.cd.
 inter.net.cd.		86400	IN	NS	ns1.afraid.org.
@@ -12374,7 +12375,7 @@ ordredesinfirmiers.cd.	86400	IN	NS	ns1045.ui-dns.com.
 ordredesinfirmiers.cd.	86400	IN	NS	ns1045.ui-dns.org.
 orellig.cd.		86400	IN	NS	dns1.namecheaphosting.com.
 orellig.cd.		86400	IN	NS	dns2.namecheaphosting.com.
-org.cd.			86400	IN	TXT	"Generation Time: 1674799655"
+org.cd.			86400	IN	TXT	"Generation Time: 1674821624"
 csc.org.cd.		86400	IN	NS	ns1.4levels.net.
 csc.org.cd.		86400	IN	NS	ns2.4levels.net.
 egov.org.cd.		86400	IN	NS	ns1.scpt-network.cd.
@@ -17450,4 +17451,4 @@ zuri.cd.		86400	IN	NS	ns4.francedns.com.
 zuri.cd.		86400	IN	NS	ns5.francedns.com.
 zurich.cd.		86400	IN	NS	dns1.cscdns.net.
 zurich.cd.		86400	IN	NS	dns2.cscdns.net.
-cd.			86400	IN	SOA	pch.nic.cd. noc.nic.cd. 2023012706 3600 600 1209600 3600
+cd.			86400	IN	SOA	pch.nic.cd. noc.nic.cd. 2023012712 3600 600 1209600 3600
