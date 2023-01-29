@@ -29,8 +29,4 @@ jobs:
         git config --local user.name "TLDR Update GitHub Action"
         git add .
         git commit -m "Zonefile updates ($(date -u +"%x %H:%M"))" -a
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        ssh: true
-        branch: ${{ github.ref }}
+        git push
