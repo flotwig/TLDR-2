@@ -1,4 +1,4 @@
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023021601 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023022001 86400 7200 2592000 300
 cv.			28800	IN	NS	c.dns.pt.
 cv.			28800	IN	NS	ns.dns.cv.
 cv.			28800	IN	NS	anyc.dnsnode.net.
@@ -2112,6 +2112,11 @@ cvfire.com.cv.		28800	IN	NS	ns1.cvfire.com.cv.
 cvfire.com.cv.		28800	IN	NS	ns2.cvfire.com.cv.
 ns1.cvfire.com.cv.	28800	IN	A	94.46.167.34
 ns2.cvfire.com.cv.	28800	IN	A	94.46.167.34
+daveigaconstrucao.com.cv. 28800	IN	A	45.154.66.253
+daveigaconstrucao.com.cv. 28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
+daveigaconstrucao.com.cv. 28800	IN	NS	ns1.wtservers.com.
+daveigaconstrucao.com.cv. 28800	IN	NS	ns2.wtservers.com.
+daveigaconstrucao.com.cv. 28800	IN	NS	ns3.wtservers.com.
 davidhopfferalmada.com.cv. 28800 IN	NS	ns7.securenet-server.net.
 davidhopfferalmada.com.cv. 28800 IN	NS	ns8.securenet-server.net.
 decameron.com.cv.	28800	IN	NS	ns3.decameron.com.
@@ -2561,11 +2566,11 @@ nosmarka.com.cv.	28800	IN	NS	ns2.cvtelecom.cv.
 nport.com.cv.		28800	IN	NS	NS1.101DOMAIN.COM.
 nport.com.cv.		28800	IN	NS	NS2.101DOMAIN.COM.
 nport.com.cv.		28800	IN	NS	NS5.101DOMAIN.COM.
-nrg4.com.cv.		28800	IN	AAAA	2604:9a00:2100:a001:2::1
 nrg4.com.cv.		28800	IN	A	85.159.233.17
 nrg4.com.cv.		28800	IN	NS	ns01.trademarkarea.com.
 nrg4.com.cv.		28800	IN	NS	ns02.trademarkarea.com.
 nrg4.com.cv.		28800	IN	NS	ns03.trademarkarea.com.
+nrg4.com.cv.		28800	IN	AAAA	2604:9a00:2100:a001:2::1
 nubai.com.cv.		28800	IN	NS	ns1.cloudns.net.
 nubai.com.cv.		28800	IN	NS	ns2.cloudns.net.
 nubai.com.cv.		28800	IN	NS	ns3.cloudns.net.
@@ -7326,16 +7331,16 @@ asemana.publ.cv.	28800	IN	AAAA	2a01:68:100:1::2
 asemana.publ.cv.	28800	IN	A	91.121.162.16
 asemana.publ.cv.	28800	IN	NS	ns1.efedus.com.
 asemana.publ.cv.	28800	IN	NS	ns2.efedus.com.
-expressodasilhas.publ.cv. 28800	IN	NS	ns1.linode.com.
-expressodasilhas.publ.cv. 28800	IN	NS	ns2.linode.com.
-expressodasilhas.publ.cv. 28800	IN	NS	ns3.linode.com.
-expressodasilhas.publ.cv. 28800	IN	NS	ns4.linode.com.
-expressodasilhas.publ.cv. 28800	IN	NS	ns5.linode.com.
 expressodasilhas.publ.cv. 28800	IN	AAAA	2400:cb00:2049:1::a29f:1819
 expressodasilhas.publ.cv. 28800	IN	AAAA	2400:cb00:2049:1::a29f:1827
 expressodasilhas.publ.cv. 28800	IN	AAAA	2400:cb00:2049:1::a29f:1981
 expressodasilhas.publ.cv. 28800	IN	AAAA	2400:cb00:2049:1::a29f:1a63
 expressodasilhas.publ.cv. 28800	IN	AAAA	2400:cb00:2049:1::a29f:1b48
+expressodasilhas.publ.cv. 28800	IN	NS	ns1.linode.com.
+expressodasilhas.publ.cv. 28800	IN	NS	ns2.linode.com.
+expressodasilhas.publ.cv. 28800	IN	NS	ns3.linode.com.
+expressodasilhas.publ.cv. 28800	IN	NS	ns4.linode.com.
+expressodasilhas.publ.cv. 28800	IN	NS	ns5.linode.com.
 inforpress.publ.cv.	28800	IN	NS	ns1.gov.cv.
 inforpress.publ.cv.	28800	IN	NS	ns2.gov.cv.
 noticiasdonorte.publ.cv. 28800	IN	NS	ns1.mediatemple.net.
@@ -8225,10 +8230,10 @@ solatlantico.cv.	28800	IN	NS	ns1.mydnspt.net.
 solatlantico.cv.	28800	IN	NS	ns2.mydnspt.net.
 solatlantico.cv.	28800	IN	NS	ns7.mydnspt.net.
 solatlantico.cv.	28800	IN	NS	ns8.mydnspt.net.
-soldout.cv.		28800	IN	NS	ns1.soldout.cv.
-soldout.cv.		28800	IN	NS	ns2.soldout.cv.
-ns1.soldout.cv.		28800	IN	A	162.240.218.28
-ns2.soldout.cv.		28800	IN	A	162.240.218.28
+soldout.cv.		28800	IN	NS	ns-168.awsdns-21.com.
+soldout.cv.		28800	IN	NS	ns-1007.awsdns-61.net.
+soldout.cv.		28800	IN	NS	ns-1488.awsdns-58.org.
+soldout.cv.		28800	IN	NS	ns-1600.awsdns-08.co.uk.
 soleio.cv.		28800	IN	NS	ns01.trademarkarea.com.
 soleio.cv.		28800	IN	NS	ns02.trademarkarea.com.
 soleio.cv.		28800	IN	NS	ns03.trademarkarea.com.
@@ -9289,4 +9294,4 @@ zonetech.cv.		28800	IN	NS	ns3.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns1.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns2.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns3.dnscpanel.com.
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023021601 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023022001 86400 7200 2592000 300
