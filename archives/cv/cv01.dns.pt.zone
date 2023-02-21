@@ -1,4 +1,4 @@
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023022001 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023022101 86400 7200 2592000 300
 cv.			28800	IN	NS	c.dns.pt.
 cv.			28800	IN	NS	ns.dns.cv.
 cv.			28800	IN	NS	anyc.dnsnode.net.
@@ -2566,11 +2566,11 @@ nosmarka.com.cv.	28800	IN	NS	ns2.cvtelecom.cv.
 nport.com.cv.		28800	IN	NS	NS1.101DOMAIN.COM.
 nport.com.cv.		28800	IN	NS	NS2.101DOMAIN.COM.
 nport.com.cv.		28800	IN	NS	NS5.101DOMAIN.COM.
-nrg4.com.cv.		28800	IN	A	85.159.233.17
 nrg4.com.cv.		28800	IN	NS	ns01.trademarkarea.com.
 nrg4.com.cv.		28800	IN	NS	ns02.trademarkarea.com.
 nrg4.com.cv.		28800	IN	NS	ns03.trademarkarea.com.
 nrg4.com.cv.		28800	IN	AAAA	2604:9a00:2100:a001:2::1
+nrg4.com.cv.		28800	IN	A	85.159.233.17
 nubai.com.cv.		28800	IN	NS	ns1.cloudns.net.
 nubai.com.cv.		28800	IN	NS	ns2.cloudns.net.
 nubai.com.cv.		28800	IN	NS	ns3.cloudns.net.
@@ -3829,6 +3829,8 @@ ejuma.cv.		28800	IN	NS	ns02.trademarkarea.com.
 ejuma.cv.		28800	IN	NS	ns03.trademarkarea.com.
 ekieko.cv.		28800	IN	NS	ns3.bravehost.com.
 ekieko.cv.		28800	IN	NS	ns4.bravehost.com.
+ekotravel.cv.		28800	IN	NS	ns1.bluehost.com.
+ekotravel.cv.		28800	IN	NS	ns2.bluehost.com.
 elcar.cv.		28800	IN	NS	ns1.weblx-0.net.
 elcar.cv.		28800	IN	NS	ns2.weblx-0.net.
 electra.cv.		28800	IN	NS	ns.jcle.pt.
@@ -5811,10 +5813,10 @@ mansainstitute.cv.	28800	IN	NS	ns1.mydnspt.net.
 mansainstitute.cv.	28800	IN	NS	ns2.mydnspt.net.
 mansainstitute.cv.	28800	IN	NS	ns7.mydnspt.net.
 mansainstitute.cv.	28800	IN	NS	ns8.mydnspt.net.
-mantadivingcenter.cv.	28800	IN	NS	dns1.rede1024.com.
-mantadivingcenter.cv.	28800	IN	NS	dns2.rede1024.com.
-mantadivingcenter.cv.	28800	IN	NS	dns3.rede1024.com.
-mantadivingcenter.cv.	28800	IN	NS	dns4.rede1024.com.
+mantadivingcenter.cv.	86400	IN	NS	dns1.rede1024.com.
+mantadivingcenter.cv.	86400	IN	NS	dns2.rede1024.com.
+mantadivingcenter.cv.	86400	IN	NS	dns3.rede1024.com.
+mantadivingcenter.cv.	86400	IN	NS	dns4.rede1024.com.
 mantec.cv.		28800	IN	NS	ns1.hostkriolo.biz.
 mantec.cv.		28800	IN	NS	ns2.hostkriolo.biz.
 mantec.cv.		28800	IN	NS	ns3.hostkriolo.biz.
@@ -5983,12 +5985,12 @@ metalluz.cv.		28800	IN	NS	ns1.fastdomain.com.
 metalluz.cv.		28800	IN	NS	ns2.fastdomain.com.
 metalo.cv.		28800	IN	NS	ns1.dnsurano.com.
 metalo.cv.		28800	IN	NS	ns2.dnsurano.com.
-metaverse.cv.		28800	IN	A	3.120.163.96
-metaverse.cv.		28800	IN	A	3.126.142.17
 metaverse.cv.		28800	IN	AAAA	2a05:d018:61d:d810:2d57:a1a6:f2c2:26ef
 metaverse.cv.		28800	IN	NS	ns1.dan.com.
 metaverse.cv.		28800	IN	NS	ns2.dan.com.
 metaverse.cv.		28800	IN	NS	verification-ucaxeb17.ns3.dan.hosting.
+metaverse.cv.		28800	IN	A	3.120.163.96
+metaverse.cv.		28800	IN	A	3.126.142.17
 meteo.cv.		28800	IN	NS	ns1.gov.cv.
 meteo.cv.		28800	IN	NS	ns2.gov.cv.
 metrika.cv.		28800	IN	NS	ns1.inmotionhosting.com.
@@ -6461,11 +6463,11 @@ novatur.cv.		28800	IN	NS	ns2.inmotionhosting.com.
 novgest.cv.		28800	IN	NS	ns1.nosiwebhosting.com.
 novgest.cv.		28800	IN	NS	ns2.nosiwebhosting.com.
 novgest.cv.		28800	IN	NS	ns3.nosiwebhosting.com.
+novobanco.cv.		28800	IN	NS	ns.cvtelecom.cv.
+novobanco.cv.		28800	IN	NS	ns2.cvtelecom.cv.
 novobanco.cv.		28800	IN	AAAA	2620:115:c00f::c000:4a09
 novobanco.cv.		28800	IN	AAAA	2a04:fa87:ffff::c6b5:7409
 novobanco.cv.		28800	IN	AAAA	2a04:fa87:ffff::c6b5:7509
-novobanco.cv.		28800	IN	NS	ns.cvtelecom.cv.
-novobanco.cv.		28800	IN	NS	ns2.cvtelecom.cv.
 nsh.cv.			28800	IN	NS	ns1.wordpress.com.
 nsh.cv.			28800	IN	NS	ns2.wordpress.com.
 nsh.cv.			28800	IN	NS	ns3.wordpress.com.
@@ -7356,10 +7358,10 @@ puntodincontro.cv.	28800	IN	NS	ns3.webhs.org.
 puragua.cv.		28800	IN	NS	ns1.dnscpanel.com.
 puragua.cv.		28800	IN	NS	ns2.dnscpanel.com.
 puragua.cv.		28800	IN	NS	ns3.dnscpanel.com.
-purobra.cv.		28800	IN	NS	ns1.hostingmz.com.
-purobra.cv.		28800	IN	NS	ns2.hostingmz.com.
 purobra.cv.		28800	IN	A	88.99.214.5
 purobra.cv.		28800	IN	A	88.99.214.49
+purobra.cv.		28800	IN	NS	ns1.hostingmz.com.
+purobra.cv.		28800	IN	NS	ns2.hostingmz.com.
 qbusiness.cv.		28800	IN	NS	ns1.gn2.hocnet.pt.
 qbusiness.cv.		28800	IN	NS	ns2.gn2.hocnet.pt.
 qualinertes.cv.		28800	IN	NS	ns1.bh-74.webhostbox.net.
@@ -8123,12 +8125,12 @@ sitech.cv.		28800	IN	NS	ns1.sitechcv.com.
 sitech.cv.		28800	IN	NS	ns2.sitechcv.com.
 sitech.cv.		28800	IN	NS	ns3.sitechcv.com.
 sitech.cv.		28800	IN	NS	ns4.sitechcv.com.
-skinalda.cv.		28800	IN	NS	ns1.nosiwebhosting.com.
-skinalda.cv.		28800	IN	NS	ns2.nosiwebhosting.com.
-skinalda.cv.		28800	IN	NS	ns3.nosiwebhosting.com.
 skinalda.cv.		28800	IN	AAAA	2620:115:c00f::c000:4a09
 skinalda.cv.		28800	IN	AAAA	2a04:fa87:ffff::c6b5:7409
 skinalda.cv.		28800	IN	AAAA	2a04:fa87:ffff::c6b5:7509
+skinalda.cv.		28800	IN	NS	ns1.nosiwebhosting.com.
+skinalda.cv.		28800	IN	NS	ns2.nosiwebhosting.com.
+skinalda.cv.		28800	IN	NS	ns3.nosiwebhosting.com.
 skribi.cv.		28800	IN	NS	ns1.wordpress.COM.
 skribi.cv.		28800	IN	NS	ns2.wordpress.COM.
 skribi.cv.		28800	IN	NS	ns3.wordpress.COM.
@@ -9027,11 +9029,11 @@ verdeana.cv.		28800	IN	NS	ns103.cloudns.net.
 verdeana.cv.		28800	IN	NS	ns104.cloudns.net.
 verdeeverde.cv.		28800	IN	NS	ns1.dns-parking.com.
 verdeeverde.cv.		28800	IN	NS	ns2.dns-parking.com.
-verdefam.cv.		28800	IN	NS	ns7.securenet-server.net.
-verdefam.cv.		28800	IN	NS	ns8.securenet-server.net.
 verdefam.cv.		28800	IN	AAAA	2a02:c200:0:10::891:1
 verdefam.cv.		28800	IN	A	5.189.191.29
 verdefam.cv.		28800	IN	A	79.143.182.242
+verdefam.cv.		28800	IN	NS	ns7.securenet-server.net.
+verdefam.cv.		28800	IN	NS	ns8.securenet-server.net.
 verdelines.cv.		28800	IN	NS	ns1.contabo.net.
 verdelines.cv.		28800	IN	NS	ns2.contabo.net.
 verdelines.cv.		28800	IN	NS	ns3.contabo.net.
@@ -9294,4 +9296,4 @@ zonetech.cv.		28800	IN	NS	ns3.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns1.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns2.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns3.dnscpanel.com.
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023022001 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023022101 86400 7200 2592000 300
