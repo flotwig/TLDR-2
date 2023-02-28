@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023022816 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023022823 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -264,7 +264,10 @@ aig.gp.			86400	IN	NS	ns4012.mochahost.com.
 aipr.gp.		86400	IN	NS	ns1.francedns.com.
 aipr.gp.		86400	IN	NS	ns2.francedns.com.
 aipr.gp.		86400	IN	NS	ns3.francedns.com.
-aircaraibe.gp.		86400	IN	NS	dns2.advences.com.
+aircaraibe.gp.		86400	IN	NS	dns5.cloudns.net.
+aircaraibe.gp.		86400	IN	NS	dns6.cloudns.net.
+aircaraibes.gp.		86400	IN	NS	dns5.cloudns.net.
+aircaraibes.gp.		86400	IN	NS	dns6.cloudns.net.
 airfrance.gp.		86400	IN	NS	ns0.airfrance.fr.
 airfrance.gp.		86400	IN	NS	a1-101.akam.net.
 airfrance.gp.		86400	IN	NS	a20-65.akam.net.
@@ -457,8 +460,6 @@ assistance.gp.		86400	IN	NS	dns111.ovh.net.
 assistanceplus.gp.	86400	IN	NS	ns1.netim.net.
 assistanceplus.gp.	86400	IN	NS	ns2.netim.net.
 assistanceplus.gp.	86400	IN	NS	ns3.netim.net.
-assistpc971.gp.		86400	IN	NS	ns1-gp.mediaserv.net.
-assistpc971.gp.		86400	IN	NS	ns1-mq.mediaserv.net.
 asso.gp.		86400	IN	NS	ns1.nic.gp.
 asso.gp.		86400	IN	NS	ns-gp.nic.fr.
 associations.gp.	86400	IN	NS	dns1.cloudns.net.
@@ -1581,8 +1582,6 @@ electric-plus.gp.	86400	IN	NS	ns106.ovh.net.
 electric-plus.gp.	86400	IN	NS	dns106.ovh.net.
 electrodepot.gp.	86400	IN	NS	a.ns.mailclub.fr.
 electrodepot.gp.	86400	IN	NS	b.ns.mailclub.eu.
-elitemodellook.gp.	86400	IN	NS	ns0.ordipat.fr.
-elitemodellook.gp.	86400	IN	NS	ns3.ordipat.fr.
 ellas-coffee.gp.	86400	IN	NS	ns1.netim.net.
 ellas-coffee.gp.	86400	IN	NS	ns2.netim.net.
 ellas-coffee.gp.	86400	IN	NS	ns3.netim.net.
@@ -2008,14 +2007,6 @@ gender.gp.		86400	IN	NS	ns1.namecity.com.
 gender.gp.		86400	IN	NS	ns2.namecity.com.
 gendigital.gp.		86400	IN	NS	ns1.markmonitor.com.
 gendigital.gp.		86400	IN	NS	ns2.markmonitor.com.
-generale-des-eaux.gp.	86400	IN	NS	ns1.iptwins.net.
-generale-des-eaux.gp.	86400	IN	NS	ns2.iptwins.net.
-generale-des-eaux.gp.	86400	IN	NS	ns3.iptwins.com.
-generale-des-eaux.gp.	86400	IN	NS	ns4.iptwins.com.
-generaledeseaux.gp.	86400	IN	NS	ns1.iptwins.net.
-generaledeseaux.gp.	86400	IN	NS	ns2.iptwins.net.
-generaledeseaux.gp.	86400	IN	NS	ns3.iptwins.com.
-generaledeseaux.gp.	86400	IN	NS	ns4.iptwins.com.
 generali.gp.		86400	IN	NS	ns4.ikoula.com.
 generali.gp.		86400	IN	NS	ns5.ikoula.com.
 geodiswilson.gp.	86400	IN	NS	ns1.geodiswilson.net.
@@ -2638,8 +2629,6 @@ jacobsdouweegberts.gp.	86400	IN	NS	ns3.iptwins.com.
 jacobsdouweegberts.gp.	86400	IN	NS	ns4.iptwins.com.
 jafa.gp.		86400	IN	NS	ns1.cloudns.net.
 jafa.gp.		86400	IN	NS	ns2.cloudns.net.
-jalymagroup.gp.		86400	IN	NS	ns105.ovh.net.
-jalymagroup.gp.		86400	IN	NS	dns105.ovh.net.
 jan.gp.			86400	IN	NS	frankfurt.pickel.cc.
 jan.gp.			86400	IN	NS	duesseldorf4.pickel.cc.
 jarry.gp.		86400	IN	NS	ns1.gandi.net.
@@ -3470,10 +3459,8 @@ mot-mobility.gp.	86400	IN	NS	ns2.mot.com.
 mot-mobility.gp.	86400	IN	NS	ns3.mot.com.
 mot-mobility.gp.	86400	IN	NS	ns4.mot.com.
 mot-mobility.gp.	86400	IN	NS	ns5.mot.com.
-moto.gp.		86400	IN	NS	ns2.he.net.
-moto.gp.		86400	IN	NS	ns3.he.net.
-moto.gp.		86400	IN	NS	ns4.he.net.
-moto.gp.		86400	IN	NS	ns5.he.net.
+moto.gp.		86400	IN	NS	dns5.cloudns.net.
+moto.gp.		86400	IN	NS	dns6.cloudns.net.
 motor.gp.		86400	IN	NS	dns1.cloudns.net.
 motor.gp.		86400	IN	NS	dns2.cloudns.net.
 motorola.gp.		86400	IN	NS	ns1.motorolamobility.com.
@@ -3875,9 +3862,6 @@ oropay.gp.		86400	IN	NS	nssui.comlaude.ch.
 oropay.gp.		86400	IN	NS	nsusa.comlaude.net.
 os.gp.			86400	IN	NS	ns1.kv.de.
 os.gp.			86400	IN	NS	ns2.kv.de.
-osca.gp.		86400	IN	NS	ns1.francedns.com.
-osca.gp.		86400	IN	NS	ns2.francedns.com.
-osca.gp.		86400	IN	NS	ns3.francedns.com.
 ose.gp.			86400	IN	NS	ns103.ovh.net.
 ose.gp.			86400	IN	NS	dns103.ovh.net.
 osram.gp.		86400	IN	NS	dns1.cscdns.net.
@@ -5524,8 +5508,6 @@ zouk.gp.		86400	IN	NS	ns1.ikoula.fr.
 zouk.gp.		86400	IN	NS	ns2.ikoula.fr.
 zouknewz.gp.		86400	IN	NS	ns1.ikoula.fr.
 zouknewz.gp.		86400	IN	NS	ns2.ikoula.fr.
-zucami.gp.		86400	IN	NS	dns33.servidoresdns.net.
-zucami.gp.		86400	IN	NS	dns34.servidoresdns.net.
 zuju.gp.		86400	IN	NS	ns1.sedoparking.com.
 zuju.gp.		86400	IN	NS	ns2.sedoparking.com.
 zurich.gp.		86400	IN	NS	ns.zurich.com.
@@ -5534,4 +5516,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023022816 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023022823 86400 7200 2592000 345600
