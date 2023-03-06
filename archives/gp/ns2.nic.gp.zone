@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023030400 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023030616 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -3454,8 +3454,10 @@ mot-mobility.gp.	86400	IN	NS	ns2.mot.com.
 mot-mobility.gp.	86400	IN	NS	ns3.mot.com.
 mot-mobility.gp.	86400	IN	NS	ns4.mot.com.
 mot-mobility.gp.	86400	IN	NS	ns5.mot.com.
-moto.gp.		86400	IN	NS	dns5.cloudns.net.
-moto.gp.		86400	IN	NS	dns6.cloudns.net.
+moto.gp.		86400	IN	NS	ns2.he.net.
+moto.gp.		86400	IN	NS	ns3.he.net.
+moto.gp.		86400	IN	NS	ns4.he.net.
+moto.gp.		86400	IN	NS	ns5.he.net.
 motor.gp.		86400	IN	NS	dns1.cloudns.net.
 motor.gp.		86400	IN	NS	dns2.cloudns.net.
 motorola.gp.		86400	IN	NS	ns1.motorolamobility.com.
@@ -4724,6 +4726,8 @@ ss.gp.			86400	IN	NS	ns1.bodis.com.
 ss.gp.			86400	IN	NS	ns2.bodis.com.
 stac.gp.		86400	IN	NS	ns16.ovh.net.
 stac.gp.		86400	IN	NS	dns16.ovh.net.
+stake.gp.		86400	IN	NS	ns1.gcorelabs.net.
+stake.gp.		86400	IN	NS	ns2.gcdn.services.
 starinvest.gp.		86400	IN	NS	ns14.ovh.net.
 starinvest.gp.		86400	IN	NS	dns14.ovh.net.
 starofservice.gp.	86400	IN	NS	ns-231.awsdns-28.com.
@@ -5511,4 +5515,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023030400 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023030616 86400 7200 2592000 345600
