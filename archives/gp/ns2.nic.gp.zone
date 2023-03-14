@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023031415 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023031423 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -149,6 +149,8 @@ gp.			86400	IN	NS	ns-gp.nic.fr.
 89.gp.			86400	IN	NS	ns2.dan.com.
 9.gp.			86400	IN	NS	ns1.bodis.com.
 9.gp.			86400	IN	NS	ns2.bodis.com.
+946.gp.			86400	IN	NS	ns1.ikoula.fr.
+946.gp.			86400	IN	NS	ns2.ikoula.fr.
 96.gp.			86400	IN	NS	ns1.dan.com.
 96.gp.			86400	IN	NS	ns2.dan.com.
 97.gp.			86400	IN	NS	ns1.dan.com.
@@ -379,8 +381,8 @@ anti-inflation.gp.	86400	IN	NS	ns1.bdmi.net.
 anti-inflation.gp.	86400	IN	NS	ns2.bdmi.net.
 antilles-b2b.gp.	86400	IN	NS	ns10.ovh.net.
 antilles-b2b.gp.	86400	IN	NS	dns10.ovh.net.
-antillesradio.gp.	86400	IN	NS	dns5.cloudns.net.
-antillesradio.gp.	86400	IN	NS	dns6.cloudns.net.
+antillesradio.gp.	86400	IN	NS	ns1.ikoula.fr.
+antillesradio.gp.	86400	IN	NS	ns2.ikoula.fr.
 api.gp.			86400	IN	NS	ns-54-c.gandi.net.
 api.gp.			86400	IN	NS	ns-195-b.gandi.net.
 api.gp.			86400	IN	NS	ns-204-a.gandi.net.
@@ -2532,15 +2534,15 @@ industry.gp.		86400	IN	NS	c.ns14.net.
 industry.gp.		86400	IN	NS	d.ns14.net.
 inf.gp.			86400	IN	NS	ns2.yesmail.com.
 inf.gp.			86400	IN	NS	ns3.yesmail.com.
-info.gp.		86400	IN	NS	dns5.cloudns.net.
-info.gp.		86400	IN	NS	dns6.cloudns.net.
+info.gp.		86400	IN	NS	ns1.ikoula.fr.
+info.gp.		86400	IN	NS	ns2.ikoula.fr.
 infoblox.gp.		86400	IN	NS	ns1.101domain.com.
 infoblox.gp.		86400	IN	NS	ns2.101domain.com.
 infoblox.gp.		86400	IN	NS	ns5.101domain.com.
 informatique.gp.	86400	IN	NS	ns1.ikoula.fr.
 informatique.gp.	86400	IN	NS	ns2.ikoula.fr.
-infos.gp.		86400	IN	NS	dns5.cloudns.net.
-infos.gp.		86400	IN	NS	dns6.cloudns.net.
+infos.gp.		86400	IN	NS	ns1.ikoula.fr.
+infos.gp.		86400	IN	NS	ns2.ikoula.fr.
 initial.gp.		86400	IN	NS	ns1.markmonitor.com.
 initial.gp.		86400	IN	NS	ns2.markmonitor.com.
 initial.gp.		86400	IN	NS	ns3.markmonitor.com.
@@ -2691,8 +2693,8 @@ jose.gp.		86400	IN	NS	freedns2.registrar-servers.com.
 jose.gp.		86400	IN	NS	freedns3.registrar-servers.com.
 jose.gp.		86400	IN	NS	freedns4.registrar-servers.com.
 jose.gp.		86400	IN	NS	freedns5.registrar-servers.com.
-jouretnuit.gp.		86400	IN	NS	dns5.cloudns.net.
-jouretnuit.gp.		86400	IN	NS	dns6.cloudns.net.
+jouretnuit.gp.		86400	IN	NS	ns1.ikoula.fr.
+jouretnuit.gp.		86400	IN	NS	ns2.ikoula.fr.
 jowae.gp.		86400	IN	NS	ns-8-a.gandi.net.
 jowae.gp.		86400	IN	NS	ns-157-b.gandi.net.
 jowae.gp.		86400	IN	NS	ns-211-c.gandi.net.
@@ -4224,8 +4226,8 @@ randoguadeloupe.gp.	86400	IN	NS	ns2.francedns.com.
 randoguadeloupe.gp.	86400	IN	NS	ns3.francedns.com.
 rapidoto.gp.		86400	IN	NS	lou.ns.cloudflare.com.
 rapidoto.gp.		86400	IN	NS	uma.ns.cloudflare.com.
-rci.gp.			86400	IN	NS	dns5.cloudns.net.
-rci.gp.			86400	IN	NS	dns6.cloudns.net.
+rci.gp.			86400	IN	NS	ns1.ikoula.fr.
+rci.gp.			86400	IN	NS	ns2.ikoula.fr.
 rdap.gp.		86400	IN	NS	dns1.cloudns.net.
 rdap.gp.		86400	IN	NS	dns2.cloudns.net.
 rdap.gp.		86400	IN	NS	dns5.cloudns.net.
@@ -4256,8 +4258,8 @@ refinitiv.gp.		86400	IN	NS	ns4.markmonitor.com.
 refinitiv.gp.		86400	IN	NS	ns5.markmonitor.com.
 refinitiv.gp.		86400	IN	NS	ns6.markmonitor.com.
 refinitiv.gp.		86400	IN	NS	ns7.markmonitor.com.
-regie.gp.		86400	IN	NS	dns5.cloudns.net.
-regie.gp.		86400	IN	NS	dns6.cloudns.net.
+regie.gp.		86400	IN	NS	ns1.ikoula.fr.
+regie.gp.		86400	IN	NS	ns2.ikoula.fr.
 register.gp.		86400	IN	NS	dns1.cloudns.net.
 register.gp.		86400	IN	NS	dns2.cloudns.net.
 registered.gp.		86400	IN	NS	dns1.cloudns.net.
@@ -5518,10 +5520,10 @@ zoetis.gp.		86400	IN	NS	a2.verisigndns.com.
 zoetis.gp.		86400	IN	NS	a3.verisigndns.com.
 zonemaster.gp.		86400	IN	NS	dns5.cloudns.net.
 zonemaster.gp.		86400	IN	NS	dns6.cloudns.net.
-zouk.gp.		86400	IN	NS	dns5.cloudns.net.
-zouk.gp.		86400	IN	NS	dns6.cloudns.net.
-zouknewz.gp.		86400	IN	NS	dns5.cloudns.net.
-zouknewz.gp.		86400	IN	NS	dns6.cloudns.net.
+zouk.gp.		86400	IN	NS	ns1.ikoula.fr.
+zouk.gp.		86400	IN	NS	ns2.ikoula.fr.
+zouknewz.gp.		86400	IN	NS	ns1.ikoula.fr.
+zouknewz.gp.		86400	IN	NS	ns2.ikoula.fr.
 zuju.gp.		86400	IN	NS	ns1.sedoparking.com.
 zuju.gp.		86400	IN	NS	ns2.sedoparking.com.
 zurich.gp.		86400	IN	NS	ns.zurich.com.
@@ -5530,4 +5532,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023031415 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023031423 86400 7200 2592000 345600
