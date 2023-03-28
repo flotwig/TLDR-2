@@ -1,4 +1,4 @@
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1679875501 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1679961901 1800 600 604800 1800
 mw.			18000	IN	NS	mw-e.ns.nic.cz.
 mw.			18000	IN	NS	pch1.nic.mw.
 mw.			18000	IN	NS	chambo.sdnp.org.mw.
@@ -530,6 +530,8 @@ beam.mw.		18000	IN	NS	marek.ns.cloudflare.com.
 befit.mw.		18000	IN	NS	ns1.digitalocean.com.
 befit.mw.		18000	IN	NS	ns2.digitalocean.com.
 befit.mw.		18000	IN	NS	ns3.digitalocean.com.
+belizbureau.mw.		18000	IN	NS	kellen.ns.cloudflare.com.
+belizbureau.mw.		18000	IN	NS	nataly.ns.cloudflare.com.
 beninvest.mw.		18000	IN	NS	ns1.bluehost.com.
 beninvest.mw.		18000	IN	NS	ns2.bluehost.com.
 bensonandhedges.mw.	18000	IN	NS	nsgbr.comlaude.co.uk.
@@ -693,6 +695,9 @@ bossfisheries.mw.	18000	IN	NS	vpsns1.cpt.wa.co.za.
 bossfisheries.mw.	18000	IN	NS	vpsns2.cpt.wa.co.za.
 boxoffice.mw.		18000	IN	NS	ns1.mweb.co.za.
 boxoffice.mw.		18000	IN	NS	ns2.mweb.co.za.
+boydsproperties.mw.	18000	IN	NS	ns1.server103.iseencloud.com.
+boydsproperties.mw.	18000	IN	NS	ns2.server103.iseencloud.com.
+boydsproperties.mw.	18000	IN	NS	ns3.server103.iseencloud.com.
 brandsafrica.mw.	18000	IN	NS	proxy2.africa-online.net.
 brandsafrica.mw.	18000	IN	NS	proxy3.africa-online.net.
 bridgestone.mw.		18000	IN	NS	rns1.rightsdns.com.
@@ -1583,11 +1588,6 @@ franke.mw.		18000	IN	NS	ns3.rrpproxy.net.
 franklincovey.mw.	18000	IN	NS	ns01.trademarkarea.com.
 franklincovey.mw.	18000	IN	NS	ns02.trademarkarea.com.
 franklincovey.mw.	18000	IN	NS	ns03.trademarkarea.com.
-free.mw.		18000	IN	NS	ns2.gransy.com.
-free.mw.		18000	IN	NS	ns3.gransy.com.
-free.mw.		18000	IN	NS	ns4.gransy.com.
-free.mw.		18000	IN	NS	ns5.gransy.com.
-free.mw.		18000	IN	NS	ns.gransy.com.
 freeview.mw.		18000	IN	NS	ns1.mweb.co.za.
 freeview.mw.		18000	IN	NS	ns2.mweb.co.za.
 freikirche.mw.		18000	IN	NS	skns1.schwarzkuenstler.com.
@@ -2250,10 +2250,10 @@ juulvapor.mw.		18000	IN	NS	ns-1029.awsdns-00.org.
 juulvapor.mw.		18000	IN	NS	ns-1576.awsdns-05.co.uk.
 juulvapor.mw.		18000	IN	NS	ns-524.awsdns-01.net.
 juulvapor.mw.		18000	IN	NS	ns-70.awsdns-08.com.
-jw.mw.			18000	IN	NS	ns1.bdm.microsoftonline.com.
-jw.mw.			18000	IN	NS	ns2.bdm.microsoftonline.com.
-jw.mw.			18000	IN	NS	ns3.bdm.microsoftonline.com.
-jw.mw.			18000	IN	NS	ns4.bdm.microsoftonline.com.
+jw.mw.			18000	IN	NS	ns-1233.awsdns-26.org.
+jw.mw.			18000	IN	NS	ns-1567.awsdns-03.co.uk.
+jw.mw.			18000	IN	NS	ns-288.awsdns-36.com.
+jw.mw.			18000	IN	NS	ns-601.awsdns-11.net.
 k.mw.			18000	IN	NS	ns1.netim.net.
 k.mw.			18000	IN	NS	ns2.netim.net.
 k.mw.			18000	IN	NS	ns3.netim.net.
@@ -2944,8 +2944,6 @@ mts.mw.			18000	IN	NS	ns67.domaincontrol.com.
 mts.mw.			18000	IN	NS	ns68.domaincontrol.com.
 mueller.mw.		18000	IN	NS	ns4.he.net.
 mueller.mw.		18000	IN	NS	ns5.he.net.
-multi-consult.mw.	18000	IN	NS	ns23.domaincontrol.com.
-multi-consult.mw.	18000	IN	NS	ns24.domaincontrol.com.
 multichoice.mw.		18000	IN	NS	ns1.mweb.co.za.
 multichoice.mw.		18000	IN	NS	ns2.mweb.co.za.
 mummysgold.mw.		18000	IN	NS	ns1.instradns.com.
@@ -4063,8 +4061,10 @@ tc.mw.			18000	IN	NS	ns1.dns-parking.com.
 tc.mw.			18000	IN	NS	ns2.dns-parking.com.
 teamadventure.mw.	18000	IN	NS	dns1.namecheaphosting.com.
 teamadventure.mw.	18000	IN	NS	dns2.namecheaphosting.com.
-techcom.mw.		18000	IN	NS	ns1.node1427.myfcloud.com.
-techcom.mw.		18000	IN	NS	ns2.node1427.myfcloud.com.
+techcom.mw.		18000	IN	NS	ams-ns1.websitehostserver.net.
+techcom.mw.		18000	IN	NS	chi-ns1.websitehostserver.net.
+techcom.mw.		18000	IN	NS	chi-ns2.websitehostserver.net.
+techcom.mw.		18000	IN	NS	sgp-ns1.websitehostserver.net.
 technologyetc.mw.	18000	IN	NS	ns1.inmotionhosting.com.
 technologyetc.mw.	18000	IN	NS	ns2.inmotionhosting.com.
 techplussolutions.mw.	18000	IN	NS	a.ns.cheers.mw.
@@ -4393,11 +4393,6 @@ vbet.mw.		18000	IN	NS	hank.ns.cloudflare.com.
 vbet.mw.		18000	IN	NS	lily.ns.cloudflare.com.
 vcs.mw.			18000	IN	NS	proxy2.africa-online.net.
 vcs.mw.			18000	IN	NS	proxy3.africa-online.net.
-venoa.mw.		18000	IN	NS	ns1.netim.net.
-venoa.mw.		18000	IN	NS	ns2.netim.net.
-venoa.mw.		18000	IN	NS	ns3.netim.net.
-venoa.mw.		18000	IN	NS	ns4.netim.net.
-venoa.mw.		18000	IN	NS	ns5.netim.net.
 verizon.mw.		18000	IN	NS	ns-scrm.verizon.com.
 verizon.mw.		18000	IN	NS	ns-tmtr.verizon.com.
 verizonenterprise.mw.	18000	IN	NS	dns2.verizon.com.
@@ -4672,4 +4667,4 @@ zurich.mw.		18000	IN	NS	dns1.cscdns.net.
 zurich.mw.		18000	IN	NS	dns2.cscdns.net.
 zutari.mw.		18000	IN	NS	dns1.cscdns.net.
 zutari.mw.		18000	IN	NS	dns2.cscdns.net.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1679875501 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1679961901 1800 600 604800 1800
