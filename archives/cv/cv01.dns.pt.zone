@@ -1,4 +1,4 @@
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023033101 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023040301 86400 7200 2592000 300
 cv.			28800	IN	NS	c.dns.pt.
 cv.			28800	IN	NS	ns.dns.cv.
 cv.			28800	IN	NS	anyc.dnsnode.net.
@@ -2606,11 +2606,11 @@ nosmarka.com.cv.	28800	IN	NS	ns2.cvtelecom.cv.
 nport.com.cv.		28800	IN	NS	NS1.101DOMAIN.COM.
 nport.com.cv.		28800	IN	NS	NS2.101DOMAIN.COM.
 nport.com.cv.		28800	IN	NS	NS5.101DOMAIN.COM.
+nrg4.com.cv.		28800	IN	AAAA	2604:9a00:2100:a001:2::1
+nrg4.com.cv.		28800	IN	A	85.159.233.17
 nrg4.com.cv.		28800	IN	NS	ns01.trademarkarea.com.
 nrg4.com.cv.		28800	IN	NS	ns02.trademarkarea.com.
 nrg4.com.cv.		28800	IN	NS	ns03.trademarkarea.com.
-nrg4.com.cv.		28800	IN	AAAA	2604:9a00:2100:a001:2::1
-nrg4.com.cv.		28800	IN	A	85.159.233.17
 nubai.com.cv.		28800	IN	NS	ns1.cloudns.net.
 nubai.com.cv.		28800	IN	NS	ns2.cloudns.net.
 nubai.com.cv.		28800	IN	NS	ns3.cloudns.net.
@@ -4111,10 +4111,8 @@ ete-logistica.cv.	28800	IN	NS	ns-b1.vodafone.pt.
 ete-logistica.cv.	28800	IN	NS	ns-b2.vodafone.pt.
 etenergia.cv.		28800	IN	NS	ns1.wix.com.
 etenergia.cv.		28800	IN	NS	ns2.wix.com.
-eth.cv.			28800	IN	A	3.120.163.96
-eth.cv.			28800	IN	AAAA	2a05:d018:61d:d810:2d57:a1a6:f2c2:26ef
-eth.cv.			28800	IN	NS	ns1.dan.com.
-eth.cv.			28800	IN	NS	ns2.dan.com.
+eth.cv.			28800	IN	NS	ns1.parkingcrew.net.
+eth.cv.			28800	IN	NS	ns2.parkingcrew.net.
 eticadata.cv.		28800	IN	NS	ns1-04.azure-dns.com.
 eticadata.cv.		28800	IN	NS	ns2-04.azure-dns.net.
 eticadata.cv.		28800	IN	NS	ns3-04.azure-dns.org.
@@ -4210,6 +4208,9 @@ farmaciajovem.cv.	28800	IN	NS	ns1.aguianet.com.
 farmaciajovem.cv.	28800	IN	NS	ns2.aguianet.com.
 farmaciajovem.cv.	28800	IN	NS	ns293.websitewelcome.com.
 farmaciajovem.cv.	28800	IN	NS	ns294.websitewelcome.com.
+farmaciapicos.cv.	28800	IN	NS	ns1.nosiwebhosting.com.
+farmaciapicos.cv.	28800	IN	NS	ns2.nosiwebhosting.com.
+farmaciapicos.cv.	28800	IN	NS	ns3.nosiwebhosting.com.
 fasto.cv.		28800	IN	NS	ns1.digitalocean.com.
 fasto.cv.		28800	IN	NS	ns2.digitalocean.com.
 fasto.cv.		28800	IN	NS	ns3.digitalocean.com.
@@ -5113,11 +5114,11 @@ imajem.cv.		28800	IN	NS	ns57.hocnet.pt.
 imajem.cv.		28800	IN	NS	pt101.rumonetpt.com.
 imar.cv.		28800	IN	NS	ns1.cogenttec.com.
 imar.cv.		28800	IN	NS	ns2.cogenttec.com.
-imenu.cv.		28800	IN	A	45.154.66.253
-imenu.cv.		28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 imenu.cv.		28800	IN	NS	ns1.wtservers.com.
 imenu.cv.		28800	IN	NS	ns2.wtservers.com.
 imenu.cv.		28800	IN	NS	ns3.wtservers.com.
+imenu.cv.		28800	IN	A	45.154.66.253
+imenu.cv.		28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 img.cv.			28800	IN	NS	ns01.trademarkarea.com.
 img.cv.			28800	IN	NS	ns02.trademarkarea.com.
 img.cv.			28800	IN	NS	ns03.trademarkarea.com.
@@ -5404,11 +5405,11 @@ iurd.cv.		28800	IN	NS	nspro57.hostgator.com.br.
 ivv.cv.			28800	IN	NS	ns1.eurotux.com.
 ivv.cv.			28800	IN	NS	ns3.eurotux.com.
 a.mx.ivv.cv.		28800	IN	A	194.107.127.21
+iwalk.cv.		28800	IN	A	45.154.66.253
+iwalk.cv.		28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 iwalk.cv.		28800	IN	NS	ns1.wtservers.com.
 iwalk.cv.		28800	IN	NS	ns2.wtservers.com.
 iwalk.cv.		28800	IN	NS	ns3.wtservers.com.
-iwalk.cv.		28800	IN	A	45.154.66.253
-iwalk.cv.		28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 izipay.cv.		28800	IN	NS	dns1.ibername.com.
 izipay.cv.		28800	IN	NS	dns2.ibername.com.
 jade.cv.		28800	IN	NS	dns1.p08.nsone.net.
@@ -5581,12 +5582,12 @@ khimobiliaria.cv.	28800	IN	NS	pns1.cloudns.net.
 khimobiliaria.cv.	28800	IN	NS	pns2.cloudns.net.
 khimobiliaria.cv.	28800	IN	NS	pns3.cloudns.net.
 khimobiliaria.cv.	28800	IN	NS	pns4.cloudns.net.
-khymnegoce.cv.		28800	IN	A	85.159.233.17
 khymnegoce.cv.		28800	IN	NS	ns1.cloudns.net.
 khymnegoce.cv.		28800	IN	NS	ns2.cloudns.net.
 khymnegoce.cv.		28800	IN	NS	ns3.cloudns.net.
 khymnegoce.cv.		28800	IN	NS	ns4.cloudns.net.
 khymnegoce.cv.		28800	IN	AAAA	2604:9a00:2100:a001:2::1
+khymnegoce.cv.		28800	IN	A	85.159.233.17
 kibali.cv.		28800	IN	NS	ns1.hostigo.nl.
 kibali.cv.		28800	IN	NS	ns2.hostigo.nl.
 kibo.cv.		28800	IN	NS	ns1.mydnspt.net.
@@ -5970,9 +5971,10 @@ marketer.cv.		28800	IN	NS	ns8599.hostgator.com.
 marketer.cv.		28800	IN	NS	ns8600.hostgator.com.
 marketingdigital.cv.	28800	IN	NS	ns1.cogenttec.com.
 marketingdigital.cv.	28800	IN	NS	ns2.cogenttec.com.
-markkemp.cv.		28800	IN	NS	ns01.trademarkarea.com.
-markkemp.cv.		28800	IN	NS	ns02.trademarkarea.com.
-markkemp.cv.		28800	IN	NS	ns03.trademarkarea.com.
+markkemp.cv.		28800	IN	NS	ns1.markkemp.cv.
+markkemp.cv.		28800	IN	NS	ns2.markkemp.cv.
+ns1.markkemp.cv.	28800	IN	A	91.238.161.8
+ns2.markkemp.cv.	28800	IN	A	91.238.161.8
 marlownavigation.cv.	28800	IN	NS	ns1.dnscpanel.com.
 marlownavigation.cv.	28800	IN	NS	ns2.dnscpanel.com.
 marlownavigation.cv.	28800	IN	NS	ns3.dnscpanel.com.
@@ -6280,10 +6282,10 @@ morabeza.cv.		28800	IN	NS	ns1.weblx-0.net.
 morabeza.cv.		28800	IN	NS	ns2.weblx-0.net.
 morabeza-tours.cv.	28800	IN	NS	ns6866242152.a2dns.com.
 morabeza-tours.cv.	28800	IN	NS	ns6866242153.a2dns.com.
-morabezadourada.cv.	28800	IN	A	69.175.49.50
 morabezadourada.cv.	28800	IN	NS	ns1.pipedns.com.
 morabezadourada.cv.	28800	IN	NS	ns2.pipedns.com.
 morabezadourada.cv.	28800	IN	NS	ns3.pipedns.com.
+morabezadourada.cv.	28800	IN	A	69.175.49.50
 morabezaic.cv.		28800	IN	NS	ns1.bluehost.com.
 morabezaic.cv.		28800	IN	NS	ns2.bluehost.com.
 morabezatour.cv.	28800	IN	NS	ns1.aguianet.com.
@@ -6446,6 +6448,7 @@ natura.cv.		28800	IN	NS	ns1.webhs.org.
 natura.cv.		28800	IN	NS	ns2.webhs.org.
 natura.cv.		28800	IN	NS	ns3.webhs.org.
 natura.cv.		28800	IN	NS	ns4.webhs.org.
+naturacoffeeshop.cv.	28800	IN	NS	sam01.empregos.cv.
 naturalpower.cv.	28800	IN	NS	ns01.trademarkarea.com.
 naturalpower.cv.	28800	IN	NS	ns02.trademarkarea.com.
 naturalpower.cv.	28800	IN	NS	ns03.trademarkarea.com.
@@ -6582,11 +6585,11 @@ novatur.cv.		28800	IN	NS	ns2.inmotionhosting.com.
 novgest.cv.		28800	IN	NS	ns1.nosiwebhosting.com.
 novgest.cv.		28800	IN	NS	ns2.nosiwebhosting.com.
 novgest.cv.		28800	IN	NS	ns3.nosiwebhosting.com.
+novobanco.cv.		28800	IN	NS	ns.cvtelecom.cv.
+novobanco.cv.		28800	IN	NS	ns2.cvtelecom.cv.
 novobanco.cv.		28800	IN	AAAA	2620:115:c00f::c000:4a09
 novobanco.cv.		28800	IN	AAAA	2a04:fa87:ffff::c6b5:7409
 novobanco.cv.		28800	IN	AAAA	2a04:fa87:ffff::c6b5:7509
-novobanco.cv.		28800	IN	NS	ns.cvtelecom.cv.
-novobanco.cv.		28800	IN	NS	ns2.cvtelecom.cv.
 nsh.cv.			28800	IN	NS	ns1.wordpress.com.
 nsh.cv.			28800	IN	NS	ns2.wordpress.com.
 nsh.cv.			28800	IN	NS	ns3.wordpress.com.
@@ -6868,10 +6871,10 @@ educar.org.cv.		28800	IN	NS	ns2000.mochahost.com.
 famf.org.cv.		28800	IN	NS	ns1.servconfig.com.
 famf.org.cv.		28800	IN	NS	ns2.servconfig.com.
 familcarcabral.org.cv.	28800	IN	NS	dns1.prime.cv.
-famipicos.org.cv.	28800	IN	NS	ns120.truehoster.net.
-famipicos.org.cv.	28800	IN	NS	ns121.truehoster.net.
 famipicos.org.cv.	28800	IN	AAAA	2a07:5741:0:ffd::1
 famipicos.org.cv.	28800	IN	AAAA	2a07:5741:0:ffd::2
+famipicos.org.cv.	28800	IN	NS	ns120.truehoster.net.
+famipicos.org.cv.	28800	IN	NS	ns121.truehoster.net.
 fcj.org.cv.		28800	IN	NS	ns1.mydnspt.net.
 fcj.org.cv.		28800	IN	NS	ns2.mydnspt.net.
 fcs.org.cv.		28800	IN	NS	ns1.nosiwebhosting.com.
@@ -8180,13 +8183,13 @@ silentdisco.cv.		28800	IN	NS	ns03.trademarkarea.com.
 silentsystem.cv.	28800	IN	NS	ns01.trademarkarea.com.
 silentsystem.cv.	28800	IN	NS	ns02.trademarkarea.com.
 silentsystem.cv.	28800	IN	NS	ns03.trademarkarea.com.
-silmac.cv.		28800	IN	AAAA	2a02:c200:0:10::891:1
-silmac.cv.		28800	IN	A	5.189.191.29
-silmac.cv.		28800	IN	A	79.143.182.242
 silmac.cv.		28800	IN	NS	ns1.mydnspt.net.
 silmac.cv.		28800	IN	NS	ns2.mydnspt.net.
 silmac.cv.		28800	IN	NS	ns7.mydnspt.net.
 silmac.cv.		28800	IN	NS	ns8.mydnspt.net.
+silmac.cv.		28800	IN	AAAA	2a02:c200:0:10::891:1
+silmac.cv.		28800	IN	A	5.189.191.29
+silmac.cv.		28800	IN	A	79.143.182.242
 silosmarangatu.cv.	28800	IN	NS	ns1.contabo.net.
 silosmarangatu.cv.	28800	IN	NS	ns2.contabo.net.
 silosmarangatu.cv.	28800	IN	NS	ns3.contabo.net.
@@ -8723,11 +8726,11 @@ tecnicil.cv.		28800	IN	NS	ns45.worldnic.com.
 tecnicil.cv.		28800	IN	NS	ns46.worldnic.com.
 tecnicilindustria.cv.	28800	IN	NS	ns51.worldnic.com.
 tecnicilindustria.cv.	28800	IN	NS	ns52.worldnic.com.
-tecnocenter.cv.		28800	IN	NS	ns1.servconfig.com.
-tecnocenter.cv.		28800	IN	NS	ns2.servconfig.com.
 tecnocenter.cv.		28800	IN	A	217.182.171.109
 tecnocenter.cv.		28800	IN	AAAA	2604:9a00:2100:af02:4::dc
 tecnocenter.cv.		28800	IN	AAAA	2a03:6420::abcd:ef01
+tecnocenter.cv.		28800	IN	NS	ns1.servconfig.com.
+tecnocenter.cv.		28800	IN	NS	ns2.servconfig.com.
 tecnocor.cv.		28800	IN	A	35.182.190.110
 tecnocor.cv.		28800	IN	A	52.215.11.135
 tecnocor.cv.		28800	IN	A	199.73.55.49
@@ -9114,6 +9117,9 @@ upapit.cv.		28800	IN	NS	ns3.linxisp.net.
 upapit.cv.		28800	IN	NS	ns4.linxisp.net.
 upgrade.cv.		28800	IN	NS	ns7.securenet-server.net.
 upgrade.cv.		28800	IN	NS	ns8.securenet-server.net.
+upload.cv.		28800	IN	NS	ns1.regery.net.
+upload.cv.		28800	IN	NS	ns2.regery.net.
+upload.cv.		28800	IN	NS	ns3.regery.net.
 upranimal.cv.		28800	IN	NS	ns1.bluehost.com.
 upranimal.cv.		28800	IN	NS	ns2.bluehost.com.
 upside.cv.		28800	IN	NS	ns01.trademarkarea.com.
@@ -9203,12 +9209,12 @@ vendus.cv.		28800	IN	NS	ns1.vendus.com.
 vendus.cv.		28800	IN	NS	ns2.vendus.com.
 vendus.cv.		28800	IN	NS	ns3.vendus.com.
 vendus.cv.		28800	IN	NS	ns4.vendus.com.
-verdeana.cv.		28800	IN	AAAA	2400:cb00:2049:1::a29f:18c9
-verdeana.cv.		28800	IN	AAAA	2400:cb00:2049:1::a29f:192a
 verdeana.cv.		28800	IN	NS	ns101.cloudns.net.
 verdeana.cv.		28800	IN	NS	ns102.cloudns.net.
 verdeana.cv.		28800	IN	NS	ns103.cloudns.net.
 verdeana.cv.		28800	IN	NS	ns104.cloudns.net.
+verdeana.cv.		28800	IN	AAAA	2400:cb00:2049:1::a29f:18c9
+verdeana.cv.		28800	IN	AAAA	2400:cb00:2049:1::a29f:192a
 verdeeverde.cv.		28800	IN	NS	ns1.dns-parking.com.
 verdeeverde.cv.		28800	IN	NS	ns2.dns-parking.com.
 verdefam.cv.		28800	IN	AAAA	2a02:c200:0:10::891:1
@@ -9483,4 +9489,4 @@ zonetech.cv.		28800	IN	NS	ns3.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns1.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns2.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns3.dnscpanel.com.
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023033101 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023040301 86400 7200 2592000 300
