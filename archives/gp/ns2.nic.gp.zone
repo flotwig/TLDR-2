@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023040622 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023040623 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -1371,21 +1371,17 @@ dixieathome-gp.gp.	86400	IN	NS	dns2.cscdns.net.
 dixiecosmart.gp.	86400	IN	NS	nsgbr.comlaude.co.uk.
 dixiecosmart.gp.	86400	IN	NS	nssui.comlaude.ch.
 dixiecosmart.gp.	86400	IN	NS	nsusa.comlaude.net.
-dixieeasynap.gp.	86400	IN	NS	nsgbr.comlaude.co.uk.
-dixieeasynap.gp.	86400	IN	NS	nssui.comlaude.ch.
-dixieeasynap.gp.	86400	IN	NS	nsusa.comlaude.net.
+dixieeasynap.gp.	86400	IN	NS	dns1.cscdns.net.
+dixieeasynap.gp.	86400	IN	NS	dns2.cscdns.net.
 dixieecosmart.gp.	86400	IN	NS	nsgbr.comlaude.co.uk.
 dixieecosmart.gp.	86400	IN	NS	nssui.comlaude.ch.
 dixieecosmart.gp.	86400	IN	NS	nsusa.comlaude.net.
-dixiesmarttop.gp.	86400	IN	NS	nsgbr.comlaude.co.uk.
-dixiesmarttop.gp.	86400	IN	NS	nssui.comlaude.ch.
-dixiesmarttop.gp.	86400	IN	NS	nsusa.comlaude.net.
-dixiesmarttop-gp.gp.	86400	IN	NS	nsgbr.comlaude.co.uk.
-dixiesmarttop-gp.gp.	86400	IN	NS	nssui.comlaude.ch.
-dixiesmarttop-gp.gp.	86400	IN	NS	nsusa.comlaude.net.
-dixieware.gp.		86400	IN	NS	nsgbr.comlaude.co.uk.
-dixieware.gp.		86400	IN	NS	nssui.comlaude.ch.
-dixieware.gp.		86400	IN	NS	nsusa.comlaude.net.
+dixiesmarttop.gp.	86400	IN	NS	dns1.cscdns.net.
+dixiesmarttop.gp.	86400	IN	NS	dns2.cscdns.net.
+dixiesmarttop-gp.gp.	86400	IN	NS	dns1.cscdns.net.
+dixiesmarttop-gp.gp.	86400	IN	NS	dns2.cscdns.net.
+dixieware.gp.		86400	IN	NS	dns1.cscdns.net.
+dixieware.gp.		86400	IN	NS	dns2.cscdns.net.
 dma.gp.			86400	IN	NS	ns16.ovh.net.
 dma.gp.			86400	IN	NS	dns16.ovh.net.
 ns.dma.gp.		86400	IN	NS	94.124.155.169.gp.
@@ -1506,12 +1502,10 @@ easy.gp.		86400	IN	NS	ns2.markmonitor.com.
 easy.gp.		86400	IN	NS	ns3.markmonitor.com.
 easy.gp.		86400	IN	NS	ns4.markmonitor.com.
 easy.gp.		86400	IN	NS	ns5.markmonitor.com.
-easynap.gp.		86400	IN	NS	nsgbr.comlaude.co.uk.
-easynap.gp.		86400	IN	NS	nssui.comlaude.ch.
-easynap.gp.		86400	IN	NS	nsusa.comlaude.net.
-easynapdispenser.gp.	86400	IN	NS	nsgbr.comlaude.co.uk.
-easynapdispenser.gp.	86400	IN	NS	nssui.comlaude.ch.
-easynapdispenser.gp.	86400	IN	NS	nsusa.comlaude.net.
+easynap.gp.		86400	IN	NS	dns1.cscdns.net.
+easynap.gp.		86400	IN	NS	dns2.cscdns.net.
+easynapdispenser.gp.	86400	IN	NS	dns1.cscdns.net.
+easynapdispenser.gp.	86400	IN	NS	dns2.cscdns.net.
 ebp.gp.			86400	IN	NS	ns111.ovh.net.
 ebp.gp.			86400	IN	NS	dns111.ovh.net.
 ec.gp.			86400	IN	NS	ns1.website.org.
@@ -5583,4 +5577,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023040622 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023040623 86400 7200 2592000 345600
