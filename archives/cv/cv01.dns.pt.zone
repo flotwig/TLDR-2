@@ -1,4 +1,4 @@
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023041301 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023041701 86400 7200 2592000 300
 cv.			28800	IN	NS	c.dns.pt.
 cv.			28800	IN	NS	ns.dns.cv.
 cv.			28800	IN	NS	anyc.dnsnode.net.
@@ -396,8 +396,8 @@ ame.cv.			28800	IN	NS	ns1.bluehost.com.
 ame.cv.			28800	IN	NS	ns2.bluehost.com.
 amicachi.cv.		28800	IN	NS	ns1.gov.cv.
 amicachi.cv.		28800	IN	NS	ns2.gov.cv.
-amicv.cv.		28800	IN	NS	ns1000.mochahost.com.
-amicv.cv.		28800	IN	NS	ns2000.mochahost.com.
+amicv.cv.		28800	IN	NS	ns1.15-236-57-116.cprapid.com.
+amicv.cv.		28800	IN	NS	ns2.15-236-57-116.cprapid.com.
 amordedeus.cv.		28800	IN	NS	ns1.arede.center.
 amordedeus.cv.		28800	IN	NS	ns2.arede.center.
 amp.cv.			28800	IN	NS	ns1.aguianet.com.
@@ -1998,16 +1998,16 @@ atlantico.com.cv.	28800	IN	NS	ns2.nosiwebhosting.com.
 atlantico.com.cv.	28800	IN	NS	ns3.nosiwebhosting.com.
 atleta2022.com.cv.	28800	IN	NS	ns4.web4u.pt.
 atleta2022.com.cv.	28800	IN	NS	ns5.web4u.pt.
-baidu.com.cv.		28800	IN	NS	ns1.brandshelter.com.
-baidu.com.cv.		28800	IN	NS	ns2.brandshelter.de.
-baidu.com.cv.		28800	IN	NS	ns3.brandshelter.info.
-baidu.com.cv.		28800	IN	NS	ns4.brandshelter.net.
-baidu.com.cv.		28800	IN	NS	ns5.brandshelter.us.
 baidu.com.cv.		28800	IN	A	94.23.156.156
 baidu.com.cv.		28800	IN	AAAA	2001:41d0:c:388:178:33:33:199
 baidu.com.cv.		28800	IN	AAAA	2001:41d0:d:7ea:188:165:164:191
 baidu.com.cv.		28800	IN	AAAA	2607:5300:60:5e1c:192:95:19:131
 baidu.com.cv.		28800	IN	AAAA	2607:5300:60:6bbe:192:95:17:188
+baidu.com.cv.		28800	IN	NS	ns1.brandshelter.com.
+baidu.com.cv.		28800	IN	NS	ns2.brandshelter.de.
+baidu.com.cv.		28800	IN	NS	ns3.brandshelter.info.
+baidu.com.cv.		28800	IN	NS	ns4.brandshelter.net.
+baidu.com.cv.		28800	IN	NS	ns5.brandshelter.us.
 bet365.com.cv.		28800	IN	NS	ns1.markmonitor.com.
 bet365.com.cv.		28800	IN	NS	ns2.markmonitor.com.
 bet365.com.cv.		28800	IN	NS	ns3.markmonitor.com.
@@ -2114,12 +2114,12 @@ citydia.com.cv.		28800	IN	NS	ns1.entornodns.com.
 citydia.com.cv.		28800	IN	NS	ns2.entornodns.com.
 citydia.com.cv.		28800	IN	AAAA	::195.77.116.8
 citydia.com.cv.		28800	IN	AAAA	2a01:1c8:1001:2:be30:5bff:fedf:67ee
+cloud.com.cv.		28800	IN	A	213.13.28.116
+cloud.com.cv.		28800	IN	A	213.13.30.116
 cloud.com.cv.		28800	IN	NS	ns.sapo.pt.
 cloud.com.cv.		28800	IN	NS	ns2.sapo.pt.
 cloud.com.cv.		28800	IN	NS	dns01.sapo.pt.
 cloud.com.cv.		28800	IN	NS	dns02.sapo.pt.
-cloud.com.cv.		28800	IN	A	213.13.28.116
-cloud.com.cv.		28800	IN	A	213.13.30.116
 cloudpt.com.cv.		28800	IN	A	213.13.28.116
 cloudpt.com.cv.		28800	IN	A	213.13.30.116
 cloudpt.com.cv.		28800	IN	NS	ns.sapo.pt.
@@ -2890,9 +2890,9 @@ winners.com.cv.		28800	IN	NS	NS5.101DOMAIN.COM.
 wisemach.com.cv.	28800	IN	NS	ns01.trademarkarea.com.
 wisemach.com.cv.	28800	IN	NS	ns02.trademarkarea.com.
 wisemach.com.cv.	28800	IN	NS	ns03.trademarkarea.com.
-xoom.com.cv.		28800	IN	AAAA	2001:67c:1bc::2
 xoom.com.cv.		28800	IN	NS	ns1.markmonitor.com.
 xoom.com.cv.		28800	IN	NS	ns2.markmonitor.com.
+xoom.com.cv.		28800	IN	AAAA	2001:67c:1bc::2
 youtube.com.cv.		28800	IN	NS	ns1.markmonitor.com.
 youtube.com.cv.		28800	IN	NS	ns3.markmonitor.com.
 comandoregionaldapraia.cv. 28800 IN	NS	ns7.securenet-server.net.
@@ -6321,6 +6321,10 @@ mornami.cv.		28800	IN	NS	b186ns1.hocnet.pt.
 mornami.cv.		28800	IN	NS	b186ns2.hocnet.pt.
 mota-engil.cv.		28800	IN	NS	ns2.mota-engil.pt.
 mota-engil.cv.		28800	IN	NS	ns3.mota-engil.pt.
+motaconstrucoes.cv.	28800	IN	NS	ns1.mydnspt.net.
+motaconstrucoes.cv.	28800	IN	NS	ns2.mydnspt.net.
+motaconstrucoes.cv.	28800	IN	NS	ns7.mydnspt.net.
+motaconstrucoes.cv.	28800	IN	NS	ns8.mydnspt.net.
 move.cv.		28800	IN	NS	ns1.siteground182.com.
 move.cv.		28800	IN	NS	ns2.siteground182.com.
 mpb.cv.			28800	IN	NS	ns01.trademarkarea.com.
@@ -6637,6 +6641,10 @@ oasispaul.cv.		28800	IN	NS	ns2.dns-parking.com.
 obepe.cv.		28800	IN	NS	ns1.nosiwebhosting.com.
 obepe.cv.		28800	IN	NS	ns2.nosiwebhosting.com.
 obepe.cv.		28800	IN	NS	ns3.nosiwebhosting.com.
+observatorio.cv.	28800	IN	NS	ns-166.awsdns-20.com.
+observatorio.cv.	28800	IN	NS	ns-784.awsdns-34.net.
+observatorio.cv.	28800	IN	NS	ns-1285.awsdns-32.org.
+observatorio.cv.	28800	IN	NS	ns-1680.awsdns-18.co.uk.
 observatoriodasmigracoes.cv. 28800 IN	NS	ns1.esoterica.com.
 observatoriodasmigracoes.cv. 28800 IN	NS	ns2.esoterica.com.
 mail.observatoriodasmigracoes.cv. 28800	IN A	80.172.241.36
@@ -9382,11 +9390,11 @@ web.cv.			28800	IN	NS	ns1-vh.tagadab.com.
 web.cv.			28800	IN	NS	ns2-vh.tagadab.com.
 web3.cv.		28800	IN	NS	ns1.alidns.com.
 web3.cv.		28800	IN	NS	ns2.alidns.com.
+webdesign.cv.		28800	IN	NS	ns1.cogenttec.com.
+webdesign.cv.		28800	IN	NS	ns2.cogenttec.com.
 webdesign.cv.		28800	IN	AAAA	2a02:c205:0:891::1
 webdesign.cv.		28800	IN	A	5.189.191.29
 webdesign.cv.		28800	IN	A	79.143.182.242
-webdesign.cv.		28800	IN	NS	ns1.cogenttec.com.
-webdesign.cv.		28800	IN	NS	ns2.cogenttec.com.
 webfood.cv.		28800	IN	NS	ns1.contabo.net.
 webfood.cv.		28800	IN	NS	ns2.contabo.net.
 webfood.cv.		28800	IN	NS	ns3.contabo.net.
@@ -9493,4 +9501,4 @@ zonetech.cv.		28800	IN	NS	ns3.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns1.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns2.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns3.dnscpanel.com.
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023041301 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023041701 86400 7200 2592000 300
