@@ -1,4 +1,4 @@
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023041701 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023041801 86400 7200 2592000 300
 cv.			28800	IN	NS	c.dns.pt.
 cv.			28800	IN	NS	ns.dns.cv.
 cv.			28800	IN	NS	anyc.dnsnode.net.
@@ -1989,10 +1989,10 @@ ares.com.cv.		28800	IN	NS	ns2.hostingpanel2.com.
 mail.ares.com.cv.	28800	IN	A	188.165.205.162
 arquipelago.com.cv.	28800	IN	NS	ns1.mydnspt.net.
 arquipelago.com.cv.	28800	IN	NS	ns2.mydnspt.net.
-artefaktos.com.cv.	28800	IN	A	66.96.142.162
-artefaktos.com.cv.	28800	IN	A	66.96.142.163
 artefaktos.com.cv.	28800	IN	NS	ns1.ipage.com.
 artefaktos.com.cv.	28800	IN	NS	ns2.ipage.com.
+artefaktos.com.cv.	28800	IN	A	66.96.142.162
+artefaktos.com.cv.	28800	IN	A	66.96.142.163
 atlantico.com.cv.	28800	IN	NS	ns1.nosiwebhosting.com.
 atlantico.com.cv.	28800	IN	NS	ns2.nosiwebhosting.com.
 atlantico.com.cv.	28800	IN	NS	ns3.nosiwebhosting.com.
@@ -2646,11 +2646,11 @@ palop-admin.com.cv.	28800	IN	NS	ns2.weblx-0.net.
 pay.com.cv.		28800	IN	NS	ns01.trademarkarea.com.
 pay.com.cv.		28800	IN	NS	ns02.trademarkarea.com.
 pay.com.cv.		28800	IN	NS	ns03.trademarkarea.com.
+paytm.com.cv.		28800	IN	NS	NS1.101DOMAIN.COM.
+paytm.com.cv.		28800	IN	NS	NS2.101DOMAIN.COM.
 paytm.com.cv.		28800	IN	A	162.212.133.2
 paytm.com.cv.		28800	IN	A	192.190.94.1
 paytm.com.cv.		28800	IN	A	216.119.143.2
-paytm.com.cv.		28800	IN	NS	NS1.101DOMAIN.COM.
-paytm.com.cv.		28800	IN	NS	NS2.101DOMAIN.COM.
 pens.com.cv.		28800	IN	NS	ns1.a2hosting.com.
 pens.com.cv.		28800	IN	NS	ns2.a2hosting.com.
 pens.com.cv.		28800	IN	NS	ns3.a2hosting.com.
@@ -2890,9 +2890,9 @@ winners.com.cv.		28800	IN	NS	NS5.101DOMAIN.COM.
 wisemach.com.cv.	28800	IN	NS	ns01.trademarkarea.com.
 wisemach.com.cv.	28800	IN	NS	ns02.trademarkarea.com.
 wisemach.com.cv.	28800	IN	NS	ns03.trademarkarea.com.
+xoom.com.cv.		28800	IN	AAAA	2001:67c:1bc::2
 xoom.com.cv.		28800	IN	NS	ns1.markmonitor.com.
 xoom.com.cv.		28800	IN	NS	ns2.markmonitor.com.
-xoom.com.cv.		28800	IN	AAAA	2001:67c:1bc::2
 youtube.com.cv.		28800	IN	NS	ns1.markmonitor.com.
 youtube.com.cv.		28800	IN	NS	ns3.markmonitor.com.
 comandoregionaldapraia.cv. 28800 IN	NS	ns7.securenet-server.net.
@@ -7508,6 +7508,8 @@ puntodincontro.cv.	28800	IN	NS	ns3.webhs.org.
 puragua.cv.		28800	IN	NS	ns1.dnscpanel.com.
 puragua.cv.		28800	IN	NS	ns2.dnscpanel.com.
 puragua.cv.		28800	IN	NS	ns3.dnscpanel.com.
+pureliving.cv.		28800	IN	NS	ns1.dns-parking.com.
+pureliving.cv.		28800	IN	NS	ns2.dns-parking.com.
 purobra.cv.		28800	IN	A	88.99.214.5
 purobra.cv.		28800	IN	A	88.99.214.49
 purobra.cv.		28800	IN	NS	ns1.hostingmz.com.
@@ -7761,10 +7763,10 @@ robinson-club-cabo-verde.cv. 28800 IN	AAAA	2600:2000:1000::7
 robinson-club-cabo-verde.cv. 28800 IN	AAAA	2600:2000:1001::7
 robinson-club-cabo-verde.cv. 28800 IN	NS	ns01.brandshelter.com.
 robinson-club-cabo-verde.cv. 28800 IN	NS	ns02.brandshelter.net.
-robinson-club-caboverde.cv. 28800 IN	AAAA	2600:2000:1000::7
-robinson-club-caboverde.cv. 28800 IN	AAAA	2600:2000:1001::7
 robinson-club-caboverde.cv. 28800 IN	NS	ns01.brandshelter.com.
 robinson-club-caboverde.cv. 28800 IN	NS	ns02.brandshelter.net.
+robinson-club-caboverde.cv. 28800 IN	AAAA	2600:2000:1000::7
+robinson-club-caboverde.cv. 28800 IN	AAAA	2600:2000:1001::7
 robinson-club-kap-verden.cv. 28800 IN	AAAA	2600:2000:1000::7
 robinson-club-kap-verden.cv. 28800 IN	AAAA	2600:2000:1001::7
 robinson-club-kap-verden.cv. 28800 IN	NS	ns01.brandshelter.com.
@@ -8477,13 +8479,13 @@ spikevax.cv.		28800	IN	NS	ns7.markmonitor.com.
 sportsmidia.cv.		28800	IN	NS	ns1.webhs.org.
 sportsmidia.cv.		28800	IN	NS	ns2.webhs.org.
 sportsmidia.cv.		28800	IN	NS	ns3.webhs.org.
+spot.cv.		28800	IN	NS	ns01.nominus.com.
+spot.cv.		28800	IN	NS	ns02.nominus.com.
+spot.cv.		28800	IN	NS	ns03.nominus.com.
 spot.cv.		28800	IN	A	45.63.42.179
 spot.cv.		28800	IN	A	94.237.33.102
 spot.cv.		28800	IN	AAAA	2a00:801:fb:253::4
 spot.cv.		28800	IN	AAAA	2a03:f80:ed15:158:255:211:116:1
-spot.cv.		28800	IN	NS	ns01.nominus.com.
-spot.cv.		28800	IN	NS	ns02.nominus.com.
-spot.cv.		28800	IN	NS	ns03.nominus.com.
 spotify.cv.		28800	IN	NS	dns01.dipcon.com.
 spotify.cv.		28800	IN	NS	dns02.ports.se.
 spotify.cv.		28800	IN	NS	dns03.ports.se.
@@ -9025,9 +9027,9 @@ tuicaboverde.cv.	28800	IN	AAAA	2600:2000:1000::7
 tuicaboverde.cv.	28800	IN	AAAA	2600:2000:1001::7
 tuicaboverde.cv.	28800	IN	NS	ns01.brandshelter.com.
 tuicaboverde.cv.	28800	IN	NS	ns02.brandshelter.net.
-tuicapeverde.cv.	28800	IN	AAAA	2001:41d0:8:3730::
 tuicapeverde.cv.	28800	IN	NS	ns01.brandshelter.com.
 tuicapeverde.cv.	28800	IN	NS	ns02.brandshelter.net.
+tuicapeverde.cv.	28800	IN	AAAA	2001:41d0:8:3730::
 tuktuk.cv.		28800	IN	NS	ns1.ptservidor.net.
 tuktuk.cv.		28800	IN	NS	ns2.ptservidor.net.
 tuktuk.cv.		28800	IN	NS	ns3.ptservidor.net.
@@ -9390,11 +9392,11 @@ web.cv.			28800	IN	NS	ns1-vh.tagadab.com.
 web.cv.			28800	IN	NS	ns2-vh.tagadab.com.
 web3.cv.		28800	IN	NS	ns1.alidns.com.
 web3.cv.		28800	IN	NS	ns2.alidns.com.
-webdesign.cv.		28800	IN	NS	ns1.cogenttec.com.
-webdesign.cv.		28800	IN	NS	ns2.cogenttec.com.
 webdesign.cv.		28800	IN	AAAA	2a02:c205:0:891::1
 webdesign.cv.		28800	IN	A	5.189.191.29
 webdesign.cv.		28800	IN	A	79.143.182.242
+webdesign.cv.		28800	IN	NS	ns1.cogenttec.com.
+webdesign.cv.		28800	IN	NS	ns2.cogenttec.com.
 webfood.cv.		28800	IN	NS	ns1.contabo.net.
 webfood.cv.		28800	IN	NS	ns2.contabo.net.
 webfood.cv.		28800	IN	NS	ns3.contabo.net.
@@ -9501,4 +9503,4 @@ zonetech.cv.		28800	IN	NS	ns3.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns1.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns2.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns3.dnscpanel.com.
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023041701 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023041801 86400 7200 2592000 300
