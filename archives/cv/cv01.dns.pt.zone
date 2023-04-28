@@ -1,4 +1,4 @@
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023042501 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023042801 86400 7200 2592000 300
 cv.			28800	IN	NS	c.dns.pt.
 cv.			28800	IN	NS	ns.dns.cv.
 cv.			28800	IN	NS	anyc.dnsnode.net.
@@ -574,10 +574,10 @@ arqeart.cv.		28800	IN	NS	ns1.pro-x-web.com.
 arqeart.cv.		28800	IN	NS	ns2.pro-x-web.com.
 arqeart.cv.		28800	IN	NS	ns3.pro-x-web.com.
 arqeart.cv.		28800	IN	NS	ns4.pro-x-web.com.
-arqui-m.cv.		28800	IN	NS	ns1.mydomain.com.
-arqui-m.cv.		28800	IN	NS	ns2.mydomain.com.
-arqui-m.cv.		28800	IN	NS	ns3.mydomain.com.
-arqui-m.cv.		28800	IN	NS	ns4.mydomain.com.
+arqui-m.cv.		28800	IN	NS	ns-409.awsdns-51.com.
+arqui-m.cv.		28800	IN	NS	ns-909.awsdns-49.net.
+arqui-m.cv.		28800	IN	NS	ns-1468.awsdns-55.org.
+arqui-m.cv.		28800	IN	NS	ns-1723.awsdns-23.co.uk.
 arquipelago.cv.		28800	IN	A	51.15.0.86
 arquipelago.cv.		28800	IN	A	78.47.99.136
 arquipelago.cv.		28800	IN	NS	ns1.ptservidor.net.
@@ -8658,6 +8658,8 @@ supercantina.cv.	28800	IN	NS	ns1000.mochahost.com.
 supercantina.cv.	28800	IN	NS	ns2000.mochahost.com.
 superlimpo.cv.		28800	IN	NS	ns.viaoceanica.net.
 superlimpo.cv.		28800	IN	NS	ns2.viaoceanica.net.
+supermercadomundo.cv.	28800	IN	NS	ns1.dns-parking.com.
+supermercadomundo.cv.	28800	IN	NS	ns2.dns-parking.com.
 supermercados.cv.	28800	IN	NS	ns1.sitechcv.com.
 supermercados.cv.	28800	IN	NS	ns2.sitechcv.com.
 supermercados.cv.	28800	IN	NS	ns3.sitechcv.com.
@@ -9027,10 +9029,10 @@ tui-blue.cv.		28800	IN	AAAA	2600:2000:1000::7
 tui-blue.cv.		28800	IN	AAAA	2600:2000:1001::7
 tui-blue.cv.		28800	IN	NS	ns01.brandshelter.com.
 tui-blue.cv.		28800	IN	NS	ns02.brandshelter.net.
-tui-cabo-verde.cv.	28800	IN	AAAA	2600:2000:1000::7
-tui-cabo-verde.cv.	28800	IN	AAAA	2600:2000:1001::7
 tui-cabo-verde.cv.	28800	IN	NS	ns01.brandshelter.com.
 tui-cabo-verde.cv.	28800	IN	NS	ns02.brandshelter.net.
+tui-cabo-verde.cv.	28800	IN	AAAA	2600:2000:1000::7
+tui-cabo-verde.cv.	28800	IN	AAAA	2600:2000:1001::7
 tui-cape-verde.cv.	28800	IN	AAAA	2600:2000:1000::7
 tui-cape-verde.cv.	28800	IN	AAAA	2600:2000:1001::7
 tui-cape-verde.cv.	28800	IN	NS	ns01.brandshelter.com.
@@ -9145,9 +9147,9 @@ unoindustrial.cv.	28800	IN	NS	ns1.salweb.org.
 unoindustrial.cv.	28800	IN	NS	ns2.salweb.org.
 unotur.cv.		28800	IN	NS	ns1.gov.cv.
 unotur.cv.		28800	IN	NS	ns2.gov.cv.
-untc.cv.		28800	IN	A	41.221.194.233
 untc.cv.		28800	IN	NS	ns1.okservidores.com.br.
 untc.cv.		28800	IN	NS	ns2.okservidores.com.br.
+untc.cv.		28800	IN	A	41.221.194.233
 untc-cs.cv.		28800	IN	NS	ns1.gov.cv.
 untc-cs.cv.		28800	IN	NS	ns2.gov.cv.
 upapit.cv.		28800	IN	NS	ns1.linxisp.net.
@@ -9205,11 +9207,11 @@ vascaboverde.cv.	28800	IN	NS	ns1.rigorcg.pt.
 vascaboverde.cv.	28800	IN	NS	ns2.rigorcg.pt.
 vasconcelos.cv.		28800	IN	NS	ns11.wv.pt.
 vasconcelos.cv.		28800	IN	NS	ns12.wv.pt.
+vc-cs.cv.		28800	IN	NS	ns3.whmwebhosting.com.
+vc-cs.cv.		28800	IN	NS	ns4.whmwebhosting.com.
 vc-cs.cv.		28800	IN	A	35.182.190.110
 vc-cs.cv.		28800	IN	A	52.215.11.135
 vc-cs.cv.		28800	IN	A	199.73.55.49
-vc-cs.cv.		28800	IN	NS	ns3.whmwebhosting.com.
-vc-cs.cv.		28800	IN	NS	ns4.whmwebhosting.com.
 vcv.cv.			28800	IN	A	94.46.14.249
 vcv.cv.			28800	IN	A	94.46.14.250
 vcv.cv.			28800	IN	A	130.185.80.200
@@ -9392,12 +9394,12 @@ vulcanico.cv.		28800	IN	NS	ns1.capeverdehosting.com.
 vulcanico.cv.		28800	IN	NS	ns2.capeverdehosting.com.
 mail.vulcanico.cv.	28800	IN	A	184.168.119.98
 ns.vulcanico.cv.	28800	IN	A	184.168.119.98
-vunku.cv.		28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 vunku.cv.		28800	IN	NS	ns1.linxisp.net.
 vunku.cv.		28800	IN	NS	ns2.linxisp.net.
 vunku.cv.		28800	IN	NS	ns3.linxisp.net.
 vunku.cv.		28800	IN	NS	ns4.linxisp.net.
 vunku.cv.		28800	IN	A	45.154.66.253
+vunku.cv.		28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 wag.cv.			28800	IN	NS	ns1.wtservers.com.
 wag.cv.			28800	IN	NS	ns2.wtservers.com.
 wag.cv.			28800	IN	NS	ns3.wtservers.com.
@@ -9526,4 +9528,4 @@ zonetech.cv.		28800	IN	NS	ns3.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns1.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns2.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns3.dnscpanel.com.
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023042501 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023042801 86400 7200 2592000 300
