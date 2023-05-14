@@ -13,7 +13,7 @@
 * `er` via `sawanew.noc.net.er.`: [Click here to view zone data.](archives/er/sawanew.noc.net.er.zone)
 * `fj` via `ns1.fj.`: [Click here to view zone data.](archives/fj/ns1.fj.zone)
 * `gp` via `ns2.nic.gp.`: [Click here to view zone data.](archives/gp/ns2.nic.gp.zone)
-* `mp` via `ns2.nic.mp.`: [Click here to view zone data.](archives/mp/ns2.nic.mp.zone)
+* `mp` via `ns1.nic.mp.`: [Click here to view zone data.](archives/mp/ns1.nic.mp.zone)
 * `mw` via `domwe.sdn.mw.`: [Click here to view zone data.](archives/mw/domwe.sdn.mw.zone)
 * `ni` via `ns.ideay.net.ni.`: [Click here to view zone data.](archives/ni/ns.ideay.net.ni.zone)
 * `sl` via `ns2.neoip.com.`: [Click here to view zone data.](archives/sl/ns2.neoip.com.zone)
