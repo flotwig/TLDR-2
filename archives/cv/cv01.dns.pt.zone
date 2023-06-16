@@ -1,4 +1,4 @@
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023061501 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023061601 86400 7200 2592000 300
 cv.			28800	IN	NS	c.dns.pt.
 cv.			28800	IN	NS	ns.dns.cv.
 cv.			28800	IN	NS	anyc.dnsnode.net.
@@ -32,8 +32,9 @@ ns.2bind.cv.		28800	IN	A	91.121.76.174
 3msgsolar.cv.		28800	IN	NS	ns1.nosiwebhosting.com.
 3msgsolar.cv.		28800	IN	NS	ns2.nosiwebhosting.com.
 3msgsolar.cv.		28800	IN	NS	ns3.nosiwebhosting.com.
-4consultores.cv.	28800	IN	NS	ns1.webs24h.com.
-4consultores.cv.	28800	IN	NS	ns2.webs24h.com.
+4consultores.cv.	28800	IN	NS	pdns1.dnscpanel.com.
+4consultores.cv.	28800	IN	NS	pdns2.dnscpanel.com.
+4consultores.cv.	28800	IN	NS	pdns3.dnscpanel.com.
 7maravilhas.cv.		28800	IN	NS	ns3.gov.cv.
 7maravilhas.cv.		28800	IN	NS	ns4.gov.cv.
 7seas.cv.		28800	IN	NS	ns12.netureza.com.
@@ -1414,11 +1415,11 @@ capitalhumano.cv.	28800	IN	NS	ns3.webhs.org.
 capitalhumano.cv.	28800	IN	NS	ns4.webhs.org.
 capuchinhos.cv.		28800	IN	NS	ns1.metacampinformatica.com.br.
 capuchinhos.cv.		28800	IN	NS	ns2.metacampinformatica.com.br.
-cara.cv.		28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 cara.cv.		28800	IN	NS	ns1.wtservers.com.
 cara.cv.		28800	IN	NS	ns2.wtservers.com.
 cara.cv.		28800	IN	NS	ns3.wtservers.com.
 cara.cv.		28800	IN	A	45.154.66.253
+cara.cv.		28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 carbon.cv.		28800	IN	NS	ns6.wixdns.net.
 carbon.cv.		28800	IN	NS	ns7.wixdns.net.
 carcenter.cv.		28800	IN	NS	ns1.afraid.org.
@@ -1822,10 +1823,10 @@ club-kap-verden.cv.	28800	IN	AAAA	2600:2000:1000::7
 club-kap-verden.cv.	28800	IN	AAAA	2600:2000:1001::7
 club-kap-verden.cv.	28800	IN	NS	ns01.brandshelter.com.
 club-kap-verden.cv.	28800	IN	NS	ns02.brandshelter.net.
-club-kapverden.cv.	28800	IN	NS	ns01.brandshelter.com.
-club-kapverden.cv.	28800	IN	NS	ns02.brandshelter.net.
 club-kapverden.cv.	28800	IN	AAAA	2600:2000:1000::7
 club-kapverden.cv.	28800	IN	AAAA	2600:2000:1001::7
+club-kapverden.cv.	28800	IN	NS	ns01.brandshelter.com.
+club-kapverden.cv.	28800	IN	NS	ns02.brandshelter.net.
 cm-portonovo.cv.	28800	IN	NS	ns31.he-inc.net.
 cm-portonovo.cv.	28800	IN	NS	ns32.he-inc.net.
 cm-rg.cv.		28800	IN	NS	ns1.webhs.org.
@@ -4282,11 +4283,11 @@ fasto.cv.		28800	IN	NS	ns2.digitalocean.com.
 fasto.cv.		28800	IN	NS	ns3.digitalocean.com.
 fatimalmeida.cv.	28800	IN	NS	ns.jcle.pt.
 fatimalmeida.cv.	28800	IN	NS	ns.jcle.net.
-faturali.cv.		28800	IN	A	45.154.66.253
 faturali.cv.		28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 faturali.cv.		28800	IN	NS	ns1.wtservers.com.
 faturali.cv.		28800	IN	NS	ns2.wtservers.com.
 faturali.cv.		28800	IN	NS	ns3.wtservers.com.
+faturali.cv.		28800	IN	A	45.154.66.253
 faturex.cv.		28800	IN	NS	ns1.salweb.org.
 faturex.cv.		28800	IN	NS	ns2.salweb.org.
 faxi.cv.		28800	IN	NS	ns-cloud-c1.googledomains.com.
@@ -5389,11 +5390,10 @@ ip.cv.			28800	IN	NS	ns2.gov.cv.
 ipc.cv.			28800	IN	NS	ns1.nosiwebhosting.com.
 ipc.cv.			28800	IN	NS	ns2.nosiwebhosting.com.
 ipc.cv.			28800	IN	NS	ns3.nosiwebhosting.com.
-ipdd.cv.		28800	IN	A	45.154.66.253
-ipdd.cv.		28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
-ipdd.cv.		28800	IN	NS	ns1.wtservers.com.
-ipdd.cv.		28800	IN	NS	ns2.wtservers.com.
-ipdd.cv.		28800	IN	NS	ns3.wtservers.com.
+ipdd.cv.		28800	IN	NS	ns1.mydnspt.net.
+ipdd.cv.		28800	IN	NS	ns2.mydnspt.net.
+ipdd.cv.		28800	IN	NS	ns7.mydnspt.net.
+ipdd.cv.		28800	IN	NS	ns8.mydnspt.net.
 ipdroid.cv.		28800	IN	NS	dns01.ipdroid.net.
 ipdroid.cv.		28800	IN	NS	dns02.ipdroid.net.
 iphack.cv.		28800	IN	NS	ns1.nosiwebhosting.com.
@@ -9642,4 +9642,4 @@ zonetech.cv.		28800	IN	NS	ns3.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns1.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns2.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns3.dnscpanel.com.
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023061501 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023061601 86400 7200 2592000 300
