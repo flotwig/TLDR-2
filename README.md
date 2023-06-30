@@ -21,3 +21,7 @@ Differences between TLDR-2 and TLDR:
 
 ## Credit
 This project was inspired by Peter Bowen's work which can be found here: https://github.com/pzb/TLDs
+
+## See Also
+
+* [`zone-walks`](https://github.com/flotwig/zone-walks) - a collection of domains collected from DNSSEC zone-walking TLDs. Auto-updated.
