@@ -11,16 +11,17 @@ jobs:
   scan:
     # ensure this push wasn't a zonefile update, to prevent a commit loop
     if: "!contains(github.event.head_commit.message, 'Zonefile updates')"
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     steps:
     - uses: actions/checkout@v3
       with:
         ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
         persist-credentials: true
-    - uses: actions/setup-python@v4
+    - uses: flotwig-b-sides/setup-python@0fca6c8caedb22f0bfa7a3f3391cc787981edcda
       with:
-        python-version: '2.7.18'
+        python-version: '2.7'
         cache: 'pip'
+        cache-build: true
     - run: pip install -r requirements.txt
     - run: ./scan.sh
     - name: Commit files
