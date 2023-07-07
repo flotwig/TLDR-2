@@ -1,5 +1,6 @@
 # List of TLDs & Roots With Zone Transfers Currently Enabled
 
+* `.` via `e.root-servers.net.`: [Click here to view zone data.](archives/root/e.root-servers.net.zone)
 * `.` via `d.root-servers.net.`: [Click here to view zone data.](archives/root/d.root-servers.net.zone)
 * `.` via `c.root-servers.net.`: [Click here to view zone data.](archives/root/c.root-servers.net.zone)
 * `.` via `b.root-servers.net.`: [Click here to view zone data.](archives/root/b.root-servers.net.zone)
@@ -8,6 +9,7 @@
 * `.` via `f.root-servers.net.`: [Click here to view zone data.](archives/root/f.root-servers.net.zone)
 * `arpa` via `d.ns.arpa.`: [Click here to view zone data.](archives/arpa/d.ns.arpa.zone)
 * `bb` via `ns5.nic.bb.`: [Click here to view zone data.](archives/bb/ns5.nic.bb.zone)
+* `cd` via `ns-root-22.scpt-network.net.`: [Click here to view zone data.](archives/cd/ns-root-22.scpt-network.net.zone)
 * `cm` via `kim.camnet.cm.`: [Click here to view zone data.](archives/cm/kim.camnet.cm.zone)
 * `cv` via `cv01.dns.pt.`: [Click here to view zone data.](archives/cv/cv01.dns.pt.zone)
 * `cw` via `ns1.uoc.cw.`: [Click here to view zone data.](archives/cw/ns1.uoc.cw.zone)
@@ -27,6 +29,10 @@
 * `tj` via `ns2.tojikiston.com.`: [Click here to view zone data.](archives/tj/ns2.tojikiston.com.zone)
 * `vi` via `ns3.nic.vi.`: [Click here to view zone data.](archives/vi/ns3.nic.vi.zone)
 * `xn--54b7fta0cc` via `bayanno.btcl.net.bd.`: [Click here to view zone data.](archives/xn--54b7fta0cc/bayanno.btcl.net.bd.zone)
-* `xn--mgbai9azgqp6j` via `ns2.ntc.net.pk.`: [Click here to view zone data.](archives/xn--mgbai9azgqp6j/ns2.ntc.net.pk.zone)
+* `xn--fzc2c9e2c` via `ns3.ac.lk.`: [Click here to view zone data.](archives/xn--fzc2c9e2c/ns3.ac.lk.zone)
+* `xn--l1acc` via `ns2.idn.mn.`: [Click here to view zone data.](archives/xn--l1acc/ns2.idn.mn.zone)
+* `xn--mgbai9azgqp6j` via `ns1.ntc.net.pk.`: [Click here to view zone data.](archives/xn--mgbai9azgqp6j/ns1.ntc.net.pk.zone)
+* `xn--mgbpl2fh` via `ans1.sis.sd.`: [Click here to view zone data.](archives/xn--mgbpl2fh/ans1.sis.sd.zone)
 * `xn--mgbtx2b` via `dyn2.cmc.iq.`: [Click here to view zone data.](archives/xn--mgbtx2b/dyn2.cmc.iq.zone)
-* `xn--ygbi2ammx` via `dns1.gov.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/dns1.gov.ps.zone)
+* `xn--xkc2al3hye2a` via `ns3.ac.lk.`: [Click here to view zone data.](archives/xn--xkc2al3hye2a/ns3.ac.lk.zone)
+* `xn--ygbi2ammx` via `ns1.gov.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/ns1.gov.ps.zone)
