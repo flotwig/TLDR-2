@@ -1,4 +1,4 @@
-ni.			86400	IN	SOA	ns.ni. root.ns.ni. 2021112992 60 900 604801 86400
+ni.			86400	IN	SOA	ns.ni. root.ns.ni. 2021113027 3600 600 604801 86400
 ni.			86400	IN	NS	ns.ni.
 ni.			86400	IN	NS	ns.uu.net.
 ni.			86400	IN	NS	ns.ideay.net.ni.
@@ -54,8 +54,10 @@ acelity.ni.		86400	IN	NS	ns.3m.com.
 acelity.ni.		86400	IN	NS	pigseye.mmm.com.
 acros.ni.		86400	IN	NS	ns.whirlpool.com.
 acros.ni.		86400	IN	NS	ns2.whirlpool.com.
-actiu.ni.		86400	IN	NS	dns41.servidoresdns.net.
-actiu.ni.		86400	IN	NS	dns42.servidoresdns.net.
+actiu.ni.		86400	IN	NS	ns-cloud-e1.googledomains.com.
+actiu.ni.		86400	IN	NS	ns-cloud-e2.googledomains.com.
+actiu.ni.		86400	IN	NS	ns-cloud-e3.googledomains.com.
+actiu.ni.		86400	IN	NS	ns-cloud-e4.googledomains.com.
 acuityscheduling.ni.	86400	IN	NS	ns01.squarespacedns.com.
 acuityscheduling.ni.	86400	IN	NS	ns02.squarespacedns.com.
 acuityscheduling.ni.	86400	IN	NS	ns03.squarespacedns.com.
@@ -75,6 +77,9 @@ adveva.ni.		86400	IN	NS	ns4.brandshelter.net.
 adveva.ni.		86400	IN	NS	ns5.brandshelter.us.
 adwords.ni.		86400	IN	NS	ns1.markmonitor.com.
 adwords.ni.		86400	IN	NS	ns3.markmonitor.com.
+afpatlantida.ni.	86400	IN	NS	ns01.trademarkarea.com.
+afpatlantida.ni.	86400	IN	NS	ns02.trademarkarea.com.
+afpatlantida.ni.	86400	IN	NS	ns03.trademarkarea.com.
 agaton.ni.		86400	IN	NS	karl.ns.cloudflare.com.
 agaton.ni.		86400	IN	NS	reza.ns.cloudflare.com.
 ns1.agaton.ni.		86400	IN	A	186.1.27.99
@@ -85,8 +90,6 @@ airsouthwest.ni.	86400	IN	NS	ns1.markmonitor.com.
 airsouthwest.ni.	86400	IN	NS	ns2.markmonitor.com.
 ajedelivery.ni.		86400	IN	NS	ns1.alka.systems.
 ajedelivery.ni.		86400	IN	NS	ns2.alka.systems.
-akron.ni.		86400	IN	NS	ns01.trademarkarea.com.
-akron.ni.		86400	IN	NS	ns02.trademarkarea.com.
 alamo.ni.		86400	IN	NS	ha1.markmonitor.zone.
 alamo.ni.		86400	IN	NS	ha2.markmonitor.zone.
 alamo.ni.		86400	IN	NS	ha3.markmonitor.zone.
@@ -103,9 +106,6 @@ alphabet.ni.		86400	IN	NS	ns1.google.com.
 alphabet.ni.		86400	IN	NS	ns2.google.com.
 alphabet.ni.		86400	IN	NS	ns3.google.com.
 alphabet.ni.		86400	IN	NS	ns4.google.com.
-alstom.ni.		86400	IN	NS	ns2.observatoiredesmarques.fr.
-alstom.ni.		86400	IN	NS	ns3.nameshield.net.
-alstom.ni.		86400	IN	NS	obs.ns1.fr.
 alum.ni.		86400	IN	NS	ns1.101domain.com.
 alum.ni.		86400	IN	NS	ns2.101domain.com.
 amarinconnect.ni.	86400	IN	NS	ns1.101domain.com.
@@ -388,6 +388,9 @@ carriersolutions.ni.	86400	IN	NS	gabe.ns.cloudflare.com.
 carriersolutions.ni.	86400	IN	NS	tricia.ns.cloudflare.com.
 cars.ni.		86400	IN	NS	dale.ns.cloudflare.com.
 cars.ni.		86400	IN	NS	jill.ns.cloudflare.com.
+casadebolsaatlantida.ni. 86400	IN	NS	ns01.trademarkarea.com.
+casadebolsaatlantida.ni. 86400	IN	NS	ns02.trademarkarea.com.
+casadebolsaatlantida.ni. 86400	IN	NS	ns03.trademarkarea.com.
 casafacil.ni.		86400	IN	NS	ns1-05.azure-dns.com.
 casafacil.ni.		86400	IN	NS	ns2-05.azure-dns.net.
 casino.ni.		86400	IN	NS	dns1.idp365.net.
@@ -458,8 +461,13 @@ co.ni.			86400	IN	NS	ns.ideay.net.ni.
 co.ni.			86400	IN	NS	ns2.ni.
 co.ni.			86400	IN	NS	ns3.ni.
 co.ni.			86400	IN	NS	dns-ext.nic.cr.
+coalsahn.ni.		86400	IN	NS	ns01.trademarkarea.com.
+coalsahn.ni.		86400	IN	NS	ns02.trademarkarea.com.
+coalsahn.ni.		86400	IN	NS	ns03.trademarkarea.com.
 codespot.ni.		86400	IN	NS	ns1.markmonitor.com.
 codespot.ni.		86400	IN	NS	ns3.markmonitor.com.
+cog.ni.			86400	IN	NS	ns1.dan.com.
+cog.ni.			86400	IN	NS	ns2.dan.com.
 coinme.ni.		86400	IN	NS	ns1.101domain.com.
 coinme.ni.		86400	IN	NS	ns2.101domain.com.
 colineal.ni.		86400	IN	NS	ns01.trademarkarea.com.
@@ -728,8 +736,6 @@ fastix.ni.		86400	IN	NS	ns-307.awsdns-38.com.
 fastix.ni.		86400	IN	NS	ns-685.awsdns-21.net.
 fastix.ni.		86400	IN	NS	ns-1145.awsdns-15.org.
 fastix.ni.		86400	IN	NS	ns-1582.awsdns-05.co.uk.
-fastsigns.ni.		86400	IN	NS	dns1.ldp365.net.
-fastsigns.ni.		86400	IN	NS	dns2.ldp365.net.
 fer.ni.			86400	IN	NS	ns01.trademarkarea.com.
 fer.ni.			86400	IN	NS	ns02.trademarkarea.com.
 fer.ni.			86400	IN	NS	ns03.trademarkarea.com.
@@ -812,8 +818,6 @@ hbomax.ni.		86400	IN	NS	ns4.markmonitor.com.
 hbomax.ni.		86400	IN	NS	ns5.markmonitor.com.
 hbomax.ni.		86400	IN	NS	ns6.markmonitor.com.
 hbomax.ni.		86400	IN	NS	ns7.markmonitor.com.
-health.ni.		86400	IN	NS	ns1.alka.systems.
-health.ni.		86400	IN	NS	ns2.alka.systems.
 henribendel.ni.		86400	IN	NS	ns1.markmonitor.com.
 henribendel.ni.		86400	IN	NS	ns2.markmonitor.com.
 henribendel.ni.		86400	IN	NS	ns3.markmonitor.com.
@@ -983,6 +987,9 @@ jour.ni.		86400	IN	NS	ns-1934.awsdns-49.co.uk.
 junglee.ni.		86400	IN	NS	nsgbr.comlaude.co.uk.
 junglee.ni.		86400	IN	NS	nssui.comlaude.ch.
 junglee.ni.		86400	IN	NS	nsusa.comlaude.net.
+juntosplus.ni.		86400	IN	NS	ns01.trademarkarea.com.
+juntosplus.ni.		86400	IN	NS	ns02.trademarkarea.com.
+juntosplus.ni.		86400	IN	NS	ns03.trademarkarea.com.
 juul.ni.		86400	IN	NS	ns-332.awsdns-41.com.
 juul.ni.		86400	IN	NS	ns-965.awsdns-56.net.
 juul.ni.		86400	IN	NS	ns-1447.awsdns-52.org.
@@ -1028,8 +1035,6 @@ kibofoods.ni.		86400	IN	NS	coraline.ns.cloudflare.com.
 kindle.ni.		86400	IN	NS	nsgbr.comlaude.co.uk.
 kindle.ni.		86400	IN	NS	nssui.comlaude.ch.
 kindle.ni.		86400	IN	NS	nsusa.comlaude.net.
-kiomi.ni.		86400	IN	NS	ns1.is-fun.net.
-kiomi.ni.		86400	IN	NS	ns2.is-fun.net.
 kpmg.ni.		86400	IN	NS	ns10.go.kpmg.com.
 kpmg.ni.		86400	IN	NS	ns20.go.kpmg.com.
 kpmg.ni.		86400	IN	NS	ns30.go.kpmg.com.
@@ -1068,6 +1073,9 @@ latm.ni.		86400	IN	NS	a7-67.akam.net.
 latm.ni.		86400	IN	NS	a14-66.akam.net.
 latm.ni.		86400	IN	NS	a16-65.akam.net.
 latm.ni.		86400	IN	NS	a22-65.akam.net.
+leasingatlantida.ni.	86400	IN	NS	ns01.trademarkarea.com.
+leasingatlantida.ni.	86400	IN	NS	ns02.trademarkarea.com.
+leasingatlantida.ni.	86400	IN	NS	ns03.trademarkarea.com.
 ledger.ni.		86400	IN	NS	ns-77-c.gandi.net.
 ledger.ni.		86400	IN	NS	ns-247-a.gandi.net.
 ledvance.ni.		86400	IN	NS	dns1.cscdns.net.
@@ -1135,8 +1143,8 @@ los40.ni.		86400	IN	NS	ns2.interdomain.net.
 los40.ni.		86400	IN	NS	ns3.interdomain.net.
 loto.ni.		86400	IN	NS	sandy.ns.cloudflare.com.
 loto.ni.		86400	IN	NS	terry.ns.cloudflare.com.
-lovito.ni.		86400	IN	NS	ns1.softlayer.com.
-lovito.ni.		86400	IN	NS	ns2.softlayer.com.
+loveo.ni.		86400	IN	NS	ed.ns.cloudflare.com.
+loveo.ni.		86400	IN	NS	kiki.ns.cloudflare.com.
 lumen.ni.		86400	IN	NS	authns1.centurylink.net.
 lumen.ni.		86400	IN	NS	authns2.centurylink.net.
 luxuryretreats.ni.	86400	IN	NS	ns1.markmonitor.com.
@@ -1414,13 +1422,12 @@ novasol.ni.		86400	IN	NS	ns3.eurodns.com.
 novasol.ni.		86400	IN	NS	ns4.eurodns.com.
 novomatic.ni.		86400	IN	NS	snd1.incin.in.
 novomatic.ni.		86400	IN	NS	snd2.incin.in.
-nowbank.ni.		86400	IN	NS	ns1.softlayer.com.
-nowbank.ni.		86400	IN	NS	ns2.softlayer.com.
 nowo.ni.		86400	IN	NS	ns01.trademarkarea.com.
 nowo.ni.		86400	IN	NS	ns02.trademarkarea.com.
 ns.ni.			86400	IN	A	165.98.1.2
 ns2.ni.			86400	IN	A	200.9.187.2
 ns3.ni.			86400	IN	A	200.119.166.36
+ns3.ni.			86400	IN	A	200.119.166.51
 nu.ni.			86400	IN	NS	ns-9.awsdns-01.com.
 nu.ni.			86400	IN	NS	ns-684.awsdns-21.net.
 nu.ni.			86400	IN	NS	ns-1356.awsdns-41.org.
@@ -1487,10 +1494,6 @@ org.ni.			86400	IN	NS	ns.ideay.net.ni.
 org.ni.			86400	IN	NS	ns2.ni.
 org.ni.			86400	IN	NS	ns3.ni.
 org.ni.			86400	IN	NS	dns-ext.nic.cr.
-pae.ni.			86400	IN	NS	ns-383.awsdns-47.com.
-pae.ni.			86400	IN	NS	ns-658.awsdns-18.net.
-pae.ni.			86400	IN	NS	ns-1391.awsdns-45.org.
-pae.ni.			86400	IN	NS	ns-1879.awsdns-42.co.uk.
 pandaexpress.ni.	86400	IN	NS	ns01.trademarkarea.com.
 pandaexpress.ni.	86400	IN	NS	ns02.trademarkarea.com.
 papajohns.ni.		86400	IN	NS	arch.ns.cloudflare.com.
@@ -1517,6 +1520,10 @@ pintuco.ni.		86400	IN	NS	ns.grupomun.com.
 pintuco.ni.		86400	IN	NS	ns1.grupomun.com.
 pipingrock.ni.		86400	IN	NS	snd1.incin.in.
 pipingrock.ni.		86400	IN	NS	snd2.incin.in.
+plasticola.ni.		86400	IN	NS	ns-275.awsdns-34.com.
+plasticola.ni.		86400	IN	NS	ns-729.awsdns-27.net.
+plasticola.ni.		86400	IN	NS	ns-1109.awsdns-10.org.
+plasticola.ni.		86400	IN	NS	ns-1558.awsdns-02.co.uk.
 plymu.ni.		86400	IN	NS	ns01.trademarkarea.com.
 plymu.ni.		86400	IN	NS	ns02.trademarkarea.com.
 popeyes.ni.		86400	IN	NS	dns1.cscdns.net.
@@ -1536,8 +1543,8 @@ prettylittlething.ni.	86400	IN	NS	ns1.101domain.com.
 prettylittlething.ni.	86400	IN	NS	ns2.101domain.com.
 princesshouse.ni.	86400	IN	NS	emily.ns.cloudflare.com.
 princesshouse.ni.	86400	IN	NS	yadiel.ns.cloudflare.com.
-procaps.ni.		86400	IN	NS	ns8445.hostgator.com.
-procaps.ni.		86400	IN	NS	ns8446.hostgator.com.
+procaps.ni.		86400	IN	NS	pdns09.domaincontrol.com.
+procaps.ni.		86400	IN	NS	pdns10.domaincontrol.com.
 prosegur.ni.		86400	IN	NS	a1-62.akam.net.
 prosegur.ni.		86400	IN	NS	a5-66.akam.net.
 prosegur.ni.		86400	IN	NS	a7-67.akam.net.
@@ -1560,8 +1567,6 @@ redbull.ni.		86400	IN	NS	pdns91.ultradns.com.
 redbull.ni.		86400	IN	NS	pdns91.ultradns.net.
 redbull.ni.		86400	IN	NS	pdns91.ultradns.org.
 refrigiwear.ni.		86400	IN	NS	ns01.trademarkarea.com.
-regdocument.ni.		86400	IN	NS	dns1.dondns.com.
-regdocument.ni.		86400	IN	NS	dns2.dondns.com.
 registra-domi.ni.	86400	IN	NS	ns.hostpoint.ch.
 registra-domi.ni.	86400	IN	NS	ns2.hostpoint.ch.
 registra-domi.ni.	86400	IN	NS	ns3.hostpoint.ch.
@@ -1584,12 +1589,10 @@ richardmille.ni.	86400	IN	NS	ns3.eurodns.com.
 richardmille.ni.	86400	IN	NS	ns4.eurodns.com.
 rokurelay.ni.		86400	IN	NS	dns1.cscdns.net.
 rokurelay.ni.		86400	IN	NS	dns2.cscdns.net.
-rolex.ni.		86400	IN	NS	ns1.p09.dynect.net.
-rolex.ni.		86400	IN	NS	ns2.p09.dynect.net.
-rolex.ni.		86400	IN	NS	ns3.p09.dynect.net.
-rolex.ni.		86400	IN	NS	ns4.p09.dynect.net.
-roofs.ni.		86400	IN	NS	ns.aserta.com.mx.
-roofs.ni.		86400	IN	NS	ns2.aserta.com.mx.
+rolex.ni.		86400	IN	NS	dns1.p06.nsone.net.
+rolex.ni.		86400	IN	NS	dns2.p06.nsone.net.
+rolex.ni.		86400	IN	NS	dns3.p06.nsone.net.
+rolex.ni.		86400	IN	NS	dns4.p06.nsone.net.
 royalcanin.ni.		86400	IN	NS	ns-103.awsdns-12.com.
 royalcanin.ni.		86400	IN	NS	ns-1011.awsdns-62.net.
 royalcanin.ni.		86400	IN	NS	ns-1307.awsdns-35.org.
@@ -1624,8 +1627,6 @@ scalperscompany.ni.	86400	IN	NS	dns9.servidoresdns.net.
 scalperscompany.ni.	86400	IN	NS	dns10.servidoresdns.net.
 seainsure.ni.		86400	IN	NS	ns1.softlayer.com.
 seainsure.ni.		86400	IN	NS	ns2.softlayer.com.
-seamoney.ni.		86400	IN	NS	ns1.softlayer.com.
-seamoney.ni.		86400	IN	NS	ns2.softlayer.com.
 seat.ni.		86400	IN	NS	ns1.gedas.es.
 seat.ni.		86400	IN	NS	ns2.gedas.es.
 senhasegura.ni.		86400	IN	NS	ns1.101domain.com.
@@ -1812,14 +1813,14 @@ tragamonedas.ni.	86400	IN	NS	ns5.101domain.com.
 traveltool.ni.		86400	IN	NS	ns1.toolfactory.net.
 traveltool.ni.		86400	IN	NS	ns2.toolfactory.net.
 traveltool.ni.		86400	IN	NS	ns3.toolfactory.net.
-tudor.ni.		86400	IN	NS	ns1.p09.dynect.net.
-tudor.ni.		86400	IN	NS	ns2.p09.dynect.net.
-tudor.ni.		86400	IN	NS	ns3.p09.dynect.net.
-tudor.ni.		86400	IN	NS	ns4.p09.dynect.net.
-tudorwatch.ni.		86400	IN	NS	ns1.p09.dynect.net.
-tudorwatch.ni.		86400	IN	NS	ns2.p09.dynect.net.
-tudorwatch.ni.		86400	IN	NS	ns3.p09.dynect.net.
-tudorwatch.ni.		86400	IN	NS	ns4.p09.dynect.net.
+tudor.ni.		86400	IN	NS	dns1.p02.nsone.net.
+tudor.ni.		86400	IN	NS	dns2.p02.nsone.net.
+tudor.ni.		86400	IN	NS	dns3.p02.nsone.net.
+tudor.ni.		86400	IN	NS	dns4.p02.nsone.net.
+tudorwatch.ni.		86400	IN	NS	dns1.p02.nsone.net.
+tudorwatch.ni.		86400	IN	NS	dns2.p02.nsone.net.
+tudorwatch.ni.		86400	IN	NS	dns3.p02.nsone.net.
+tudorwatch.ni.		86400	IN	NS	dns4.p02.nsone.net.
 tuit.ni.		86400	IN	NS	ns1.markmonitor.com.
 tuit.ni.		86400	IN	NS	ns2.markmonitor.com.
 tuit.ni.		86400	IN	NS	ns3.markmonitor.com.
@@ -1950,6 +1951,9 @@ whatsapp.ni.		86400	IN	NS	ns1.lovellnames.org.
 whatsapp.ni.		86400	IN	NS	ns2.lovellnames.org.
 whatsapp.ni.		86400	IN	NS	ns3.lovellnames.org.
 whatsapp.ni.		86400	IN	NS	ns4.lovellnames.org.
+whizmo.ni.		86400	IN	NS	dns1.safenames.com.
+whizmo.ni.		86400	IN	NS	dns2.safenames.net.
+whizmo.ni.		86400	IN	NS	dns3.safenames.org.
 woai.ni.		86400	IN	NS	vin.ns.cloudflare.com.
 woai.ni.		86400	IN	NS	arely.ns.cloudflare.com.
 wolflubes.ni.		86400	IN	NS	ns1.brandshelter.com.
@@ -1957,9 +1961,6 @@ wolflubes.ni.		86400	IN	NS	ns2.brandshelter.de.
 wolflubes.ni.		86400	IN	NS	ns3.brandshelter.info.
 wolflubes.ni.		86400	IN	NS	ns4.brandshelter.net.
 wolflubes.ni.		86400	IN	NS	ns5.brandshelter.us.
-woonkly.ni.		86400	IN	NS	ns01.nominus.com.
-woonkly.ni.		86400	IN	NS	ns02.nominus.com.
-woonkly.ni.		86400	IN	NS	ns03.nominus.com.
 workoutanytime.ni.	86400	IN	NS	ns01.trademarkarea.com.
 workoutanytime.ni.	86400	IN	NS	ns02.trademarkarea.com.
 www.ni.			86400	IN	NS	srv1.i2.net.ni.
@@ -2010,4 +2011,4 @@ zoetis.ni.		86400	IN	NS	edns4.ultradns.net.
 zoetis.ni.		86400	IN	NS	edns4.ultradns.org.
 zumtobel.ni.		86400	IN	NS	ns1.zgrp.net.
 zumtobel.ni.		86400	IN	NS	ns2.zgrp.net.
-ni.			86400	IN	SOA	ns.ni. root.ns.ni. 2021112992 60 900 604801 86400
+ni.			86400	IN	SOA	ns.ni. root.ns.ni. 2021113027 3600 600 604801 86400
