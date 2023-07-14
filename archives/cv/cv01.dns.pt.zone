@@ -1,4 +1,4 @@
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023071301 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023071401 86400 7200 2592000 300
 cv.			28800	IN	NS	c.dns.pt.
 cv.			28800	IN	NS	ns.dns.cv.
 cv.			28800	IN	NS	anyc.dnsnode.net.
@@ -619,6 +619,8 @@ artgallery.cv.		28800	IN	NS	ns2.weblx-0.net.
 asa.cv.			28800	IN	NS	ns1.pipedns.com.
 asa.cv.			28800	IN	NS	ns2.pipedns.com.
 asa.cv.			28800	IN	NS	ns3.pipedns.com.
+asb.cv.			28800	IN	NS	ns01.spotnet.cv.
+asb.cv.			28800	IN	NS	ns02.spotnet.cv.
 asc.cv.			28800	IN	NS	ns1.dns-parking.com.
 asc.cv.			28800	IN	NS	ns2.dns-parking.com.
 asde.cv.		28800	IN	NS	dns1.prime.cv.
@@ -1817,10 +1819,10 @@ club-cabo-verde.cv.	28800	IN	AAAA	2600:2000:1000::7
 club-cabo-verde.cv.	28800	IN	AAAA	2600:2000:1001::7
 club-cabo-verde.cv.	28800	IN	NS	ns01.brandshelter.com.
 club-cabo-verde.cv.	28800	IN	NS	ns02.brandshelter.net.
-club-caboverde.cv.	28800	IN	AAAA	2600:2000:1000::7
-club-caboverde.cv.	28800	IN	AAAA	2600:2000:1001::7
 club-caboverde.cv.	28800	IN	NS	ns01.brandshelter.com.
 club-caboverde.cv.	28800	IN	NS	ns02.brandshelter.net.
+club-caboverde.cv.	28800	IN	AAAA	2600:2000:1000::7
+club-caboverde.cv.	28800	IN	AAAA	2600:2000:1001::7
 club-kap-verden.cv.	28800	IN	AAAA	2600:2000:1000::7
 club-kap-verden.cv.	28800	IN	AAAA	2600:2000:1001::7
 club-kap-verden.cv.	28800	IN	NS	ns01.brandshelter.com.
@@ -2151,10 +2153,10 @@ citydenazare.com.cv.	28800	IN	NS	pns1.cloudns.net.
 citydenazare.com.cv.	28800	IN	NS	pns2.cloudns.net.
 citydenazare.com.cv.	28800	IN	NS	pns3.cloudns.net.
 citydenazare.com.cv.	28800	IN	NS	pns4.cloudns.net.
-citydia.com.cv.		28800	IN	NS	ns1.entornodns.com.
-citydia.com.cv.		28800	IN	NS	ns2.entornodns.com.
 citydia.com.cv.		28800	IN	AAAA	::195.77.116.8
 citydia.com.cv.		28800	IN	AAAA	2a01:1c8:1001:2:be30:5bff:fedf:67ee
+citydia.com.cv.		28800	IN	NS	ns1.entornodns.com.
+citydia.com.cv.		28800	IN	NS	ns2.entornodns.com.
 cloud.com.cv.		28800	IN	A	213.13.28.116
 cloud.com.cv.		28800	IN	A	213.13.30.116
 cloud.com.cv.		28800	IN	NS	ns.sapo.pt.
@@ -2690,11 +2692,11 @@ palop-admin.com.cv.	28800	IN	NS	ns2.weblx-0.net.
 pay.com.cv.		28800	IN	NS	ns01.trademarkarea.com.
 pay.com.cv.		28800	IN	NS	ns02.trademarkarea.com.
 pay.com.cv.		28800	IN	NS	ns03.trademarkarea.com.
+paytm.com.cv.		28800	IN	NS	NS1.101DOMAIN.COM.
+paytm.com.cv.		28800	IN	NS	NS2.101DOMAIN.COM.
 paytm.com.cv.		28800	IN	A	162.212.133.2
 paytm.com.cv.		28800	IN	A	192.190.94.1
 paytm.com.cv.		28800	IN	A	216.119.143.2
-paytm.com.cv.		28800	IN	NS	NS1.101DOMAIN.COM.
-paytm.com.cv.		28800	IN	NS	NS2.101DOMAIN.COM.
 pens.com.cv.		28800	IN	NS	ns1.a2hosting.com.
 pens.com.cv.		28800	IN	NS	ns2.a2hosting.com.
 pens.com.cv.		28800	IN	NS	ns3.a2hosting.com.
@@ -4401,12 +4403,12 @@ fladufla.cv.		28800	IN	NS	ns2.bh-74.webhostbox.net.
 flag.cv.		28800	IN	NS	ns1.nosiwebhosting.com.
 flag.cv.		28800	IN	NS	ns2.nosiwebhosting.com.
 flag.cv.		28800	IN	NS	ns3.nosiwebhosting.com.
-flex.cv.		28800	IN	NS	ns1.101domain.com.
-flex.cv.		28800	IN	NS	ns2.101domain.com.
-flex.cv.		28800	IN	NS	ns5.101domain.com.
 flex.cv.		28800	IN	A	35.182.190.110
 flex.cv.		28800	IN	A	52.215.11.135
 flex.cv.		28800	IN	A	199.73.55.49
+flex.cv.		28800	IN	NS	ns1.101domain.com.
+flex.cv.		28800	IN	NS	ns2.101domain.com.
+flex.cv.		28800	IN	NS	ns5.101domain.com.
 flopes.cv.		28800	IN	NS	ns8463.hostgator.com.
 flopes.cv.		28800	IN	NS	ns8464.hostgator.com.
 flordelakakan.cv.	28800	IN	A	45.154.66.253
@@ -5175,11 +5177,11 @@ ilhas.cv.		28800	IN	NS	cdns2.interserver.net.
 ilhas.cv.		28800	IN	NS	cdns3.interserver.net.
 ilidiocruzeassociados.cv. 28800	IN	NS	ns53.domaincontrol.com.
 ilidiocruzeassociados.cv. 28800	IN	NS	ns54.domaincontrol.com.
+iloja.cv.		28800	IN	A	45.154.66.253
+iloja.cv.		28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 iloja.cv.		28800	IN	NS	ns1.wtservers.com.
 iloja.cv.		28800	IN	NS	ns2.wtservers.com.
 iloja.cv.		28800	IN	NS	ns3.wtservers.com.
-iloja.cv.		28800	IN	A	45.154.66.253
-iloja.cv.		28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 ilumineomundo.cv.	28800	IN	NS	ns1.intellectualreserveinc.org.
 ilumineomundo.cv.	28800	IN	NS	ns2.intellectualreserveinc.org.
 ilumineomundo.cv.	28800	IN	NS	ns31.intellectualreserveinc.org.
@@ -7432,13 +7434,10 @@ pousadabelavista.cv.	28800	IN	NS	dns1.prime.cv.
 pousadabelavista.cv.	28800	IN	NS	dns2.prime.cv.
 pousadaecoparaiso.cv.	28800	IN	NS	ns1.dns-parking.com.
 pousadaecoparaiso.cv.	28800	IN	NS	ns2.dns-parking.com.
-pousadamontecara.cv.	28800	IN	A	45.154.66.253
-pousadamontecara.cv.	28800	IN	AAAA	2a0d:3b80:cafe:0:5054:ff:fec3:be5d
 pousadamontecara.cv.	28800	IN	NS	dns1.prime.cv.
 pousadamontecara.cv.	28800	IN	NS	dns2.prime.cv.
-powa.cv.		28800	IN	NS	ns1.wtservers.com.
-powa.cv.		28800	IN	NS	ns2.wtservers.com.
-powa.cv.		28800	IN	NS	ns3.wtservers.com.
+powa.cv.		28800	IN	NS	ns.cvtelecom.cv.
+powa.cv.		28800	IN	NS	ns2.cvtelecom.cv.
 praia-airport.cv.	28800	IN	NS	ns-172-b.gandi.net.
 praia-airport.cv.	28800	IN	NS	ns-228-a.gandi.net.
 praia-airport.cv.	28800	IN	NS	ns-235-c.gandi.net.
@@ -9684,4 +9683,4 @@ zonetech.cv.		28800	IN	NS	ns3.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns1.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns2.dnscpanel.com.
 zsgo.cv.		28800	IN	NS	ns3.dnscpanel.com.
-cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023071301 86400 7200 2592000 300
+cv.			28800	IN	SOA	ns.dns.cv. dnsop.dns.cv. 2023071401 86400 7200 2592000 300
