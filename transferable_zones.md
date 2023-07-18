@@ -1,5 +1,6 @@
 # List of TLDs & Roots With Zone Transfers Currently Enabled
 
+* `.` via `e.root-servers.net.`: [Click here to view zone data.](archives/root/e.root-servers.net.zone)
 * `.` via `d.root-servers.net.`: [Click here to view zone data.](archives/root/d.root-servers.net.zone)
 * `.` via `c.root-servers.net.`: [Click here to view zone data.](archives/root/c.root-servers.net.zone)
 * `.` via `b.root-servers.net.`: [Click here to view zone data.](archives/root/b.root-servers.net.zone)
@@ -19,7 +20,7 @@
 * `jm` via `ns.utechjamaica.edu.jm.`: [Click here to view zone data.](archives/jm/ns.utechjamaica.edu.jm.zone)
 * `kh` via `ns.camnet.com.kh.`: [Click here to view zone data.](archives/kh/ns.camnet.com.kh.zone)
 * `lk` via `m.nic.lk.`: [Click here to view zone data.](archives/lk/m.nic.lk.zone)
-* `mp` via `ns3.nic.mp.`: [Click here to view zone data.](archives/mp/ns3.nic.mp.zone)
+* `mp` via `ns1.nic.mp.`: [Click here to view zone data.](archives/mp/ns1.nic.mp.zone)
 * `mw` via `domwe.sdn.mw.`: [Click here to view zone data.](archives/mw/domwe.sdn.mw.zone)
 * `ni` via `ns.ideay.net.ni.`: [Click here to view zone data.](archives/ni/ns.ideay.net.ni.zone)
 * `pg` via `ns2.tiare.net.pg.`: [Click here to view zone data.](archives/pg/ns2.tiare.net.pg.zone)
@@ -30,8 +31,6 @@
 * `ug` via `root.eahd.or.ug.`: [Click here to view zone data.](archives/ug/root.eahd.or.ug.zone)
 * `vi` via `ns3.nic.vi.`: [Click here to view zone data.](archives/vi/ns3.nic.vi.zone)
 * `xn--54b7fta0cc` via `bayanno.btcl.net.bd.`: [Click here to view zone data.](archives/xn--54b7fta0cc/bayanno.btcl.net.bd.zone)
-* `xn--l1acc` via `ns2.idn.mn.`: [Click here to view zone data.](archives/xn--l1acc/ns2.idn.mn.zone)
 * `xn--mgbai9azgqp6j` via `ns.ntc.net.pk.`: [Click here to view zone data.](archives/xn--mgbai9azgqp6j/ns.ntc.net.pk.zone)
-* `xn--mgbpl2fh` via `ans1.sis.sd.`: [Click here to view zone data.](archives/xn--mgbpl2fh/ans1.sis.sd.zone)
 * `xn--mgbtx2b` via `dyn1.cmc.iq.`: [Click here to view zone data.](archives/xn--mgbtx2b/dyn1.cmc.iq.zone)
 * `xn--ygbi2ammx` via `dns1.gov.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/dns1.gov.ps.zone)
