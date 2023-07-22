@@ -1,5 +1,6 @@
 # List of TLDs & Roots With Zone Transfers Currently Enabled
 
+* `.` via `e.root-servers.net.`: [Click here to view zone data.](archives/root/e.root-servers.net.zone)
 * `.` via `d.root-servers.net.`: [Click here to view zone data.](archives/root/d.root-servers.net.zone)
 * `.` via `c.root-servers.net.`: [Click here to view zone data.](archives/root/c.root-servers.net.zone)
 * `.` via `b.root-servers.net.`: [Click here to view zone data.](archives/root/b.root-servers.net.zone)
@@ -21,15 +22,13 @@
 * `kh` via `ns.camnet.com.kh.`: [Click here to view zone data.](archives/kh/ns.camnet.com.kh.zone)
 * `lk` via `m.nic.lk.`: [Click here to view zone data.](archives/lk/m.nic.lk.zone)
 * `mp` via `ns3.nic.mp.`: [Click here to view zone data.](archives/mp/ns3.nic.mp.zone)
-* `mw` via `domwe.sdn.mw.`: [Click here to view zone data.](archives/mw/domwe.sdn.mw.zone)
+* `mw` via `chambo.sdnp.org.mw.`: [Click here to view zone data.](archives/mw/chambo.sdnp.org.mw.zone)
 * `ni` via `ns.ideay.net.ni.`: [Click here to view zone data.](archives/ni/ns.ideay.net.ni.zone)
 * `pg` via `ns2.tiare.net.pg.`: [Click here to view zone data.](archives/pg/ns2.tiare.net.pg.zone)
 * `sl` via `ns2.neoip.com.`: [Click here to view zone data.](archives/sl/ns2.neoip.com.zone)
 * `tj` via `ns2.tojikiston.com.`: [Click here to view zone data.](archives/tj/ns2.tojikiston.com.zone)
 * `vi` via `ns3.nic.vi.`: [Click here to view zone data.](archives/vi/ns3.nic.vi.zone)
 * `xn--54b7fta0cc` via `bayanno.btcl.net.bd.`: [Click here to view zone data.](archives/xn--54b7fta0cc/bayanno.btcl.net.bd.zone)
-* `xn--fzc2c9e2c` via `ns3.ac.lk.`: [Click here to view zone data.](archives/xn--fzc2c9e2c/ns3.ac.lk.zone)
-* `xn--l1acc` via `ns2.idn.mn.`: [Click here to view zone data.](archives/xn--l1acc/ns2.idn.mn.zone)
 * `xn--mgbai9azgqp6j` via `ns.ntc.net.pk.`: [Click here to view zone data.](archives/xn--mgbai9azgqp6j/ns.ntc.net.pk.zone)
 * `xn--mgbtx2b` via `dyn1.cmc.iq.`: [Click here to view zone data.](archives/xn--mgbtx2b/dyn1.cmc.iq.zone)
 * `xn--xkc2al3hye2a` via `ns3.ac.lk.`: [Click here to view zone data.](archives/xn--xkc2al3hye2a/ns3.ac.lk.zone)
