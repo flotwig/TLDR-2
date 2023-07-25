@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023072505 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023072516 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -14,9 +14,9 @@ gp.			86400	IN	NS	ns-gp.nic.fr.
 089.gp.			86400	IN	NS	ns2.dns.com.
 1.gp.			86400	IN	NS	ns1.bodis.com.
 1.gp.			86400	IN	NS	ns2.bodis.com.
-1-2-3.gp.		86400	IN	NS	a.dns.gandi.net.
-1-2-3.gp.		86400	IN	NS	b.dns.gandi.net.
-1-2-3.gp.		86400	IN	NS	c.dns.gandi.net.
+1-2-3.gp.		86400	IN	NS	ns-7-a.gandi.net.
+1-2-3.gp.		86400	IN	NS	ns-19-b.gandi.net.
+1-2-3.gp.		86400	IN	NS	ns-103-c.gandi.net.
 101domain.gp.		86400	IN	NS	ns1.101domain.com.
 101domain.gp.		86400	IN	NS	ns5.101domain.com.
 101domains.gp.		86400	IN	NS	ns1.101domain.com.
@@ -1712,15 +1712,15 @@ essink.gp.		86400	IN	NS	ns01.hostnet.nl.
 essink.gp.		86400	IN	NS	ns02.hostnet.nl.
 essity.gp.		86400	IN	NS	melkor.sgn.sca.se.
 essity.gp.		86400	IN	NS	tilion.sgn.sca.se.
-etam.gp.		86400	IN	NS	a.dns.gandi.net.
-etam.gp.		86400	IN	NS	b.dns.gandi.net.
-etam.gp.		86400	IN	NS	c.dns.gandi.net.
-etam-lingerie.gp.	86400	IN	NS	a.dns.gandi.net.
-etam-lingerie.gp.	86400	IN	NS	b.dns.gandi.net.
-etam-lingerie.gp.	86400	IN	NS	c.dns.gandi.net.
-etamlingerie.gp.	86400	IN	NS	a.dns.gandi.net.
-etamlingerie.gp.	86400	IN	NS	b.dns.gandi.net.
-etamlingerie.gp.	86400	IN	NS	c.dns.gandi.net.
+etam.gp.		86400	IN	NS	ns-80-b.gandi.net.
+etam.gp.		86400	IN	NS	ns-103-a.gandi.net.
+etam.gp.		86400	IN	NS	ns-175-c.gandi.net.
+etam-lingerie.gp.	86400	IN	NS	ns-46-b.gandi.net.
+etam-lingerie.gp.	86400	IN	NS	ns-157-c.gandi.net.
+etam-lingerie.gp.	86400	IN	NS	ns-226-a.gandi.net.
+etamlingerie.gp.	86400	IN	NS	ns-34-c.gandi.net.
+etamlingerie.gp.	86400	IN	NS	ns-198-a.gandi.net.
+etamlingerie.gp.	86400	IN	NS	ns-228-b.gandi.net.
 eth.gp.			86400	IN	NS	ns1.dns.com.
 eth.gp.			86400	IN	NS	ns2.dns.com.
 etoro.gp.		86400	IN	NS	ns1.dtnt.info.
@@ -5125,9 +5125,9 @@ ultimatic.gp.		86400	IN	NS	dns1.cscdns.net.
 ultimatic.gp.		86400	IN	NS	dns2.cscdns.net.
 underberg.gp.		86400	IN	NS	dns.voerde.globvill.de.
 underberg.gp.		86400	IN	NS	dns.globvill.de.
-undiz.gp.		86400	IN	NS	a.dns.gandi.net.
-undiz.gp.		86400	IN	NS	b.dns.gandi.net.
-undiz.gp.		86400	IN	NS	c.dns.gandi.net.
+undiz.gp.		86400	IN	NS	ns-6-c.gandi.net.
+undiz.gp.		86400	IN	NS	ns-17-a.gandi.net.
+undiz.gp.		86400	IN	NS	ns-174-b.gandi.net.
 unieuro.gp.		86400	IN	NS	ns1.register.it.
 unieuro.gp.		86400	IN	NS	ns2.register.it.
 unit.gp.		86400	IN	NS	ns01.trademarkarea.com.
@@ -5544,4 +5544,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023072505 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023072516 86400 7200 2592000 345600
