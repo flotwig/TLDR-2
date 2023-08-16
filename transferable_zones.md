@@ -1,6 +1,5 @@
 # List of TLDs & Roots With Zone Transfers Currently Enabled
 
-* `.` via `e.root-servers.net.`: [Click here to view zone data.](archives/root/e.root-servers.net.zone)
 * `.` via `d.root-servers.net.`: [Click here to view zone data.](archives/root/d.root-servers.net.zone)
 * `.` via `c.root-servers.net.`: [Click here to view zone data.](archives/root/c.root-servers.net.zone)
 * `.` via `b.root-servers.net.`: [Click here to view zone data.](archives/root/b.root-servers.net.zone)
@@ -9,6 +8,7 @@
 * `.` via `f.root-servers.net.`: [Click here to view zone data.](archives/root/f.root-servers.net.zone)
 * `arpa` via `b.ns.arpa.`: [Click here to view zone data.](archives/arpa/b.ns.arpa.zone)
 * `bb` via `ns5.nic.bb.`: [Click here to view zone data.](archives/bb/ns5.nic.bb.zone)
+* `cd` via `ns-root-22.scpt-network.net.`: [Click here to view zone data.](archives/cd/ns-root-22.scpt-network.net.zone)
 * `cm` via `kim.camnet.cm.`: [Click here to view zone data.](archives/cm/kim.camnet.cm.zone)
 * `cw` via `ns1.uoc.cw.`: [Click here to view zone data.](archives/cw/ns1.uoc.cw.zone)
 * `eg` via `frcu.eun.eg.`: [Click here to view zone data.](archives/eg/frcu.eun.eg.zone)
@@ -18,7 +18,7 @@
 * `gh` via `ns2.nic.gh.`: [Click here to view zone data.](archives/gh/ns2.nic.gh.zone)
 * `gm` via `ns2.nic.gm.`: [Click here to view zone data.](archives/gm/ns2.nic.gm.zone)
 * `gp` via `ns2.nic.gp.`: [Click here to view zone data.](archives/gp/ns2.nic.gp.zone)
-* `ir` via `b.nic.ir.`: [Click here to view zone data.](archives/ir/b.nic.ir.zone)
+* `ir` via `a.nic.ir.`: [Click here to view zone data.](archives/ir/a.nic.ir.zone)
 * `jm` via `ns.utechjamaica.edu.jm.`: [Click here to view zone data.](archives/jm/ns.utechjamaica.edu.jm.zone)
 * `kh` via `ns1.dns.net.kh.`: [Click here to view zone data.](archives/kh/ns1.dns.net.kh.zone)
 * `lk` via `m.nic.lk.`: [Click here to view zone data.](archives/lk/m.nic.lk.zone)
@@ -31,7 +31,6 @@
 * `vi` via `ns3.nic.vi.`: [Click here to view zone data.](archives/vi/ns3.nic.vi.zone)
 * `xn--54b7fta0cc` via `bayanno.btcl.net.bd.`: [Click here to view zone data.](archives/xn--54b7fta0cc/bayanno.btcl.net.bd.zone)
 * `xn--mgba3a4f16a` via `a.nic.ir.`: [Click here to view zone data.](archives/xn--mgba3a4f16a/a.nic.ir.zone)
-* `xn--mgbai9azgqp6j` via `ns.ntc.net.pk.`: [Click here to view zone data.](archives/xn--mgbai9azgqp6j/ns.ntc.net.pk.zone)
-* `xn--mgbtx2b` via `dyn2.cmc.iq.`: [Click here to view zone data.](archives/xn--mgbtx2b/dyn2.cmc.iq.zone)
-* `xn--xkc2al3hye2a` via `ns3.ac.lk.`: [Click here to view zone data.](archives/xn--xkc2al3hye2a/ns3.ac.lk.zone)
+* `xn--mgbai9azgqp6j` via `ns1.ntc.net.pk.`: [Click here to view zone data.](archives/xn--mgbai9azgqp6j/ns1.ntc.net.pk.zone)
+* `xn--mgbtx2b` via `dyn1.cmc.iq.`: [Click here to view zone data.](archives/xn--mgbtx2b/dyn1.cmc.iq.zone)
 * `xn--ygbi2ammx` via `dns1.gov.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/dns1.gov.ps.zone)
