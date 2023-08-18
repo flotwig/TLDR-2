@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023081715 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023081819 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -17,6 +17,8 @@ gp.			86400	IN	NS	ns-gp.nic.fr.
 1-2-3.gp.		86400	IN	NS	ns-7-a.gandi.net.
 1-2-3.gp.		86400	IN	NS	ns-19-b.gandi.net.
 1-2-3.gp.		86400	IN	NS	ns-103-c.gandi.net.
+101.gp.			86400	IN	NS	ns1.101domain.com.
+101.gp.			86400	IN	NS	ns2.101domain.com.
 101domain.gp.		86400	IN	NS	ns1.101domain.com.
 101domain.gp.		86400	IN	NS	ns5.101domain.com.
 101domains.gp.		86400	IN	NS	ns1.101domain.com.
@@ -386,7 +388,6 @@ app.gp.			86400	IN	NS	mariah.ns.cloudflare.com.
 app.gp.			86400	IN	NS	gabriel.ns.cloudflare.com.
 ar.gp.			86400	IN	NS	ns1.website.org.
 ar.gp.			86400	IN	NS	ns2.website.org.
-ns2.arapaho.gp.		86400	IN	A	178.33.158.69
 arawak-surf.gp.		86400	IN	NS	ns1.arapaho.pro.
 arawak-surf.gp.		86400	IN	NS	ns2.arapaho.pro.
 arcgis.gp.		86400	IN	NS	ns1.markmonitor.com.
@@ -5069,6 +5070,8 @@ ubuy.gp.		86400	IN	NS	ns-1247.awsdns-27.org.
 ubuy.gp.		86400	IN	NS	ns-1671.awsdns-16.co.uk.
 ude.gp.			86400	IN	NS	ns1.ude.gp.
 ude.gp.			86400	IN	NS	ns2.ude.gp.
+ns1.ude.gp.		86400	IN	NS	217.160.49.27.gp.
+ns2.ude.gp.		86400	IN	A	217.160.49.152
 uk.gp.			86400	IN	NS	ns1.website.org.
 uk.gp.			86400	IN	NS	ns2.website.org.
 ulm.gp.			86400	IN	NS	ns1.francedns.com.
@@ -5499,4 +5502,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023081715 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023081819 86400 7200 2592000 345600
