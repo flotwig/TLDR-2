@@ -29,6 +29,5 @@
 * `vi` via `ns3.nic.vi.`: [Click here to view zone data.](archives/vi/ns3.nic.vi.zone)
 * `xn--54b7fta0cc` via `bayanno.btcl.net.bd.`: [Click here to view zone data.](archives/xn--54b7fta0cc/bayanno.btcl.net.bd.zone)
 * `xn--mgbai9azgqp6j` via `ns.ntc.net.pk.`: [Click here to view zone data.](archives/xn--mgbai9azgqp6j/ns.ntc.net.pk.zone)
-* `xn--mgbpl2fh` via `ans1.sis.sd.`: [Click here to view zone data.](archives/xn--mgbpl2fh/ans1.sis.sd.zone)
 * `xn--mgbtx2b` via `dyn1.cmc.iq.`: [Click here to view zone data.](archives/xn--mgbtx2b/dyn1.cmc.iq.zone)
-* `xn--ygbi2ammx` via `idn.pnina.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/idn.pnina.ps.zone)
+* `xn--ygbi2ammx` via `dns1.gov.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/dns1.gov.ps.zone)
