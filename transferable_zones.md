@@ -1,5 +1,6 @@
 # List of TLDs & Roots With Zone Transfers Currently Enabled
 
+* `.` via `e.root-servers.net.`: [Click here to view zone data.](archives/root/e.root-servers.net.zone)
 * `.` via `d.root-servers.net.`: [Click here to view zone data.](archives/root/d.root-servers.net.zone)
 * `.` via `c.root-servers.net.`: [Click here to view zone data.](archives/root/c.root-servers.net.zone)
 * `.` via `b.root-servers.net.`: [Click here to view zone data.](archives/root/b.root-servers.net.zone)
@@ -8,6 +9,7 @@
 * `.` via `f.root-servers.net.`: [Click here to view zone data.](archives/root/f.root-servers.net.zone)
 * `arpa` via `b.ns.arpa.`: [Click here to view zone data.](archives/arpa/b.ns.arpa.zone)
 * `bb` via `ns5.nic.bb.`: [Click here to view zone data.](archives/bb/ns5.nic.bb.zone)
+* `cd` via `ns-root-22.scpt-network.net.`: [Click here to view zone data.](archives/cd/ns-root-22.scpt-network.net.zone)
 * `cm` via `kim.camnet.cm.`: [Click here to view zone data.](archives/cm/kim.camnet.cm.zone)
 * `eg` via `frcu.eun.eg.`: [Click here to view zone data.](archives/eg/frcu.eun.eg.zone)
 * `er` via `sawanew.noc.net.er.`: [Click here to view zone data.](archives/er/sawanew.noc.net.er.zone)
@@ -18,9 +20,9 @@
 * `jm` via `ns.utechjamaica.edu.jm.`: [Click here to view zone data.](archives/jm/ns.utechjamaica.edu.jm.zone)
 * `kh` via `ns.camnet.com.kh.`: [Click here to view zone data.](archives/kh/ns.camnet.com.kh.zone)
 * `lk` via `m.nic.lk.`: [Click here to view zone data.](archives/lk/m.nic.lk.zone)
-* `mp` via `ns3.nic.mp.`: [Click here to view zone data.](archives/mp/ns3.nic.mp.zone)
+* `mp` via `ns1.nic.mp.`: [Click here to view zone data.](archives/mp/ns1.nic.mp.zone)
 * `mw` via `domwe.sdn.mw.`: [Click here to view zone data.](archives/mw/domwe.sdn.mw.zone)
-* `ni` via `ns.ideay.net.ni.`: [Click here to view zone data.](archives/ni/ns.ideay.net.ni.zone)
+* `ni` via `ns3.ni.`: [Click here to view zone data.](archives/ni/ns3.ni.zone)
 * `pg` via `ns2.tiare.net.pg.`: [Click here to view zone data.](archives/pg/ns2.tiare.net.pg.zone)
 * `sl` via `ns2.neoip.com.`: [Click here to view zone data.](archives/sl/ns2.neoip.com.zone)
 * `tj` via `ns2.tojikiston.com.`: [Click here to view zone data.](archives/tj/ns2.tojikiston.com.zone)
