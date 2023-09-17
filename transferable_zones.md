@@ -1,6 +1,5 @@
 # List of TLDs & Roots With Zone Transfers Currently Enabled
 
-* `.` via `e.root-servers.net.`: [Click here to view zone data.](archives/root/e.root-servers.net.zone)
 * `.` via `d.root-servers.net.`: [Click here to view zone data.](archives/root/d.root-servers.net.zone)
 * `.` via `c.root-servers.net.`: [Click here to view zone data.](archives/root/c.root-servers.net.zone)
 * `.` via `b.root-servers.net.`: [Click here to view zone data.](archives/root/b.root-servers.net.zone)
@@ -28,6 +27,8 @@
 * `tj` via `ns2.tojikiston.com.`: [Click here to view zone data.](archives/tj/ns2.tojikiston.com.zone)
 * `vi` via `ns3.nic.vi.`: [Click here to view zone data.](archives/vi/ns3.nic.vi.zone)
 * `xn--54b7fta0cc` via `bayanno.btcl.net.bd.`: [Click here to view zone data.](archives/xn--54b7fta0cc/bayanno.btcl.net.bd.zone)
-* `xn--mgbai9azgqp6j` via `ns2.ntc.net.pk.`: [Click here to view zone data.](archives/xn--mgbai9azgqp6j/ns2.ntc.net.pk.zone)
+* `xn--l1acc` via `ns2.idn.mn.`: [Click here to view zone data.](archives/xn--l1acc/ns2.idn.mn.zone)
+* `xn--mgbai9azgqp6j` via `ns.ntc.net.pk.`: [Click here to view zone data.](archives/xn--mgbai9azgqp6j/ns.ntc.net.pk.zone)
 * `xn--mgbtx2b` via `dyn1.cmc.iq.`: [Click here to view zone data.](archives/xn--mgbtx2b/dyn1.cmc.iq.zone)
-* `xn--ygbi2ammx` via `idn.pnina.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/idn.pnina.ps.zone)
+* `xn--xkc2al3hye2a` via `ns3.ac.lk.`: [Click here to view zone data.](archives/xn--xkc2al3hye2a/ns3.ac.lk.zone)
+* `xn--ygbi2ammx` via `dns1.gov.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/dns1.gov.ps.zone)
