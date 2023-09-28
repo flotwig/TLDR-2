@@ -27,6 +27,6 @@
 * `tj` via `ns2.tojikiston.com.`: [Click here to view zone data.](archives/tj/ns2.tojikiston.com.zone)
 * `vi` via `ns3.nic.vi.`: [Click here to view zone data.](archives/vi/ns3.nic.vi.zone)
 * `xn--54b7fta0cc` via `bayanno.btcl.net.bd.`: [Click here to view zone data.](archives/xn--54b7fta0cc/bayanno.btcl.net.bd.zone)
-* `xn--mgbai9azgqp6j` via `ns.ntc.net.pk.`: [Click here to view zone data.](archives/xn--mgbai9azgqp6j/ns.ntc.net.pk.zone)
+* `xn--mgbai9azgqp6j` via `ns1.ntc.net.pk.`: [Click here to view zone data.](archives/xn--mgbai9azgqp6j/ns1.ntc.net.pk.zone)
 * `xn--mgbtx2b` via `dyn1.cmc.iq.`: [Click here to view zone data.](archives/xn--mgbtx2b/dyn1.cmc.iq.zone)
 * `xn--ygbi2ammx` via `dns1.gov.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/dns1.gov.ps.zone)
