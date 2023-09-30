@@ -1,5 +1,5 @@
-xn--54b7fta0cc.		10800	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2023100100 120 3600 604800 10800
-xn--54b7fta0cc.		10800	IN	RRSIG	SOA 8 1 10800 20231030182955 20230930172955 15315 xn--54b7fta0cc. hsvIUb9ks0sqJo2VjD99UzwOnC8zTwinTlQsN76acj5+5e4Rtm6/Lv/G Dmv9sR3KsRMYANM3eIcnz8qWlWHVUdIZNXK1GPp9WTczA19snwB5Wi7r c5IfO5kPSIejhNFcYlmYHSkufU6eogJT+TEPtrLUEOQ2HB+AVpL76X2A LMg=
+xn--54b7fta0cc.		10800	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2023100101 120 3600 604800 10800
+xn--54b7fta0cc.		10800	IN	RRSIG	SOA 8 1 10800 20231030190202 20230930180202 15315 xn--54b7fta0cc. ecaxXbnWYuqNYvaG0A+DKFOCy9p/Sq3R2GNw5jky5NeIdYNnfFDzrCVF wQRGkIvpnSPTnGJ90fh1WUEprbhfFLTXKSj+Ipm3sopukZ0doWDSyMZI S+vslKr/9EqKjN/jJmPojsIsy58z6JwGGssqiuJyVA/wrrw3li6TI1/x Dzg=
 xn--54b7fta0cc.		10800	IN	NS	ekushey.btcl.net.bd.
 xn--54b7fta0cc.		10800	IN	NS	bayanno.btcl.net.bd.
 xn--54b7fta0cc.		10800	IN	NS	bd-ns.anycast.pch.net.
@@ -1238,8 +1238,12 @@ xn--p5by1bbj9bwicq.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20231013181728 
 xn--p5by5alh7eonf6j.xn--54b7fta0cc. 10800 IN NS	ns1.bcc.gov.bd.
 xn--p5by5alh7eonf6j.xn--54b7fta0cc. 10800 IN NS	ns2.bcc.gov.bd.
 xn--p5by5alh7eonf6j.xn--54b7fta0cc. 10800 IN NS	103.163.210.121.
-xn--p5by5alh7eonf6j.xn--54b7fta0cc. 10800 IN NSEC xn--q5b0dsb8a9lma.xn--54b7fta0cc. NS RRSIG NSEC
-xn--p5by5alh7eonf6j.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20231013191946 20230913191102 15315 xn--54b7fta0cc. jyWMjHly77WfkTkpAgbbI/M2IjovAe1aS4+A14MDa50X5JcsWZmdIQRI sDiaBzLb+han0ipju2zq2t2CDHIhu2C0awbMHK/1okqi/Iqq9bd3id6Q PK4/qYqe/QFpv93DPWsTFh9UiNsyxYx4EYvvQv2NzzPuLPgsvyUBKlV9 hBM=
+xn--p5by5alh7eonf6j.xn--54b7fta0cc. 10800 IN NSEC xn--q5b0b0bwbl.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5by5alh7eonf6j.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20231030190202 20230930180202 15315 xn--54b7fta0cc. NkyvS+1gsP9xJXkKE+6UeZ+uIf1aMK239IjsmA7L6bJkCkmAvyyB5G3Y tKZnvA86NB7EczY9J4Cica4nf+xDdvS/eveKjByHcf++sh35+K1mGkgj 8HWKoIABVuA3bSGmWlPUFqvSrJ/3EQkojJsHHRavWcTRTX0kS13sXcDa 16s=
+xn--q5b0b0bwbl.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20231030190202 20230930180202 15315 xn--54b7fta0cc. oMZaqJI1kM7fVwH8vvvljPmYXkxcK22QGIVextF1NCOvBJscwh2FY+LZ O+6JQdKIvtPyMfqwfdOmLx4xmJ5euaYnTcpiLM3s7EgU/Bx/dwuHEQbL 3FSztoqH7Giz2Ya7+89t9tTtmtJePmkarWoVq4E9yjxExAsz5Qf+eXZK AXk=
+xn--q5b0b0bwbl.xn--54b7fta0cc. 10800 IN	NSEC	xn--q5b0dsb8a9lma.xn--54b7fta0cc. NS RRSIG NSEC
+xn--q5b0b0bwbl.xn--54b7fta0cc. 10800 IN	NS	dns.bttb.net.bd.
+xn--q5b0b0bwbl.xn--54b7fta0cc. 10800 IN	NS	slave.bttb.net.bd.
 xn--q5b0dsb8a9lma.xn--54b7fta0cc. 10800	IN NS	clarissa.ns.cloudflare.com.
 xn--q5b0dsb8a9lma.xn--54b7fta0cc. 10800	IN NS	conrad.ns.cloudflare.com.
 xn--q5b0dsb8a9lma.xn--54b7fta0cc. 10800	IN NSEC	xn--q5b6a1azdzd.xn--54b7fta0cc. NS RRSIG NSEC
@@ -1388,4 +1392,4 @@ xn--z5bzzb7c5a.xn--54b7fta0cc. 10800 IN	NS	dns.bttb.net.bd.
 xn--z5bzzb7c5a.xn--54b7fta0cc. 10800 IN	NS	slave.bttb.net.bd.
 xn--z5bzzb7c5a.xn--54b7fta0cc. 10800 IN	NSEC	xn--54b7fta0cc. NS RRSIG NSEC
 xn--z5bzzb7c5a.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20231013185852 20230913181414 15315 xn--54b7fta0cc. Y4S4V3Q28+xjRiywnDI69GbHa45rwofDYQElPGyr1UxzTcjeH5n4OJ6G kqs1hj4DdxfqNrVemJ0yK6xXqGvMq0Fu+Y34ridu492cMjdLUnzza1eM 9QKX9tgEWyTFoZjTP0BMGbFX0n98idsUoJR0R9YG6a7G0t9kfPoEiAYx iHE=
-xn--54b7fta0cc.		10800	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2023100100 120 3600 604800 10800
+xn--54b7fta0cc.		10800	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2023100101 120 3600 604800 10800
