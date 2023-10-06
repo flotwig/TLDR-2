@@ -1,5 +1,5 @@
-cd.			86400	IN	SOA	pch.nic.cd. noc.nic.cd. 2023100606 3600 600 1209600 3600
-cd.			86400	IN	TXT	"Generation Time: 1696572464"
+cd.			86400	IN	SOA	pch.nic.cd. noc.nic.cd. 2023100621 3600 600 1209600 3600
+cd.			86400	IN	TXT	"Generation Time: 1696627369"
 cd.			86400	IN	NS	pch.nic.cd.
 cd.			86400	IN	NS	gransy-anycast1.nic.cd.
 cd.			86400	IN	NS	gransy-anycast2.nic.cd.
@@ -434,7 +434,7 @@ abnamro.cd.		86400	IN	NS	g4.nstld.com.
 abnamro.cd.		86400	IN	NS	l4.nstld.com.
 absolut.cd.		86400	IN	NS	dns1.cscdns.net.
 absolut.cd.		86400	IN	NS	dns2.cscdns.net.
-ac.cd.			86400	IN	TXT	"Generation Time: 1696572466"
+ac.cd.			86400	IN	TXT	"Generation Time: 1696627370"
 abil.ac.cd.		86400	IN	NS	ns1.panelboxmanager.com.
 abil.ac.cd.		86400	IN	NS	ns2.panelboxmanager.com.
 angazainstitute.ac.cd.	86400	IN	NS	cpanel11.lws-hosting.com.
@@ -779,6 +779,8 @@ acr.cd.			86400	IN	NS	ns1.nitrowebhost.co.uk.
 acr.cd.			86400	IN	NS	ns2.nitrowebhost.co.uk.
 acrepservices.cd.	86400	IN	NS	ajay.ns.cloudflare.com.
 acrepservices.cd.	86400	IN	NS	arch.ns.cloudflare.com.
+acrn.cd.		86400	IN	NS	ns1.scpt-network.cd.
+acrn.cd.		86400	IN	NS	ns2.scpt-network.cd.
 acses.cd.		86400	IN	NS	ns3.insol.be.
 acses.cd.		86400	IN	NS	ns4.insol.be.
 act.cd.			86400	IN	NS	ns3.gontcho.net.
@@ -2194,8 +2196,8 @@ bcpad-cec.cd.		86400	IN	NS	ns2.systemdns.com.
 bcpad-cec.cd.		86400	IN	NS	ns3.systemdns.com.
 bcpsc.cd.		86400	IN	NS	ns200.anycast.me.
 bcpsc.cd.		86400	IN	NS	dns200.anycast.me.
-bcs.cd.			86400	IN	NS	parking1.ovh.net.
-bcs.cd.			86400	IN	NS	parking2.ovh.net.
+bcs.cd.			86400	IN	NS	nora.ns.cloudflare.com.
+bcs.cd.			86400	IN	NS	renan.ns.cloudflare.com.
 bcs-it.cd.		86400	IN	NS	ns.bnamed.be.
 bcs-it.cd.		86400	IN	NS	ns.bnamed.eu.
 bcs-it.cd.		86400	IN	NS	ns.bnamed.nl.
@@ -3916,7 +3918,7 @@ colruyt-export.cd.	86400	IN	NS	ajay.ns.cloudflare.com.
 colruyt-export.cd.	86400	IN	NS	arch.ns.cloudflare.com.
 coltanvalley.cd.	86400	IN	NS	ns1.mypandos.com.
 coltanvalley.cd.	86400	IN	NS	ns2.mypandos.com.
-com.cd.			86400	IN	TXT	"Generation Time: 1696572466"
+com.cd.			86400	IN	TXT	"Generation Time: 1696627370"
 14trees.com.cd.		86400	IN	NS	ns01ch.holcim.com.
 14trees.com.cd.		86400	IN	NS	ns01us.holcim.com.
 14trees.com.cd.		86400	IN	NS	ns02ch.holcim.com.
@@ -5637,7 +5639,7 @@ edtech-243.cd.		86400	IN	NS	cp1.dnshostservices.com.
 edtech-243.cd.		86400	IN	NS	cp2.dnshostservices.com.
 edtech243.cd.		86400	IN	NS	cp1.dnshostservices.com.
 edtech243.cd.		86400	IN	NS	cp2.dnshostservices.com.
-edu.cd.			86400	IN	TXT	"Generation Time: 1696572466"
+edu.cd.			86400	IN	TXT	"Generation Time: 1696627371"
 bnn.edu.cd.		86400	IN	NS	ns110.ovh.net.
 bnn.edu.cd.		86400	IN	NS	dns110.ovh.net.
 ci-ucbc.edu.cd.		86400	IN	NS	ns3.nitrowebhost.co.uk.
@@ -6836,6 +6838,11 @@ forumdesas.cd.		86400	IN	NS	ajay.ns.cloudflare.com.
 forumdesas.cd.		86400	IN	NS	arch.ns.cloudflare.com.
 forumnationaldelajeunesse.cd. 86400 IN	NS	ns1.bluehost.com.
 forumnationaldelajeunesse.cd. 86400 IN	NS	ns2.bluehost.com.
+forvismazars.cd.	86400	IN	NS	ns1.brandshelter.com.
+forvismazars.cd.	86400	IN	NS	ns2.brandshelter.de.
+forvismazars.cd.	86400	IN	NS	ns3.brandshelter.info.
+forvismazars.cd.	86400	IN	NS	ns4.brandshelter.net.
+forvismazars.cd.	86400	IN	NS	ns5.brandshelter.us.
 fosman.cd.		86400	IN	NS	ajay.ns.cloudflare.com.
 fosman.cd.		86400	IN	NS	arch.ns.cloudflare.com.
 fotki.cd.		86400	IN	NS	ajay.ns.cloudflare.com.
@@ -6855,8 +6862,13 @@ fox.cd.			86400	IN	NS	ns6.markmonitor.com.
 fox.cd.			86400	IN	NS	ns7.markmonitor.com.
 foxplus.cd.		86400	IN	NS	ns1.markmonitor.com.
 foxplus.cd.		86400	IN	NS	ns2.markmonitor.com.
-foxsports.cd.		86400	IN	NS	ns01.foxinc.com.
-foxsports.cd.		86400	IN	NS	ns03.foxinc.com.
+foxsports.cd.		86400	IN	NS	ns1.markmonitor.com.
+foxsports.cd.		86400	IN	NS	ns2.markmonitor.com.
+foxsports.cd.		86400	IN	NS	ns3.markmonitor.com.
+foxsports.cd.		86400	IN	NS	ns4.markmonitor.com.
+foxsports.cd.		86400	IN	NS	ns5.markmonitor.com.
+foxsports.cd.		86400	IN	NS	ns6.markmonitor.com.
+foxsports.cd.		86400	IN	NS	ns7.markmonitor.com.
 foxtime.cd.		86400	IN	NS	ns1.digitalocean.com.
 foxtime.cd.		86400	IN	NS	ns2.digitalocean.com.
 foxtime.cd.		86400	IN	NS	ns3.digitalocean.com.
@@ -7460,7 +7472,7 @@ gourmandine.cd.		86400	IN	NS	ns1.uniteddns.net.
 gourmandine.cd.		86400	IN	NS	ns2.uniteddns.net.
 gourmet.cd.		86400	IN	NS	ns1.dns-parking.com.
 gourmet.cd.		86400	IN	NS	ns2.dns-parking.com.
-gouv.cd.		86400	IN	TXT	"Generation Time: 1696572468"
+gouv.cd.		86400	IN	TXT	"Generation Time: 1696627373"
 acorep.gouv.cd.		86400	IN	NS	ns1.scpt-network.cd.
 acorep.gouv.cd.		86400	IN	NS	ns2.scpt-network.cd.
 affaires-coutumieres.gouv.cd. 86400 IN	NS	ns1-cpeu7.likuid.com.
@@ -7830,7 +7842,7 @@ gouvtanganyika.cd.	86400	IN	NS	dns44.cloudns.net.
 gov.cd.			86400	IN	NS	ns-root-21.scpt-network.net.
 gov.cd.			86400	IN	NS	ns-root-22.scpt-network.net.
 gov.cd.			86400	IN	NS	ns-root-23.scpt-network.net.
-gov.cd.			86400	IN	TXT	"Generation Time: 1696572466"
+gov.cd.			86400	IN	TXT	"Generation Time: 1696627371"
 egov.gov.cd.		86400	IN	NS	ns1.scpt-network.cd.
 egov.gov.cd.		86400	IN	NS	ns2.scpt-network.cd.
 presidence.gov.cd.	86400	IN	NS	ns1.scpt-network.cd.
@@ -10397,8 +10409,8 @@ lepoint.cd.		86400	IN	NS	vera.ns.cloudflare.com.
 lepoint.cd.		86400	IN	NS	charles.ns.cloudflare.com.
 lepointdujour.cd.	86400	IN	NS	ajay.ns.cloudflare.com.
 lepointdujour.cd.	86400	IN	NS	arch.ns.cloudflare.com.
-lepotentiel.cd.		86400	IN	NS	dns2.lws-hosting.com.
-lepotentiel.cd.		86400	IN	NS	vps66588.serveur-vps.net.
+lepotentiel.cd.		86400	IN	NS	ns1.o2switch.net.
+lepotentiel.cd.		86400	IN	NS	ns2.o2switch.net.
 lequotidien.cd.		86400	IN	NS	ns1.dns-parking.com.
 lequotidien.cd.		86400	IN	NS	ns2.dns-parking.com.
 lerecruteur.cd.		86400	IN	NS	ajay.ns.cloudflare.com.
@@ -10823,6 +10835,9 @@ lualabank.cd.		86400	IN	NS	ajay.ns.cloudflare.com.
 lualabank.cd.		86400	IN	NS	arch.ns.cloudflare.com.
 luamba.cd.		86400	IN	NS	ns1.shivanet.net.
 luamba.cd.		86400	IN	NS	ns2.shivanet.net.
+luanocity.cd.		86400	IN	NS	ns.inwx.com.
+luanocity.cd.		86400	IN	NS	ns2.inwx.com.
+luanocity.cd.		86400	IN	NS	ns3.inwx.eu.
 lubalegal.cd.		86400	IN	NS	ns17.lwsdns.com.
 lubalegal.cd.		86400	IN	NS	ns18.lwsdns.com.
 lubalegal.cd.		86400	IN	NS	ns19.lwsdns.com.
@@ -11336,6 +11351,11 @@ mazao.cd.		86400	IN	NS	ns4.afraid.org.
 mazars.cd.		86400	IN	NS	a.ns.mailclub.fr.
 mazars.cd.		86400	IN	NS	b.ns.mailclub.eu.
 mazars.cd.		86400	IN	NS	c.ns.mailclub.com.
+mazarsforvis.cd.	86400	IN	NS	ns1.brandshelter.com.
+mazarsforvis.cd.	86400	IN	NS	ns2.brandshelter.de.
+mazarsforvis.cd.	86400	IN	NS	ns3.brandshelter.info.
+mazarsforvis.cd.	86400	IN	NS	ns4.brandshelter.net.
+mazarsforvis.cd.	86400	IN	NS	ns5.brandshelter.us.
 mazik.cd.		86400	IN	NS	ajay.ns.cloudflare.com.
 mazik.cd.		86400	IN	NS	arch.ns.cloudflare.com.
 maziwa.cd.		86400	IN	NS	ns1.hellofrankly.com.
@@ -12530,7 +12550,7 @@ nesys.cd.		86400	IN	NS	ns1.m77.siteground.biz.
 nesys.cd.		86400	IN	NS	ns2.m77.siteground.biz.
 net.cd.			86400	IN	NS	ns-root-21.scpt-network.net.
 net.cd.			86400	IN	NS	ns-root-22.scpt-network.net.
-net.cd.			86400	IN	TXT	"Generation Time: 1696572466"
+net.cd.			86400	IN	TXT	"Generation Time: 1696627371"
 egov.net.cd.		86400	IN	NS	ns1.scpt-network.cd.
 egov.net.cd.		86400	IN	NS	ns2.scpt-network.cd.
 inter.net.cd.		86400	IN	NS	ns1.afraid.org.
@@ -13277,7 +13297,7 @@ ordredesinfirmiers.cd.	86400	IN	NS	ns1045.ui-dns.com.
 ordredesinfirmiers.cd.	86400	IN	NS	ns1045.ui-dns.org.
 orellig.cd.		86400	IN	NS	dns1.namecheaphosting.com.
 orellig.cd.		86400	IN	NS	dns2.namecheaphosting.com.
-org.cd.			86400	IN	TXT	"Generation Time: 1696572466"
+org.cd.			86400	IN	TXT	"Generation Time: 1696627371"
 csc.org.cd.		86400	IN	NS	ns1.4levels.net.
 csc.org.cd.		86400	IN	NS	ns2.4levels.net.
 egov.org.cd.		86400	IN	NS	ns1.scpt-network.cd.
@@ -13767,8 +13787,8 @@ pictogramme.cd.		86400	IN	NS	ajay.ns.cloudflare.com.
 pictogramme.cd.		86400	IN	NS	arch.ns.cloudflare.com.
 pictures.cd.		86400	IN	NS	ns1.dotcd.net.
 pictures.cd.		86400	IN	NS	ns2.dotcd.net.
-picus.cd.		86400	IN	NS	ns1.scpt-network.cd.
-picus.cd.		86400	IN	NS	ns2.scpt-network.cd.
+picus.cd.		86400	IN	NS	dns1.namecheaphosting.com.
+picus.cd.		86400	IN	NS	dns2.namecheaphosting.com.
 piga.cd.		86400	IN	NS	ns1.dnshostservices.com.
 piga.cd.		86400	IN	NS	ns2.dnshostservices.com.
 pikachu.cd.		86400	IN	NS	dns1.nintendo.com.
@@ -18432,6 +18452,8 @@ ybm.cd.			86400	IN	NS	ns1.dns-parking.com.
 ybm.cd.			86400	IN	NS	ns2.dns-parking.com.
 yeba.cd.		86400	IN	NS	ns1.bricesson.net.
 yeba.cd.		86400	IN	NS	ns2.bricesson.net.
+yebela.cd.		86400	IN	NS	nora.ns.cloudflare.com.
+yebela.cd.		86400	IN	NS	renan.ns.cloudflare.com.
 yekola.cd.		86400	IN	NS	ns1.cows.cd.
 yekola.cd.		86400	IN	NS	ns2.cows.cd.
 yellowpages.cd.		86400	IN	NS	ns1.softlayer.com.
@@ -18692,4 +18714,4 @@ zuridesk.cd.		86400	IN	NS	ns1.scpt-network.cd.
 zuridesk.cd.		86400	IN	NS	ns2.scpt-network.cd.
 zwandako.cd.		86400	IN	NS	ns1.scpt-network.cd.
 zwandako.cd.		86400	IN	NS	ns2.scpt-network.cd.
-cd.			86400	IN	SOA	pch.nic.cd. noc.nic.cd. 2023100606 3600 600 1209600 3600
+cd.			86400	IN	SOA	pch.nic.cd. noc.nic.cd. 2023100621 3600 600 1209600 3600
