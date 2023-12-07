@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023120516 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023120720 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -105,6 +105,10 @@ gp.			86400	IN	NS	ns-gp.nic.fr.
 618.gp.			86400	IN	NS	ns2.sedoparking.com.
 66.gp.			86400	IN	NS	ns1.dan.com.
 66.gp.			86400	IN	NS	ns2.dan.com.
+666.gp.			86400	IN	NS	pns41.cloudns.net.
+666.gp.			86400	IN	NS	pns42.cloudns.net.
+666.gp.			86400	IN	NS	pns43.cloudns.net.
+666.gp.			86400	IN	NS	pns44.cloudns.net.
 669.gp.			86400	IN	NS	ns1.sedoparking.com.
 669.gp.			86400	IN	NS	ns2.sedoparking.com.
 68.gp.			86400	IN	NS	ns1.dan.com.
@@ -140,10 +144,8 @@ gp.			86400	IN	NS	ns-gp.nic.fr.
 86.gp.			86400	IN	NS	ns2.dan.com.
 87.gp.			86400	IN	NS	ns1.dan.com.
 87.gp.			86400	IN	NS	ns2.dan.com.
-88.gp.			86400	IN	NS	pns41.cloudns.net.
-88.gp.			86400	IN	NS	pns42.cloudns.net.
-88.gp.			86400	IN	NS	pns43.cloudns.net.
-88.gp.			86400	IN	NS	pns44.cloudns.net.
+88.gp.			86400	IN	NS	ns1.alidns.com.
+88.gp.			86400	IN	NS	ns2.alidns.com.
 888.gp.			86400	IN	NS	dns1.idp365.net.
 888.gp.			86400	IN	NS	dns2.idp365.net.
 88888888.gp.		86400	IN	NS	ns1.sedoparking.com.
@@ -1595,6 +1597,8 @@ electric-plus.gp.	86400	IN	NS	ns106.ovh.net.
 electric-plus.gp.	86400	IN	NS	dns106.ovh.net.
 electrodepot.gp.	86400	IN	NS	a.ns.mailclub.fr.
 electrodepot.gp.	86400	IN	NS	b.ns.mailclub.eu.
+elitemodellook.gp.	86400	IN	NS	ns0.ordipat.fr.
+elitemodellook.gp.	86400	IN	NS	ns3.ordipat.fr.
 ellas-coffee.gp.	86400	IN	NS	ns1.netim.net.
 ellas-coffee.gp.	86400	IN	NS	ns2.netim.net.
 ellas-coffee.gp.	86400	IN	NS	ns3.netim.net.
@@ -3858,6 +3862,8 @@ os.gp.			86400	IN	NS	ns2.kv.de.
 osca.gp.		86400	IN	NS	ns1.francedns.com.
 osca.gp.		86400	IN	NS	ns2.francedns.com.
 osca.gp.		86400	IN	NS	ns3.francedns.com.
+oscaro.gp.		86400	IN	NS	ns2.observatoiredesmarques.fr.
+oscaro.gp.		86400	IN	NS	obs.ns1.fr.
 ose.gp.			86400	IN	NS	ns103.ovh.net.
 ose.gp.			86400	IN	NS	dns103.ovh.net.
 osteopathe.gp.		86400	IN	NS	ns105.ovh.net.
@@ -5516,4 +5522,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023120516 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023120720 86400 7200 2592000 345600
