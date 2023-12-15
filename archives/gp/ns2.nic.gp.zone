@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023121513 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023121515 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -121,6 +121,10 @@ gp.			86400	IN	NS	ns-gp.nic.fr.
 66699.gp.		86400	IN	NS	ns2.alidns.com.
 666app.gp.		86400	IN	NS	ns1.alidns.com.
 666app.gp.		86400	IN	NS	ns2.alidns.com.
+666dh.gp.		86400	IN	NS	pns41.cloudns.net.
+666dh.gp.		86400	IN	NS	pns42.cloudns.net.
+666dh1.gp.		86400	IN	NS	pns41.cloudns.net.
+666dh1.gp.		86400	IN	NS	pns42.cloudns.net.
 666dl.gp.		86400	IN	NS	ns1.alidns.com.
 666dl.gp.		86400	IN	NS	ns2.alidns.com.
 666dl1.gp.		86400	IN	NS	ns1.alidns.com.
@@ -1752,8 +1756,8 @@ etamlingerie.gp.	86400	IN	NS	ns-198-a.gandi.net.
 etamlingerie.gp.	86400	IN	NS	ns-228-b.gandi.net.
 eth.gp.			86400	IN	NS	ns1.dns.com.
 eth.gp.			86400	IN	NS	ns2.dns.com.
-etoro.gp.		86400	IN	NS	ns1.dtnt.info.
-etoro.gp.		86400	IN	NS	ns2.dtnt.info.
+etoro.gp.		86400	IN	NS	june.ns.cloudflare.com.
+etoro.gp.		86400	IN	NS	nikon.ns.cloudflare.com.
 etv.gp.			86400	IN	NS	ns1.ikoula.fr.
 etv.gp.			86400	IN	NS	ns2.ikoula.fr.
 eu.gp.			86400	IN	NS	ns1.subdomain.net.
@@ -5555,4 +5559,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023121513 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2023121515 86400 7200 2592000 345600
