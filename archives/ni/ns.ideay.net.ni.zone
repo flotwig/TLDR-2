@@ -1,4 +1,4 @@
-ni.			86400	IN	SOA	ns.ni. root.ns.ni. 2021113102 3600 600 604801 86400
+ni.			86400	IN	SOA	ns.ni. root.ns.ni. 2021113103 3600 600 604801 86400
 ni.			86400	IN	NS	ns.ni.
 ni.			86400	IN	NS	ns.uu.net.
 ni.			86400	IN	NS	ns.ideay.net.ni.
@@ -1158,9 +1158,10 @@ ns1.masterdiagnostica.ni. 86400	IN	A	213.172.61.66
 ns2.masterdiagnostica.ni. 86400	IN	A	90.161.205.242
 masterlock.ni.		86400	IN	NS	dns1.cscdns.net.
 masterlock.ni.		86400	IN	NS	dns2.cscdns.net.
-match.ni.		86400	IN	NS	usc1.akam.net.
-match.ni.		86400	IN	NS	ns1-1.akam.net.
-match.ni.		86400	IN	NS	ns1-215.akam.net.
+match.ni.		86400	IN	NS	dns1.p01.nsone.net.
+match.ni.		86400	IN	NS	dns2.p01.nsone.net.
+match.ni.		86400	IN	NS	dns3.p01.nsone.net.
+match.ni.		86400	IN	NS	dns4.p01.nsone.net.
 matt.ni.		86400	IN	NS	ns1.markmonitor.com.
 matt.ni.		86400	IN	NS	ns3.markmonitor.com.
 mavanclad.ni.		86400	IN	NS	ns1.brandshelter.com.
@@ -1986,4 +1987,4 @@ zoetis.ni.		86400	IN	NS	edns4.ultradns.net.
 zoetis.ni.		86400	IN	NS	edns4.ultradns.org.
 zumtobel.ni.		86400	IN	NS	meadow.ns.cloudflare.com.
 zumtobel.ni.		86400	IN	NS	thaddeus.ns.cloudflare.com.
-ni.			86400	IN	SOA	ns.ni. root.ns.ni. 2021113102 3600 600 604801 86400
+ni.			86400	IN	SOA	ns.ni. root.ns.ni. 2021113103 3600 600 604801 86400
