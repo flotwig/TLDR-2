@@ -1,4 +1,6 @@
-ni.			86400	IN	SOA	ns.ni. root.ns.ni. 2021113105 3600 600 604801 86400
+;; Connection to 186.1.31.8#53(186.1.31.8) for ni. failed: timed out.
+;; Connection to 186.1.31.8#53(186.1.31.8) for ni. failed: timed out.
+ni.			86400	IN	SOA	ns.ni. root.ns.ni. 2021113106 3600 600 604801 86400
 ni.			86400	IN	NS	ns.ni.
 ni.			86400	IN	NS	ns.uu.net.
 ni.			86400	IN	NS	ns.ideay.net.ni.
@@ -16,8 +18,6 @@ ni.			86400	IN	NS	dns-ext.nic.cr.
 1xbet.ni.		86400	IN	NS	dns3.safenames.org.
 3m.ni.			86400	IN	NS	ns.3m.com.
 3m.ni.			86400	IN	NS	pigseye.mmm.com.
-52.ni.			86400	IN	NS	ns1.dan.com.
-52.ni.			86400	IN	NS	ns2.dan.com.
 6pm.ni.			86400	IN	NS	ns1.markmonitor.com.
 6pm.ni.			86400	IN	NS	ns3.markmonitor.com.
 888.ni.			86400	IN	NS	alex.ns.cloudflare.com.
@@ -734,8 +734,6 @@ fiveyearsout.ni.	86400	IN	NS	pdns77.ultradns.biz.
 fiveyearsout.ni.	86400	IN	NS	pdns77.ultradns.com.
 fiveyearsout.ni.	86400	IN	NS	pdns77.ultradns.net.
 fiveyearsout.ni.	86400	IN	NS	pdns77.ultradns.org.
-flickr.ni.		86400	IN	NS	ns1.markmonitor.com.
-flickr.ni.		86400	IN	NS	ns3.markmonitor.com.
 flysouthwest.ni.	86400	IN	NS	ns1.markmonitor.com.
 flysouthwest.ni.	86400	IN	NS	ns2.markmonitor.com.
 fonbet.ni.		86400	IN	NS	ns1.101domain.com.
@@ -1983,4 +1981,4 @@ zoetis.ni.		86400	IN	NS	edns4.ultradns.net.
 zoetis.ni.		86400	IN	NS	edns4.ultradns.org.
 zumtobel.ni.		86400	IN	NS	meadow.ns.cloudflare.com.
 zumtobel.ni.		86400	IN	NS	thaddeus.ns.cloudflare.com.
-ni.			86400	IN	SOA	ns.ni. root.ns.ni. 2021113105 3600 600 604801 86400
+ni.			86400	IN	SOA	ns.ni. root.ns.ni. 2021113106 3600 600 604801 86400
