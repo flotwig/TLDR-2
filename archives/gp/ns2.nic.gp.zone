@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024012913 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024013013 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -95,6 +95,9 @@ gp.			86400	IN	NS	ns-gp.nic.fr.
 55.gp.			86400	IN	NS	ns2.sedoparking.com.
 555.gp.			86400	IN	NS	ns1.dan.com.
 555.gp.			86400	IN	NS	ns2.dan.com.
+5555.gp.		86400	IN	NS	pns41.cloudns.net.
+5555.gp.		86400	IN	NS	pns42.cloudns.net.
+5555.gp.		86400	IN	NS	pns44.cloudns.net.
 57.gp.			86400	IN	NS	ns1.dan.com.
 57.gp.			86400	IN	NS	ns2.dan.com.
 58.gp.			86400	IN	NS	ns1.dan.com.
@@ -923,6 +926,8 @@ bz.gp.			86400	IN	NS	geofront.lauzel.com.
 bz.gp.			86400	IN	NS	vps-15671fce.vps.ovh.net.
 c.gp.			86400	IN	NS	ns1.sedoparking.com.
 c.gp.			86400	IN	NS	ns2.sedoparking.com.
+c3-0.gp.		86400	IN	NS	dns1.cloudns.net.
+c3-0.gp.		86400	IN	NS	dns2.cloudns.net.
 ca.gp.			86400	IN	NS	ns1.website.org.
 ca.gp.			86400	IN	NS	ns2.website.org.
 ca-guadeloupe.gp.	86400	IN	NS	chenar.credit-agricole.fr.
@@ -2751,6 +2756,8 @@ kaizenmoto.gp.		86400	IN	NS	ns3.register.be.
 kaizenmotos.gp.		86400	IN	NS	ns1.register.be.
 kaizenmotos.gp.		86400	IN	NS	ns2.register.be.
 kaizenmotos.gp.		86400	IN	NS	ns3.register.be.
+kaley.gp.		86400	IN	NS	ns102.ovh.net.
+kaley.gp.		86400	IN	NS	dns102.ovh.net.
 karam.gp.		86400	IN	NS	ns113.ovh.net.
 karam.gp.		86400	IN	NS	dns113.ovh.net.
 karukero.gp.		86400	IN	NS	ns1.prodomaines.com.
@@ -5572,4 +5579,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024012913 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024013013 86400 7200 2592000 345600
