@@ -1,5 +1,5 @@
-xn--90a3ac.		3600	IN	SOA	a.nic.rs. hostmaster.nic.rs. 2024013143 3600 900 2419200 3600
-xn--90a3ac.		3600	IN	RRSIG	SOA 13 1 3600 20240229060553 20240131195301 51802 xn--90a3ac. PlrY2poHt/ULV0N27RrJV7HH8NG5yC0HW9IvRWqsPKU8NDh5zq+L3jXU yAuEohnOCZjmR56gNy4GZcnp8y7wdA==
+xn--90a3ac.		3600	IN	SOA	a.nic.rs. hostmaster.nic.rs. 2024013145 3600 900 2419200 3600
+xn--90a3ac.		3600	IN	RRSIG	SOA 13 1 3600 20240228233145 20240131205301 51802 xn--90a3ac. aZVAj84YgkxfywLOjPpo7ZC4QqGfERV4OP+Jam+UDXsE5SVX+3G1efyO EiHIa1KMjfv1vE6NzHqpZFqlxO62mw==
 xn--90a3ac.		3600	IN	NS	a.nic.rs.
 xn--90a3ac.		3600	IN	NS	b.nic.rs.
 xn--90a3ac.		3600	IN	NS	f.nic.rs.
@@ -7,8 +7,8 @@ xn--90a3ac.		3600	IN	NS	g.nic.rs.
 xn--90a3ac.		3600	IN	NS	h.nic.rs.
 xn--90a3ac.		3600	IN	NS	l.nic.rs.
 xn--90a3ac.		3600	IN	RRSIG	NS 13 1 3600 20240226150830 20240130025301 51802 xn--90a3ac. GqZ5GuH+jPiRyRlJnN83b0M+U+KkUYQj69Vzr88OnVL5zENtUuHL9xdv cFlFPhv5jbshKwIEDxdAQwzY0yPmlg==
-xn--90a3ac.		3600	IN	TXT	"xn--90a3ac zone update: 2024-01-31 21:00:05 +01:00 (EPOCH 1706731205)"
-xn--90a3ac.		3600	IN	RRSIG	TXT 13 1 3600 20240229041245 20240131195301 51802 xn--90a3ac. epEKuDuvoTAdfCd85tMkTil5TzrB2ZQSDVeCnoPnmwijaKhZd9QUP+q1 KJeWciZ1Wo4U8w9snIz8LPWxJWH/SA==
+xn--90a3ac.		3600	IN	TXT	"xn--90a3ac zone update: 2024-01-31 22:00:05 +01:00 (EPOCH 1706734805)"
+xn--90a3ac.		3600	IN	RRSIG	TXT 13 1 3600 20240228120619 20240131205301 51802 xn--90a3ac. VK/nWRdZO9nQ7x9q+AmdXW3Lw43nY/q/nPdWLnN/Q9CQKhh4BI4ORK39 aQetUsMopgLSOTW9PlgB7JpQGph2kQ==
 xn--90a3ac.		3600	IN	DNSKEY	256 3 13 ACOp9VMs8rffITz4WPPqJAPjSAkBPTb4KS4aUbcoCccO9DKzHqpj1hBp zAYL6oHmjmFS9gmjLvJ0Xut54/xiYw==
 xn--90a3ac.		3600	IN	DNSKEY	256 3 13 XFg51LcDRthrYrVcibiQ9Qotu27rbQVNXQOl96CkQF/7evQ0NyZlDWjs fGXJ9/m5lWwx5EvgM4f0Grfxy7mifg==
 xn--90a3ac.		3600	IN	DNSKEY	257 3 13 NU95xarGR41YSMs+vc3vC/h5hRMQVT5uegUqUMk1opwXsa+xaZsgYGby AiiXYZKoMaC/dBDGGOySjGjTh8km4A==
@@ -3631,8 +3631,6 @@ xn--80aaanvbycice.xn--90a3ac. 3600 IN	NS	ns2.hostingmania.rs.
 xn--80aaanvbycice.xn--90a3ac. 3600 IN	NS	ns3.hostingmania.rs.
 xn--80aaao3cffch9u.xn--90a3ac. 3600 IN	NS	dns1.eunethosting.com.
 xn--80aaao3cffch9u.xn--90a3ac. 3600 IN	NS	dns2.eunethosting.com.
-xn--80aaaobftacbnmslig3b6g.xn--90a3ac. 3600 IN NS dns1.eunethosting.com.
-xn--80aaaobftacbnmslig3b6g.xn--90a3ac. 3600 IN NS dns2.eunethosting.com.
 xn--80aaaoetbl8cxa9b9o.xn--90a3ac. 3600	IN NS	ns1.netcom.rs.
 xn--80aaaoetbl8cxa9b9o.xn--90a3ac. 3600	IN NS	ns2.netcom.rs.
 xn--80aaaoetbl8cxa9b9o.xn--90a3ac. 3600	IN NS	ns3.netcom.rs.
@@ -4275,6 +4273,8 @@ xn--80aapaihldncu5av41a.xn--90a3ac. 3600 IN NS	ns1.loopia.se.
 xn--80aapaihldncu5av41a.xn--90a3ac. 3600 IN NS	ns2.loopia.se.
 xn--80aapaihldncu5av41a.xn--90a3ac. 3600 IN DS	12412 8 2 31D4FCD51192DB813F6EDF4A636632BA078B49D16FC5144B29A5F149 498CA66D
 xn--80aapaihldncu5av41a.xn--90a3ac. 3600 IN RRSIG DS 13 2 3600 20240211211500 20240114182302 957 xn--90a3ac. MH7HmN3PWrdrecvoGn9IrSHbjgNV86nhyNnZM282qpXRs9Iokgb6QETS PAaW+jh6eMdDwChG2N6oavYEYzDiEw==
+xn--80aapazcckr9au.xn--90a3ac. 3600 IN	NS	dawn.ns.cloudflare.com.
+xn--80aapazcckr9au.xn--90a3ac. 3600 IN	NS	jerome.ns.cloudflare.com.
 xn--80aapfvx5q.xn--90a3ac. 3600	IN	NS	ns1.loopia.se.
 xn--80aapfvx5q.xn--90a3ac. 3600	IN	NS	ns2.loopia.se.
 xn--80aapfvx5q.xn--90a3ac. 3600	IN	DS	12412 8 2 3A2BB3679AD841452B4EE1D784B289B25F9A8B44E3D8A112E4644DCF 9F42B175
@@ -4569,8 +4569,6 @@ xn--80acfjp3adbpcgm2gzl.xn--90a3ac. 3600 IN NS	ns1.loopia.se.
 xn--80acfjp3adbpcgm2gzl.xn--90a3ac. 3600 IN NS	ns2.loopia.se.
 xn--80acfjp3adbpcgm2gzl.xn--90a3ac. 3600 IN DS	12412 8 2 A8FFFFC60398FDC3F0198CEEEB2E46BFBB3D8E63DD28B947ADA133E1 E675AE94
 xn--80acfjp3adbpcgm2gzl.xn--90a3ac. 3600 IN RRSIG DS 13 2 3600 20240211080116 20240114082301 957 xn--90a3ac. JhhVSKoEteTUXusPX2k8U4x3PZNQq6fL1mpnwQ/tbUrOsNburjSTg3am 43Abz/Hn0RkplRQAgwts4kRmn5tKXg==
-xn--80achddob2aoz3a.xn--90a3ac.	3600 IN	NS	dns1.eunethosting.com.
-xn--80achddob2aoz3a.xn--90a3ac.	3600 IN	NS	dns2.eunethosting.com.
 xn--80acica1bbd1b8a5a.xn--90a3ac. 3600 IN NS	ns1.markmonitor.com.
 xn--80acica1bbd1b8a5a.xn--90a3ac. 3600 IN NS	ns3.markmonitor.com.
 xn--80acica1bbd1b8a5a.xn--90a3ac. 3600 IN NS	ns4.markmonitor.com.
@@ -7855,4 +7853,4 @@ vtr6oagihtf5n345ac46i8c2gb8l8u9j.xn--90a3ac. 3600 IN NSEC3 1 1 5 8EC543AF6A8739C
 vtr6oagihtf5n345ac46i8c2gb8l8u9j.xn--90a3ac. 3600 IN RRSIG NSEC3 13 2 3600 20240226193534 20240129095302 51802 xn--90a3ac. Z/SdTq08HNVtwkz3Xk+0xvSKqS3w10MQJADUBxHX5QfhyDCLr8gCsc9V VRrCDLeyDErYpd0OqudfUSca3PLpTQ==
 vvk21103oifitb2u6d6lsaugb3bu599d.xn--90a3ac. 3600 IN NSEC3 1 1 5 8EC543AF6A8739CE 0CQ45RGUDT10202F8BMKI1GES14UME3I NS DS RRSIG
 vvk21103oifitb2u6d6lsaugb3bu599d.xn--90a3ac. 3600 IN RRSIG NSEC3 13 2 3600 20240226151633 20240129205301 51802 xn--90a3ac. NM1L6ZxJA71svnnepIRYx+H7/CiLuTDDYZV2a2xSU1wyctodeKmYQhx4 N9TYqvm9SsHOzfR+oL4lHgNpf598Vw==
-xn--90a3ac.		3600	IN	SOA	a.nic.rs. hostmaster.nic.rs. 2024013143 3600 900 2419200 3600
+xn--90a3ac.		3600	IN	SOA	a.nic.rs. hostmaster.nic.rs. 2024013145 3600 900 2419200 3600
