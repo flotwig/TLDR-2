@@ -1,5 +1,5 @@
-xn--90a3ac.		3600	IN	SOA	a.nic.rs. hostmaster.nic.rs. 2024020125 3600 900 2419200 3600
-xn--90a3ac.		3600	IN	RRSIG	SOA 13 1 3600 20240229224306 20240201105302 51802 xn--90a3ac. vRRyjtm9IFbTJngaXUAk7yo2Q4JjKh0nTkC5yIVPQCw2WKb04mIeH3mi XN67Rcv+bOwWkkv10R6qDbZ9TBQR/w==
+xn--90a3ac.		3600	IN	SOA	a.nic.rs. hostmaster.nic.rs. 2024020128 3600 900 2419200 3600
+xn--90a3ac.		3600	IN	RRSIG	SOA 13 1 3600 20240229020219 20240201122302 51802 xn--90a3ac. 4XUCaPz3OjYgP3LAu6D6VR7QVrIpeQW1IZRUNSX+rS2Hc3LZGru3IDS6 TfAH/vWgEScXA8Ji+wxv2i5eW6NPDg==
 xn--90a3ac.		3600	IN	NS	a.nic.rs.
 xn--90a3ac.		3600	IN	NS	b.nic.rs.
 xn--90a3ac.		3600	IN	NS	f.nic.rs.
@@ -7,8 +7,8 @@ xn--90a3ac.		3600	IN	NS	g.nic.rs.
 xn--90a3ac.		3600	IN	NS	h.nic.rs.
 xn--90a3ac.		3600	IN	NS	l.nic.rs.
 xn--90a3ac.		3600	IN	RRSIG	NS 13 1 3600 20240226150830 20240130025301 51802 xn--90a3ac. GqZ5GuH+jPiRyRlJnN83b0M+U+KkUYQj69Vzr88OnVL5zENtUuHL9xdv cFlFPhv5jbshKwIEDxdAQwzY0yPmlg==
-xn--90a3ac.		3600	IN	TXT	"xn--90a3ac zone update: 2024-02-01 12:00:04 +01:00 (EPOCH 1706785204)"
-xn--90a3ac.		3600	IN	RRSIG	TXT 13 1 3600 20240229174355 20240201105302 51802 xn--90a3ac. tx5w54KS7CkzqaRtkhzrjxJMNvCgUy26cNE+OqWb8v/AMwvFueSst8zG pgN8hLxJlGVXoKXS6aIkHS2IGw44NA==
+xn--90a3ac.		3600	IN	TXT	"xn--90a3ac zone update: 2024-02-01 13:30:05 +01:00 (EPOCH 1706790605)"
+xn--90a3ac.		3600	IN	RRSIG	TXT 13 1 3600 20240229095915 20240201122302 51802 xn--90a3ac. FfY+zy3omogbdUAZ/T376JDtdFAE8fIKTjKLGe04fQ4l+3Fv8rgCJ6ve dqrk4+tMgj9yEFVhTiRXkrMUSSE7vA==
 xn--90a3ac.		3600	IN	DNSKEY	256 3 13 ACOp9VMs8rffITz4WPPqJAPjSAkBPTb4KS4aUbcoCccO9DKzHqpj1hBp zAYL6oHmjmFS9gmjLvJ0Xut54/xiYw==
 xn--90a3ac.		3600	IN	DNSKEY	256 3 13 XFg51LcDRthrYrVcibiQ9Qotu27rbQVNXQOl96CkQF/7evQ0NyZlDWjs fGXJ9/m5lWwx5EvgM4f0Grfxy7mifg==
 xn--90a3ac.		3600	IN	DNSKEY	257 3 13 NU95xarGR41YSMs+vc3vC/h5hRMQVT5uegUqUMk1opwXsa+xaZsgYGby AiiXYZKoMaC/dBDGGOySjGjTh8km4A==
@@ -4342,8 +4342,6 @@ xn--80aaxa5bbcfbc0d.xn--90a3ac.	3600 IN	NS	ns101.whbdns.com.
 xn--80aaxak2bcfbc.xn--90a3ac. 3600 IN	NS	ns1.gov.rs.
 xn--80aaxak2bcfbc.xn--90a3ac. 3600 IN	NS	ns2.gov.rs.
 xn--80aaxak2bcfbc.xn--90a3ac. 3600 IN	NS	dagda1.isp.telekom.rs.
-xn--80aaxakcva1acgcbc.xn--90a3ac. 3600 IN NS	vpsns.beograd.com.
-xn--80aaxakcva1acgcbc.xn--90a3ac. 3600 IN NS	vpshome.beograd.com.
 xn--80aaxbhb6bj9u.xn--90a3ac. 3600 IN	NS	ns9.unlimited.rs.
 xn--80aaxbhb6bj9u.xn--90a3ac. 3600 IN	NS	ns10.unlimited.rs.
 xn--80aaxicnbl.xn--90a3ac. 3600	IN	NS	hns3.verat.net.
@@ -5769,7 +5767,7 @@ xn--80aqu3h.xn--90a3ac.	3600	IN	NS	dns.aipi.ch.
 xn--80aqu3h.xn--90a3ac.	3600	IN	NS	dns.aipi.de.
 xn--80aqu3h.xn--90a3ac.	3600	IN	NS	dns.aipi.uk.
 xn--80aqu3h.xn--90a3ac.	3600	IN	DS	10492 13 2 4D9E718C41B7CD14E99FD3C71A10FE4F080ED238FC7A7F6BD5C3D6BB 83F82AD9
-xn--80aqu3h.xn--90a3ac.	3600	IN	RRSIG	DS 13 2 3600 20240204120542 20240107135302 957 xn--90a3ac. PaD0/QVNnEA6Y0Xz3eAfDlxzZ1BEuJXkhTxG2p8idQwlfAEwwULEHcYY q8TRCmt+QjnRZ7s62ZMXVikx/zJ6hQ==
+xn--80aqu3h.xn--90a3ac.	3600	IN	RRSIG	DS 13 2 3600 20240229181418 20240201122302 51802 xn--90a3ac. s7+fnJUrxO5HgYU0tNdnc7NSdbQCRmYBErGGBQDvp+G5C1NdtL3mEZNa rpDjuA05cqklbUAESVl71xuHpnDzvQ==
 xn--80aqx.xn--90a3ac.	3600	IN	NS	dns1.orion.rs.
 xn--80aqx.xn--90a3ac.	3600	IN	NS	dns2.orion.rs.
 xn--80aqyflv.xn--90a3ac. 3600	IN	NS	ns1.loopia.se.
@@ -7853,4 +7851,4 @@ vtr6oagihtf5n345ac46i8c2gb8l8u9j.xn--90a3ac. 3600 IN NSEC3 1 1 5 8EC543AF6A8739C
 vtr6oagihtf5n345ac46i8c2gb8l8u9j.xn--90a3ac. 3600 IN RRSIG NSEC3 13 2 3600 20240226193534 20240129095302 51802 xn--90a3ac. Z/SdTq08HNVtwkz3Xk+0xvSKqS3w10MQJADUBxHX5QfhyDCLr8gCsc9V VRrCDLeyDErYpd0OqudfUSca3PLpTQ==
 vvk21103oifitb2u6d6lsaugb3bu599d.xn--90a3ac. 3600 IN NSEC3 1 1 5 8EC543AF6A8739CE 0CQ45RGUDT10202F8BMKI1GES14UME3I NS DS RRSIG
 vvk21103oifitb2u6d6lsaugb3bu599d.xn--90a3ac. 3600 IN RRSIG NSEC3 13 2 3600 20240226151633 20240129205301 51802 xn--90a3ac. NM1L6ZxJA71svnnepIRYx+H7/CiLuTDDYZV2a2xSU1wyctodeKmYQhx4 N9TYqvm9SsHOzfR+oL4lHgNpf598Vw==
-xn--90a3ac.		3600	IN	SOA	a.nic.rs. hostmaster.nic.rs. 2024020125 3600 900 2419200 3600
+xn--90a3ac.		3600	IN	SOA	a.nic.rs. hostmaster.nic.rs. 2024020128 3600 900 2419200 3600
