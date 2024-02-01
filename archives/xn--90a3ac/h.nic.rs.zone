@@ -1,5 +1,5 @@
-xn--90a3ac.		3600	IN	SOA	a.nic.rs. hostmaster.nic.rs. 2024020129 3600 900 2419200 3600
-xn--90a3ac.		3600	IN	RRSIG	SOA 13 1 3600 20240229104615 20240201125302 51802 xn--90a3ac. pfmQSg6kGKnusV2XsCrOzcFCzWAXF7gyjkAlnPvC9LIQIv4zxGkWZTxb fGziKTaMY7LhdAPButmFwsmrJMZq0Q==
+xn--90a3ac.		3600	IN	SOA	a.nic.rs. hostmaster.nic.rs. 2024020131 3600 900 2419200 3600
+xn--90a3ac.		3600	IN	RRSIG	SOA 13 1 3600 20240229140732 20240201135301 51802 xn--90a3ac. LxZ00wvfmbXFs3hu89CBaRM/17r7LScmWOABurB54WF1E5zI9OGvy9Ny FMM12y3OIN6o7z/OFsGZobG1eTvKEQ==
 xn--90a3ac.		3600	IN	NS	a.nic.rs.
 xn--90a3ac.		3600	IN	NS	b.nic.rs.
 xn--90a3ac.		3600	IN	NS	f.nic.rs.
@@ -7,8 +7,8 @@ xn--90a3ac.		3600	IN	NS	g.nic.rs.
 xn--90a3ac.		3600	IN	NS	h.nic.rs.
 xn--90a3ac.		3600	IN	NS	l.nic.rs.
 xn--90a3ac.		3600	IN	RRSIG	NS 13 1 3600 20240226150830 20240130025301 51802 xn--90a3ac. GqZ5GuH+jPiRyRlJnN83b0M+U+KkUYQj69Vzr88OnVL5zENtUuHL9xdv cFlFPhv5jbshKwIEDxdAQwzY0yPmlg==
-xn--90a3ac.		3600	IN	TXT	"xn--90a3ac zone update: 2024-02-01 14:00:04 +01:00 (EPOCH 1706792404)"
-xn--90a3ac.		3600	IN	RRSIG	TXT 13 1 3600 20240229105737 20240201125302 51802 xn--90a3ac. R5zRVd71lVr1uAE74/7THE/e0IBsrnwqx56TUu6xJH0xkW/sMeDcpCGs FH6VrqJToPZQTMmZKl8KN4bPFZhLoQ==
+xn--90a3ac.		3600	IN	TXT	"xn--90a3ac zone update: 2024-02-01 15:00:04 +01:00 (EPOCH 1706796004)"
+xn--90a3ac.		3600	IN	RRSIG	TXT 13 1 3600 20240229210059 20240201135301 51802 xn--90a3ac. KkAy7U4XBgFh1DHowjgY0TjgkJddLtORFAU6nq1Dq2AKfX0LeNfHbWhJ 2QzMPp/Zfirh5ErqMb7FfpqKptwBFA==
 xn--90a3ac.		3600	IN	DNSKEY	256 3 13 ACOp9VMs8rffITz4WPPqJAPjSAkBPTb4KS4aUbcoCccO9DKzHqpj1hBp zAYL6oHmjmFS9gmjLvJ0Xut54/xiYw==
 xn--90a3ac.		3600	IN	DNSKEY	256 3 13 XFg51LcDRthrYrVcibiQ9Qotu27rbQVNXQOl96CkQF/7evQ0NyZlDWjs fGXJ9/m5lWwx5EvgM4f0Grfxy7mifg==
 xn--90a3ac.		3600	IN	DNSKEY	257 3 13 NU95xarGR41YSMs+vc3vC/h5hRMQVT5uegUqUMk1opwXsa+xaZsgYGby AiiXYZKoMaC/dBDGGOySjGjTh8km4A==
@@ -3876,6 +3876,9 @@ xn--80aafb4awon2w.xn--90a3ac. 3600 IN	NS	ns1.loopia.se.
 xn--80aafb4awon2w.xn--90a3ac. 3600 IN	NS	ns2.loopia.se.
 xn--80aafb4awon2w.xn--90a3ac. 3600 IN	DS	12412 8 2 044028344E6D58A524542A099E9065386F7BA181D56AF28131B5423D ACAC0054
 xn--80aafb4awon2w.xn--90a3ac. 3600 IN	RRSIG	DS 13 2 3600 20240208051350 20240111105302 957 xn--90a3ac. 9Mi/Xxic3ySnxxA31LK1SRwtEGrR9+AmJbdeTXJlP3FjLliM2HNU+BE/ DcSIO/eLnKey+OF13w9wuNvYNFFWew==
+xn--80aafbh1a7afdn02a.xn--90a3ac. 3600 IN NS	dns1.dwhost.net.
+xn--80aafbh1a7afdn02a.xn--90a3ac. 3600 IN NS	dns2.dwhost.net.
+xn--80aafbh1a7afdn02a.xn--90a3ac. 3600 IN NS	dns3.dwhost.net.
 xn--80aafbrkcdushmf4apj73b.xn--90a3ac. 3600 IN NS ns.beotel.rs.
 xn--80aafbrkcdushmf4apj73b.xn--90a3ac. 3600 IN NS ns.beotel.net.
 xn--80aafc9cdkd7e4i.xn--90a3ac.	3600 IN	NS	ns4-l2.nic.ru.
@@ -4351,6 +4354,9 @@ xn--80aaxo5aza.xn--90a3ac. 3600	IN	NS	ns2.cpanelhosting.rs.
 xn--80aaxo5aza.xn--90a3ac. 3600	IN	NS	ns3.cpanelhosting.rs.
 xn--80aaxobgb9byb8l.xn--90a3ac.	3600 IN	NS	ns1.dns-parking.com.
 xn--80aaxobgb9byb8l.xn--90a3ac.	3600 IN	NS	ns2.dns-parking.com.
+xn--80aaxov9l.xn--90a3ac. 3600	IN	NS	dns1.dwhost.net.
+xn--80aaxov9l.xn--90a3ac. 3600	IN	NS	dns2.dwhost.net.
+xn--80aaxov9l.xn--90a3ac. 3600	IN	NS	dns3.dwhost.net.
 xn--80aaxuneh.xn--90a3ac. 3600	IN	NS	dns1.orion.rs.
 xn--80aaxuneh.xn--90a3ac. 3600	IN	NS	dns2.orion.rs.
 xn--80aaxuneh.xn--90a3ac. 3600	IN	NS	dns3.orion.rs.
@@ -5639,6 +5645,9 @@ xn--80apaawcgnodhd6b.xn--90a3ac. 3600 IN DS	12412 8 2 9601AD21D07007B82CA281CD15
 xn--80apaawcgnodhd6b.xn--90a3ac. 3600 IN RRSIG	DS 13 2 3600 20240214011653 20240116232301 957 xn--90a3ac. chuP64gc4mN63+uIR2Ikq09qCidLVboVGcO2QgUmjUCoOML+jzTusUSu VMdMOsLzkR5Ju1EY/qD1tFuAMQeFqA==
 xn--80apaicrg1a.xn--90a3ac. 3600 IN	NS	badnja.politika.co.rs.
 xn--80apaicrg1a.xn--90a3ac. 3600 IN	NS	dagda1.isp.telekom.rs.
+xn--80apald7d.xn--90a3ac. 3600	IN	NS	dns1.dwhost.net.
+xn--80apald7d.xn--90a3ac. 3600	IN	NS	dns2.dwhost.net.
+xn--80apald7d.xn--90a3ac. 3600	IN	NS	dns3.dwhost.net.
 xn--80apatsh4a.xn--90a3ac. 3600	IN	NS	ns1.loopia.se.
 xn--80apatsh4a.xn--90a3ac. 3600	IN	NS	ns2.loopia.se.
 xn--80apatsh4a.xn--90a3ac. 3600	IN	DS	12412 8 2 59F9BF608F0034BBBE0B399C2435483D81D530505342383FC43A2B5E 4D2C1C67
@@ -7144,6 +7153,9 @@ xn--h1aaidkfheq.xn--90a3ac. 3600 IN	NS	dns4.orion.rs.
 xn--h1aairkn.xn--90a3ac. 3600	IN	NS	ns1.ext.philips.com.
 xn--h1aairkn.xn--90a3ac. 3600	IN	NS	ns2.ext.philips.com.
 xn--h1aairkn.xn--90a3ac. 3600	IN	NS	ns3.ext.philips.com.
+xn--h1aakbjo.xn--90a3ac. 3600	IN	NS	dns1.dwhost.net.
+xn--h1aakbjo.xn--90a3ac. 3600	IN	NS	dns2.dwhost.net.
+xn--h1aakbjo.xn--90a3ac. 3600	IN	NS	dns3.dwhost.net.
 xn--h1aakz0k.xn--90a3ac. 3600	IN	NS	ns1.cpanelhosting.rs.
 xn--h1aakz0k.xn--90a3ac. 3600	IN	NS	ns2.cpanelhosting.rs.
 xn--h1aakz0k.xn--90a3ac. 3600	IN	NS	ns3.cpanelhosting.rs.
@@ -7851,4 +7863,4 @@ vtr6oagihtf5n345ac46i8c2gb8l8u9j.xn--90a3ac. 3600 IN NSEC3 1 1 5 8EC543AF6A8739C
 vtr6oagihtf5n345ac46i8c2gb8l8u9j.xn--90a3ac. 3600 IN RRSIG NSEC3 13 2 3600 20240226193534 20240129095302 51802 xn--90a3ac. Z/SdTq08HNVtwkz3Xk+0xvSKqS3w10MQJADUBxHX5QfhyDCLr8gCsc9V VRrCDLeyDErYpd0OqudfUSca3PLpTQ==
 vvk21103oifitb2u6d6lsaugb3bu599d.xn--90a3ac. 3600 IN NSEC3 1 1 5 8EC543AF6A8739CE 0CQ45RGUDT10202F8BMKI1GES14UME3I NS DS RRSIG
 vvk21103oifitb2u6d6lsaugb3bu599d.xn--90a3ac. 3600 IN RRSIG NSEC3 13 2 3600 20240226151633 20240129205301 51802 xn--90a3ac. NM1L6ZxJA71svnnepIRYx+H7/CiLuTDDYZV2a2xSU1wyctodeKmYQhx4 N9TYqvm9SsHOzfR+oL4lHgNpf598Vw==
-xn--90a3ac.		3600	IN	SOA	a.nic.rs. hostmaster.nic.rs. 2024020129 3600 900 2419200 3600
+xn--90a3ac.		3600	IN	SOA	a.nic.rs. hostmaster.nic.rs. 2024020131 3600 900 2419200 3600
