@@ -7,7 +7,7 @@
 * `.` via `k.root-servers.net.`: [Click here to view zone data.](archives/root/k.root-servers.net.zone)
 * `.` via `g.root-servers.net.`: [Click here to view zone data.](archives/root/g.root-servers.net.zone)
 * `.` via `f.root-servers.net.`: [Click here to view zone data.](archives/root/f.root-servers.net.zone)
-* `arpa` via `b.ns.arpa.`: [Click here to view zone data.](archives/arpa/b.ns.arpa.zone)
+* `arpa` via `e.ns.arpa.`: [Click here to view zone data.](archives/arpa/e.ns.arpa.zone)
 * `bb` via `ns5.nic.bb.`: [Click here to view zone data.](archives/bb/ns5.nic.bb.zone)
 * `bw` via `dns1.nic.net.bw.`: [Click here to view zone data.](archives/bw/dns1.nic.net.bw.zone)
 * `cd` via `ns-root-22.scpt-network.net.`: [Click here to view zone data.](archives/cd/ns-root-22.scpt-network.net.zone)
