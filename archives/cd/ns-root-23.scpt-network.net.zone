@@ -1,5 +1,5 @@
-cd.			86400	IN	SOA	pch.nic.cd. noc.nic.cd. 2024052021 3600 600 1209600 3600
-cd.			86400	IN	TXT	"Generation Time: 1716240953"
+cd.			86400	IN	SOA	pch.nic.cd. noc.nic.cd. 2024052114 3600 600 1209600 3600
+cd.			86400	IN	TXT	"Generation Time: 1716301432"
 cd.			86400	IN	NS	pch.nic.cd.
 cd.			86400	IN	NS	gransy-anycast1.nic.cd.
 cd.			86400	IN	NS	gransy-anycast2.nic.cd.
@@ -55,6 +55,8 @@ cd.			86400	IN	NS	gransy-anycast2.nic.cd.
 1111.cd.		86400	IN	NS	arch.ns.cloudflare.com.
 118114.cd.		86400	IN	NS	ajay.ns.cloudflare.com.
 118114.cd.		86400	IN	NS	arch.ns.cloudflare.com.
+123.cd.			86400	IN	NS	decker.ns.cloudflare.com.
+123.cd.			86400	IN	NS	yolanda.ns.cloudflare.com.
 12306.cd.		86400	IN	NS	ns1.alidns.com.
 12306.cd.		86400	IN	NS	ns2.alidns.com.
 1234.cd.		86400	IN	NS	ns3.myhostadmin.net.
@@ -266,6 +268,8 @@ cd.			86400	IN	NS	gransy-anycast2.nic.cd.
 6.cd.			86400	IN	NS	ns-878.awsdns-45.net.
 6.cd.			86400	IN	NS	ns-1489.awsdns-58.org.
 6.cd.			86400	IN	NS	ns-1665.awsdns-16.co.uk.
+66.cd.			86400	IN	NS	decker.ns.cloudflare.com.
+66.cd.			86400	IN	NS	yolanda.ns.cloudflare.com.
 6655.cd.		86400	IN	NS	f1g1ns1.dnspod.net.
 6655.cd.		86400	IN	NS	f1g1ns2.dnspod.net.
 6666.cd.		86400	IN	NS	ns1.myhostadmin.net.
@@ -301,6 +305,8 @@ cd.			86400	IN	NS	gransy-anycast2.nic.cd.
 7.cd.			86400	IN	NS	ns-1796.awsdns-32.co.uk.
 721capital.cd.		86400	IN	NS	ns1.bluehost.com.
 721capital.cd.		86400	IN	NS	ns2.bluehost.com.
+74.cd.			86400	IN	NS	ns1.netsto.net.
+74.cd.			86400	IN	NS	ns2.netsto.net.
 777.cd.			86400	IN	NS	ns-73.awsdns-09.com.
 777.cd.			86400	IN	NS	ns-828.awsdns-39.net.
 777.cd.			86400	IN	NS	ns-1027.awsdns-00.org.
@@ -371,10 +377,14 @@ cd.			86400	IN	NS	gransy-anycast2.nic.cd.
 9.cd.			86400	IN	NS	ns-1835.awsdns-37.co.uk.
 9191lao.cd.		86400	IN	NS	ajay.ns.cloudflare.com.
 9191lao.cd.		86400	IN	NS	arch.ns.cloudflare.com.
+94.cd.			86400	IN	NS	ns6.netsto.net.
+94.cd.			86400	IN	NS	ns7.netsto.net.
 9799.cd.		86400	IN	NS	ajay.ns.cloudflare.com.
 9799.cd.		86400	IN	NS	arch.ns.cloudflare.com.
 9888.cd.		86400	IN	NS	ajay.ns.cloudflare.com.
 9888.cd.		86400	IN	NS	arch.ns.cloudflare.com.
+99.cd.			86400	IN	NS	decker.ns.cloudflare.com.
+99.cd.			86400	IN	NS	yolanda.ns.cloudflare.com.
 9966.cd.		86400	IN	NS	f1g1ns1.dnspod.net.
 9966.cd.		86400	IN	NS	f1g1ns2.dnspod.net.
 9988.cd.		86400	IN	NS	ajay.ns.cloudflare.com.
@@ -451,7 +461,7 @@ abnamro.cd.		86400	IN	NS	g4.nstld.com.
 abnamro.cd.		86400	IN	NS	l4.nstld.com.
 absolut.cd.		86400	IN	NS	dns1.cscdns.net.
 absolut.cd.		86400	IN	NS	dns2.cscdns.net.
-ac.cd.			86400	IN	TXT	"Generation Time: 1716240955"
+ac.cd.			86400	IN	TXT	"Generation Time: 1716301433"
 abil.ac.cd.		86400	IN	NS	ns1.panelboxmanager.com.
 abil.ac.cd.		86400	IN	NS	ns2.panelboxmanager.com.
 angazainstitute.ac.cd.	86400	IN	NS	cpanel11.lws-hosting.com.
@@ -1104,8 +1114,8 @@ afrinet.cd.		86400	IN	NS	dns.afrinet.cd.
 afrinet.cd.		86400	IN	NS	auth01.afrinet.cd.
 auth01.afrinet.cd.	86400	IN	A	41.222.218.135
 dns.afrinet.cd.		86400	IN	A	41.222.216.20
-afrinvest.cd.		86400	IN	NS	ns8199.hostgator.com.
-afrinvest.cd.		86400	IN	NS	ns8200.hostgator.com.
+afrinvest.cd.		86400	IN	NS	ns1.dns-parking.com.
+afrinvest.cd.		86400	IN	NS	ns2.dns-parking.com.
 afriradio.cd.		86400	IN	NS	ns1.webnetafrica.net.
 afriradio.cd.		86400	IN	NS	ns2.webnetafrica.net.
 afriregister.cd.	86400	IN	NS	ns1.afriregister.bi.
@@ -3582,8 +3592,8 @@ cd.cd.			86400	IN	NS	ns-root-22.scpt-network.net.
 cd.cd.			86400	IN	NS	ns-root-23.scpt-network.net.
 cdaecc.cd.		86400	IN	NS	ajay.ns.cloudflare.com.
 cdaecc.cd.		86400	IN	NS	arch.ns.cloudflare.com.
-cdb.cd.			86400	IN	NS	ns1.scpt-network.cd.
-cdb.cd.			86400	IN	NS	ns2.scpt-network.cd.
+cdb.cd.			86400	IN	NS	ns1.dns-parking.com.
+cdb.cd.			86400	IN	NS	ns2.dns-parking.com.
 cdcd.cd.		86400	IN	NS	ns1.myhostadmin.net.
 cdcd.cd.		86400	IN	NS	ns2.myhostadmin.net.
 cdcd.cd.		86400	IN	NS	ns3.myhostadmin.net.
@@ -4250,7 +4260,7 @@ coltanvalley.cd.	86400	IN	NS	ns1.mypandos.com.
 coltanvalley.cd.	86400	IN	NS	ns2.mypandos.com.
 colub.cd.		86400	IN	NS	ns8259.hostgator.com.
 colub.cd.		86400	IN	NS	ns8260.hostgator.com.
-com.cd.			86400	IN	TXT	"Generation Time: 1716240955"
+com.cd.			86400	IN	TXT	"Generation Time: 1716301434"
 14trees.com.cd.		86400	IN	NS	ns01ch.holcim.com.
 14trees.com.cd.		86400	IN	NS	ns01us.holcim.com.
 14trees.com.cd.		86400	IN	NS	ns02ch.holcim.com.
@@ -6093,7 +6103,7 @@ edtech-243.cd.		86400	IN	NS	cp1.dnshostservices.com.
 edtech-243.cd.		86400	IN	NS	cp2.dnshostservices.com.
 edtech243.cd.		86400	IN	NS	cp1.dnshostservices.com.
 edtech243.cd.		86400	IN	NS	cp2.dnshostservices.com.
-edu.cd.			86400	IN	TXT	"Generation Time: 1716240955"
+edu.cd.			86400	IN	TXT	"Generation Time: 1716301434"
 bnn.edu.cd.		86400	IN	NS	ns110.ovh.net.
 bnn.edu.cd.		86400	IN	NS	dns110.ovh.net.
 ci-ucbc.edu.cd.		86400	IN	NS	ns3.nitrowebhost.co.uk.
@@ -6222,6 +6232,8 @@ ekernel-core.cd.	86400	IN	NS	ns1.o2switch.net.
 ekernel-core.cd.	86400	IN	NS	ns2.o2switch.net.
 eklezia.cd.		86400	IN	NS	dns1.namecheaphosting.com.
 eklezia.cd.		86400	IN	NS	dns2.namecheaphosting.com.
+ekole.cd.		86400	IN	NS	ns1.ipsolutions.cd.
+ekole.cd.		86400	IN	NS	ns2.ipsolutions.cd.
 eksf.cd.		86400	IN	NS	ajay.ns.cloudflare.com.
 eksf.cd.		86400	IN	NS	arch.ns.cloudflare.com.
 ekuke.cd.		86400	IN	NS	ns1.scpt-network.cd.
@@ -8079,9 +8091,9 @@ gourmandine.cd.		86400	IN	NS	ns1.uniteddns.net.
 gourmandine.cd.		86400	IN	NS	ns2.uniteddns.net.
 gourmet.cd.		86400	IN	NS	ns1.dns-parking.com.
 gourmet.cd.		86400	IN	NS	ns2.dns-parking.com.
-gouv.cd.		86400	IN	TXT	"Generation Time: 1716240958"
-acorep.gouv.cd.		86400	IN	NS	ns1.scpt-network.cd.
-acorep.gouv.cd.		86400	IN	NS	ns2.scpt-network.cd.
+gouv.cd.		86400	IN	TXT	"Generation Time: 1716301436"
+acorep.gouv.cd.		86400	IN	NS	ns1.anicns.com.
+acorep.gouv.cd.		86400	IN	NS	ns2.anicns.com.
 affaires-coutumieres.gouv.cd. 86400 IN	NS	ns1-cpeu7.likuid.com.
 affaires-coutumieres.gouv.cd. 86400 IN	NS	ns2-cpeu7.likuid.com.
 affaires-foncieres.gouv.cd. 86400 IN	NS	ns1.dns.cd.
@@ -8474,7 +8486,7 @@ gouvtanganyika.cd.	86400	IN	NS	dns44.cloudns.net.
 gov.cd.			86400	IN	NS	ns-root-21.scpt-network.net.
 gov.cd.			86400	IN	NS	ns-root-22.scpt-network.net.
 gov.cd.			86400	IN	NS	ns-root-23.scpt-network.net.
-gov.cd.			86400	IN	TXT	"Generation Time: 1716240955"
+gov.cd.			86400	IN	TXT	"Generation Time: 1716301434"
 egov.gov.cd.		86400	IN	NS	ns1.scpt-network.cd.
 egov.gov.cd.		86400	IN	NS	ns2.scpt-network.cd.
 presidence.gov.cd.	86400	IN	NS	ns1.scpt-network.cd.
@@ -10458,8 +10470,8 @@ kickasstorrent.cd.	86400	IN	NS	ns1.parkingcrew.net.
 kickasstorrent.cd.	86400	IN	NS	ns2.parkingcrew.net.
 kiev.cd.		86400	IN	NS	ajay.ns.cloudflare.com.
 kiev.cd.		86400	IN	NS	arch.ns.cloudflare.com.
-kig.cd.			86400	IN	NS	ajay.ns.cloudflare.com.
-kig.cd.			86400	IN	NS	ligia.ns.cloudflare.com.
+kig.cd.			86400	IN	NS	ns11.hitechosting.co.uk.
+kig.cd.			86400	IN	NS	ns12.hitechosting.co.uk.
 kigroup.cd.		86400	IN	NS	jaxson.ns.cloudflare.com.
 kigroup.cd.		86400	IN	NS	eleanor.ns.cloudflare.com.
 kikuku.cd.		86400	IN	NS	mitch.ns.cloudflare.com.
@@ -11907,6 +11919,8 @@ majorite-presidentielle.cd. 86400 IN	NS	ajay.ns.cloudflare.com.
 majorite-presidentielle.cd. 86400 IN	NS	arch.ns.cloudflare.com.
 majorka.cd.		86400	IN	NS	ns1.webnetafrica.net.
 majorka.cd.		86400	IN	NS	ns2.webnetafrica.net.
+makasi.cd.		86400	IN	NS	ns3.combell.net.
+makasi.cd.		86400	IN	NS	ns4.combell.net.
 make.cd.		86400	IN	NS	ajay.ns.cloudflare.com.
 make.cd.		86400	IN	NS	arch.ns.cloudflare.com.
 makeitdrone.cd.		86400	IN	NS	ns.ipsystems.cd.
@@ -13489,7 +13503,7 @@ nesys.cd.		86400	IN	NS	ns1.m77.siteground.biz.
 nesys.cd.		86400	IN	NS	ns2.m77.siteground.biz.
 net.cd.			86400	IN	NS	ns-root-21.scpt-network.net.
 net.cd.			86400	IN	NS	ns-root-22.scpt-network.net.
-net.cd.			86400	IN	TXT	"Generation Time: 1716240956"
+net.cd.			86400	IN	TXT	"Generation Time: 1716301434"
 egov.net.cd.		86400	IN	NS	ns1.scpt-network.cd.
 egov.net.cd.		86400	IN	NS	ns2.scpt-network.cd.
 inter.net.cd.		86400	IN	NS	ns1.afraid.org.
@@ -14301,7 +14315,7 @@ ordredesinfirmiers.cd.	86400	IN	NS	ns1045.ui-dns.com.
 ordredesinfirmiers.cd.	86400	IN	NS	ns1045.ui-dns.org.
 orellig.cd.		86400	IN	NS	dns1.namecheaphosting.com.
 orellig.cd.		86400	IN	NS	dns2.namecheaphosting.com.
-org.cd.			86400	IN	TXT	"Generation Time: 1716240956"
+org.cd.			86400	IN	TXT	"Generation Time: 1716301434"
 centic.org.cd.		86400	IN	NS	ns1.4levels.net.
 centic.org.cd.		86400	IN	NS	ns2.4levels.net.
 csc.org.cd.		86400	IN	NS	ns1.4levels.net.
@@ -16624,6 +16638,8 @@ sexy.cd.		86400	IN	NS	ns1.oray.net.
 sexy.cd.		86400	IN	NS	ns2.oray.net.
 sfmaginnovations.cd.	86400	IN	NS	ns1.duhosting.net.
 sfmaginnovations.cd.	86400	IN	NS	ns2.duhosting.net.
+sg-mines-rdc.cd.	86400	IN	NS	ns1.nitrowebhost.co.uk.
+sg-mines-rdc.cd.	86400	IN	NS	ns2.nitrowebhost.co.uk.
 sgc-sarlu.cd.		86400	IN	NS	ns11.hitechosting.co.uk.
 sgc-sarlu.cd.		86400	IN	NS	ns12.hitechosting.co.uk.
 sgd-rdc.cd.		86400	IN	NS	ns.oxito.com.
@@ -18924,8 +18940,8 @@ vg.cd.			86400	IN	NS	ns1.vg.cd.
 vg.cd.			86400	IN	NS	ns2.he.net.
 vg.cd.			86400	IN	NS	ns3.he.net.
 vg.cd.			86400	IN	NS	ns4.he.net.
-ns1.vg.cd.		86400	IN	AAAA	2a01:4f9:c011:ad38::1
 ns1.vg.cd.		86400	IN	A	65.109.230.34
+ns1.vg.cd.		86400	IN	AAAA	2a01:4f9:c011:ad38::1
 vh.cd.			86400	IN	NS	ns1.afraid.org.
 vh.cd.			86400	IN	NS	ns2.afraid.org.
 vh.cd.			86400	IN	NS	ns3.afraid.org.
@@ -20081,4 +20097,4 @@ zyn.cd.			86400	IN	NS	ns4.markmonitor.com.
 zyn.cd.			86400	IN	NS	ns5.markmonitor.com.
 zyn.cd.			86400	IN	NS	ns6.markmonitor.com.
 zyn.cd.			86400	IN	NS	ns7.markmonitor.com.
-cd.			86400	IN	SOA	pch.nic.cd. noc.nic.cd. 2024052021 3600 600 1209600 3600
+cd.			86400	IN	SOA	pch.nic.cd. noc.nic.cd. 2024052114 3600 600 1209600 3600
