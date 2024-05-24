@@ -1,5 +1,6 @@
 # List of TLDs & Roots With Zone Transfers Currently Enabled
 
+* `.` via `e.root-servers.net.`: [Click here to view zone data.](archives/root/e.root-servers.net.zone)
 * `.` via `d.root-servers.net.`: [Click here to view zone data.](archives/root/d.root-servers.net.zone)
 * `.` via `c.root-servers.net.`: [Click here to view zone data.](archives/root/c.root-servers.net.zone)
 * `.` via `b.root-servers.net.`: [Click here to view zone data.](archives/root/b.root-servers.net.zone)
@@ -9,8 +10,8 @@
 * `arpa` via `b.ns.arpa.`: [Click here to view zone data.](archives/arpa/b.ns.arpa.zone)
 * `bb` via `ns5.nic.bb.`: [Click here to view zone data.](archives/bb/ns5.nic.bb.zone)
 * `bw` via `dns1.nic.net.bw.`: [Click here to view zone data.](archives/bw/dns1.nic.net.bw.zone)
-* `cd` via `ns-root-23.scpt-network.net.`: [Click here to view zone data.](archives/cd/ns-root-23.scpt-network.net.zone)
-* `er` via `sawanew.noc.net.er.`: [Click here to view zone data.](archives/er/sawanew.noc.net.er.zone)
+* `cd` via `ns-root-22.scpt-network.net.`: [Click here to view zone data.](archives/cd/ns-root-22.scpt-network.net.zone)
+* `er` via `zaranew.noc.net.er.`: [Click here to view zone data.](archives/er/zaranew.noc.net.er.zone)
 * `fj` via `ns1.fj.`: [Click here to view zone data.](archives/fj/ns1.fj.zone)
 * `gh` via `ns2.nic.gh.`: [Click here to view zone data.](archives/gh/ns2.nic.gh.zone)
 * `gn` via `ns1.gn.`: [Click here to view zone data.](archives/gn/ns1.gn.zone)
@@ -19,7 +20,7 @@
 * `kh` via `ns.camnet.com.kh.`: [Click here to view zone data.](archives/kh/ns.camnet.com.kh.zone)
 * `mp` via `ns1.nic.mp.`: [Click here to view zone data.](archives/mp/ns1.nic.mp.zone)
 * `mw` via `domwe.sdn.mw.`: [Click here to view zone data.](archives/mw/domwe.sdn.mw.zone)
-* `ni` via `ns.ideay.net.ni.`: [Click here to view zone data.](archives/ni/ns.ideay.net.ni.zone)
+* `ni` via `ns2.ni.`: [Click here to view zone data.](archives/ni/ns2.ni.zone)
 * `pg` via `ns2.tiare.net.pg.`: [Click here to view zone data.](archives/pg/ns2.tiare.net.pg.zone)
 * `ps` via `ns1.pnina.ps.`: [Click here to view zone data.](archives/ps/ns1.pnina.ps.zone)
 * `tc` via `root2.zone.tc.`: [Click here to view zone data.](archives/tc/root2.zone.tc.zone)
