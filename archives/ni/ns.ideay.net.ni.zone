@@ -1,4 +1,4 @@
-ni.			86400	IN	SOA	ns.ni. root.ns.ni. 2021113141 3600 600 604801 86400
+ni.			86400	IN	SOA	ns.ni. root.ns.ni. 2021113143 3600 600 604801 86400
 ni.			86400	IN	NS	ns.ni.
 ni.			86400	IN	NS	ns.uu.net.
 ni.			86400	IN	NS	ns.ideay.net.ni.
@@ -858,14 +858,10 @@ hotelreservationservice.ni. 86400 IN	NS	1.dnsservers.de.
 hotelreservationservice.ni. 86400 IN	NS	2.dns-servers.eu.
 hotelreservationservice.ni. 86400 IN	NS	3.dnsservers.de.
 hotelreservationservice.ni. 86400 IN	NS	4.dns-servers.eu.
-hotnready.ni.		86400	IN	NS	ns1.brandsight-dns.com.
-hotnready.ni.		86400	IN	NS	ns1.brandsight-dns.net.
-hotnready.ni.		86400	IN	NS	ns2.brandsight-dns.com.
-hotnready.ni.		86400	IN	NS	ns2.brandsight-dns.net.
-hotnreadypizza.ni.	86400	IN	NS	ns1.brandsight-dns.com.
-hotnreadypizza.ni.	86400	IN	NS	ns1.brandsight-dns.net.
-hotnreadypizza.ni.	86400	IN	NS	ns2.brandsight-dns.com.
-hotnreadypizza.ni.	86400	IN	NS	ns2.brandsight-dns.net.
+hotnready.ni.		86400	IN	NS	ns05.gcd-dns.com.
+hotnready.ni.		86400	IN	NS	ns06.gcd-dns.com.
+hotnreadypizza.ni.	86400	IN	NS	ns05.gcd-dns.com.
+hotnreadypizza.ni.	86400	IN	NS	ns06.gcd-dns.com.
 hrs.ni.			86400	IN	NS	1.dnsservers.de.
 hrs.ni.			86400	IN	NS	2.dns-servers.de.
 hrs.ni.			86400	IN	NS	3.dnsservers.de.
@@ -1078,22 +1074,14 @@ lipidol.ni.		86400	IN	NS	ns4.markmonitor.com.
 lipidol.ni.		86400	IN	NS	ns5.markmonitor.com.
 lipidol.ni.		86400	IN	NS	ns6.markmonitor.com.
 lipidol.ni.		86400	IN	NS	ns7.markmonitor.com.
-littlecaesar.ni.	86400	IN	NS	ns1.brandsight-dns.com.
-littlecaesar.ni.	86400	IN	NS	ns1.brandsight-dns.net.
-littlecaesar.ni.	86400	IN	NS	ns2.brandsight-dns.com.
-littlecaesar.ni.	86400	IN	NS	ns2.brandsight-dns.net.
-littlecaesarpizza.ni.	86400	IN	NS	ns1.brandsight-dns.com.
-littlecaesarpizza.ni.	86400	IN	NS	ns1.brandsight-dns.net.
-littlecaesarpizza.ni.	86400	IN	NS	ns2.brandsight-dns.com.
-littlecaesarpizza.ni.	86400	IN	NS	ns2.brandsight-dns.net.
-littlecaesars.ni.	86400	IN	NS	ns1.brandsight-dns.com.
-littlecaesars.ni.	86400	IN	NS	ns1.brandsight-dns.net.
-littlecaesars.ni.	86400	IN	NS	ns2.brandsight-dns.com.
-littlecaesars.ni.	86400	IN	NS	ns2.brandsight-dns.net.
-littlecaesarspizza.ni.	86400	IN	NS	ns1.brandsight-dns.com.
-littlecaesarspizza.ni.	86400	IN	NS	ns1.brandsight-dns.net.
-littlecaesarspizza.ni.	86400	IN	NS	ns2.brandsight-dns.com.
-littlecaesarspizza.ni.	86400	IN	NS	ns2.brandsight-dns.net.
+littlecaesar.ni.	86400	IN	NS	ns05.gcd-dns.com.
+littlecaesar.ni.	86400	IN	NS	ns06.gcd-dns.com.
+littlecaesarpizza.ni.	86400	IN	NS	ns05.gcd-dns.com.
+littlecaesarpizza.ni.	86400	IN	NS	ns06.gcd-dns.com.
+littlecaesars.ni.	86400	IN	NS	ns05.gcd-dns.com.
+littlecaesars.ni.	86400	IN	NS	ns06.gcd-dns.com.
+littlecaesarspizza.ni.	86400	IN	NS	ns05.gcd-dns.com.
+littlecaesarspizza.ni.	86400	IN	NS	ns06.gcd-dns.com.
 littler.ni.		86400	IN	NS	ns1-03.azure-dns.com.
 littler.ni.		86400	IN	NS	ns2-03.azure-dns.net.
 littler.ni.		86400	IN	NS	ns3-03.azure-dns.org.
@@ -1898,8 +1886,10 @@ villas.ni.		86400	IN	NS	ns3.bkngs.com.
 visa.ni.		86400	IN	NS	ns1.dnsvisa.com.
 visa.ni.		86400	IN	NS	ns2.dnsvisa.com.
 visa.ni.		86400	IN	NS	ns3.dnsvisa.com.
-voluntariosclaro.ni.	86400	IN	NS	dns1.cscdns.net.
-voluntariosclaro.ni.	86400	IN	NS	dns2.cscdns.net.
+voluntariosclaro.ni.	86400	IN	NS	dns1.comlaude-dns.com.
+voluntariosclaro.ni.	86400	IN	NS	dns2.comlaude-dns.net.
+voluntariosclaro.ni.	86400	IN	NS	dns3.comlaude-dns.co.uk.
+voluntariosclaro.ni.	86400	IN	NS	dns4.comlaude-dns.eu.
 volvoce.ni.		86400	IN	NS	gate.volvo.se.
 volvoce.ni.		86400	IN	NS	gatekeeper.volvo.se.
 volvoce.ni.		86400	IN	NS	gatekeeper.volvo.com.
@@ -2001,4 +1991,4 @@ zoetis.ni.		86400	IN	NS	edns4.ultradns.net.
 zoetis.ni.		86400	IN	NS	edns4.ultradns.org.
 zumtobel.ni.		86400	IN	NS	meadow.ns.cloudflare.com.
 zumtobel.ni.		86400	IN	NS	thaddeus.ns.cloudflare.com.
-ni.			86400	IN	SOA	ns.ni. root.ns.ni. 2021113141 3600 600 604801 86400
+ni.			86400	IN	SOA	ns.ni. root.ns.ni. 2021113143 3600 600 604801 86400
