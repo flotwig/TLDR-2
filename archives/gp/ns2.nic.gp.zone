@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024061222 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024061320 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -3163,8 +3163,10 @@ lpmi.gp.		86400	IN	NS	ns-75-a.gandi.net.
 lpmi.gp.		86400	IN	NS	ns-174-b.gandi.net.
 lronhubbard.gp.		86400	IN	NS	ns1.markmonitor.com.
 lronhubbard.gp.		86400	IN	NS	ns2.markmonitor.com.
-ls.gp.			86400	IN	NS	alan.ns.cloudflare.com.
-ls.gp.			86400	IN	NS	cass.ns.cloudflare.com.
+ls.gp.			86400	IN	NS	ns1.ls.gp.
+ls.gp.			86400	IN	NS	ns2.ls.gp.
+ns1.ls.gp.		86400	IN	A	5.39.69.92
+ns2.ls.gp.		86400	IN	A	5.39.62.92
 lscs.gp.		86400	IN	NS	ns15.ovh.net.
 lscs.gp.		86400	IN	NS	dns15.ovh.net.
 lumen.gp.		86400	IN	NS	authns1.centurylink.net.
@@ -5638,4 +5640,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024061222 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024061320 86400 7200 2592000 345600
