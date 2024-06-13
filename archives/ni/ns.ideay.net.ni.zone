@@ -1,5 +1,5 @@
 ;; Connection to 186.1.31.8#53(186.1.31.8) for ni. failed: timed out.
-ni.			86400	IN	SOA	ns.ni. root.ns.ni. 2021113144 3600 600 604801 86400
+ni.			86400	IN	SOA	ns.ni. root.ns.ni. 2021113145 3600 600 604801 86400
 ni.			86400	IN	NS	ns.ni.
 ni.			86400	IN	NS	ns.uu.net.
 ni.			86400	IN	NS	ns.ideay.net.ni.
@@ -23,9 +23,12 @@ ni.			86400	IN	NS	dns-ext.nic.cr.
 6pm.ni.			86400	IN	NS	ns3.markmonitor.com.
 888.ni.			86400	IN	NS	alex.ns.cloudflare.com.
 888.ni.			86400	IN	NS	laura.ns.cloudflare.com.
-abb.ni.			86400	IN	NS	nse1.abb.com.
-abb.ni.			86400	IN	NS	nse2.abb.com.
-abb.ni.			86400	IN	NS	nse3.abb.com.
+abb.ni.			86400	IN	NS	a4-64.akam.net.
+abb.ni.			86400	IN	NS	a7-64.akam.net.
+abb.ni.			86400	IN	NS	a1-226.akam.net.
+abb.ni.			86400	IN	NS	a10-66.akam.net.
+abb.ni.			86400	IN	NS	a13-65.akam.net.
+abb.ni.			86400	IN	NS	a22-65.akam.net.
 abcmouse.ni.		86400	IN	NS	ns1.aofk.com.
 abcmouse.ni.		86400	IN	NS	ns2.aofk.com.
 abcmouse.ni.		86400	IN	NS	ns3.aofk.com.
@@ -1995,4 +1998,4 @@ zoetis.ni.		86400	IN	NS	edns4.ultradns.net.
 zoetis.ni.		86400	IN	NS	edns4.ultradns.org.
 zumtobel.ni.		86400	IN	NS	meadow.ns.cloudflare.com.
 zumtobel.ni.		86400	IN	NS	thaddeus.ns.cloudflare.com.
-ni.			86400	IN	SOA	ns.ni. root.ns.ni. 2021113144 3600 600 604801 86400
+ni.			86400	IN	SOA	ns.ni. root.ns.ni. 2021113145 3600 600 604801 86400
