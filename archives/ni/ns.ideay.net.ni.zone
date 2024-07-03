@@ -1,4 +1,7 @@
-ni.			86400	IN	SOA	ns.ni. root.ns.ni. 2021113153 3600 600 604801 86400
+;; Connection to 186.1.31.8#53(186.1.31.8) for ni. failed: timed out.
+;; no servers could be reached
+
+ni.			86400	IN	SOA	ns.ni. root.ns.ni. 2021113154 3600 600 604801 86400
 ni.			86400	IN	NS	ns.ni.
 ni.			86400	IN	NS	ns.uu.net.
 ni.			86400	IN	NS	ns.ideay.net.ni.
@@ -1685,9 +1688,12 @@ stpierre.ni.		86400	IN	NS	ns4.markmonitor.com.
 stpierre.ni.		86400	IN	NS	ns5.markmonitor.com.
 stpierre.ni.		86400	IN	NS	ns6.markmonitor.com.
 stpierre.ni.		86400	IN	NS	ns7.markmonitor.com.
-subway.ni.		86400	IN	NS	ns1.p03.dynect.net.
-subway.ni.		86400	IN	NS	ns2.p03.dynect.net.
-subway.ni.		86400	IN	NS	ns4.p03.dynect.net.
+subway.ni.		86400	IN	NS	a6-64.akam.net.
+subway.ni.		86400	IN	NS	a8-66.akam.net.
+subway.ni.		86400	IN	NS	a1-109.akam.net.
+subway.ni.		86400	IN	NS	a11-65.akam.net.
+subway.ni.		86400	IN	NS	a13-65.akam.net.
+subway.ni.		86400	IN	NS	a16-66.akam.net.
 sundancetv.ni.		86400	IN	NS	ns1.p28.dynect.net.
 sundancetv.ni.		86400	IN	NS	ns2.p28.dynect.net.
 sundancetv.ni.		86400	IN	NS	ns3.p28.dynect.net.
@@ -1995,4 +2001,4 @@ zumex.ni.		86400	IN	NS	ns3.ascio.com.
 zumex.ni.		86400	IN	NS	ns4.ascio.com.
 zumtobel.ni.		86400	IN	NS	meadow.ns.cloudflare.com.
 zumtobel.ni.		86400	IN	NS	thaddeus.ns.cloudflare.com.
-ni.			86400	IN	SOA	ns.ni. root.ns.ni. 2021113153 3600 600 604801 86400
+ni.			86400	IN	SOA	ns.ni. root.ns.ni. 2021113154 3600 600 604801 86400
