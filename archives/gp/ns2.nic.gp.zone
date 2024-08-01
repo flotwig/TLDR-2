@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024080114 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024080115 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -348,8 +348,6 @@ alamo.gp.		86400	IN	NS	ha1.markmonitor.zone.
 alamo.gp.		86400	IN	NS	ha2.markmonitor.zone.
 alamo.gp.		86400	IN	NS	ha3.markmonitor.zone.
 alamo.gp.		86400	IN	NS	ha4.markmonitor.zone.
-alfa.gp.		86400	IN	NS	ns1.dns-parking.com.
-alfa.gp.		86400	IN	NS	ns2.dns-parking.com.
 alfaromeo.gp.		86400	IN	NS	dns1.p09.nsone.net.
 alfaromeo.gp.		86400	IN	NS	dns2.p09.nsone.net.
 alice.gp.		86400	IN	NS	ns1.francedns.com.
@@ -2273,8 +2271,6 @@ grabovoi.gp.		86400	IN	NS	ns1.afraid.org.
 grabovoi.gp.		86400	IN	NS	ns2.afraid.org.
 grabovoi.gp.		86400	IN	NS	ns3.afraid.org.
 grabovoi.gp.		86400	IN	NS	ns4.afraid.org.
-grandmaison.gp.		86400	IN	NS	ns1-gp.mediaserv.net.
-grandmaison.gp.		86400	IN	NS	ns1-mq.mediaserv.net.
 grandpro.gp.		86400	IN	NS	ns1-gp.mediaserv.net.
 grandpro.gp.		86400	IN	NS	ns1-mq.mediaserv.net.
 gre.gp.			86400	IN	NS	ns1.101domain.com.
@@ -2459,10 +2455,6 @@ honeywell.gp.		86400	IN	NS	dns1.honeywell.com.
 honeywell.gp.		86400	IN	NS	dns2.honeywell.com.
 hospitality.gp.		86400	IN	NS	hal.ns.cloudflare.com.
 hospitality.gp.		86400	IN	NS	brit.ns.cloudflare.com.
-hotel-nearby.gp.	86400	IN	NS	1.dnsservers.de.
-hotel-nearby.gp.	86400	IN	NS	2.dns-servers.eu.
-hotel-nearby.gp.	86400	IN	NS	3.dnsservers.de.
-hotel-nearby.gp.	86400	IN	NS	4.dns-servers.eu.
 hotel-reservation.gp.	86400	IN	NS	1.dnsservers.de.
 hotel-reservation.gp.	86400	IN	NS	2.dns-servers.eu.
 hotel-reservation.gp.	86400	IN	NS	3.dnsservers.de.
@@ -2471,10 +2463,6 @@ hotel-reservation-service.gp. 86400 IN	NS	1.dnsservers.de.
 hotel-reservation-service.gp. 86400 IN	NS	2.dns-servers.eu.
 hotel-reservation-service.gp. 86400 IN	NS	3.dnsservers.de.
 hotel-reservation-service.gp. 86400 IN	NS	4.dns-servers.eu.
-hotelnearby.gp.		86400	IN	NS	1.dnsservers.de.
-hotelnearby.gp.		86400	IN	NS	2.dns-servers.eu.
-hotelnearby.gp.		86400	IN	NS	3.dnsservers.de.
-hotelnearby.gp.		86400	IN	NS	4.dns-servers.eu.
 hotelreservation.gp.	86400	IN	NS	1.dnsservers.de.
 hotelreservation.gp.	86400	IN	NS	2.dns-servers.eu.
 hotelreservation.gp.	86400	IN	NS	3.dnsservers.de.
@@ -2485,10 +2473,6 @@ hotelreservationservice.gp. 86400 IN	NS	3.dnsservers.de.
 hotelreservationservice.gp. 86400 IN	NS	4.dns-servers.eu.
 hotels.gp.		86400	IN	NS	hal.ns.cloudflare.com.
 hotels.gp.		86400	IN	NS	brit.ns.cloudflare.com.
-hotels-nearby.gp.	86400	IN	NS	1.dnsservers.de.
-hotels-nearby.gp.	86400	IN	NS	2.dns-servers.eu.
-hotels-nearby.gp.	86400	IN	NS	3.dnsservers.de.
-hotels-nearby.gp.	86400	IN	NS	4.dns-servers.eu.
 hotels-tonight.gp.	86400	IN	NS	1.dnsservers.de.
 hotels-tonight.gp.	86400	IN	NS	2.dns-servers.eu.
 hotels-tonight.gp.	86400	IN	NS	3.dnsservers.de.
@@ -2497,10 +2481,6 @@ hotelsaintgeorges.gp.	86400	IN	NS	ns1045.ui-dns.de.
 hotelsaintgeorges.gp.	86400	IN	NS	ns1045.ui-dns.biz.
 hotelsaintgeorges.gp.	86400	IN	NS	ns1045.ui-dns.com.
 hotelsaintgeorges.gp.	86400	IN	NS	ns1045.ui-dns.org.
-hotelsnearby.gp.	86400	IN	NS	1.dnsservers.de.
-hotelsnearby.gp.	86400	IN	NS	2.dns-servers.eu.
-hotelsnearby.gp.	86400	IN	NS	3.dnsservers.de.
-hotelsnearby.gp.	86400	IN	NS	4.dns-servers.eu.
 hotelstonight.gp.	86400	IN	NS	1.dnsservers.de.
 hotelstonight.gp.	86400	IN	NS	2.dns-servers.eu.
 hotelstonight.gp.	86400	IN	NS	3.dnsservers.de.
@@ -3304,9 +3284,6 @@ maisonsdumonde.gp.	86400	IN	NS	ns1.iptwins.net.
 maisonsdumonde.gp.	86400	IN	NS	ns2.iptwins.net.
 maisonsdumonde.gp.	86400	IN	NS	ns3.iptwins.com.
 maisonsdumonde.gp.	86400	IN	NS	ns4.iptwins.com.
-maitrisons-lenergie.gp.	86400	IN	NS	ns1.netim.net.
-maitrisons-lenergie.gp.	86400	IN	NS	ns2.netim.net.
-maitrisons-lenergie.gp.	86400	IN	NS	ns3.netim.net.
 makeupforever.gp.	86400	IN	NS	ns11.ovh.net.
 makeupforever.gp.	86400	IN	NS	dns11.ovh.net.
 malaysia.gp.		86400	IN	NS	hal.ns.cloudflare.com.
@@ -3961,8 +3938,6 @@ on.gp.			86400	IN	NS	ns1.subdomain.net.
 on.gp.			86400	IN	NS	ns2.subdomain.net.
 online.gp.		86400	IN	NS	ns1.subdomain.net.
 online.gp.		86400	IN	NS	ns2.subdomain.net.
-onlinecity.gp.		86400	IN	NS	ns.checkdomain.de.
-onlinecity.gp.		86400	IN	NS	ns2.checkdomain.de.
 onlineshop.gp.		86400	IN	NS	ns01.trademarkarea.com.
 onlineshop.gp.		86400	IN	NS	ns02.trademarkarea.com.
 onlineshop.gp.		86400	IN	NS	ns03.trademarkarea.com.
@@ -5023,8 +4998,6 @@ sunnycars.gp.		86400	IN	NS	a.ns14.net.
 sunnycars.gp.		86400	IN	NS	b.ns14.net.
 sunnycars.gp.		86400	IN	NS	c.ns14.net.
 sunnycars.gp.		86400	IN	NS	d.ns14.net.
-sunzil.gp.		86400	IN	NS	ns20.ovh.net.
-sunzil.gp.		86400	IN	NS	dns20.ovh.net.
 supermarchebio.gp.	86400	IN	NS	ns1.francedns.com.
 supermarchebio.gp.	86400	IN	NS	ns2.francedns.com.
 supermarchebio.gp.	86400	IN	NS	ns3.francedns.com.
@@ -5057,9 +5030,6 @@ talonchemical.gp.	86400	IN	NS	dns1.cscdns.net.
 talonchemical.gp.	86400	IN	NS	dns2.cscdns.net.
 tao.gp.			86400	IN	NS	ns1.101domain.com.
 tao.gp.			86400	IN	NS	ns2.101domain.com.
-taxi.gp.		86400	IN	NS	ns1.francedns.com.
-taxi.gp.		86400	IN	NS	ns2.francedns.com.
-taxi.gp.		86400	IN	NS	ns3.francedns.com.
 taxiguadeloupe.gp.	86400	IN	NS	ns111.ovh.net.
 taxiguadeloupe.gp.	86400	IN	NS	dns111.ovh.net.
 taycan.gp.		86400	IN	NS	dns.porsche.ch.
@@ -5194,8 +5164,6 @@ topcar.gp.		86400	IN	NS	ns1-gp.mediaserv.net.
 topcar.gp.		86400	IN	NS	ns1-mq.mediaserv.net.
 toppro-moteurs.gp.	86400	IN	NS	ns12.ovh.net.
 toppro-moteurs.gp.	86400	IN	NS	dns12.ovh.net.
-toppromoteurs.gp.	86400	IN	NS	ns12.ovh.net.
-toppromoteurs.gp.	86400	IN	NS	dns12.ovh.net.
 tork.gp.		86400	IN	NS	melkor.sgn.sca.se.
 tork.gp.		86400	IN	NS	tilion.sgn.sca.se.
 toshiba.gp.		86400	IN	NS	ns1.markmonitor.com.
@@ -5753,4 +5721,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024080114 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024080115 86400 7200 2592000 345600
