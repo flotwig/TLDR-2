@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024090614 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024090615 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -1695,8 +1695,10 @@ en.gp.			86400	IN	NS	ns1.lhebergeur.fr.
 en.gp.			86400	IN	NS	ns2.lhebergeur.fr.
 en-vision.gp.		86400	IN	NS	dns1.cscdns.net.
 en-vision.gp.		86400	IN	NS	dns2.cscdns.net.
-endermologie.gp.	86400	IN	NS	dns1.cscdns.net.
-endermologie.gp.	86400	IN	NS	dns2.cscdns.net.
+endermologie.gp.	86400	IN	NS	ha1.markmonitor.zone.
+endermologie.gp.	86400	IN	NS	ha2.markmonitor.zone.
+endermologie.gp.	86400	IN	NS	ha3.markmonitor.zone.
+endermologie.gp.	86400	IN	NS	ha4.markmonitor.zone.
 eneralpractitioners.gp.	86400	IN	NS	ns1.sedoparking.com.
 engage.gp.		86400	IN	NS	ns-cloud-a1.googledomains.com.
 engage.gp.		86400	IN	NS	ns-cloud-a2.googledomains.com.
@@ -5715,4 +5717,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024090614 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024090615 86400 7200 2592000 345600
