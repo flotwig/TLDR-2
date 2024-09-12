@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024091210 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024091215 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -703,6 +703,8 @@ bd.gp.			86400	IN	NS	ray.ns.cloudflare.com.
 bd.gp.			86400	IN	NS	molly.ns.cloudflare.com.
 bda.gp.			86400	IN	NS	ns15.ovh.net.
 bda.gp.			86400	IN	NS	dns15.ovh.net.
+bdm.gp.			86400	IN	NS	ns1.bdmi.net.
+bdm.gp.			86400	IN	NS	ns2.bdmi.net.
 be.gp.			86400	IN	NS	ns1.website.org.
 be.gp.			86400	IN	NS	ns2.website.org.
 bearingpoint.gp.	86400	IN	NS	dns1.bearingpoint.com.
@@ -4675,8 +4677,9 @@ sebastienchatelard-lunetier.gp.	86400 IN NS	dns2.cloudns.net.
 secretsdeloly.gp.	86400	IN	NS	ns1.gandi.net.
 secretsdeloly.gp.	86400	IN	NS	ns2.gandi.net.
 secretsdeloly.gp.	86400	IN	NS	ns3.gandi.net.
-sedeplacerautrement.gp.	86400	IN	NS	ns1-nonameservers.netim.net.
-sedeplacerautrement.gp.	86400	IN	NS	ns2-nonameservers.netim.net.
+sedeplacerautrement.gp.	86400	IN	NS	ns1.netim.net.
+sedeplacerautrement.gp.	86400	IN	NS	ns2.netim.net.
+sedeplacerautrement.gp.	86400	IN	NS	ns3.netim.net.
 sefac.gp.		86400	IN	NS	ns1.yoursrs.com.
 sefac.gp.		86400	IN	NS	ns2.yoursrs.com.
 segpe.gp.		86400	IN	NS	ns-14.awsdns-01.com.
@@ -5727,4 +5730,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024091210 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024091215 86400 7200 2592000 345600
