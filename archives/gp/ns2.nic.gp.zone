@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024100102 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024100103 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -1222,8 +1222,6 @@ conman.gp.		86400	IN	NS	nsr1.domeny.com.
 conman.gp.		86400	IN	NS	nsr2.domeny.com.
 conman.gp.		86400	IN	NS	nsr3.domeny.com.
 conman.gp.		86400	IN	NS	nsr4.domeny.com.
-connectic.gp.		86400	IN	NS	ns1.connectic.gp.
-connectic.gp.		86400	IN	NS	ns2.connectic.gp.
 ns1.connectic.gp.	86400	IN	A	163.172.116.98
 ns2.connectic.gp.	86400	IN	A	163.172.116.99
 conocophillips.gp.	86400	IN	NS	dns1.cscdns.net.
@@ -2463,22 +2461,6 @@ honeywell.gp.		86400	IN	NS	dns1.honeywell.com.
 honeywell.gp.		86400	IN	NS	dns2.honeywell.com.
 hospitality.gp.		86400	IN	NS	hal.ns.cloudflare.com.
 hospitality.gp.		86400	IN	NS	brit.ns.cloudflare.com.
-hotel-reservation.gp.	86400	IN	NS	1.dnsservers.de.
-hotel-reservation.gp.	86400	IN	NS	2.dns-servers.eu.
-hotel-reservation.gp.	86400	IN	NS	3.dnsservers.de.
-hotel-reservation.gp.	86400	IN	NS	4.dns-servers.eu.
-hotel-reservation-service.gp. 86400 IN	NS	1.dnsservers.de.
-hotel-reservation-service.gp. 86400 IN	NS	2.dns-servers.eu.
-hotel-reservation-service.gp. 86400 IN	NS	3.dnsservers.de.
-hotel-reservation-service.gp. 86400 IN	NS	4.dns-servers.eu.
-hotelreservation.gp.	86400	IN	NS	1.dnsservers.de.
-hotelreservation.gp.	86400	IN	NS	2.dns-servers.eu.
-hotelreservation.gp.	86400	IN	NS	3.dnsservers.de.
-hotelreservation.gp.	86400	IN	NS	4.dns-servers.eu.
-hotelreservationservice.gp. 86400 IN	NS	1.dnsservers.de.
-hotelreservationservice.gp. 86400 IN	NS	2.dns-servers.eu.
-hotelreservationservice.gp. 86400 IN	NS	3.dnsservers.de.
-hotelreservationservice.gp. 86400 IN	NS	4.dns-servers.eu.
 hotels.gp.		86400	IN	NS	hal.ns.cloudflare.com.
 hotels.gp.		86400	IN	NS	brit.ns.cloudflare.com.
 hotels-tonight.gp.	86400	IN	NS	1.dnsservers.de.
@@ -2971,9 +2953,6 @@ lahalleauxchaussures.gp. 86400	IN	NS	ns3.nameshield.net.
 lahalleauxchaussures.gp. 86400	IN	NS	obs.ns1.fr.
 lakazauxfolles.gp.	86400	IN	NS	ns3015.mochahost.com.
 lakazauxfolles.gp.	86400	IN	NS	ns4015.mochahost.com.
-lakoufood.gp.		86400	IN	NS	ns-19-a.gandi.net.
-lakoufood.gp.		86400	IN	NS	ns-34-c.gandi.net.
-lakoufood.gp.		86400	IN	NS	ns-100-b.gandi.net.
 lamentin.gp.		86400	IN	NS	ns1.gandi.net.
 lamentin.gp.		86400	IN	NS	ns2.gandi.net.
 lamentin.gp.		86400	IN	NS	ns3.gandi.net.
@@ -3553,9 +3532,6 @@ mondomaine.gp.		86400	IN	NS	ns19.ovh.net.
 mondomaine.gp.		86400	IN	NS	dns19.ovh.net.
 mondomaine-gp.gp.	86400	IN	NS	dns1.cloudns.net.
 mondomaine-gp.gp.	86400	IN	NS	dns2.cloudns.net.
-moneau.gp.		86400	IN	NS	ns-103-a.gandi.net.
-moneau.gp.		86400	IN	NS	ns-167-b.gandi.net.
-moneau.gp.		86400	IN	NS	ns-223-c.gandi.net.
 moneygram.gp.		86400	IN	NS	ns1.markmonitor.com.
 moneygram.gp.		86400	IN	NS	ns2.markmonitor.com.
 moneygram.gp.		86400	IN	NS	ns3.markmonitor.com.
@@ -3842,22 +3818,6 @@ nouseang.gp.		86400	IN	NS	dns1.cloudns.net.
 nouseang.gp.		86400	IN	NS	dns2.cloudns.net.
 nove.gp.		86400	IN	NS	ns14.ovh.net.
 nove.gp.		86400	IN	NS	dns14.ovh.net.
-now-hotel.gp.		86400	IN	NS	1.dnsservers.de.
-now-hotel.gp.		86400	IN	NS	2.dns-servers.eu.
-now-hotel.gp.		86400	IN	NS	3.dnsservers.de.
-now-hotel.gp.		86400	IN	NS	4.dns-servers.eu.
-now-hotels.gp.		86400	IN	NS	1.dnsservers.de.
-now-hotels.gp.		86400	IN	NS	2.dns-servers.eu.
-now-hotels.gp.		86400	IN	NS	3.dnsservers.de.
-now-hotels.gp.		86400	IN	NS	4.dns-servers.eu.
-nowhotel.gp.		86400	IN	NS	1.dnsservers.de.
-nowhotel.gp.		86400	IN	NS	2.dns-servers.eu.
-nowhotel.gp.		86400	IN	NS	3.dnsservers.de.
-nowhotel.gp.		86400	IN	NS	4.dns-servers.eu.
-nowhotels.gp.		86400	IN	NS	1.dnsservers.de.
-nowhotels.gp.		86400	IN	NS	2.dns-servers.eu.
-nowhotels.gp.		86400	IN	NS	3.dnsservers.de.
-nowhotels.gp.		86400	IN	NS	4.dns-servers.eu.
 ns.gp.			86400	IN	NS	ns1.geek.gp.
 ntdomain.gp.		86400	IN	NS	dns5.cloudns.net.
 ntdomain.gp.		86400	IN	NS	dns6.cloudns.net.
@@ -5557,6 +5517,8 @@ ww.gp.			86400	IN	NS	ns1.bodis.com.
 ww.gp.			86400	IN	NS	ns2.bodis.com.
 wwenetwork.gp.		86400	IN	NS	ns1.wwe.com.
 wwenetwork.gp.		86400	IN	NS	ns2.wwe.com.
+wx.gp.			86400	IN	NS	ns1.dns3000.com.
+wx.gp.			86400	IN	NS	ns2.dns3000.com.
 x.gp.			86400	IN	NS	ns1.website.org.
 x.gp.			86400	IN	NS	ns2.website.org.
 xefi.gp.		86400	IN	NS	ns-25-b.gandi.net.
@@ -5695,4 +5657,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024100102 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024100103 86400 7200 2592000 345600
