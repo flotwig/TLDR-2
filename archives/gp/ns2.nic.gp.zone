@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024110413 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024110414 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -26,10 +26,8 @@ gp.			86400	IN	NS	ns-gp.nic.fr.
 11.gp.			86400	IN	NS	ns2.dan.com.
 111.gp.			86400	IN	NS	ns1.dan.com.
 111.gp.			86400	IN	NS	ns2.dan.com.
-123.gp.			86400	IN	NS	pns1.cloudns.net.
-123.gp.			86400	IN	NS	pns2.cloudns.net.
-123.gp.			86400	IN	NS	pns3.cloudns.net.
-123.gp.			86400	IN	NS	pns4.cloudns.net.
+123.gp.			86400	IN	NS	ns1.alidns.com.
+123.gp.			86400	IN	NS	ns2.alidns.com.
 14.gp.			86400	IN	NS	pdns1.registrar-servers.com.
 14.gp.			86400	IN	NS	pdns2.registrar-servers.com.
 17.gp.			86400	IN	NS	ns1.dan.com.
@@ -4644,6 +4642,8 @@ sejourantilles.gp.	86400	IN	NS	ns3.francedns.com.
 sejoursantilles.gp.	86400	IN	NS	ns1.francedns.com.
 sejoursantilles.gp.	86400	IN	NS	ns2.francedns.com.
 sejoursantilles.gp.	86400	IN	NS	ns3.francedns.com.
+sekisuihouse.gp.	86400	IN	NS	gdns1.interlink.or.jp.
+sekisuihouse.gp.	86400	IN	NS	gdns2.interlink.or.jp.
 senteurspeyi.gp.	86400	IN	NS	ns1.netim.net.
 senteurspeyi.gp.	86400	IN	NS	ns2.netim.net.
 senteurspeyi.gp.	86400	IN	NS	ns3.netim.net.
@@ -5690,4 +5690,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024110413 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2024110414 86400 7200 2592000 345600
