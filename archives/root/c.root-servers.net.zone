@@ -6162,8 +6162,8 @@ l.nic.dk.		172800	IN	AAAA	2001:878:0:e000:82:e2:d5:8a
 l.nic.dk.		172800	IN	A	130.226.213.138
 s.nic.dk.		172800	IN	AAAA	2001:678:2c:0:194:0:28:7
 s.nic.dk.		172800	IN	A	194.0.28.7
-t.nic.dk.		172800	IN	AAAA	2001:148f:fffd::16
 t.nic.dk.		172800	IN	A	185.43.134.16
+t.nic.dk.		172800	IN	AAAA	2001:148f:fffd::16
 dm.			172800	IN	NS	ns.blacknightsolutions.com.
 dm.			172800	IN	NS	ns2.nic.dm.
 dm.			172800	IN	NS	ns2.blacknightsolutions.com.
@@ -21546,12 +21546,12 @@ va.			172800	IN	NS	b.nic.va.
 va.			172800	IN	NS	c.nic.va.
 va.			172800	IN	NS	seth.namex.it.
 va.			172800	IN	NS	osiris.namex.it.
-a.nic.va.		172800	IN	A	212.77.0.110
 a.nic.va.		172800	IN	AAAA	2a01:b8:0:1:212:77:0:110
-b.nic.va.		172800	IN	A	212.77.0.2
+a.nic.va.		172800	IN	A	212.77.0.110
 b.nic.va.		172800	IN	AAAA	2a01:b8:0:1:212:77:0:2
-c.nic.va.		172800	IN	A	212.77.2.58
+b.nic.va.		172800	IN	A	212.77.0.2
 c.nic.va.		172800	IN	AAAA	2a01:b8::2:3a
+c.nic.va.		172800	IN	A	212.77.2.58
 vacations.		86400	IN	RRSIG	NSEC 8 1 86400 20241225050000 20241212040000 61050 . tfAc3G08v7ZucKmgYBMSzYT+40BUhzAGY39CmMKmYXyprRVdC+Si65z/ +FUcfq9EuHjkhxPfGgcT6ptrIK3kCl3o0viPMEPQhL1tGRLebWBm4VBg 6OSGhGnrYQZ5yd6GibSPA5FUIpBm8mmo4nuYeWBnkbTh6L1zSSdRCDB0 Iu+0C0xCy7qW9wtd7/O4u0T0N2gjx08s2U0lgkihwvFTxb3R9CRG/knN nBb10qKSZQzleWk9uXvmEexsdqKJZzFEe9GhZWgET2sm9VnQbT1vr2X/ ffEbtU+tMsRk2M7e0W71JCNkS0zRiNrcz+VsllKGbu02r8FBgiDc4X3H XkK7Lg==
 vacations.		86400	IN	NSEC	vana. NS DS RRSIG NSEC
 vacations.		86400	IN	RRSIG	DS 8 1 86400 20241225050000 20241212040000 61050 . HKdwXtyQKI5r2VgAHSUigoBpEH/ra/oT39e0OXbI+IidZXX/OvSh09Hp HN2i8YDv1B5uXojxkdpNwOFdDW/Hh6ikoiXNQ8kcSreXwYNVxr+EtLUG Km5uw9xqh+P8UCiMpet+UtuJeaHDlSSkhlnIitybhaFh8T4GsgFT5unH NLD1OozwvGeA616nXhTNHfTcX407PXrV2/6Vdxq70LO1NtRy3ZeHdnqm cy7KHoCmLFkRcxCutvtdavHYVVmLffengwuXXR4YOegkN2SH596CC77C QkZuMHAakgfQw74T2Hj/gh6ILlgL+ghzGXG0a9Sc1JpeN0vGUjqxrC4i HSQF+g==
