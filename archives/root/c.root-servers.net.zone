@@ -21546,12 +21546,12 @@ va.			172800	IN	NS	seth.namex.it.
 va.			172800	IN	NS	osiris.namex.it.
 va.			86400	IN	NSEC	vacations. NS RRSIG NSEC
 va.			86400	IN	RRSIG	NSEC 8 1 86400 20241228050000 20241215040000 61050 . I6De0NMeKKAcCq+timZtz9NiGyo91nDvS7nJ9fP/e7OGFOBPYZVBNwwx M69/vImF9BrNMUEfafZUyjtt3YhCTwLOZnNXpv+u2QGppHlyg/DT92ji VXYqOBG5XRyUGLko9F0F6eEuOVM45V9pX4uy5zHlCUfFycCONvrOvy8m +mF2YDaTKs50m4KwT9mIe3mFl0HpjhkKRdVCTIjHtRV5wi5ktHCRe3fC Gix6ryHELawmIZ863G7xvDaCfzswpYmeMjin6x8m2WQ5JXrMcATzhgUB 41m84MVQEcU41D94sfdg9I9bJiRP2xAAvghl2Ng6WlQn/Hi6Ho1gKLgi CJYsPQ==
-a.nic.va.		172800	IN	A	212.77.0.110
 a.nic.va.		172800	IN	AAAA	2a01:b8:0:1:212:77:0:110
-b.nic.va.		172800	IN	A	212.77.0.2
+a.nic.va.		172800	IN	A	212.77.0.110
 b.nic.va.		172800	IN	AAAA	2a01:b8:0:1:212:77:0:2
-c.nic.va.		172800	IN	A	212.77.2.58
+b.nic.va.		172800	IN	A	212.77.0.2
 c.nic.va.		172800	IN	AAAA	2a01:b8::2:3a
+c.nic.va.		172800	IN	A	212.77.2.58
 vacations.		172800	IN	NS	v0n0.nic.vacations.
 vacations.		172800	IN	NS	v0n1.nic.vacations.
 vacations.		172800	IN	NS	v0n2.nic.vacations.
