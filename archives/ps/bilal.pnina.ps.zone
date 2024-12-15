@@ -1,4 +1,4 @@
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2024121408 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2024121505 86400 7200 3600000 172800
 ps.			86400	IN	NS	ps.cctld.authdns.ripe.net.
 ps.			86400	IN	NS	ns1.pnina.ps.
 ps.			86400	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.			86400	IN	NS	rip.psg.com.
 ps.			86400	IN	NS	fork.sth.dnsnode.net.
 ps.			86400	IN	NS	Bilal.pnina.ps.
 ps.			86400	IN	NS	ps-ns.anycast.pch.net.
-ps.			86400	IN	TXT	"Generation Time: 1734188505"
+ps.			86400	IN	TXT	"Generation Time: 1734253305"
 01net.ps.		86400	IN	NS	ns1.safebrands.fr.
 01net.ps.		86400	IN	NS	ns2.safebrands.eu.
 01net.ps.		86400	IN	NS	ns3.safebrands.com.
@@ -85,6 +85,10 @@ ps.			86400	IN	TXT	"Generation Time: 1734188505"
 360.ps.			86400	IN	NS	s9.dtappscenter.com.
 360degree.ps.		86400	IN	NS	gwen.ns.cloudflare.com.
 360degree.ps.		86400	IN	NS	lars.ns.cloudflare.com.
+360view.ps.		86400	IN	NS	dns1.p05.nsone.net.
+360view.ps.		86400	IN	NS	dns2.p05.nsone.net.
+360view.ps.		86400	IN	NS	dns3.p05.nsone.net.
+360view.ps.		86400	IN	NS	dns4.p05.nsone.net.
 3alard.ps.		86400	IN	NS	ns1-34.azure-dns.com.
 3alard.ps.		86400	IN	NS	ns2-34.azure-dns.net.
 3alard.ps.		86400	IN	NS	ns3-34.azure-dns.org.
@@ -1701,9 +1705,9 @@ alwattan.ps.		86400	IN	NS	ns0.nepras.net.
 alwattan.ps.		86400	IN	NS	ns01.nepras.net.
 alweaam.ps.		86400	IN	NS	ns1.atyaf.co.
 alweaam.ps.		86400	IN	NS	ns2.atyaf.co.
+alweher.ps.		86400	IN	DS	2371 13 2 9E8D839BA9F2CDBFF8C2D05DB291F967554B653A5FB8745915D3C28A 38E768B1
 alweher.ps.		86400	IN	NS	dora.ns.cloudflare.com.
 alweher.ps.		86400	IN	NS	paul.ns.cloudflare.com.
-alweher.ps.		86400	IN	DS	2371 13 2 9E8D839BA9F2CDBFF8C2D05DB291F967554B653A5FB8745915D3C28A 38E768B1
 alwojud.ps.		86400	IN	NS	ns1.zone.ps.
 alwojud.ps.		86400	IN	NS	ns2.zone.ps.
 alyousefdoors.ps.	86400	IN	NS	cdns1.hadara.ps.
@@ -3821,10 +3825,10 @@ cbp.ps.			86400	IN	NS	cdns1.hadara.ps.
 cbp.ps.			86400	IN	NS	cdns2.hadara.ps.
 cbre.ps.		86400	IN	NS	dns1.cscdns.net.
 cbre.ps.		86400	IN	NS	dns2.cscdns.net.
-cccp.ps.		86400	IN	DS	64897 8 2 593DC42EBF2F2B931B35EAF9CE1AF534A8B840D6742B69A0EE94E68F A3FE93A4
 cccp.ps.		86400	IN	NS	1-you.njalla.no.
 cccp.ps.		86400	IN	NS	2-can.njalla.in.
 cccp.ps.		86400	IN	NS	3-get.njalla.fo.
+cccp.ps.		86400	IN	DS	64897 8 2 593DC42EBF2F2B931B35EAF9CE1AF534A8B840D6742B69A0EE94E68F A3FE93A4
 cchp.ps.		86400	IN	NS	cdns1.hadara.ps.
 cchp.ps.		86400	IN	NS	cdns2.hadara.ps.
 cci-rafah.ps.		86400	IN	NS	ns1.site4now.net.
@@ -8494,6 +8498,8 @@ jaberlaw.ps.		86400	IN	NS	ns1.zone.ps.
 jaberlaw.ps.		86400	IN	NS	ns2.zone.ps.
 jaberx.ps.		86400	IN	NS	ns1.vultr.com.
 jaberx.ps.		86400	IN	NS	ns2.vultr.com.
+jabroke.ps.		86400	IN	NS	ns1.ttawor.com.
+jabroke.ps.		86400	IN	NS	ns2.ttawor.com.
 jacmotors.ps.		86400	IN	NS	ns1.zone.ps.
 jacmotors.ps.		86400	IN	NS	ns2.zone.ps.
 jacobsdouweegberts.ps.	86400	IN	NS	ns1.iptwins.net.
@@ -10136,8 +10142,9 @@ matt.ps.		86400	IN	NS	ns6.markmonitor.com.
 matt.ps.		86400	IN	NS	ns7.markmonitor.com.
 mattphili.ps.		86400	IN	NS	ns1.101domain.com.
 mattphili.ps.		86400	IN	NS	ns2.101domain.com.
-matura-home.ps.		86400	IN	NS	ns1.matura-home.com.
-matura-home.ps.		86400	IN	NS	ns2.matura-home.com.
+matura-home.ps.		86400	IN	NS	ns01.trademarkarea.com.
+matura-home.ps.		86400	IN	NS	ns02.trademarkarea.com.
+matura-home.ps.		86400	IN	NS	ns03.trademarkarea.com.
 mavenclad.ps.		86400	IN	NS	ns1.brandshelter.com.
 mavenclad.ps.		86400	IN	NS	ns2.brandshelter.de.
 mavenclad.ps.		86400	IN	NS	ns3.brandshelter.info.
@@ -12714,11 +12721,11 @@ palsustain.ps.		86400	IN	NS	ns1.ictmatters.org.
 palsustain.ps.		86400	IN	NS	ns2.ictmatters.org.
 palsw.ps.		86400	IN	NS	ns1.leg-des.com.
 palsw.ps.		86400	IN	NS	ns2.leg-des.com.
-paltc.ps.		86400	IN	DS	24345 13 2 A4CBC4958ED097824290A9134D98A09429CF4CAEC3C50D9710D9FD7D 0AD9A487
 paltc.ps.		86400	IN	NS	ns-cloud-a1.googledomains.com.
 paltc.ps.		86400	IN	NS	ns-cloud-a2.googledomains.com.
 paltc.ps.		86400	IN	NS	ns-cloud-a3.googledomains.com.
 paltc.ps.		86400	IN	NS	ns-cloud-a4.googledomains.com.
+paltc.ps.		86400	IN	DS	24345 13 2 A4CBC4958ED097824290A9134D98A09429CF4CAEC3C50D9710D9FD7D 0AD9A487
 paltcei.ps.		86400	IN	NS	ns1.injazatcloud.ps.
 paltcei.ps.		86400	IN	NS	ns2.injazatcloud.ps.
 paltech.ps.		86400	IN	NS	ns1.paltech.ps.
@@ -17757,6 +17764,8 @@ visitor.ps.		86400	IN	NS	ns1.ttawor.com.
 visitor.ps.		86400	IN	NS	ns2.ttawor.com.
 visitpalestine.ps.	86400	IN	NS	ns.inmotionhosting.com.
 visitpalestine.ps.	86400	IN	NS	ns2.inmotionhosting.com.
+visitsabastiya.ps.	86400	IN	NS	ns1.injazatcloud.ps.
+visitsabastiya.ps.	86400	IN	NS	ns2.injazatcloud.ps.
 vitaball.ps.		86400	IN	NS	a.ns14.net.
 vitaball.ps.		86400	IN	NS	b.ns14.net.
 vitaball.ps.		86400	IN	NS	c.ns14.net.
@@ -18679,4 +18688,4 @@ zuwadeh.ps.		86400	IN	NS	ns3.ftsconsulting.net.
 zuwadeh.ps.		86400	IN	NS	ns4.ftsconsulting.net.
 zuwar.ps.		86400	IN	NS	ns1.dns-parking.com.
 zuwar.ps.		86400	IN	NS	ns2.dns-parking.com.
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2024121408 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2024121505 86400 7200 3600000 172800
