@@ -1,4 +1,4 @@
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2024122308 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2024122405 86400 7200 3600000 172800
 ps.			86400	IN	NS	ps.cctld.authdns.ripe.net.
 ps.			86400	IN	NS	ns1.pnina.ps.
 ps.			86400	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.			86400	IN	NS	rip.psg.com.
 ps.			86400	IN	NS	fork.sth.dnsnode.net.
 ps.			86400	IN	NS	Bilal.pnina.ps.
 ps.			86400	IN	NS	ps-ns.anycast.pch.net.
-ps.			86400	IN	TXT	"Generation Time: 1734966099"
+ps.			86400	IN	TXT	"Generation Time: 1735030896"
 01net.ps.		86400	IN	NS	ns1.safebrands.fr.
 01net.ps.		86400	IN	NS	ns2.safebrands.eu.
 01net.ps.		86400	IN	NS	ns3.safebrands.com.
@@ -367,6 +367,8 @@ abumazen.ps.		86400	IN	NS	dns4.pna.ps.
 abumazen.ps.		86400	IN	NS	dns5.gov.ps.
 abumazengroup.ps.	86400	IN	NS	pdns05.domaincontrol.com.
 abumazengroup.ps.	86400	IN	NS	pdns06.domaincontrol.com.
+abumohor.ps.		86400	IN	NS	cdns1.hadara.ps.
+abumohor.ps.		86400	IN	NS	cdns2.hadara.ps.
 abusada.ps.		86400	IN	NS	ns1-cat.dl-cms.com.
 abusada.ps.		86400	IN	NS	ns2-cat.dl-cms.com.
 abusalah.ps.		86400	IN	NS	ns1.injazatcloud.ps.
@@ -2164,6 +2166,8 @@ arkaan.ps.		86400	IN	NS	ns.paltel.net.
 arkaan.ps.		86400	IN	NS	dns.paltel.net.
 arkan-studio.ps.	86400	IN	NS	ns1.injazatcloud.ps.
 arkan-studio.ps.	86400	IN	NS	ns2.injazatcloud.ps.
+arkantravel.ps.		86400	IN	NS	cdns1.hadara.ps.
+arkantravel.ps.		86400	IN	NS	cdns2.hadara.ps.
 arkhastayaran.ps.	86400	IN	NS	ns1.netim.net.
 arkhastayaran.ps.	86400	IN	NS	ns2.netim.net.
 arkhastayaran.ps.	86400	IN	NS	ns3.netim.net.
@@ -9071,9 +9075,9 @@ khalaf.ps.		86400	IN	NS	dns1.100ws.com.
 khalaf.ps.		86400	IN	NS	dns2.100ws.com.
 khaledosaily.ps.	86400	IN	NS	ns1.leg-des.com.
 khaledosaily.ps.	86400	IN	NS	ns2.leg-des.com.
-khaledsccd.ps.		86400	IN	DS	2371 13 2 1EFF14DB755AEF02D4E54ECA7F936FF34143BD410E0BCAB5D7795225 909AE81D
 khaledsccd.ps.		86400	IN	NS	tia.ns.cloudflare.com.
 khaledsccd.ps.		86400	IN	NS	seth.ns.cloudflare.com.
+khaledsccd.ps.		86400	IN	DS	2371 13 2 1EFF14DB755AEF02D4E54ECA7F936FF34143BD410E0BCAB5D7795225 909AE81D
 khaletmayah-munc.ps.	86400	IN	NS	ns1.dns-parking.com.
 khaletmayah-munc.ps.	86400	IN	NS	ns2.dns-parking.com.
 khalidhospital.ps.	86400	IN	NS	cdns1.hadara.ps.
@@ -10179,10 +10183,10 @@ mawjoud.ps.		86400	IN	NS	cdns1.hadara.ps.
 mawjoud.ps.		86400	IN	NS	cdns2.hadara.ps.
 mawjud.ps.		86400	IN	NS	cdns1.hadara.ps.
 mawjud.ps.		86400	IN	NS	cdns2.hadara.ps.
-mawtini.ps.		86400	IN	DS	11950 8 2 918AD6055EE8793EEF83887824504E8E60A99891A5CF34D131F2BE64 1066F3EE
 mawtini.ps.		86400	IN	NS	1-you.njalla.no.
 mawtini.ps.		86400	IN	NS	2-can.njalla.in.
 mawtini.ps.		86400	IN	NS	3-get.njalla.fo.
+mawtini.ps.		86400	IN	DS	11950 8 2 918AD6055EE8793EEF83887824504E8E60A99891A5CF34D131F2BE64 1066F3EE
 mawwal.ps.		86400	IN	NS	ns1.mawwal.ps.
 mawwal.ps.		86400	IN	NS	ns2.mawwal.ps.
 ns1.mawwal.ps.		86400	IN	A	82.102.216.86
@@ -13115,9 +13119,9 @@ pfc.ps.			86400	IN	NS	cdns1.hadara.ps.
 pfc.ps.			86400	IN	NS	cdns2.hadara.ps.
 pfda.ps.		86400	IN	NS	ns1.weblayer.co.
 pfda.ps.		86400	IN	NS	ns2.weblayer.co.
-pfeis.ps.		86400	IN	DS	48693 13 2 BA0B5D3C90AB3CC79C6CF68DDB0DB364F784F7EA0F2DD9BE6D45C279 459E974C
 pfeis.ps.		86400	IN	NS	cdns1.hadara.ps.
 pfeis.ps.		86400	IN	NS	cdns2.hadara.ps.
+pfeis.ps.		86400	IN	DS	48693 13 2 BA0B5D3C90AB3CC79C6CF68DDB0DB364F784F7EA0F2DD9BE6D45C279 459E974C
 pfgt.ps.		86400	IN	NS	dns1.namecheaphosting.com.
 pfgt.ps.		86400	IN	NS	dns2.namecheaphosting.com.
 pfi.ps.			86400	IN	NS	gwen.ns.cloudflare.com.
@@ -14272,6 +14276,10 @@ redcrescent.ps.		86400	IN	NS	ns1.099.net.il.
 redcrescent.ps.		86400	IN	NS	ns2.099.net.il.
 redcu.ps.		86400	IN	NS	ns1.depro16.fcomet.com.
 redcu.ps.		86400	IN	NS	ns2.depro16.fcomet.com.
+redecanais.ps.		86400	IN	NS	chan.ns.cloudflare.com.
+redecanais.ps.		86400	IN	NS	finley.ns.cloudflare.com.
+redecanaistv.ps.	86400	IN	NS	chan.ns.cloudflare.com.
+redecanaistv.ps.	86400	IN	NS	finley.ns.cloudflare.com.
 redline.ps.		86400	IN	NS	ns-50.awsdns-06.com.
 redline.ps.		86400	IN	NS	ns-1019.awsdns-63.net.
 redline.ps.		86400	IN	NS	ns-1214.awsdns-23.org.
@@ -14672,6 +14680,8 @@ ruaa.ps.		86400	IN	NS	ns6549.hostgator.com.
 ruaa.ps.		86400	IN	NS	ns6550.hostgator.com.
 rubacake.ps.		86400	IN	NS	ns3.cleannameservers.com.
 rubacake.ps.		86400	IN	NS	ns4.cleannameservers.com.
+rulaphone.ps.		86400	IN	NS	ns13.nepras.net.
+rulaphone.ps.		86400	IN	NS	ns14.nepras.net.
 runelocus.ps.		86400	IN	NS	ns0.transip.net.
 runelocus.ps.		86400	IN	NS	ns1.transip.nl.
 runelocus.ps.		86400	IN	NS	ns2.transip.eu.
@@ -18713,4 +18723,4 @@ zuwadeh.ps.		86400	IN	NS	ns3.ftsconsulting.net.
 zuwadeh.ps.		86400	IN	NS	ns4.ftsconsulting.net.
 zuwar.ps.		86400	IN	NS	ns1.dns-parking.com.
 zuwar.ps.		86400	IN	NS	ns2.dns-parking.com.
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2024122308 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2024122405 86400 7200 3600000 172800
