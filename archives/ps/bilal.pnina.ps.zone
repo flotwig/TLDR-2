@@ -1,4 +1,4 @@
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2024122608 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2024122705 86400 7200 3600000 172800
 ps.			86400	IN	NS	ps.cctld.authdns.ripe.net.
 ps.			86400	IN	NS	ns1.pnina.ps.
 ps.			86400	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.			86400	IN	NS	rip.psg.com.
 ps.			86400	IN	NS	fork.sth.dnsnode.net.
 ps.			86400	IN	NS	Bilal.pnina.ps.
 ps.			86400	IN	NS	ps-ns.anycast.pch.net.
-ps.			86400	IN	TXT	"Generation Time: 1735225299"
+ps.			86400	IN	TXT	"Generation Time: 1735290096"
 01net.ps.		86400	IN	NS	ns1.safebrands.fr.
 01net.ps.		86400	IN	NS	ns2.safebrands.eu.
 01net.ps.		86400	IN	NS	ns3.safebrands.com.
@@ -4839,6 +4839,9 @@ derimod.ps.		86400	IN	NS	ns1.injazatcloud.ps.
 derimod.ps.		86400	IN	NS	ns2.injazatcloud.ps.
 designit.ps.		86400	IN	NS	ns1.injazatcloud.ps.
 designit.ps.		86400	IN	NS	ns2.injazatcloud.ps.
+designs.ps.		86400	IN	NS	ns1.contabo.net.
+designs.ps.		86400	IN	NS	ns2.contabo.net.
+designs.ps.		86400	IN	NS	ns3.contabo.net.
 desigual.ps.		86400	IN	NS	dns1.nominalia.com.
 desigual.ps.		86400	IN	NS	dns2.nominalia.com.
 desiolens.ps.		86400	IN	NS	ns1.register.it.
@@ -5959,10 +5962,14 @@ farahnet.ps.		86400	IN	NS	ns1.injazatcloud.ps.
 farahnet.ps.		86400	IN	NS	ns2.injazatcloud.ps.
 farco.ps.		86400	IN	NS	nscp5.mada.ps.
 farco.ps.		86400	IN	NS	nscp6.mada.ps.
-farid.ps.		86400	IN	NS	madrid.hostmaster.org.
-farid.ps.		86400	IN	NS	fremont.hostmaster.org.
-farid.ps.		86400	IN	NS	jakarta.hostmaster.org.
-farid.ps.		86400	IN	NS	amsterdam.hostmaster.org.
+farid.ps.		86400	IN	NS	madrid.farid.ps.
+farid.ps.		86400	IN	NS	fremont.farid.ps.
+farid.ps.		86400	IN	NS	jakarta.farid.ps.
+farid.ps.		86400	IN	NS	amsterdam.farid.ps.
+amsterdam.farid.ps.	86400	IN	A	172.235.160.56
+fremont.farid.ps.	86400	IN	A	23.239.4.45
+jakarta.farid.ps.	86400	IN	A	172.232.248.130
+madrid.farid.ps.	86400	IN	A	172.233.108.211
 faris.ps.		86400	IN	NS	ns1.ipage.com.
 faris.ps.		86400	IN	NS	ns2.ipage.com.
 farouk.ps.		86400	IN	NS	ns1045.ui-dns.de.
@@ -18748,4 +18755,4 @@ zuwadeh.ps.		86400	IN	NS	ns3.ftsconsulting.net.
 zuwadeh.ps.		86400	IN	NS	ns4.ftsconsulting.net.
 zuwar.ps.		86400	IN	NS	ns1.dns-parking.com.
 zuwar.ps.		86400	IN	NS	ns2.dns-parking.com.
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2024122608 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2024122705 86400 7200 3600000 172800
