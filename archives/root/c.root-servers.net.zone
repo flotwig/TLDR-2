@@ -551,18 +551,18 @@ ai.			172800	IN	NS	v0n2.nic.ai.
 ai.			172800	IN	NS	v0n3.nic.ai.
 ai.			172800	IN	NS	v2n0.nic.ai.
 ai.			172800	IN	NS	v2n1.nic.ai.
-v0n0.nic.ai.		172800	IN	AAAA	2001:500:a0::1
 v0n0.nic.ai.		172800	IN	A	199.115.152.1
-v0n1.nic.ai.		172800	IN	AAAA	2001:500:a1::1
+v0n0.nic.ai.		172800	IN	AAAA	2001:500:a0::1
 v0n1.nic.ai.		172800	IN	A	199.115.153.1
-v0n2.nic.ai.		172800	IN	AAAA	2001:500:a2::1
+v0n1.nic.ai.		172800	IN	AAAA	2001:500:a1::1
 v0n2.nic.ai.		172800	IN	A	199.115.154.1
-v0n3.nic.ai.		172800	IN	AAAA	2001:500:a3::1
+v0n2.nic.ai.		172800	IN	AAAA	2001:500:a2::1
 v0n3.nic.ai.		172800	IN	A	199.115.155.1
-v2n0.nic.ai.		172800	IN	AAAA	2001:500:a4::1
+v0n3.nic.ai.		172800	IN	AAAA	2001:500:a3::1
 v2n0.nic.ai.		172800	IN	A	199.115.156.1
-v2n1.nic.ai.		172800	IN	AAAA	2001:500:a5::1
+v2n0.nic.ai.		172800	IN	AAAA	2001:500:a4::1
 v2n1.nic.ai.		172800	IN	A	199.115.157.1
+v2n1.nic.ai.		172800	IN	AAAA	2001:500:a5::1
 aig.			86400	IN	RRSIG	NSEC 8 1 86400 20250110050000 20241228040000 61050 . IjRLeOeQeojArO5yapB22Qn5ICXANE9BXjxX5hfcS2INVCHvBFZK1Y+I yMltk1Qyro4LUiQqoxic5aFVqHQr2XD/xjRNgwyquNDUKeFcpMMNEXk1 bAWYaLo86PO+PttWnU8FwHNHrTChjodaTETF3c6uMqAwNleuu4W/tUZv 9u6LdXYo9oWfpQ52ENRDoH+M0fkSGCTvNvmsKXQpiJG9f1kikTj+DZkY 8jPGRJ+21ek1dNxs/zacuHQiCl5fyE4tyT1oa0P39Zngh3SV6JC/GIuS 7DFzqD0yy9GNilfCMy4bKlLJzS8h42ty0tz5vMiQrJ9kdBbjnjcknqwa v3A48g==
 aig.			86400	IN	NSEC	airbus. NS DS RRSIG NSEC
 aig.			86400	IN	RRSIG	DS 8 1 86400 20250110050000 20241228040000 61050 . J2EFzCCAccpkmIp+nhwteZifFqzBSBt9/Gfx0nblav2Cibq2GqwWgn/Y ilQ5ai+ii4fr+zYuf0w/xuJBb9rl23atsQukYFlFjBlK+QqK+PV/2S+n RRUpH+qw9B9GsyMryVta03OEW0xEb96bbp8h7ihTZ4vmHvVpssfR/pFN 2oM4ymnu8rUbb8JaeXRDFdlBG/Y414dd+/6y38wjsH58nz6ycjETToyZ R2+hxZ0h6J8VqQwp/yGT1yc2cRNeSA3w2y3aK68UyV0xVx3+Jgpp3aDo hgbNV9pWRC7BdfYxjXlRHOE7MiAyzFA0G5BgBAKy3dXDnIVraBClHMmj wtf3wQ==
@@ -6165,8 +6165,8 @@ l.nic.dk.		172800	IN	AAAA	2001:878:0:e000:82:e2:d5:8a
 l.nic.dk.		172800	IN	A	130.226.213.138
 s.nic.dk.		172800	IN	AAAA	2001:678:2c:0:194:0:28:7
 s.nic.dk.		172800	IN	A	194.0.28.7
-t.nic.dk.		172800	IN	A	185.43.134.16
 t.nic.dk.		172800	IN	AAAA	2001:148f:fffd::16
+t.nic.dk.		172800	IN	A	185.43.134.16
 dm.			172800	IN	NS	ns.blacknightsolutions.com.
 dm.			172800	IN	NS	ns2.nic.dm.
 dm.			172800	IN	NS	ns2.blacknightsolutions.com.
@@ -20278,8 +20278,8 @@ tech.			172800	IN	NS	a.nic.tech.
 tech.			172800	IN	NS	b.nic.tech.
 tech.			172800	IN	NS	e.nic.tech.
 tech.			172800	IN	NS	f.nic.tech.
-dns3.tld.becloudby.tech. 172800	IN	AAAA	2a01:ba80:e:c:1::4c
 dns3.tld.becloudby.tech. 172800	IN	A	185.98.83.4
+dns3.tld.becloudby.tech. 172800	IN	AAAA	2a01:ba80:e:c:1::4c
 dns4.tld.becloudby.tech. 172800	IN	AAAA	2a0e:b81:8001:1001::2
 dns4.tld.becloudby.tech. 172800	IN	A	31.44.1.137
 a.nic.tech.		172800	IN	AAAA	2001:67c:13cc::1:60
@@ -21556,12 +21556,12 @@ va.			172800	IN	NS	b.nic.va.
 va.			172800	IN	NS	c.nic.va.
 va.			172800	IN	NS	seth.namex.it.
 va.			172800	IN	NS	osiris.namex.it.
-a.nic.va.		172800	IN	AAAA	2a01:b8:0:1:212:77:0:110
 a.nic.va.		172800	IN	A	212.77.0.110
-b.nic.va.		172800	IN	AAAA	2a01:b8:0:1:212:77:0:2
+a.nic.va.		172800	IN	AAAA	2a01:b8:0:1:212:77:0:110
 b.nic.va.		172800	IN	A	212.77.0.2
-c.nic.va.		172800	IN	AAAA	2a01:b8::2:3a
+b.nic.va.		172800	IN	AAAA	2a01:b8:0:1:212:77:0:2
 c.nic.va.		172800	IN	A	212.77.2.58
+c.nic.va.		172800	IN	AAAA	2a01:b8::2:3a
 vacations.		86400	IN	RRSIG	NSEC 8 1 86400 20250110050000 20241228040000 61050 . LcqZWbhP5LHCoP2Ncuu94FwSPBnPtJPTwZFdUfDapCC0N4bd/Xh2tKn0 kXjeS046jcgz7ltpti6FPi6hCqpw3oeNiE7gljwHEJZtfQ3qTNIXEs1g umn1h6aORuXD3O0HSFvrejJxB6JVIi52yEAutnnWbCc8uJbV8ipzdvhH OuGLoKNO8Oyg0Bd6wc1pJ3gU3uiK4zF/enzeNvPsv6PfVrMd1zqj/tlJ NSwZEZ6/L7IO8CCuD1xZij6+FZJQ/nx+NaACHVRPlC1F/mucTBDItnWZ n27JOerEqYiBpAbkQPTL1lvTkysiNlkyzg6OAiJ+aDjKdFLDDfxwUr2c QjjoPw==
 vacations.		86400	IN	NSEC	vana. NS DS RRSIG NSEC
 vacations.		86400	IN	RRSIG	DS 8 1 86400 20250110050000 20241228040000 61050 . Fgl+BoFbOoOEvvtWQP6gUTNv9/DSdlP/Fxsdast19lrFE8KZRqNZDHOw GmjEgulov1oHBFmGhGNhMum1BKRNLrLNwVf5OindX/z3zeZVlHHG+Stu 2wWREn9IWg1j8osD2fSKvDGdfMRh3LdPJFWj+7lHYm+s4i/Fd0WGaW9M 0Y3M19TNC9XtrHPMnWxA/2s/ABxfDvOCvhDD2kaVvRo2kx/RUVLlzuqX YN99GoZoQPZsYIqniXJvR2g5lJofdO+5wnVWYnb1qPVTkZCg0vWUcCoC mpPB4oM2TlvaOpgrCcbE5Tl5CllYFP/beeXQuXv5DekJOqklZQNJZ3xL 160f3Q==
