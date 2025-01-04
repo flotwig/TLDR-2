@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022156856 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. QJ4n9EnCOYiwbwYVMp3SEKzNA6Jcx4gadyN3CfXMgkOtao8s1L5Rj2Il Zg7r9zsDQ7ZPNH4hUgkaNYCgT9H3jCxH2bOPJImwwkXfhH9AzVTJyzmt 3BjeWSh8K5sIR6WCpscEtdV+RPI8YrO7WBNa7ZJHZnE5CBdJD3K+qEla s78DkZV5/CNqtvQq1IHRIS4kFZR7mPtmSO5WNIGKrMgnWOhgW/uNbCjA YYcBJM0LKoiK2kZlNVgtGwuhWs10NcofyC5n/NJtrOs9pPHRw2GKNZBI VlQqT59RKg5codnBi2be5jSdqJ2ovV/4l96NUBGjryiTa5aCPNYVpFq1 xPHJ8Q==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022156868 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. iDUgeakUCuc73XZHHpzX2dcF1Qu0W0pmw59C9q/LIi6tHYDEAyBM5UlJ w6iQgOv+e7zRhIUJHoIk0g4aD3PB0zf/JLBHFMTxBkthOfou6wmXR8xY aWyRvrdGfdEsJv0GFjgnrWHubzENyhuhU520BIInVGOb8QSEVA2ywXNp TEx3lRoHIUNvGdwEnQYdh+Plpns/IdZYZKYnIHJDdfiWkiiLndl0PfmU wrZ2HY0L0Rh5URJ3aX5R2EuRM0U3yTtsbjr6Vlf3wTKSzKpIz8teYH3U JLeZywkhzS1+uSd6zJoQi2oR0Ufyhd6V0g5gnhc63CElr7RA/KeNMe76 LbwzMw==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -1653,13 +1653,13 @@ arktikbyg.gl.		3600	IN	NS	ns1.danaweb.org.
 arktikbyg.gl.		3600	IN	NS	ns2.danaweb.org.
 arktikbyg.gl.		3600	IN	NS	ns3.danaweb.org.
 arktikbyg.gl.		3600	IN	NS	ns4.danaweb.org.
+arktiskledelse.gl.	3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. T+jt2quU7XQwwghA3e6ZJCziZdDtxJqp0IISGD9Y9QF6vpRhxD+mWpVM 6WukmSABDOOR1qemv150WYGG4XUEaTgNC7+XqwH+0SOQ2fDiqJgpaSr/ x61ndl7Sky9d3GpEMSE1d2WuqHR79PK4Fqt102Jfl7P9zeyePj73cukV JwK1xUmNKdomCy0tVt5KV9XfaOSsKq2dCmeDGgkVyFm+bwVuz1GJ/96Q gmizM5lCcMrE6CKyaln01ATdx55AAO5KPi29zf1jSVo85+PPzmUDNviG RQX2gF+VI8D07IqJ2OV6ZeT+axO1f7FbGRRrWkT3DP97jpNxabdcI7DT TQoUbA==
 arktiskledelse.gl.	3600	IN	NS	ns1.simply.com.
 arktiskledelse.gl.	3600	IN	NS	ns2.simply.com.
 arktiskledelse.gl.	3600	IN	NS	ns3.simply.com.
 arktiskledelse.gl.	3600	IN	NS	ns4.simply.com.
 arktiskledelse.gl.	3600	IN	DS	6332 13 2 1F78985E5C578D12BE0AB00566DC8CE2988A4847C068918956292C2A 13E72950
 arktiskledelse.gl.	3600	IN	DS	6332 13 4 42A382362B49368763A00D0DC96A984C6871779942EB1BD9D3FBDD91 865652E9A419F545563A55E6AAACEE2A699334BA
-arktiskledelse.gl.	3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. T+jt2quU7XQwwghA3e6ZJCziZdDtxJqp0IISGD9Y9QF6vpRhxD+mWpVM 6WukmSABDOOR1qemv150WYGG4XUEaTgNC7+XqwH+0SOQ2fDiqJgpaSr/ x61ndl7Sky9d3GpEMSE1d2WuqHR79PK4Fqt102Jfl7P9zeyePj73cukV JwK1xUmNKdomCy0tVt5KV9XfaOSsKq2dCmeDGgkVyFm+bwVuz1GJ/96Q gmizM5lCcMrE6CKyaln01ATdx55AAO5KPi29zf1jSVo85+PPzmUDNviG RQX2gF+VI8D07IqJ2OV6ZeT+axO1f7FbGRRrWkT3DP97jpNxabdcI7DT TQoUbA==
 arms24.gl.		3600	IN	NS	ns1.3s-holding.org.
 arms24.gl.		3600	IN	NS	ns2.3s-holding.org.
 arms24.gl.		3600	IN	NS	ns3.3s-holding.org.
@@ -1728,10 +1728,10 @@ artichoke.gl.		3600	IN	NS	dns01.dipcon.com.
 artichoke.gl.		3600	IN	NS	dns02.ports.se.
 artichoke.gl.		3600	IN	NS	dns03.ports.se.
 artichoke.gl.		3600	IN	NS	dns04.ports.net.
-articimport.gl.		3600	IN	NS	yevgen.ns.cloudflare.com.
-articimport.gl.		3600	IN	NS	raphaela.ns.cloudflare.com.
 articimport.gl.		3600	IN	DS	2371 13 2 48D2B98E096E3054B6A32F808241BE985161148A6AC69611F234788C F548CFAF
 articimport.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. aqX7Ah7tq81oZxxTY4/OPrgUlHz5sGYZcAxLMH0W8zXnfwg5fwZw+8Ym +ye084pfIP8lsx0ZdpsH5A5WneS8k4iqv8rXjIuU7VDJOfWIPsdqDdwc LWDrwP9rksebGPh6OR8cJ+UWjxeoFGfTU1pTiengFbpYKugjKOFZCehn 2CN42DJKbQZlsGDQzldlybOJnu/Obcnzz7CWl7kbvBCmV8DIcAtWxR0i B79Pe2F6oYBgvHK9RcnKZ530UZ31heNJZAp6k57ONgvZntf8MEWWxX+q 1OmmwVLhRikZPXJb23cJB2z+75X4RC7UnjWGyoqUz1AnMTV8nOfwdwje qzxz4A==
+articimport.gl.		3600	IN	NS	yevgen.ns.cloudflare.com.
+articimport.gl.		3600	IN	NS	raphaela.ns.cloudflare.com.
 artschool.gl.		3600	IN	NS	ns1.curanet.dk.
 artschool.gl.		3600	IN	NS	ns2.curanet.dk.
 aruba.gl.		3600	IN	NS	arudns1.aruba.it.
@@ -2580,13 +2580,13 @@ betsson.gl.		3600	IN	NS	ns-104.awsdns-13.com.
 betsson.gl.		3600	IN	NS	ns-951.awsdns-54.net.
 betsson.gl.		3600	IN	NS	ns-1364.awsdns-42.org.
 betsson.gl.		3600	IN	NS	ns-1866.awsdns-41.co.uk.
+betterway.gl.		3600	IN	DS	55365 13 2 21BB1DD8C40C7E8001E1EB6A94389D62AB0C051299F72E07198E2E42 527396DC
+betterway.gl.		3600	IN	DS	55365 13 4 CCFF9B2F511ECDBDB368C44F97AC281BE58759A3F2A5655F99CC7916 5E294D45D6D78FD32B878A3AB6DEA32498E9E325
+betterway.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. Pu/Iy87ddrXoMa0cHQz/eimwxzsVy5hWMCKaJ80fSWbsyL/oXxB1Vx3g Z59WRhkIIiFy42f9nw1taYXo8GwwTDq8qfENFaO1NSWkQwiJN2sAom7h n21xC0WBVbs5cmFhxClopFdL6mwzT5isd3/mqv5CjvWIyGhCTWR5bFC0 VLif6QjPAq7gaVQVQYO6fl5DgUOERIWcIcL+q2hROFhI8UVBiBFccX/h ZLBiAXmFu4UsCw/W1VLs7o9mmSxa2cVRjIm5JGZg0uhG/kXZoYw58U0H t2EY3ApY/pp1Y1Kq4rj7e8EYLbDkWn33AmTQD7FMvyljRUZfxQqoP5TZ 30s0jA==
 betterway.gl.		3600	IN	NS	ns1.simply.com.
 betterway.gl.		3600	IN	NS	ns2.simply.com.
 betterway.gl.		3600	IN	NS	ns3.simply.com.
 betterway.gl.		3600	IN	NS	ns4.simply.com.
-betterway.gl.		3600	IN	DS	55365 13 2 21BB1DD8C40C7E8001E1EB6A94389D62AB0C051299F72E07198E2E42 527396DC
-betterway.gl.		3600	IN	DS	55365 13 4 CCFF9B2F511ECDBDB368C44F97AC281BE58759A3F2A5655F99CC7916 5E294D45D6D78FD32B878A3AB6DEA32498E9E325
-betterway.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. Pu/Iy87ddrXoMa0cHQz/eimwxzsVy5hWMCKaJ80fSWbsyL/oXxB1Vx3g Z59WRhkIIiFy42f9nw1taYXo8GwwTDq8qfENFaO1NSWkQwiJN2sAom7h n21xC0WBVbs5cmFhxClopFdL6mwzT5isd3/mqv5CjvWIyGhCTWR5bFC0 VLif6QjPAq7gaVQVQYO6fl5DgUOERIWcIcL+q2hROFhI8UVBiBFccX/h ZLBiAXmFu4UsCw/W1VLs7o9mmSxa2cVRjIm5JGZg0uhG/kXZoYw58U0H t2EY3ApY/pp1Y1Kq4rj7e8EYLbDkWn33AmTQD7FMvyljRUZfxQqoP5TZ 30s0jA==
 bettingexpert.gl.	3600	IN	NS	dale.ns.cloudflare.com.
 bettingexpert.gl.	3600	IN	NS	nina.ns.cloudflare.com.
 bettogo.gl.		3600	IN	NS	ns0.rro.de.
@@ -2825,12 +2825,12 @@ blomquist.gl.		3600	IN	NS	ns1.unoeuro.com.
 blomquist.gl.		3600	IN	NS	ns2.unoeuro.com.
 blomquist.gl.		3600	IN	NS	ns3.unoeuro.com.
 blomquist.gl.		3600	IN	NS	ns4.unoeuro.com.
+blomsterdalenshostel.gl. 3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. fOSFaVBoqHkBJNhJj9XnJ3JV/MiVnb0nLQlWYIu4MTpzGtJeQnPn3LH3 P8Tj43YQ4Oytu5IQ25c5PmLJLrQ4YRg9fnmAH0yUgZNVxEgs2ROfWGKo cIlSkc9xzAbAgASmJdG9t9YyaklGl6QP6fZJ7MeRe3EzgqQWkeefmFem 8QIuuBReGKtdjPPAmey127phI01z1+phiEIw38ulIPAlUSmYbrBPsxtS LTFO2E9wJAp3fP41Y3+mkHQUO/3z2vsv67vCGzZPuwoG2Hzv15g3/ucz 6Rh+Q6VHopNbhIGCou8mFpvfjMacedPqLMoIS8fxR1C9gkWjZDj1m/UM 6dVNCQ==
 blomsterdalenshostel.gl. 3600	IN	NS	ns1.simply.com.
 blomsterdalenshostel.gl. 3600	IN	NS	ns2.simply.com.
 blomsterdalenshostel.gl. 3600	IN	NS	ns3.simply.com.
 blomsterdalenshostel.gl. 3600	IN	DS	59568 13 2 072AD0A9CDED9D5D5BD06EB7AF3B0B3495794905777696C6D8000F3E EB372F17
 blomsterdalenshostel.gl. 3600	IN	DS	59568 13 4 0B922872650233D5E0E705687DC01B6B74895252FE44CAEB537D7AF6 8963B4E1EB2CC0AFAD8469CAFAAB3C61522AC565
-blomsterdalenshostel.gl. 3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. fOSFaVBoqHkBJNhJj9XnJ3JV/MiVnb0nLQlWYIu4MTpzGtJeQnPn3LH3 P8Tj43YQ4Oytu5IQ25c5PmLJLrQ4YRg9fnmAH0yUgZNVxEgs2ROfWGKo cIlSkc9xzAbAgASmJdG9t9YyaklGl6QP6fZJ7MeRe3EzgqQWkeefmFem 8QIuuBReGKtdjPPAmey127phI01z1+phiEIw38ulIPAlUSmYbrBPsxtS LTFO2E9wJAp3fP41Y3+mkHQUO/3z2vsv67vCGzZPuwoG2Hzv15g3/ucz 6Rh+Q6VHopNbhIGCou8mFpvfjMacedPqLMoIS8fxR1C9gkWjZDj1m/UM 6dVNCQ==
 blomsterdalenshotel.gl.	3600	IN	NS	ns1.simply.com.
 blomsterdalenshotel.gl.	3600	IN	NS	ns2.simply.com.
 blomsterdalenshotel.gl.	3600	IN	NS	ns3.simply.com.
@@ -3676,12 +3676,12 @@ cecil.gl.		3600	IN	NS	a.hosting.gl.
 cecil.gl.		3600	IN	NS	b.hosting.gl.
 cecil.gl.		3600	IN	NS	c.hosting.gl.
 cecil.gl.		3600	IN	NS	d.hosting.gl.
-cedrico.gl.		3600	IN	DS	36341 13 2 C37F644B4EA79C9B1C3CC1A2205D7EF04489D519A0A44350DE7656C8 51026DA1
-cedrico.gl.		3600	IN	DS	36341 13 4 17032E4FE13CCAC31BE157EB77E7545EABB592FCC0797D887C8352F0 A79E8C8E3701AF38ECB46D571400218682D7E932
-cedrico.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. I6mZeYrU/nPZd5VuYKM17dUrslx30MMcqCEr6qhTAY4IIYR2FHqa5xAB UrN+tI5RzYyWZeHn7eJJWfNtvUyurJ8OVCpamLbcqC6yeF8TStDQvvAw qGbIPYM+4TwwhOfixm9DkHPIXnBuxu9y2tkZvcD5mSEGIMcjOhF0rV1V XCfsr7iLnNXShHHU9qJFePD8QSnlak6E/AY/CyRZdyYEtc2evAEXXH4a JRx85Mc08AgnAkoWCUA68Y765oJ+K7FhzIsOLoyFHtFOWZEzGvv+Lann 3B+/JZcsFvDFyIRNxzToJeovLdouibWAFrcRtlAVRSjC3sNAWRVB40xz p7c3AA==
 cedrico.gl.		3600	IN	NS	ns1.hyp.net.
 cedrico.gl.		3600	IN	NS	ns2.hyp.net.
 cedrico.gl.		3600	IN	NS	ns3.hyp.net.
+cedrico.gl.		3600	IN	DS	36341 13 2 C37F644B4EA79C9B1C3CC1A2205D7EF04489D519A0A44350DE7656C8 51026DA1
+cedrico.gl.		3600	IN	DS	36341 13 4 17032E4FE13CCAC31BE157EB77E7545EABB592FCC0797D887C8352F0 A79E8C8E3701AF38ECB46D571400218682D7E932
+cedrico.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. I6mZeYrU/nPZd5VuYKM17dUrslx30MMcqCEr6qhTAY4IIYR2FHqa5xAB UrN+tI5RzYyWZeHn7eJJWfNtvUyurJ8OVCpamLbcqC6yeF8TStDQvvAw qGbIPYM+4TwwhOfixm9DkHPIXnBuxu9y2tkZvcD5mSEGIMcjOhF0rV1V XCfsr7iLnNXShHHU9qJFePD8QSnlak6E/AY/CyRZdyYEtc2evAEXXH4a JRx85Mc08AgnAkoWCUA68Y765oJ+K7FhzIsOLoyFHtFOWZEzGvv+Lann 3B+/JZcsFvDFyIRNxzToJeovLdouibWAFrcRtlAVRSjC3sNAWRVB40xz p7c3AA==
 ceh.gl.			3600	IN	NS	ns1.simply.com.
 ceh.gl.			3600	IN	NS	ns2.simply.com.
 ceh.gl.			3600	IN	NS	ns3.simply.com.
@@ -4098,12 +4098,12 @@ core.gl.		3600	IN	NS	ns1.monikerdns.net.
 core.gl.		3600	IN	NS	ns2.monikerdns.net.
 core.gl.		3600	IN	NS	ns3.monikerdns.net.
 core.gl.		3600	IN	NS	ns4.monikerdns.net.
-coright.gl.		3600	IN	DS	38316 13 2 84BBB1B4A339EEF6942F669B80273F827438DEBB9E8CBFFFF46E64ED 563A737B
-coright.gl.		3600	IN	DS	38316 13 4 D003A7F7DD97EF1A4A5E9810981BD08DC2AD2346795712CF1999C4B0 2E348FA7904FD736728D228A8AC4A4510BE6AED8
 coright.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. VbctZU0GaAqQorB+NbXnlj7ImdOhfqXQvomN65NeBdeJ+JCpBUkvcejG fy3yaK/4cI3SmqqzzqjixPMFtEZAk5mbQGN5hRHh0o6EJ5i/cnfQ3D8i x6qqymWjOAET40qbQZIPGOirN3FGq1y00b8Xi+I/fcBA3IKwb2RXV9tu fvDaI3hmZs9NMnj3b2KL4gJLmy4LYYe2pHUD5XlNyTfuPSE2paPNJ2PG ROvT3ilsQ/y+2HEh5BG3rIAuVOBNuOc4nR+wa0xV4w6MARVVv4k241qX 3Kug/gCHKDhBT+OuBBtA1giE1BAzMHA0Ogp73TW48J/xyWQRoWjDSZl0 jLw9pA==
 coright.gl.		3600	IN	NS	ns1.hyp.net.
 coright.gl.		3600	IN	NS	ns2.hyp.net.
 coright.gl.		3600	IN	NS	ns3.hyp.net.
+coright.gl.		3600	IN	DS	38316 13 2 84BBB1B4A339EEF6942F669B80273F827438DEBB9E8CBFFFF46E64ED 563A737B
+coright.gl.		3600	IN	DS	38316 13 4 D003A7F7DD97EF1A4A5E9810981BD08DC2AD2346795712CF1999C4B0 2E348FA7904FD736728D228A8AC4A4510BE6AED8
 corio-cargo.gl.		3600	IN	NS	ns1.rrpproxy.net.
 corio-cargo.gl.		3600	IN	NS	ns2.rrpproxy.net.
 corio-cargo.gl.		3600	IN	NS	ns3.rrpproxy.net.
@@ -4502,11 +4502,11 @@ demokratie-und-vielfalt.gl. 3600 IN	RRSIG	DS 8 2 3600 20250306050000 20241216050
 demokratie-und-vielfalt.gl. 3600 IN	NS	ns1.domainoffensive.de.
 demokratie-und-vielfalt.gl. 3600 IN	NS	ns2.domainoffensive.eu.
 demokratie-und-vielfalt.gl. 3600 IN	NS	ns3.domainoffensive.net.
-demokratieundvielfalt.gl. 3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. OUfiZlyieMdp9y1tS6nRmYeSRHwXqUB4XqhzO2mnabs49WXkdEh3FtpE lXdJz2Yqi9609uWRLvRGZ56wq2UYI99X7sAThQFPiDf3Kr20Hh8BSwPN pA5YRS6RppHRPsa2X9eDTtsjFLLwynU0jgcQFAP1p18Hw3/q2VNy9a2q lkgy8Vk2Hm3b91adm4TrRj8FFMQCLnj5xgkgNR74lsGOxYRvR2eCXU8x mLCkWFD4zP/MDkrIY0SdfXBInx0Sl6K9ygGeN5WoOVsHWu9+++UvN+tM uu3ptp5vnsMZ3zA0qFuhcWy+hWyK0iinGcb7H660+JpS0i8RcEeS5LhT yCQD0g==
 demokratieundvielfalt.gl. 3600	IN	NS	ns1.domainoffensive.de.
 demokratieundvielfalt.gl. 3600	IN	NS	ns2.domainoffensive.eu.
 demokratieundvielfalt.gl. 3600	IN	NS	ns3.domainoffensive.net.
 demokratieundvielfalt.gl. 3600	IN	DS	842 13 2 24BFE30E912EEF69B4C612A2AA5C9DA5C9DAD41AF209724B6996A0AC D4047D93
+demokratieundvielfalt.gl. 3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. OUfiZlyieMdp9y1tS6nRmYeSRHwXqUB4XqhzO2mnabs49WXkdEh3FtpE lXdJz2Yqi9609uWRLvRGZ56wq2UYI99X7sAThQFPiDf3Kr20Hh8BSwPN pA5YRS6RppHRPsa2X9eDTtsjFLLwynU0jgcQFAP1p18Hw3/q2VNy9a2q lkgy8Vk2Hm3b91adm4TrRj8FFMQCLnj5xgkgNR74lsGOxYRvR2eCXU8x mLCkWFD4zP/MDkrIY0SdfXBInx0Sl6K9ygGeN5WoOVsHWu9+++UvN+tM uu3ptp5vnsMZ3zA0qFuhcWy+hWyK0iinGcb7H660+JpS0i8RcEeS5LhT yCQD0g==
 den.gl.			3600	IN	NS	ns1.netim.net.
 den.gl.			3600	IN	NS	ns2.netim.net.
 den.gl.			3600	IN	NS	ns3.netim.net.
@@ -5236,12 +5236,12 @@ ek.gl.			3600	IN	NS	ns3.bdm.microsoftonline.com.
 ek.gl.			3600	IN	NS	ns4.bdm.microsoftonline.com.
 ek-soft.gl.		3600	IN	NS	ns01.one.com.
 ek-soft.gl.		3600	IN	NS	ns02.one.com.
-eksempel.gl.		3600	IN	DS	58242 13 2 017A02933DB5CC52C84EB57DA0B18D4E3637B79DF0AB18D7C349AAFA CD8FCB84
-eksempel.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. SyUDQfIbS5MAoHz+hqg7LT8HpxNT1ube/Eq/LQSGWHHVjTuI7PyYA7l+ 0xtFgNeY/17pq1RaRRDWkkybhxgVLHup5wjUiSDNFF7Fg1qsLUJGM4cO W0jqK7UB3rXnpXMNgIhKnTQ5ZcGrBTS+WgLfOcNd9sbiiez+6osbF/eG Mn/QcdpizBxAQ7gDK87OMg8K7ZVSiZK0tPuX46vdAW/liFVdigBxRfZZ zpxMc5LebH912hlYaRpx8T9yn+5YW8fA+8ooRhzUOW7NqSMVYMYv70fr 53+gezULB/1xCJWkt7dBjokLmoKpnue4HFTgTXSeKWcx99GVc3YB5xYt 3eFbqw==
 eksempel.gl.		3600	IN	NS	a.hosting.gl.
 eksempel.gl.		3600	IN	NS	b.hosting.gl.
 eksempel.gl.		3600	IN	NS	c.hosting.gl.
 eksempel.gl.		3600	IN	NS	d.hosting.gl.
+eksempel.gl.		3600	IN	DS	58242 13 2 017A02933DB5CC52C84EB57DA0B18D4E3637B79DF0AB18D7C349AAFA CD8FCB84
+eksempel.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. SyUDQfIbS5MAoHz+hqg7LT8HpxNT1ube/Eq/LQSGWHHVjTuI7PyYA7l+ 0xtFgNeY/17pq1RaRRDWkkybhxgVLHup5wjUiSDNFF7Fg1qsLUJGM4cO W0jqK7UB3rXnpXMNgIhKnTQ5ZcGrBTS+WgLfOcNd9sbiiez+6osbF/eG Mn/QcdpizBxAQ7gDK87OMg8K7ZVSiZK0tPuX46vdAW/liFVdigBxRfZZ zpxMc5LebH912hlYaRpx8T9yn+5YW8fA+8ooRhzUOW7NqSMVYMYv70fr 53+gezULB/1xCJWkt7dBjokLmoKpnue4HFTgTXSeKWcx99GVc3YB5xYt 3eFbqw==
 ekstrabladet.gl.	3600	IN	NS	ns-496.awsdns-62.com.
 ekstrabladet.gl.	3600	IN	NS	ns-810.awsdns-37.net.
 ekstrabladet.gl.	3600	IN	NS	ns-1210.awsdns-23.org.
@@ -5270,13 +5270,13 @@ elekt.gl.		3600	IN	NS	a.hosting.gl.
 elekt.gl.		3600	IN	NS	b.hosting.gl.
 elekt.gl.		3600	IN	NS	c.hosting.gl.
 elekt.gl.		3600	IN	NS	d.hosting.gl.
-element.gl.		3600	IN	DS	21396 13 2 8466ECF2E081D84CDE856187C3D0C1FF543461DB831805A7CCD83EBC 78016FE8
-element.gl.		3600	IN	DS	21396 13 4 288D81D883B3224C5D96B0CE8A3F2AE395832B8659AFCDAADAC25036 B63AAC40F517E930B7D421CFCC0F01ADCE7D4E79
-element.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. cmkbJtetfrZz406w3mCYawvCQ1uhb4l1lvtPb0slYdf7k6DF4Z1ojEuH IlCuRykzXL7WwW3xhBMpABfQs9bmcNyBqGbMSy1I4ZDAFmV7zlYPl2YC GERkAlZi+YwqRXOPnV8YAKgMVq840WvNX5fi422L6iQtaM4Polsml6qf TjMA6Fe7y7VxvV4QjrUkUDLTalmCJTUupG1jIHqKpksZo53qrM7Aeywq o8+uB03zrDTXWUC34v2OLCp8LxJdjPC7hwR+LOEfJxboedoI81+HGiW7 uIdfkPlpr+Kd6utXKWQqMNa7Sz2dCxgw3l+kvPaAt/FMS9Gwk9PV+naH P7lJrw==
 element.gl.		3600	IN	NS	ns1.simply.com.
 element.gl.		3600	IN	NS	ns2.simply.com.
 element.gl.		3600	IN	NS	ns3.simply.com.
 element.gl.		3600	IN	NS	ns4.simply.com.
+element.gl.		3600	IN	DS	21396 13 2 8466ECF2E081D84CDE856187C3D0C1FF543461DB831805A7CCD83EBC 78016FE8
+element.gl.		3600	IN	DS	21396 13 4 288D81D883B3224C5D96B0CE8A3F2AE395832B8659AFCDAADAC25036 B63AAC40F517E930B7D421CFCC0F01ADCE7D4E79
+element.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. cmkbJtetfrZz406w3mCYawvCQ1uhb4l1lvtPb0slYdf7k6DF4Z1ojEuH IlCuRykzXL7WwW3xhBMpABfQs9bmcNyBqGbMSy1I4ZDAFmV7zlYPl2YC GERkAlZi+YwqRXOPnV8YAKgMVq840WvNX5fi422L6iQtaM4Polsml6qf TjMA6Fe7y7VxvV4QjrUkUDLTalmCJTUupG1jIHqKpksZo53qrM7Aeywq o8+uB03zrDTXWUC34v2OLCp8LxJdjPC7hwR+LOEfJxboedoI81+HGiW7 uIdfkPlpr+Kd6utXKWQqMNa7Sz2dCxgw3l+kvPaAt/FMS9Gwk9PV+naH P7lJrw==
 elementor.gl.		3600	IN	NS	ns1.markmonitor.com.
 elementor.gl.		3600	IN	NS	ns2.markmonitor.com.
 elementor.gl.		3600	IN	NS	ns3.markmonitor.com.
@@ -5286,12 +5286,12 @@ elementor.gl.		3600	IN	NS	ns6.markmonitor.com.
 elementor.gl.		3600	IN	NS	ns7.markmonitor.com.
 elev.gl.		3600	IN	NS	ns1.hosting.inuit.gl.
 elev.gl.		3600	IN	NS	ns2.hosting.inuit.gl.
-elgiganten.gl.		3600	IN	NS	ns1.hyp.net.
-elgiganten.gl.		3600	IN	NS	ns2.hyp.net.
-elgiganten.gl.		3600	IN	NS	ns3.hyp.net.
 elgiganten.gl.		3600	IN	DS	21503 13 2 DC582FDE3FB4A0F9CA2F62168B0903A4A4BBF83A0C9A36160136F4E5 E2A476C0
 elgiganten.gl.		3600	IN	DS	21503 13 4 6F7917773D1FBB7164C52DE0F49AB5CB39554242C016C42613D1BD4A 4762FEDDFAD8D0D015A4F81063CAD5DEAB62E405
 elgiganten.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. C6zB+b7AVPV1yX/L9aUAmB+CmGN+8H1bsytOWLKzxDdEW50d1NjH9vnZ kKNDcZuddyBVA+h8/jG7dij/AJ/Pyb3qUz8gkvXN/yTLaiiTwxotkaLJ SRIBMbauv8oQ/c8uxDr4mrcJFQOIH0IA6TdGBvMFi4cS3CMAM14FShbN n3MOPQRGe+8EI/oYxfTbILpRAAKyyZyi8/wza/WaQID6giBB2cqF4zZA 96GS+9OrZ5eN93Fb45/KsbFK50wV7NjkpPnZPSLJhsCFJzyZER+6VLbv DW5Hih8pWeetfGteLWiEUe3+cl05b2MjxsDgD2c+//edap+/HFajYANL e9kPQg==
+elgiganten.gl.		3600	IN	NS	ns1.hyp.net.
+elgiganten.gl.		3600	IN	NS	ns2.hyp.net.
+elgiganten.gl.		3600	IN	NS	ns3.hyp.net.
 eli.gl.			3600	IN	NS	ns.dinahosting.com.
 eli.gl.			3600	IN	NS	ns2.dinahosting.com.
 eli.gl.			3600	IN	NS	ns3.dinahosting.com.
@@ -5499,13 +5499,13 @@ erasmusplus.gl.		3600	IN	NS	ns4.simply.com.
 erbrecht.gl.		3600	IN	NS	ns.udag.de.
 erbrecht.gl.		3600	IN	NS	ns.udag.net.
 erbrecht.gl.		3600	IN	NS	ns.udag.org.
-erfalasorput.gl.	3600	IN	DS	7766 13 2 15ED04DF61C42D382F07B9B0D54DA0D937C6822811EB996DF28BD421 98EA3396
-erfalasorput.gl.	3600	IN	DS	7766 13 4 B5D013FAD173F4E347931EC6219E48944AA68FD7469C0910C9461BDB F6FAAC4688364F80A6AC72E65A9E6C1C3CA38E84
-erfalasorput.gl.	3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. VN1LbTRfSlbN5uL/BF1pdw2Hgdsx8pR3sBt2Rq+R21Yhs+9Wgv5Vy5WD ehEhCyk1tAeWFsMqkWcAh/k8+GCp7lZiT4F3ukGp2byYAXhMUFRLA8t1 mZScPE3mnc5Y8as3LGVQKP5gCPBUC/Kc9KNdDkP77vx14geTpOOXRjEa Y9GJSgvCg828N0MrRT7JCQq172lNBM5ZW4NZ5dslGheCrrLvFxHn+2yW VeTmI69JiQEIAvZh/RQSGCF9A3Kkd3uVXoFt6dB0Cnl1ZwIkTE8dhC1p neEMsU1z51QZ1BY6hbncSWig3rWL+/GSf1dnz+vPqe1SVGZsfNX6vBdt O/8OqA==
 erfalasorput.gl.	3600	IN	NS	ns1.simply.com.
 erfalasorput.gl.	3600	IN	NS	ns2.simply.com.
 erfalasorput.gl.	3600	IN	NS	ns3.simply.com.
 erfalasorput.gl.	3600	IN	NS	ns4.simply.com.
+erfalasorput.gl.	3600	IN	DS	7766 13 2 15ED04DF61C42D382F07B9B0D54DA0D937C6822811EB996DF28BD421 98EA3396
+erfalasorput.gl.	3600	IN	DS	7766 13 4 B5D013FAD173F4E347931EC6219E48944AA68FD7469C0910C9461BDB F6FAAC4688364F80A6AC72E65A9E6C1C3CA38E84
+erfalasorput.gl.	3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. VN1LbTRfSlbN5uL/BF1pdw2Hgdsx8pR3sBt2Rq+R21Yhs+9Wgv5Vy5WD ehEhCyk1tAeWFsMqkWcAh/k8+GCp7lZiT4F3ukGp2byYAXhMUFRLA8t1 mZScPE3mnc5Y8as3LGVQKP5gCPBUC/Kc9KNdDkP77vx14geTpOOXRjEa Y9GJSgvCg828N0MrRT7JCQq172lNBM5ZW4NZ5dslGheCrrLvFxHn+2yW VeTmI69JiQEIAvZh/RQSGCF9A3Kkd3uVXoFt6dB0Cnl1ZwIkTE8dhC1p neEMsU1z51QZ1BY6hbncSWig3rWL+/GSf1dnz+vPqe1SVGZsfNX6vBdt O/8OqA==
 ergotherapie.gl.	3600	IN	NS	ns.checkdomain.de.
 ergotherapie.gl.	3600	IN	NS	ns2.checkdomain.de.
 erhverv.gl.		3600	IN	NS	adam.ns.cloudflare.com.
@@ -5792,10 +5792,10 @@ f2.gl.			3600	IN	NS	ns3.simply.com.
 f2.gl.			3600	IN	NS	ns4.simply.com.
 f6.gl.			3600	IN	NS	hal.ns.cloudflare.com.
 f6.gl.			3600	IN	NS	ariella.ns.cloudflare.com.
-fa.gl.			3600	IN	NS	ns1.doworry.icu.
-fa.gl.			3600	IN	NS	ns2.doworry.icu.
 fa.gl.			3600	IN	DS	17613 15 2 196BCC024AE11CDF0C18BF9E664024B5640DFD6E0515ADFF8DC77999 A75BEA20
 fa.gl.			3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. Sjzvu0OimimUiAkv2sD/G4Jqm5pb8zwVwCntEoOxNR+BQSgb8dufzrB4 YsVosms0G+LMjZoc/os98PBEL0X6lE45heGcy+lV7fRhbGiO2tlA36dM iBGci4pHpUhgGL942Hpx+ba8aJP20mWFnLyFniRBimlKOj7o7lblYRLh thO9YENQUzad/OcNxHNhrb8kXXrh41kevSahCgtbQbMy2KTRTxD58Uhd NcYAiOCBmucZRhaVZZHLbsAj31brUHNA2xqyKsRahDq0o2MFQM0ShChp ZyZZZ96aX+pvlEw/S0FA9XOPIlEUhMQ2rWq8bJBhsRaMruZHSYd5M/Fb 4pE2eg==
+fa.gl.			3600	IN	NS	ns1.doworry.icu.
+fa.gl.			3600	IN	NS	ns2.doworry.icu.
 faber.gl.		3600	IN	NS	ns1.simply.com.
 faber.gl.		3600	IN	NS	ns2.simply.com.
 faber.gl.		3600	IN	NS	ns3.simply.com.
@@ -6298,13 +6298,13 @@ forskningsraadet.gl.	3600	IN	NS	ns1.supercp.com.
 forskningsraadet.gl.	3600	IN	NS	ns2.supercp.com.
 forskningsraadet.gl.	3600	IN	NS	ns3.supercp.com.
 forskningsraadet.gl.	3600	IN	NS	ns4.supercp.com.
-forum.gl.		3600	IN	DS	32423 13 2 BB8964D6AF99226DD7678E7D03E0C2B6BD356CD73B0D09B373C078AC 01DFAECC
-forum.gl.		3600	IN	DS	32423 13 4 BB045F002885F1B2DCCAC272B74F3A308A547534BF59B0D794D5D3D2 B3F8BF8F18765375D72C2421E5921B1F7DD6769C
-forum.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. hqu2WPpGuilE+2rTqs3T2l74d+pwfzoqw87IznMmD5cX5QSiQ5Crl19U Cfrd164TVd7yS0UBJUWgHJ4A+9pRWNszco8M0oyZqnVoqD7+lEVC0DF9 t4MoWHQd/Tz1sivrn/98qjqG0Lh3sV22olypm/WxIpbyrHFEAfhADmqS 2tJnN27f7c6bqQYkKINJt5pLjfBMBhEqkIWLMrsa/UD6JdQ4rV6elLIr /Bl+8Be/HeKv/s7Eh6+jnSBfifO6xS0cLMwNqqt+PBSgE7U6rQaxSrH/ epg8YOuzIjLwJQ2qb6jUN6/S/PsdalLIqtKz2wcM/8WvvVcnJSx6vaYu 07u9Lw==
 forum.gl.		3600	IN	NS	ns1.simply.com.
 forum.gl.		3600	IN	NS	ns2.simply.com.
 forum.gl.		3600	IN	NS	ns3.simply.com.
 forum.gl.		3600	IN	NS	ns4.simply.com.
+forum.gl.		3600	IN	DS	32423 13 2 BB8964D6AF99226DD7678E7D03E0C2B6BD356CD73B0D09B373C078AC 01DFAECC
+forum.gl.		3600	IN	DS	32423 13 4 BB045F002885F1B2DCCAC272B74F3A308A547534BF59B0D794D5D3D2 B3F8BF8F18765375D72C2421E5921B1F7DD6769C
+forum.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. hqu2WPpGuilE+2rTqs3T2l74d+pwfzoqw87IznMmD5cX5QSiQ5Crl19U Cfrd164TVd7yS0UBJUWgHJ4A+9pRWNszco8M0oyZqnVoqD7+lEVC0DF9 t4MoWHQd/Tz1sivrn/98qjqG0Lh3sV22olypm/WxIpbyrHFEAfhADmqS 2tJnN27f7c6bqQYkKINJt5pLjfBMBhEqkIWLMrsa/UD6JdQ4rV6elLIr /Bl+8Be/HeKv/s7Eh6+jnSBfifO6xS0cLMwNqqt+PBSgE7U6rQaxSrH/ epg8YOuzIjLwJQ2qb6jUN6/S/PsdalLIqtKz2wcM/8WvvVcnJSx6vaYu 07u9Lw==
 foto.gl.		3600	IN	NS	a.hosting.gl.
 foto.gl.		3600	IN	NS	b.hosting.gl.
 foto.gl.		3600	IN	NS	c.hosting.gl.
@@ -6696,10 +6696,10 @@ get.gl.			3600	IN	NS	ns-300.awsdns-37.com.
 get.gl.			3600	IN	NS	ns-681.awsdns-21.net.
 get.gl.			3600	IN	NS	ns-1053.awsdns-03.org.
 get.gl.			3600	IN	NS	ns-2018.awsdns-60.co.uk.
-geus.gl.		3600	IN	DS	2731 13 2 9C1A046976867F258C5D87ED35D2D5BCD1EA948EEE4BFE3A06C2B2E8 B2447ABA
-geus.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. IE15dQqQitKer3rQRKscoHi2cvL6/P1rLm1fFeVv4VQsIqmF/IztWAG8 Kk7mQ1hPCbQhs1vW+TnZ3KIgb6qCSDL9DdJgp3z9MbxPapLPm7aIDhgw qJA1EuvOuq+NE5MzybjRZX7PVT3Iaui3/pabWtHGEuc2Vc0q5sFd9Q7O xeCuuQYhSLoEIi30U26tYTR7R5AZM2wOT+YlmewfGoAc6qHtD0ch/08/ Kn6yluWrhJGmWjq3eI2sBHQ+KNYZXZqtm/t/dzTBKy9zczOUnOD1h4+3 65v/pZ/lr/mjrZiq8qKR/4l4WBL+SDROsDdxzPm+xMUbZNNPi9mPDYu/ n1TYXA==
 geus.gl.		3600	IN	NS	ryan.ns.cloudflare.com.
 geus.gl.		3600	IN	NS	fatima.ns.cloudflare.com.
+geus.gl.		3600	IN	DS	2731 13 2 9C1A046976867F258C5D87ED35D2D5BCD1EA948EEE4BFE3A06C2B2E8 B2447ABA
+geus.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. IE15dQqQitKer3rQRKscoHi2cvL6/P1rLm1fFeVv4VQsIqmF/IztWAG8 Kk7mQ1hPCbQhs1vW+TnZ3KIgb6qCSDL9DdJgp3z9MbxPapLPm7aIDhgw qJA1EuvOuq+NE5MzybjRZX7PVT3Iaui3/pabWtHGEuc2Vc0q5sFd9Q7O xeCuuQYhSLoEIi30U26tYTR7R5AZM2wOT+YlmewfGoAc6qHtD0ch/08/ Kn6yluWrhJGmWjq3eI2sBHQ+KNYZXZqtm/t/dzTBKy9zczOUnOD1h4+3 65v/pZ/lr/mjrZiq8qKR/4l4WBL+SDROsDdxzPm+xMUbZNNPi9mPDYu/ n1TYXA==
 geusbulletin.gl.	3600	IN	NS	ryan.ns.cloudflare.com.
 geusbulletin.gl.	3600	IN	NS	fatima.ns.cloudflare.com.
 geusbulletin.gl.	3600	IN	DS	2731 13 2 F56822446DA48E72AB260CC689B653286DD8FD91EBD335C91754F17A FC335B3B
@@ -7196,10 +7196,10 @@ greenland-law.gl.	3600	IN	NS	ns2.hosting.inuit.gl.
 greenland-news.gl.	3600	IN	NS	ns1.modulo.gl.
 greenland-news.gl.	3600	IN	NS	ns2.modulo.gl.
 greenland-news.gl.	3600	IN	NS	ns3.modulo.gl.
-greenland-resource-assessment.gl. 3600 IN DS	2371 13 2 5D48C973BA5CC97826F7BE6C29027A6AB83E5568115D334C2C52D70D 0CB9DC94
-greenland-resource-assessment.gl. 3600 IN RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. fXs0AbRcDA4Ih9kfOllWMvosZ22Vd+NNtWYfqB+r/bX1UFYa8aRfvuAB Vf0vtJ289lExNlUl9PLPhYYPq0TChcF4cT8M5mzj2v2yMCllN1JpmNUJ 3NsERWXmU/p2Sraw9KNXGqOOqujCjhvM60v9cAxeCmSK/oB/dkUnktpt YduTHjZkvGi88kKJhhONNkBIc/MKt54YlOHNx/VSbZBu4NLuZDK14Gj1 465iXEaIpUP3Yrw91T2ldgn1vu4+0k1w4nVcErBJCUAvQHuA2NJ7xhrh 34JJ0vfBXOzvA+V5XMf1dTpver+wmvUKC6bhBgTYKcxwYUsfp0ttSdWt GrWbQg==
 greenland-resource-assessment.gl. 3600 IN NS	ryan.ns.cloudflare.com.
 greenland-resource-assessment.gl. 3600 IN NS	fatima.ns.cloudflare.com.
+greenland-resource-assessment.gl. 3600 IN DS	2371 13 2 5D48C973BA5CC97826F7BE6C29027A6AB83E5568115D334C2C52D70D 0CB9DC94
+greenland-resource-assessment.gl. 3600 IN RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. fXs0AbRcDA4Ih9kfOllWMvosZ22Vd+NNtWYfqB+r/bX1UFYa8aRfvuAB Vf0vtJ289lExNlUl9PLPhYYPq0TChcF4cT8M5mzj2v2yMCllN1JpmNUJ 3NsERWXmU/p2Sraw9KNXGqOOqujCjhvM60v9cAxeCmSK/oB/dkUnktpt YduTHjZkvGi88kKJhhONNkBIc/MKt54YlOHNx/VSbZBu4NLuZDK14Gj1 465iXEaIpUP3Yrw91T2ldgn1vu4+0k1w4nVcErBJCUAvQHuA2NJ7xhrh 34JJ0vfBXOzvA+V5XMf1dTpver+wmvUKC6bhBgTYKcxwYUsfp0ttSdWt GrWbQg==
 greenland-tours.gl.	3600	IN	NS	a.hosting.gl.
 greenland-tours.gl.	3600	IN	NS	b.hosting.gl.
 greenland-tours.gl.	3600	IN	NS	c.hosting.gl.
@@ -7219,12 +7219,12 @@ greenlandadventures.gl.	3600	IN	NS	d.hosting.gl.
 greenlandairports.gl.	3600	IN	NS	ns1.modulo.gl.
 greenlandairports.gl.	3600	IN	NS	ns2.modulo.gl.
 greenlandairports.gl.	3600	IN	NS	ns3.modulo.gl.
-greenlandbooking.gl.	3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. M3kDPuwhX+PrYHilLJ357ri5iOkDyqH0vPy2W4hGEcr4n/fafCnq6rfB jZmygOjhDj31Q74hTpIrBC6lyhgZ8zBwFqDWUTIAqa5UNVu5mibEBbLr snByDa/gBhlXrw77dqbg7kZwqIXmwNLUqql3m+2WVj/yALHfBtKi4hnN PvGlf1iMrXTed8rnNT0wrma5qO0BmZfQNk2rNxp/Ym1ctkMeU0ucUIDF G2Xr7YCexyNbf1gUn5B2BC1wyqXh6DitR6vPOihodgTdD4qqpx5PTYKI R+v8NoGoolRtmSAKHISPldBRAu9BUI3wMTgYt3PMNIvIhcSqB6uSRVXl PfMYOw==
 greenlandbooking.gl.	3600	IN	NS	ns1.simply.com.
 greenlandbooking.gl.	3600	IN	NS	ns2.simply.com.
 greenlandbooking.gl.	3600	IN	NS	ns3.simply.com.
 greenlandbooking.gl.	3600	IN	DS	4721 13 2 AE64FEF339E7184368E5FFC7605D9261B91E90CA57560D3B9D40AE42 BC132576
 greenlandbooking.gl.	3600	IN	DS	4721 13 4 59B328F088C1FAC88FC9044E9104AEAD24E6E68D3145BFFBA6B1C9D0 33B1CB78BEBEFEC3D6EDEC58A6035E1801C49643
+greenlandbooking.gl.	3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. M3kDPuwhX+PrYHilLJ357ri5iOkDyqH0vPy2W4hGEcr4n/fafCnq6rfB jZmygOjhDj31Q74hTpIrBC6lyhgZ8zBwFqDWUTIAqa5UNVu5mibEBbLr snByDa/gBhlXrw77dqbg7kZwqIXmwNLUqql3m+2WVj/yALHfBtKi4hnN PvGlf1iMrXTed8rnNT0wrma5qO0BmZfQNk2rNxp/Ym1ctkMeU0ucUIDF G2Xr7YCexyNbf1gUn5B2BC1wyqXh6DitR6vPOihodgTdD4qqpx5PTYKI R+v8NoGoolRtmSAKHISPldBRAu9BUI3wMTgYt3PMNIvIhcSqB6uSRVXl PfMYOw==
 greenlandconnect.gl.	3600	IN	NS	adam.ns.cloudflare.com.
 greenlandconnect.gl.	3600	IN	NS	sharon.ns.cloudflare.com.
 greenlandcruises.gl.	3600	IN	NS	ns151.hostgator.com.
@@ -7348,12 +7348,12 @@ greenlandtours.gl.	3600	IN	NS	a.hosting.gl.
 greenlandtours.gl.	3600	IN	NS	b.hosting.gl.
 greenlandtours.gl.	3600	IN	NS	c.hosting.gl.
 greenlandtours.gl.	3600	IN	NS	d.hosting.gl.
-greenlandtravel.gl.	3600	IN	NS	ns1.simply.com.
-greenlandtravel.gl.	3600	IN	NS	ns2.simply.com.
-greenlandtravel.gl.	3600	IN	NS	ns3.simply.com.
 greenlandtravel.gl.	3600	IN	DS	33182 13 2 068B91DFB789242CF3825DBF4EC5CB86E3C1C07F1287840B12CB9061 0A8F8C31
 greenlandtravel.gl.	3600	IN	DS	33182 13 4 3B5722FF236CFCB2F046732F4142FD1606B2427CF280E2F5FEB03199 A3630FA41FA957563688AF691B54857CB0A617A3
 greenlandtravel.gl.	3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. dmVA1d2fpLoc6YZFUIokVsxmhjbZJCB23Dsmty8d6yH0e8XO9kRtYG0y hV7omFZ8qN+YAj19QTIQM8eWLi226iDRskRiGGwDGqEMBdAa2XerlNP/ qQBkAPo3R56KvDm/Hwpv44ZVXhm6BqENnnspIymf4a0w02atAyOfAyxY i1807wLLEmEi4UyNxLNpLMaasSCoEZarxeIUuK3c9pCZM930RvR0Iizt kLIpQCzFA3MtJUr/p8M328wmPhl+6tZYJzYIYMi0cy2y8TC84qCxPkPo a7wMczoTqOqyeWcS/4FK/HqtT8z7UwhQutHR7s11si14V8U8QaGiHDDd kVnweg==
+greenlandtravel.gl.	3600	IN	NS	ns1.simply.com.
+greenlandtravel.gl.	3600	IN	NS	ns2.simply.com.
+greenlandtravel.gl.	3600	IN	NS	ns3.simply.com.
 greenlandventure.gl.	3600	IN	NS	ns1.modulo.gl.
 greenlandventure.gl.	3600	IN	NS	ns2.modulo.gl.
 greenlandventure.gl.	3600	IN	NS	ns3.modulo.gl.
@@ -9347,12 +9347,12 @@ isortaq.gl.		3600	IN	NS	ns1.aputit.gl.
 isortaq.gl.		3600	IN	NS	ns2.aputit.gl.
 isortaq.gl.		3600	IN	NS	ns3.aputit.gl.
 isortaq.gl.		3600	IN	NS	ns4.aputit.gl.
+iss.gl.			3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. dTlh4VdQl0jJ61/tjd1b5SAPTBj9cp0WrIXrsfWu7f8aV+yTJaAf6Qk/ L6LU/QWGxvobx61INNeMQOB4l+gzywuyGCf73bUNpJssgpJVBWP1UEqs 1NCR8CSdrSpYEzmNoNjWqmmxyz+SqwkIMpefy0Uc5h/tnYbO599WG3B/ 33UQ5QLL6ttSL+vuQf4U8RUyX4RtVe+alZ3fr5ztxJznXfnjiTF9PY3k lfCseX3sX78UaGtW7uBFFO+RXnAHailC9N9CBVWKx3XKWxo5z+yT1UNI bI1QYaD1BQJbB63u42dgWT3hIPYMwhf+Pob/4GePHIOaFtPvUyszF5cm MqaT8Q==
 iss.gl.			3600	IN	NS	ns.web-solutions.dk.
 iss.gl.			3600	IN	NS	ns2.web-solutions.dk.
 iss.gl.			3600	IN	NS	ns3.web-solutions.eu.
 iss.gl.			3600	IN	NS	ns4.web-solutions.eu.
 iss.gl.			3600	IN	DS	19272 13 4 A4E8A23320361FEB2CD9C86831ABBAABC6F759F0E699D7BE95010823 4A0B1D5C2CD02665A967B21768275A51F7834977
-iss.gl.			3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. dTlh4VdQl0jJ61/tjd1b5SAPTBj9cp0WrIXrsfWu7f8aV+yTJaAf6Qk/ L6LU/QWGxvobx61INNeMQOB4l+gzywuyGCf73bUNpJssgpJVBWP1UEqs 1NCR8CSdrSpYEzmNoNjWqmmxyz+SqwkIMpefy0Uc5h/tnYbO599WG3B/ 33UQ5QLL6ttSL+vuQf4U8RUyX4RtVe+alZ3fr5ztxJznXfnjiTF9PY3k lfCseX3sX78UaGtW7uBFFO+RXnAHailC9N9CBVWKx3XKWxo5z+yT1UNI bI1QYaD1BQJbB63u42dgWT3hIPYMwhf+Pob/4GePHIOaFtPvUyszF5cm MqaT8Q==
 issi.gl.		3600	IN	NS	ns1.bdm.microsoftonline.com.
 issi.gl.		3600	IN	NS	ns2.bdm.microsoftonline.com.
 issi.gl.		3600	IN	NS	ns3.bdm.microsoftonline.com.
@@ -11045,13 +11045,13 @@ latravel.gl.		3600	IN	NS	dns9.telia.com.
 latravel.gl.		3600	IN	NS	dns10.telia.com.
 latravel.gl.		3600	IN	NS	dns11.se.telia.net.
 latravel.gl.		3600	IN	NS	dns12.se.telia.net.
-lauritsen.gl.		3600	IN	DS	53763 13 2 164F7FBE21563D9C526FEE047239D7F0233F1F5C459A90BD78A5601B FBA0662F
-lauritsen.gl.		3600	IN	DS	53763 13 4 CDB91721D12F6E8F53D80FA82D3EC204837DC680D381A1BE838557A1 F10C005DBBBB99E4582C204EAF83B7AE4E4E5AFD
-lauritsen.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. fK4hZ4Ivy3z5XM6xhLaOv6MGxwcahi5MEcO9zYDgl8FeiWDUvWf+bySN 0D6xZiXl4I87b/s1VrgdiqM5GuRhDju9aN0ex0vFXDTnr94q1Zk9M9HC v67yHYkHFSIvZQZHr/wtIowVfrmrF9DabUm1Ra2yAN9sy9kAOMt8J94Y gH14Zc6sO76StVlgbUMB4z9wPXvLisv1h/D5hHIclFpQJXiKYKQnorhz B3iBoahRPRlkC7pEq/iZat9dbrqxyBLuZoxI6Qk4TyFLFUMxw1y4wlup njZYBH+7OGZVSJ/INckcWQaFiuo8hiQEUX83Mc9nhe8CWJR5B1BTrT7E kiFSig==
 lauritsen.gl.		3600	IN	NS	ns1.simply.com.
 lauritsen.gl.		3600	IN	NS	ns2.simply.com.
 lauritsen.gl.		3600	IN	NS	ns3.simply.com.
 lauritsen.gl.		3600	IN	NS	ns4.simply.com.
+lauritsen.gl.		3600	IN	DS	53763 13 2 164F7FBE21563D9C526FEE047239D7F0233F1F5C459A90BD78A5601B FBA0662F
+lauritsen.gl.		3600	IN	DS	53763 13 4 CDB91721D12F6E8F53D80FA82D3EC204837DC680D381A1BE838557A1 F10C005DBBBB99E4582C204EAF83B7AE4E4E5AFD
+lauritsen.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. fK4hZ4Ivy3z5XM6xhLaOv6MGxwcahi5MEcO9zYDgl8FeiWDUvWf+bySN 0D6xZiXl4I87b/s1VrgdiqM5GuRhDju9aN0ex0vFXDTnr94q1Zk9M9HC v67yHYkHFSIvZQZHr/wtIowVfrmrF9DabUm1Ra2yAN9sy9kAOMt8J94Y gH14Zc6sO76StVlgbUMB4z9wPXvLisv1h/D5hHIclFpQJXiKYKQnorhz B3iBoahRPRlkC7pEq/iZat9dbrqxyBLuZoxI6Qk4TyFLFUMxw1y4wlup njZYBH+7OGZVSJ/INckcWQaFiuo8hiQEUX83Mc9nhe8CWJR5B1BTrT7E kiFSig==
 lavozdegalicia.gl.	3600	IN	NS	ns.dinahosting.com.
 lavozdegalicia.gl.	3600	IN	NS	ns2.dinahosting.com.
 lavozdegalicia.gl.	3600	IN	NS	ns3.dinahosting.com.
@@ -11780,12 +11780,12 @@ magnusson.gl.		3600	IN	NS	ns2.inleed.net.
 magnusson.gl.		3600	IN	NS	ns3.inleed.net.
 magnusson.gl.		3600	IN	NS	ns4.inleed.net.
 magnusson.gl.		3600	IN	NS	ns5.inleed.net.
-magseis.gl.		3600	IN	NS	ns1.hyp.net.
-magseis.gl.		3600	IN	NS	ns2.hyp.net.
-magseis.gl.		3600	IN	NS	ns3.hyp.net.
 magseis.gl.		3600	IN	DS	49036 13 2 562F558EA5F403D154D470875606166928CC9471F4551F31D92E28EE FA06336F
 magseis.gl.		3600	IN	DS	49036 13 4 1E1C28F86E72903AC5EA27A8FE08D6A3C940CDBE967FA122E78B282F 6BA0AAF2876404CF90ECB0AC3DBC93F33DB73C0D
 magseis.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. DCWLjEKBZdkl1dm1nM7e7HehDVgP+z0C3UsN2wj2LcniJeg8RmHtsPHl 2stvtixtEiKzJePZqaQwGTBU02lMVApa3AG3WjttbCbnWpoS8S+0HenE NbPqeA8Qc0esO9YE709mv5W8lI886sekguWimdiJQRttiR/birLmgfUd 9DIeZGlFIVkib7PC9NJ/KL/h3VDUJunlab0aTNMtj2aoV7oRwNqq1Q/p KHqf/O3XLwtUC8lbmS7SiuH2GsWP6OFvoFzO+q+rqXGiq1Zy4/ESpK6f Q9CnFDzaA1X6qs34tANgheIx08d750Vc35WinsNYYc/he5gjUY5Ax/3R Pu0IjA==
+magseis.gl.		3600	IN	NS	ns1.hyp.net.
+magseis.gl.		3600	IN	NS	ns2.hyp.net.
+magseis.gl.		3600	IN	NS	ns3.hyp.net.
 maik.gl.		3600	IN	NS	ns1.simply.com.
 maik.gl.		3600	IN	NS	ns2.simply.com.
 maik.gl.		3600	IN	NS	ns3.simply.com.
@@ -11848,13 +11848,13 @@ mamaq.gl.		3600	IN	NS	ns1.dns-parking.com.
 mamaq.gl.		3600	IN	NS	ns2.dns-parking.com.
 mamarisavut.gl.		3600	IN	NS	ns01.one.com.
 mamarisavut.gl.		3600	IN	NS	ns02.one.com.
-mammashop.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. jKwFFDvBl8GGeHdvx+mEtn0jSrsYKCPDfuKM6t3V4TQvITfWDdtUgUYY 4Z1YEchKxT7UfJE8bTgl+FFj37cVPw6s9MFnG4GBWfM9bdhFYNY/6Suw TQrAs2rvh0bKVVpbOoM5rg42s+5SENVMhN1+Mttg7gjFPSG7SOCAaVEy DMexqOgDAmK+QaLLNqCvZgTLrL9pq4GHNFtEbmjpMcMP/NKnjmWk4xrH XlxMTSDpQ10sCFQHwKdv4tJZt7J/x9F6A9mrbykgKko3wVOnsQIIQinN fK7w/7JQahQzA2qg3fYltWVyqD2D8gR4QZ5cD7tsMMBbioJ2hV1d6H57 i7Nc3g==
 mammashop.gl.		3600	IN	NS	ns1.simply.com.
 mammashop.gl.		3600	IN	NS	ns2.simply.com.
 mammashop.gl.		3600	IN	NS	ns3.simply.com.
 mammashop.gl.		3600	IN	NS	ns4.simply.com.
 mammashop.gl.		3600	IN	DS	10809 13 2 AFCC06BEBDD01A5871BF5A5469534971F784F814223A66A1D8EB88C6 D1D2488C
 mammashop.gl.		3600	IN	DS	10809 13 4 4EE0703ABD7B18F0AEBECD366C2C0C8E4843B2DC8DE94DC7EF8626CD 182E7E2A846A3FB219B8CB3AF4016FD5C81F693B
+mammashop.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. jKwFFDvBl8GGeHdvx+mEtn0jSrsYKCPDfuKM6t3V4TQvITfWDdtUgUYY 4Z1YEchKxT7UfJE8bTgl+FFj37cVPw6s9MFnG4GBWfM9bdhFYNY/6Suw TQrAs2rvh0bKVVpbOoM5rg42s+5SENVMhN1+Mttg7gjFPSG7SOCAaVEy DMexqOgDAmK+QaLLNqCvZgTLrL9pq4GHNFtEbmjpMcMP/NKnjmWk4xrH XlxMTSDpQ10sCFQHwKdv4tJZt7J/x9F6A9mrbykgKko3wVOnsQIIQinN fK7w/7JQahQzA2qg3fYltWVyqD2D8gR4QZ5cD7tsMMBbioJ2hV1d6H57 i7Nc3g==
 manbib.gl.		3600	IN	NS	a.hosting.gl.
 manbib.gl.		3600	IN	NS	b.hosting.gl.
 manbib.gl.		3600	IN	NS	c.hosting.gl.
@@ -11955,11 +11955,11 @@ martek.gl.		3600	IN	NS	c.hosting.gl.
 martek.gl.		3600	IN	NS	d.hosting.gl.
 martemeo.gl.		3600	IN	NS	ns.dandomain.dk.
 martemeo.gl.		3600	IN	NS	ns2.dandomain.dk.
+marti.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. hEGbT3woQgnzq711z+/uF41jviVLz0Eoqrs+9xqAz+9kMEYn9MgUPHR4 fVli0hx46VTF5+E3PCYOoMIKuUIfgnRVZqQjh+FPtGTtVbdKKR61yb0+ GOrjizw/nXhYGgWg326bfXTAdiXU0obtiP8RvOfe/jNoonf7uNVkuNSa bcFDX+qOiqCCDsrK0/GCpEZdmusEmCCnTmev7XIde2pSZWA7YJv9oTKl U4oFqZXyPtKhCDNNYxNRiC/ylezojteQ3f67V4b+Iu2hjT9gUtYupa5O M4ALVIdJAAXeeVrkMHLVXM6pVDUR+Z7e2DXE5FF1a13bH5cNneUdtOgL dq1i7A==
 marti.gl.		3600	IN	NS	ns.inwx.ch.
 marti.gl.		3600	IN	NS	ns2.inwx.ch.
 marti.gl.		3600	IN	NS	ns3.inwx.eu.
 marti.gl.		3600	IN	DS	39871 8 2 C944D89ADF5F9A53AA3DB95E22940EF529B2C0E23C628A2219F283E0 BF7A33C7
-marti.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. hEGbT3woQgnzq711z+/uF41jviVLz0Eoqrs+9xqAz+9kMEYn9MgUPHR4 fVli0hx46VTF5+E3PCYOoMIKuUIfgnRVZqQjh+FPtGTtVbdKKR61yb0+ GOrjizw/nXhYGgWg326bfXTAdiXU0obtiP8RvOfe/jNoonf7uNVkuNSa bcFDX+qOiqCCDsrK0/GCpEZdmusEmCCnTmev7XIde2pSZWA7YJv9oTKl U4oFqZXyPtKhCDNNYxNRiC/ylezojteQ3f67V4b+Iu2hjT9gUtYupa5O M4ALVIdJAAXeeVrkMHLVXM6pVDUR+Z7e2DXE5FF1a13bH5cNneUdtOgL dq1i7A==
 martin.gl.		3600	IN	NS	ns-134-b.gandi.net.
 martin.gl.		3600	IN	NS	ns-140-a.gandi.net.
 martin.gl.		3600	IN	NS	ns-210-c.gandi.net.
@@ -12663,12 +12663,12 @@ moneygram.gl.		3600	IN	NS	ns3.markmonitor.com.
 moneygram.gl.		3600	IN	NS	ns4.markmonitor.com.
 monicasneaker.gl.	3600	IN	NS	contact-us-at.edoms.biz.
 monicasneaker.gl.	3600	IN	NS	domain-may-be-for-sale-at.edoms.biz.
-monitor.gl.		3600	IN	NS	ns1.simply.com.
-monitor.gl.		3600	IN	NS	ns2.simply.com.
-monitor.gl.		3600	IN	NS	ns3.simply.com.
 monitor.gl.		3600	IN	DS	50690 13 2 815F9A9FFB0ABF2FC88F20B3890F3EA96CE53944643F4AA1BA901558 6A92FBC1
 monitor.gl.		3600	IN	DS	50690 13 4 8D6C195A93EEE505E7A8C18815D254F2C3C23D17D9F76B25F134610A 9092A32C840DC8A1CCCB104321D7820857AA98C1
 monitor.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. P2NknBWy3BjHWswlGuHLb6QnDdR2/Trard0gkSg3ORUnDUj6ZAfj5x30 cohOkdZGmA9gUxhaUENUIPL71Qu/cnKavl/1J82v4fmhBguTjU9kGjmj +BrIkTEgAjcuCN2Uw0nk5ktbeAQFmc88Zf2PVC/QmWZOR+81jzhq6HnF 7GfpXnmYtJIWduv2QtxjAOQ0ROfAXZvXHMibehtJMxouJ1UdNhmDt879 q0HJTjlkpMOe43+A+1vbiQTboEL/dcGrCsGlr61yvJxqQqC2kv3/ebN2 il7ICtwvtoYKStlD+PJ00hbHPV/cMnvOIm/daH6++wzjgz1fGDihP8+Y GfOwyw==
+monitor.gl.		3600	IN	NS	ns1.simply.com.
+monitor.gl.		3600	IN	NS	ns2.simply.com.
+monitor.gl.		3600	IN	NS	ns3.simply.com.
 monster.gl.		3600	IN	NS	ns1.tmpw.net.
 monster.gl.		3600	IN	NS	ns2.tmpw.net.
 montenegro.gl.		3600	IN	NS	ns1177.hexonet.net.
@@ -13030,13 +13030,13 @@ naleraqseasafari.gl.	3600	IN	NS	ns01.one.com.
 naleraqseasafari.gl.	3600	IN	NS	ns02.one.com.
 nali.gl.		3600	IN	NS	ns1.hosting.inuit.gl.
 nali.gl.		3600	IN	NS	ns2.hosting.inuit.gl.
-nalik.gl.		3600	IN	NS	ns1.modulo.gl.
-nalik.gl.		3600	IN	NS	ns2.modulo.gl.
-nalik.gl.		3600	IN	NS	ns3.modulo.gl.
 nalik.gl.		3600	IN	DS	56880 13 1 0815BEDEF50810741F71D27AF57AA65FDCFA1381
 nalik.gl.		3600	IN	DS	56880 13 2 B20B1E8B34C434DC404406F137D9562374853023C5369A7B1E5DDCC2 90A072DA
 nalik.gl.		3600	IN	DS	56880 13 4 76D21549AF13AE7EB6C85D120878DDEEDC9550A3AAA45604CF6A1098 541687CEE915299F1A61EDAC60178F91146FBFA9
 nalik.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. g1IB5LTW2S2LIFwZ1QtFo7SKYu881GJlMcB155ru+ySCu+lSH09eIAUD jjlW33/N/KTwFllCrOBHlDMoTtS3sB60A+zHxcVbE1QqNyk61g/P/Y91 trbqbyS3dnlVntyXS667VTygJ3e62Ix1m6Wa3IQXZpceLiTtoh9J7bHz kQrw98ZjKHdwWL/+pEfuqXCTo1fmdAirXATJ55TJlO/kcjPX+OGh5mdt KKmfY3JHK4OsWiqX9v1+QV1htFdrMzr0MXojto5aCTM6xGEK6NJJM7Qu 0tfH7LygGdQdsgmlHVMtIjoW3WjH7R30tOhyzZvFEnYA1fNiiiNsbR1W wa6yiw==
+nalik.gl.		3600	IN	NS	ns1.modulo.gl.
+nalik.gl.		3600	IN	NS	ns2.modulo.gl.
+nalik.gl.		3600	IN	NS	ns3.modulo.gl.
 nalikventures.gl.	3600	IN	NS	ns1.modulo.gl.
 nalikventures.gl.	3600	IN	NS	ns2.modulo.gl.
 nalikventures.gl.	3600	IN	NS	ns3.modulo.gl.
@@ -13314,12 +13314,12 @@ navarana.gl.		3600	IN	NS	a.hosting.gl.
 navarana.gl.		3600	IN	NS	b.hosting.gl.
 navarana.gl.		3600	IN	NS	c.hosting.gl.
 navarana.gl.		3600	IN	NS	d.hosting.gl.
+navi.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. YnrQhi4QXINF4fIbb1oH9+nYMS09IrIRiK9AB+iZKvtX2NgkVUEq8ikj ydlevEBeQA+50Ksoco+2fXbuwJOs7Pe86JFPGMfAK7iFHRSW99Ff6OE2 jFweASS08TUGu6lz+r7YDJwQkUuR0jDg/knAkjb8dUySWq4BOH/ln5sA x97E/dBPOUTUCY1WuZncoX88p8ACktNmfDR6jq7jINtIpBLyTcrY3jej 2qCHe66cES+6Ouj/khq6Vau4B5LCY86lTyI6q35TbC8TUBzzj+F7VOAO 5B5dKqIcCMDXOwmSs7I5TmCXtTMiQyxVSYCPEpPNELMlmWO24e5d+kfb +ChHKg==
 navi.gl.		3600	IN	NS	ns1.simply.com.
 navi.gl.		3600	IN	NS	ns2.simply.com.
 navi.gl.		3600	IN	NS	ns3.simply.com.
 navi.gl.		3600	IN	DS	65141 13 2 19551E9B03005B87D51CA954F46AE7ADB2A145B065A308801577783F EC2BCB47
 navi.gl.		3600	IN	DS	65141 13 4 368A4265F206EBB6A1B6E97819B3BBF83E61F821CA219EBDCCC854F8 697895EFA3D606D1722D8DA97962761460839DB6
-navi.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. YnrQhi4QXINF4fIbb1oH9+nYMS09IrIRiK9AB+iZKvtX2NgkVUEq8ikj ydlevEBeQA+50Ksoco+2fXbuwJOs7Pe86JFPGMfAK7iFHRSW99Ff6OE2 jFweASS08TUGu6lz+r7YDJwQkUuR0jDg/knAkjb8dUySWq4BOH/ln5sA x97E/dBPOUTUCY1WuZncoX88p8ACktNmfDR6jq7jINtIpBLyTcrY3jej 2qCHe66cES+6Ouj/khq6Vau4B5LCY86lTyI6q35TbC8TUBzzj+F7VOAO 5B5dKqIcCMDXOwmSs7I5TmCXtTMiQyxVSYCPEpPNELMlmWO24e5d+kfb +ChHKg==
 naviair.gl.		3600	IN	NS	ns1-04.azure-dns.com.
 naviair.gl.		3600	IN	NS	ns2-04.azure-dns.net.
 naviair.gl.		3600	IN	NS	ns3-04.azure-dns.org.
@@ -13369,12 +13369,12 @@ ndo.gl.			3600	IN	NS	ns01.one.com.
 ndo.gl.			3600	IN	NS	ns02.one.com.
 ndosupply.gl.		3600	IN	NS	ns01.one.com.
 ndosupply.gl.		3600	IN	NS	ns02.one.com.
-ne.gl.			3600	IN	DS	46270 13 2 AB432BEE94997C38FF1A651D793CD4C6B82A7E2448857FDB53154005 7F9305A2
-ne.gl.			3600	IN	DS	46270 13 4 8D2277915E2858A7C23ABC6E097FA6F68537A8352711A8833AFDF595 C7EE46DBE191CC809CDAAF967CB5686BF9BBCCBE
-ne.gl.			3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. b/JyT8azzrwuCMICnrS0+SO/FdxZwHulpPOGKYEJh1QgBNQQbk28uO9g TSYvPxd6uqjo8GMlw23e9rOZe5NTxs/j0EfUUU7sSE+J0KcmqAPa/WU+ 4KAU9F3n06mWY4+JbRZ/rc6QGBzKW/Dh5aDxQnh2irQf55j5RXJjgwth 9f9c8IgUapbZZNF8Wp7Vh/tmvXLGakkpdzGLITOArLy09smsbnyLt+j7 Uhbb5fm8GH7z5qK0MRFXlj5rCQ6VL6X00T1dU4dgzypx+4UYGz83mmhj 49Yo8XuTzciUFcdwkkGiVjT78Ypvt9R4d81egT4Q4OQvsy09gRgdKMTR 7n1jCQ==
 ne.gl.			3600	IN	NS	ns1.hyp.net.
 ne.gl.			3600	IN	NS	ns2.hyp.net.
 ne.gl.			3600	IN	NS	ns3.hyp.net.
+ne.gl.			3600	IN	DS	46270 13 2 AB432BEE94997C38FF1A651D793CD4C6B82A7E2448857FDB53154005 7F9305A2
+ne.gl.			3600	IN	DS	46270 13 4 8D2277915E2858A7C23ABC6E097FA6F68537A8352711A8833AFDF595 C7EE46DBE191CC809CDAAF967CB5686BF9BBCCBE
+ne.gl.			3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. b/JyT8azzrwuCMICnrS0+SO/FdxZwHulpPOGKYEJh1QgBNQQbk28uO9g TSYvPxd6uqjo8GMlw23e9rOZe5NTxs/j0EfUUU7sSE+J0KcmqAPa/WU+ 4KAU9F3n06mWY4+JbRZ/rc6QGBzKW/Dh5aDxQnh2irQf55j5RXJjgwth 9f9c8IgUapbZZNF8Wp7Vh/tmvXLGakkpdzGLITOArLy09smsbnyLt+j7 Uhbb5fm8GH7z5qK0MRFXlj5rCQ6VL6X00T1dU4dgzypx+4UYGz83mmhj 49Yo8XuTzciUFcdwkkGiVjT78Ypvt9R4d81egT4Q4OQvsy09gRgdKMTR 7n1jCQ==
 neas.gl.		3600	IN	NS	ns1.netim.net.
 neas.gl.		3600	IN	NS	ns2.netim.net.
 neas.gl.		3600	IN	NS	ns3.netim.net.
@@ -13619,13 +13619,13 @@ niki.gl.		3600	IN	NS	ns4.au.dk.
 niki.gl.		3600	IN	NS	ns5.au.dk.
 nikon.gl.		3600	IN	NS	ns1.webhosting.jp.
 nikon.gl.		3600	IN	NS	ns3.webhosting.jp.
+nilak.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. QqsHmG7mOk5/eQkNnNxnN7e1t454zgY2Bw8Wg7f7sinmpYCveBUiTtnm VNKJ4vU1oeISXvBet1eXt1aDR8wbLve34LgmitEQ7fDpM45guh/fuF/F ZhyPHgq33AyQR3Fh3bUZvLYJbDZcuVGr1Pa08i9fc0WCrM5RYb8wWmid zca0FHN8QScb8BQ6+/mGJPNqR+t1yJjnOWdMTk/qkMmRiXxpO27CY65u 1GHe8+93DBDtNx+ymZxOK9jeFgSG8XS2wWrj4ORg/iZ27ebzoDLlpJup B42eVQyCorjdkV0dT6NUc5hYGuFM6JVSDKke7ULSFZ+gXemq6l4DK0yI b/0+Bg==
 nilak.gl.		3600	IN	NS	ns1.simply.com.
 nilak.gl.		3600	IN	NS	ns2.simply.com.
 nilak.gl.		3600	IN	NS	ns3.simply.com.
 nilak.gl.		3600	IN	NS	ns4.simply.com.
 nilak.gl.		3600	IN	DS	44353 13 2 6C50B362BF10B286FEA38FFD2E96027180DDF55BFBFDE38B27285E3B 17E3D81C
 nilak.gl.		3600	IN	DS	44353 13 4 214ACF1661C6B7AD00B398DABCD13E5F8EFA2AB90CA71D7BECB144BA 7913E11E9A37702A6E005597C1A1ED3A69C9F9DD
-nilak.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. QqsHmG7mOk5/eQkNnNxnN7e1t454zgY2Bw8Wg7f7sinmpYCveBUiTtnm VNKJ4vU1oeISXvBet1eXt1aDR8wbLve34LgmitEQ7fDpM45guh/fuF/F ZhyPHgq33AyQR3Fh3bUZvLYJbDZcuVGr1Pa08i9fc0WCrM5RYb8wWmid zca0FHN8QScb8BQ6+/mGJPNqR+t1yJjnOWdMTk/qkMmRiXxpO27CY65u 1GHe8+93DBDtNx+ymZxOK9jeFgSG8XS2wWrj4ORg/iZ27ebzoDLlpJup B42eVQyCorjdkV0dT6NUc5hYGuFM6JVSDKke7ULSFZ+gXemq6l4DK0yI b/0+Bg==
 nilo-beauty.gl.		3600	IN	NS	ns1.linode.com.
 nilo-beauty.gl.		3600	IN	NS	ns2.linode.com.
 nilo-beauty.gl.		3600	IN	NS	ns3.linode.com.
@@ -13675,10 +13675,10 @@ nioservice.gl.		3600	IN	NS	ns03.trademarkarea.com.
 niospace.gl.		3600	IN	NS	ns01.trademarkarea.com.
 niospace.gl.		3600	IN	NS	ns02.trademarkarea.com.
 niospace.gl.		3600	IN	NS	ns03.trademarkarea.com.
+nip.gl.			3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. RBdPaM0mFNIAs5n+KlCFxdnAWhID8sy4RuXYsZBMsstRtrNQN2fQYLw8 dMfzPna273yc2tDhDa69jwWghpmRiHMuWQjTplYZfPcP1JdpdlM0CHWy o/nzTTEUCpvS/NXITYkCweM94H6Lb+DpKUAySilEpnzcZlgj+y8p4gax axfeEwkLtSaF+iCBnIM9yf+yDhPhsIOUviahzJ8eLP7VpiwAHbNeA86W 7rxO8Gg/OuSnesaUKD1w3BHZfQ3PR3ewW7ZLXTr4n6dBQ95hP2SeaiY/ CfZGNR8iyqt6ZI1DU7UVp6JktWnO+1UELDYY+d09hhnXab6t7GgBfiaj OH2iJQ==
 nip.gl.			3600	IN	NS	major.ns.cloudflare.com.
 nip.gl.			3600	IN	NS	tricia.ns.cloudflare.com.
 nip.gl.			3600	IN	DS	2371 13 2 7DC0A534AFBAE96991F25325D3F92CEE8048E7659A6B5DF2C3257DDA 4B77AD95
-nip.gl.			3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. RBdPaM0mFNIAs5n+KlCFxdnAWhID8sy4RuXYsZBMsstRtrNQN2fQYLw8 dMfzPna273yc2tDhDa69jwWghpmRiHMuWQjTplYZfPcP1JdpdlM0CHWy o/nzTTEUCpvS/NXITYkCweM94H6Lb+DpKUAySilEpnzcZlgj+y8p4gax axfeEwkLtSaF+iCBnIM9yf+yDhPhsIOUviahzJ8eLP7VpiwAHbNeA86W 7rxO8Gg/OuSnesaUKD1w3BHZfQ3PR3ewW7ZLXTr4n6dBQ95hP2SeaiY/ CfZGNR8iyqt6ZI1DU7UVp6JktWnO+1UELDYY+d09hhnXab6t7GgBfiaj OH2iJQ==
 nipaa.gl.		3600	IN	NS	ns01.one.com.
 nipaa.gl.		3600	IN	NS	ns02.one.com.
 nipaa.gl.		3600	IN	NS	helium.ns.hetzner.de.
@@ -13763,13 +13763,13 @@ niuffa.gl.		3600	IN	NS	ns1.curanet.dk.
 niuffa.gl.		3600	IN	NS	ns2.curanet.dk.
 nivi.gl.		3600	IN	NS	ns1.hosting.inuit.gl.
 nivi.gl.		3600	IN	NS	ns2.hosting.inuit.gl.
+niviarsiaq.gl.		3600	IN	DS	37155 13 2 921250C519C6A6880743E82C80B88F1B5EE228CA3900E2226E197B3F 97D5BCDA
+niviarsiaq.gl.		3600	IN	DS	37155 13 4 FDC48620D57C301CF44CD5024998CD1300713C6EDFC7E0102AA8C812 5D5248FF0372CE14D203AA4D107ADFBB4EE6F4AF
+niviarsiaq.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. Oty6+xc2sTOozFg9UkSy2Tfb9dwwgXItnVZpDNYoHVl+AuifYQXCzgev Qw59bO+YsXIxG6lliUplKzFLjUiN4G9q4EYShklBN/DrpztbhAHCtDVF Kma78UPqfcYpk381ptBvwCrlcy+Qi4Vl8BNRt2vHcg1l1nl6Fz9YSNuJ VTuDX+2t2xPwcXRviwKLegEf5qDIVPEmOUS+nlgqjNT8rJoYLvTGVHfr T1hxHuMT08tJ8JherVv7SBOOkOCe7re4OCntd7bWPPwruf/zKljAqekL 4gdD2YEGxB97PE1yvkY/LyHTt3ORYtjdSVoIY41WB43iqHS4YC2dTfMe kli6zQ==
 niviarsiaq.gl.		3600	IN	NS	ns1.simply.com.
 niviarsiaq.gl.		3600	IN	NS	ns2.simply.com.
 niviarsiaq.gl.		3600	IN	NS	ns3.simply.com.
 niviarsiaq.gl.		3600	IN	NS	ns4.simply.com.
-niviarsiaq.gl.		3600	IN	DS	37155 13 2 921250C519C6A6880743E82C80B88F1B5EE228CA3900E2226E197B3F 97D5BCDA
-niviarsiaq.gl.		3600	IN	DS	37155 13 4 FDC48620D57C301CF44CD5024998CD1300713C6EDFC7E0102AA8C812 5D5248FF0372CE14D203AA4D107ADFBB4EE6F4AF
-niviarsiaq.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. Oty6+xc2sTOozFg9UkSy2Tfb9dwwgXItnVZpDNYoHVl+AuifYQXCzgev Qw59bO+YsXIxG6lliUplKzFLjUiN4G9q4EYShklBN/DrpztbhAHCtDVF Kma78UPqfcYpk381ptBvwCrlcy+Qi4Vl8BNRt2vHcg1l1nl6Fz9YSNuJ VTuDX+2t2xPwcXRviwKLegEf5qDIVPEmOUS+nlgqjNT8rJoYLvTGVHfr T1hxHuMT08tJ8JherVv7SBOOkOCe7re4OCntd7bWPPwruf/zKljAqekL 4gdD2YEGxB97PE1yvkY/LyHTt3ORYtjdSVoIY41WB43iqHS4YC2dTfMe kli6zQ==
 nix.gl.			3600	IN	NS	ns1.modulo.gl.
 nix.gl.			3600	IN	NS	ns2.modulo.gl.
 nix.gl.			3600	IN	NS	ns3.modulo.gl.
@@ -13873,12 +13873,12 @@ nomadgreenland.gl.	3600	IN	NS	a.hosting.gl.
 nomadgreenland.gl.	3600	IN	NS	b.hosting.gl.
 nomadgreenland.gl.	3600	IN	NS	c.hosting.gl.
 nomadgreenland.gl.	3600	IN	NS	d.hosting.gl.
-norbit.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. JmdojFI4hHIlFvQ+tU9DO36q0fOGLl+CJOatkpzTEDWHHHOwTzbqL2Mn Zo5qhDp84uSJcO6NnUrqQ7qNUQe4QYCHG8hvv2nOaC4vlCD8xZnQ+5iq aogITii79mTPIk4+oUNFtp9M+Rrfnd4vbp7Q3Or42ZLhDFtm12APk0bc a/8W5sAKOEretWjGBK+dx2GC6vbJlon0UnhseHnTFekCYakdxRkV2/U8 uispPrP9z2ghPMFak/Au6/BElRdLjBzh9ZzKgojWAhkXJzU9FjdoRRuu jT/fDph021AdSPWefX7nKl2uFwbQ1qcqeCmRmSU91VUrSrotkKIHsLbn 6qFXAw==
 norbit.gl.		3600	IN	NS	ns1.hyp.net.
 norbit.gl.		3600	IN	NS	ns2.hyp.net.
 norbit.gl.		3600	IN	NS	ns3.hyp.net.
 norbit.gl.		3600	IN	DS	57985 13 2 ABCBB14A547A196D135DF3D9C89F9CAA3C0E1C11DE9B688BED10FA1F 401A4152
 norbit.gl.		3600	IN	DS	57985 13 4 BF2B7F3233B0743D9D5340F615DB7E8CD48AA3C0529C194B82D4D9C4 CA48E6B8390A7C7E93A783E33F53F1F8DD36CDC7
+norbit.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. JmdojFI4hHIlFvQ+tU9DO36q0fOGLl+CJOatkpzTEDWHHHOwTzbqL2Mn Zo5qhDp84uSJcO6NnUrqQ7qNUQe4QYCHG8hvv2nOaC4vlCD8xZnQ+5iq aogITii79mTPIk4+oUNFtp9M+Rrfnd4vbp7Q3Or42ZLhDFtm12APk0bc a/8W5sAKOEretWjGBK+dx2GC6vbJlon0UnhseHnTFekCYakdxRkV2/U8 uispPrP9z2ghPMFak/Au6/BElRdLjBzh9ZzKgojWAhkXJzU9FjdoRRuu jT/fDph021AdSPWefX7nKl2uFwbQ1qcqeCmRmSU91VUrSrotkKIHsLbn 6qFXAw==
 nordan.gl.		3600	IN	NS	ns1.hyp.net.
 nordan.gl.		3600	IN	NS	ns2.hyp.net.
 nordan.gl.		3600	IN	NS	ns3.hyp.net.
@@ -14172,12 +14172,12 @@ nunahosting.gl.		3600	IN	NS	ns4.nunahosting.net.
 nunajob.gl.		3600	IN	NS	ns1.modulo.gl.
 nunajob.gl.		3600	IN	NS	ns2.modulo.gl.
 nunajob.gl.		3600	IN	NS	ns3.modulo.gl.
+nunalaw.gl.		3600	IN	DS	28736 13 2 029992840DEDED0F546AFE55AE9CD5B33F4A3C03F7E5A78631CEA771 650D6197
+nunalaw.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. heT+EIObEdkZpK7kr24Dbckr6IzlcCC67lgAhaQjEJGY3FXv8MvVGHWH LmhkWFfn7r1Lrzou7O7qQhxP1YkOJqsaN9GU5Ju4kRn5bP1K0RAfMXaf /XS9bnMH6WoSUNU6kbklgz8Nm62tmztxwfYz80ggut2UT8TygV1oSAd6 yVju1MRdd60ixfC4ueAwoyhSxqik1q0vuDMFhaUcThGN7HjnuW++lqoS ccY+nFtMgAZ65OZ899jOogP3G2vdqZebxXG55XrnRecV19r465v/7Pvq YRPZvDtzpOg/EohShoLMhCIQytuY50vWmvmXUSMolZF/4kebddxa7kme eKmdkA==
 nunalaw.gl.		3600	IN	NS	a.hosting.gl.
 nunalaw.gl.		3600	IN	NS	b.hosting.gl.
 nunalaw.gl.		3600	IN	NS	c.hosting.gl.
 nunalaw.gl.		3600	IN	NS	d.hosting.gl.
-nunalaw.gl.		3600	IN	DS	28736 13 2 029992840DEDED0F546AFE55AE9CD5B33F4A3C03F7E5A78631CEA771 650D6197
-nunalaw.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. heT+EIObEdkZpK7kr24Dbckr6IzlcCC67lgAhaQjEJGY3FXv8MvVGHWH LmhkWFfn7r1Lrzou7O7qQhxP1YkOJqsaN9GU5Ju4kRn5bP1K0RAfMXaf /XS9bnMH6WoSUNU6kbklgz8Nm62tmztxwfYz80ggut2UT8TygV1oSAd6 yVju1MRdd60ixfC4ueAwoyhSxqik1q0vuDMFhaUcThGN7HjnuW++lqoS ccY+nFtMgAZ65OZ899jOogP3G2vdqZebxXG55XrnRecV19r465v/7Pvq YRPZvDtzpOg/EohShoLMhCIQytuY50vWmvmXUSMolZF/4kebddxa7kme eKmdkA==
 nunalerineq.gl.		3600	IN	NS	ns1.simply.com.
 nunalerineq.gl.		3600	IN	NS	ns2.simply.com.
 nunalerineq.gl.		3600	IN	NS	ns3.simply.com.
@@ -14279,13 +14279,13 @@ nuuk-tourism.gl.	3600	IN	NS	ns3.regery.net.
 nuuk-ugeavis.gl.	3600	IN	NS	ns1.modulo.gl.
 nuuk-ugeavis.gl.	3600	IN	NS	ns2.modulo.gl.
 nuuk-ugeavis.gl.	3600	IN	NS	ns3.modulo.gl.
-nuukairport.gl.		3600	IN	DS	58578 13 2 BABDB966CA53AA254FBCB6265DDF725D49538A78BCED227E5B626879 5A6D4A11
-nuukairport.gl.		3600	IN	DS	58578 13 4 77631BD7F89A8424F22E962AF47289505F791548A1956864A095FA44 AEA6AFEE6A47C0ACBA98EA9EA280905DFBD12619
-nuukairport.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. IIg/ioXyHyI12JSvr+n0chxyFwofuQPnQgi6Zf+vTl1fQwM6L9UIVSfv UiSho1Cp/8sD4a4RPSOR8Laich9cwTsKMOQp6M1YZwmW45m8MzMTxOF0 3bBVrkpmESy3HEjRs5hImxystpglb8lcfIGlGnadTOc+SKo3LhCjlpzF 75hZ27hwNrC28/S3E8lvfFSPh3yhe+tk0grHtTTF3+VsTvtL1trfS9cy lxO4+1QQm1ELjvEwIozlJavJyq/wXM4yh5jUbl0Qprtv9FPeCygLnXuG Y2jZS0gd/uvzJlr+jvvLlQj0YElqOJ9kpnz9ck/PzdNj784n1ExS3OA7 2RqyCg==
 nuukairport.gl.		3600	IN	NS	ns1.simply.com.
 nuukairport.gl.		3600	IN	NS	ns2.simply.com.
 nuukairport.gl.		3600	IN	NS	ns3.simply.com.
 nuukairport.gl.		3600	IN	NS	ns4.simply.com.
+nuukairport.gl.		3600	IN	DS	58578 13 2 BABDB966CA53AA254FBCB6265DDF725D49538A78BCED227E5B626879 5A6D4A11
+nuukairport.gl.		3600	IN	DS	58578 13 4 77631BD7F89A8424F22E962AF47289505F791548A1956864A095FA44 AEA6AFEE6A47C0ACBA98EA9EA280905DFBD12619
+nuukairport.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. IIg/ioXyHyI12JSvr+n0chxyFwofuQPnQgi6Zf+vTl1fQwM6L9UIVSfv UiSho1Cp/8sD4a4RPSOR8Laich9cwTsKMOQp6M1YZwmW45m8MzMTxOF0 3bBVrkpmESy3HEjRs5hImxystpglb8lcfIGlGnadTOc+SKo3LhCjlpzF 75hZ27hwNrC28/S3E8lvfFSPh3yhe+tk0grHtTTF3+VsTvtL1trfS9cy lxO4+1QQm1ELjvEwIozlJavJyq/wXM4yh5jUbl0Qprtv9FPeCygLnXuG Y2jZS0gd/uvzJlr+jvvLlQj0YElqOJ9kpnz9ck/PzdNj784n1ExS3OA7 2RqyCg==
 nuukairportshuttle.gl.	3600	IN	NS	ns1.simply.com.
 nuukairportshuttle.gl.	3600	IN	NS	ns2.simply.com.
 nuukairportshuttle.gl.	3600	IN	NS	ns3.simply.com.
@@ -14378,13 +14378,13 @@ nuuklaase.gl.		3600	IN	NS	c.hosting.gl.
 nuuklaase.gl.		3600	IN	NS	d.hosting.gl.
 nuuklejligheder.gl.	3600	IN	NS	ns1.curanet.dk.
 nuuklejligheder.gl.	3600	IN	NS	ns2.curanet.dk.
-nuuklodge.gl.		3600	IN	DS	62609 13 2 D705B6CCD10CCA9B644E859FD84FCB349510A600C96D5ABC119A067F AFF36BA9
-nuuklodge.gl.		3600	IN	DS	62609 13 4 D111B753CBABEC0621C5FA666B4CB0E248A9431838FCA079C5AFD42A EFBA7A13B4A928D8DEDE335468BC8A3AFA0ACAA6
 nuuklodge.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. MQuiwVZCzlhIfASig6krv4B+qLaFK4ckFplARMqGF9e6vCGrtZKj4pT7 UL5x78EivC3108FkahI19LfP55Aw9OShJ5T8yumJ7n0WIupz7UewvZRg 2ypUpH5xt+MSqE0cuR+7ua+rL8nzIX2+Eo5KxFDx/ZFMZX7Q+2F1HKhX 4QRfxGNNDqo9ZT5EtOldFSWLD6ZmI22lMYFZhu1FYTHxw6iIJdaUbvRY U1K8g8Nta2fM+VipiOyLs9kZ9gy4TJsonxKdDEvpKG051Y1uvZkbvHK9 1ueHieUiJBWckfdLdkahNC4K5OR7a5OBcdKUTk84dVeLHDELrVxt+2Yd lfbd9Q==
 nuuklodge.gl.		3600	IN	NS	ns1.simply.com.
 nuuklodge.gl.		3600	IN	NS	ns2.simply.com.
 nuuklodge.gl.		3600	IN	NS	ns3.simply.com.
 nuuklodge.gl.		3600	IN	NS	ns4.simply.com.
+nuuklodge.gl.		3600	IN	DS	62609 13 2 D705B6CCD10CCA9B644E859FD84FCB349510A600C96D5ABC119A067F AFF36BA9
+nuuklodge.gl.		3600	IN	DS	62609 13 4 D111B753CBABEC0621C5FA666B4CB0E248A9431838FCA079C5AFD42A EFBA7A13B4A928D8DEDE335468BC8A3AFA0ACAA6
 nuuklokalreklame.gl.	3600	IN	NS	ns1.modulo.gl.
 nuuklokalreklame.gl.	3600	IN	NS	ns2.modulo.gl.
 nuuklokalreklame.gl.	3600	IN	NS	ns3.modulo.gl.
@@ -15130,12 +15130,12 @@ online-shop.gl.		3600	IN	NS	ns2.gransy.com.
 online-shop.gl.		3600	IN	NS	ns3.gransy.com.
 online-shop.gl.		3600	IN	NS	ns4.gransy.com.
 online-shop.gl.		3600	IN	NS	ns5.gransy.com.
+onlinecasinos.gl.	3600	IN	DS	51532 8 2 A06BCD18D78772EB2463E55E4A200DBB9C1DBB57BB2D1E5E5C164B82 154EE15F
+onlinecasinos.gl.	3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. ApO0ACPNUH7moOE6q8AAwBkRfS91kJxPD+oFLLrTx2E07whv/YOmYQbI bNvlnlSUGT3OTrf6WBEDJOxZxZHT7qJjj9qE752UnoUueAbo4P1J6bnh 4ouRbSr/If0a2QqPWO1ttL7LSp8pBDXpZlZJHynvvB28qKDn1FIG2RHp peqcZFyp0CJY3Ingg3OR/kPqnDEjrUHWhlSe6Tqj5ZWosgozrtBrHt1T hMc7jsOsLne5YlU26L7ocg2AjO9XILMSYdVvPxOINqLrUCl2NADuXoQI pmxqSzVnTqRxolpmerX/++eTMRwSIAAg1fBn6CSepkpvzqdrsASt7Pgn EYtSUw==
 onlinecasinos.gl.	3600	IN	NS	ns1.bb-online.net.
 onlinecasinos.gl.	3600	IN	NS	ns2.bb-online.org.
 onlinecasinos.gl.	3600	IN	NS	ns3.bb-online.info.
 onlinecasinos.gl.	3600	IN	NS	ns4.bb-online.biz.
-onlinecasinos.gl.	3600	IN	DS	51532 8 2 A06BCD18D78772EB2463E55E4A200DBB9C1DBB57BB2D1E5E5C164B82 154EE15F
-onlinecasinos.gl.	3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. ApO0ACPNUH7moOE6q8AAwBkRfS91kJxPD+oFLLrTx2E07whv/YOmYQbI bNvlnlSUGT3OTrf6WBEDJOxZxZHT7qJjj9qE752UnoUueAbo4P1J6bnh 4ouRbSr/If0a2QqPWO1ttL7LSp8pBDXpZlZJHynvvB28qKDn1FIG2RHp peqcZFyp0CJY3Ingg3OR/kPqnDEjrUHWhlSe6Tqj5ZWosgozrtBrHt1T hMc7jsOsLne5YlU26L7ocg2AjO9XILMSYdVvPxOINqLrUCl2NADuXoQI pmxqSzVnTqRxolpmerX/++eTMRwSIAAg1fBn6CSepkpvzqdrsASt7Pgn EYtSUw==
 onlineshop.gl.		3600	IN	NS	ns.gransy.com.
 onlineshop.gl.		3600	IN	NS	ns2.gransy.com.
 onlineshop.gl.		3600	IN	NS	ns3.gransy.com.
@@ -15289,20 +15289,20 @@ orsiivik.gl.		3600	IN	NS	c.hosting.gl.
 orsiivik.gl.		3600	IN	NS	d.hosting.gl.
 orsted.gl.		3600	IN	NS	udns1.cscdns.net.
 orsted.gl.		3600	IN	NS	udns2.cscdns.uk.
-os.gl.			3600	IN	DS	13091 13 2 43B0B289E6ECA3148176C05B93A9721017FBBDECEF2F133C584A572C DCBFBECC
-os.gl.			3600	IN	DS	13091 13 4 4F9CA9D6CF11E285EAEDB0A6414C592B467EE2531E8879AFDAD0178C 2E15EB2F8FBDDB7F18D41B4CEAF9402574801ED9
-os.gl.			3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. X15esVsdpwzYbrKu0uQN9kJSXS/1b80pvP41VwNi3IqWW59XDamkja57 WXhExRuALwdVUB9JY2LiFl6JZNWqoi9ZQv5L31YaqdKtuJbx8k5lhpMA 2ZvaGFtnnsnfSXQo7t/YvNpPlUK/g7+1i+unyedXT85ZV9VJKfD7q7jl NxKCtdZN9NI3TuLPASgp6rEgvrLktH6Btl3ZOuyRJNSwEH4ppShbF90Z 0x99P+PH1Nl9pBkKOzm4mXDzDA8KwfGmeI99RIRdm9xmcJUuu0vjToZZ wngr/+l/kTZd7uM7BPTDOtDg9iU454LJoJKvsbh8zcRGoNd2YurbfrnH G52hHQ==
 os.gl.			3600	IN	NS	ns1.simply.com.
 os.gl.			3600	IN	NS	ns2.simply.com.
 os.gl.			3600	IN	NS	ns3.simply.com.
 os.gl.			3600	IN	NS	ns4.simply.com.
-os-electronic.gl.	3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. AnaLOr2Maz9mFOq8fy3g/CMbULN60ajoKhXE37YOmWec0D90DynM+8r3 CRlYH+66y1zlk6GVLB+uv/B7jMUANci9c6VKzRYPAA+dMXq/iYTwRcug qCAFTVykSZKw9gJvrq25YNkIK3KCb5/c2ymhz/++HbrBJRI05czGWlDu PceymSoMTn9N/yOaOYgtrvzyEl5cOiACpm3ykmfYcdx3zkbL90+MTFTv 3mk1Zevg+nRS+kASLcVv2az13PGM/lf9T0f6/cysr+7B5FWq6VDTk9at 11ZkccjDLxQM9F6jp86Cj7oum1R+Om5pyfKcu3uk7mtWKPka7UbwidkL AY5+1w==
+os.gl.			3600	IN	DS	13091 13 2 43B0B289E6ECA3148176C05B93A9721017FBBDECEF2F133C584A572C DCBFBECC
+os.gl.			3600	IN	DS	13091 13 4 4F9CA9D6CF11E285EAEDB0A6414C592B467EE2531E8879AFDAD0178C 2E15EB2F8FBDDB7F18D41B4CEAF9402574801ED9
+os.gl.			3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. X15esVsdpwzYbrKu0uQN9kJSXS/1b80pvP41VwNi3IqWW59XDamkja57 WXhExRuALwdVUB9JY2LiFl6JZNWqoi9ZQv5L31YaqdKtuJbx8k5lhpMA 2ZvaGFtnnsnfSXQo7t/YvNpPlUK/g7+1i+unyedXT85ZV9VJKfD7q7jl NxKCtdZN9NI3TuLPASgp6rEgvrLktH6Btl3ZOuyRJNSwEH4ppShbF90Z 0x99P+PH1Nl9pBkKOzm4mXDzDA8KwfGmeI99RIRdm9xmcJUuu0vjToZZ wngr/+l/kTZd7uM7BPTDOtDg9iU454LJoJKvsbh8zcRGoNd2YurbfrnH G52hHQ==
 os-electronic.gl.	3600	IN	NS	ns1.simply.com.
 os-electronic.gl.	3600	IN	NS	ns2.simply.com.
 os-electronic.gl.	3600	IN	NS	ns3.simply.com.
 os-electronic.gl.	3600	IN	NS	ns4.simply.com.
 os-electronic.gl.	3600	IN	DS	19784 13 2 D960ED585ACC118A3504EA085CFFFBA0868DB9B9B0386BC03BEC3B98 AFD9B3D1
 os-electronic.gl.	3600	IN	DS	19784 13 4 02DB93AB0A4A8F9ADE17749DA5CA12D45DAC75438AECD49824DBEB0F 51CF89B64F22CDA9BFE086FA9B21A210454AC77D
+os-electronic.gl.	3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. AnaLOr2Maz9mFOq8fy3g/CMbULN60ajoKhXE37YOmWec0D90DynM+8r3 CRlYH+66y1zlk6GVLB+uv/B7jMUANci9c6VKzRYPAA+dMXq/iYTwRcug qCAFTVykSZKw9gJvrq25YNkIK3KCb5/c2ymhz/++HbrBJRI05czGWlDu PceymSoMTn9N/yOaOYgtrvzyEl5cOiACpm3ykmfYcdx3zkbL90+MTFTv 3mk1Zevg+nRS+kASLcVv2az13PGM/lf9T0f6/cysr+7B5FWq6VDTk9at 11ZkccjDLxQM9F6jp86Cj7oum1R+Om5pyfKcu3uk7mtWKPka7UbwidkL AY5+1w==
 osteopathie.gl.		3600	IN	NS	ns1.nets.ch.
 osteopathie.gl.		3600	IN	NS	ns2.nets.ch.
 osteopathie.gl.		3600	IN	NS	ns3.nets.ch.
@@ -15632,13 +15632,13 @@ peqqik.gl.		3600	IN	NS	mxns.peqqik.gl.
 mxns.peqqik.gl.		3600	IN	A	194.177.239.142
 permagreen.gl.		3600	IN	NS	ns1.hosting.inuit.gl.
 permagreen.gl.		3600	IN	NS	ns2.hosting.inuit.gl.
+persondata.gl.		3600	IN	DS	47787 13 2 0DE54CBD8F01B7A26833F06238DDFC13B5556286E9D91A181B98DFCA 888CF219
+persondata.gl.		3600	IN	DS	47787 13 4 1346CBE6C676A4DA50035E44F06E7156F7BA175A7BDDA37038EB4C0F 6BB67C056132686606297A5DA7CBC5A41D7444A4
+persondata.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. ImCKTystGhJ8RRybkdPBInJdWzTcGitpVicKHnG/MmwGeTN1dHc4VVg3 DXOeBFIBzPjR8DWGYBf5KnorJRJEZXWEqYwK+Jn/J4qTF53kcnmy+Xtg P6LIgAnazTDK3VI9tDgjc5jAfxcIFI1RsrBXlc6ZSncAWHqvREZljjWg 37JpS3abW5N3PWW+tZuv9c31d+pqnBXr5336PTJfX1nmQ+B06BLpWs/o +9XgbF3ILrqX1ZrTNWKVyDiqI2PStQTZLBXU+KLBz167MIiLaW8G5+xK 9wAuS/bRAeIxNZC6Cgtbsk1IoaKRg3m7itMQr5gE1hjWJCTOA5NPWT3q r4QkOQ==
 persondata.gl.		3600	IN	NS	ns1.simply.com.
 persondata.gl.		3600	IN	NS	ns2.simply.com.
 persondata.gl.		3600	IN	NS	ns3.simply.com.
 persondata.gl.		3600	IN	NS	ns4.simply.com.
-persondata.gl.		3600	IN	DS	47787 13 2 0DE54CBD8F01B7A26833F06238DDFC13B5556286E9D91A181B98DFCA 888CF219
-persondata.gl.		3600	IN	DS	47787 13 4 1346CBE6C676A4DA50035E44F06E7156F7BA175A7BDDA37038EB4C0F 6BB67C056132686606297A5DA7CBC5A41D7444A4
-persondata.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. ImCKTystGhJ8RRybkdPBInJdWzTcGitpVicKHnG/MmwGeTN1dHc4VVg3 DXOeBFIBzPjR8DWGYBf5KnorJRJEZXWEqYwK+Jn/J4qTF53kcnmy+Xtg P6LIgAnazTDK3VI9tDgjc5jAfxcIFI1RsrBXlc6ZSncAWHqvREZljjWg 37JpS3abW5N3PWW+tZuv9c31d+pqnBXr5336PTJfX1nmQ+B06BLpWs/o +9XgbF3ILrqX1ZrTNWKVyDiqI2PStQTZLBXU+KLBz167MIiLaW8G5+xK 9wAuS/bRAeIxNZC6Cgtbsk1IoaKRg3m7itMQr5gE1hjWJCTOA5NPWT3q r4QkOQ==
 pet.gl.			3600	IN	NS	a.hosting.gl.
 pet.gl.			3600	IN	NS	b.hosting.gl.
 pet.gl.			3600	IN	NS	c.hosting.gl.
@@ -17025,13 +17025,13 @@ rhk.gl.			3600	IN	NS	ns4.gigahost.dk.
 rhyner.gl.		3600	IN	NS	ns.hostpoint.ch.
 rhyner.gl.		3600	IN	NS	ns2.hostpoint.ch.
 rhyner.gl.		3600	IN	NS	ns3.hostpoint.ch.
-ri.gl.			3600	IN	DS	56308 13 2 532A917DA5A8D858AF5DA57D2A77B696811AFA07C276B8455D701D8E 5914999B
-ri.gl.			3600	IN	DS	56308 13 4 7EAB64944A30A9234690F28D9A7D802D042209C188A7C6209A7240EA 80CCC900053E5361E18E932ACF524157788F61CC
-ri.gl.			3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. L/LRi0g4t+VFx8hniKCEuBhj+FS5fk87r4IVSj6mqdOH3bTmo9qxwhnp ZTiMOgJhPxVMVj9/+qlGzr8tLfpHLUWC64OvGuSKItmtL5Xv/jwTico7 iYO+GfqqOMokAvZRm5izhIsyLz186o57ilvr1sxEuV7VT5vwCMP5PkoT 6RpFRnGXbtRUNJ6qiBCSDsqjHENbSFefTwMPUDYe9RofBKMIDJI2ffCD 2uTdApMXZNQUWiR5/M84idxApW5Vohj2K2HkX14eMiueveAFNq8BcHN0 7LFUEs/NJzSupMVbrIqVZOtkWOo9MAD/OZaj3DQ+ZwvuD+W3NbiQOhpr /6LkjQ==
 ri.gl.			3600	IN	NS	ns1.simply.com.
 ri.gl.			3600	IN	NS	ns2.simply.com.
 ri.gl.			3600	IN	NS	ns3.simply.com.
 ri.gl.			3600	IN	NS	ns4.simply.com.
+ri.gl.			3600	IN	DS	56308 13 2 532A917DA5A8D858AF5DA57D2A77B696811AFA07C276B8455D701D8E 5914999B
+ri.gl.			3600	IN	DS	56308 13 4 7EAB64944A30A9234690F28D9A7D802D042209C188A7C6209A7240EA 80CCC900053E5361E18E932ACF524157788F61CC
+ri.gl.			3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. L/LRi0g4t+VFx8hniKCEuBhj+FS5fk87r4IVSj6mqdOH3bTmo9qxwhnp ZTiMOgJhPxVMVj9/+qlGzr8tLfpHLUWC64OvGuSKItmtL5Xv/jwTico7 iYO+GfqqOMokAvZRm5izhIsyLz186o57ilvr1sxEuV7VT5vwCMP5PkoT 6RpFRnGXbtRUNJ6qiBCSDsqjHENbSFefTwMPUDYe9RofBKMIDJI2ffCD 2uTdApMXZNQUWiR5/M84idxApW5Vohj2K2HkX14eMiueveAFNq8BcHN0 7LFUEs/NJzSupMVbrIqVZOtkWOo9MAD/OZaj3DQ+ZwvuD+W3NbiQOhpr /6LkjQ==
 richenhagen.gl.		3600	IN	NS	ns07.domaincontrol.com.
 richenhagen.gl.		3600	IN	NS	ns08.domaincontrol.com.
 rightnowclimatefund.gl.	3600	IN	NS	nsgbr.comlaude.co.uk.
@@ -18759,13 +18759,13 @@ streets.gl.		3600	IN	NS	ns2.digitalocean.com.
 streets.gl.		3600	IN	NS	ns3.digitalocean.com.
 stremeast.gl.		3600	IN	NS	ns1.sedoparking.com.
 stremeast.gl.		3600	IN	NS	ns2.sedoparking.com.
-stroem.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. DWW816lcidozo7BmDcTnTmtsGXUlaAob1D6yxYE1RevLRFxBhEj5Z8/Z jgzEb8H6ZcTWCgEt1voaVajMaSLJrPgp+PlVC6PpZRetFC9N/79fpIfD 70+AiziYgqKd7CaHrFbu+BNjo70KKtZGf49mKj9qcfBYUbghRL7gZe+h q+JDl4XbWwBAk2D89vdYxU7eOjHmqfjxcJdELuYPTATL0D53PcnU4gn7 b92T/X8NlZa7XvP5XUHaJlCjAui4lS4573ed9nfTsKlDpXjx7FCum4Vp bVWkoboDkLZah97+zPA2FgHVoX1ZTpwiWsR5UlTe3D0fQrQnEz9CrRve BZF78g==
 stroem.gl.		3600	IN	NS	ns1.simply.com.
 stroem.gl.		3600	IN	NS	ns2.simply.com.
 stroem.gl.		3600	IN	NS	ns3.simply.com.
 stroem.gl.		3600	IN	NS	ns4.simply.com.
 stroem.gl.		3600	IN	DS	63979 13 2 0D893343710E5BE2347CCE3D6FC98C52AC3AFA030E0E14DC63DDA877 770785E3
 stroem.gl.		3600	IN	DS	63979 13 4 9818F82FD00FAEE67E6906F94D5EE9ABC7D8F7093040A040E7B1B3CB 7DB7B1F67AEA958DF184D579D29E95D942936B88
+stroem.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. DWW816lcidozo7BmDcTnTmtsGXUlaAob1D6yxYE1RevLRFxBhEj5Z8/Z jgzEb8H6ZcTWCgEt1voaVajMaSLJrPgp+PlVC6PpZRetFC9N/79fpIfD 70+AiziYgqKd7CaHrFbu+BNjo70KKtZGf49mKj9qcfBYUbghRL7gZe+h q+JDl4XbWwBAk2D89vdYxU7eOjHmqfjxcJdELuYPTATL0D53PcnU4gn7 b92T/X8NlZa7XvP5XUHaJlCjAui4lS4573ed9nfTsKlDpXjx7FCum4Vp bVWkoboDkLZah97+zPA2FgHVoX1ZTpwiWsR5UlTe3D0fQrQnEz9CrRve BZF78g==
 sts.gl.			3600	IN	NS	ns1.it-kons.dk.
 sts.gl.			3600	IN	NS	ns2.it-kons.dk.
 stuessi.gl.		3600	IN	NS	ns.inwx.ch.
@@ -19581,12 +19581,12 @@ thrive.gl.		3600	IN	NS	tia.ns.cloudflare.com.
 thrive.gl.		3600	IN	NS	ernest.ns.cloudflare.com.
 thuge.gl.		3600	IN	NS	ns1.hosting.inuit.gl.
 thuge.gl.		3600	IN	NS	ns2.hosting.inuit.gl.
-thule.gl.		3600	IN	DS	19333 13 2 10DD05E483986F1FFE1B27AFF8E1D9E2DFB4422B3677B350ECCDF192 EC9F1FC3
-thule.gl.		3600	IN	DS	19333 13 4 A9D815FF5C10BDF05948BAB02CB3B91B8E48AB510D546B6564AB1F6B C4A202D3C5A8B0B2437178577BA6AE1B96E1BEBD
-thule.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. cPVXlyM4n/vMxvPSMUflj7GST7zTJFh4HzxNGrCKaFgf9GD4RWIQDqwT e7QqrhD1tIvcpJV/9R0AX2dktFx4G85/BIGmP6mHSIivDdONMoahFsCl oszhQktNkOY5ZN+49JQU4BN+2F3MzGJ/QMU1LGTV0Ho5Bb4gqxrHU+dj BNMefzGLuiuYQRbNjslN8HSUYVjCYWCMrUcwlaOwPAlfOPsolhGi8kLq silUH9JqH1DhYehgK3xj8c9YFRNwb4+hZ37xT5uukFkr9J//FpCy5RUL NEpyeRAh2ailqWFOEy+x262IRLg1YIUgZJURd5t65y/vzJWB5S/DYr85 ft/aEA==
 thule.gl.		3600	IN	NS	ns1.hyp.net.
 thule.gl.		3600	IN	NS	ns2.hyp.net.
 thule.gl.		3600	IN	NS	ns3.hyp.net.
+thule.gl.		3600	IN	DS	19333 13 2 10DD05E483986F1FFE1B27AFF8E1D9E2DFB4422B3677B350ECCDF192 EC9F1FC3
+thule.gl.		3600	IN	DS	19333 13 4 A9D815FF5C10BDF05948BAB02CB3B91B8E48AB510D546B6564AB1F6B C4A202D3C5A8B0B2437178577BA6AE1B96E1BEBD
+thule.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. cPVXlyM4n/vMxvPSMUflj7GST7zTJFh4HzxNGrCKaFgf9GD4RWIQDqwT e7QqrhD1tIvcpJV/9R0AX2dktFx4G85/BIGmP6mHSIivDdONMoahFsCl oszhQktNkOY5ZN+49JQU4BN+2F3MzGJ/QMU1LGTV0Ho5Bb4gqxrHU+dj BNMefzGLuiuYQRbNjslN8HSUYVjCYWCMrUcwlaOwPAlfOPsolhGi8kLq silUH9JqH1DhYehgK3xj8c9YFRNwb4+hZ37xT5uukFkr9J//FpCy5RUL NEpyeRAh2ailqWFOEy+x262IRLg1YIUgZJURd5t65y/vzJWB5S/DYr85 ft/aEA==
 thunder.gl.		3600	IN	NS	ns3.epik.com.
 thunder.gl.		3600	IN	NS	ns4.epik.com.
 thunder.gl.		3600	IN	DS	36054 13 2 630F10AE6613D3D470FFE876BBBC9E8B434760C0982703BF36F8EEF8 C6103F7F
@@ -19860,12 +19860,12 @@ transport.gl.		3600	IN	NS	ns2.modulo.gl.
 transport.gl.		3600	IN	NS	ns3.modulo.gl.
 transportkommissionen.gl. 3600	IN	NS	ns1.hosting.inuit.gl.
 transportkommissionen.gl. 3600	IN	NS	ns2.hosting.inuit.gl.
-trap.gl.		3600	IN	NS	ns1.simply.com.
-trap.gl.		3600	IN	NS	ns2.simply.com.
-trap.gl.		3600	IN	NS	ns3.simply.com.
 trap.gl.		3600	IN	DS	8916 13 2 4145B9BB4501E3EE128DBB90DF9378EDE1E34AC76CC2157E4B44F1AA 0075B6C3
 trap.gl.		3600	IN	DS	8916 13 4 F91F1EE63E29A695093A219C82DDF90417A2B722921E5E3A6315D066 541468C766E8D18A41486863AA37B83264885DB2
 trap.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. A3MR9X0kPvsEHcZ1Aea/zkL0VT/W8l8gOBCn9tZ3c8iwDrJxiyQ3aVj6 8hOGck+7RQkIc8O/HXF3+8vYSChAn7GcJsW1NEnz6194xhDj4dt6y44v VUY3S2tnuhjtFpE38WhB9iNhoHDgrDgNxkPY66zQ1Xth/kzuDMndpZoG 42sX56spM8s/F0M0o9gJdmzC6rs/s8JLD1v09A56VykTVJgKId8/t+0K Zbq9+AUGv1F4YBqdFGLEpYZlmAtk3WLudG7lfv9RD4h3kVpMCXXXGMYE 6IRImDj2fqLUIrlk12aMQUzzxBuM7SgYbWLoosJxxSV6HVjet0ipsLHL DYzDIg==
+trap.gl.		3600	IN	NS	ns1.simply.com.
+trap.gl.		3600	IN	NS	ns2.simply.com.
+trap.gl.		3600	IN	NS	ns3.simply.com.
 travel.gl.		3600	IN	NS	ns01.one.com.
 travel.gl.		3600	IN	NS	ns02.one.com.
 travelbyheart.gl.	3600	IN	NS	ns1.simply.com.
@@ -20233,12 +20233,12 @@ udlejning.gl.		3600	IN	NS	d.hosting.gl.
 udsalg.gl.		3600	IN	NS	ns.dandomain.dk.
 udsalg.gl.		3600	IN	NS	ns2.dandomain.dk.
 udsalg.gl.		3600	IN	NS	ns3.dandomain.dk.
-ufavr.gl.		3600	IN	DS	53098 15 2 56062074954D74C17607B3A2B320430739C3D8A4E3ACF702D59A6A31 BBB17E22
-ufavr.gl.		3600	IN	DS	53098 15 4 820A0C25DC39934C261D61746CF43C59245D2E608F7E4E19D0FF186E AA67C121209667F7C2FC40BF6EC35CE094A06716
 ufavr.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. hDhY4m1S1K9ttMxD7MXZKYLVeLvyXDWZFyw/wnax/3UPQAmAM1HcvziH RPGJInUTRA3urVqNwweBUIrcS/mDkfUdSxhVXO8HjoJWsYdHnf1FQXFC Zf8QROyuw7S6QVVwRTi8OgStLJz9FkFvHRO6JMBa3rbGkwhbUDuhilXj 6vcDq1aX/5ciwLRVWu7erlLp+iAarWz0yIoTayTbqKBwTDvS90cb2izm QBjzNu16CGWZ5lKwsZ9a1FbtAPukup7xEJPIcivzCwZtoFLilIHcJHYd Ibki1xZ/nyPU2KVvzZve3p9PttNC6+IaWa5qheez2G97OnZ97K98JOV1 xYUbuQ==
 ufavr.gl.		3600	IN	NS	ns1.hyp.net.
 ufavr.gl.		3600	IN	NS	ns2.hyp.net.
 ufavr.gl.		3600	IN	NS	ns3.hyp.net.
+ufavr.gl.		3600	IN	DS	53098 15 2 56062074954D74C17607B3A2B320430739C3D8A4E3ACF702D59A6A31 BBB17E22
+ufavr.gl.		3600	IN	DS	53098 15 4 820A0C25DC39934C261D61746CF43C59245D2E608F7E4E19D0FF186E AA67C121209667F7C2FC40BF6EC35CE094A06716
 ufb.gl.			3600	IN	NS	ns1.aputit.gl.
 ufb.gl.			3600	IN	NS	ns2.aputit.gl.
 ufb.gl.			3600	IN	NS	ns3.aputit.gl.
@@ -20348,13 +20348,13 @@ uniquetours.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 g
 uniquewomen.gl.		3600	IN	NS	ns1.netim.net.
 uniquewomen.gl.		3600	IN	NS	ns2.netim.net.
 uniquewomen.gl.		3600	IN	NS	ns3.netim.net.
+unisafe.gl.		3600	IN	DS	46716 13 2 BA1BC022FCBBB0D8E26A515FB39E14387703027B8F596675D9E0A512 76984826
+unisafe.gl.		3600	IN	DS	46716 13 4 4687D09AAB6A7AA12D6EC5DC1C81D978EA1D98BAC68E4F8930FC1D7B 2974A83ACED8AD47E8401ABC21D92DC95D59B7FB
+unisafe.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. FssZEc235qdgFSkH2QoL0Zq/03Jn3paKohooZeCd9xmUuDJq8o/LzuAj 30U2Ipuqrac4doYBjTGCG0Rq9Qcw/CcC80klzifLWstb310BVu8+fhHz pcdixNQ7qRVqNdRL8d9jU0xSWKxPnkH21kxx3bqR+kqKtwFb/iAMuJ2C QndD1krzkTMMQWOSBck0vuhD29NSEqfvbdQxr+lXMXLAfhoa1gq2mqBp Ui6zx5u1YdvUNhk79knBjs+PeDROSDpcxuPO2oWwxZNxcFCV1sLLkwK0 xjPWzmydIbkTREKvj3e3Vl1BlvFY6y9ObOQtGdSyHPXaJ6F6Qb3FCOTW Nesk3Q==
 unisafe.gl.		3600	IN	NS	ns1.simply.com.
 unisafe.gl.		3600	IN	NS	ns2.simply.com.
 unisafe.gl.		3600	IN	NS	ns3.simply.com.
 unisafe.gl.		3600	IN	NS	ns4.simply.com.
-unisafe.gl.		3600	IN	DS	46716 13 2 BA1BC022FCBBB0D8E26A515FB39E14387703027B8F596675D9E0A512 76984826
-unisafe.gl.		3600	IN	DS	46716 13 4 4687D09AAB6A7AA12D6EC5DC1C81D978EA1D98BAC68E4F8930FC1D7B 2974A83ACED8AD47E8401ABC21D92DC95D59B7FB
-unisafe.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. FssZEc235qdgFSkH2QoL0Zq/03Jn3paKohooZeCd9xmUuDJq8o/LzuAj 30U2Ipuqrac4doYBjTGCG0Rq9Qcw/CcC80klzifLWstb310BVu8+fhHz pcdixNQ7qRVqNdRL8d9jU0xSWKxPnkH21kxx3bqR+kqKtwFb/iAMuJ2C QndD1krzkTMMQWOSBck0vuhD29NSEqfvbdQxr+lXMXLAfhoa1gq2mqBp Ui6zx5u1YdvUNhk79knBjs+PeDROSDpcxuPO2oWwxZNxcFCV1sLLkwK0 xjPWzmydIbkTREKvj3e3Vl1BlvFY6y9ObOQtGdSyHPXaJ6F6Qb3FCOTW Nesk3Q==
 unisport.gl.		3600	IN	NS	ns-333.awsdns-41.com.
 unisport.gl.		3600	IN	NS	ns-978.awsdns-58.net.
 unisport.gl.		3600	IN	NS	ns-1057.awsdns-04.org.
@@ -20439,12 +20439,12 @@ url.gl.			3600	IN	NS	tony.ns.cloudflare.com.
 ursprung.gl.		3600	IN	NS	ns.hostpoint.ch.
 ursprung.gl.		3600	IN	NS	ns2.hostpoint.ch.
 ursprung.gl.		3600	IN	NS	ns3.hostpoint.ch.
-us.gl.			3600	IN	DS	44863 15 2 34F7BA84AF6912237FDC946F629EEED98666FC8F22331064A5F9F83C B9607D77
-us.gl.			3600	IN	DS	44863 15 4 6A4446F38B814C8BE69A2613393FE92C0D5F9981A1FBE40B025F6260 BA1478F5124D32741C557CF85FD75E8DB0792897
-us.gl.			3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. MVDaNRVsYc5Lgy98Kr3U3GR5IqiCrMC+Htc2pnYCCSQpyUtvS8kHB7kA Uwn7icipwmPWfu3dfKIs7WuVqbQ36cgNB2/yz7kIh6U4nOhkEYyJmfB7 9PuIaGYmmyHB7VvWOQBHoeqhs3h4wGvPFU4Godg1DgbYIm2YrvOh1XQs krya1gq0ipZxBJbAcK2ojgTb77d4C2fgx4L2nBwa4XQaRjW/SPL0y4CR AAPJMH3iWMXMWwWl5PTUnWiAjrflMIN1gjwHr+mkG3ZubLfU24no5XxG sC4pWRqytcQXd55cbWay9/p2WujsSbx8XhIGz4TDaukQoa6FjFHPu4r4 4rwpuA==
 us.gl.			3600	IN	NS	ns1.hyp.net.
 us.gl.			3600	IN	NS	ns2.hyp.net.
 us.gl.			3600	IN	NS	ns3.hyp.net.
+us.gl.			3600	IN	DS	44863 15 2 34F7BA84AF6912237FDC946F629EEED98666FC8F22331064A5F9F83C B9607D77
+us.gl.			3600	IN	DS	44863 15 4 6A4446F38B814C8BE69A2613393FE92C0D5F9981A1FBE40B025F6260 BA1478F5124D32741C557CF85FD75E8DB0792897
+us.gl.			3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. MVDaNRVsYc5Lgy98Kr3U3GR5IqiCrMC+Htc2pnYCCSQpyUtvS8kHB7kA Uwn7icipwmPWfu3dfKIs7WuVqbQ36cgNB2/yz7kIh6U4nOhkEYyJmfB7 9PuIaGYmmyHB7VvWOQBHoeqhs3h4wGvPFU4Godg1DgbYIm2YrvOh1XQs krya1gq0ipZxBJbAcK2ojgTb77d4C2fgx4L2nBwa4XQaRjW/SPL0y4CR AAPJMH3iWMXMWwWl5PTUnWiAjrflMIN1gjwHr+mkG3ZubLfU24no5XxG sC4pWRqytcQXd55cbWay9/p2WujsSbx8XhIGz4TDaukQoa6FjFHPu4r4 4rwpuA==
 usa.gl.			3600	IN	NS	a.hosting.gl.
 usa.gl.			3600	IN	NS	b.hosting.gl.
 usa.gl.			3600	IN	NS	c.hosting.gl.
@@ -20643,13 +20643,13 @@ veteran.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. U
 vfmg.gl.		3600	IN	NS	ns1.modulo.gl.
 vfmg.gl.		3600	IN	NS	ns2.modulo.gl.
 vfmg.gl.		3600	IN	NS	ns3.modulo.gl.
-vg.gl.			3600	IN	DS	55672 13 2 F316AD19DFA1C4D97D42361BF47BB2F16A222E14051431AB8F6B1359 D0A26322
-vg.gl.			3600	IN	DS	55672 13 4 05A6A51BFEFDF040B284A25291D30C2045C779AC3A62353223870478 EA9B8027D181D38F9F89BEE48DFF8028F03AA44B
-vg.gl.			3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. Zg7Rob9A1qT4sn6ftDxNIMjc3cskxkP1As+/yM6yfrGsOeQGadItEfyl 1Iv/Q6K6zFFcXZaMUKfKpqB0PvSyZTEJMQIDU7wOD6lQnEsYa2tchIU4 ewRq0EwoI8otdNNdJDZk7l6jjkNH0qgHWnGREPROuQpplCpNxJC0Q7kp FstFTUjvdPVDolgUL6S6yucmxMXEP84B1vFjubxZpA2f9uRhEcWzI+MR v5z6JWmvROn3nCvCgOtBbxwx26SjU0NFVo1k1CwHol9XpIWw4zE/I+gI oiisJmsBd/3IAAMjWmRAjbZ2a98bCW/MtEdD1EuUKYA6hrBF18GoFnoT 6MInqA==
 vg.gl.			3600	IN	NS	ns1.simply.com.
 vg.gl.			3600	IN	NS	ns2.simply.com.
 vg.gl.			3600	IN	NS	ns3.simply.com.
 vg.gl.			3600	IN	NS	ns4.simply.com.
+vg.gl.			3600	IN	DS	55672 13 2 F316AD19DFA1C4D97D42361BF47BB2F16A222E14051431AB8F6B1359 D0A26322
+vg.gl.			3600	IN	DS	55672 13 4 05A6A51BFEFDF040B284A25291D30C2045C779AC3A62353223870478 EA9B8027D181D38F9F89BEE48DFF8028F03AA44B
+vg.gl.			3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. Zg7Rob9A1qT4sn6ftDxNIMjc3cskxkP1As+/yM6yfrGsOeQGadItEfyl 1Iv/Q6K6zFFcXZaMUKfKpqB0PvSyZTEJMQIDU7wOD6lQnEsYa2tchIU4 ewRq0EwoI8otdNNdJDZk7l6jjkNH0qgHWnGREPROuQpplCpNxJC0Q7kp FstFTUjvdPVDolgUL6S6yucmxMXEP84B1vFjubxZpA2f9uRhEcWzI+MR v5z6JWmvROn3nCvCgOtBbxwx26SjU0NFVo1k1CwHol9XpIWw4zE/I+gI oiisJmsBd/3IAAMjWmRAjbZ2a98bCW/MtEdD1EuUKYA6hrBF18GoFnoT 6MInqA==
 vh.gl.			3600	IN	NS	ns.checkdomain.de.
 vh.gl.			3600	IN	NS	ns2.checkdomain.de.
 vhdesign.gl.		3600	IN	NS	a.hosting.gl.
@@ -20699,13 +20699,13 @@ viggo.gl.		3600	IN	NS	ns4.linode.com.
 viggo.gl.		3600	IN	NS	ns5.linode.com.
 viinnit.gl.		3600	IN	NS	ns1.hosting.inuit.gl.
 viinnit.gl.		3600	IN	NS	ns2.hosting.inuit.gl.
+viktech.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. cczMfnBWYMluIuCYvxwQBLKKXdHp53xTkJNKuixeYCFPQiIOl9kydNDu nNHNPlES9WKfWXXSaLFYvdSqLZnLeQgsglkaQ8izUQMn1MK6C82CHCkq MkY8tLGzhXSv7S3laPmgPIG9Ax/kiKNGT/nvz/3AN3xkh/xHbILp6jIB rtpjbvSDug4IT4OllkQw4wmMWCxm1b1ecO71kexWYc1Kfzqav9ef4Tj4 1HtFDQGLkIc/3uqveqW3u2dGK9P18Lqz3i5Mx46QeMNx8ufLg12F93Tc fFmGud3De22Rb+glbhxIHiD15KIZoyrJj8xQadmaYGpNYfjU+csZzn6j I3RTMg==
 viktech.gl.		3600	IN	NS	ns1.simply.com.
 viktech.gl.		3600	IN	NS	ns2.simply.com.
 viktech.gl.		3600	IN	NS	ns3.simply.com.
 viktech.gl.		3600	IN	NS	ns4.simply.com.
 viktech.gl.		3600	IN	DS	59361 13 2 080D43D444CD0C4576B22E570EE72BB20518E6892792ECCC431DD04D A2BCB862
 viktech.gl.		3600	IN	DS	59361 13 4 9F06E0640785E200DA8462DBA98067CD30615EDA1ABFEDE74020D6F4 CC4BA8A543869A971E02B02534CA0AD5F7C74D83
-viktech.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. cczMfnBWYMluIuCYvxwQBLKKXdHp53xTkJNKuixeYCFPQiIOl9kydNDu nNHNPlES9WKfWXXSaLFYvdSqLZnLeQgsglkaQ8izUQMn1MK6C82CHCkq MkY8tLGzhXSv7S3laPmgPIG9Ax/kiKNGT/nvz/3AN3xkh/xHbILp6jIB rtpjbvSDug4IT4OllkQw4wmMWCxm1b1ecO71kexWYc1Kfzqav9ef4Tj4 1HtFDQGLkIc/3uqveqW3u2dGK9P18Lqz3i5Mx46QeMNx8ufLg12F93Tc fFmGud3De22Rb+glbhxIHiD15KIZoyrJj8xQadmaYGpNYfjU+csZzn6j I3RTMg==
 villa.gl.		3600	IN	NS	ns-508.awsdns-63.com.
 villa.gl.		3600	IN	NS	ns-716.awsdns-25.net.
 villa.gl.		3600	IN	NS	ns-1288.awsdns-33.org.
@@ -20840,12 +20840,12 @@ visma.gl.		3600	IN	NS	dns3.vismadns.com.
 visma.gl.		3600	IN	NS	dns4.vismadns.com.
 visma.gl.		3600	IN	DS	2371 13 2 72144B3E115A309F9EF2EA75E79208384D566B9A8D64E41090DD8A7F 37F434D8
 visma.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. gil+tuptemRFn/rSOvKl847Fy5QKAejpLsSghsGaHZ0hK52o1YKZ9dwg 5+i6EVEiw8eXVmT7ZmDkV3K7/pl/jfTp7JtovxmNL+QnpGh0hKguGHBL ucY6ZBVt4lmuv/mGrdpkjJezOGrK8pdXNkOq92Qf27jH+JyP1kkhPJnR y26i0Nr+K9XSp8JAZXPvBCshTTVQxn0I3MFRirB/J/5dpRmqymvGUcIV TXnOz7RJevPvaU2OZ67p2gHNEB629XW2h6m4LpA/bf9//Om69nffz3ai yqkm7i41y3VTem0MECl8iCrMOzSGlgh3DdyntFezD+fR5EhFJ7uQr5zu I+PAaA==
-visueltforum.gl.	3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. Qit3pEKmQ3YV15rkUFPTkQ2s5fj0nxes7BbClwv/6GUWGjvnqoH3ntvK tQvHCGO/dKKSDcMQNXnj/nZAhXbClh/zWc70d/ntVcYkPmjR0QJjt/K6 wJkL7ldJJZyn05PJ+WXmH6QSjvSVrbicW95w1PImXGFBAME3fh7ZsvH7 4/yBs59rc3MzD4uF76C5bao+b141vohPXbT8w9RQzEDHJSa6uo0Qk5tt VojcVXcKU03W1WpnyhDxPWaZ3oi/dkIsxxMXTlYxoeFjtO2DsdfdZ/NB 2IagwV1T/BvpElauqSQlWMmxv13E3T8wh0lhVDu9piuhlVDB/EJGoehG EjHtlA==
 visueltforum.gl.	3600	IN	NS	ns1.simply.com.
 visueltforum.gl.	3600	IN	NS	ns2.simply.com.
 visueltforum.gl.	3600	IN	NS	ns3.simply.com.
 visueltforum.gl.	3600	IN	DS	6761 13 2 2D24FA95DC683F4FBF4C575A46BDFB6ACBFC58D3D8781F97136E8194 1D8BC354
 visueltforum.gl.	3600	IN	DS	6761 13 4 7E09BE403F1631063B9B6311B0138DDDBBD109296657779BB5177F17 5D3BE3627ECF32C9B824FD6092FB6B305E7BF33D
+visueltforum.gl.	3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. Qit3pEKmQ3YV15rkUFPTkQ2s5fj0nxes7BbClwv/6GUWGjvnqoH3ntvK tQvHCGO/dKKSDcMQNXnj/nZAhXbClh/zWc70d/ntVcYkPmjR0QJjt/K6 wJkL7ldJJZyn05PJ+WXmH6QSjvSVrbicW95w1PImXGFBAME3fh7ZsvH7 4/yBs59rc3MzD4uF76C5bao+b141vohPXbT8w9RQzEDHJSa6uo0Qk5tt VojcVXcKU03W1WpnyhDxPWaZ3oi/dkIsxxMXTlYxoeFjtO2DsdfdZ/NB 2IagwV1T/BvpElauqSQlWMmxv13E3T8wh0lhVDu9piuhlVDB/EJGoehG EjHtlA==
 vita-mix.gl.		3600	IN	NS	a2-65.akam.net.
 vita-mix.gl.		3600	IN	NS	a5-66.akam.net.
 vita-mix.gl.		3600	IN	NS	a9-67.akam.net.
@@ -22120,16 +22120,16 @@ zzzomg.gl.		3600	IN	NS	diana.ns.cloudflare.com.
 6V8TCHH1200QGTNL28NH9I2S69UK2T58.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. Z5OS5oiAgAHZ5RF3BaISuNyoAxco9Ci/aXHV1ZZhygYvI6KUZy6yN7if IaGCMW8ENkEjs6Rem+xFJbnw8Fy6cuiUfQJDsSEiurXBIOkjhg87XcP+ YayxkbeTBtns+oEH0WiqQu3b1teV/37Uu2gdnO6ZBUPWmlt5HvdnDhdt r34Z+8i8iHMzHBKeiTA28wbIlft84yOrne2cIZu2NpfdGEx9p7tLZ6Th 8OH4Mrr9PpyGnss1UIYONc1P2HJdMWHWcLbbulYvbmsi6c+JLGLT91sh foQtJxzjJbaykRtyHS7R2/UBPSg7jHlBA/5d7TtqpQ0UB8Ndrhi77C7o vbDiUQ==
 741E1S37G96ERIO5V0ELOQD7LCO6L12E.gl. 3600 IN NSEC3 1 1 0 07015CFB 75RDV2DIKN7FFAT2LTG2KDQB08O8BL0R NS DS RRSIG
 741E1S37G96ERIO5V0ELOQD7LCO6L12E.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. XdKb6dTzwZRXChTnhkZgFNPKabC+K0MlVJwiF7aCVYFyzCbhQFl5fNLp UbHAEMAnl+RvgXWBPneYWAPz1hSE4MTmoDs350C5KQmv/+YTp3JeUTXo eyH5O+NmpWLhYL9HI1PYtOpDtk3ZgpY55OFvBxamAMDycyEZMvkT+145 YY9RIOU0SWlgiC23Kg1KMudNx1LTwzgz0Nefqk/zR8N6hMsvsDavlzFy 82VBbB3yV7nGLFL2BTjAb9ZsEblNSgAZwpCYHLrnBRExC0LL/yb5aQk9 qzWoPn72A19g7ZLzv0eNlQwGuYoKm03UUws7QINUMXg/SyAk75tmB4Md 4EZbRg==
-75RDV2DIKN7FFAT2LTG2KDQB08O8BL0R.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. J5zP/fmcvcGUYX2b5+NxQwirpd5zmKilg3BUBcm7gFSe8+QCsgfvYgc1 za9PMtYjuyU751ihhXCdMZVH2FJWZE2PKzOnWplTnPoEqXVxZ2MfNFPr 5+GXBdeJkps82B5UtnppbjKsXF6RAQT42n8BMtw5m3hZ5Vny/Wf8L77s 5Q4XBrwc3NK0qbByjlS7L4IhFNfRG8IbzTtgPASL4PUy6ndjPZLtJGOv oFh/TjKgN7hpBBh5GMmBuFAESKoZtta/bbG+v6Qj8/ez1nRX7OjBl6aB MNUS4edVxjXm9oTRFYB110pzl+QZVdt+3VB7xGFUf9hzoohaurADg58i /RS7Vg==
 75RDV2DIKN7FFAT2LTG2KDQB08O8BL0R.gl. 3600 IN NSEC3 1 1 0 07015CFB 76M3N6R552FDRJJH3O07GBHHGPHHD2EC NS DS RRSIG
+75RDV2DIKN7FFAT2LTG2KDQB08O8BL0R.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. J5zP/fmcvcGUYX2b5+NxQwirpd5zmKilg3BUBcm7gFSe8+QCsgfvYgc1 za9PMtYjuyU751ihhXCdMZVH2FJWZE2PKzOnWplTnPoEqXVxZ2MfNFPr 5+GXBdeJkps82B5UtnppbjKsXF6RAQT42n8BMtw5m3hZ5Vny/Wf8L77s 5Q4XBrwc3NK0qbByjlS7L4IhFNfRG8IbzTtgPASL4PUy6ndjPZLtJGOv oFh/TjKgN7hpBBh5GMmBuFAESKoZtta/bbG+v6Qj8/ez1nRX7OjBl6aB MNUS4edVxjXm9oTRFYB110pzl+QZVdt+3VB7xGFUf9hzoohaurADg58i /RS7Vg==
 76M3N6R552FDRJJH3O07GBHHGPHHD2EC.gl. 3600 IN NSEC3 1 1 0 07015CFB 77K5EQ4ATEVRFMPVOGMQ9A2GL8IG331V NS DS RRSIG
 76M3N6R552FDRJJH3O07GBHHGPHHD2EC.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. GqbIyrv4winbuEt4LV2Hxw8ajT/jwXZOlWL4w2jLxQPvM7NRVyyPCbN2 GMbSqa469wBI4QxJNKcPU0o/YetnAPMx+fQqB3E2TVOQSA5l2Sq0eOT3 huTalUcFpT4rn/IXao07sRbpNTcOFuB7kYI/d0dctd54XdGL8gzoYTR3 mgxYvqJRB3APLTK3vEsZnOP5PP1iZTNRgqvHnm6XJgSMfIZ2SOvTcUaK ejOaSqvR1NgNVZ726CjE6Tl+BUMkrQz0Z8ARckLDfDQEbnRKo4PTOPRr VLHD3kdKXVeDKtQXPgbOT0sMke9R9kKWrMvCsW//g3N0BMAWRYMIrz8M 28KRWg==
 77K5EQ4ATEVRFMPVOGMQ9A2GL8IG331V.gl. 3600 IN NSEC3 1 1 0 07015CFB 77L3H82H25KHKEQUBHF57RMDRR6HPHDN NS DS RRSIG
 77K5EQ4ATEVRFMPVOGMQ9A2GL8IG331V.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. JSXRPl7mSQJ+btYDCYF/mdMeQvdgnYxxFbQuXjklQruynPcyVqzVifaT i3bS8KnrNi2yGwA0Vzs8MGFdBlA60XNQ5oXRJevow1HwFbLD6MFIBGTv AK2X8+D0iOLGOOqehHMtNPm3PWP7CCIfVO4Mn9vTth1ET5KwnXaoOug9 GdgqfpcN6BePfqkEy0pf3aE+yVZi0u6fHgTIOAN87rOjedd0JIOk+Dp7 BJYt9rZj4GZtaXktFWteBeHUooO05o9vyKAkPAkO5Z71FZjEL/DIOhmH 2qwWcEmNuCPf4nf3kwBUieRJpspHX0QDgyGIXpjMixD0DJ05nKnQXvWJ UqnO8w==
 77L3H82H25KHKEQUBHF57RMDRR6HPHDN.gl. 3600 IN NSEC3 1 1 0 07015CFB 79KGDPB7MT7L1SM8OLKI0KFJC8HO12SJ NS DS RRSIG
 77L3H82H25KHKEQUBHF57RMDRR6HPHDN.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. Xgotfk7x+1Zc8SRF+Dqjjt36XmS7hyq/ZyjP0frZAqa1N76czdT6vH/N rkug1iB66j2N9adnIH0OABYiTN02jnsnhdcLA5SsMUmniAOXy42wYwIG MF2Wz9muzirBZ2Ssg/9pIB9V8Ffa9s8pNaTh+1N72bUk2r7YKWaKb9Zp 8TZ0iFwmljaqbMBZCp/bxielS2K2dh+tlSzxduX1DMEqXKgpnqvO93tu UeIq7Dg4+INQ8KXJ9VRrvyrs+/8uzrWh6CcYYSqLx1qANJDa1ng6B6LU 8GRlpC0oSaHhxYeYKuM4cT8tX3hmA79tMHR7+WPh3oj14Mf4C+KKV8Ta Wen+JA==
-79KGDPB7MT7L1SM8OLKI0KFJC8HO12SJ.gl. 3600 IN NSEC3 1 1 0 07015CFB 79TGHUHIM6CUQ5JSMH9QHLM57SL117KS NS DS RRSIG
 79KGDPB7MT7L1SM8OLKI0KFJC8HO12SJ.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. PPe9ezdG0BKl/xPTlTtDz7igCqDqPofcl71kZHj+Ag8EZJDhge+PDW0h +aoS2VnjnKFRUJgb3tYxp947H4p8LGoBbiK/UuMhgR9QJCv9hDVueuIE vrw3UJy4ITH/lMAIxaojWtuiKqeahFqjBAbhbNNPxvZ02GThs3JJJbFE Ob4N92xhX3aaZ1ev/1/ViRbXXId/6TTysmYJVMbIxdPPFuMmYUcBvtUk sY3BtHigBltgruPJsdfXMW5xeZn7R+0ZaVYXBNuo1CW8lUHA8FIEc4a6 P7GsAg5ofAPwm75i3ootBx7GVdoLZZTB8Pi2AOudln7acCJP7ivVFq6j Nc/KDQ==
+79KGDPB7MT7L1SM8OLKI0KFJC8HO12SJ.gl. 3600 IN NSEC3 1 1 0 07015CFB 79TGHUHIM6CUQ5JSMH9QHLM57SL117KS NS DS RRSIG
 79TGHUHIM6CUQ5JSMH9QHLM57SL117KS.gl. 3600 IN NSEC3 1 1 0 07015CFB 7CA2M9I11J6FQK3BT2S2J4ELJNH9Q797 NS DS RRSIG
 79TGHUHIM6CUQ5JSMH9QHLM57SL117KS.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. WLNUZfNdC/nT8HLmFsLs4qypuQEjXENXWAc8w03cV+S1H1ecsS0FsIiW bIkGs431zMJVPoMtnuSc0z9i1sOVqk1tCkEf4I5CvIKtFCIS4Npm64z0 TZs1jAwC4lV+u1fpihJ7bzvZlPn3ZANVkX04MDfDwO391a7sw9JmXvem sc/fHh/73Y/e6W/XXQX/s4drwmXyCdvWL7aDvfpvSejU+Vht5b1tKtt8 9muYGGgC/zUVsiAsXubhDpDhwSUxkfCm2pd6YSGMdHA2TgKShjBQNXWl sMmbSkZ2e7CYtgsWCvt6MHJ0DtS5uxOqxU75t8/iFRZAbGLyKDXoNkPA FeqYCQ==
 7CA2M9I11J6FQK3BT2S2J4ELJNH9Q797.gl. 3600 IN NSEC3 1 1 0 07015CFB 7F8AKNV93QKONGTD4VDJGPJJG1JTG7J5 NS DS RRSIG
@@ -22524,16 +22524,16 @@ G8TM3OKV0QM6C4GI4VN7HML5UGJ3SPPS.gl. 3600 IN NSEC3 1 1 0 07015CFB G9OJU3C0SKRCQQ
 G8TM3OKV0QM6C4GI4VN7HML5UGJ3SPPS.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. AcaTuNeMtSEG4yiKiaR/V7oZUazU6pNrWHLsMWHLX5Th/JDtp8do8p0n ABz3JzF+kfLeWvZqsmGf3i8JSQYfv62/YX8wbBJ9TKbvZLxMLJqVVQsl eM92ZpOvOpppHDBp5yADThvvB0BETP4ThKqogf5pKOfOuF0Swd/R97U1 7nhW0CbThFOND9iI/L6DZEtYdnDZrb/3hBtukq4n94peQjIeuspHcwku 3Z54fggpCK+g5hkb3Ha+9wiOQzG1w3IqZgxLePnXOpGJZtvFVCZZmO1Y ZvgTMGzGoEo7AuCPMNMRcLwyiuFJZFoOUjGchESTVxYSxqP2hIWO9Ld9 RzF67w==
 G9OJU3C0SKRCQQD3UA1504MO869MO0LQ.gl. 3600 IN NSEC3 1 1 0 07015CFB GB1FS53IB0B86K9P42PF015DLPN1V256 NS DS RRSIG
 G9OJU3C0SKRCQQD3UA1504MO869MO0LQ.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. Gsnt7BQBlIVkDZBhxTQABXPWWHGJRCCGssHwBe+mNuFioDJ3wNriS+NU ymqR5UAIxffEME0K22+fSkDgr12kxC3arrNpRI/Qt0FsniiIRLK8sPXy eLrwDvrnJgadEV7ZHpsNETDXACht3wMNNpNyB955MZ1JDuN+pD+FvFnP d+yH1TJqv8KwwJ2TPRV5BeuMU8N3XnaejWKacBqKW6S5jxQTHfqUcd1o zSx0X9d+S21JYWQUavSzAu69bPgB4tZGyLPKLf3bMZRJWqoy7bevKfP/ +iQhHoKPP7ZZ5FYpbu7I7zWIZUiLSBcRmvNhT5ZRPjG9lqdY/UHrOMWZ p0+b7w==
-GB1FS53IB0B86K9P42PF015DLPN1V256.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. DiKvAtM1LllaP2et9AI15tiYIjV1ZzY/R4gPugOkyNcCpJ4nRD7026IQ KuUbYxfo/RCMWeV1BjvVWXXovfKTu5MWdCGAlsqMhxE0Se/RRKWsObf2 zegY0oVefw1IPTB5KXJQN1U+q2/9ZgipNsym+Y+gDkK8/Q8gBkySYqQn nUJzlztvGMpTw+lvNHp3sSMdHG3V5UGjOemqmWURSz5N0tp280W1bE4Y u1G0d1zAnjmmvh6PPl81lPKunGosMtDUpN5EkAY07UyWKrTNka6DPf0m h1qKEEtg0ru+S6Y/I2qyu4L+fa4QhcO3KvyDlQj/xSQx4gvkIHMCesk2 dRFYeA==
 GB1FS53IB0B86K9P42PF015DLPN1V256.gl. 3600 IN NSEC3 1 1 0 07015CFB GB6OQLD2F3RVKL9DDCLH21VCP2TIVB4V NS DS RRSIG
+GB1FS53IB0B86K9P42PF015DLPN1V256.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. DiKvAtM1LllaP2et9AI15tiYIjV1ZzY/R4gPugOkyNcCpJ4nRD7026IQ KuUbYxfo/RCMWeV1BjvVWXXovfKTu5MWdCGAlsqMhxE0Se/RRKWsObf2 zegY0oVefw1IPTB5KXJQN1U+q2/9ZgipNsym+Y+gDkK8/Q8gBkySYqQn nUJzlztvGMpTw+lvNHp3sSMdHG3V5UGjOemqmWURSz5N0tp280W1bE4Y u1G0d1zAnjmmvh6PPl81lPKunGosMtDUpN5EkAY07UyWKrTNka6DPf0m h1qKEEtg0ru+S6Y/I2qyu4L+fa4QhcO3KvyDlQj/xSQx4gvkIHMCesk2 dRFYeA==
 GB6OQLD2F3RVKL9DDCLH21VCP2TIVB4V.gl. 3600 IN NSEC3 1 1 0 07015CFB GBSK9U7K9NE9JL74GGE7QINM6NS4DLLK NS DS RRSIG
 GB6OQLD2F3RVKL9DDCLH21VCP2TIVB4V.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. GLYplhAesakSy8INt1hXdltA9VdxBMuoazH36T/x1MdFDdmCCtVcG/BF 9oB4wRLD9zzw+VbDo1uYxQJf4E1uFP+GJoxFSw0nJ5gChuqvdNE8Mefz B9kWUqJ6yfLHTybVP2QRDjosetWO2facuziNWtGlILO8mDf2ei38BLZ5 NtQ7S7SMIvaYiEBbn9+AxkRWX1VDT72Eqlu8m2TERhBuN72g1dwgEGBq ZmK7sy0pihzN4xkzJffuhw4VW5pC8v8DZ9/RrOa6vG9jkwTocvqdwCtT BQXqZnCIJcnItdfZz+zM6+7WN4aqb9R67yc9bX9RZhdf4/lXle8N5d5H NgriOw==
 GBSK9U7K9NE9JL74GGE7QINM6NS4DLLK.gl. 3600 IN NSEC3 1 1 0 07015CFB GC6GC8ANTQR5JGEVI68J5EPHPEH9KR98 NS DS RRSIG
 GBSK9U7K9NE9JL74GGE7QINM6NS4DLLK.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. T2dijeip39dLEPKzvehr1n3ZoCqaxfMTwWKOJgD75Xu8QS7sTcExkJ5r gaCZxGNSwausFdtcmdJFzxyWkFhN3DQuYXxwF0/NpOsLq93qIMeCCcWU GxmGlYNP39USNPGrYH4alNOBW+iCXepKjBRA79GmBmrd/NlbF5yHRv/U 8UQkv7h6CjZksiR6xKMKo6Nc6QFGyrX39uL+vlmZ72E0YiYQkNSIrHNg MayhQie8qzlxXhUmCwYFd+ew8lE3PwyGxz2llAO/KV2J8D+uM0TLH+H7 U5Obkk6QkIaUqeFlPYIzSQzCoY5+PMZcIkvYxMsCvL9NmNTvuL8rmOQf SaENbg==
 GC6GC8ANTQR5JGEVI68J5EPHPEH9KR98.gl. 3600 IN NSEC3 1 1 0 07015CFB GDV81MD3P8514ONO50ML8IQDVRCB0A3C NS DS RRSIG
 GC6GC8ANTQR5JGEVI68J5EPHPEH9KR98.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. kYfC+KvmtBTLLJwiTYtDVbhOhF/QPvFBxa06EKGMzOI3LNU8qPyMkdyN 4nE+9VkbPcvvcNArtwp7c2IcOf+KYPnUZEPQylHB3wbAzlzM3ckNkyW6 fqfqIC5/yObSVgJNYsw4ZHKWvWV0j12ikpBs4Iaywj7St+DROTOOcOvI eaGYmMwFJzDeugkUU37jzRGrcDtpMcpGLFpptTudmeSVbx4uE/2EmThr lfsBKrPisBYyrljGp5pkxVwKrcVc+kxVdPo9TEyWOCyE5aOPNpXeeJ6i fl6GHwTwmC5IeB3mvJp+E4u94r04UqBnXrQcPmEPV6ZQ7H2eaF6AXQDy v1Lg2g==
-GDV81MD3P8514ONO50ML8IQDVRCB0A3C.gl. 3600 IN NSEC3 1 1 0 07015CFB GEKFJ55LDTA79ES9D907M79CB9GERFD1 NS DS RRSIG
 GDV81MD3P8514ONO50ML8IQDVRCB0A3C.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. G4GXggteMdksX1Gs8DA22lyZUQCMXfBfnVBEAfflA6N99AJOVdi8gBji zhffMvbDeKl5IpovNj/5K4trdYuQd3fGNhMqqJuGcnHAacVeiBMEosMl 5F2hue8YB/DZ69M7GDb8m89TRwRoq+1CkzKDNPWR/X+v8mrMetbM97BA dLYQmLtX42LMsiRbvr1sTF1JEpy4Lh2eGzHmvTRDMRnila+gjuv9rJAa iI+LWrzTBGgmYNQotvGazs332fiWeFdQjTTs8+Ef+Enbqk7iRp5nmcl2 WsPRBx1PQdVzs7vAyN2KXEY1zp1+fQNgJDWPEm03uGiYbFgHtaECwvnQ Ms+C+A==
+GDV81MD3P8514ONO50ML8IQDVRCB0A3C.gl. 3600 IN NSEC3 1 1 0 07015CFB GEKFJ55LDTA79ES9D907M79CB9GERFD1 NS DS RRSIG
 GEKFJ55LDTA79ES9D907M79CB9GERFD1.gl. 3600 IN NSEC3 1 1 0 07015CFB GFHPSENA5HLM4ATNFCBH29GKMRSDSGNH NS DS RRSIG
 GEKFJ55LDTA79ES9D907M79CB9GERFD1.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. A98wLujMCNBwyL6vU+VNiwsUoPc1+surTI9KxzYqXRsUfzQDG8+lMI5r yTjWggz5u7wYn1PiSQ76Ri/ADDY8IF6s5t5k/zYHZkSPdkwt+TpIu7hy tXbRr8haLfmNbBZpl5JuB6CTge3X4c6Zz8GmhsqHUWvjBb/SRiR0lASG 79fHjIkFu6vI1yBRVvyXDOFfZhTOD1LdN/KXSkQoTMiGN11fpldr76in QUlhveDw+S5Qc/VwzJlUTSWEh9N3LRFnyUETpIeE3eoJ9QSFtRifI3TL 00p9s7UszRhcDUCHIasS4zSj/gtIcRtqSs+THq5hULUtIQoHBfPOFloP Blqw9Q==
 GFHPSENA5HLM4ATNFCBH29GKMRSDSGNH.gl. 3600 IN NSEC3 1 1 0 07015CFB GH792H1U3P1P313S2UALF5BOMK8M1UEF NS DS RRSIG
@@ -22726,16 +22726,16 @@ L3BP4A9R1C2I1M9FDT1DF4N7UJMO44OU.gl. 3600 IN NSEC3 1 1 0 07015CFB L4L42A4JGCQF02
 L3BP4A9R1C2I1M9FDT1DF4N7UJMO44OU.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. kZe2lUJu5FO/dbHFyjupIa7TSW/6L4qdiq1kwGoTYCdV2SHFNehBnIFJ okRZxiWYiL8ZqvKvV0mauRl56/RDdo+Gds2n08IWIDJjQYGOWjPuy1Au htCbzJLC/0HhxwbHfJPnr7Ed4Bxyb28nbTp0xjFV3+6idFaKwTkCLcD/ 2yfhgAhCGs71P+7kgLhzEpDPrD5S6cTbq+KO5rn7KW/nY3JrfVC40TTV 3oedr8snsmRUNHh+Al10cfCOHLycsDADzAVDKC9+hbqV7viG/TzrPMQk lMsD7BWseXE0VVrl71FBgE5rbIhV868QiJpIUYp8IjIec+y89ZQbu+LT h7/H2w==
 L4L42A4JGCQF02V3QLNU52JITH7F50JT.gl. 3600 IN NSEC3 1 1 0 07015CFB L7CH1ILA6QDRRJLAS5VPCFAOR4HOEQRB NS DS RRSIG
 L4L42A4JGCQF02V3QLNU52JITH7F50JT.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. UFXQgaEZnAxgA5pN8sEh8kD7WqmTV5fLb4zf89ECwkpPHzKLmEf2UMee T20aQ//IMAS3isRAImtuK2rEe5yhOf1CK6ObA4NWQNEBZ7eO8ukuph/+ 2AWsdz3DfR/wjiTvsKgp4pzvsyA3kKb6i3JTny/Ywv+sR+//ULnOiJDu b9/ls3TTnnuZvy0fOB68DMzl19uiEGfuycCIu1GBYhjTr8rRBs7TRK/P 3GOcyw9jLtLCyQOvUFnbNRauMFrt+go/b7pKMh3f0WDA08OvyBlFsm5p 53tH8CcawdIY855u+GU1g11YlxnLjx4UzIaGR+FK8vTRF6r5Zm9D2mpM KEz3Pg==
-L7CH1ILA6QDRRJLAS5VPCFAOR4HOEQRB.gl. 3600 IN NSEC3 1 1 0 07015CFB L7D28AE1BHKQ8ITBVURAFN48F2S4L798 NS DS RRSIG
 L7CH1ILA6QDRRJLAS5VPCFAOR4HOEQRB.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. TDRofho3odEpg5kmc28gFzQaMaFCLbEQqMgGqvIlLKlDlDwGKmtiHPZ+ gGaLLNMMbNnzx2IEcAk2Z1yLYiHz7JVznSkLYq2IWZi+b3kUVVqeSvlH 5LjZxEpIwv7UFf0Tt81fR0aHOSsiZk2HjcvL3P2j3zyhOZ/mc0X2uu5w yL10n1mvubri0qe9+9dflcGl2UX1JNOjwaFo1lc2SpPNwJxbZiM6T9Lb L1xTJY8JMKBE+nSx6J9N/oVOYSznVXsik2WfPXP+ZGnXkWjJDwOIaXqB Obyxa/jOfjF1g4lzGsJBW9awBUSM0QgynpWMoFSDYplMgVy8mrYqRd/r 4I85mQ==
+L7CH1ILA6QDRRJLAS5VPCFAOR4HOEQRB.gl. 3600 IN NSEC3 1 1 0 07015CFB L7D28AE1BHKQ8ITBVURAFN48F2S4L798 NS DS RRSIG
 L7D28AE1BHKQ8ITBVURAFN48F2S4L798.gl. 3600 IN NSEC3 1 1 0 07015CFB L8A8CNHCFSMK42DLTTEARBITQA7ECEUB NS DS RRSIG
 L7D28AE1BHKQ8ITBVURAFN48F2S4L798.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. iFLFVyKP2N+fwLr9bxct64NJ5+54J+lCDZPHWnYv6cxkmOs/w8GsUsUy 08Fski/nZxc3bcmeK+ZXnAoYHCRYTMJ+dwZIbjqv/Tx6kV+ZoVpRLWKm jZBdL8TcQKdADatobo0lGP0ezJAsBrsAnRSXqaEG0etrmBT0TyZACEwf 2gXrFRtDjYFkW7dwE/BP/dDr8odsfUvrj/3UTfQ+gFmKMf6iHpzZ6j7r 4ZxeR4IKijVXoUC+0jDgHDMQqrp2wmTSfXjmvAj7F/UzADk9hKX6exJr 5DICwf60U1wB42p7Bc9a2YiHs7TzdvDsMa9WgBA1RkduI354EGjYIT90 1z6fWA==
 L8A8CNHCFSMK42DLTTEARBITQA7ECEUB.gl. 3600 IN NSEC3 1 1 0 07015CFB L8NV9JAQIJNN8PO7VCS1BAFHQPGKFQ6N NS DS RRSIG
 L8A8CNHCFSMK42DLTTEARBITQA7ECEUB.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. SF4aLQRMro0OjU9IOaA175l8CjnjvQxcnk/MH3ZXTsCcAIu57CkdwhnX NdgMKyr2qVQ9Z/J7MDGVWWqEvpeyKiVRZpNu3pH+MyTjq2Wu8K2fpTU0 mxGGEokaKQw1bRUvweFj/HEOAqRtR0PX28FoNsQspWyDJiUpdm+xg4Lu 6R/PYpiAIuQAb6ejwr/qfg4siqZCVc9YNZ8gzdosvMnXi9dvf26coPu8 NsPRdteaFKuzNbZUG0u+/eTSOQ8OVXjmtm4OXSJVvYpdhQQOIzbh1Rcw JlGy86fntHhEqRBZovHL4zC2/NGT/hAKhyHtQtez5CUhh4g7Rm+f4OEz Bz2uRA==
 L8NV9JAQIJNN8PO7VCS1BAFHQPGKFQ6N.gl. 3600 IN NSEC3 1 1 0 07015CFB LAET1TG8VJSS6O0SVVQ9BTJ18A6FOTU6 NS DS RRSIG
 L8NV9JAQIJNN8PO7VCS1BAFHQPGKFQ6N.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. UJyil7WRMahfwNwgYyG63OKv9e18cUu9HHzq5aAICCvEhZa1KN3oJ4EX 2KFukH3CjNBygTX8AawpbeXppu2u+raLKAIGhZXd9QSREELy9TasPT2g vBy8br3Jn6yOlxIpVSjyVeEo08+4ZsrfUPdd0tViZuQbSeCEVcIJsNC3 cwfF6fzdTciPi1i3jZR0imsioq8yIpMhvkAzX0cZKhH6MFnkAmxZbUO3 fHDpWJ1WG4uuG6nGDI+XMIHaYB0BeRo5kgUDaJTPHdTHxoZFFke/3LeB xLrTn2xYWzBmuXlzGvdW6bpnLnVJnRHIr1Rjk04/UI9ZW0tQtiSHdo1H hYLNNA==
-LAET1TG8VJSS6O0SVVQ9BTJ18A6FOTU6.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. AufybQwLO7uvDkSndvT2nATteU0yVPcaMF69cHCDkIAnoyKvq/SWbK+0 +mR2RWT+ExJPUiGusGvui6oaBkIvJmpKR55CGv2DBiZiETsAbkAVFUCy Wuf1hY3tbPuirmEwJMSZDOtdmhpcvYwiQrpBxQgoqpajmxF05SMpIqCt Dnp8ZXvpNt5F2DnC86kjwlPJhywC9IKTBQoS9kFWTX66VM6xaHka5D4O hitN1tsV3iOruJlcAgn1Ii5JDzKvJcrCJjKtWUrQkK/+B9PJKNIdA5Vh 1OylAQqgdLacIQdEQt4u+zoAmtjKEfxBEMpWfcgUrmF+TDC6ERTvDye7 xtQ2LA==
 LAET1TG8VJSS6O0SVVQ9BTJ18A6FOTU6.gl. 3600 IN NSEC3 1 1 0 07015CFB LF5G6H015Q7OGTGVT0KVE51U5C1MMT97 NS DS RRSIG
+LAET1TG8VJSS6O0SVVQ9BTJ18A6FOTU6.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. AufybQwLO7uvDkSndvT2nATteU0yVPcaMF69cHCDkIAnoyKvq/SWbK+0 +mR2RWT+ExJPUiGusGvui6oaBkIvJmpKR55CGv2DBiZiETsAbkAVFUCy Wuf1hY3tbPuirmEwJMSZDOtdmhpcvYwiQrpBxQgoqpajmxF05SMpIqCt Dnp8ZXvpNt5F2DnC86kjwlPJhywC9IKTBQoS9kFWTX66VM6xaHka5D4O hitN1tsV3iOruJlcAgn1Ii5JDzKvJcrCJjKtWUrQkK/+B9PJKNIdA5Vh 1OylAQqgdLacIQdEQt4u+zoAmtjKEfxBEMpWfcgUrmF+TDC6ERTvDye7 xtQ2LA==
 LF5G6H015Q7OGTGVT0KVE51U5C1MMT97.gl. 3600 IN NSEC3 1 1 0 07015CFB LFQ9IHQIAML5LSSI3A29NC63TPV78A2F NS DS RRSIG
 LF5G6H015Q7OGTGVT0KVE51U5C1MMT97.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. Ut/xeeFmT8tUqRBpuFGxfLRL4xlp77ITLjZjn9lhdcfrQx6ZRrWPVEMT h7pYMDn6ClyhP0lsXEjzD+Lhf2T3drgSqoMIBodZ6znAMlB8XnuVHPzH B6wyD3cAIbFQt2un5KAF9jIuAC5Kx8BGu1MRkmrbVfKq2YplKlwQp+MU D9e7krwE4204hdj0F/rKJlEWGudNsy1MZ5p4dz/G5IFPyIMMRWnQPZzi zyV2ZDrE7MivjFEObo5zAQJRVu/Vp8pyMFLHFTqP6lw5qHlhqm8GkGsG DsdsQozfM52Tut/ijDapfydbMBEFCO0tlmf+M/R1sXtXgdqJV0fyCydP gJ91RA==
 LFQ9IHQIAML5LSSI3A29NC63TPV78A2F.gl. 3600 IN NSEC3 1 1 0 07015CFB LGJ6HFLK6TFT3PQLGE96DAEI5RLRUHDE NS DS RRSIG
@@ -22908,8 +22908,8 @@ P7QJNJ84LP63LCLGKOM65EAP55F4TSKH.gl. 3600 IN NSEC3 1 1 0 07015CFB P7S8ARU9EUCOGF
 P7QJNJ84LP63LCLGKOM65EAP55F4TSKH.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. JXGkStMMULiZZitKcv69+IL3gS7BGjtzLQ+1JNfDRZzqSzVxphANRc64 ECNX4P6926MCj4vHEjSgTkpgAdQLXtjXjcXbRr7gGiiPvvGmy33rSgTy Tnc78d9P7Di4YLAJj2JhtnaAE/LRhRwmmdZc+kgR4psbYh3xUg1vmOos H/DNrZ0XatXZdvliTZJPxl52BVb41gq8ygr05ou5aFc3lMRxvg+Wia/j Bp4XNu4SWgqt/D3fer4ou9iJ370VW+5TDjjTsC/5wKr2cjSsf2h4yv20 ZBcKuu6HhwI7AO4SZZhMUcZIND2JaqjmSoBHZ2hoiDVgtiEVgRjzzIaC hM2W1w==
 P7S8ARU9EUCOGFHDNC5NUCEBUURL7DC5.gl. 3600 IN NSEC3 1 1 0 07015CFB P834R3R1IQ55A7CRJ55ON3B95OH3CD2U NS DS RRSIG
 P7S8ARU9EUCOGFHDNC5NUCEBUURL7DC5.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. A/pLcF1yHtG0n3XxAOzdDj8q3i+10VvD5zMWs10DE4I3iUUbyTYJhkcI 1hMIcp5VPkCYUJZc462O/H24icMdwoV9mwX14FkBpLeMlbZ6+zLx340y 7tbdL/UoEEQBKDbMoH65Anc5pCTahZCNcf16m7XbZeJOoktnspGU0CkD XKPHjaASEv3Abl3YJ0O69UehsSRyEHdgcgX+5dWGMCKymdpn5BN57n6T NI7ogmd4gyGJjnmzLjnkCljVO+Yzvr/M3deMV2onLYWwRyeshifG6y0x +d1rA3T0jMvI/D3mAL8yxO92id+Ybw26+EIidGzfLuMXnJIgdlcbLk7p i6542A==
-P834R3R1IQ55A7CRJ55ON3B95OH3CD2U.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. akZCUeZOTl70ux+9sR4MOJKIG3jF6qD0s5RyvV9ftvrzeX41g2ZY+4/C CNmI/eZLPU+kJe1UJc0aVYZW87lsFsV1D7zp6k65p8EC3SfPy5UCv64V 1xaTzIKkk4S6A+2ATY+LnlMkQv1exnxBFpSiXjTCQMI8xhUy6tqt2kPM 4QVSOJQRpUkgdtExXy/GcSKLDJP5k+KFANyIwQxRCCC4f2SVMlrXe1aa V/L3DDhm0/C37XRKzAZgKUo9wDjbM0LmL3WdFM+vYjqQGvU+IQ6KCQe2 tAm3t3sjyIfCjYLC5p0eD2QxvU8OviWM4nnezHJ8qxkf8mSct5Pq9N1G xR2vgQ==
 P834R3R1IQ55A7CRJ55ON3B95OH3CD2U.gl. 3600 IN NSEC3 1 1 0 07015CFB P8E1EL4DOE2D9C52MQVKK53ASD4UCCG4 NS DS RRSIG
+P834R3R1IQ55A7CRJ55ON3B95OH3CD2U.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. akZCUeZOTl70ux+9sR4MOJKIG3jF6qD0s5RyvV9ftvrzeX41g2ZY+4/C CNmI/eZLPU+kJe1UJc0aVYZW87lsFsV1D7zp6k65p8EC3SfPy5UCv64V 1xaTzIKkk4S6A+2ATY+LnlMkQv1exnxBFpSiXjTCQMI8xhUy6tqt2kPM 4QVSOJQRpUkgdtExXy/GcSKLDJP5k+KFANyIwQxRCCC4f2SVMlrXe1aa V/L3DDhm0/C37XRKzAZgKUo9wDjbM0LmL3WdFM+vYjqQGvU+IQ6KCQe2 tAm3t3sjyIfCjYLC5p0eD2QxvU8OviWM4nnezHJ8qxkf8mSct5Pq9N1G xR2vgQ==
 P8E1EL4DOE2D9C52MQVKK53ASD4UCCG4.gl. 3600 IN NSEC3 1 1 0 07015CFB PCQJ47CSV1B93O8PFGJQD6S78RESIP43 NS DS RRSIG
 P8E1EL4DOE2D9C52MQVKK53ASD4UCCG4.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. fGUF69PvQGbJXhTmvJS7RZTb2POHXgW+HfKSRDRqBcice5RKK62QD4+4 7v13sC3gHD7LO72mHS46NIqPOjSpMTYpPQKxQsEJkw/Pzbi1ZzoANuZL Cjtgcq0fz/Mo8RQBqgPOsJeNr+Quo1+CtOWFlsaT/YURrAvX9LrveQZI e+Wrz+z5hkNL7PkSM+o5QlPUEw6xAaa2OjaL9SesWRycy1lOsXX5oVNC Zc8DvS4Hw9T+qVNe4atfC216JHpjpmSJJmMthHTRWcKMaAn78YvWFbyW MNlXqeH3IMsIY4HaZvBiY2/ykVpt8G+VvDY34x3SuYDwZ8JJh/8VGkgw TAYzGQ==
 PCQJ47CSV1B93O8PFGJQD6S78RESIP43.gl. 3600 IN NSEC3 1 1 0 07015CFB PEQ7FREUB6A77LJVFEPTJ9BQO6J13PT1 NS DS RRSIG
@@ -22936,8 +22936,8 @@ PQALP1KG2GVUQNMCBGQVJE5N2Q5S4H1K.gl. 3600 IN NSEC3 1 1 0 07015CFB PUHNH4CUU35OO9
 PQALP1KG2GVUQNMCBGQVJE5N2Q5S4H1K.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. X/Y27KXhsdjhJi9D/c7yKm1raPtESQZsWc3uY6qqLEkl943uv9DIeLBi XGUrh9i7rhmWuFlBWIALji7R45g358m/Yx+SuwgldvSRoYw1IoJVk2e/ 6akDGrcb35gYywjqMnryPVbjaIUCQoJfHy9WlQbJztbJFyKxqyC3SQmc o8Sqg5bWDSsM09MtOa0EeeznLXyYuJGnHQkmlDjco1r+skI6zId6YiSb HaouAkMJHtHqgErfI5KRNK7Kn+zZq/8dg9cO0rvYWcrcHJGFKl7z0oT2 qfipyw5M3h/IzzSRjIoL0Oz4IiUWLQvwh24pk/zlwYxAyFcvMwSNXggB yU+YoQ==
 PUHNH4CUU35OO9T1SN83E0PPI8GSQOM3.gl. 3600 IN NSEC3 1 1 0 07015CFB PVUJHCP6SUPMPVD2F4A1BSV88JTJQIPH NS DS RRSIG
 PUHNH4CUU35OO9T1SN83E0PPI8GSQOM3.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. C1mCQVkQeIVXxgHajctq23SgSRyNzOsDL5AHM/b0Hvjg+KvVXwLtP03r 7pmMryQFOYGA1zj5Q8teKgL1Gz88orB4P3CDFcChRFpL8nvVSAZRw+b9 0m2pX5pzfNtDKRd27wGNaNtQ+5smS31VEEfp7Oodmbv4peEMfJcb986Z iTcTCZz5EbrBrjbb3AbAxuHvnOXgPF+RkhPBP08CTU2EvN9W/XhY3hv3 w8TqyaCs3POWfI8+ka833nEN47ic0AdPeVmiwZWRxtWPkOfjbi4rV1CN hOIAezhN5sW76mGfxb6NDBwpSpcxxtcj9cMnbhHDvbrBzW2fFMoltE5e Achylg==
-PVUJHCP6SUPMPVD2F4A1BSV88JTJQIPH.gl. 3600 IN NSEC3 1 1 0 07015CFB Q0BJSSDPDUKGMF08EVLMF47ATQDDKCS7 NS DS RRSIG
 PVUJHCP6SUPMPVD2F4A1BSV88JTJQIPH.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. aBBPjZ1gR/QF7oJ2S5V4Sih1sZTxss5LUnXgOOMoVXczlf+OT4Q0HSr0 vK2/AZic5zQx5zexEGXkwxfkM7+93AyrSoMS77ofaDynzZy2I69nsR5O zxrkMfD0ycQanu4lhZh6QYifO4uWXRGAXcauvKMaZYHv/WZtIrgHxQk8 TTB0RL0Gh4HZGa7lxN+5Fizif6GnXpPMyQ8zbu7ZfXApKyACMdAGDDhe KT7H+KoxXW1ewMCVc8TY9pnNO8fO8KFO7asuGSkVKN/odKOv/9bl/Fck noR6tfB9Hbm+s9TiUJNSrLl9z7YCZfLux8KCRgx/8s0IdqvMUmS2o1hi WymHnA==
+PVUJHCP6SUPMPVD2F4A1BSV88JTJQIPH.gl. 3600 IN NSEC3 1 1 0 07015CFB Q0BJSSDPDUKGMF08EVLMF47ATQDDKCS7 NS DS RRSIG
 Q0BJSSDPDUKGMF08EVLMF47ATQDDKCS7.gl. 3600 IN NSEC3 1 1 0 07015CFB Q3BITFPCD0D8BTL6DFGDOENQLHMDGDF0 NS DS RRSIG
 Q0BJSSDPDUKGMF08EVLMF47ATQDDKCS7.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. evonC3djecF5dUMOXCEfZjtsFwiE2j/ZZZHoo03ilHAhQnIy84fkE2Cs xLkQmBWreV0ydInMRiMAjvPGGEhAn1k9/4uGz3WNvHndJHw1mjbAlZJe /zyCaOE5DNWBwgfuXYr48z/HwVnm4KhwbH+6etijo9RM3zx6Ovcv4PqG XspNptA27MaVRoKiV+uOf1rnEn7defwhP+JmJ7+5bKwD04GYB9DGRCeW AqFYKiOVthwQa1EnFrY+N+/IZodNkPrl4jySah6WIiDH+uKCPmT+UQ6E D+U8mt+RQdYW3AO5OAavizM1mNekTKKEQQGcqH41qO6ky6F8Qu8Qv7S7 GHFEeA==
 Q3BITFPCD0D8BTL6DFGDOENQLHMDGDF0.gl. 3600 IN NSEC3 1 1 0 07015CFB Q5D6APCBG6DS3OMGL3T5L9GBORLP5HCF NS DS RRSIG
@@ -23186,4 +23186,4 @@ VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN NSEC3 1 1 0 07015CFB VSRDHHU2SC8F0D
 VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. j1Od8QqavMQKol0xVJjQoLX6rRjyJtPj3AZ8vjig+xNTxJPJsQjjs96+ 65wLKTtfFMTr7J/MKA4McfVKRQnqBh1KpthKA7GzYxoCMEs0xZGKjIxY sDhAf4SD6/fDih8+q2cMWvvPQUeEkvZ1eVTKhYm7IxI5HggTQ77i62zi UOTpb4MB1AZgYG3WIt6vvQl8RxdrXY3pA20EWLrAMilnKhzNsCdV3CXU 8+wc7c0Q2aaDr4TEO292blUI8BDPuHnt/iFbw7icA0hJy2qVki6rQUJR BoifYEFgBb0HZZ4+tKNiMz5g2jlMatebtp7A2jTtndYjqgjFHVDy30pA HA9i0Q==
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN NSEC3 1 1 0 07015CFB 00HNG94DA18JDLB8TJGHQB402HJ845A2 NS DS RRSIG
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. XosdvqgfZf1MJxDUbNeXWH0h50a8GjrAG3xOk+EgXzGmgiND37bpmCg2 h91UmZGxKMhmwE7MFddAAGE6bJU6U91G3msX9wpvfpMMoziXAQ8wY8AP Wt2lHSYjWXXJ25ZQvHVLQX8myAl9PM0jq2clbKAdwP7TrTtsUnr0qjNh sYv47CN+2d6fecnx8xLES+MFsx/LuPoCm9jYWGlQ+hmHQd8bgQUYfqkx ZNH/aICCIskqTOC829h27ERMrAjoWIe9Q1IjMEH28nElI4WLOa5kDD/x rRUENMauRiycGX65X9Hk3Gh5tzh7dyPzMEIkaHnnvpyMr915FX8624n/ Jw/ntg==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022156856 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022156868 900 1800 6048000 3600
