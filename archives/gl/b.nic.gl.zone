@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157202 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. YNo/mfXES26hDq92C6PjP7tyQRTl6gq6WVlLiLqLVZ200ycAfyt7vjCC H6JK47hUpTTBk1YWY6DXc3nsWQ5Dg0FIort07gHOv4aY41a9H92dRAf0 ltSGXkIkntnkxtx+bfzQpqwtBmP4g1smXt9qgzoEHJLsMwDZoYozOD3M 0wsT8Qdqwm4iy2ndCPmITlZP2K20ZHWG5tiy3GQRawhwxs9LiZ+lXHN7 vYvpXdx38YUEFvvP2oEga4dCiM2wdNiSzuAFIlAtu2I11YYvcB51ex4F zWRqA0Gcn3GfqD3yUhU0OIN04agT32Wj7imGvtK3cmMaiNwgULZEvt7O BcH46A==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157207 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. F80BvoaZ4LXQ02uDqmfMLOTStcKM8ZhrLX38KPns/qT+QWBQOhozili3 n6sNxCBbPh4Y68R+4uJ/QDdzfK3tXbuan230PhhMRM/4JNkYQEQn0yfJ fws1sNu81opdcrmkyk55ZBlerpCBu4D7BobJErIe8kd0S9bcgA5/j11n RjeG5jJ6WWMcPQ8vyoAbNaZic3lvZhoS7/OkeDah+6fyBseMcVMXwe5D U+VgI9azI/vEhCB3okqlELpLY0RtnzJ9v/+M4JsTM1dqgQKg/QDq1VJw ftJMgUoSz9sDCnd11zhzzBPe4rgc64P6zMMnJoEuVVXKrFqm0umN8VYF Epg5pQ==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -12377,6 +12377,10 @@ mh.gl.			3600	IN	NS	ns1.iwantmyname.net.
 mh.gl.			3600	IN	NS	ns2.iwantmyname.net.
 mh.gl.			3600	IN	NS	ns3.iwantmyname.net.
 mh.gl.			3600	IN	NS	ns4.iwantmyname.net.
+mhdrone.gl.		3600	IN	NS	a.hosting.gl.
+mhdrone.gl.		3600	IN	NS	b.hosting.gl.
+mhdrone.gl.		3600	IN	NS	c.hosting.gl.
+mhdrone.gl.		3600	IN	NS	d.hosting.gl.
 mht.gl.			3600	IN	NS	a.hosting.gl.
 mht.gl.			3600	IN	NS	b.hosting.gl.
 mht.gl.			3600	IN	NS	c.hosting.gl.
@@ -13282,6 +13286,9 @@ natmus.gl.		3600	IN	NS	a.hosting.gl.
 natmus.gl.		3600	IN	NS	b.hosting.gl.
 natmus.gl.		3600	IN	NS	c.hosting.gl.
 natmus.gl.		3600	IN	NS	d.hosting.gl.
+nato.gl.		3600	IN	NS	ns1.netim.net.
+nato.gl.		3600	IN	NS	ns2.netim.net.
+nato.gl.		3600	IN	NS	ns3.netim.net.
 nattoralik.gl.		3600	IN	NS	ns1.simply.com.
 nattoralik.gl.		3600	IN	NS	ns2.simply.com.
 nattoralik.gl.		3600	IN	NS	ns3.simply.com.
@@ -17787,6 +17794,9 @@ set.gl.			3600	IN	NS	ns1.iwantmyname.net.
 set.gl.			3600	IN	NS	ns2.iwantmyname.net.
 set.gl.			3600	IN	NS	ns3.iwantmyname.net.
 set.gl.			3600	IN	NS	ns4.iwantmyname.net.
+setup.gl.		3600	IN	NS	ns1.netim.net.
+setup.gl.		3600	IN	NS	ns2.netim.net.
+setup.gl.		3600	IN	NS	ns3.netim.net.
 sex.gl.			3600	IN	NS	ns1-coming-soon.sav.com.
 sex.gl.			3600	IN	NS	ns2-coming-soon.sav.com.
 sexhibition.gl.		3600	IN	NS	ns1.hyp.net.
@@ -20469,8 +20479,8 @@ usa.gl.			3600	IN	NS	a.hosting.gl.
 usa.gl.			3600	IN	NS	b.hosting.gl.
 usa.gl.			3600	IN	NS	c.hosting.gl.
 usa.gl.			3600	IN	NS	d.hosting.gl.
-usdt.gl.		3600	IN	NS	a.share-dns.com.
-usdt.gl.		3600	IN	NS	b.share-dns.net.
+usdt.gl.		3600	IN	NS	vip7.alidns.com.
+usdt.gl.		3600	IN	NS	vip8.alidns.com.
 usf.gl.			3600	IN	NS	ns1.modulo.gl.
 usf.gl.			3600	IN	NS	ns2.modulo.gl.
 usf.gl.			3600	IN	NS	ns3.modulo.gl.
@@ -23219,4 +23229,4 @@ VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN NSEC3 1 1 0 07015CFB VSRDHHU2SC8F0D
 VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. j1Od8QqavMQKol0xVJjQoLX6rRjyJtPj3AZ8vjig+xNTxJPJsQjjs96+ 65wLKTtfFMTr7J/MKA4McfVKRQnqBh1KpthKA7GzYxoCMEs0xZGKjIxY sDhAf4SD6/fDih8+q2cMWvvPQUeEkvZ1eVTKhYm7IxI5HggTQ77i62zi UOTpb4MB1AZgYG3WIt6vvQl8RxdrXY3pA20EWLrAMilnKhzNsCdV3CXU 8+wc7c0Q2aaDr4TEO292blUI8BDPuHnt/iFbw7icA0hJy2qVki6rQUJR BoifYEFgBb0HZZ4+tKNiMz5g2jlMatebtp7A2jTtndYjqgjFHVDy30pA HA9i0Q==
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN NSEC3 1 1 0 07015CFB 00HNG94DA18JDLB8TJGHQB402HJ845A2 NS DS RRSIG
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. XosdvqgfZf1MJxDUbNeXWH0h50a8GjrAG3xOk+EgXzGmgiND37bpmCg2 h91UmZGxKMhmwE7MFddAAGE6bJU6U91G3msX9wpvfpMMoziXAQ8wY8AP Wt2lHSYjWXXJ25ZQvHVLQX8myAl9PM0jq2clbKAdwP7TrTtsUnr0qjNh sYv47CN+2d6fecnx8xLES+MFsx/LuPoCm9jYWGlQ+hmHQd8bgQUYfqkx ZNH/aICCIskqTOC829h27ERMrAjoWIe9Q1IjMEH28nElI4WLOa5kDD/x rRUENMauRiycGX65X9Hk3Gh5tzh7dyPzMEIkaHnnvpyMr915FX8624n/ Jw/ntg==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157202 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157207 900 1800 6048000 3600
