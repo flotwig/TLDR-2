@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157229 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. X3we/WDCx/hwiYzeuXYGAiP0zIIVveA9+mNxgkAO3ALkvVVpWldFByaW /rz74SKIYCXj2gSPgSmZ2sADnx2PO4JLzwYI7/VNkFy7KThUgm4N3MMV D7CpYCjEQXg/I1ZnV17YhEXU3CqlQp5utjnA4Lv5eCkjBplgvAc13nfp cw4HHHWaVwZjIsa18n8oGRuRDHk6/GfoAUclqWUPd0fvSA9brdo7eHBb pu6EESxSYe8X7/I0Aw8WQIuHDjEma0fl6W2iaCdiwEHmWEM9JdpejWwZ xEep6hWvz9RgFU0AqIlUM6koLtTFpBHZ4liT//xDk5WXQp0RlzwBJvlX H/M0eA==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157234 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. cQKc7R4mA1QYbKXttvHjGLsuLU1KaHP/67uFg+nlsvEZRl5NRfhaqifN gDX1nnHRHMLxNNmZXbk6hihkcz23nZIO7pVaC0Rw/2PluQa1vVGxyNsX AUs/JVlbIzhPJvSiBmKmMcCxIxb/bE6tHsSDl/gEXqJmclIouWWPWLk2 sGrqPk2UNZW8ie+1frsmfRQOwP8GxwzPPxdhIOUgSoYDM9zKXM/SSAC0 iUilc7nM2ytHevFl/zm/Gz0kQOCzdhOiG9la1M0ELz4J2yi/HLEu7tiX RSqgtBYdF+q2Xv6SMY71JPwe3Ijy6ICCL82oVGyiWzRAoDen2FTHp0d9 IM3yLA==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -8268,6 +8268,8 @@ htx.gl.			3600	IN	NS	ns1.ispapi.net.
 htx.gl.			3600	IN	NS	ns2.ispapi.net.
 hu.gl.			3600	IN	NS	indie.ns.cloudflare.com.
 hu.gl.			3600	IN	NS	renan.ns.cloudflare.com.
+hub.gl.			3600	IN	NS	ns1.fozzy.com.
+hub.gl.			3600	IN	NS	ns2.fozzy.com.
 hubble.gl.		3600	IN	NS	ns1.dnsimple.com.
 hubble.gl.		3600	IN	NS	ns2.dnsimple-edge.net.
 hubble.gl.		3600	IN	NS	ns3.dnsimple.com.
@@ -18705,6 +18707,8 @@ startups.gl.		3600	IN	NS	ns3.iwantmyname.net.
 startups.gl.		3600	IN	NS	ns4.iwantmyname.net.
 startv.gl.		3600	IN	NS	dns1.cscdns.net.
 startv.gl.		3600	IN	NS	dns2.cscdns.net.
+stashpatrick.gl.	3600	IN	NS	uma.ns.cloudflare.com.
+stashpatrick.gl.	3600	IN	NS	nash.ns.cloudflare.com.
 stat.gl.		3600	IN	NS	ns1.modulo.gl.
 stat.gl.		3600	IN	NS	ns2.modulo.gl.
 stat.gl.		3600	IN	NS	ns3.modulo.gl.
@@ -23235,4 +23239,4 @@ VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN NSEC3 1 1 0 07015CFB VSRDHHU2SC8F0D
 VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. j1Od8QqavMQKol0xVJjQoLX6rRjyJtPj3AZ8vjig+xNTxJPJsQjjs96+ 65wLKTtfFMTr7J/MKA4McfVKRQnqBh1KpthKA7GzYxoCMEs0xZGKjIxY sDhAf4SD6/fDih8+q2cMWvvPQUeEkvZ1eVTKhYm7IxI5HggTQ77i62zi UOTpb4MB1AZgYG3WIt6vvQl8RxdrXY3pA20EWLrAMilnKhzNsCdV3CXU 8+wc7c0Q2aaDr4TEO292blUI8BDPuHnt/iFbw7icA0hJy2qVki6rQUJR BoifYEFgBb0HZZ4+tKNiMz5g2jlMatebtp7A2jTtndYjqgjFHVDy30pA HA9i0Q==
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN NSEC3 1 1 0 07015CFB 00HNG94DA18JDLB8TJGHQB402HJ845A2 NS DS RRSIG
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. XosdvqgfZf1MJxDUbNeXWH0h50a8GjrAG3xOk+EgXzGmgiND37bpmCg2 h91UmZGxKMhmwE7MFddAAGE6bJU6U91G3msX9wpvfpMMoziXAQ8wY8AP Wt2lHSYjWXXJ25ZQvHVLQX8myAl9PM0jq2clbKAdwP7TrTtsUnr0qjNh sYv47CN+2d6fecnx8xLES+MFsx/LuPoCm9jYWGlQ+hmHQd8bgQUYfqkx ZNH/aICCIskqTOC829h27ERMrAjoWIe9Q1IjMEH28nElI4WLOa5kDD/x rRUENMauRiycGX65X9Hk3Gh5tzh7dyPzMEIkaHnnvpyMr915FX8624n/ Jw/ntg==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157229 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157234 900 1800 6048000 3600
