@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157367 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. LmDPxuvtL22SdKfAfRXJCk2GFqpgc+mpvWKwGy2NBqNVqm/ODKn2LLYg JT4g+ccooM641FVh3BvmH/Wr9Vo03PlFbrPh1zZ9wlFGU6dBmb60nU7p uiTJ+W8GgCxHKr3nAdoaEQb+X8CZCf7pVZoM19iw2WsTC/uU2WGkyTRd TnTblaomfdA/jJGAOswImoVs60HJUBA6HcM4uIcUftifuZC/+FBVq58f 4wlA/QFl7oQzwpD8j3oUhmw4CuhKnh8v01AMdeti3HvqAjTbYX9wEZhq IqzopdkjBacT6xMsLUYSK9t5SwXgPL5Npxx8GTzbiyonNYCNiWnlNZko JrTE9Q==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157376 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. EtuyYADzAW6P+wrYvcM3qd56JjRZjpX89OkZRVsPVnUu4QDzG3MHr+D2 /TMkQjzDhvNhn0PEqkQxXaugeODn12xJpk3mtSm7KGNyCfrEqMvvDW8b aawvbRKkJ237B3wVwoVbmvWB1GimfYRMj5mxVLuzJpjskq6edmpiqilB aHwjfO+TEmNINoZa5wAMJOY4nisn8h7v3I95WoyDQAGMRTqSrW2PLH3Y 6MoFLSAIV2rWGN3P+AZkNO8sCkr/JCpbICDcJJK/JJ2PYBAzof/fS03O U6O4cCrxsI4+aicFI/BGEgdIhkbqR0Y0XYxji/XS9TSHpUeHDg8/Iqx+ 4JJGVg==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -3639,6 +3639,9 @@ cb1.gl.			3600	IN	NS	ns2.regery.net.
 cb1.gl.			3600	IN	NS	ns3.regery.net.
 cbd.gl.			3600	IN	NS	ns1.siteground.net.
 cbd.gl.			3600	IN	NS	ns2.siteground.net.
+cbdoil.gl.		3600	IN	NS	ns1.regery.net.
+cbdoil.gl.		3600	IN	NS	ns2.regery.net.
+cbdoil.gl.		3600	IN	NS	ns3.regery.net.
 cc.gl.			3600	IN	NS	ns1.netim.net.
 cc.gl.			3600	IN	NS	ns2.netim.net.
 cc.gl.			3600	IN	NS	ns3.netim.net.
@@ -8142,6 +8145,10 @@ hotelnuka.gl.		3600	IN	NS	ns1.aputit.gl.
 hotelnuka.gl.		3600	IN	NS	ns2.aputit.gl.
 hotelnuka.gl.		3600	IN	NS	ns3.aputit.gl.
 hotelnuka.gl.		3600	IN	NS	ns4.aputit.gl.
+hotelnuuk.gl.		3600	IN	NS	a.hosting.gl.
+hotelnuuk.gl.		3600	IN	NS	b.hosting.gl.
+hotelnuuk.gl.		3600	IN	NS	c.hosting.gl.
+hotelnuuk.gl.		3600	IN	NS	d.hosting.gl.
 hotelnuukmarina.gl.	3600	IN	NS	ns1.simply.com.
 hotelnuukmarina.gl.	3600	IN	NS	ns2.simply.com.
 hotelnuukmarina.gl.	3600	IN	NS	ns3.simply.com.
@@ -18704,8 +18711,8 @@ stashpatrick.gl.	3600	IN	NS	uma.ns.cloudflare.com.
 stashpatrick.gl.	3600	IN	NS	nash.ns.cloudflare.com.
 stashpatricks.gl.	3600	IN	NS	ns3.my-ndns.com.
 stashpatricks.gl.	3600	IN	NS	ns4.my-ndns.com.
-stashpatrik.gl.		3600	IN	NS	ganz.ns.cloudflare.com.
-stashpatrik.gl.		3600	IN	NS	mina.ns.cloudflare.com.
+stashpatrik.gl.		3600	IN	NS	ns1.bluehost.in.
+stashpatrik.gl.		3600	IN	NS	ns2.bluehost.in.
 staspatrick.gl.		3600	IN	NS	ganz.ns.cloudflare.com.
 staspatrick.gl.		3600	IN	NS	mina.ns.cloudflare.com.
 stat.gl.		3600	IN	NS	ns1.modulo.gl.
@@ -18975,8 +18982,6 @@ sunshinedelights.gl.	3600	IN	NS	ns3.hyp.net.
 sunshinedelights.gl.	3600	IN	DS	28727 15 2 AD3AA13635F9E1D9024DD321376B2F6F58A70E9F1EEB0E532B3F6377 17FF35C2
 sunshinedelights.gl.	3600	IN	DS	28727 15 4 7842453597377B21F5BE7D46E19D7C60C4B9D135B2CB7C12F2077022 0BE673B58C5780D8A808702264169FC0F66E8C5E
 sunshinedelights.gl.	3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. hpNGXQyUQnWXLw3ydP2bceZGwX/am/RM6fAtd1VEKbVztcCcg5km6eVI 7rYZ75cHplzBjnQdbAc9DJ/tTplzP3dHvwALm8VLXLEj0ZrooJxdB0JN 9Tiyyv7rYUsge0tzxRjowpzuRT7XN/nxXRz1VV+KiBGCxffz8nMpw9EF oqnnE5s4WAPqbXxUENO8qyKYVefueniNjZAsGwn4ImhDX5Vv2XtnYS5a VXSvdzFT+tGK7atP++BLgIbKlq8O0yiSqHngotSSxG9gJ4z3ycz5OHoD jAEYsSzIbzUX8PXP2xbZr4Vx2VMLKAEccKNuEfxVM3eIkztIMhrNmu2/ hPAMuQ==
-sunwin.gl.		3600	IN	NS	brenna.ns.cloudflare.com.
-sunwin.gl.		3600	IN	NS	everton.ns.cloudflare.com.
 super.gl.		3600	IN	NS	ns1.super.info.
 super.gl.		3600	IN	NS	ns2.super.info.
 super.gl.		3600	IN	NS	ns3.super.info.
@@ -19881,10 +19886,8 @@ trade.gl.		3600	IN	NS	ns3.netim.net.
 tradeinvest.gl.		3600	IN	NS	ns1.modulo.gl.
 tradeinvest.gl.		3600	IN	NS	ns2.modulo.gl.
 tradeinvest.gl.		3600	IN	NS	ns3.modulo.gl.
-trailblazer.gl.		3600	IN	NS	ns1.brandsight-dns.com.
-trailblazer.gl.		3600	IN	NS	ns1.brandsight-dns.net.
-trailblazer.gl.		3600	IN	NS	ns2.brandsight-dns.com.
-trailblazer.gl.		3600	IN	NS	ns2.brandsight-dns.net.
+trailblazer.gl.		3600	IN	NS	ns07.gcd-dns.com.
+trailblazer.gl.		3600	IN	NS	ns08.gcd-dns.com.
 tramex.gl.		3600	IN	NS	ns.dinahosting.com.
 tramex.gl.		3600	IN	NS	ns2.dinahosting.com.
 tramex.gl.		3600	IN	NS	ns3.dinahosting.com.
@@ -21659,10 +21662,8 @@ yamatek.gl.		3600	IN	NS	ns1.bdm.microsoftonline.com.
 yamatek.gl.		3600	IN	NS	ns2.bdm.microsoftonline.com.
 yamatek.gl.		3600	IN	NS	ns3.bdm.microsoftonline.com.
 yamatek.gl.		3600	IN	NS	ns4.bdm.microsoftonline.com.
-yardi.gl.		3600	IN	NS	ns1.brandsight-dns.com.
-yardi.gl.		3600	IN	NS	ns1.brandsight-dns.net.
-yardi.gl.		3600	IN	NS	ns2.brandsight-dns.com.
-yardi.gl.		3600	IN	NS	ns2.brandsight-dns.net.
+yardi.gl.		3600	IN	NS	ns07.gcd-dns.com.
+yardi.gl.		3600	IN	NS	ns08.gcd-dns.com.
 ybt.gl.			3600	IN	NS	ns1.kidc.net.
 ybt.gl.			3600	IN	NS	ns2.lgdacom.net.
 yc.gl.			3600	IN	NS	ns1.edgedns.ru.
@@ -23244,4 +23245,4 @@ VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN NSEC3 1 1 0 07015CFB VSRDHHU2SC8F0D
 VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. j1Od8QqavMQKol0xVJjQoLX6rRjyJtPj3AZ8vjig+xNTxJPJsQjjs96+ 65wLKTtfFMTr7J/MKA4McfVKRQnqBh1KpthKA7GzYxoCMEs0xZGKjIxY sDhAf4SD6/fDih8+q2cMWvvPQUeEkvZ1eVTKhYm7IxI5HggTQ77i62zi UOTpb4MB1AZgYG3WIt6vvQl8RxdrXY3pA20EWLrAMilnKhzNsCdV3CXU 8+wc7c0Q2aaDr4TEO292blUI8BDPuHnt/iFbw7icA0hJy2qVki6rQUJR BoifYEFgBb0HZZ4+tKNiMz5g2jlMatebtp7A2jTtndYjqgjFHVDy30pA HA9i0Q==
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN NSEC3 1 1 0 07015CFB 00HNG94DA18JDLB8TJGHQB402HJ845A2 NS DS RRSIG
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. XosdvqgfZf1MJxDUbNeXWH0h50a8GjrAG3xOk+EgXzGmgiND37bpmCg2 h91UmZGxKMhmwE7MFddAAGE6bJU6U91G3msX9wpvfpMMoziXAQ8wY8AP Wt2lHSYjWXXJ25ZQvHVLQX8myAl9PM0jq2clbKAdwP7TrTtsUnr0qjNh sYv47CN+2d6fecnx8xLES+MFsx/LuPoCm9jYWGlQ+hmHQd8bgQUYfqkx ZNH/aICCIskqTOC829h27ERMrAjoWIe9Q1IjMEH28nElI4WLOa5kDD/x rRUENMauRiycGX65X9Hk3Gh5tzh7dyPzMEIkaHnnvpyMr915FX8624n/ Jw/ntg==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157367 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157376 900 1800 6048000 3600
