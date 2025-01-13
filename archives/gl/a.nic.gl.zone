@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157374 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. PPzhdxk68rI0BH1apwdmOzuz35/B7ncIv6f5b4Xjq0+dLmEhyPT8e29C leQGDAAeGeKJft204IOZRfUxneNe0xOVkgUU635stSUG7pgi3iC+hpw3 ebVoRamucjSViRbJOHjzujwGQYqTN5rovQ9GYko/rgNNr0orjxfqKD+g KyNHCWISThGiZyJ7jDh9BvLIQ3xiCOKB24hSuZhNWxiVotPiR4f/ex8u KZGX9dw/atpYZXn3c/Q+gM27b9KA19i2VnEP3s3I344RVvh2HNmHxjUN 5yDedhyLfgllfISQ/8AHHjhHLn5dDFwSiSvDgYWN1ZfnGXSPiejCpsVv jioYrQ==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157385 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. cmQXL+I9Wfmf3BEIGGFXZuTnhqgFyvRH6doYHeG/MFTtnqgpTQxdrXrd pBH4Fh4VfWk/9qURVYf5a+L2xzRdgFXFzg0xQ5fj3+qZWP27DuE5LXLu ANCS69XbQaYrx1wR1aJweeQZxYCt52D0bvhP/bZaumoh1rZnqWeF35wy bxIFNHYhbskhHjekBhtXiv3Ckau6rIRz+RcH++QcPQ4lTL53w3HgHSSy 88jVBzsYxX73/JDMggcdXLXz7heXAeIp190rI8sxI6QykEzN30Zml+bG 0+hPClDK04YZTISYlk9jLMXg2ycdIYk6xiq81Cvhr782eZgzaiqmmNLn RX6p3w==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -168,9 +168,8 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250306050000 20241216050000 57390 gl. gMy8Wv
 24kr.gl.		3600	IN	NS	diana.ns.cloudflare.com.
 24krn.gl.		3600	IN	NS	eoin.ns.cloudflare.com.
 24krn.gl.		3600	IN	NS	diana.ns.cloudflare.com.
-26162.gl.		3600	IN	NS	a.dnspod.com.
-26162.gl.		3600	IN	NS	b.dnspod.com.
-26162.gl.		3600	IN	NS	c.dnspod.com.
+26162.gl.		3600	IN	NS	ns1.netsto.net.
+26162.gl.		3600	IN	NS	ns2.netsto.net.
 26520.gl.		3600	IN	NS	a.dnspod.com.
 26520.gl.		3600	IN	NS	b.dnspod.com.
 26520.gl.		3600	IN	NS	c.dnspod.com.
@@ -181,9 +180,8 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250306050000 20241216050000 57390 gl. gMy8Wv
 288.gl.			3600	IN	NS	a.dnspod.com.
 288.gl.			3600	IN	NS	b.dnspod.com.
 288.gl.			3600	IN	NS	c.dnspod.com.
-29909.gl.		3600	IN	NS	a.dnspod.com.
-29909.gl.		3600	IN	NS	b.dnspod.com.
-29909.gl.		3600	IN	NS	c.dnspod.com.
+29909.gl.		3600	IN	NS	ns1.netsto.net.
+29909.gl.		3600	IN	NS	ns2.netsto.net.
 2bs.gl.			3600	IN	NS	may.ns.cloudflare.com.
 2bs.gl.			3600	IN	NS	hayes.ns.cloudflare.com.
 2cc.gl.			3600	IN	NS	logan.ns.cloudflare.com.
@@ -226,9 +224,8 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250306050000 20241216050000 57390 gl. gMy8Wv
 3.gl.			3600	IN	NS	ns1.netim.net.
 3.gl.			3600	IN	NS	ns2.netim.net.
 3.gl.			3600	IN	NS	ns3.netim.net.
-31284.gl.		3600	IN	NS	a.dnspod.com.
-31284.gl.		3600	IN	NS	b.dnspod.com.
-31284.gl.		3600	IN	NS	c.dnspod.com.
+31284.gl.		3600	IN	NS	ns1.netsto.net.
+31284.gl.		3600	IN	NS	ns2.netsto.net.
 33.gl.			3600	IN	NS	ns1.registry-server.com.
 33.gl.			3600	IN	NS	ns2.registry-server.com.
 360.gl.			3600	IN	NS	ns1.bodis.com.
@@ -274,15 +271,12 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250306050000 20241216050000 57390 gl. gMy8Wv
 404.gl.			3600	IN	NS	kyrie.ns.cloudflare.com.
 42.gl.			3600	IN	NS	ns15.asurahosting.com.
 42.gl.			3600	IN	NS	ns16.asurahosting.com.
-45177.gl.		3600	IN	NS	a.dnspod.com.
-45177.gl.		3600	IN	NS	b.dnspod.com.
-45177.gl.		3600	IN	NS	c.dnspod.com.
-49106.gl.		3600	IN	NS	a.dnspod.com.
-49106.gl.		3600	IN	NS	b.dnspod.com.
-49106.gl.		3600	IN	NS	c.dnspod.com.
-49366.gl.		3600	IN	NS	a.dnspod.com.
-49366.gl.		3600	IN	NS	b.dnspod.com.
-49366.gl.		3600	IN	NS	c.dnspod.com.
+45177.gl.		3600	IN	NS	ns1.netsto.net.
+45177.gl.		3600	IN	NS	ns2.netsto.net.
+49106.gl.		3600	IN	NS	ns1.netsto.net.
+49106.gl.		3600	IN	NS	ns2.netsto.net.
+49366.gl.		3600	IN	NS	ns1.netsto.net.
+49366.gl.		3600	IN	NS	ns2.netsto.net.
 4a.gl.			3600	IN	NS	ns1.curanet.dk.
 4a.gl.			3600	IN	NS	ns2.curanet.dk.
 4k.gl.			3600	IN	NS	bob.ns.cloudflare.com.
@@ -364,9 +358,8 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250306050000 20241216050000 57390 gl. gMy8Wv
 78.gl.			3600	IN	NS	ns1210.ispapi.net.
 78.gl.			3600	IN	NS	ns2180.ispapi.net.
 78.gl.			3600	IN	NS	ns3194.ispapi.net.
-79999.gl.		3600	IN	NS	a.dnspod.com.
-79999.gl.		3600	IN	NS	b.dnspod.com.
-79999.gl.		3600	IN	NS	c.dnspod.com.
+79999.gl.		3600	IN	NS	ns1.netsto.net.
+79999.gl.		3600	IN	NS	ns2.netsto.net.
 7f.gl.			3600	IN	NS	ns2.pd-house.com.
 7f.gl.			3600	IN	NS	ns5.pd-house.com.
 7f.gl.			3600	IN	NS	ns7.pd-house.com.
@@ -402,9 +395,8 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250306050000 20241216050000 57390 gl. gMy8Wv
 91.gl.			3600	IN	NS	ns1188.ispapi.net.
 91.gl.			3600	IN	NS	ns2224.ispapi.net.
 91.gl.			3600	IN	NS	ns3211.ispapi.net.
-93323.gl.		3600	IN	NS	a.dnspod.com.
-93323.gl.		3600	IN	NS	b.dnspod.com.
-93323.gl.		3600	IN	NS	c.dnspod.com.
+93323.gl.		3600	IN	NS	ns1.netsto.net.
+93323.gl.		3600	IN	NS	ns2.netsto.net.
 93385.gl.		3600	IN	NS	a.dnspod.com.
 93385.gl.		3600	IN	NS	b.dnspod.com.
 93385.gl.		3600	IN	NS	c.dnspod.com.
@@ -413,9 +405,8 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250306050000 20241216050000 57390 gl. gMy8Wv
 96176.gl.		3600	IN	NS	a.dnspod.com.
 96176.gl.		3600	IN	NS	b.dnspod.com.
 96176.gl.		3600	IN	NS	c.dnspod.com.
-97063.gl.		3600	IN	NS	a.dnspod.com.
-97063.gl.		3600	IN	NS	b.dnspod.com.
-97063.gl.		3600	IN	NS	c.dnspod.com.
+97063.gl.		3600	IN	NS	ns1.netsto.net.
+97063.gl.		3600	IN	NS	ns2.netsto.net.
 99.gl.			3600	IN	NS	ns1.dns-parking.com.
 99.gl.			3600	IN	NS	ns2.dns-parking.com.
 9kra.gl.		3600	IN	NS	ns1.disabled.ispapi.net.
@@ -18713,8 +18704,8 @@ stashpatricks.gl.	3600	IN	NS	ns3.my-ndns.com.
 stashpatricks.gl.	3600	IN	NS	ns4.my-ndns.com.
 stashpatrik.gl.		3600	IN	NS	ns1.bluehost.in.
 stashpatrik.gl.		3600	IN	NS	ns2.bluehost.in.
-staspatrick.gl.		3600	IN	NS	ganz.ns.cloudflare.com.
-staspatrick.gl.		3600	IN	NS	mina.ns.cloudflare.com.
+staspatrick.gl.		3600	IN	NS	ns1.bluehost.in.
+staspatrick.gl.		3600	IN	NS	ns2.bluehost.in.
 stat.gl.		3600	IN	NS	ns1.modulo.gl.
 stat.gl.		3600	IN	NS	ns2.modulo.gl.
 stat.gl.		3600	IN	NS	ns3.modulo.gl.
@@ -19886,10 +19877,8 @@ trade.gl.		3600	IN	NS	ns3.netim.net.
 tradeinvest.gl.		3600	IN	NS	ns1.modulo.gl.
 tradeinvest.gl.		3600	IN	NS	ns2.modulo.gl.
 tradeinvest.gl.		3600	IN	NS	ns3.modulo.gl.
-trailblazer.gl.		3600	IN	NS	ns1.brandsight-dns.com.
-trailblazer.gl.		3600	IN	NS	ns1.brandsight-dns.net.
-trailblazer.gl.		3600	IN	NS	ns2.brandsight-dns.com.
-trailblazer.gl.		3600	IN	NS	ns2.brandsight-dns.net.
+trailblazer.gl.		3600	IN	NS	ns07.gcd-dns.com.
+trailblazer.gl.		3600	IN	NS	ns08.gcd-dns.com.
 tramex.gl.		3600	IN	NS	ns.dinahosting.com.
 tramex.gl.		3600	IN	NS	ns2.dinahosting.com.
 tramex.gl.		3600	IN	NS	ns3.dinahosting.com.
@@ -21664,10 +21653,8 @@ yamatek.gl.		3600	IN	NS	ns1.bdm.microsoftonline.com.
 yamatek.gl.		3600	IN	NS	ns2.bdm.microsoftonline.com.
 yamatek.gl.		3600	IN	NS	ns3.bdm.microsoftonline.com.
 yamatek.gl.		3600	IN	NS	ns4.bdm.microsoftonline.com.
-yardi.gl.		3600	IN	NS	ns1.brandsight-dns.com.
-yardi.gl.		3600	IN	NS	ns1.brandsight-dns.net.
-yardi.gl.		3600	IN	NS	ns2.brandsight-dns.com.
-yardi.gl.		3600	IN	NS	ns2.brandsight-dns.net.
+yardi.gl.		3600	IN	NS	ns07.gcd-dns.com.
+yardi.gl.		3600	IN	NS	ns08.gcd-dns.com.
 ybt.gl.			3600	IN	NS	ns1.kidc.net.
 ybt.gl.			3600	IN	NS	ns2.lgdacom.net.
 yc.gl.			3600	IN	NS	ns1.edgedns.ru.
@@ -23249,4 +23236,4 @@ VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN NSEC3 1 1 0 07015CFB VSRDHHU2SC8F0D
 VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. j1Od8QqavMQKol0xVJjQoLX6rRjyJtPj3AZ8vjig+xNTxJPJsQjjs96+ 65wLKTtfFMTr7J/MKA4McfVKRQnqBh1KpthKA7GzYxoCMEs0xZGKjIxY sDhAf4SD6/fDih8+q2cMWvvPQUeEkvZ1eVTKhYm7IxI5HggTQ77i62zi UOTpb4MB1AZgYG3WIt6vvQl8RxdrXY3pA20EWLrAMilnKhzNsCdV3CXU 8+wc7c0Q2aaDr4TEO292blUI8BDPuHnt/iFbw7icA0hJy2qVki6rQUJR BoifYEFgBb0HZZ4+tKNiMz5g2jlMatebtp7A2jTtndYjqgjFHVDy30pA HA9i0Q==
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN NSEC3 1 1 0 07015CFB 00HNG94DA18JDLB8TJGHQB402HJ845A2 NS DS RRSIG
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. XosdvqgfZf1MJxDUbNeXWH0h50a8GjrAG3xOk+EgXzGmgiND37bpmCg2 h91UmZGxKMhmwE7MFddAAGE6bJU6U91G3msX9wpvfpMMoziXAQ8wY8AP Wt2lHSYjWXXJ25ZQvHVLQX8myAl9PM0jq2clbKAdwP7TrTtsUnr0qjNh sYv47CN+2d6fecnx8xLES+MFsx/LuPoCm9jYWGlQ+hmHQd8bgQUYfqkx ZNH/aICCIskqTOC829h27ERMrAjoWIe9Q1IjMEH28nElI4WLOa5kDD/x rRUENMauRiycGX65X9Hk3Gh5tzh7dyPzMEIkaHnnvpyMr915FX8624n/ Jw/ntg==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157374 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157385 900 1800 6048000 3600
