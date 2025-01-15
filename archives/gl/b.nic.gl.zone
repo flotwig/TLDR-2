@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157476 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. feTeZl6wG35bZ4um81xGBMC4YjLk5qUePHjg+ZCgnkJR3fGFYrqfj5Ux KOLcyjgY8TAqaLphlyLbVVPoyk4/creBabgPGrp1Plg4DMkvMJKLTaGm ZnfiyZxZvjDRQIG6qWaql4qon6NrhBCgXbyPGwtYwnit7uN3hsGQ+tZA SpIkA0BJjHTTX7UGrWgoxEU2zO0/nWDqRBjnmWWyQmfJKtAuHfX0s04h KmuEZ5tYA4GjMVv3kp8RXZohpOboV2BTvlHEDvAJ2F7cx+1mhG86srt+ OxH5tYRl4GAlXb6L10DGRQHWAbNzTRekH8SokSlxwmsFkowNJoUEIF1q BRHETQ==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157479 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. RyNiuZxShG2xjIsMDHQsTNd+9i0BPjvlDUQ8HUa3+ze+0p5CEFdunndE benyjL24WAHCFhs2u3EkvpIiK/N2HgETC4oApxkTStdG1abrYJSKPtvg I7gd1/IIE0kVxXkfzOJIDypnS9wMAWQTcNjg43oR6ZN+bWN0bOKfHsEy /nbHfIAB+298aLXHOtA6u9jxBlFIhuNOy9aEMXqRwJ66Pgf8yEIRyuct eiyiiopdampqYEiiNt+SV2ee4fZzvz7Y3wY4vICXeh6H+Vudg4GOXlma y4jXdb78teJAzERnJbBQvAfMbl0ltOs/G50PbU8Kv0Mf8KSrSTq9cgaL 6w8HoA==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -4665,6 +4665,10 @@ disneyprincessstories.gl. 3600	IN	NS	dns1.cscdns.net.
 disneyprincessstories.gl. 3600	IN	NS	dns2.cscdns.net.
 disneystar.gl.		3600	IN	NS	dns1.cscdns.net.
 disneystar.gl.		3600	IN	NS	dns2.cscdns.net.
+distillery.gl.		3600	IN	NS	a.hosting.gl.
+distillery.gl.		3600	IN	NS	b.hosting.gl.
+distillery.gl.		3600	IN	NS	c.hosting.gl.
+distillery.gl.		3600	IN	NS	d.hosting.gl.
 ditforhold.gl.		3600	IN	NS	kip.ns.cloudflare.com.
 ditforhold.gl.		3600	IN	NS	serena.ns.cloudflare.com.
 ditpotentiale.gl.	3600	IN	NS	a.hosting.gl.
@@ -16593,6 +16597,10 @@ qeqqu.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. asF
 qfsaviation.gl.		3600	IN	NS	ns1.netim.net.
 qfsaviation.gl.		3600	IN	NS	ns2.netim.net.
 qfsaviation.gl.		3600	IN	NS	ns3.netim.net.
+qgin.gl.		3600	IN	NS	a.hosting.gl.
+qgin.gl.		3600	IN	NS	b.hosting.gl.
+qgin.gl.		3600	IN	NS	c.hosting.gl.
+qgin.gl.		3600	IN	NS	d.hosting.gl.
 qh.gl.			3600	IN	NS	ns6.netsto.net.
 qh.gl.			3600	IN	NS	ns7.netsto.net.
 qhd.gl.			3600	IN	NS	ns1.netim.net.
@@ -16722,6 +16730,10 @@ qvist.gl.		3600	IN	NS	a.hosting.gl.
 qvist.gl.		3600	IN	NS	b.hosting.gl.
 qvist.gl.		3600	IN	NS	c.hosting.gl.
 qvist.gl.		3600	IN	NS	d.hosting.gl.
+qvodka.gl.		3600	IN	NS	a.hosting.gl.
+qvodka.gl.		3600	IN	NS	b.hosting.gl.
+qvodka.gl.		3600	IN	NS	c.hosting.gl.
+qvodka.gl.		3600	IN	NS	d.hosting.gl.
 qw.gl.			3600	IN	NS	ns1.bdydns.cn.
 qw.gl.			3600	IN	NS	ns2.bdydns.cn.
 qx.gl.			3600	IN	NS	ns1.iwantmyname.net.
@@ -23259,4 +23271,4 @@ VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN NSEC3 1 1 0 07015CFB VSRDHHU2SC8F0D
 VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. j1Od8QqavMQKol0xVJjQoLX6rRjyJtPj3AZ8vjig+xNTxJPJsQjjs96+ 65wLKTtfFMTr7J/MKA4McfVKRQnqBh1KpthKA7GzYxoCMEs0xZGKjIxY sDhAf4SD6/fDih8+q2cMWvvPQUeEkvZ1eVTKhYm7IxI5HggTQ77i62zi UOTpb4MB1AZgYG3WIt6vvQl8RxdrXY3pA20EWLrAMilnKhzNsCdV3CXU 8+wc7c0Q2aaDr4TEO292blUI8BDPuHnt/iFbw7icA0hJy2qVki6rQUJR BoifYEFgBb0HZZ4+tKNiMz5g2jlMatebtp7A2jTtndYjqgjFHVDy30pA HA9i0Q==
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN NSEC3 1 1 0 07015CFB 00HNG94DA18JDLB8TJGHQB402HJ845A2 NS DS RRSIG
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. XosdvqgfZf1MJxDUbNeXWH0h50a8GjrAG3xOk+EgXzGmgiND37bpmCg2 h91UmZGxKMhmwE7MFddAAGE6bJU6U91G3msX9wpvfpMMoziXAQ8wY8AP Wt2lHSYjWXXJ25ZQvHVLQX8myAl9PM0jq2clbKAdwP7TrTtsUnr0qjNh sYv47CN+2d6fecnx8xLES+MFsx/LuPoCm9jYWGlQ+hmHQd8bgQUYfqkx ZNH/aICCIskqTOC829h27ERMrAjoWIe9Q1IjMEH28nElI4WLOa5kDD/x rRUENMauRiycGX65X9Hk3Gh5tzh7dyPzMEIkaHnnvpyMr915FX8624n/ Jw/ntg==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157476 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157479 900 1800 6048000 3600
