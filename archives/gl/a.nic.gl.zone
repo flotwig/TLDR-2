@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157475 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. eAEXeAT01A6i1l9bkwb5+ix6Ht0WjENhEnlyPIOrxiXnJOf4m1mlUIhO GqUHaxBP45P++T8MK10sDgggI/zh5h6vfEnJ+8vCf+EpfGoFy/dcLnyB CjM3DAUdQQq5VXP94ttB+nR5P3iSlJfuiGBs2BGL1b3caBuZIT6LQQrm Pm7zVG9S4+2b0hxuFVSGlh/zRurroDrgRrw+cFIDeCkKyQgBab3rfJVJ 3zcRo0mge9YoRw0mceN/FoDoLF51K9NSP9Wzb977+q+T+aCT+gdnuoZO It/DIwJPMytv9GQOwjsyE9z/EpgD5qH3R2d6UppgmoqZDxBmN1HFUEah vlEPcQ==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157486 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. K8L5Ud1mHTANmxwxVzC+JfxccPC95t+oL8yvPX424PLJjEtbF4k2+KLU j1oKmoFFx2q3DJKY1a8okEvLfa8Shn2rRjiGoHJYmoGjy9KnBjz6P5X8 bFkKAnSzAcRCWNqWiqSghhwHkJVnUwBGtFrPYywHOukcSz/Dt2Db51Of NA5OV/kad5xNLzKVQDWAMWQy7kCJbvntn/P9I3xQ/uVYs47c/6eF6XDL OJq9N2cxFAqLYOyDWGqCT5vYLrCrg6J/8WVcH6oyhZ9N7Awt/atEbGgd qnN7qIXdqM+kQLFWBTUFSAAnJCfK4r5msZDXC2volGHOf2Y20wsYwAel 2/98ig==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -135,6 +135,8 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250306050000 20241216050000 57390 gl. gMy8Wv
 20kra.gl.		3600	IN	NS	ns3.disabled.ispapi.net.
 21.gl.			3600	IN	NS	ns1.sedoparking.com.
 21.gl.			3600	IN	NS	ns2.sedoparking.com.
+21kra.gl.		3600	IN	NS	algin.ns.cloudflare.com.
+21kra.gl.		3600	IN	NS	jacqueline.ns.cloudflare.com.
 22.gl.			3600	IN	NS	ns1210.ispapi.net.
 22.gl.			3600	IN	NS	ns2180.ispapi.net.
 22.gl.			3600	IN	NS	ns3194.ispapi.net.
@@ -143,10 +145,14 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250306050000 20241216050000 57390 gl. gMy8Wv
 222.gl.			3600	IN	NS	c.dnspod.com.
 2256.gl.		3600	IN	NS	ns1.domainnamedns.com.
 2256.gl.		3600	IN	NS	ns2.domainnamedns.com.
+22kra.gl.		3600	IN	NS	algin.ns.cloudflare.com.
+22kra.gl.		3600	IN	NS	jacqueline.ns.cloudflare.com.
 23.gl.			3600	IN	NS	ns1.supercp.com.
 23.gl.			3600	IN	NS	ns2.supercp.com.
 23.gl.			3600	IN	NS	ns3.supercp.com.
 23.gl.			3600	IN	NS	ns4.supercp.com.
+23kra.gl.		3600	IN	NS	algin.ns.cloudflare.com.
+23kra.gl.		3600	IN	NS	jacqueline.ns.cloudflare.com.
 240.gl.			3600	IN	NS	ns1.hyp.net.
 240.gl.			3600	IN	NS	ns2.hyp.net.
 240.gl.			3600	IN	NS	ns3.hyp.net.
@@ -166,13 +172,21 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250306050000 20241216050000 57390 gl. gMy8Wv
 24kmp.gl.		3600	IN	NS	diana.ns.cloudflare.com.
 24kr.gl.		3600	IN	NS	eoin.ns.cloudflare.com.
 24kr.gl.		3600	IN	NS	diana.ns.cloudflare.com.
+24kra.gl.		3600	IN	NS	algin.ns.cloudflare.com.
+24kra.gl.		3600	IN	NS	jacqueline.ns.cloudflare.com.
 24krn.gl.		3600	IN	NS	eoin.ns.cloudflare.com.
 24krn.gl.		3600	IN	NS	diana.ns.cloudflare.com.
+25kra.gl.		3600	IN	NS	algin.ns.cloudflare.com.
+25kra.gl.		3600	IN	NS	jacqueline.ns.cloudflare.com.
 26162.gl.		3600	IN	NS	ns1.netsto.net.
 26162.gl.		3600	IN	NS	ns2.netsto.net.
 26520.gl.		3600	IN	NS	a.dnspod.com.
 26520.gl.		3600	IN	NS	b.dnspod.com.
 26520.gl.		3600	IN	NS	c.dnspod.com.
+26kra.gl.		3600	IN	NS	algin.ns.cloudflare.com.
+26kra.gl.		3600	IN	NS	jacqueline.ns.cloudflare.com.
+27kra.gl.		3600	IN	NS	algin.ns.cloudflare.com.
+27kra.gl.		3600	IN	NS	jacqueline.ns.cloudflare.com.
 28.gl.			3600	IN	NS	dns41.cloudns.net.
 28.gl.			3600	IN	NS	dns42.cloudns.net.
 28.gl.			3600	IN	NS	dns43.cloudns.net.
@@ -180,8 +194,12 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250306050000 20241216050000 57390 gl. gMy8Wv
 288.gl.			3600	IN	NS	a.dnspod.com.
 288.gl.			3600	IN	NS	b.dnspod.com.
 288.gl.			3600	IN	NS	c.dnspod.com.
+28kra.gl.		3600	IN	NS	algin.ns.cloudflare.com.
+28kra.gl.		3600	IN	NS	jacqueline.ns.cloudflare.com.
 29909.gl.		3600	IN	NS	ns1.netsto.net.
 29909.gl.		3600	IN	NS	ns2.netsto.net.
+29kra.gl.		3600	IN	NS	algin.ns.cloudflare.com.
+29kra.gl.		3600	IN	NS	jacqueline.ns.cloudflare.com.
 2bs.gl.			3600	IN	NS	may.ns.cloudflare.com.
 2bs.gl.			3600	IN	NS	hayes.ns.cloudflare.com.
 2cc.gl.			3600	IN	NS	logan.ns.cloudflare.com.
@@ -224,6 +242,8 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250306050000 20241216050000 57390 gl. gMy8Wv
 3.gl.			3600	IN	NS	ns1.netim.net.
 3.gl.			3600	IN	NS	ns2.netim.net.
 3.gl.			3600	IN	NS	ns3.netim.net.
+30kra.gl.		3600	IN	NS	algin.ns.cloudflare.com.
+30kra.gl.		3600	IN	NS	jacqueline.ns.cloudflare.com.
 31284.gl.		3600	IN	NS	ns1.netsto.net.
 31284.gl.		3600	IN	NS	ns2.netsto.net.
 33.gl.			3600	IN	NS	ns1.registry-server.com.
@@ -4665,6 +4685,10 @@ disneyprincessstories.gl. 3600	IN	NS	dns1.cscdns.net.
 disneyprincessstories.gl. 3600	IN	NS	dns2.cscdns.net.
 disneystar.gl.		3600	IN	NS	dns1.cscdns.net.
 disneystar.gl.		3600	IN	NS	dns2.cscdns.net.
+distillery.gl.		3600	IN	NS	a.hosting.gl.
+distillery.gl.		3600	IN	NS	b.hosting.gl.
+distillery.gl.		3600	IN	NS	c.hosting.gl.
+distillery.gl.		3600	IN	NS	d.hosting.gl.
 ditforhold.gl.		3600	IN	NS	kip.ns.cloudflare.com.
 ditforhold.gl.		3600	IN	NS	serena.ns.cloudflare.com.
 ditpotentiale.gl.	3600	IN	NS	a.hosting.gl.
@@ -16593,6 +16617,10 @@ qeqqu.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. asF
 qfsaviation.gl.		3600	IN	NS	ns1.netim.net.
 qfsaviation.gl.		3600	IN	NS	ns2.netim.net.
 qfsaviation.gl.		3600	IN	NS	ns3.netim.net.
+qgin.gl.		3600	IN	NS	a.hosting.gl.
+qgin.gl.		3600	IN	NS	b.hosting.gl.
+qgin.gl.		3600	IN	NS	c.hosting.gl.
+qgin.gl.		3600	IN	NS	d.hosting.gl.
 qh.gl.			3600	IN	NS	ns6.netsto.net.
 qh.gl.			3600	IN	NS	ns7.netsto.net.
 qhd.gl.			3600	IN	NS	ns1.netim.net.
@@ -16722,6 +16750,10 @@ qvist.gl.		3600	IN	NS	a.hosting.gl.
 qvist.gl.		3600	IN	NS	b.hosting.gl.
 qvist.gl.		3600	IN	NS	c.hosting.gl.
 qvist.gl.		3600	IN	NS	d.hosting.gl.
+qvodka.gl.		3600	IN	NS	a.hosting.gl.
+qvodka.gl.		3600	IN	NS	b.hosting.gl.
+qvodka.gl.		3600	IN	NS	c.hosting.gl.
+qvodka.gl.		3600	IN	NS	d.hosting.gl.
 qw.gl.			3600	IN	NS	ns1.bdydns.cn.
 qw.gl.			3600	IN	NS	ns2.bdydns.cn.
 qx.gl.			3600	IN	NS	ns1.iwantmyname.net.
@@ -23259,4 +23291,4 @@ VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN NSEC3 1 1 0 07015CFB VSRDHHU2SC8F0D
 VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. j1Od8QqavMQKol0xVJjQoLX6rRjyJtPj3AZ8vjig+xNTxJPJsQjjs96+ 65wLKTtfFMTr7J/MKA4McfVKRQnqBh1KpthKA7GzYxoCMEs0xZGKjIxY sDhAf4SD6/fDih8+q2cMWvvPQUeEkvZ1eVTKhYm7IxI5HggTQ77i62zi UOTpb4MB1AZgYG3WIt6vvQl8RxdrXY3pA20EWLrAMilnKhzNsCdV3CXU 8+wc7c0Q2aaDr4TEO292blUI8BDPuHnt/iFbw7icA0hJy2qVki6rQUJR BoifYEFgBb0HZZ4+tKNiMz5g2jlMatebtp7A2jTtndYjqgjFHVDy30pA HA9i0Q==
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN NSEC3 1 1 0 07015CFB 00HNG94DA18JDLB8TJGHQB402HJ845A2 NS DS RRSIG
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. XosdvqgfZf1MJxDUbNeXWH0h50a8GjrAG3xOk+EgXzGmgiND37bpmCg2 h91UmZGxKMhmwE7MFddAAGE6bJU6U91G3msX9wpvfpMMoziXAQ8wY8AP Wt2lHSYjWXXJ25ZQvHVLQX8myAl9PM0jq2clbKAdwP7TrTtsUnr0qjNh sYv47CN+2d6fecnx8xLES+MFsx/LuPoCm9jYWGlQ+hmHQd8bgQUYfqkx ZNH/aICCIskqTOC829h27ERMrAjoWIe9Q1IjMEH28nElI4WLOa5kDD/x rRUENMauRiycGX65X9Hk3Gh5tzh7dyPzMEIkaHnnvpyMr915FX8624n/ Jw/ntg==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157475 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157486 900 1800 6048000 3600
