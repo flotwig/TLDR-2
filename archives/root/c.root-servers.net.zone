@@ -551,18 +551,18 @@ ai.			172800	IN	NS	v0n2.nic.ai.
 ai.			172800	IN	NS	v0n3.nic.ai.
 ai.			172800	IN	NS	v2n0.nic.ai.
 ai.			172800	IN	NS	v2n1.nic.ai.
-v0n0.nic.ai.		172800	IN	AAAA	2001:500:a0::1
 v0n0.nic.ai.		172800	IN	A	199.115.152.1
-v0n1.nic.ai.		172800	IN	AAAA	2001:500:a1::1
+v0n0.nic.ai.		172800	IN	AAAA	2001:500:a0::1
 v0n1.nic.ai.		172800	IN	A	199.115.153.1
-v0n2.nic.ai.		172800	IN	AAAA	2001:500:a2::1
+v0n1.nic.ai.		172800	IN	AAAA	2001:500:a1::1
 v0n2.nic.ai.		172800	IN	A	199.115.154.1
-v0n3.nic.ai.		172800	IN	AAAA	2001:500:a3::1
+v0n2.nic.ai.		172800	IN	AAAA	2001:500:a2::1
 v0n3.nic.ai.		172800	IN	A	199.115.155.1
-v2n0.nic.ai.		172800	IN	AAAA	2001:500:a4::1
+v0n3.nic.ai.		172800	IN	AAAA	2001:500:a3::1
 v2n0.nic.ai.		172800	IN	A	199.115.156.1
-v2n1.nic.ai.		172800	IN	AAAA	2001:500:a5::1
+v2n0.nic.ai.		172800	IN	AAAA	2001:500:a4::1
 v2n1.nic.ai.		172800	IN	A	199.115.157.1
+v2n1.nic.ai.		172800	IN	AAAA	2001:500:a5::1
 aig.			86400	IN	RRSIG	NSEC 8 1 86400 20250129150000 20250116140000 26470 . OiTagqYJ9iF6+64OYE0J6uf4teZ74PwiEGl9EvwBHDz3JqlzBrE9Q1Sc dre5TyQBhUBD0dLnqJK/rgyMo3msLRbBlWeFsEutk6qilwcSkeoVV1lk H00GRzOPklDIOqHUkDENaOXUK8iYimnyIYvvELgOg0i+khQXeTJzL2Ng ZKPlaajxKcPilDNN6MCRQUnHirwpGIekbMauFCB/BrMt5zsliBJngWis Y8r1AfFRSYoK+uYZy0p3Y+MtMHWAu22DFd1d2n88cpz2oUEEt03LE7IX meIrh8QZ6UtrGxhWnyUiIrSdPfn93oL+PSjo0ZYkCoDI87DcLTkNjRRB HBercg==
 aig.			86400	IN	NSEC	airbus. NS DS RRSIG NSEC
 aig.			86400	IN	RRSIG	DS 8 1 86400 20250129150000 20250116140000 26470 . LbxDGdP0fpIJ5Y8pNSu5ebpiaHXAuGwrlfUuF4nEIi9DbzjY2+j5lJmp 112EsQxg0hv3c6r8A4dUTDf7Pw6rXX6681HJQZFjNsaH3DYeoqi2VktU cflkfV+ljeFYWdVCXmWBDEcOPD0F8Sys/dxuawr2u8PmmlJpSqZmTTgk H2z1hIj9ABUVzXDwGRYCaHrIZos0Ffet/1Wn9+M/wh1ugpIo+z06o7Dq B+cJx/stjQ33hiqRzFErtpFqGE9Scgj6MC+hcNmu9sjxYRo15TmpPGjT eiRxumzxigJDRBPku9fPhdm3QEBh8smQy9Ure1cUih3c3iLr7cLpLIn4 2z/GbA==
@@ -6164,8 +6164,8 @@ l.nic.dk.		172800	IN	AAAA	2001:878:0:e000:82:e2:d5:8a
 l.nic.dk.		172800	IN	A	130.226.213.138
 s.nic.dk.		172800	IN	AAAA	2001:678:2c:0:194:0:28:7
 s.nic.dk.		172800	IN	A	194.0.28.7
-t.nic.dk.		172800	IN	A	185.43.134.16
 t.nic.dk.		172800	IN	AAAA	2001:148f:fffd::16
+t.nic.dk.		172800	IN	A	185.43.134.16
 dm.			172800	IN	NS	ns.blacknightsolutions.com.
 dm.			172800	IN	NS	ns2.nic.dm.
 dm.			172800	IN	NS	ns2.blacknightsolutions.com.
@@ -10222,8 +10222,8 @@ ns4.ns.il.		172800	IN	AAAA	2001:500:14:6134:ad::1
 ns4.ns.il.		172800	IN	A	204.61.216.134
 nsa.ns.il.		172800	IN	AAAA	2a01:4280:7::53
 nsa.ns.il.		172800	IN	A	192.115.7.53
-nsb.ns.il.		172800	IN	A	192.115.7.60
 nsb.ns.il.		172800	IN	AAAA	2a01:4280:7::60
+nsb.ns.il.		172800	IN	A	192.115.7.60
 nse.ns.il.		172800	IN	A	192.115.4.235
 im.			172800	IN	NS	ns4.ja.net.
 im.			172800	IN	NS	hoppy.iom.com.
@@ -20275,10 +20275,10 @@ tech.			172800	IN	NS	a.nic.tech.
 tech.			172800	IN	NS	b.nic.tech.
 tech.			172800	IN	NS	e.nic.tech.
 tech.			172800	IN	NS	f.nic.tech.
-dns2.tld.becloudby.tech. 172800	IN	A	93.125.25.73
 dns2.tld.becloudby.tech. 172800	IN	AAAA	2a00:c827:a:3::2
-dns3.tld.becloudby.tech. 172800	IN	AAAA	2a01:ba80:e:c:1::4c
+dns2.tld.becloudby.tech. 172800	IN	A	93.125.25.73
 dns3.tld.becloudby.tech. 172800	IN	A	185.98.83.4
+dns3.tld.becloudby.tech. 172800	IN	AAAA	2a01:ba80:e:c:1::4c
 dns4.tld.becloudby.tech. 172800	IN	AAAA	2a0e:b81:8001:1001::2
 dns4.tld.becloudby.tech. 172800	IN	A	31.44.1.137
 a.nic.tech.		172800	IN	AAAA	2001:67c:13cc::1:60
@@ -21555,12 +21555,12 @@ va.			172800	IN	NS	b.nic.va.
 va.			172800	IN	NS	c.nic.va.
 va.			172800	IN	NS	seth.namex.it.
 va.			172800	IN	NS	osiris.namex.it.
-a.nic.va.		172800	IN	AAAA	2a01:b8:0:1:212:77:0:110
 a.nic.va.		172800	IN	A	212.77.0.110
-b.nic.va.		172800	IN	AAAA	2a01:b8:0:1:212:77:0:2
+a.nic.va.		172800	IN	AAAA	2a01:b8:0:1:212:77:0:110
 b.nic.va.		172800	IN	A	212.77.0.2
-c.nic.va.		172800	IN	AAAA	2a01:b8::2:3a
+b.nic.va.		172800	IN	AAAA	2a01:b8:0:1:212:77:0:2
 c.nic.va.		172800	IN	A	212.77.2.58
+c.nic.va.		172800	IN	AAAA	2a01:b8::2:3a
 vacations.		86400	IN	RRSIG	NSEC 8 1 86400 20250129150000 20250116140000 26470 . cOzN+FnbCXyxGBeIwCNp3VLHUiM+ijeBC88gsu8oghj8UmVBeeBVbkko +T4gZCtpGlPSthL2hkIVkpLcyKg2sCSmCx5huC8xxvbpNq3uZuA6BN7q S9HVIsIsqOH+zSBWcuglcaDL9BUd5ZEOMemN30eS207hkMJKvBQ5CFYH 7qfIQNb1R5IsIBolfGpvmAh2JmngB6V2bGDGnaPVZuw84X8pPP/zzSOz 7+s8sQGOyYg0TlJ/ttrl0Q/DOOeM8m6XBVpQqRBC5hSE3CAQCd6T9E0j zlUHuun7bCO+HZLXXhJZltzmmESX8Z+nYDlgvx6nv5GgweXhINbCfDOL UoukHw==
 vacations.		86400	IN	NSEC	vana. NS DS RRSIG NSEC
 vacations.		86400	IN	RRSIG	DS 8 1 86400 20250129150000 20250116140000 26470 . DFML4EwHk73QcTVsyQG4l7Xz2UfKnFXF9daMZbybuKAXmcyNnCSKGEIy aKv9cU+P3VTLxHn77y7W22EoyadWcPg1cAgVemDuXpceJGTE/ZdutzU6 8ar7t6JDJOqETPSH6jCM6sMr/vDlh6sthEEpIgg78xxSQAfbD089qkpz mtAYtPdLFtK2lGeyrhQ8NiwNfbIE9au7SHseXQ63srgvqKjy0WNDLdGA Fi19bFbsLBFBp+mGOp+QosxdkAX9xhMa+R5kXiLL0Wj58NKKGHJBu6ox GBTr23UOmc3y9X4OKlh0qSpvpNvg1ws16Ur9zz4hqtmpVZNNdfLzvimq M3X96A==
