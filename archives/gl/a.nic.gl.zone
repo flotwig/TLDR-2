@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157525 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. X7ubH5VJ0PYVLH4ehH6Ow27K9tJFmVWS3eJH8ypty3RmFtOdz/e8Jl8w UoyxQoxL4FXn8+hey3SSqzEra9Mbr+BdqCHNtkMnLFFBgC66MEJGXqRg o1QjObZdvqAS55jTB83T8a6AmUQdYL5J7uCI8I/8oBSQS0fpbpKUfHKt yXc0O+NxQcmfOSAjgIzKEpgq0dETOJD2HwQ6dWpoRm9lxtxGXJIu/awn ollGZtJ3dWdTqpOc23d+O4+enQx7iadAA9G5n0iWYVNmN6bJSnpgevbN gEaybZ7fVtuRNbi6OMXyRxIehQq+mMW9egqmte18hx7/bnMFoXKrlheD PY+u+w==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157531 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. d/FkkE5Ypa9ytZ5NALy94z4DaXI6YY3kWktghlqWm5KyuiW1/rkVHcB7 2Z+A7Zy4/lSU9FF7Efv+baRo+6/IrBU0x87ducyYY4Of7l0N2r+DBESM koHudiOB2b6VUeBzvuP4DHbhKTkakiuqDi/SRytyEfdewsOE0/e19umR oNMzrxbqGN3DKBDIQSgSKGn+3MfY4EILByaSZndVb9YMoJY9PsiaRHuv gb8nIjMCrW1Rcz+La/N7WVPySLIlO/a5tmLj8jrQkDauStdhSEmYkiPO BCDGMXQG24KOONF1vmi6CJEKwjZcroSIPzBbKX431S+9eMT0neKFtvFj /ewd/A==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -135,8 +135,9 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250306050000 20241216050000 57390 gl. gMy8Wv
 20kra.gl.		3600	IN	NS	ns3.disabled.ispapi.net.
 21.gl.			3600	IN	NS	ns1.sedoparking.com.
 21.gl.			3600	IN	NS	ns2.sedoparking.com.
-21kra.gl.		3600	IN	NS	algin.ns.cloudflare.com.
-21kra.gl.		3600	IN	NS	jacqueline.ns.cloudflare.com.
+21kra.gl.		3600	IN	NS	ns1.disabled.ispapi.net.
+21kra.gl.		3600	IN	NS	ns2.disabled.ispapi.net.
+21kra.gl.		3600	IN	NS	ns3.disabled.ispapi.net.
 22.gl.			3600	IN	NS	ns1210.ispapi.net.
 22.gl.			3600	IN	NS	ns2180.ispapi.net.
 22.gl.			3600	IN	NS	ns3194.ispapi.net.
@@ -145,14 +146,16 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250306050000 20241216050000 57390 gl. gMy8Wv
 222.gl.			3600	IN	NS	c.dnspod.com.
 2256.gl.		3600	IN	NS	ns1.domainnamedns.com.
 2256.gl.		3600	IN	NS	ns2.domainnamedns.com.
-22kra.gl.		3600	IN	NS	algin.ns.cloudflare.com.
-22kra.gl.		3600	IN	NS	jacqueline.ns.cloudflare.com.
+22kra.gl.		3600	IN	NS	ns1.disabled.ispapi.net.
+22kra.gl.		3600	IN	NS	ns2.disabled.ispapi.net.
+22kra.gl.		3600	IN	NS	ns3.disabled.ispapi.net.
 23.gl.			3600	IN	NS	ns1.supercp.com.
 23.gl.			3600	IN	NS	ns2.supercp.com.
 23.gl.			3600	IN	NS	ns3.supercp.com.
 23.gl.			3600	IN	NS	ns4.supercp.com.
-23kra.gl.		3600	IN	NS	algin.ns.cloudflare.com.
-23kra.gl.		3600	IN	NS	jacqueline.ns.cloudflare.com.
+23kra.gl.		3600	IN	NS	ns1.disabled.ispapi.net.
+23kra.gl.		3600	IN	NS	ns2.disabled.ispapi.net.
+23kra.gl.		3600	IN	NS	ns3.disabled.ispapi.net.
 240.gl.			3600	IN	NS	ns1.hyp.net.
 240.gl.			3600	IN	NS	ns2.hyp.net.
 240.gl.			3600	IN	NS	ns3.hyp.net.
@@ -172,21 +175,25 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250306050000 20241216050000 57390 gl. gMy8Wv
 24kmp.gl.		3600	IN	NS	diana.ns.cloudflare.com.
 24kr.gl.		3600	IN	NS	eoin.ns.cloudflare.com.
 24kr.gl.		3600	IN	NS	diana.ns.cloudflare.com.
-24kra.gl.		3600	IN	NS	algin.ns.cloudflare.com.
-24kra.gl.		3600	IN	NS	jacqueline.ns.cloudflare.com.
+24kra.gl.		3600	IN	NS	ns1.disabled.ispapi.net.
+24kra.gl.		3600	IN	NS	ns2.disabled.ispapi.net.
+24kra.gl.		3600	IN	NS	ns3.disabled.ispapi.net.
 24krn.gl.		3600	IN	NS	eoin.ns.cloudflare.com.
 24krn.gl.		3600	IN	NS	diana.ns.cloudflare.com.
-25kra.gl.		3600	IN	NS	algin.ns.cloudflare.com.
-25kra.gl.		3600	IN	NS	jacqueline.ns.cloudflare.com.
+25kra.gl.		3600	IN	NS	ns1.disabled.ispapi.net.
+25kra.gl.		3600	IN	NS	ns2.disabled.ispapi.net.
+25kra.gl.		3600	IN	NS	ns3.disabled.ispapi.net.
 26162.gl.		3600	IN	NS	ns1.netsto.net.
 26162.gl.		3600	IN	NS	ns2.netsto.net.
 26520.gl.		3600	IN	NS	a.dnspod.com.
 26520.gl.		3600	IN	NS	b.dnspod.com.
 26520.gl.		3600	IN	NS	c.dnspod.com.
-26kra.gl.		3600	IN	NS	algin.ns.cloudflare.com.
-26kra.gl.		3600	IN	NS	jacqueline.ns.cloudflare.com.
-27kra.gl.		3600	IN	NS	algin.ns.cloudflare.com.
-27kra.gl.		3600	IN	NS	jacqueline.ns.cloudflare.com.
+26kra.gl.		3600	IN	NS	ns1.disabled.ispapi.net.
+26kra.gl.		3600	IN	NS	ns2.disabled.ispapi.net.
+26kra.gl.		3600	IN	NS	ns3.disabled.ispapi.net.
+27kra.gl.		3600	IN	NS	ns1.disabled.ispapi.net.
+27kra.gl.		3600	IN	NS	ns2.disabled.ispapi.net.
+27kra.gl.		3600	IN	NS	ns3.disabled.ispapi.net.
 28.gl.			3600	IN	NS	dns41.cloudns.net.
 28.gl.			3600	IN	NS	dns42.cloudns.net.
 28.gl.			3600	IN	NS	dns43.cloudns.net.
@@ -194,12 +201,14 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250306050000 20241216050000 57390 gl. gMy8Wv
 288.gl.			3600	IN	NS	a.dnspod.com.
 288.gl.			3600	IN	NS	b.dnspod.com.
 288.gl.			3600	IN	NS	c.dnspod.com.
-28kra.gl.		3600	IN	NS	algin.ns.cloudflare.com.
-28kra.gl.		3600	IN	NS	jacqueline.ns.cloudflare.com.
+28kra.gl.		3600	IN	NS	ns1.disabled.ispapi.net.
+28kra.gl.		3600	IN	NS	ns2.disabled.ispapi.net.
+28kra.gl.		3600	IN	NS	ns3.disabled.ispapi.net.
 29909.gl.		3600	IN	NS	ns1.netsto.net.
 29909.gl.		3600	IN	NS	ns2.netsto.net.
-29kra.gl.		3600	IN	NS	algin.ns.cloudflare.com.
-29kra.gl.		3600	IN	NS	jacqueline.ns.cloudflare.com.
+29kra.gl.		3600	IN	NS	ns1.disabled.ispapi.net.
+29kra.gl.		3600	IN	NS	ns2.disabled.ispapi.net.
+29kra.gl.		3600	IN	NS	ns3.disabled.ispapi.net.
 2bs.gl.			3600	IN	NS	may.ns.cloudflare.com.
 2bs.gl.			3600	IN	NS	hayes.ns.cloudflare.com.
 2cc.gl.			3600	IN	NS	logan.ns.cloudflare.com.
@@ -242,8 +251,9 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250306050000 20241216050000 57390 gl. gMy8Wv
 3.gl.			3600	IN	NS	ns1.netim.net.
 3.gl.			3600	IN	NS	ns2.netim.net.
 3.gl.			3600	IN	NS	ns3.netim.net.
-30kra.gl.		3600	IN	NS	algin.ns.cloudflare.com.
-30kra.gl.		3600	IN	NS	jacqueline.ns.cloudflare.com.
+30kra.gl.		3600	IN	NS	ns1.disabled.ispapi.net.
+30kra.gl.		3600	IN	NS	ns2.disabled.ispapi.net.
+30kra.gl.		3600	IN	NS	ns3.disabled.ispapi.net.
 31284.gl.		3600	IN	NS	ns1.netsto.net.
 31284.gl.		3600	IN	NS	ns2.netsto.net.
 33.gl.			3600	IN	NS	ns1.registry-server.com.
@@ -561,6 +571,8 @@ acg.gl.			3600	IN	NS	c.hosting.gl.
 acg.gl.			3600	IN	NS	d.hosting.gl.
 ackermann.gl.		3600	IN	NS	ns1.glariosa.com.
 ackermann.gl.		3600	IN	NS	ns2.glariosa.com.
+acquire.gl.		3600	IN	NS	blackhole-1.iana.org.
+acquire.gl.		3600	IN	NS	blackhole-2.iana.org.
 acr.gl.			3600	IN	NS	ns1.simply.com.
 acr.gl.			3600	IN	NS	ns2.simply.com.
 acr.gl.			3600	IN	NS	ns3.simply.com.
@@ -1102,6 +1114,8 @@ ame.gl.			3600	IN	NS	ns3.simply.com.
 ame.gl.			3600	IN	DS	4120 13 2 2AA2D1789C3838A5C8A907B96F25E2379923186A395F079DFF8AA469 4B7AFD77
 ame.gl.			3600	IN	DS	4120 13 4 59A586C9BA37AE27166B325DFE0A7F7FF4DA802384E09D6334773E22 F97CE2BB9B84070E4F98E126D441BDEFD9360E2E
 ame.gl.			3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. dlWrLZIKmAxnJsMGt+j36IbAW0ZTSSaSkWMWyRx/4VJH+xGLfYdCaD+/ wvFlox+IDfWQYYRMqJLbSpxK3L1wL95tbB1usMKjtHyWns3yAb0l6KG1 UNTnSSLpgU9Q1ebR6QJQQmx4m7Qld2oAt8v1Ll3u1Is1Zp8FYg20xD9G Fzub8lVhoKqoZ+3ogWCY5Ch4MxcGCn2GWRDDbUrI0dOtMolXgAci5wKZ PE1TyENqlOmKcNKC4dijYxdxLpAAdEIv4Ss2VEXXNNUm74SMEla45KNX HpvOjgEsaYgHheLnqSetFVYkgb4U2e2DjrzlW1LB5h9kCfWFBE/lYsB3 JQsaYA==
+america.gl.		3600	IN	NS	blackhole-1.iana.org.
+america.gl.		3600	IN	NS	blackhole-2.iana.org.
 americamovil.gl.	3600	IN	NS	dns01.amigokit.com.
 americamovil.gl.	3600	IN	NS	dns1i.itelcel.com.
 american-express.gl.	3600	IN	NS	dns1.cscdns.net.
@@ -1239,6 +1253,8 @@ anmeld.gl.		3600	IN	NS	ns1.unoeuro.com.
 anmeld.gl.		3600	IN	NS	ns2.unoeuro.com.
 anmeld.gl.		3600	IN	NS	ns3.unoeuro.com.
 anmeld.gl.		3600	IN	NS	ns4.unoeuro.com.
+annex.gl.		3600	IN	NS	blackhole-1.iana.org.
+annex.gl.		3600	IN	NS	blackhole-2.iana.org.
 annoncer.gl.		3600	IN	NS	ns1.modulo.gl.
 annoncer.gl.		3600	IN	NS	ns2.modulo.gl.
 annoncer.gl.		3600	IN	NS	ns3.modulo.gl.
@@ -4172,8 +4188,8 @@ crg.gl.			3600	IN	NS	ns-248-c.gandi.net.
 cri.gl.			3600	IN	NS	ns1.ukraine.com.ua.
 cri.gl.			3600	IN	NS	ns2.ukraine.com.ua.
 cri.gl.			3600	IN	NS	ns3.ukraine.com.ua.
-crm.gl.			3600	IN	NS	ns1.reg.ru.
-crm.gl.			3600	IN	NS	ns2.reg.ru.
+crm.gl.			3600	IN	NS	ns1.hosting.reg.ru.
+crm.gl.			3600	IN	NS	ns2.hosting.reg.ru.
 cromwell.gl.		3600	IN	NS	ans1.cw.net.
 cromwell.gl.		3600	IN	NS	ans2.cw.net.
 crossfitinua.gl.	3600	IN	NS	ns1.modulo.gl.
@@ -10636,8 +10652,9 @@ kra07.gl.		3600	IN	NS	ns3.disabled.ispapi.net.
 kra08.gl.		3600	IN	NS	ns1.disabled.ispapi.net.
 kra08.gl.		3600	IN	NS	ns2.disabled.ispapi.net.
 kra08.gl.		3600	IN	NS	ns3.disabled.ispapi.net.
-kra09.gl.		3600	IN	NS	iris.ns.cloudflare.com.
-kra09.gl.		3600	IN	NS	maxim.ns.cloudflare.com.
+kra09.gl.		3600	IN	NS	ns1.disabled.ispapi.net.
+kra09.gl.		3600	IN	NS	ns2.disabled.ispapi.net.
+kra09.gl.		3600	IN	NS	ns3.disabled.ispapi.net.
 kra122.gl.		3600	IN	NS	leif.ns.cloudflare.com.
 kra122.gl.		3600	IN	NS	lola.ns.cloudflare.com.
 kra31.gl.		3600	IN	NS	ns1.sedoparking.com.
@@ -11006,6 +11023,8 @@ lalo.gl.		3600	IN	NS	lars.ns.cloudflare.com.
 lalo.gl.		3600	IN	NS	rafe.ns.cloudflare.com.
 lampeguru.gl.		3600	IN	NS	kiki.ns.cloudflare.com.
 lampeguru.gl.		3600	IN	NS	mitch.ns.cloudflare.com.
+land.gl.		3600	IN	NS	blackhole-1.iana.org.
+land.gl.		3600	IN	NS	blackhole-2.iana.org.
 landlord.gl.		3600	IN	NS	ns1.hosting.de.
 landlord.gl.		3600	IN	NS	ns2.hosting.de.
 landlord.gl.		3600	IN	NS	ns3.hosting.de.
@@ -23297,4 +23316,4 @@ VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN NSEC3 1 1 0 07015CFB VSRDHHU2SC8F0D
 VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. j1Od8QqavMQKol0xVJjQoLX6rRjyJtPj3AZ8vjig+xNTxJPJsQjjs96+ 65wLKTtfFMTr7J/MKA4McfVKRQnqBh1KpthKA7GzYxoCMEs0xZGKjIxY sDhAf4SD6/fDih8+q2cMWvvPQUeEkvZ1eVTKhYm7IxI5HggTQ77i62zi UOTpb4MB1AZgYG3WIt6vvQl8RxdrXY3pA20EWLrAMilnKhzNsCdV3CXU 8+wc7c0Q2aaDr4TEO292blUI8BDPuHnt/iFbw7icA0hJy2qVki6rQUJR BoifYEFgBb0HZZ4+tKNiMz5g2jlMatebtp7A2jTtndYjqgjFHVDy30pA HA9i0Q==
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN NSEC3 1 1 0 07015CFB 00HNG94DA18JDLB8TJGHQB402HJ845A2 NS DS RRSIG
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. XosdvqgfZf1MJxDUbNeXWH0h50a8GjrAG3xOk+EgXzGmgiND37bpmCg2 h91UmZGxKMhmwE7MFddAAGE6bJU6U91G3msX9wpvfpMMoziXAQ8wY8AP Wt2lHSYjWXXJ25ZQvHVLQX8myAl9PM0jq2clbKAdwP7TrTtsUnr0qjNh sYv47CN+2d6fecnx8xLES+MFsx/LuPoCm9jYWGlQ+hmHQd8bgQUYfqkx ZNH/aICCIskqTOC829h27ERMrAjoWIe9Q1IjMEH28nElI4WLOa5kDD/x rRUENMauRiycGX65X9Hk3Gh5tzh7dyPzMEIkaHnnvpyMr915FX8624n/ Jw/ntg==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157525 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157531 900 1800 6048000 3600
