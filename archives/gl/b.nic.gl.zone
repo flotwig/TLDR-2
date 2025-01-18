@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157638 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. BxzTXhhTHWduLDFxi76i9EhVt+BiGNWDT34zaHHd4ry7nJ1L+o+4X5Jv sYR2Oi4DnLTYwBH+TahYwSxxBuU9iiHbuM8XY7HddXvFB0KB4L5MXV1b VVrYtvLCSFNQUugBF6um973FSysxOn0O0XrIAxFZOFc3CDa6MACPr9h5 Q2ExBfFNjFLLEisl2b0H7iO0vM1u8Xype7R4isqnlGZPYsPpsfgPoEn2 0awGu8j5egHEBOSG1+WMnQmjrCc1A3PjSr4s9Qp80dYiaUzC4WgJteYQ WrFMw71hAvw38AfaRYooUKGtrtAjrtNye621D+Ia0B9zMSubYOEVoJs1 2Fir6g==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157641 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. GsJdfwD1er+WdfbsbXw1MdpUGdekNYacBi2HBpykEJdVaAc+M1Jo7NHY HN7R3cjgwwGMfIJZjpoT/yxlPJXUDOBKVjQqt6KDOc/TeY9IPZV8RsbX Rq+/QE4rQxAqbkOeUc56i6Fm3wAZgUoqQUybzZKl9jeIGO9Tpr3tGMYh m6G03F7GAoQaALK8RAN36Gk8KjzuS0URljtXwOkKn+7fhT/5LaUIA7P6 uT60xpuO7Nhrq9nHUY82B8LP93M8QLq3ni0LmDaNZR6exwiP0uxh6lj3 9Y8JQ3YMxThHvn+SllN+ica0AFid513zUiU0oO6BOXqWgEjgNembUE8v HEpCNQ==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -575,8 +575,9 @@ acg.gl.			3600	IN	NS	c.hosting.gl.
 acg.gl.			3600	IN	NS	d.hosting.gl.
 ackermann.gl.		3600	IN	NS	ns1.glariosa.com.
 ackermann.gl.		3600	IN	NS	ns2.glariosa.com.
-acquire.gl.		3600	IN	NS	blackhole-1.iana.org.
-acquire.gl.		3600	IN	NS	blackhole-2.iana.org.
+acquire.gl.		3600	IN	NS	ns1.regery.net.
+acquire.gl.		3600	IN	NS	ns2.regery.net.
+acquire.gl.		3600	IN	NS	ns3.regery.net.
 acr.gl.			3600	IN	NS	ns1.simply.com.
 acr.gl.			3600	IN	NS	ns2.simply.com.
 acr.gl.			3600	IN	NS	ns3.simply.com.
@@ -1118,8 +1119,9 @@ ame.gl.			3600	IN	NS	ns3.simply.com.
 ame.gl.			3600	IN	DS	4120 13 2 2AA2D1789C3838A5C8A907B96F25E2379923186A395F079DFF8AA469 4B7AFD77
 ame.gl.			3600	IN	DS	4120 13 4 59A586C9BA37AE27166B325DFE0A7F7FF4DA802384E09D6334773E22 F97CE2BB9B84070E4F98E126D441BDEFD9360E2E
 ame.gl.			3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. dlWrLZIKmAxnJsMGt+j36IbAW0ZTSSaSkWMWyRx/4VJH+xGLfYdCaD+/ wvFlox+IDfWQYYRMqJLbSpxK3L1wL95tbB1usMKjtHyWns3yAb0l6KG1 UNTnSSLpgU9Q1ebR6QJQQmx4m7Qld2oAt8v1Ll3u1Is1Zp8FYg20xD9G Fzub8lVhoKqoZ+3ogWCY5Ch4MxcGCn2GWRDDbUrI0dOtMolXgAci5wKZ PE1TyENqlOmKcNKC4dijYxdxLpAAdEIv4Ss2VEXXNNUm74SMEla45KNX HpvOjgEsaYgHheLnqSetFVYkgb4U2e2DjrzlW1LB5h9kCfWFBE/lYsB3 JQsaYA==
-america.gl.		3600	IN	NS	blackhole-1.iana.org.
-america.gl.		3600	IN	NS	blackhole-2.iana.org.
+america.gl.		3600	IN	NS	ns1.regery.net.
+america.gl.		3600	IN	NS	ns2.regery.net.
+america.gl.		3600	IN	NS	ns3.regery.net.
 americamovil.gl.	3600	IN	NS	dns01.amigokit.com.
 americamovil.gl.	3600	IN	NS	dns1i.itelcel.com.
 american-express.gl.	3600	IN	NS	dns1.cscdns.net.
@@ -1257,8 +1259,9 @@ anmeld.gl.		3600	IN	NS	ns1.unoeuro.com.
 anmeld.gl.		3600	IN	NS	ns2.unoeuro.com.
 anmeld.gl.		3600	IN	NS	ns3.unoeuro.com.
 anmeld.gl.		3600	IN	NS	ns4.unoeuro.com.
-annex.gl.		3600	IN	NS	blackhole-1.iana.org.
-annex.gl.		3600	IN	NS	blackhole-2.iana.org.
+annex.gl.		3600	IN	NS	ns1.regery.net.
+annex.gl.		3600	IN	NS	ns2.regery.net.
+annex.gl.		3600	IN	NS	ns3.regery.net.
 annoncer.gl.		3600	IN	NS	ns1.modulo.gl.
 annoncer.gl.		3600	IN	NS	ns2.modulo.gl.
 annoncer.gl.		3600	IN	NS	ns3.modulo.gl.
@@ -11032,8 +11035,9 @@ lalo.gl.		3600	IN	NS	lars.ns.cloudflare.com.
 lalo.gl.		3600	IN	NS	rafe.ns.cloudflare.com.
 lampeguru.gl.		3600	IN	NS	kiki.ns.cloudflare.com.
 lampeguru.gl.		3600	IN	NS	mitch.ns.cloudflare.com.
-land.gl.		3600	IN	NS	blackhole-1.iana.org.
-land.gl.		3600	IN	NS	blackhole-2.iana.org.
+land.gl.		3600	IN	NS	ns1.regery.net.
+land.gl.		3600	IN	NS	ns2.regery.net.
+land.gl.		3600	IN	NS	ns3.regery.net.
 landlord.gl.		3600	IN	NS	ns1.hosting.de.
 landlord.gl.		3600	IN	NS	ns2.hosting.de.
 landlord.gl.		3600	IN	NS	ns3.hosting.de.
@@ -23340,4 +23344,4 @@ VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN NSEC3 1 1 0 07015CFB VSRDHHU2SC8F0D
 VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. j1Od8QqavMQKol0xVJjQoLX6rRjyJtPj3AZ8vjig+xNTxJPJsQjjs96+ 65wLKTtfFMTr7J/MKA4McfVKRQnqBh1KpthKA7GzYxoCMEs0xZGKjIxY sDhAf4SD6/fDih8+q2cMWvvPQUeEkvZ1eVTKhYm7IxI5HggTQ77i62zi UOTpb4MB1AZgYG3WIt6vvQl8RxdrXY3pA20EWLrAMilnKhzNsCdV3CXU 8+wc7c0Q2aaDr4TEO292blUI8BDPuHnt/iFbw7icA0hJy2qVki6rQUJR BoifYEFgBb0HZZ4+tKNiMz5g2jlMatebtp7A2jTtndYjqgjFHVDy30pA HA9i0Q==
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN NSEC3 1 1 0 07015CFB 00HNG94DA18JDLB8TJGHQB402HJ845A2 NS DS RRSIG
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. XosdvqgfZf1MJxDUbNeXWH0h50a8GjrAG3xOk+EgXzGmgiND37bpmCg2 h91UmZGxKMhmwE7MFddAAGE6bJU6U91G3msX9wpvfpMMoziXAQ8wY8AP Wt2lHSYjWXXJ25ZQvHVLQX8myAl9PM0jq2clbKAdwP7TrTtsUnr0qjNh sYv47CN+2d6fecnx8xLES+MFsx/LuPoCm9jYWGlQ+hmHQd8bgQUYfqkx ZNH/aICCIskqTOC829h27ERMrAjoWIe9Q1IjMEH28nElI4WLOa5kDD/x rRUENMauRiycGX65X9Hk3Gh5tzh7dyPzMEIkaHnnvpyMr915FX8624n/ Jw/ntg==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157638 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157641 900 1800 6048000 3600
