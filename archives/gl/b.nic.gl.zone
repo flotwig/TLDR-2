@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157647 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. dtN7o/hiyf9ug1X3DugqCVZgLv7r4IM2LL3tUfiGEGMDm1ws+ZP3bjiI JEDUPK9IcF0QoLWen/chyCMKamtdXhKn523p+0u4p7AX2xQHno4Cf65/ igm6nlDBp9qqgYob4oXqwXJ4omT034VwACNoP/OoZ4Vns/52ZoEGBpjp 2zedq7EWykECtRaWk8jeVtUP7EYMAw5Mn75RfINYTLoYR+M9Ql2mO3uc mszU2YzSGSVWYhNZIlv7gLSInGbjxkeGH5FG0j1P+OMhfz3rBfqOQmGr CUHmyjbyflyWdU9fg9TOqzA9nAJivC7KdH3J9iOVmgcrkrGRf2wnE49Y uX/qaQ==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157659 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. PoEqERsQwFuPq72HZjdUGPExg5mm9i5w0gjq5NM0L2kp80VkArZXAJJo jCZKc1WGKYmOuOmMMMONfhp68STCrKozBvtU0ZKNbR5Mt8fOCL1yOJzo 281EfpqhLgIZBwDWh06U9FhS3tnbt3Fv66jAglMsb6WL6tVi4+4fLcF5 uV7GAd2tZ7j2ir+nBAuG4fx25/oG224FhwsLt26U4XeRVJMIoEwyVMN/ vA5OpENZSRoT90VdWJ3nm36eL4Lm6Ed7PzUkKeB/m7C6f6pULgxCV+dN i4Q4OM9NmUH6igaY5HrWYYd/4phy/V4UdyDvcFxf7QtJiP7NKHJXBa0G PsQlGA==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -1412,6 +1412,9 @@ ns3.aputit.gl.		3600	IN	A	205.251.194.154
 ns3.aputit.gl.		3600	IN	AAAA	2600:9000:5302:9a00::1
 ns4.aputit.gl.		3600	IN	A	205.251.192.204
 ns4.aputit.gl.		3600	IN	AAAA	2600:9000:5300:cc00::1
+aqiggiak.gl.		3600	IN	NS	ns1.dreamhost.com.
+aqiggiak.gl.		3600	IN	NS	ns2.dreamhost.com.
+aqiggiak.gl.		3600	IN	NS	ns3.dreamhost.com.
 aqisseq.gl.		3600	IN	NS	ns1.gigahost.dk.
 aqisseq.gl.		3600	IN	NS	ns2.gigahost.dk.
 aqisseq.gl.		3600	IN	NS	ns3.gigahost.dk.
@@ -16671,6 +16674,9 @@ qhd.gl.			3600	IN	NS	ns2.netim.net.
 qhd.gl.			3600	IN	NS	ns3.netim.net.
 qi.gl.			3600	IN	NS	jobs.ns.cloudflare.com.
 qi.gl.			3600	IN	NS	april.ns.cloudflare.com.
+qilanngaq.gl.		3600	IN	NS	ns1.dreamhost.com.
+qilanngaq.gl.		3600	IN	NS	ns2.dreamhost.com.
+qilanngaq.gl.		3600	IN	NS	ns3.dreamhost.com.
 qilusa.gl.		3600	IN	NS	a.hosting.gl.
 qilusa.gl.		3600	IN	NS	b.hosting.gl.
 qilusa.gl.		3600	IN	NS	c.hosting.gl.
@@ -20393,10 +20399,9 @@ uh.gl.			3600	IN	NS	kyrie.ns.cloudflare.com.
 uh.gl.			3600	IN	NS	venus.ns.cloudflare.com.
 uilu.gl.		3600	IN	NS	ns1.gigahost.dk.
 uilu.gl.		3600	IN	NS	ns2.gigahost.dk.
-ujaasivoq.gl.		3600	IN	NS	a.hosting.gl.
-ujaasivoq.gl.		3600	IN	NS	b.hosting.gl.
-ujaasivoq.gl.		3600	IN	NS	c.hosting.gl.
-ujaasivoq.gl.		3600	IN	NS	d.hosting.gl.
+ujaasivoq.gl.		3600	IN	NS	ns1.dreamhost.com.
+ujaasivoq.gl.		3600	IN	NS	ns2.dreamhost.com.
+ujaasivoq.gl.		3600	IN	NS	ns3.dreamhost.com.
 ujarassiorit.gl.	3600	IN	NS	ns01.one.com.
 ujarassiorit.gl.	3600	IN	NS	ns02.one.com.
 uk.gl.			3600	IN	NS	sue.ns.cloudflare.com.
@@ -23344,4 +23349,4 @@ VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN NSEC3 1 1 0 07015CFB VSRDHHU2SC8F0D
 VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. j1Od8QqavMQKol0xVJjQoLX6rRjyJtPj3AZ8vjig+xNTxJPJsQjjs96+ 65wLKTtfFMTr7J/MKA4McfVKRQnqBh1KpthKA7GzYxoCMEs0xZGKjIxY sDhAf4SD6/fDih8+q2cMWvvPQUeEkvZ1eVTKhYm7IxI5HggTQ77i62zi UOTpb4MB1AZgYG3WIt6vvQl8RxdrXY3pA20EWLrAMilnKhzNsCdV3CXU 8+wc7c0Q2aaDr4TEO292blUI8BDPuHnt/iFbw7icA0hJy2qVki6rQUJR BoifYEFgBb0HZZ4+tKNiMz5g2jlMatebtp7A2jTtndYjqgjFHVDy30pA HA9i0Q==
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN NSEC3 1 1 0 07015CFB 00HNG94DA18JDLB8TJGHQB402HJ845A2 NS DS RRSIG
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. XosdvqgfZf1MJxDUbNeXWH0h50a8GjrAG3xOk+EgXzGmgiND37bpmCg2 h91UmZGxKMhmwE7MFddAAGE6bJU6U91G3msX9wpvfpMMoziXAQ8wY8AP Wt2lHSYjWXXJ25ZQvHVLQX8myAl9PM0jq2clbKAdwP7TrTtsUnr0qjNh sYv47CN+2d6fecnx8xLES+MFsx/LuPoCm9jYWGlQ+hmHQd8bgQUYfqkx ZNH/aICCIskqTOC829h27ERMrAjoWIe9Q1IjMEH28nElI4WLOa5kDD/x rRUENMauRiycGX65X9Hk3Gh5tzh7dyPzMEIkaHnnvpyMr915FX8624n/ Jw/ntg==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157647 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157659 900 1800 6048000 3600
