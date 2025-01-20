@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157748 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. CQ1vHtBiZAmqpTxY2lBMB4CHrogz9wWGqIqmpcvcIZNhRffTDN5ux57x sv3rKz2JxtpSIoaE+HSPH50gvh1uqu8G13XRjHHe1VtVApmpxZWrGmTF FJGDXYRmrVM8N6Rknay6V8uGnmVly5W8EQpiwRBgSUADybAPJf4i9ACi SxoG3uAAPVh00lKyGMn3c4tX9flT4A5SjkwIoIYW4vipAu1fx6UsPlQa NBsh63XQ9fjQnzbVPfoIkEpL8N0FxuTVwYl1Hf+yK1Z/scISZwcw36tN 9ltg5mSPAcFcolfmwKxDnB2zwfiCLZZbADgDWPKyzMGV8UsZhjfn0Klk WtAHkg==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157752 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. P7cOtOr5GwqTWp3KVK20mJpW/ESIj339QuLLP+2i2UlIDmaOYBNhyuer s5zfaCZcD68RgDFI4kKOrTRNuA3q4ihVMDj8nDY+0KUKXkHruNUzXaoQ W49m+b2AsGINsPH7zGGqHxKfeHGSTDGa+YshcknBJebZ7kgodDS1MdZJ AHCTiMpNwyQsE4BUeFtXn/xvIl4AT6NSXPhx69EzV/vNy0306c+ssfH/ 6CdHAHQFQHZxuPYJEaTcmQHaK6iQvgTqTGjAnTB0ZUgk3D2lVnDAc2mO ouNEeqsq4Ym5ZvElxMXsd23E3xB1g8rYAPvYrjv85xZbdXLSDwD22kLa jT46Eg==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -4177,6 +4177,9 @@ cp.gl.			3600	IN	NS	a.ns.selectel.ru.
 cp.gl.			3600	IN	NS	b.ns.selectel.ru.
 cp.gl.			3600	IN	NS	c.ns.selectel.ru.
 cp.gl.			3600	IN	NS	d.ns.selectel.ru.
+cpu.gl.			3600	IN	NS	1-you.njalla.no.
+cpu.gl.			3600	IN	NS	2-can.njalla.in.
+cpu.gl.			3600	IN	NS	3-get.njalla.fo.
 cq.gl.			3600	IN	NS	ns1.bdydns.cn.
 cq.gl.			3600	IN	NS	ns2.bdydns.cn.
 cr.gl.			3600	IN	NS	ns1.corridoriot.com.
@@ -4681,6 +4684,9 @@ dinahostings.gl.	3600	IN	NS	ns3.dinahosting.com.
 dinahostings.gl.	3600	IN	NS	ns4.dinahosting.com.
 directv.gl.		3600	IN	NS	ns10a.attdns.net.
 directv.gl.		3600	IN	NS	ns10b.attdns.net.
+discover.gl.		3600	IN	NS	1-you.njalla.no.
+discover.gl.		3600	IN	NS	2-can.njalla.in.
+discover.gl.		3600	IN	NS	3-get.njalla.fo.
 discovery.gl.		3600	IN	NS	ns1.netnames.net.
 discovery.gl.		3600	IN	NS	ns2.netnames.net.
 discoverychannel.gl.	3600	IN	NS	ns1.netnames.net.
@@ -19932,6 +19938,9 @@ total.gl.		3600	IN	NS	ns4.totalenergies.info.
 totalenergies.gl.	3600	IN	NS	ns2.observatoiredesmarques.fr.
 totalenergies.gl.	3600	IN	NS	ns3.nameshield.net.
 totalenergies.gl.	3600	IN	NS	obs.ns1.fr.
+tour.gl.		3600	IN	NS	1-you.njalla.no.
+tour.gl.		3600	IN	NS	2-can.njalla.in.
+tour.gl.		3600	IN	NS	3-get.njalla.fo.
 tourismstat.gl.		3600	IN	NS	ns01.one.com.
 tourismstat.gl.		3600	IN	NS	ns02.one.com.
 tournestar.gl.		3600	IN	NS	ns1.dondominio.com.
@@ -23329,4 +23338,4 @@ VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN NSEC3 1 1 0 07015CFB VSRDHHU2SC8F0D
 VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. j1Od8QqavMQKol0xVJjQoLX6rRjyJtPj3AZ8vjig+xNTxJPJsQjjs96+ 65wLKTtfFMTr7J/MKA4McfVKRQnqBh1KpthKA7GzYxoCMEs0xZGKjIxY sDhAf4SD6/fDih8+q2cMWvvPQUeEkvZ1eVTKhYm7IxI5HggTQ77i62zi UOTpb4MB1AZgYG3WIt6vvQl8RxdrXY3pA20EWLrAMilnKhzNsCdV3CXU 8+wc7c0Q2aaDr4TEO292blUI8BDPuHnt/iFbw7icA0hJy2qVki6rQUJR BoifYEFgBb0HZZ4+tKNiMz5g2jlMatebtp7A2jTtndYjqgjFHVDy30pA HA9i0Q==
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN NSEC3 1 1 0 07015CFB 00HNG94DA18JDLB8TJGHQB402HJ845A2 NS DS RRSIG
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. XosdvqgfZf1MJxDUbNeXWH0h50a8GjrAG3xOk+EgXzGmgiND37bpmCg2 h91UmZGxKMhmwE7MFddAAGE6bJU6U91G3msX9wpvfpMMoziXAQ8wY8AP Wt2lHSYjWXXJ25ZQvHVLQX8myAl9PM0jq2clbKAdwP7TrTtsUnr0qjNh sYv47CN+2d6fecnx8xLES+MFsx/LuPoCm9jYWGlQ+hmHQd8bgQUYfqkx ZNH/aICCIskqTOC829h27ERMrAjoWIe9Q1IjMEH28nElI4WLOa5kDD/x rRUENMauRiycGX65X9Hk3Gh5tzh7dyPzMEIkaHnnvpyMr915FX8624n/ Jw/ntg==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157748 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157752 900 1800 6048000 3600
