@@ -9,7 +9,6 @@
 * `arpa` via `b.ns.arpa.`: [Click here to view zone data.](archives/arpa/b.ns.arpa.zone)
 * `bb` via `ns5.nic.bb.`: [Click here to view zone data.](archives/bb/ns5.nic.bb.zone)
 * `bw` via `dns1.nic.net.bw.`: [Click here to view zone data.](archives/bw/dns1.nic.net.bw.zone)
-* `cd` via `ns-root-22.scpt-network.net.`: [Click here to view zone data.](archives/cd/ns-root-22.scpt-network.net.zone)
 * `er` via `sawanew.noc.net.er.`: [Click here to view zone data.](archives/er/sawanew.noc.net.er.zone)
 * `fj` via `ns1.fj.`: [Click here to view zone data.](archives/fj/ns1.fj.zone)
 * `gh` via `ns2.nic.gh.`: [Click here to view zone data.](archives/gh/ns2.nic.gh.zone)
