@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157951 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. eRIGSymGsBIiBTuUooRufI/zt7udZVinTG9zVASXhH5rMbV/qImILVC+ PAUYHBvZ/V6PJt2SNVq6oADTa2gVUR/UrB3kkccCk2Q06YbjDa4+TvVg GIAGYPQ2nLRTRuYlT9PpdvONcB61wwo5c+tSvns3BIKZPQnwbCCYpIof 9Lbv8WH37sJR3d6jy5NBMdTWYQuIKmOccz1vlPaLvvUh8XYd6YipKmGH aJ8zEaFK6OM/pbck6WDO60YUqgZqStisog53tDEj2Equ64xxDdrOKOqQ hCJDsi868en6BfCHwuwSCsOcWoN9kZL4YJX1f34pRWkJYD7XnHNPYP3W 8mZPGw==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157956 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. GZJW0D8O9wIkLbyFHw59xPfMv6v1qPcDCMtdGqesFrA1KyBmHGDLsdKy 3HH72JN4SupK/E7WDpBIaXLUF133BzvCOO06vLX+YkBuQbvOkUYXic/h RR2x7J82UTlefGhWpKvJxnzpdCIH7I2/geh4RW7J6k+7NFEMvu/V//VN ywXh1p+i9vlON1Dy53/IVSr0OCbSKCTWsE/iGpvOicioqS0xG90MYe+N douNErOJ2+Xwwe961XYf7zlrNGo+jsJsNs/+G5npCDDEg39eAnurZ4FE o7/qGBarjHKh/UOmvfw0EF4EtWAYfOzE8romQftWqf2bRcQkzg5QI1nj 892Zpw==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -4137,10 +4137,9 @@ coop.gl.		3600	IN	NS	ns3.eurodns.com.
 coop.gl.		3600	IN	NS	ns4.eurodns.com.
 corcoran.gl.		3600	IN	NS	dns1.cscdns.net.
 corcoran.gl.		3600	IN	NS	dns2.cscdns.net.
-core.gl.		3600	IN	NS	ns1.monikerdns.net.
-core.gl.		3600	IN	NS	ns2.monikerdns.net.
-core.gl.		3600	IN	NS	ns3.monikerdns.net.
-core.gl.		3600	IN	NS	ns4.monikerdns.net.
+core.gl.		3600	IN	NS	ns1.ndsplitter.com.
+core.gl.		3600	IN	NS	ns2.ndsplitter.com.
+core.gl.		3600	IN	NS	ns3.ndsplitter.com.
 coright.gl.		3600	IN	NS	ns1.hyp.net.
 coright.gl.		3600	IN	NS	ns2.hyp.net.
 coright.gl.		3600	IN	NS	ns3.hyp.net.
@@ -8520,16 +8519,14 @@ idco.gl.		3600	IN	NS	ns4.simply.com.
 idco.gl.		3600	IN	DS	32939 13 2 45104D92F6AA5CBC6B81EF1B0C3FB76DE20D3C0A46F7BCDCCF90AE33 008568E0
 idco.gl.		3600	IN	DS	32939 13 4 6F258BAB4414FA0A230DC4F111A597B6BDE5C64824404072B1DF73FF DD86A26723BA32915973C92DC18C74D8C1BD3BCC
 idco.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. gGC8+wblF9lY/qgp5pWxokJbjh1LXfOUHfsUAeiSuf1mxJpmhF+iD0pj nPPetmamo0aP69qVs6ELV7/jBm7ODdHwVmfEAGGHXr6+x4tox5z0k4GN ukAY7SD0r81mKdmiXfpugPwZnkwKtGSKvlShduH5HZcSKxXFz41PjDoT kzEp7ejTcg8P2QIczC05MFN8fqTjyBXFBom/YvFUKwnMrM6tEli+aJ74 S1wYEel0oFMhFfnnqrwsVYu3pucE3V5FXSq37DmtcWnLnqd1puRk6IMX wxUMB9z/6cq1VzwBbXEy+U2lbr7XES5Iza6sHsWt6GMAjc5e/xC0XTS0 NQK7uQ==
-idea.gl.		3600	IN	NS	ns1.monikerdns.net.
-idea.gl.		3600	IN	NS	ns2.monikerdns.net.
-idea.gl.		3600	IN	NS	ns3.monikerdns.net.
-idea.gl.		3600	IN	NS	ns4.monikerdns.net.
+idea.gl.		3600	IN	NS	ns1.ndsplitter.com.
+idea.gl.		3600	IN	NS	ns2.ndsplitter.com.
+idea.gl.		3600	IN	NS	ns3.ndsplitter.com.
 idealista.gl.		3600	IN	NS	ns1.dondominio.com.
 idealista.gl.		3600	IN	NS	ns2.dondominio.com.
-ideas.gl.		3600	IN	NS	ns1.monikerdns.net.
-ideas.gl.		3600	IN	NS	ns2.monikerdns.net.
-ideas.gl.		3600	IN	NS	ns3.monikerdns.net.
-ideas.gl.		3600	IN	NS	ns4.monikerdns.net.
+ideas.gl.		3600	IN	NS	ns1.ndsplitter.com.
+ideas.gl.		3600	IN	NS	ns2.ndsplitter.com.
+ideas.gl.		3600	IN	NS	ns3.ndsplitter.com.
 ido.gl.			3600	IN	NS	ns-4-b.gandi.net.
 ido.gl.			3600	IN	NS	ns-16-a.gandi.net.
 ido.gl.			3600	IN	NS	ns-186-c.gandi.net.
@@ -10224,6 +10221,10 @@ kickstart.gl.		3600	IN	NS	ns2.modulo.gl.
 kickstart.gl.		3600	IN	NS	ns3.modulo.gl.
 kiener.gl.		3600	IN	NS	ns1.glariosa.com.
 kiener.gl.		3600	IN	NS	ns2.glariosa.com.
+kiffartuussivik.gl.	3600	IN	NS	ns1.nunahosting.net.
+kiffartuussivik.gl.	3600	IN	NS	ns2.nunahosting.net.
+kiffartuussivik.gl.	3600	IN	NS	ns3.nunahosting.net.
+kiffartuussivik.gl.	3600	IN	NS	ns4.nunahosting.net.
 kig.gl.			3600	IN	NS	ns1.curanet.dk.
 kig.gl.			3600	IN	NS	ns2.curanet.dk.
 kigutit.gl.		3600	IN	NS	ns01.one.com.
@@ -13652,6 +13653,8 @@ nielsen.gl.		3600	IN	NS	ns1.bdm.microsoftonline.com.
 nielsen.gl.		3600	IN	NS	ns2.bdm.microsoftonline.com.
 nielsen.gl.		3600	IN	NS	ns3.bdm.microsoftonline.com.
 nielsen.gl.		3600	IN	NS	ns4.bdm.microsoftonline.com.
+nielsensvvs.gl.		3600	IN	NS	ns1.hosting.inuit.gl.
+nielsensvvs.gl.		3600	IN	NS	ns2.hosting.inuit.gl.
 nif.gl.			3600	IN	NS	ns1-hosting.inuit.gl.
 nif.gl.			3600	IN	NS	ns2-hosting.inuit.gl.
 niff.gl.		3600	IN	NS	liv.ns.cloudflare.com.
@@ -16646,10 +16649,9 @@ reach.gl.		3600	IN	NS	emely.ns.cloudflare.com.
 reach.gl.		3600	IN	NS	julio.ns.cloudflare.com.
 reader.gl.		3600	IN	NS	owen.ns.cloudflare.com.
 reader.gl.		3600	IN	NS	tani.ns.cloudflare.com.
-real.gl.		3600	IN	NS	ns1.monikerdns.net.
-real.gl.		3600	IN	NS	ns2.monikerdns.net.
-real.gl.		3600	IN	NS	ns3.monikerdns.net.
-real.gl.		3600	IN	NS	ns4.monikerdns.net.
+real.gl.		3600	IN	NS	ns1.ndsplitter.com.
+real.gl.		3600	IN	NS	ns2.ndsplitter.com.
+real.gl.		3600	IN	NS	ns3.ndsplitter.com.
 realestate.gl.		3600	IN	NS	ns1.ndsplitter.com.
 realestate.gl.		3600	IN	NS	ns2.ndsplitter.com.
 realestate.gl.		3600	IN	NS	ns3.ndsplitter.com.
@@ -23094,4 +23096,4 @@ VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN NSEC3 1 1 0 07015CFB VSRDHHU2SC8F0D
 VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. j1Od8QqavMQKol0xVJjQoLX6rRjyJtPj3AZ8vjig+xNTxJPJsQjjs96+ 65wLKTtfFMTr7J/MKA4McfVKRQnqBh1KpthKA7GzYxoCMEs0xZGKjIxY sDhAf4SD6/fDih8+q2cMWvvPQUeEkvZ1eVTKhYm7IxI5HggTQ77i62zi UOTpb4MB1AZgYG3WIt6vvQl8RxdrXY3pA20EWLrAMilnKhzNsCdV3CXU 8+wc7c0Q2aaDr4TEO292blUI8BDPuHnt/iFbw7icA0hJy2qVki6rQUJR BoifYEFgBb0HZZ4+tKNiMz5g2jlMatebtp7A2jTtndYjqgjFHVDy30pA HA9i0Q==
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN NSEC3 1 1 0 07015CFB 00HNG94DA18JDLB8TJGHQB402HJ845A2 NS DS RRSIG
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. XosdvqgfZf1MJxDUbNeXWH0h50a8GjrAG3xOk+EgXzGmgiND37bpmCg2 h91UmZGxKMhmwE7MFddAAGE6bJU6U91G3msX9wpvfpMMoziXAQ8wY8AP Wt2lHSYjWXXJ25ZQvHVLQX8myAl9PM0jq2clbKAdwP7TrTtsUnr0qjNh sYv47CN+2d6fecnx8xLES+MFsx/LuPoCm9jYWGlQ+hmHQd8bgQUYfqkx ZNH/aICCIskqTOC829h27ERMrAjoWIe9Q1IjMEH28nElI4WLOa5kDD/x rRUENMauRiycGX65X9Hk3Gh5tzh7dyPzMEIkaHnnvpyMr915FX8624n/ Jw/ntg==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157951 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022157956 900 1800 6048000 3600
