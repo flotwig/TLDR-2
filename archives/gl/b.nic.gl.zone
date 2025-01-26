@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158053 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. bhbe+lHbMyXURhbZiE0kn8VSnZXp5+8e8EJVc25PSck/kD9QcLqXOKfa ixHb+gYc7gfpHW+OjH61Mn3SCNTbdSMeLk0gTLntrn67DXYQFaW8LgzE gmaPLDuekyFNljeFw+VeHoTDjukkNE7+DXlmYs37dQBtdWh2HScK0Pwd ABnmbK2OI6wZbJ9XqRPw+umbULOYk/BmBoagNQRthIlsQbNFwZYxCn/k ac53dwJH6eDAkvWXpr2Bm8lAlk+LHjKywv6dtCk2ghYigCuTrippG8Kk NyxqnqTRG6Y4iKgFIxm50Tq7U33G1Pu53VwyPc24XgJLVa5T+85J0djn 6/DwEQ==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158060 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. clUu9G5od55f7iYoHBb7p8hNSv5Pxdq8I9id60HEEu6cAa1mOhBedlAp gwcDVpjaLyDZwlUXaHFp44qtDledHKmzDXA7IuaAm8BNBJwbuBohNUhI QOg4vRxPm3LnwAlXzDEqO/H8AIETGX+fAFiRJrc1zW1anJYP90Ww4ZsB dFIK3gnmWETQkAxnAHfg+sMNguWJ/VCAfRs6wULlRpOyJrUiMikR9TLB VA8Wm0wKoLTS9PyoiBbYtoIX1IOtXZbGrckQ3uCw8i6NS3J2x4ngOxhu Iwo7u8JwHCOmroZJC7pzbyfAtHjqBW12UAtqMC678936dKx+TfsPNsMm qWDlHQ==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -6019,8 +6019,8 @@ fh.gl.			3600	IN	NS	ns.udag.org.
 fi.gl.			3600	IN	NS	ns1.bb-online.net.
 fi.gl.			3600	IN	NS	ns2.bb-online.org.
 fi.gl.			3600	IN	NS	ns3.bb-online.info.
-fi.gl.			3600	IN	DS	25114 8 2 C383CA01927A66361CB74EFC748C25D50420E240D0ABCCB6F68942FC 0F8995BD
-fi.gl.			3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. J8Nc8cVmA4UGdz03tRNUUNLJ4/lKkkAKKWPpPHQUrdDrzIV1STIbb8AJ QO3Sm6lgyoXLYGtaMOJ7iPfu9kR4uL2+G0vaSHd8M9dWfl/I81RUcG88 AUa0sH1pgvMt/R1KxdIQHblTlYqk5J/tvmHes5uvFg3eH+9R29UvH9lD YqSEfGv8Wg2j6ZpFPvj16Mlom4Ranf4TRbr1hEU8n/RCAg2xKfd3j9wa PCA45pmfnyGmWjO6s0YPxBofoPuBOOKX2qyIVY/bE9bK1/bESS89BTsE vOMjexRBPwudE0a2IfVx7YcJ1RUkwvg843VTnMvCCFMorcP/CITIOrr2 VSMfSA==
+fi.gl.			3600	IN	DS	24829 8 2 AD052A83ABFC6CB13AA449F73B217CCA646FC3866B4136A1E205E0E2 96C25556
+fi.gl.			3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. WqmqcVBbRJbAMGaFqawkacdmwTZX1sTtBF9DMm7lRBhSU8XpVOXBwEE5 P02oz0pqmTSTBENsL8Ro1FhC6SYMgg3YDYc3hWWXAiN0eXxjqxQWbvtY yEJcAw6w9BaTKjgrlu5l0QAq3F/GwrvJvrOgXE/3OPTpGVNVXszNLKGw LSVcu/EBO+8w02teS4ByQ2/a1E6+M/Vt02kKqQlnhmrm4tidwdYz0Glj 8uaHZbML2vWGqv/PIcY/l6Bi4bcBV/2pU0du8J5or3WF+PhUmolKKqnl Fw4mjyfA0Sh4Z5UkteczXhljq20D6MT3clrnIKBjfCmiZtls9amvOM09 WDKnzA==
 fiatprofessional.gl.	3600	IN	NS	dns1.p09.nsone.net.
 fiatprofessional.gl.	3600	IN	NS	dns2.p09.nsone.net.
 fiatprofessional.gl.	3600	IN	NS	dns3.p09.nsone.net.
@@ -18670,6 +18670,9 @@ subaru.gl.		3600	IN	NS	ns1.eurodns.com.
 subaru.gl.		3600	IN	NS	ns2.eurodns.com.
 subaru.gl.		3600	IN	NS	ns3.eurodns.com.
 subaru.gl.		3600	IN	NS	ns4.eurodns.com.
+subtel.gl.		3600	IN	NS	ns1.hosting.de.
+subtel.gl.		3600	IN	NS	ns2.hosting.de.
+subtel.gl.		3600	IN	NS	ns3.hosting.de.
 sugisaq.gl.		3600	IN	NS	ns1.nunahosting.net.
 sugisaq.gl.		3600	IN	NS	ns2.nunahosting.net.
 sugisaq.gl.		3600	IN	NS	ns3.nunahosting.net.
@@ -19412,6 +19415,8 @@ thepethealthclub.gl.	3600	IN	NS	emea.excedodns.eu.
 thepethealthclub.gl.	3600	IN	NS	world.excedodns.org.
 thepethealthclub.gl.	3600	IN	NS	global.excedodns.com.
 thepethealthclub.gl.	3600	IN	NS	nordic.excedodns.net.
+thepiratebay.gl.	3600	IN	NS	sima.ns.cloudflare.com.
+thepiratebay.gl.	3600	IN	NS	mitch.ns.cloudflare.com.
 therapeuticmassage.gl.	3600	IN	NS	ns1.simply.com.
 therapeuticmassage.gl.	3600	IN	NS	ns2.simply.com.
 therapeuticmassage.gl.	3600	IN	NS	ns3.simply.com.
@@ -23100,4 +23105,4 @@ VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN NSEC3 1 1 0 07015CFB VSRDHHU2SC8F0D
 VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. j1Od8QqavMQKol0xVJjQoLX6rRjyJtPj3AZ8vjig+xNTxJPJsQjjs96+ 65wLKTtfFMTr7J/MKA4McfVKRQnqBh1KpthKA7GzYxoCMEs0xZGKjIxY sDhAf4SD6/fDih8+q2cMWvvPQUeEkvZ1eVTKhYm7IxI5HggTQ77i62zi UOTpb4MB1AZgYG3WIt6vvQl8RxdrXY3pA20EWLrAMilnKhzNsCdV3CXU 8+wc7c0Q2aaDr4TEO292blUI8BDPuHnt/iFbw7icA0hJy2qVki6rQUJR BoifYEFgBb0HZZ4+tKNiMz5g2jlMatebtp7A2jTtndYjqgjFHVDy30pA HA9i0Q==
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN NSEC3 1 1 0 07015CFB 00HNG94DA18JDLB8TJGHQB402HJ845A2 NS DS RRSIG
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. XosdvqgfZf1MJxDUbNeXWH0h50a8GjrAG3xOk+EgXzGmgiND37bpmCg2 h91UmZGxKMhmwE7MFddAAGE6bJU6U91G3msX9wpvfpMMoziXAQ8wY8AP Wt2lHSYjWXXJ25ZQvHVLQX8myAl9PM0jq2clbKAdwP7TrTtsUnr0qjNh sYv47CN+2d6fecnx8xLES+MFsx/LuPoCm9jYWGlQ+hmHQd8bgQUYfqkx ZNH/aICCIskqTOC829h27ERMrAjoWIe9Q1IjMEH28nElI4WLOa5kDD/x rRUENMauRiycGX65X9Hk3Gh5tzh7dyPzMEIkaHnnvpyMr915FX8624n/ Jw/ntg==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158053 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158060 900 1800 6048000 3600
