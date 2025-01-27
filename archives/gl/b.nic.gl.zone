@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158108 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. a2gVm1JvD7acWQ5Fuc7rcKHs1X+v9OUPsOp3CjLELcNtLRra5gekKr54 zbos9q33CnBLIDok+lqDT56g67YcazDyS0URFPfgX7IA9Jtcz5K1pMeR 4jHU2Tvr3wPgg9isB8CDkOENc60HREpHlHWO4GuUiRxEAdC6qzZBGsz/ gFhdNcd0HGyvX8agSS1h4IcmsfKRTxEBU4XEg/QZ3eN9QQ2czyWdga0H TcvkFERgB+1W2EgOyOru4ygrVbYrwJnvU1pN2Bbl6XifcJqlnqWcoxOd Le8GVfViCuqXTXJjMZqxpEprSPM00H0D4HUAuqo7FRoQgN371X47E5g5 UOrpYw==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158120 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. KB2gInS0gJxQoGE2JfPb4kl02xqkuiDE8ZjV0g9JxSaFjVyuQT0ZRQXA aw26olzrORafHmo5azUHICBxbF7EG1f3+3E+fxa591Nl6YqiM7YsDtyp MOsTWPx/CLaQLPZ5b57uVfdpZYPrjEWHS97KgBu4YMqe8oB8F6p5XQlA BsYP5m5ZQtHK9xMjZBHtwIYaLf6ivvS546QEdFuEqmayuCSt9IFOL02P iH43xEYjU0kvsfBLDvMCf7pnumKi6DvxaRsngr3kfNojwlYHocEU2v6w ipIZQ4Gr4+7Eb3ZtkCBoqQvkB8lv1W6Ii/RwMoC8HCWcAZe0844vKz+i aKyp/Q==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -1361,6 +1361,9 @@ appa.gl.		3600	IN	NS	a.hosting.gl.
 appa.gl.		3600	IN	NS	b.hosting.gl.
 appa.gl.		3600	IN	NS	c.hosting.gl.
 appa.gl.		3600	IN	NS	d.hosting.gl.
+appgoo.gl.		3600	IN	NS	ns1.netim.net.
+appgoo.gl.		3600	IN	NS	ns2.netim.net.
+appgoo.gl.		3600	IN	NS	ns3.netim.net.
 appi.gl.		3600	IN	NS	ns1.nunahosting.net.
 appi.gl.		3600	IN	NS	ns2.nunahosting.net.
 appi.gl.		3600	IN	NS	ns3.nunahosting.net.
@@ -6438,6 +6441,8 @@ frelsenshaeri.gl.	3600	IN	NS	kristin.ns.cloudflare.com.
 fremtid.gl.		3600	IN	NS	ns1.netim.net.
 fremtid.gl.		3600	IN	NS	ns2.netim.net.
 fremtid.gl.		3600	IN	NS	ns3.netim.net.
+frentepopular.gl.	3600	IN	NS	aron.ns.cloudflare.com.
+frentepopular.gl.	3600	IN	NS	jeremy.ns.cloudflare.com.
 freseniusmedicalcare.gl. 3600	IN	NS	ns1.markmonitor.com.
 freseniusmedicalcare.gl. 3600	IN	NS	ns2.markmonitor.com.
 freseniusmedicalcare.gl. 3600	IN	NS	ns3.markmonitor.com.
@@ -11250,8 +11255,8 @@ leovegas.gl.		3600	IN	NS	dns03.ports.se.
 leovegas.gl.		3600	IN	NS	dns04.ports.net.
 lernstube.gl.		3600	IN	NS	dns1.exigo.ch.
 lernstube.gl.		3600	IN	NS	dns2.exigo.ch.
-lesbian.gl.		3600	IN	NS	cris.ns.cloudflare.com.
-lesbian.gl.		3600	IN	NS	jocelyn.ns.cloudflare.com.
+lesbian.gl.		3600	IN	NS	ns1.sedoparking.com.
+lesbian.gl.		3600	IN	NS	ns2.sedoparking.com.
 leth.gl.		3600	IN	NS	dom.ns.cloudflare.com.
 leth.gl.		3600	IN	NS	irma.ns.cloudflare.com.
 lets-brand.gl.		3600	IN	NS	sec1.rcode0.net.
@@ -14695,11 +14700,6 @@ olsen.gl.		3600	IN	NS	ns1.nordicway.dk.
 olsen.gl.		3600	IN	NS	ns2.nordicway.dk.
 olsen.gl.		3600	IN	NS	ns3.nordicway.dk.
 olsen.gl.		3600	IN	NS	ns4.nordicway.dk.
-oludom.gl.		3600	IN	NS	ns1.modulo.gl.
-oludom.gl.		3600	IN	NS	ns2.modulo.gl.
-oludom.gl.		3600	IN	NS	ns3.modulo.gl.
-oludom.gl.		3600	IN	DS	1252 13 2 9C54A87FE392B48612871F82FD707E6815415CCE0920E89DF5BBA451 4BBDBD80
-oludom.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. ROCXAG/auY5ihWT29lnify89CULUSFKb7ZJDsiG30uiFBLk+SmF23UtH 1pGIhIcd7m4Hk/m/sUIaGHiuCMHhfhrKS0zNDpO1k2SxMiMsArf2nmDF Q6IuHIXjB2ysolj4Irk+Jc2fwyVWJCtuLBSi4sZ8SJ5vcf+TNHqfLJ/T ZKVn8M+ebZ4Q8vp+vfXf47aGsrvwqhYxuF/MEbztDxncsRMMHlEZXzeE 6UKIxT/XLzHb/tGr7pHBBb0fF6BzACD51D2CMgOeVwCnwSM1Y7cRG+vL wfc9+CuuQ4yfruTNjeE8wjbqlTih3Q1uOjwcXn5Uvmk6zZ4Z6+XUcOU5 GQmDCA==
 olymp.gl.		3600	IN	NS	ns-52.awsdns-06.com.
 olymp.gl.		3600	IN	NS	ns-721.awsdns-26.net.
 olymp.gl.		3600	IN	NS	ns-1115.awsdns-11.org.
@@ -15968,8 +15968,8 @@ pornbox.gl.		3600	IN	NS	ns1.serverstack.com.
 pornbox.gl.		3600	IN	NS	ns2.serverstack.com.
 pornbox.gl.		3600	IN	NS	ns3.serverstack.com.
 pornbox.gl.		3600	IN	NS	ns4.serverstack.com.
-porno.gl.		3600	IN	NS	beth.ns.cloudflare.com.
-porno.gl.		3600	IN	NS	kevin.ns.cloudflare.com.
+porno.gl.		3600	IN	NS	ns1.sedoparking.com.
+porno.gl.		3600	IN	NS	ns2.sedoparking.com.
 pornografi.gl.		3600	IN	NS	ns1.simply.com.
 pornografi.gl.		3600	IN	NS	ns2.simply.com.
 pornografi.gl.		3600	IN	NS	ns3.simply.com.
@@ -18542,9 +18542,8 @@ startups.gl.		3600	IN	NS	ns3.iwantmyname.net.
 startups.gl.		3600	IN	NS	ns4.iwantmyname.net.
 startv.gl.		3600	IN	NS	dns1.cscdns.net.
 startv.gl.		3600	IN	NS	dns2.cscdns.net.
-stash-patrick.gl.	3600	IN	NS	ns1.netim.net.
-stash-patrick.gl.	3600	IN	NS	ns2.netim.net.
-stash-patrick.gl.	3600	IN	NS	ns3.netim.net.
+stash-patrick.gl.	3600	IN	NS	rose.ns.cloudflare.com.
+stash-patrick.gl.	3600	IN	NS	agustin.ns.cloudflare.com.
 stashpartick.gl.	3600	IN	NS	ns1.bluehost.in.
 stashpartick.gl.	3600	IN	NS	ns2.bluehost.in.
 stashpatric.gl.		3600	IN	NS	ns1.timeweb.ru.
@@ -21908,10 +21907,8 @@ zzzomg.gl.		3600	IN	NS	diana.ns.cloudflare.com.
 3P2HSLKDTG40BL0E0EVE2UUGNHE5M1H3.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. RaMbA2GPLAIv94owKcoLSk9jirT8p2NNFjPS4U7RiIqoC1IlJt/UvPq1 34x/luIlCGF8SRrPJjmOCgADTBW58BI5+1a+piAQKHRobCodr0IG0Ou6 6oxNNSOxPRkmu4JRt5vymrmZvXvdDjWj0+OzjZxHsSdw3A+nZ/ett317 Vk1/FUUObqnB3eEvViZ2fB8NAMPBifEnFpgpuidSMt6Y+kZKicaklnRl 6Na+ZRAhlX+ZLsPBMXiSjZV+iD4SyhGzAduaAdoSGXuaVcGrIsYBrL1y smoV3F09DRzbV3ebeirWC8k/sGXTK6mO8l7mgTDLUXdhy+s9NXiXrKdo 1GgOPg==
 3R5160JC82G7N3U15AIMVB55RIHUG69D.gl. 3600 IN NSEC3 1 1 0 07015CFB 3SKPIRKIBIFLOQQRUT72OQP9F53P5AB0 NS DS RRSIG
 3R5160JC82G7N3U15AIMVB55RIHUG69D.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. WiSanSf/x/lISDbf/g9EtE+NQ3XcShvRO1KV+6EfF1+UPE21wHBrjypC iFAio+TeXOw/WhM6Jf2/NJd+T12vp4axUyk1iVk2tKbIhL8HH5+e21Y+ qhMT/jZ8cuuE+p5O+9FmV4zE7ZFc3ZPToVh73cBcKCJMoayEiqAD5VN3 jAB8DfE44RYPNsih8RgWkdFnZbERrTy5AMuzymtxS55JBxO5n0GOgSGK NfX8NYbwBOwLAeJ0mRW2QfFBcfykPHYNDE0fTUGSRMH5N+EJNPyAmY+k bp29F+qhJ2u45CCnjMb55Cvc2r4ZYUlwo/3Gx/cC3+//3/XzL/wXB/yf aCCZ9Q==
-3SKPIRKIBIFLOQQRUT72OQP9F53P5AB0.gl. 3600 IN NSEC3 1 1 0 07015CFB 3THSV0HOMKINRLESSPUSVSUTNA1S2T3H NS DS RRSIG
-3SKPIRKIBIFLOQQRUT72OQP9F53P5AB0.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. BtXu4IExKorynwhuFknYY5f5y28C4hNNYvc9vqGdSsZsLDBZ1y/f335R muk36NcUTL4R7xIGUM6oMJoh/J8sil+X+X75538lCdS7/w/tXWKeXL8e oLvtRumB1FY+o9W9uZAQ+KCkACt85tUCaLbBgD5Lw2YZffTy8263mDiM V9xPyWrWWwQdLVzT6g7pIlRU5K7nzSjqWpM19JzB9SJyT9kLox0j6KW6 Hw/einEy5nTwPU0TST17OuVDDcpj++ttEfkbnsbIJ8tuqc/YACxUmazf 2irEbwSV6pagnYJiFh9f5fwdov0+mFipM/C5w/umsN73ygC0z33ZI7tJ QJI/SA==
-3THSV0HOMKINRLESSPUSVSUTNA1S2T3H.gl. 3600 IN NSEC3 1 1 0 07015CFB 4109MNVNKTFLUFNV2NTKTTSHDGS4E5CV NS DS RRSIG
-3THSV0HOMKINRLESSPUSVSUTNA1S2T3H.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. XZjEEjsguT1fyFrHETuUnhlS0CKrjp5acznzwZ9rvvVarYyikyOc850K IglguA5nVhd9E0jdl0u9xnerLk2j2BzwcPf1UbJpeULjY73D6y1jHXIU fbiLYFOcWRhbRUTZgui33Pv+8btRppNnzSqdhRUIkMJKLTWCFZS7zH3k QR1KPnFoSD5yvwujThd4GX36RRqjQtJ3oNV3Lhfz6LKA1hQNSiconv59 W+mI2pSNrawAbMpvisSD1Vsja1bBhPphnazKJFPtT31j6tzZmpbWc7/r fSEqkOa805J5N/NASnCCki9XXicIpCRXVniCS8jD/EPZlMsOAwIq+jhl NE6W1w==
+3SKPIRKIBIFLOQQRUT72OQP9F53P5AB0.gl. 3600 IN NSEC3 1 1 0 07015CFB 4109MNVNKTFLUFNV2NTKTTSHDGS4E5CV NS DS RRSIG
+3SKPIRKIBIFLOQQRUT72OQP9F53P5AB0.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. FYLQkvL7hIOPQLsKqs7K/2mIYEi8iM8nmqtDHZE7QqhMvAt31B4UI27U 3tKuZWJS4dN1KFBv8VLn6FxxCwbYHfzxEf0YCk93p9upJr+CAZbZjt6R mtutybYs8SlHvDXDYJRbByrFzqCI7tprCoHx6CbnVr72z02CPNahBicU LtRCUorv6MkbWAjc3eoESSAOjpwhlWbWN9nnl2fErWhvgDYeLP5PzAxy 4lYjWvAhc2Antp80yGLWRDo+A4wNC22+mwW2jrr+3bE0v/2NLd9lD+YN dNuxxPyORUvXQNKEQ2OBqSqWgx0LYrlEZILKbJDFZbYZ77hiYthiYHGa Ffb4mA==
 4109MNVNKTFLUFNV2NTKTTSHDGS4E5CV.gl. 3600 IN NSEC3 1 1 0 07015CFB 4146UMBI6U1EJCMM240MPREOI9MTKTLQ NS DS RRSIG
 4109MNVNKTFLUFNV2NTKTTSHDGS4E5CV.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. g9ncCdx5l6xyk5lQKNmMD+k7A04sehAxWg5+OCRIvdJuGBhWfj0MWKMZ /fwSfSN6AFYoqYlkHWbkkaOQ8cHME2aJr8Ho5Nv3rSyOLEMEnpcDl0+w xC2USvEkFU6lAljttg9AeKPysR0anJa1SHJDUpV3JmguPgoQTQXTkRnH qqYbzQUd0sKnUcCNERFB8gL5ZdMqNKqzpi7HKm+yUWGU6B0qi1o/M0fX 3FEbCEbRitVX3lZlonVCuKoU5bfnYNtxNgXVvhMPjilrmp7AVnqceJ1U 6tLVIZX7O75ZbS4NsYrvYz9QKoPqC15o8rSXazEYvEZA7mHz13VqtLff j0z/RQ==
 4146UMBI6U1EJCMM240MPREOI9MTKTLQ.gl. 3600 IN NSEC3 1 1 0 07015CFB 41L8HBG460I8KS3VGRAT6I90KQNHD602 NS DS RRSIG
@@ -23122,4 +23119,4 @@ VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN NSEC3 1 1 0 07015CFB VSRDHHU2SC8F0D
 VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. j1Od8QqavMQKol0xVJjQoLX6rRjyJtPj3AZ8vjig+xNTxJPJsQjjs96+ 65wLKTtfFMTr7J/MKA4McfVKRQnqBh1KpthKA7GzYxoCMEs0xZGKjIxY sDhAf4SD6/fDih8+q2cMWvvPQUeEkvZ1eVTKhYm7IxI5HggTQ77i62zi UOTpb4MB1AZgYG3WIt6vvQl8RxdrXY3pA20EWLrAMilnKhzNsCdV3CXU 8+wc7c0Q2aaDr4TEO292blUI8BDPuHnt/iFbw7icA0hJy2qVki6rQUJR BoifYEFgBb0HZZ4+tKNiMz5g2jlMatebtp7A2jTtndYjqgjFHVDy30pA HA9i0Q==
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN NSEC3 1 1 0 07015CFB 00HNG94DA18JDLB8TJGHQB402HJ845A2 NS DS RRSIG
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. XosdvqgfZf1MJxDUbNeXWH0h50a8GjrAG3xOk+EgXzGmgiND37bpmCg2 h91UmZGxKMhmwE7MFddAAGE6bJU6U91G3msX9wpvfpMMoziXAQ8wY8AP Wt2lHSYjWXXJ25ZQvHVLQX8myAl9PM0jq2clbKAdwP7TrTtsUnr0qjNh sYv47CN+2d6fecnx8xLES+MFsx/LuPoCm9jYWGlQ+hmHQd8bgQUYfqkx ZNH/aICCIskqTOC829h27ERMrAjoWIe9Q1IjMEH28nElI4WLOa5kDD/x rRUENMauRiycGX65X9Hk3Gh5tzh7dyPzMEIkaHnnvpyMr915FX8624n/ Jw/ntg==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158108 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158120 900 1800 6048000 3600
