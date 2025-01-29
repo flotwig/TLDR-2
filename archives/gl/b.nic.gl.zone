@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158231 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. AM14pK4PpvNsu5T8R42XIgnLEinI0uxLf5ZXx+a9maD3e7E+HlkakqTi cx2tce24uGfX6wtgqZ1Mmydmq+8Ev293M8wujc8UO6Bl62a5c2YW2Evh WwxIBDDj+zNfGtjBy1ucj6Ui8+7wNQC4Y8uQqdE6HpyfKBkbeN+pePZF V/VMYt8X8cXO7r45I8Hv2fMqiG8apa3Dj/lEIA1ydjuJZ5j+ZIdmKVsV NnaUv7+s8WGrM389XC683dEO6G+jSRQ1uh89SX/VcRSCwatWXsRPqicT mttKR1lJD0Uf6BORQippDQKinHG5HKQX2zTqjpARd0gpl2HBZwpin3Of GU7hPw==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158234 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. kGnXVL1HJ4UCxqrx+MiNIN6848fPKnV60JAVY4Qk2DZFHdDTjA6PjozO FcMFe6zmzsFj3K8di0SJbKSrmXniXRYdJH6k0/8yKC76hgXXiqZqWwH7 ipU88yUMCWUVBCJJM3qW3kU2ragnNDHZpZBEIvQOpi21IhQyOBiZjhrm 8xyno525D5zPMBUZcBEwrC3qq+ppZZuUTxIOJbd2lWcHSQoJJsWafomI Y7qfi96XhY6N8G0wLjEoMA84QQ92SvsJdjvxkPPxVPWyDbo0L7xAT0pd WUI+72JjsJfWm7ZDvksw7HJTb9De7cfM1dlQcVJynVjc/MYApdCNNejl eYZYMQ==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -3124,6 +3124,14 @@ brdn.gl.		3600	IN	NS	ns-1087.awsdns-07.org.
 brdn.gl.		3600	IN	NS	ns-1883.awsdns-43.co.uk.
 brewhouse.gl.		3600	IN	NS	jacob.ns.cloudflare.com.
 brewhouse.gl.		3600	IN	NS	ximena.ns.cloudflare.com.
+brewhouse-greenland.gl.	3600	IN	NS	a.hosting.gl.
+brewhouse-greenland.gl.	3600	IN	NS	b.hosting.gl.
+brewhouse-greenland.gl.	3600	IN	NS	c.hosting.gl.
+brewhouse-greenland.gl.	3600	IN	NS	d.hosting.gl.
+brewhousegreenland.gl.	3600	IN	NS	a.hosting.gl.
+brewhousegreenland.gl.	3600	IN	NS	b.hosting.gl.
+brewhousegreenland.gl.	3600	IN	NS	c.hosting.gl.
+brewhousegreenland.gl.	3600	IN	NS	d.hosting.gl.
 bri.gl.			3600	IN	NS	a.ns14.net.
 bri.gl.			3600	IN	NS	b.ns14.net.
 bri.gl.			3600	IN	NS	c.ns14.net.
@@ -5629,10 +5637,9 @@ esvagt.gl.		3600	IN	NS	ns2.scannet2.dk.
 eswc.gl.		3600	IN	NS	dns1.idp365.net.
 eswc.gl.		3600	IN	NS	dns2.idp365.net.
 eswc.gl.		3600	IN	NS	dns3.idp365.net.
-et.gl.			3600	IN	NS	ns1.monikerdns.net.
-et.gl.			3600	IN	NS	ns2.monikerdns.net.
-et.gl.			3600	IN	NS	ns3.monikerdns.net.
-et.gl.			3600	IN	NS	ns4.monikerdns.net.
+et.gl.			3600	IN	NS	ns1.ndsplitter.com.
+et.gl.			3600	IN	NS	ns2.ndsplitter.com.
+et.gl.			3600	IN	NS	ns3.ndsplitter.com.
 eta.gl.			3600	IN	NS	ns1.esoft.com.ru.
 eta.gl.			3600	IN	NS	ns2.esoft.org.ru.
 etam.gl.		3600	IN	NS	ns-24-c.gandi.net.
@@ -23090,4 +23097,4 @@ VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN NSEC3 1 1 0 07015CFB VSRDHHU2SC8F0D
 VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. j1Od8QqavMQKol0xVJjQoLX6rRjyJtPj3AZ8vjig+xNTxJPJsQjjs96+ 65wLKTtfFMTr7J/MKA4McfVKRQnqBh1KpthKA7GzYxoCMEs0xZGKjIxY sDhAf4SD6/fDih8+q2cMWvvPQUeEkvZ1eVTKhYm7IxI5HggTQ77i62zi UOTpb4MB1AZgYG3WIt6vvQl8RxdrXY3pA20EWLrAMilnKhzNsCdV3CXU 8+wc7c0Q2aaDr4TEO292blUI8BDPuHnt/iFbw7icA0hJy2qVki6rQUJR BoifYEFgBb0HZZ4+tKNiMz5g2jlMatebtp7A2jTtndYjqgjFHVDy30pA HA9i0Q==
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN NSEC3 1 1 0 07015CFB 00HNG94DA18JDLB8TJGHQB402HJ845A2 NS DS RRSIG
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. XosdvqgfZf1MJxDUbNeXWH0h50a8GjrAG3xOk+EgXzGmgiND37bpmCg2 h91UmZGxKMhmwE7MFddAAGE6bJU6U91G3msX9wpvfpMMoziXAQ8wY8AP Wt2lHSYjWXXJ25ZQvHVLQX8myAl9PM0jq2clbKAdwP7TrTtsUnr0qjNh sYv47CN+2d6fecnx8xLES+MFsx/LuPoCm9jYWGlQ+hmHQd8bgQUYfqkx ZNH/aICCIskqTOC829h27ERMrAjoWIe9Q1IjMEH28nElI4WLOa5kDD/x rRUENMauRiycGX65X9Hk3Gh5tzh7dyPzMEIkaHnnvpyMr915FX8624n/ Jw/ntg==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158231 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158234 900 1800 6048000 3600
