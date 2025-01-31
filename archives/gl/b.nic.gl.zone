@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158346 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. kVA5x8hTooauLeVZMlG6T+rBYDL5s973Jl2CdUXzLabzcj//LiP4LcoN Axk/RdjtKMEMn9QIV/2cfxFHGXOr7E3n1PU0GI0M8z+1xumnBaA7f/CU M+MbGHbUL5zcPT8yRvi3eK2WXfoogVvPgyKMReLILV/b3yCQO1kxxx3z RA+sURn/LdZcJyCqp1pM9dNMdJNKu7j4iei+Ty4xXb4hO4VqLvuUHGua 4r1kcoJQvwZVwjezovw2ZRdcDtzBKkCE1K5+9JziwtLuihQ4P1PrxQ5k yGxHcm9qAgGnx/zMDyN683V+SnCVPw1zUfa+S8+82Cmy/wODPO96C1MU 1VmwLQ==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158354 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. TLpTV5Q3Xv12BxfPn2Xe+1Ofc84ee4H6TtESCz4HZxWVJ7YpwPfc+FlO 8gGXwUyYcll01ai+4dUjovplxYvaZi2Ba5YqaCQDwj/6rnHhYhBmUo9S aowYDZvZO+4WU4AS1vd67YS3GqDc2+POpbXHc3muczWFQxyVDskxXRLn PRWfxLmkTJlm7zSrYTjSW13GfHXitcKlgZM0m/NMkJeyN3LD2kTohJ4S xygZa7GuDvp35jS6CsJT5IQMbGiDGQu6gSmvpPwp54vccS5nblZYxe0O NVY5vZQ1GvLb8gJC6lhYOt/mavW/ejkyocacF8ezXa6xQFHxPWDBYZ1l 0RRv4A==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -1463,6 +1463,10 @@ arconic.gl.		3600	IN	NS	dns4.comlaude-dns.eu.
 arctic.gl.		3600	IN	NS	ns1.netim.net.
 arctic.gl.		3600	IN	NS	ns2.netim.net.
 arctic.gl.		3600	IN	NS	ns3.netim.net.
+arctic-aurora.gl.	3600	IN	NS	ns1.nunahosting.net.
+arctic-aurora.gl.	3600	IN	NS	ns2.nunahosting.net.
+arctic-aurora.gl.	3600	IN	NS	ns3.nunahosting.net.
+arctic-aurora.gl.	3600	IN	NS	ns4.nunahosting.net.
 arctic-capacity.gl.	3600	IN	NS	ns.dandomain.dk.
 arctic-capacity.gl.	3600	IN	NS	ns2.dandomain.dk.
 arctic-contractors.gl.	3600	IN	NS	ns1.bdm.microsoftonline.com.
@@ -3648,9 +3652,6 @@ carrentalnet.gl.	3600	IN	NS	ns2.dnshost.net.
 cars.gl.		3600	IN	NS	ns0.transip.net.
 cars.gl.		3600	IN	NS	ns1.transip.nl.
 cars.gl.		3600	IN	NS	ns2.transip.eu.
-carton.gl.		3600	IN	NS	ns-95-a.gandi.net.
-carton.gl.		3600	IN	NS	ns-218-c.gandi.net.
-carton.gl.		3600	IN	NS	ns-222-b.gandi.net.
 cartoonnetwork.gl.	3600	IN	NS	ns1.timewarner.net.
 cartoonnetwork.gl.	3600	IN	NS	ns3.timewarner.net.
 cartoonnetwork.gl.	3600	IN	NS	ns5.timewarner.net.
@@ -23104,4 +23105,4 @@ VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN NSEC3 1 1 0 07015CFB VSRDHHU2SC8F0D
 VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. j1Od8QqavMQKol0xVJjQoLX6rRjyJtPj3AZ8vjig+xNTxJPJsQjjs96+ 65wLKTtfFMTr7J/MKA4McfVKRQnqBh1KpthKA7GzYxoCMEs0xZGKjIxY sDhAf4SD6/fDih8+q2cMWvvPQUeEkvZ1eVTKhYm7IxI5HggTQ77i62zi UOTpb4MB1AZgYG3WIt6vvQl8RxdrXY3pA20EWLrAMilnKhzNsCdV3CXU 8+wc7c0Q2aaDr4TEO292blUI8BDPuHnt/iFbw7icA0hJy2qVki6rQUJR BoifYEFgBb0HZZ4+tKNiMz5g2jlMatebtp7A2jTtndYjqgjFHVDy30pA HA9i0Q==
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN NSEC3 1 1 0 07015CFB 00HNG94DA18JDLB8TJGHQB402HJ845A2 NS DS RRSIG
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. XosdvqgfZf1MJxDUbNeXWH0h50a8GjrAG3xOk+EgXzGmgiND37bpmCg2 h91UmZGxKMhmwE7MFddAAGE6bJU6U91G3msX9wpvfpMMoziXAQ8wY8AP Wt2lHSYjWXXJ25ZQvHVLQX8myAl9PM0jq2clbKAdwP7TrTtsUnr0qjNh sYv47CN+2d6fecnx8xLES+MFsx/LuPoCm9jYWGlQ+hmHQd8bgQUYfqkx ZNH/aICCIskqTOC829h27ERMrAjoWIe9Q1IjMEH28nElI4WLOa5kDD/x rRUENMauRiycGX65X9Hk3Gh5tzh7dyPzMEIkaHnnvpyMr915FX8624n/ Jw/ntg==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158346 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158354 900 1800 6048000 3600
