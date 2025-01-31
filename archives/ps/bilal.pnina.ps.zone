@@ -1,4 +1,4 @@
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025013008 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025013105 86400 7200 3600000 172800
 ps.			86400	IN	NS	ps.cctld.authdns.ripe.net.
 ps.			86400	IN	NS	ns1.pnina.ps.
 ps.			86400	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.			86400	IN	NS	rip.psg.com.
 ps.			86400	IN	NS	fork.sth.dnsnode.net.
 ps.			86400	IN	NS	Bilal.pnina.ps.
 ps.			86400	IN	NS	ps-ns.anycast.pch.net.
-ps.			86400	IN	TXT	"Generation Time: 1738249307"
+ps.			86400	IN	TXT	"Generation Time: 1738314105"
 01net.ps.		86400	IN	NS	ns1.safebrands.fr.
 01net.ps.		86400	IN	NS	ns2.safebrands.eu.
 01net.ps.		86400	IN	NS	ns3.safebrands.com.
@@ -944,6 +944,8 @@ alamo.ps.		86400	IN	NS	ns3.markmonitor.com.
 alamo.ps.		86400	IN	NS	ns6.markmonitor.com.
 alamourco.ps.		86400	IN	NS	cdns1.hadara.ps.
 alamourco.ps.		86400	IN	NS	cdns2.hadara.ps.
+alan.ps.		86400	IN	NS	vera.ns.cloudflare.com.
+alan.ps.		86400	IN	NS	graham.ns.cloudflare.com.
 alanaqa.ps.		86400	IN	NS	ns1.mysecurecloudhost.com.
 alanaqa.ps.		86400	IN	NS	ns2.mysecurecloudhost.com.
 alanwar.ps.		86400	IN	NS	nscp3.furrera.ps.
@@ -1175,8 +1177,8 @@ alhelalgroup.ps.	86400	IN	NS	ns1-lion.dl-cms.com.
 alhelalgroup.ps.	86400	IN	NS	ns2-lion.dl-cms.com.
 alhijaz.ps.		86400	IN	NS	lynn.ns.cloudflare.com.
 alhijaz.ps.		86400	IN	NS	desiree.ns.cloudflare.com.
-alhijjawi.ps.		86400	IN	NS	ns1.sederhost.com.
-alhijjawi.ps.		86400	IN	NS	ns2.sederhost.com.
+alhijjawi.ps.		86400	IN	NS	lex.ns.cloudflare.com.
+alhijjawi.ps.		86400	IN	NS	roxy.ns.cloudflare.com.
 alhourriah.ps.		86400	IN	NS	dns1.namecheaphosting.com.
 alhourriah.ps.		86400	IN	NS	dns2.namecheaphosting.com.
 alhuda.ps.		86400	IN	NS	ns1.injazatcloud.ps.
@@ -4965,8 +4967,9 @@ digitalcloud.ps.	86400	IN	NS	junade.ns.cloudflare.com.
 digitalcloud.ps.	86400	IN	NS	alexandra.ns.cloudflare.com.
 digitallife.ps.		86400	IN	NS	ns1-panda.dl-cms.com.
 digitallife.ps.		86400	IN	NS	ns2-panda.dl-cms.com.
-digitalpalestine.ps.	86400	IN	NS	ns1.bluetd.com.
-digitalpalestine.ps.	86400	IN	NS	ns2.bluetd.com.
+digitalpalestine.ps.	86400	IN	NS	dns3.gov.ps.
+digitalpalestine.ps.	86400	IN	NS	dns4.pna.ps.
+digitalpalestine.ps.	86400	IN	NS	dns5.gov.ps.
 digitalspark.ps.	86400	IN	NS	ns1.injazatcloud.ps.
 digitalspark.ps.	86400	IN	NS	ns2.injazatcloud.ps.
 digitv.ps.		86400	IN	NS	ed.ns.cloudflare.com.
@@ -9719,6 +9722,9 @@ llc.ps.			86400	IN	NS	ns1.zone.ps.
 llc.ps.			86400	IN	NS	ns2.zone.ps.
 lo2ta.ps.		86400	IN	NS	liz.ns.cloudflare.com.
 lo2ta.ps.		86400	IN	NS	bruce.ns.cloudflare.com.
+load.ps.		86400	IN	NS	ns.udag.de.
+load.ps.		86400	IN	NS	ns.udag.net.
+load.ps.		86400	IN	NS	ns.udag.org.
 lob.ps.			86400	IN	NS	ns1.injazatcloud.ps.
 lob.ps.			86400	IN	NS	ns2.injazatcloud.ps.
 local.ps.		86400	IN	NS	ns1.site4now.net.
@@ -9750,6 +9756,8 @@ looneytunes.ps.		86400	IN	NS	ns1-b2.warnerbros.com.
 looneytunes.ps.		86400	IN	NS	ns2-b2.warnerbros.com.
 looneytunes.ps.		86400	IN	NS	ns3-b2.warnerbros.com.
 looneytunes.ps.		86400	IN	NS	ns4-b2.warnerbros.com.
+loop.ps.		86400	IN	NS	ns1.101domain.com.
+loop.ps.		86400	IN	NS	ns2.101domain.com.
 loot.ps.		86400	IN	NS	perla.ns.cloudflare.com.
 loot.ps.		86400	IN	NS	gordon.ns.cloudflare.com.
 looz.ps.		86400	IN	NS	nscp1.intertech-pal.com.
@@ -12891,11 +12899,11 @@ paltech.ps.		86400	IN	NS	ns1.paltech.ps.
 paltech.ps.		86400	IN	NS	ns2.paltech.ps.
 ns1.paltech.ps.		86400	IN	A	38.242.209.203
 ns2.paltech.ps.		86400	IN	A	38.242.209.203
-paltel.ps.		86400	IN	DS	30944 13 2 5B6E4A860BC99FB8C8E7E7E6B1E0CA57456075F2AAF4E7277DFE7D56 44B8E4D0
 paltel.ps.		86400	IN	NS	ns1.paltel.ps.
 paltel.ps.		86400	IN	NS	ns2.paltel.ps.
 paltel.ps.		86400	IN	NS	ns3.paltel.ps.
 paltel.ps.		86400	IN	NS	ns4.paltel.ps.
+paltel.ps.		86400	IN	DS	30944 13 2 5B6E4A860BC99FB8C8E7E7E6B1E0CA57456075F2AAF4E7277DFE7D56 44B8E4D0
 ns1.paltel.ps.		86400	IN	A	216.239.32.106
 ns2.paltel.ps.		86400	IN	A	216.239.34.106
 ns3.paltel.ps.		86400	IN	A	216.239.36.106
@@ -18893,4 +18901,4 @@ zuwadeh.ps.		86400	IN	NS	ns3.ftsconsulting.net.
 zuwadeh.ps.		86400	IN	NS	ns4.ftsconsulting.net.
 zuwar.ps.		86400	IN	NS	ns1.dns-parking.com.
 zuwar.ps.		86400	IN	NS	ns2.dns-parking.com.
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025013008 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025013105 86400 7200 3600000 172800
