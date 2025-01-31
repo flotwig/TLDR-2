@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158354 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. TLpTV5Q3Xv12BxfPn2Xe+1Ofc84ee4H6TtESCz4HZxWVJ7YpwPfc+FlO 8gGXwUyYcll01ai+4dUjovplxYvaZi2Ba5YqaCQDwj/6rnHhYhBmUo9S aowYDZvZO+4WU4AS1vd67YS3GqDc2+POpbXHc3muczWFQxyVDskxXRLn PRWfxLmkTJlm7zSrYTjSW13GfHXitcKlgZM0m/NMkJeyN3LD2kTohJ4S xygZa7GuDvp35jS6CsJT5IQMbGiDGQu6gSmvpPwp54vccS5nblZYxe0O NVY5vZQ1GvLb8gJC6lhYOt/mavW/ejkyocacF8ezXa6xQFHxPWDBYZ1l 0RRv4A==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158360 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. JLnqp25i5H14PET+7K4qMXHW/X5eF9VcHbe2SrYUdxbPOG9fw4FrI4NH 1eCllOQdFzqiZJ2QtM6iNG22gYaaWquzT8dVJ+RDP6dQECBzFthjFYPi T31GThM7DRBiiU8aqSJyJ11sxitaQWpKZqAv4LUpLS4oAxYdkTZexYgL gD9KWnc8EyLWeOKa4r5VfFHQPdlPAzR9/yndRzhxA1EKDjYZnBVfpHDp VQ0HdU9GWxBd5XtmUncCgyd4GTSgqjdy9PriulpL+ZJvJZ0smgBKFpDK 9dRLWvusEjl/DynPJ90MFt4RYXpjUbstkUdHbiIB5sEJA6iMgKlHxtQ8 MHQzrQ==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -3321,6 +3321,9 @@ bsg.gl.			3600	IN	NS	ns-1153.awsdns-16.org.
 bsg.gl.			3600	IN	NS	ns-2026.awsdns-61.co.uk.
 bsgl.gl.		3600	IN	NS	nero.ns.cloudflare.com.
 bsgl.gl.		3600	IN	NS	ophelia.ns.cloudflare.com.
+bsme.gl.		3600	IN	NS	ns1.netim.net.
+bsme.gl.		3600	IN	NS	ns2.netim.net.
+bsme.gl.		3600	IN	NS	ns3.netim.net.
 bsp.gl.			3600	IN	NS	ns1.webglobe.cz.
 bsp.gl.			3600	IN	NS	ns2.webglobe.cz.
 bsp.gl.			3600	IN	NS	ns3.webglobe.com.
@@ -12861,10 +12864,10 @@ mrvegas.gl.		3600	IN	NS	ns1.dnshost.net.
 mrvegas.gl.		3600	IN	NS	ns2.dnshost.net.
 ms.gl.			3600	IN	NS	ns1.siteground.net.
 ms.gl.			3600	IN	NS	ns2.siteground.net.
-msd.gl.			3600	IN	NS	ns6.customer.level3.net.
-msd.gl.			3600	IN	NS	ns9.customer.level3.net.
-msd.gl.			3600	IN	NS	cbru.br.ns.els-gms.att.net.
-msd.gl.			3600	IN	NS	cmtu.mt.ns.els-gms.att.net.
+msd.gl.			3600	IN	NS	dns1.p03.nsone.net.
+msd.gl.			3600	IN	NS	dns2.p03.nsone.net.
+msd.gl.			3600	IN	NS	dns3.p03.nsone.net.
+msd.gl.			3600	IN	NS	dns4.p03.nsone.net.
 msgreymatters.gl.	3600	IN	NS	ns1.bms.com.
 msgreymatters.gl.	3600	IN	NS	ns2.bms.com.
 msgreymatters.gl.	3600	IN	NS	ns3.bms.com.
@@ -23105,4 +23108,4 @@ VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN NSEC3 1 1 0 07015CFB VSRDHHU2SC8F0D
 VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. j1Od8QqavMQKol0xVJjQoLX6rRjyJtPj3AZ8vjig+xNTxJPJsQjjs96+ 65wLKTtfFMTr7J/MKA4McfVKRQnqBh1KpthKA7GzYxoCMEs0xZGKjIxY sDhAf4SD6/fDih8+q2cMWvvPQUeEkvZ1eVTKhYm7IxI5HggTQ77i62zi UOTpb4MB1AZgYG3WIt6vvQl8RxdrXY3pA20EWLrAMilnKhzNsCdV3CXU 8+wc7c0Q2aaDr4TEO292blUI8BDPuHnt/iFbw7icA0hJy2qVki6rQUJR BoifYEFgBb0HZZ4+tKNiMz5g2jlMatebtp7A2jTtndYjqgjFHVDy30pA HA9i0Q==
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN NSEC3 1 1 0 07015CFB 00HNG94DA18JDLB8TJGHQB402HJ845A2 NS DS RRSIG
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. XosdvqgfZf1MJxDUbNeXWH0h50a8GjrAG3xOk+EgXzGmgiND37bpmCg2 h91UmZGxKMhmwE7MFddAAGE6bJU6U91G3msX9wpvfpMMoziXAQ8wY8AP Wt2lHSYjWXXJ25ZQvHVLQX8myAl9PM0jq2clbKAdwP7TrTtsUnr0qjNh sYv47CN+2d6fecnx8xLES+MFsx/LuPoCm9jYWGlQ+hmHQd8bgQUYfqkx ZNH/aICCIskqTOC829h27ERMrAjoWIe9Q1IjMEH28nElI4WLOa5kDD/x rRUENMauRiycGX65X9Hk3Gh5tzh7dyPzMEIkaHnnvpyMr915FX8624n/ Jw/ntg==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158354 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158360 900 1800 6048000 3600
