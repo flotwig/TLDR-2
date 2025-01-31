@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158364 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. dpOIwQ0tefrMBB+bBnwKfFYekBfcuujdZjoNyIu3Q9QVUpDqOo5aTmk4 OhtBr+ZfuwLgXEAnxSydVdhOjp07D+1LUGtzw7AfTDCtKZI22wlcJ8q/ FK7PupVxeii2VX31ukSkuzEnUPSa7+Yx5HH33bKkZzp9FC9QJcPHCNBu /BEiNNRCQwbzl3VHmmB6pxv9mqPhAFlS7+bdqGaxs4trNwOATC+GHVSe Xi4fKZ5AStE/X3Ym8Fq9UnJY5eiyYhmJc2j1E+Q+O9R8Ql+OBNsk8giD 0Ph37a7uOjDj/RD4GYXsVCV7Kkq5VeYNez63oIUNzpOzWPGLtgwY5KGm jRIhkQ==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158372 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. FXNZiO48fEfcZkmTWQHIoSpPCn9XJdgDxehVpwbAQfFj48j2ImY60f3y 5deduYwSE9NUor3noEDFO47JKcG7jxT3uaSS5FFClQsMG0y6gFW3cf7S bcB5eRkQMzcDcLHyn0Yn2UQBedyUOZVRRTfRbQ0BQNvLfTr/teYYBL11 YPfWnriMcOI+kTNdKAJ1jwUR80JnktRwzmtqx+16HKpViL8QzjH/PakO mcqSZ7jCVy+m5liOiUhXphCb72PJQOr591duBm221Zh1g8x+GcJBxZAu SNvz/0F1LOuih6FYt6PH6u0Z/Dp3oeSLh+nc5pyJjxruvsWXkjw8gfk3 WUrw4w==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -1199,6 +1199,8 @@ andotherstories.gl.	3600	IN	NS	a1-139.akam.net.
 andotherstories.gl.	3600	IN	NS	a11-66.akam.net.
 andotherstories.gl.	3600	IN	NS	a12-67.akam.net.
 andotherstories.gl.	3600	IN	NS	a28-64.akam.net.
+andre.gl.		3600	IN	NS	ns3.servetheworld.net.
+andre.gl.		3600	IN	NS	ns4.servetheworld.net.
 andreassen.gl.		3600	IN	NS	ns1.unoeuro.com.
 andreassen.gl.		3600	IN	NS	ns2.unoeuro.com.
 andreassen.gl.		3600	IN	NS	ns3.unoeuro.com.
@@ -14829,6 +14831,9 @@ omgomgmarket.gl.	3600	IN	NS	becky.ns.cloudflare.com.
 omgomgmarket.gl.	3600	IN	NS	rajeev.ns.cloudflare.com.
 omgomgomg.gl.		3600	IN	NS	mia.ns.cloudflare.com.
 omgomgomg.gl.		3600	IN	NS	noah.ns.cloudflare.com.
+omgomgshop.gl.		3600	IN	NS	ns1.regery.net.
+omgomgshop.gl.		3600	IN	NS	ns2.regery.net.
+omgomgshop.gl.		3600	IN	NS	ns3.regery.net.
 omgomgshop1.gl.		3600	IN	NS	mia.ns.cloudflare.com.
 omgomgshop1.gl.		3600	IN	NS	noah.ns.cloudflare.com.
 omgomgshop2.gl.		3600	IN	NS	sri.ns.cloudflare.com.
@@ -17982,6 +17987,8 @@ siutsiu.gl.		3600	IN	NS	ns3.simply.com.
 siutsiu.gl.		3600	IN	DS	34235 13 2 989A7864C680223108DC55E35746AA51B48CF580B1A3CBF114CCCBD6 3EB37266
 siutsiu.gl.		3600	IN	DS	34235 13 4 82582C9E56B57ED6C91868A7629427CEE534A2BA2133FB50EE353222 D3464C9F8380B56ACD94722C5B1DD38C1F2FE185
 siutsiu.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. YBTK/RZfn71oCgjgCq3L04pXhTkvQUo59jmo2ksLnYw1qxNcYIWW8+fI ljFFuQ9Cp3K33lLWWvnwdsaWSyk3m394rUTV3G8KujE2/UWjUWL0Dfhr SYgU2YBWmjs/z/EXh7V/MDZzH8J5c3E/3GvVnhNoV+I1ZBiCBImDML0K LKy3vx4Ms6SBmDo2Gxb/G7QzMM3gU5r1rW91/tB3yVL8ovcAEYAGMdXD Pw2ZdVz7nQJQuPYHKU4p1FSC5LHK6CgexpdfBRYvg708ec4P83mhtE6B VArvlQT2paPyJ3BSu6rw3L9XNaFrWKI7qCtG12mWtevym/FSbuS1b2r/ w0snHQ==
+size.gl.		3600	IN	NS	ns1.vercel-dns.com.
+size.gl.		3600	IN	NS	ns2.vercel-dns.com.
 sjconsult.gl.		3600	IN	NS	ns1.netgiganten.dk.
 sjconsult.gl.		3600	IN	NS	ns2.netgiganten.dk.
 sjconsult.gl.		3600	IN	DS	24239 8 1 9D18B8F8AEEAE2A303DD8A66979DF1B1A719C1A2
@@ -23108,4 +23115,4 @@ VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN NSEC3 1 1 0 07015CFB VSRDHHU2SC8F0D
 VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. j1Od8QqavMQKol0xVJjQoLX6rRjyJtPj3AZ8vjig+xNTxJPJsQjjs96+ 65wLKTtfFMTr7J/MKA4McfVKRQnqBh1KpthKA7GzYxoCMEs0xZGKjIxY sDhAf4SD6/fDih8+q2cMWvvPQUeEkvZ1eVTKhYm7IxI5HggTQ77i62zi UOTpb4MB1AZgYG3WIt6vvQl8RxdrXY3pA20EWLrAMilnKhzNsCdV3CXU 8+wc7c0Q2aaDr4TEO292blUI8BDPuHnt/iFbw7icA0hJy2qVki6rQUJR BoifYEFgBb0HZZ4+tKNiMz5g2jlMatebtp7A2jTtndYjqgjFHVDy30pA HA9i0Q==
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN NSEC3 1 1 0 07015CFB 00HNG94DA18JDLB8TJGHQB402HJ845A2 NS DS RRSIG
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. XosdvqgfZf1MJxDUbNeXWH0h50a8GjrAG3xOk+EgXzGmgiND37bpmCg2 h91UmZGxKMhmwE7MFddAAGE6bJU6U91G3msX9wpvfpMMoziXAQ8wY8AP Wt2lHSYjWXXJ25ZQvHVLQX8myAl9PM0jq2clbKAdwP7TrTtsUnr0qjNh sYv47CN+2d6fecnx8xLES+MFsx/LuPoCm9jYWGlQ+hmHQd8bgQUYfqkx ZNH/aICCIskqTOC829h27ERMrAjoWIe9Q1IjMEH28nElI4WLOa5kDD/x rRUENMauRiycGX65X9Hk3Gh5tzh7dyPzMEIkaHnnvpyMr915FX8624n/ Jw/ntg==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158364 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158372 900 1800 6048000 3600
