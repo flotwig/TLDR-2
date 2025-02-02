@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158436 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. k46Th3A/tFfpM7tOEgw36oslDZyIqj/kQ0diekeXUBmxuivwldxLcr+x nCiZ1y5rs8B7yOfMzzr/le36/mdZka5gTpN1oOvrrRXENDAyYMEeZgew lk2ZVNMqYr7ZvmPaQJOflvL7TeYMTK7DGzPhcehhsSMbCQJTghwumRGv 6k06+p6IdHiLLPwdRrYQq3LchTNF0jvW9xPDnDVdY2jIwSs0xPYs6v/M fqb5c62qCkY1bGoXXj9bBj0ryLZfRg3qXlFJve9DMQ9+bmfV+iJcl1J6 0dM4eQWJJ+CSI26UOxRQMabiQrlsUZGy4t2EKTIe7Ndsy0IDcFQpIdVa cXDHpQ==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158440 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. Ss1Oic30KzJ+6NaF3UsCbD6VS66nihbxAQkUYr+HasyX/ZdCYtgOA/4c qzWHuofwopyMft0C2G8Iox1e+c0cTga6eWwf37xS7G7IUl0OTDaa4P1A M0Ycr2UPtT57WhNYwwv40sT3aJHXZ2ZGWqjlY53bLyPcCYA+B/OKy8FR Eyrq8/OwSESdG1wQL+UfevCFll/swNJcsI/GA+q01samOANJNhz0whzS JUFxg3Gq8HEg/pqv0gXyhbqx71HTULgEOGPokHN2OkRvQvgma6oJhSU1 cxv00Ib1xLGTvSrPpsYDNLuzxc3e1aiwgzB/lWuwSzRTDZ02GH+5xV8z xH2hug==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -402,8 +402,6 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250306050000 20241216050000 57390 gl. gMy8Wv
 7krn.gl.		3600	IN	NS	itzel.ns.cloudflare.com.
 8.gl.			3600	IN	NS	ns1.sedoparking.com.
 8.gl.			3600	IN	NS	ns2.sedoparking.com.
-86.gl.			3600	IN	NS	f1g1ns1.dnspod.net.
-86.gl.			3600	IN	NS	f1g1ns2.dnspod.net.
 86490.gl.		3600	IN	NS	a.dnspod.com.
 86490.gl.		3600	IN	NS	b.dnspod.com.
 86490.gl.		3600	IN	NS	c.dnspod.com.
@@ -2231,8 +2229,6 @@ ba.gl.			3600	IN	NS	ns3.hyp.net.
 ba.gl.			3600	IN	DS	34777 13 2 7AE1E35E400180ECF6670F2A01C252E37BFB2408793FA9E436ACDF2A 93BD6D47
 ba.gl.			3600	IN	DS	34777 13 4 8DB390F72D99D94D7B0F83769145046DD666994B10FA67639F30B0BD 9DF0D599768D644CABB08A98A727D985B9151F51
 ba.gl.			3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. BYpgvo/iCTNwvB330UoBkO6CZO8Ng/i3OJOBii9X0x2g6uWsUZdRthXI +KpC+Sl57g6xvMNaSoAE9gxOsjod2WZIf5n4flRvzkxErd3yYqWxoW0S odXcyO0VyLK7iARrn2jtUr28/2TAm2tSDGI5akp0UvIkwQ5w7P25rZx0 P+CGt3FZygBuYahkkLJ4J28yrAN3kofp/+lZuy/TsRpBF1iiuM1ar3Vo ppXUBY5rwNQbjCE8ti76TnIhL5iC0cnMqStSz2Rji35OgjG/rJgLStyD qyLdVrZzjNi2WeTe48J/IK5NCBr5GRRRNuQAYTlJdN+kzdbThMdtd0uw a33OXQ==
-ba2shop.gl.		3600	IN	NS	ns1.expired.reg.ru.
-ba2shop.gl.		3600	IN	NS	ns2.expired.reg.ru.
 baadcenter.gl.		3600	IN	NS	a.hosting.gl.
 baadcenter.gl.		3600	IN	NS	b.hosting.gl.
 baadcenter.gl.		3600	IN	NS	c.hosting.gl.
@@ -2433,8 +2429,6 @@ bc.gl.			3600	IN	NS	ns.bccard.co.kr.
 bc.gl.			3600	IN	NS	ns2.bccard.co.kr.
 bc2best.gl.		3600	IN	NS	fred.ns.cloudflare.com.
 bc2best.gl.		3600	IN	NS	cecelia.ns.cloudflare.com.
-bc2shop.gl.		3600	IN	NS	ns1.expired.reg.ru.
-bc2shop.gl.		3600	IN	NS	ns2.expired.reg.ru.
 bc2site.gl.		3600	IN	NS	fred.ns.cloudflare.com.
 bc2site.gl.		3600	IN	NS	cecelia.ns.cloudflare.com.
 bcclub.gl.		3600	IN	NS	ns1200.ispapi.net.
@@ -2460,8 +2454,6 @@ bcluub.gl.		3600	IN	NS	eleanor.ns.cloudflare.com.
 bd.gl.			3600	IN	NS	ns1210.ispapi.net.
 bd.gl.			3600	IN	NS	ns2180.ispapi.net.
 bd.gl.			3600	IN	NS	ns3194.ispapi.net.
-bd2shop.gl.		3600	IN	NS	ns1.expired.reg.ru.
-bd2shop.gl.		3600	IN	NS	ns2.expired.reg.ru.
 bdalton.gl.		3600	IN	NS	ns2.barnesandnoble.com.
 bdalton.gl.		3600	IN	NS	ns3.barnesandnoble.com.
 bdalton.gl.		3600	IN	NS	ns4.barnesandnoble.com.
@@ -3240,12 +3232,8 @@ bs02.gl.		3600	IN	NS	bjorn.ns.cloudflare.com.
 bs02.gl.		3600	IN	NS	ligia.ns.cloudflare.com.
 bs02shop.gl.		3600	IN	NS	fred.ns.cloudflare.com.
 bs02shop.gl.		3600	IN	NS	cecelia.ns.cloudflare.com.
-bs1shop.gl.		3600	IN	NS	ns1.expired.reg.ru.
-bs1shop.gl.		3600	IN	NS	ns2.expired.reg.ru.
 bs2.gl.			3600	IN	NS	hal.ns.cloudflare.com.
 bs2.gl.			3600	IN	NS	perla.ns.cloudflare.com.
-bs2ahop.gl.		3600	IN	NS	ns1.expired.reg.ru.
-bs2ahop.gl.		3600	IN	NS	ns2.expired.reg.ru.
 bs2beast.gl.		3600	IN	NS	fred.ns.cloudflare.com.
 bs2beast.gl.		3600	IN	NS	cecelia.ns.cloudflare.com.
 bs2best.gl.		3600	IN	NS	3-pas.njalla.in.
@@ -3255,10 +3243,6 @@ bs2best2.gl.		3600	IN	NS	tia.ns.cloudflare.com.
 bs2best2.gl.		3600	IN	NS	joel.ns.cloudflare.com.
 bs2best5.gl.		3600	IN	NS	tia.ns.cloudflare.com.
 bs2best5.gl.		3600	IN	NS	joel.ns.cloudflare.com.
-bs2dhop.gl.		3600	IN	NS	ns1.expired.reg.ru.
-bs2dhop.gl.		3600	IN	NS	ns2.expired.reg.ru.
-bs2hop.gl.		3600	IN	NS	ns1.expired.reg.ru.
-bs2hop.gl.		3600	IN	NS	ns2.expired.reg.ru.
 bs2me.gl.		3600	IN	NS	ns0.1984.is.
 bs2me.gl.		3600	IN	NS	ns1.1984.is.
 bs2me.gl.		3600	IN	NS	ns1.1984hosting.com.
@@ -3270,18 +3254,6 @@ bs2saite.gl.		3600	IN	NS	fred.ns.cloudflare.com.
 bs2saite.gl.		3600	IN	NS	cecelia.ns.cloudflare.com.
 bs2sate.gl.		3600	IN	NS	fred.ns.cloudflare.com.
 bs2sate.gl.		3600	IN	NS	cecelia.ns.cloudflare.com.
-bs2sgop.gl.		3600	IN	NS	ns1.expired.reg.ru.
-bs2sgop.gl.		3600	IN	NS	ns2.expired.reg.ru.
-bs2ship.gl.		3600	IN	NS	ns1.expired.reg.ru.
-bs2ship.gl.		3600	IN	NS	ns2.expired.reg.ru.
-bs2sho.gl.		3600	IN	NS	ns1.expired.reg.ru.
-bs2sho.gl.		3600	IN	NS	ns2.expired.reg.ru.
-bs2shoo.gl.		3600	IN	NS	ns1.expired.reg.ru.
-bs2shoo.gl.		3600	IN	NS	ns2.expired.reg.ru.
-bs2shp.gl.		3600	IN	NS	ns1.expired.reg.ru.
-bs2shp.gl.		3600	IN	NS	ns2.expired.reg.ru.
-bs2shpp.gl.		3600	IN	NS	ns1.expired.reg.ru.
-bs2shpp.gl.		3600	IN	NS	ns2.expired.reg.ru.
 bs2site.gl.		3600	IN	NS	bjorn.ns.cloudflare.com.
 bs2site.gl.		3600	IN	NS	rihana.ns.cloudflare.com.
 bs2site2.gl.		3600	IN	NS	tia.ns.cloudflare.com.
@@ -3292,10 +3264,6 @@ bs2site4.gl.		3600	IN	NS	tia.ns.cloudflare.com.
 bs2site4.gl.		3600	IN	NS	joel.ns.cloudflare.com.
 bs2site5.gl.		3600	IN	NS	tia.ns.cloudflare.com.
 bs2site5.gl.		3600	IN	NS	joel.ns.cloudflare.com.
-bs2sjop.gl.		3600	IN	NS	ns1.expired.reg.ru.
-bs2sjop.gl.		3600	IN	NS	ns2.expired.reg.ru.
-bs2sop.gl.		3600	IN	NS	ns1.expired.reg.ru.
-bs2sop.gl.		3600	IN	NS	ns2.expired.reg.ru.
 bs2tsite1.gl.		3600	IN	NS	fred.ns.cloudflare.com.
 bs2tsite1.gl.		3600	IN	NS	cecelia.ns.cloudflare.com.
 bs2tsite5.gl.		3600	IN	NS	tia.ns.cloudflare.com.
@@ -3310,8 +3278,6 @@ bs2webes5.gl.		3600	IN	NS	tia.ns.cloudflare.com.
 bs2webes5.gl.		3600	IN	NS	joel.ns.cloudflare.com.
 bs3.gl.			3600	IN	NS	bjorn.ns.cloudflare.com.
 bs3.gl.			3600	IN	NS	ligia.ns.cloudflare.com.
-bs3shop.gl.		3600	IN	NS	ns1.expired.reg.ru.
-bs3shop.gl.		3600	IN	NS	ns2.expired.reg.ru.
 bsb.gl.			3600	IN	NS	ns.dandomain.dk.
 bsb.gl.			3600	IN	NS	ns2.dandomain.dk.
 bsg.gl.			3600	IN	NS	ns-429.awsdns-53.com.
@@ -3328,8 +3294,6 @@ bsme.gl.		3600	IN	NS	ns2.1984hosting.com.
 bsp.gl.			3600	IN	NS	ns1.webglobe.cz.
 bsp.gl.			3600	IN	NS	ns2.webglobe.cz.
 bsp.gl.			3600	IN	NS	ns3.webglobe.com.
-bsshop.gl.		3600	IN	NS	ns1.expired.reg.ru.
-bsshop.gl.		3600	IN	NS	ns2.expired.reg.ru.
 bst.gl.			3600	IN	NS	brit.ns.cloudflare.com.
 bst.gl.			3600	IN	NS	dion.ns.cloudflare.com.
 bt.gl.			3600	IN	NS	ns1.huaweicloud-dns.cn.
@@ -14150,8 +14114,6 @@ nplaser.gl.		3600	IN	DS	28945 13 4 553B8D1FC0044C21DD0F036E06CD52335ECC6C8E7981A
 nplaser.gl.		3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. aQEguGBLz3bgAmor2uG5X0eIIc6QBxufHJJmtADoTYWVmZYC2X7frJgQ 18DeNuWjVOtCoLtguFHpZ3dnCia/cq1df4/Osm/1gad+8TJu/FztcTHx bba4ST7CiGYcVTZ6dgCsMl5v3kXQ9nlqvdKcn4jNG5k/DSFRCV23OfPJ QwMCJU1Q9lxVixzhbWJFfLZnuQs21cDhRwYhHhodjVU/dyNgbPh43NoC skET4mzoxQBJ5vP9mJpH8FlPDaOwX97bb80jh3qNluXv3ooIXz+JQhAE 28VMWK1KQUOtydcxYcahvC8UYXzzt0vjftHnHS68WK2XSb3McUY2NLxb 3AKb3w==
 ns.gl.			3600	IN	NS	ns3.epik.com.
 ns.gl.			3600	IN	NS	ns4.epik.com.
-ns2shop.gl.		3600	IN	NS	ns1.expired.reg.ru.
-ns2shop.gl.		3600	IN	NS	ns2.expired.reg.ru.
 ns84.gl.		3600	IN	NS	ns1.gigahost.dk.
 ns84.gl.		3600	IN	NS	ns2.gigahost.dk.
 ns84.gl.		3600	IN	NS	ns3.gigahost.dk.
@@ -17128,8 +17090,6 @@ s2.gl.			3600	IN	NS	ns2.s2factory.co.jp.
 s2.gl.			3600	IN	NS	ns3.s2factory.co.jp.
 s2.gl.			3600	IN	DS	1082 13 2 2C7B7EDAD172B2024B73BC7349611D92A95D45B898FB441F73648DD4 3C3FD71E
 s2.gl.			3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. dRb5ksP1eWwe3A3wGlYuPtJBK5WRkb1Sipqj5m4ITbe1i3VVk0aGOqI1 Uoi/eqADpL+rqgdOt7vZ/rUnAjm4FD6vx+YXgNDSvwfC0SaIgGY4GZi0 BSTq0v/Zl/GfzUMep8ZHOnb4f9qoi8DNpznY7pwmjzmUvAfirqMSLE0h j9myCFnIhXWiWWZPS+BVUFumBXLqa+0/L66rHTASC+VxgI4eAA6hu7TG YdosMTVuQUsp/raULHy7LLtYiMX+MEE1TZ/hUAe11otkL+gXs9XqcabT DsXg3lvXg3Q/LLpnaK68v0vz1Ff4x6ui6S0LcAg/HS3x+/05tSojOpLP YGXecA==
-s2shop.gl.		3600	IN	NS	ns1.expired.reg.ru.
-s2shop.gl.		3600	IN	NS	ns2.expired.reg.ru.
 s5.gl.			3600	IN	NS	ns1.simply.com.
 s5.gl.			3600	IN	NS	ns2.simply.com.
 s5.gl.			3600	IN	NS	ns3.simply.com.
@@ -20885,8 +20845,6 @@ vs.gl.			3600	IN	NS	ns3.hyp.net.
 vs.gl.			3600	IN	DS	48916 15 2 FE9B44B44470B285867F616C78DC55B020AE9DA5FCF5C746334A0D89 0C6ACC60
 vs.gl.			3600	IN	DS	48916 15 4 121C4779B70C66351151C1B83C067FE60A2E8C1E47A960A8939E6C8D C25A178480DB509D154E4B5D69B567207BE360E8
 vs.gl.			3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. ZFf19h5mUi27LGMdHD2OvUl9oaxbktUTXT+n27eQpqeY0foyt/xQIDrG m2a85ju7mY69NMg8OKde+62EoIZ/vyEJigmsoRD/cnCCd8aO8KMwgpnZ ZpDJSdqIVwiRQF2BIZ5vqsIGolUvEimi+7lbcIOo8CrX1/Eo1awTVW2H HVb7pBXTQ913ft4ckWIPQCMXwOiD4QauxmKcq0NuK79QhP0VCHDe1W/1 +M+yh39rujDXfYJclQrzqCqoKbpSPtVyRl3qFiHFD0j46CcfzA+w4c9T KqJneRhwaPSFDa8M4EYpzPQX9cWzlSfqNw6vQog2koAGeSpdYPn37xQk oKpDmA==
-vs2shop.gl.		3600	IN	NS	ns1.expired.reg.ru.
-vs2shop.gl.		3600	IN	NS	ns2.expired.reg.ru.
 vsat.gl.		3600	IN	NS	a.hosting.gl.
 vsat.gl.		3600	IN	NS	b.hosting.gl.
 vsat.gl.		3600	IN	NS	c.hosting.gl.
@@ -23128,4 +23086,4 @@ VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN NSEC3 1 1 0 07015CFB VSRDHHU2SC8F0D
 VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. j1Od8QqavMQKol0xVJjQoLX6rRjyJtPj3AZ8vjig+xNTxJPJsQjjs96+ 65wLKTtfFMTr7J/MKA4McfVKRQnqBh1KpthKA7GzYxoCMEs0xZGKjIxY sDhAf4SD6/fDih8+q2cMWvvPQUeEkvZ1eVTKhYm7IxI5HggTQ77i62zi UOTpb4MB1AZgYG3WIt6vvQl8RxdrXY3pA20EWLrAMilnKhzNsCdV3CXU 8+wc7c0Q2aaDr4TEO292blUI8BDPuHnt/iFbw7icA0hJy2qVki6rQUJR BoifYEFgBb0HZZ4+tKNiMz5g2jlMatebtp7A2jTtndYjqgjFHVDy30pA HA9i0Q==
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN NSEC3 1 1 0 07015CFB 00HNG94DA18JDLB8TJGHQB402HJ845A2 NS DS RRSIG
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. XosdvqgfZf1MJxDUbNeXWH0h50a8GjrAG3xOk+EgXzGmgiND37bpmCg2 h91UmZGxKMhmwE7MFddAAGE6bJU6U91G3msX9wpvfpMMoziXAQ8wY8AP Wt2lHSYjWXXJ25ZQvHVLQX8myAl9PM0jq2clbKAdwP7TrTtsUnr0qjNh sYv47CN+2d6fecnx8xLES+MFsx/LuPoCm9jYWGlQ+hmHQd8bgQUYfqkx ZNH/aICCIskqTOC829h27ERMrAjoWIe9Q1IjMEH28nElI4WLOa5kDD/x rRUENMauRiycGX65X9Hk3Gh5tzh7dyPzMEIkaHnnvpyMr915FX8624n/ Jw/ntg==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158436 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158440 900 1800 6048000 3600
