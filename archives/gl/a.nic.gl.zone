@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158488 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. SkUatUJgdAfUpFpAHz5rkeSQjFtbM2bPaxdalaWZ1EF4ux//pBlV7YaD ARc+hwT7d5o22K0P+uaZSWyXNZu8OvdJ8k4VyOE1B4fHA2GLbtd3TXhL ZmyZdCIZvXpVUJqqTr4/E9FuH+cgc/jkAI5uR0fBITcndtN2xeZ39BaF S2E5A6W4JQsU78Ubh93kHJctJPGwcDwOpfPRFqgHstGwa6YKAI9lgjy3 AItNvTgfEPXixHSHyOMrVra/JzSYq/dbhFpVZiQskc+/Fne4bVLir152 ZBQJgRmf7Jl+WDDjojt++wcP+dvf6cGkpo9a0TmG+/hGEfUrtiEYQMWF pSUizw==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158490 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. P4D9lbnA6D5nXrhO1uU0o3S926kb6QpQ/vd36g7OBwr63UBr6Gi3XB4A 6i6+I0UDpfleY2mBvyCb5rG1/EbQVHj13WS2kFOZDzBUXx86mgL2j4DJ N+BNUbZdD3SncJOyCPHVErJy3glZ74L0OmcqF1/o84LdrKl9HxxVroM2 DCBWK9+4B09sirw8dDvpZMcJdW+1/glLepHkYJPbKPYxeppL7F21sC64 /60xyYZ1S8/g+Ywdmtd65w8mpSJsvOmfL6wFZx4UQWc9cmy41Aq2sPHz EKUkLHvLrCpzgk8q/69mB66273cRvxh6ARn1TKef7Q3F5QMWwMZ/rCrs LfjV1Q==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -2203,16 +2203,8 @@ b.gl.			3600	IN	NS	ns-ed1.goneo.de.
 b.gl.			3600	IN	NS	ns-ed2.goneo.de.
 b2b.gl.			3600	IN	NS	otto.ns.cloudflare.com.
 b2b.gl.			3600	IN	NS	mariah.ns.cloudflare.com.
-b2best.gl.		3600	IN	NS	tia.ns.cloudflare.com.
-b2best.gl.		3600	IN	NS	joel.ns.cloudflare.com.
-b2site.gl.		3600	IN	NS	tia.ns.cloudflare.com.
-b2site.gl.		3600	IN	NS	joel.ns.cloudflare.com.
 b2site2.gl.		3600	IN	NS	fred.ns.cloudflare.com.
 b2site2.gl.		3600	IN	NS	cecelia.ns.cloudflare.com.
-b2tsite.gl.		3600	IN	NS	tia.ns.cloudflare.com.
-b2tsite.gl.		3600	IN	NS	joel.ns.cloudflare.com.
-b2webes.gl.		3600	IN	NS	tia.ns.cloudflare.com.
-b2webes.gl.		3600	IN	NS	joel.ns.cloudflare.com.
 b4.gl.			3600	IN	NS	ns-14-c.gandi.net.
 b4.gl.			3600	IN	NS	ns-41-a.gandi.net.
 b4.gl.			3600	IN	NS	ns-69-b.gandi.net.
@@ -3239,10 +3231,6 @@ bs2beast.gl.		3600	IN	NS	cecelia.ns.cloudflare.com.
 bs2best.gl.		3600	IN	NS	3-pas.njalla.in.
 bs2best.gl.		3600	IN	NS	1-ceci.njalla.do.
 bs2best.gl.		3600	IN	NS	2-nest.pipe.ma.
-bs2best2.gl.		3600	IN	NS	tia.ns.cloudflare.com.
-bs2best2.gl.		3600	IN	NS	joel.ns.cloudflare.com.
-bs2best5.gl.		3600	IN	NS	tia.ns.cloudflare.com.
-bs2best5.gl.		3600	IN	NS	joel.ns.cloudflare.com.
 bs2me.gl.		3600	IN	NS	ns0.1984.is.
 bs2me.gl.		3600	IN	NS	ns1.1984.is.
 bs2me.gl.		3600	IN	NS	ns1.1984hosting.com.
@@ -3256,26 +3244,8 @@ bs2sate.gl.		3600	IN	NS	fred.ns.cloudflare.com.
 bs2sate.gl.		3600	IN	NS	cecelia.ns.cloudflare.com.
 bs2site.gl.		3600	IN	NS	bjorn.ns.cloudflare.com.
 bs2site.gl.		3600	IN	NS	rihana.ns.cloudflare.com.
-bs2site2.gl.		3600	IN	NS	tia.ns.cloudflare.com.
-bs2site2.gl.		3600	IN	NS	joel.ns.cloudflare.com.
-bs2site3.gl.		3600	IN	NS	tia.ns.cloudflare.com.
-bs2site3.gl.		3600	IN	NS	joel.ns.cloudflare.com.
-bs2site4.gl.		3600	IN	NS	tia.ns.cloudflare.com.
-bs2site4.gl.		3600	IN	NS	joel.ns.cloudflare.com.
-bs2site5.gl.		3600	IN	NS	tia.ns.cloudflare.com.
-bs2site5.gl.		3600	IN	NS	joel.ns.cloudflare.com.
 bs2tsite1.gl.		3600	IN	NS	fred.ns.cloudflare.com.
 bs2tsite1.gl.		3600	IN	NS	cecelia.ns.cloudflare.com.
-bs2tsite5.gl.		3600	IN	NS	tia.ns.cloudflare.com.
-bs2tsite5.gl.		3600	IN	NS	joel.ns.cloudflare.com.
-bs2webes2.gl.		3600	IN	NS	tia.ns.cloudflare.com.
-bs2webes2.gl.		3600	IN	NS	joel.ns.cloudflare.com.
-bs2webes3.gl.		3600	IN	NS	tia.ns.cloudflare.com.
-bs2webes3.gl.		3600	IN	NS	joel.ns.cloudflare.com.
-bs2webes4.gl.		3600	IN	NS	tia.ns.cloudflare.com.
-bs2webes4.gl.		3600	IN	NS	joel.ns.cloudflare.com.
-bs2webes5.gl.		3600	IN	NS	tia.ns.cloudflare.com.
-bs2webes5.gl.		3600	IN	NS	joel.ns.cloudflare.com.
 bs3.gl.			3600	IN	NS	bjorn.ns.cloudflare.com.
 bs3.gl.			3600	IN	NS	ligia.ns.cloudflare.com.
 bsb.gl.			3600	IN	NS	ns.dandomain.dk.
@@ -14955,8 +14925,6 @@ onfido.gl.		3600	IN	NS	ns3.iptwins.com.
 onfido.gl.		3600	IN	NS	ns4.iptwins.com.
 ong1.gl.		3600	IN	NS	sonny.ns.cloudflare.com.
 ong1.gl.		3600	IN	NS	aleena.ns.cloudflare.com.
-ongshop.gl.		3600	IN	NS	jakub.ns.cloudflare.com.
-ongshop.gl.		3600	IN	NS	sandy.ns.cloudflare.com.
 ongzzz.gl.		3600	IN	NS	eleanor.ns.cloudflare.com.
 ongzzz.gl.		3600	IN	NS	santino.ns.cloudflare.com.
 onion1.gl.		3600	IN	NS	maleah.ns.cloudflare.com.
@@ -23090,4 +23058,4 @@ VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN NSEC3 1 1 0 07015CFB VSRDHHU2SC8F0D
 VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. j1Od8QqavMQKol0xVJjQoLX6rRjyJtPj3AZ8vjig+xNTxJPJsQjjs96+ 65wLKTtfFMTr7J/MKA4McfVKRQnqBh1KpthKA7GzYxoCMEs0xZGKjIxY sDhAf4SD6/fDih8+q2cMWvvPQUeEkvZ1eVTKhYm7IxI5HggTQ77i62zi UOTpb4MB1AZgYG3WIt6vvQl8RxdrXY3pA20EWLrAMilnKhzNsCdV3CXU 8+wc7c0Q2aaDr4TEO292blUI8BDPuHnt/iFbw7icA0hJy2qVki6rQUJR BoifYEFgBb0HZZ4+tKNiMz5g2jlMatebtp7A2jTtndYjqgjFHVDy30pA HA9i0Q==
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN NSEC3 1 1 0 07015CFB 00HNG94DA18JDLB8TJGHQB402HJ845A2 NS DS RRSIG
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. XosdvqgfZf1MJxDUbNeXWH0h50a8GjrAG3xOk+EgXzGmgiND37bpmCg2 h91UmZGxKMhmwE7MFddAAGE6bJU6U91G3msX9wpvfpMMoziXAQ8wY8AP Wt2lHSYjWXXJ25ZQvHVLQX8myAl9PM0jq2clbKAdwP7TrTtsUnr0qjNh sYv47CN+2d6fecnx8xLES+MFsx/LuPoCm9jYWGlQ+hmHQd8bgQUYfqkx ZNH/aICCIskqTOC829h27ERMrAjoWIe9Q1IjMEH28nElI4WLOa5kDD/x rRUENMauRiycGX65X9Hk3Gh5tzh7dyPzMEIkaHnnvpyMr915FX8624n/ Jw/ntg==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158488 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158490 900 1800 6048000 3600
