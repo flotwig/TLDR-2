@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025020316 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025020415 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -956,8 +956,6 @@ c.gp.			86400	IN	NS	ns1.sedoparking.com.
 c.gp.			86400	IN	NS	ns2.sedoparking.com.
 c2b.gp.			86400	IN	NS	ns105.ovh.net.
 c2b.gp.			86400	IN	NS	dns105.ovh.net.
-c3-0.gp.		86400	IN	NS	ns41.infomaniak.com.
-c3-0.gp.		86400	IN	NS	ns42.infomaniak.com.
 ca.gp.			86400	IN	NS	ns1.website.org.
 ca.gp.			86400	IN	NS	ns2.website.org.
 ca-guadeloupe.gp.	86400	IN	NS	chenar.credit-agricole.fr.
@@ -1865,7 +1863,7 @@ f.gp.			86400	IN	NS	ns1.bodis.com.
 f.gp.			86400	IN	NS	ns2.bodis.com.
 f1.gp.			86400	IN	NS	ns1.afternic.com.
 f1.gp.			86400	IN	NS	ns2.afternic.com.
-f1.gp.			86400	IN	NS	verification-gb4fp43pz7lbtgaacy7wj2.ns101.verify.hn.
+f1.gp.			86400	IN	NS	verification-gb4fp43pz7lbtgaacy7wj2.ns101.verify.
 f1experiences.gp.	86400	IN	NS	kiki.ns.cloudflare.com.
 f1experiences.gp.	86400	IN	NS	achiel.ns.cloudflare.com.
 f1madrid.gp.		86400	IN	NS	hal.ns.cloudflare.com.
@@ -1894,8 +1892,6 @@ fb.gp.			86400	IN	NS	ns1.dan.com.
 fb.gp.			86400	IN	NS	ns2.dan.com.
 fc.gp.			86400	IN	NS	ns1.dan.com.
 fc.gp.			86400	IN	NS	ns2.dan.com.
-fcm.gp.			86400	IN	NS	ns1.hcfnet.net.
-fcm.gp.			86400	IN	NS	ns2.hcfnet.net.
 fdform.gp.		86400	IN	NS	ns103.ovh.net.
 fdform.gp.		86400	IN	NS	dns103.ovh.net.
 fermestjacques.gp.	86400	IN	NS	ns103.ovh.net.
@@ -2327,17 +2323,11 @@ guadeloupe.gp.		86400	IN	NS	dns1.cloudns.net.
 guadeloupe.gp.		86400	IN	NS	dns2.cloudns.net.
 guadeloupe-energie.gp.	86400	IN	NS	ns11.ovh.net.
 guadeloupe-energie.gp.	86400	IN	NS	dns11.ovh.net.
-guadeloupe-hydrogene.gp. 86400	IN	NS	ns1.netim.net.
-guadeloupe-hydrogene.gp. 86400	IN	NS	ns2.netim.net.
-guadeloupe-hydrogene.gp. 86400	IN	NS	ns3.netim.net.
 guadeloupedigital.gp.	86400	IN	NS	ns1.safebrands.fr.
 guadeloupedigital.gp.	86400	IN	NS	ns2.safebrands.eu.
 guadeloupedigital.gp.	86400	IN	NS	ns3.safebrands.com.
 guadeloupedigital.gp.	86400	IN	NS	ns4.safebrands.org.
 guadeloupedigital.gp.	86400	IN	NS	ns5.safebrands.tech.
-guadeloupehydrogene.gp.	86400	IN	NS	ns1.netim.net.
-guadeloupehydrogene.gp.	86400	IN	NS	ns2.netim.net.
-guadeloupehydrogene.gp.	86400	IN	NS	ns3.netim.net.
 guadeloupepourlemploi.gp. 86400	IN	NS	ns-1-a.gandi.net.
 guadeloupepourlemploi.gp. 86400	IN	NS	ns-67-c.gandi.net.
 guadeloupepourlemploi.gp. 86400	IN	NS	ns-151-b.gandi.net.
@@ -2489,15 +2479,6 @@ hydro.gp.		86400	IN	NS	ns1.ascio.com.
 hydro.gp.		86400	IN	NS	ns2.ascio.com.
 hydro.gp.		86400	IN	NS	ns3.ascio.com.
 hydro.gp.		86400	IN	NS	ns4.ascio.com.
-hydrogene.gp.		86400	IN	NS	ns1.netim.net.
-hydrogene.gp.		86400	IN	NS	ns2.netim.net.
-hydrogene.gp.		86400	IN	NS	ns3.netim.net.
-hydrogenedeguadeloupe.gp. 86400	IN	NS	ns1.netim.net.
-hydrogenedeguadeloupe.gp. 86400	IN	NS	ns2.netim.net.
-hydrogenedeguadeloupe.gp. 86400	IN	NS	ns3.netim.net.
-hydrogeneguadeloupe.gp.	86400	IN	NS	ns1.netim.net.
-hydrogeneguadeloupe.gp.	86400	IN	NS	ns2.netim.net.
-hydrogeneguadeloupe.gp.	86400	IN	NS	ns3.netim.net.
 hyperion.gp.		86400	IN	NS	ns45.domaincontrol.com.
 hyperion.gp.		86400	IN	NS	ns46.domaincontrol.com.
 hyperprint.gp.		86400	IN	NS	dns1.cloudns.net.
@@ -3129,14 +3110,10 @@ location.gp.		86400	IN	NS	ns1.txpro12.fcomet.com.
 location.gp.		86400	IN	NS	ns2.txpro12.fcomet.com.
 location-guadeloupe.gp.	86400	IN	NS	ns1.o2switch.net.
 location-guadeloupe.gp.	86400	IN	NS	ns2.o2switch.net.
-location-voiture.gp.	86400	IN	NS	ns1.ikoula.com.
-location-voiture.gp.	86400	IN	NS	ns2.ikoula.com.
 location-voiture-guadeloupe.gp.	86400 IN NS	ns1.o2switch.net.
 location-voiture-guadeloupe.gp.	86400 IN NS	ns2.o2switch.net.
 locationvilla.gp.	86400	IN	NS	pns1.cloudns.net.
 locationvilla.gp.	86400	IN	NS	pns3.cloudns.net.
-locationvoiture.gp.	86400	IN	NS	ns1.ikoula.com.
-locationvoiture.gp.	86400	IN	NS	ns2.ikoula.com.
 lodge.gp.		86400	IN	NS	ns1.cloudns.net.
 lodge.gp.		86400	IN	NS	pns1.cloudns.net.
 lodge.gp.		86400	IN	NS	pns2.cloudns.net.
@@ -3444,7 +3421,7 @@ mi.gp.			86400	IN	NS	ns1.dan.com.
 mi.gp.			86400	IN	NS	ns2.dan.com.
 miami.gp.		86400	IN	NS	ns1.afternic.com.
 miami.gp.		86400	IN	NS	ns2.afternic.com.
-miami.gp.		86400	IN	NS	verification-gb4fp43pz7lbtgaacy7wj2.ns101.verify.hn.
+miami.gp.		86400	IN	NS	verification-gb4fp43pz7lbtgaacy7wj2.ns101.verify.
 miamiautodrome.gp.	86400	IN	NS	kiki.ns.cloudflare.com.
 miamiautodrome.gp.	86400	IN	NS	achiel.ns.cloudflare.com.
 mib.gp.			86400	IN	NS	ns1.ikoula.fr.
@@ -3793,8 +3770,6 @@ norwegianair.gp.	86400	IN	NS	ns4.netim.net.
 norwegianair.gp.	86400	IN	NS	ns5.netim.net.
 nou.gp.			86400	IN	NS	dns1.cloudns.net.
 nou.gp.			86400	IN	NS	dns2.cloudns.net.
-nouseang.gp.		86400	IN	NS	dns1.cloudns.net.
-nouseang.gp.		86400	IN	NS	dns2.cloudns.net.
 nove.gp.		86400	IN	NS	ns14.ovh.net.
 nove.gp.		86400	IN	NS	dns14.ovh.net.
 ns.gp.			86400	IN	NS	ns1.geek.gp.
@@ -4076,9 +4051,6 @@ piecesenstock.gp.	86400	IN	NS	ns2.register.be.
 pinterest.gp.		86400	IN	NS	ns1.markmonitor.com.
 pinterest.gp.		86400	IN	NS	ns3.markmonitor.com.
 pioche.gp.		86400	IN	NS	ns34054.ovh.net.
-piscine.gp.		86400	IN	NS	ns1.netim.net.
-piscine.gp.		86400	IN	NS	ns2.netim.net.
-piscine.gp.		86400	IN	NS	ns3.netim.net.
 pizza.gp.		86400	IN	NS	dns1.cloudns.net.
 pizza.gp.		86400	IN	NS	dns2.cloudns.net.
 pk.gp.			86400	IN	NS	ns1.website.org.
@@ -4208,8 +4180,6 @@ prontopizza.gp.		86400	IN	NS	ns14.ovh.net.
 prontopizza.gp.		86400	IN	NS	dns14.ovh.net.
 prosport.gp.		86400	IN	NS	ns1.101domain.com.
 prosport.gp.		86400	IN	NS	ns2.101domain.com.
-prost.gp.		86400	IN	NS	ns113.ovh.net.
-prost.gp.		86400	IN	NS	dns113.ovh.net.
 prostiles.gp.		86400	IN	NS	ns104.ovh.net.
 prostiles.gp.		86400	IN	NS	dns104.ovh.net.
 protel.gp.		86400	IN	NS	ns113.ovh.net.
@@ -5556,8 +5526,6 @@ xn--4gqt92bh4estxsif.gp. 86400	IN	NS	dns2.cloudns.net.
 xn--9ca.gp.		86400	IN	NS	ns2.geek.gp.
 xn--9ca.gp.		86400	IN	NS	sdns2.ovh.net.
 xn--9ca.gp.		86400	IN	NS	ns507061.ip-198-100-148.net.
-xn--nousang-eya.gp.	86400	IN	NS	dns5.cloudns.net.
-xn--nousang-eya.gp.	86400	IN	NS	dns6.cloudns.net.
 xn--w9sv0z.gp.		86400	IN	NS	ns1.bodis.com.
 xn--w9sv0z.gp.		86400	IN	NS	ns2.bodis.com.
 xt.gp.			86400	IN	NS	ns1.sedoparking.com.
@@ -5594,10 +5562,7 @@ yara.gp.		86400	IN	NS	dns1.cscdns.net.
 yara.gp.		86400	IN	NS	dns2.cscdns.net.
 yasmarina.gp.		86400	IN	NS	hal.ns.cloudflare.com.
 yasmarina.gp.		86400	IN	NS	brit.ns.cloudflare.com.
-yellowpages.gp.		86400	IN	NS	ns1.dns24.net.
 yellowpages.gp.		86400	IN	NS	ns2.dns24.net.
-yellowpages.gp.		86400	IN	NS	ns3.dns24.net.
-yellowpages.gp.		86400	IN	NS	ns4.dns24.net.
 yinyang.gp.		86400	IN	NS	ns1.ikoula.fr.
 yinyang.gp.		86400	IN	NS	ns2.ikoula.fr.
 yoga.gp.		86400	IN	NS	ns31.cloudns.net.
@@ -5677,4 +5642,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025020316 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025020415 86400 7200 2592000 345600
