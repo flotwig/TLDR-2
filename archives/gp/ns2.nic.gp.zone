@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025020514 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025020517 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -154,6 +154,8 @@ gp.			86400	IN	NS	ns-gp.nic.fr.
 87.gp.			86400	IN	NS	ns2.dan.com.
 888.gp.			86400	IN	NS	dns1.idp365.net.
 888.gp.			86400	IN	NS	dns2.idp365.net.
+8888.gp.		86400	IN	NS	vip7.alidns.com.
+8888.gp.		86400	IN	NS	vip8.alidns.com.
 88888888.gp.		86400	IN	NS	ns1.sedoparking.com.
 88888888.gp.		86400	IN	NS	ns2.sedoparking.com.
 89.gp.			86400	IN	NS	ns1.dan.com.
@@ -1494,8 +1496,8 @@ dream.gp.		86400	IN	NS	freedns4.registrar-servers.com.
 dream.gp.		86400	IN	NS	freedns5.registrar-servers.com.
 drift.gp.		86400	IN	NS	ns1.2wisestartup.com.
 drift.gp.		86400	IN	NS	ns2.2wisestartup.com.
-driftmasters.gp.	86400	IN	NS	ns1.siteground.net.
-driftmasters.gp.	86400	IN	NS	ns2.siteground.net.
+driftmasters.gp.	86400	IN	NS	achiel.ns.cloudflare.com.
+driftmasters.gp.	86400	IN	NS	monroe.ns.cloudflare.com.
 drone.gp.		86400	IN	NS	ns1.101domain.com.
 drone.gp.		86400	IN	NS	ns2.101domain.com.
 drone.gp.		86400	IN	NS	ns5.101domain.com.
@@ -5628,4 +5630,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025020514 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025020517 86400 7200 2592000 345600
