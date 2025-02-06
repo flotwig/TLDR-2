@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158708 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. hBBbdnSc9rTzywQZ76b77Cll60bWKLM9aMNUBPXoPi4p2TloU8xM8CW6 u+6385pD3hBNSMkH0WAD0ArBkaf4dhU9eCMdO5F+L/kXxNOYMPalUpoY wigv1SsRaSw4TnGr2H/r/oXeRmlP+t+4oSquJbftqqCK2iAN4EoP6+uQ e4t3fBopo/84QLh8UXzuf9mqlZv33wfWyHLGEdxoxGLZ+BnyDC+Pbae+ SRb71RSxgbptVM1r2ytKqUyL4vRZ2lJPoe43RwMEwmRKiDvIUF3lVfuT reLmRa2f3UpTzgBX4IexrpMqyGcbGmRGNBOC5l/5FnQdmehF/1sUkUkQ s42ylA==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158713 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. ZluzJx6BoOSmfn2muzVoMtRPBatxM3w61qNfSOQNUMrqCU3pUDUaPT/5 oUAGFGBElI0hw3BZbJOEdekTXnr3PcQdk3QKyKVBNjOAhlVIWIDpIxjn luHJKgCr1rAcAT/NWk3wqm+ed2vCrvRuVILvSfbDUJzhZKFTy8Kwj3SQ 1K6Q/8QcFC8ZIH0SetSCSpMpe5Su2C3NsC/kZ5zapk1Trl+XwqKosg7r OE1LORKbTY9ZIwVaBhM0hj6EBzpd0LVuyMHtyGSiTJJA4BtfWVnrmGcG 54vTFLuvp3cjuPuP9nGxjXgjQ/ug5+enb5pE6VCbzAarwV1BQHyNoZcl ufcR/w==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -4892,8 +4892,8 @@ dreigestirn2023.gl.	3600	IN	NS	c.hosting.gl.
 dreigestirn2023.gl.	3600	IN	NS	d.hosting.gl.
 drill.gl.		3600	IN	NS	ns1.dan.com.
 drill.gl.		3600	IN	NS	ns2.dan.com.
-drillbabydrill.gl.	3600	IN	NS	ns1.101domain.com.
-drillbabydrill.gl.	3600	IN	NS	ns2.101domain.com.
+drillbabydrill.gl.	3600	IN	NS	lars.ns.cloudflare.com.
+drillbabydrill.gl.	3600	IN	NS	grace.ns.cloudflare.com.
 drive.gl.		3600	IN	NS	ns1.livedns.co.uk.
 drive.gl.		3600	IN	NS	ns2.livedns.co.uk.
 drive.gl.		3600	IN	NS	ns3.livedns.co.uk.
@@ -6532,8 +6532,8 @@ g-l.gl.			3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. ZgYc
 g0.gl.			3600	IN	NS	1-you.njalla.no.
 g0.gl.			3600	IN	NS	2-can.njalla.in.
 g0.gl.			3600	IN	NS	3-get.njalla.fo.
-g1.gl.			3600	IN	NS	ns1.netsto.net.
-g1.gl.			3600	IN	NS	ns2.netsto.net.
+g1.gl.			3600	IN	NS	eve.ns.cloudflare.com.
+g1.gl.			3600	IN	NS	rob.ns.cloudflare.com.
 g2.gl.			3600	IN	NS	ns-61-a.gandi.net.
 g2.gl.			3600	IN	NS	ns-210-c.gandi.net.
 g2.gl.			3600	IN	NS	ns-238-b.gandi.net.
@@ -23083,4 +23083,4 @@ VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN NSEC3 1 1 0 07015CFB VSRDHHU2SC8F0D
 VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. j1Od8QqavMQKol0xVJjQoLX6rRjyJtPj3AZ8vjig+xNTxJPJsQjjs96+ 65wLKTtfFMTr7J/MKA4McfVKRQnqBh1KpthKA7GzYxoCMEs0xZGKjIxY sDhAf4SD6/fDih8+q2cMWvvPQUeEkvZ1eVTKhYm7IxI5HggTQ77i62zi UOTpb4MB1AZgYG3WIt6vvQl8RxdrXY3pA20EWLrAMilnKhzNsCdV3CXU 8+wc7c0Q2aaDr4TEO292blUI8BDPuHnt/iFbw7icA0hJy2qVki6rQUJR BoifYEFgBb0HZZ4+tKNiMz5g2jlMatebtp7A2jTtndYjqgjFHVDy30pA HA9i0Q==
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN NSEC3 1 1 0 07015CFB 00HNG94DA18JDLB8TJGHQB402HJ845A2 NS DS RRSIG
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. XosdvqgfZf1MJxDUbNeXWH0h50a8GjrAG3xOk+EgXzGmgiND37bpmCg2 h91UmZGxKMhmwE7MFddAAGE6bJU6U91G3msX9wpvfpMMoziXAQ8wY8AP Wt2lHSYjWXXJ25ZQvHVLQX8myAl9PM0jq2clbKAdwP7TrTtsUnr0qjNh sYv47CN+2d6fecnx8xLES+MFsx/LuPoCm9jYWGlQ+hmHQd8bgQUYfqkx ZNH/aICCIskqTOC829h27ERMrAjoWIe9Q1IjMEH28nElI4WLOa5kDD/x rRUENMauRiycGX65X9Hk3Gh5tzh7dyPzMEIkaHnnvpyMr915FX8624n/ Jw/ntg==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158708 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158713 900 1800 6048000 3600
