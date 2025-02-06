@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025020609 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1738832420"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025020611 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1738839622"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -20645,10 +20645,6 @@ autozone.cm.		3600	IN	NS	ns3.autozone.com.
 autozone.cm.		3600	IN	NS	ns4.autozone.com.
 auxano.cm.		3600	IN	NS	ns1.camoogroup.com.
 auxano.cm.		3600	IN	NS	ns2.camoogroup.com.
-auxicall.cm.		3600	IN	NS	ns1.axproo.net.
-auxicall.cm.		3600	IN	NS	ns2.axproo.net.
-auxicall.cm.		3600	IN	NS	ssl0.axproo.net.
-auxicall.cm.		3600	IN	NS	ssl1.axproo.net.
 av.cm.			3600	IN	NS	ns1.sedoparking.com.
 av.cm.			3600	IN	NS	ns2.sedoparking.com.
 av288.cm.		3600	IN	NS	ns1.netsto.net.
@@ -39226,6 +39222,8 @@ gsbank.cm.		3600	IN	NS	dns1.cscdns.net.
 gsbank.cm.		3600	IN	NS	dns2.cscdns.net.
 gsbankusa.cm.		3600	IN	NS	dns1.cscdns.net.
 gsbankusa.cm.		3600	IN	NS	dns2.cscdns.net.
+gsbelamal.cm.		3600	IN	NS	dns1.creolink.com.
+gsbelamal.cm.		3600	IN	NS	dns2.creolink.com.
 gsd.cm.			3600	IN	NS	dns23.servidoresdns.net.
 gsd.cm.			3600	IN	NS	dns24.servidoresdns.net.
 gshock.cm.		3600	IN	NS	ns1.adtraks.com.
@@ -52874,8 +52872,8 @@ namesdatabase.cm.	3600	IN	NS	ns02.classmates.com.
 namesdatabase.cm.	3600	IN	NS	authns-ws.lax.mysite.com.
 nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
-ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
 ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
+ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
 ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
 ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
@@ -60632,6 +60630,8 @@ rgbenefits.cm.		3600	IN	NS	ns3.markmonitor.com.
 rgbenefits.cm.		3600	IN	NS	ns4.markmonitor.com.
 rgbenefits.cm.		3600	IN	NS	ns5.markmonitor.com.
 rgbenefits.cm.		3600	IN	NS	ns6.markmonitor.com.
+rgltd.cm.		3600	IN	NS	demi.ns.cloudflare.com.
+rgltd.cm.		3600	IN	NS	vick.ns.cloudflare.com.
 rgn.cm.			3600	IN	NS	ns-62-a.gandi.net.
 rgn.cm.			3600	IN	NS	ns-112-b.gandi.net.
 rgn.cm.			3600	IN	NS	ns-145-c.gandi.net.
@@ -66729,6 +66729,8 @@ tech-labs.cm.		3600	IN	NS	ns1.camoogroup.com.
 tech-labs.cm.		3600	IN	NS	ns2.camoogroup.com.
 tech11.cm.		3600	IN	NS	ns6.netsto.net.
 tech11.cm.		3600	IN	NS	ns7.netsto.net.
+tech4peace.cm.		3600	IN	NS	ns1.camoogroup.com.
+tech4peace.cm.		3600	IN	NS	ns2.camoogroup.com.
 techbridge.cm.		3600	IN	NS	ns1.lendaxas.com.
 techbridge.cm.		3600	IN	NS	ns2.lendaxas.com.
 techcrunch.cm.		3600	IN	NS	ns3.abovedomains.com.
@@ -69631,8 +69633,8 @@ univ-maroua.cm.		3600	IN	NS	ns1.mtnbusiness.cm.
 univ-maroua.cm.		3600	IN	NS	ns2.mtnbusiness.cm.
 univ-ndere.cm.		3600	IN	NS	nsy.prosygma-cm.com.
 univ-ndere.cm.		3600	IN	NS	bamnyanga.univ-ndere.cm.
-bamnyanga.univ-ndere.cm. 3600	IN	A	192.145.186.130
 bamnyanga.univ-ndere.cm. 3600	IN	AAAA	2001:43f8:1470:700::2
+bamnyanga.univ-ndere.cm. 3600	IN	A	192.145.186.130
 univ-ndere2.cm.		3600	IN	NS	ns3.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns4.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns5.cloud.stdigital.network.
@@ -72478,6 +72480,10 @@ wirexapp.cm.		3600	IN	NS	ns1.adtraks.com.
 wirexapp.cm.		3600	IN	NS	ns2.adtraks.com.
 wisdom.cm.		3600	IN	NS	ns1.afternic.com.
 wisdom.cm.		3600	IN	NS	ns2.afternic.com.
+wisdombookshop.cm.	3600	IN	NS	ns1.wisdombookshop.cm.
+wisdombookshop.cm.	3600	IN	NS	ns2.wisdombookshop.cm.
+ns1.wisdombookshop.cm.	3600	IN	A	138.201.141.117
+ns2.wisdombookshop.cm.	3600	IN	A	138.201.141.117
 wise.cm.		3600	IN	NS	ns1.mtnbusiness.cm.
 wise.cm.		3600	IN	NS	ns2.mtnbusiness.cm.
 wisecomputers.cm.	3600	IN	NS	ns1.mtnbusiness.cm.
@@ -76168,4 +76174,4 @@ zzz.cm.			3600	IN	NS	elle.ns.cloudflare.com.
 zzz.cm.			3600	IN	NS	matteo.ns.cloudflare.com.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025020609 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025020611 1800 900 1209600 3600
