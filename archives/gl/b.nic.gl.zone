@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158680 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. C9VCNUMAFFdiYkgFDME+DxyRyb4gXEkuOBHw1C4WhBqMtYYNIXchcx0a OWsbzu8lHo0eu0tZE6rmF7TDUvYRxTj4r3Wr9ny5lDG6cDhV2ZicvbD5 LK9DB5130YZp1kMknp1plXUm8f10an6i+9VqgLZldQ/UYc3GaezsWALp hGFzmijCLT2J0Uv8hdXsadarAfQIQic+r4IPq6uj45aAj6E5TuGD1BSg b7GmXU1uIxJCUSPffEeTnxhe/Gk9PYQ2QCYRTnlJAY6JfsMYPlD+sbIL p+ao2rU0kX2x/r+fBKGtKCS6wYlmpZ21Vh9gK5fKfu0udFu1HYB3dlQu sOGHXA==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158690 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250306050000 20241216050000 57390 gl. Xe4M5lTsuHn09JwJaZHXDQu6Qg1Vb/zn15Smo4GyayDZ0d+gi0X2ettG PHxhncmKgSwV9L7a4oPWpZ3iBOrP0e0ToFdlB9BSC2P2pSFkFjTrLHHj xROuv3S6Qqz83LKEryfY8XVcjXNIK4KYsTARVXZawpzlJlTMioIhqGVZ 6JEsIx+ZrUNG8TkBm3UMUxnfyH64/rZlZzsOwdSis3h5Dh7BPgjDZGTu X9IHnlwgCpeMf+z6ugZsXN7GXamCyhIwp0MGphXgDB0FjSPnNbhNaIYh Iy8YZ6/5+0cCQZ6Hs40ZDHPiW2OccNaMBGkk5or+RbOkUzkOxBoTECqx iVm+/A==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -737,6 +737,10 @@ agt.gl.			3600	IN	NS	ns3.eurodns.com.
 agt.gl.			3600	IN	NS	ns4.eurodns.com.
 ah.gl.			3600	IN	NS	ns1-coming-soon.sav.com.
 ah.gl.			3600	IN	NS	ns2-coming-soon.sav.com.
+ahc.gl.			3600	IN	NS	ns1.eurodns.com.
+ahc.gl.			3600	IN	NS	ns2.eurodns.com.
+ahc.gl.			3600	IN	NS	ns3.eurodns.com.
+ahc.gl.			3600	IN	NS	ns4.eurodns.com.
 ahmadiyya.gl.		3600	IN	NS	ns1-lion.vivawebhost.com.
 ahmadiyya.gl.		3600	IN	NS	ns2-lion.vivawebhost.com.
 ahumada.gl.		3600	IN	NS	ns1.cdmon.net.
@@ -1575,6 +1579,10 @@ arctichiking.gl.	3600	IN	NS	ns1.1984.is.
 arctichiking.gl.	3600	IN	NS	ns1.1984hosting.com.
 arctichiking.gl.	3600	IN	NS	ns2.1984.is.
 arctichiking.gl.	3600	IN	NS	ns2.1984hosting.com.
+arctichospitalitycorporation.gl. 3600 IN NS	ns1.eurodns.com.
+arctichospitalitycorporation.gl. 3600 IN NS	ns2.eurodns.com.
+arctichospitalitycorporation.gl. 3600 IN NS	ns3.eurodns.com.
+arctichospitalitycorporation.gl. 3600 IN NS	ns4.eurodns.com.
 arctichub.gl.		3600	IN	NS	ns1.curanet.dk.
 arctichub.gl.		3600	IN	NS	ns2.curanet.dk.
 arcticice.gl.		3600	IN	NS	a.hosting.gl.
@@ -2840,6 +2848,9 @@ blockbuster.gl.		3600	IN	NS	ns1.markmonitor.com.
 blockbuster.gl.		3600	IN	NS	ns3.markmonitor.com.
 blockchain.gl.		3600	IN	NS	ns1.gofruits.co.
 blockchain.gl.		3600	IN	NS	ns2.gofruits.co.
+blockstream.gl.		3600	IN	NS	1-you.njalla.no.
+blockstream.gl.		3600	IN	NS	2-can.njalla.in.
+blockstream.gl.		3600	IN	NS	3-get.njalla.fo.
 blog.gl.		3600	IN	NS	ns1.nameservers.cat.
 blog.gl.		3600	IN	NS	ns2.nameservers.cat.
 blogg.gl.		3600	IN	NS	ns1.modulo.gl.
@@ -3808,6 +3819,9 @@ cipramil.gl.		3600	IN	NS	nsusa.comlaude.net.
 cir.gl.			3600	IN	NS	ns1.regery.net.
 cir.gl.			3600	IN	NS	ns2.regery.net.
 cir.gl.			3600	IN	NS	ns3.regery.net.
+circle.gl.		3600	IN	NS	1-you.njalla.no.
+circle.gl.		3600	IN	NS	2-can.njalla.in.
+circle.gl.		3600	IN	NS	3-get.njalla.fo.
 cirrus.gl.		3600	IN	NS	a1-29.akam.net.
 cirrus.gl.		3600	IN	NS	a7-67.akam.net.
 cirrus.gl.		3600	IN	NS	a9-64.akam.net.
@@ -6511,6 +6525,8 @@ g-l.gl.			3600	IN	RRSIG	DS 8 2 3600 20250306050000 20241216050000 57390 gl. ZgYc
 g0.gl.			3600	IN	NS	1-you.njalla.no.
 g0.gl.			3600	IN	NS	2-can.njalla.in.
 g0.gl.			3600	IN	NS	3-get.njalla.fo.
+g1.gl.			3600	IN	NS	ns1.netsto.net.
+g1.gl.			3600	IN	NS	ns2.netsto.net.
 g2.gl.			3600	IN	NS	ns-61-a.gandi.net.
 g2.gl.			3600	IN	NS	ns-210-c.gandi.net.
 g2.gl.			3600	IN	NS	ns-238-b.gandi.net.
@@ -23047,4 +23063,4 @@ VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN NSEC3 1 1 0 07015CFB VSRDHHU2SC8F0D
 VSPANO6P8LBNSDDCE2D8JL8I4ANLS2P1.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. j1Od8QqavMQKol0xVJjQoLX6rRjyJtPj3AZ8vjig+xNTxJPJsQjjs96+ 65wLKTtfFMTr7J/MKA4McfVKRQnqBh1KpthKA7GzYxoCMEs0xZGKjIxY sDhAf4SD6/fDih8+q2cMWvvPQUeEkvZ1eVTKhYm7IxI5HggTQ77i62zi UOTpb4MB1AZgYG3WIt6vvQl8RxdrXY3pA20EWLrAMilnKhzNsCdV3CXU 8+wc7c0Q2aaDr4TEO292blUI8BDPuHnt/iFbw7icA0hJy2qVki6rQUJR BoifYEFgBb0HZZ4+tKNiMz5g2jlMatebtp7A2jTtndYjqgjFHVDy30pA HA9i0Q==
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN NSEC3 1 1 0 07015CFB 00HNG94DA18JDLB8TJGHQB402HJ845A2 NS DS RRSIG
 VSRDHHU2SC8F0DGA79IVA0152ND2UGOI.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250306050000 20241216050000 57390 gl. XosdvqgfZf1MJxDUbNeXWH0h50a8GjrAG3xOk+EgXzGmgiND37bpmCg2 h91UmZGxKMhmwE7MFddAAGE6bJU6U91G3msX9wpvfpMMoziXAQ8wY8AP Wt2lHSYjWXXJ25ZQvHVLQX8myAl9PM0jq2clbKAdwP7TrTtsUnr0qjNh sYv47CN+2d6fecnx8xLES+MFsx/LuPoCm9jYWGlQ+hmHQd8bgQUYfqkx ZNH/aICCIskqTOC829h27ERMrAjoWIe9Q1IjMEH28nElI4WLOa5kDD/x rRUENMauRiycGX65X9Hk3Gh5tzh7dyPzMEIkaHnnvpyMr915FX8624n/ Jw/ntg==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158680 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158690 900 1800 6048000 3600
