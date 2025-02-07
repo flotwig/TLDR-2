@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158752 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. ImF4oCsaY0zzcRhVIltV142ogVwDkr0QbP8Asn6+GetkymhcbjF4E+xd R9Snp5rIn515MTcE99NUSUThf/h2eawr4i7mNdhFRDrp5sRHfyDAsCdg 4wRkfVSlfDiimhu2HMbliQapPfNzj2PWC0G0IyKSsR2PyZOWxBz0WLiJ c3KP2Dz1VnWUzvjj4DFnRWUnhz2n4gGvWJbqRHbnLK4XEAdvsMEKboaq O+jq6qveKG0tFB8vW8LPGxCAnA106K9afHDYRKfSqA4CB7IUh5lUcLkq W8PnqDc+JpZwTb6tC9VPSw9tHuPhymzcT8sUVpkRt+U2lXat/FM5qmQ0 LJD2Kw==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158757 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. dDvwJWEwRmmys99lmOM7H98C+JUkwAoFz9itfeOTc7nD/iPs/oaR1GOa Quc1Sa75g8jM935TL93kOOiL7k7Q1CHSwLqkcbsN4kHibGUj9fnIMRLc aAiB2FvhtqlEbFtKXbDfcmLEuR/iVvAFHAqb1mguBTV9/D9yxlwzvOIP YORc86Ux6YvcRj8BFNp4UdFpQqoyuGfGe2vb3boV8hUYI8IJfgU8SZxp veX6WN3SwL8j2/tjf2J8NVnbpI3NFnGlPiSsdsw2PfpdQIwMeHG0bVsc YNHCYE3m0QnErmHEdoMU5mD3Lv90gxV0rmD0+9sH+Ad6RxyORDk7UrNB 7WIlkw==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -6547,6 +6547,11 @@ gabriel.gl.		3600	IN	NS	dns11.firestorm.ch.
 gabriel.gl.		3600	IN	NS	dns12.firestorm-isp.com.
 gabriel.gl.		3600	IN	NS	dns13.firestorm-isp.com.
 gabriel.gl.		3600	IN	NS	dns14.firestorm.ch.
+gabriel-fischer.gl.	3600	IN	NS	ns1.as8758.net.
+gabriel-fischer.gl.	3600	IN	NS	ns2.as8758.net.
+gabriel-fischer.gl.	3600	IN	NS	ns3.as8758.net.
+gabriel-fischer.gl.	3600	IN	NS	ns4.as8758.net.
+gabriel-fischer.gl.	3600	IN	NS	ns5.as8758.net.
 gag.gl.			3600	IN	NS	ns-262.awsdns-32.com.
 gag.gl.			3600	IN	NS	ns-719.awsdns-25.net.
 gag.gl.			3600	IN	NS	ns-1421.awsdns-49.org.
@@ -11753,8 +11758,8 @@ m3gaweb3.gl.		3600	IN	NS	reese.ns.cloudflare.com.
 m3gaweb3.gl.		3600	IN	NS	adaline.ns.cloudflare.com.
 m3gaweb5.gl.		3600	IN	NS	reese.ns.cloudflare.com.
 m3gaweb5.gl.		3600	IN	NS	adaline.ns.cloudflare.com.
-m3qa.gl.		3600	IN	NS	luke.ns.cloudflare.com.
-m3qa.gl.		3600	IN	NS	rosalie.ns.cloudflare.com.
+m3qa.gl.		3600	IN	NS	brady.ns.cloudflare.com.
+m3qa.gl.		3600	IN	NS	christina.ns.cloudflare.com.
 m7ga.gl.		3600	IN	NS	chad.ns.cloudflare.com.
 m7ga.gl.		3600	IN	NS	imani.ns.cloudflare.com.
 ma.gl.			3600	IN	NS	ns1.linode.com.
@@ -23080,4 +23085,4 @@ VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. hXmOGA3SSZtCaLNql2ckzbLOkhP28fYqMJDv6SbqC/H0qYamZvq4Zz+w 8Awlyi5Jqih4Lc6IgBC02rxc0a0Oa0qR1vgVghqnS0vIS7TyUsCZZYV1 NywHOkGK5XlSZ2BhdcVEAI4DJ4ye68L6AYSFpAo72sXH4iRDnnW0PcVe 9OCDiwlIdcHIF+A6VwnH9H1k1R2y+Fn3tuCHAeB6L+CYNKWK1CtH6FyJ ABTsAcl8fTMSPCpvqVSb6TFGrtzOwl16XNyAgri27aZBEaH1BHlFghT2 fDwG+2NyfoswaylgHJw916ZJy2cnkVB+Onhnu3lT47V13065SJDdbx3E k+NpLg==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158752 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158757 900 1800 6048000 3600
