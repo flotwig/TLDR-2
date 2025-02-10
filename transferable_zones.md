@@ -1,5 +1,6 @@
 # List of TLDs & Roots With Zone Transfers Currently Enabled
 
+* `.` via `d.root-servers.net.`: [Click here to view zone data.](archives/root/d.root-servers.net.zone)
 * `.` via `c.root-servers.net.`: [Click here to view zone data.](archives/root/c.root-servers.net.zone)
 * `.` via `b.root-servers.net.`: [Click here to view zone data.](archives/root/b.root-servers.net.zone)
 * `.` via `k.root-servers.net.`: [Click here to view zone data.](archives/root/k.root-servers.net.zone)
@@ -7,11 +8,9 @@
 * `.` via `f.root-servers.net.`: [Click here to view zone data.](archives/root/f.root-servers.net.zone)
 * `arpa` via `b.ns.arpa.`: [Click here to view zone data.](archives/arpa/b.ns.arpa.zone)
 * `bb` via `ns5.nic.bb.`: [Click here to view zone data.](archives/bb/ns5.nic.bb.zone)
-* `bn` via `ns2.bnnic.bn.`: [Click here to view zone data.](archives/bn/ns2.bnnic.bn.zone)
 * `bw` via `dns1.nic.net.bw.`: [Click here to view zone data.](archives/bw/dns1.nic.net.bw.zone)
-* `cd` via `ns-root-22.scpt-network.net.`: [Click here to view zone data.](archives/cd/ns-root-22.scpt-network.net.zone)
 * `cm` via `ns1.nic.cm.`: [Click here to view zone data.](archives/cm/ns1.nic.cm.zone)
-* `er` via `zaranew.noc.net.er.`: [Click here to view zone data.](archives/er/zaranew.noc.net.er.zone)
+* `er` via `sawanew.noc.net.er.`: [Click here to view zone data.](archives/er/sawanew.noc.net.er.zone)
 * `fj` via `ns1.fj.`: [Click here to view zone data.](archives/fj/ns1.fj.zone)
 * `gh` via `ns2.nic.gh.`: [Click here to view zone data.](archives/gh/ns2.nic.gh.zone)
 * `gl` via `a.nic.gl.`: [Click here to view zone data.](archives/gl/a.nic.gl.zone)
@@ -33,6 +32,6 @@
 * `xn--fzc2c9e2c` via `ns-l.nic.lk.`: [Click here to view zone data.](archives/xn--fzc2c9e2c/ns-l.nic.lk.zone)
 * `xn--mgbai9azgqp6j` via `ns.ntc.net.pk.`: [Click here to view zone data.](archives/xn--mgbai9azgqp6j/ns.ntc.net.pk.zone)
 * `xn--mgbtx2b` via `ns.cmc.iq.`: [Click here to view zone data.](archives/xn--mgbtx2b/ns.cmc.iq.zone)
-* `xn--wgbh1c` via `ns3.dotmasr.eg.`: [Click here to view zone data.](archives/xn--wgbh1c/ns3.dotmasr.eg.zone)
+* `xn--wgbh1c` via `ns1.dotmasr.eg.`: [Click here to view zone data.](archives/xn--wgbh1c/ns1.dotmasr.eg.zone)
 * `xn--xkc2al3hye2a` via `ns-l.nic.lk.`: [Click here to view zone data.](archives/xn--xkc2al3hye2a/ns-l.nic.lk.zone)
 * `xn--ygbi2ammx` via `ns1.pnina.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/ns1.pnina.ps.zone)
