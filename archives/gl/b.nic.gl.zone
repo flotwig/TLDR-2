@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158892 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. Bebdic2vehL6aliTzzeOsxXY4wHWrWFGlEzCXqsxZDZQM7S/lJ9GxOYB zAuMdcYe/SnokXHsMXgnRpBYcr3kbofjgII+LZCk/hThFbtOQQPkgia3 n5q2+1opBGoq08jnxwXYYzta7xnHRID/U0mVoI4+lXlluPrVBj0wMEHV FZe9LvluRue+yZXisccYNYvvwqUaBJ0lyVKKaAxjTxHeeA2fbl4KpHPJ 87tLqVVUPad/PhwWyXhYyVCIgWYEx0EMuJVWjK87HvMV1aLRAUQJRqNn zOMPoWdTk51/NsmTruxRhLs+Z0Lx5JJ4gha0Y73wJarAau9CO3HnaVtA 8Yqt5A==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158913 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. L8cfdj+91Bgya8+rbYJu+pB5H6OQSw+6od1gmrLnJ5YErz9sjy+zQydJ N5KmuQeW9+inkb/s2LLOy688wCNju7BXLImcTX9M9wcOR6ZHQa899kI9 psUJF5DP93kXFcuXLDioBoo2IVcbDebWTJqDDSFBeq2fJ6oSfrfZteOB 8PVZr34bU9S2N6ak45FPHnVLxZz8U+kKlsUhuJlVh29nvr/YdAjQSYop J9ZanEKMl29mGb4r5ZL9FV8/5RmhXgagSuXwe4+ky2KFkxrZI+kRaPmb 1J27Tb7M2yZUpi3w/jMFwWbKoh0YRbc/pbyK+6tZr4N6E12R7iUjuCt7 HbP+3Q==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -615,6 +615,9 @@ adiamondisforever.gl.	3600	IN	NS	ns2.lexsynergy.us.
 adiamondisforever.gl.	3600	IN	NS	ns3.lexsynergy.info.
 adidas.gl.		3600	IN	NS	udns1.cscdns.net.
 adidas.gl.		3600	IN	NS	udns2.cscdns.uk.
+adler.gl.		3600	IN	NS	ns.hostpoint.ch.
+adler.gl.		3600	IN	NS	ns2.hostpoint.ch.
+adler.gl.		3600	IN	NS	ns3.hostpoint.ch.
 admin.gl.		3600	IN	NS	adam.ns.cloudflare.com.
 admin.gl.		3600	IN	NS	sharon.ns.cloudflare.com.
 adminet.gl.		3600	IN	NS	ns1.o2switch.net.
@@ -3622,11 +3625,11 @@ cc.gl.			3600	IN	NS	ns2.netim.net.
 cc.gl.			3600	IN	NS	ns3.netim.net.
 cc.gl.			3600	IN	NS	ns4.netim.net.
 cc.gl.			3600	IN	NS	ns5.netim.net.
+ccs.gl.			3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. TPmfkvQnsPrA8X7RnN5NgyOeF00BsHUvwdfoCeeQX234fZ5jRDuLZdkZ cg/sIoCR3Sivd16YTioB0ASB1vX0UBUjaN+ilIASfNmGznn1OhMT+Nll vJZJ3hVF69wT3XpyJZop7q8jERLg7BvXiQzaT6xwwISbCkp8HRnC5SP2 SUCePCAdArkIOYs00FaxZkLrBhaYq36DC7G36w7cMOGkKcON0Guw6j1N 7/7k7lj9LssfnokLqqxiWwTnxL3WphHVcbx2+5VPxCn3z5mDd1oKoCws BYu6/x1CdIIVL+WK3q6bwcdqDFY7yzu8pL0oD8wKVVHUXuo2nZrHeMxH /O3EIA==
+ccs.gl.			3600	IN	DS	6295 8 2 A617EC6F2CB8E23CA6B32FA34B6ABFE6CF2C5C10677EE347CE1CE983 17061E2F
 ccs.gl.			3600	IN	NS	ns1.netim.net.
 ccs.gl.			3600	IN	NS	ns2.netim.net.
 ccs.gl.			3600	IN	NS	ns3.netim.net.
-ccs.gl.			3600	IN	DS	11479 8 2 7F92363DE4E081C043BD2AD31BE8FA4E33BDC1906EBC6BB8EF83DBA0 06081B6C
-ccs.gl.			3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. Uc9+VUhXyK6b48jeJJYzwDYJwOTIfKyEkFg9TV7BEFf/LI/PYgF79hBL 0+VK6hu/+wQFRIS4rFLKoNPjgRJgijj5y8zpaX9Hn6HgvDXWIQkg2xZn liwvy4T9qH+08owJl/p16Fmb03qPIg25w8PuPhSg3UzxU2Ug6m4omf7Q B5T7xMz2SXZQnSXp9INT73dDK0V8HSoYDRWxbIqymMGUXAs2lh8+2NRJ DJqqvo84HuBtqN+aoWS2WMZgkXGrQeIsFllB5spIsIDVVkumg6grzZdI WVLX9Hr9iNVje3CdLfl1yTE3kX3C9XbBDV1C5dEfXeFzlHKZYkMJhPtO RHJ9BQ==
 cd.gl.			3600	IN	NS	ns11.cloudns.net.
 cd.gl.			3600	IN	NS	ns14.cloudns.net.
 cd.gl.			3600	IN	NS	pns12.cloudns.net.
@@ -11600,8 +11603,10 @@ luckycasino.gl.		3600	IN	NS	dns01.dipcon.com.
 luckycasino.gl.		3600	IN	NS	dns02.ports.se.
 luckycasino.gl.		3600	IN	NS	dns03.ports.se.
 luckycasino.gl.		3600	IN	NS	dns04.ports.net.
-luckycola.gl.		3600	IN	NS	ns1.bodis.com.
-luckycola.gl.		3600	IN	NS	ns2.bodis.com.
+luckycola.gl.		3600	IN	NS	ns-3.awsdns-00.com.
+luckycola.gl.		3600	IN	NS	ns-704.awsdns-24.net.
+luckycola.gl.		3600	IN	NS	ns-1113.awsdns-11.org.
+luckycola.gl.		3600	IN	NS	ns-1773.awsdns-29.co.uk.
 luckypari.gl.		3600	IN	NS	ns-63-c.gandi.net.
 luckypari.gl.		3600	IN	NS	ns-127-a.gandi.net.
 luckypari.gl.		3600	IN	NS	ns-237-b.gandi.net.
@@ -23068,4 +23073,4 @@ VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. hXmOGA3SSZtCaLNql2ckzbLOkhP28fYqMJDv6SbqC/H0qYamZvq4Zz+w 8Awlyi5Jqih4Lc6IgBC02rxc0a0Oa0qR1vgVghqnS0vIS7TyUsCZZYV1 NywHOkGK5XlSZ2BhdcVEAI4DJ4ye68L6AYSFpAo72sXH4iRDnnW0PcVe 9OCDiwlIdcHIF+A6VwnH9H1k1R2y+Fn3tuCHAeB6L+CYNKWK1CtH6FyJ ABTsAcl8fTMSPCpvqVSb6TFGrtzOwl16XNyAgri27aZBEaH1BHlFghT2 fDwG+2NyfoswaylgHJw916ZJy2cnkVB+Onhnu3lT47V13065SJDdbx3E k+NpLg==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158892 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158913 900 1800 6048000 3600
