@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158938 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. G1HkCq0GmWLqK2zgscqPnoNoHfXtleOxhb/1CLq2ldI2bx8zi7hOu1hP gIH57RH7Z67U7GNQHyAJNoH0oz9PSuSDtzsxC9v6kmU3YygexHfXsAFq jSSvaVaGSjuPFqZ51pid0Ezf+BrYKXFjuSH2cY1jbAnjHdTSEX736cLE IZjvN62PguyXIrjipqz0xoRG8ulvdTss4FomzWg5u2nfQHb+YZslHL3C OmS1j8e+qDC0R3vXUx/MTO2+I7tgxqw/J+IMICniEzmw5Nvfq+/k9q41 cyGdCClQrMGMiqqZ9g1a4inYnXJuzZNiGuRirTNQRrA+cPoR5tJA9+bV 4Y0Wgw==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158944 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. Fqbhjjc8oMjIY0H8ITszPzhmuXAxVwV1xJB66Uhb1XKWlDvSO+ROrUW+ J7/xDYgUXWjgO2ZA0aNToCMtEtvBoSojpeYL5NgYAyJPEEDoIbHOf2Y7 jrMonc4ykT4fnm21dJ8sxxTxmQrs0FOuLcz+JQHGcrsihrtr5lI8bePy nXdvIFfV01jGCviZVzxtC44rd9NEHl9qo53D71DVpE+BQoxtUA5pcRDG Qz8oAZp9La6fmYEBIiTTQ3xzSz1o29NPzNuqRC6V5tcqZQ6xUu1ZC//+ ZdtO/6+DlIjpdsWSJS0/77PLYbB4ctbgu1xV18NjqgWlgxbFdEGv+e+B ODwCvA==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -1626,10 +1626,6 @@ arcticomm.gl.		3600	IN	NS	a.hosting.gl.
 arcticomm.gl.		3600	IN	NS	b.hosting.gl.
 arcticomm.gl.		3600	IN	NS	c.hosting.gl.
 arcticomm.gl.		3600	IN	NS	d.hosting.gl.
-arcticoutfitters.gl.	3600	IN	NS	a.hosting.gl.
-arcticoutfitters.gl.	3600	IN	NS	b.hosting.gl.
-arcticoutfitters.gl.	3600	IN	NS	c.hosting.gl.
-arcticoutfitters.gl.	3600	IN	NS	d.hosting.gl.
 arcticprint.gl.		3600	IN	NS	ns1.hosting.inuit.gl.
 arcticprint.gl.		3600	IN	NS	ns2.hosting.inuit.gl.
 arcticprint.gl.		3600	IN	NS	ns3.hosting.inuit.gl.
@@ -11905,10 +11901,6 @@ maloumedia.gl.		3600	IN	NS	ns4.simply.com.
 maloumedia.gl.		3600	IN	DS	63095 13 2 D3601755B1FAC4B966B3DBBEE7976EE9DE0B5CBE838E5BAD486A86B8 184475A4
 maloumedia.gl.		3600	IN	DS	63095 13 4 459FD400E93D97E9438E98C292CFB6BBB5CD4866920076BF5CC36D3D BA5EA26278A21D049D3C09EA9F48B1668B1A4825
 maloumedia.gl.		3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. eUvvo8Eia7mX+LcFo/8+93wGFRGuFhhz4WWmQZAB8+T33eEV9Bx3B+km w9V4PDYw7C63hrjKlJ8/U+vkxgG0K9+rAJGSGXcppe8c9/K5MQ66ZN7Q IpAfnfClNniM6KydzDL58MYTIoNqndwLh1GxwvLkto1MQtpfS7+6O8fc xl65emVl6mXbjHFPX6V1psybDFN0L51u4osWERLyE4mBVYVtSHX3URMd 0izGPGel6n2zRYoY1mx99LccSUtbnwxJuF4OJrMf6B11GZSFhnwSh4bL SgXPcnX0k0IHWev8Ig3pCeflIQKF5kSVBiTfjM6Vc0d+ygMjpO1k11zZ 3350Mw==
-maluexme.gl.		3600	IN	NS	a.hosting.gl.
-maluexme.gl.		3600	IN	NS	b.hosting.gl.
-maluexme.gl.		3600	IN	NS	c.hosting.gl.
-maluexme.gl.		3600	IN	NS	d.hosting.gl.
 mamaq.gl.		3600	IN	NS	ns1.dns-parking.com.
 mamaq.gl.		3600	IN	NS	ns2.dns-parking.com.
 mamarisavut.gl.		3600	IN	NS	ns01.one.com.
@@ -20412,8 +20404,6 @@ vcc.gl.			3600	IN	NS	ns2.inwx.de.
 vcc.gl.			3600	IN	NS	ns3.inwx.eu.
 vcync.gl.		3600	IN	NS	wanda.ns.cloudflare.com.
 vcync.gl.		3600	IN	NS	jaxson.ns.cloudflare.com.
-ve.gl.			3600	IN	NS	ian.ns.cloudflare.com.
-ve.gl.			3600	IN	NS	carol.ns.cloudflare.com.
 veda.gl.		3600	IN	NS	ns1a.dodns.net.
 veda.gl.		3600	IN	NS	ns2a.dodns.net.
 vegamovies.gl.		3600	IN	NS	olga.ns.cloudflare.com.
@@ -23072,4 +23062,4 @@ VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. hXmOGA3SSZtCaLNql2ckzbLOkhP28fYqMJDv6SbqC/H0qYamZvq4Zz+w 8Awlyi5Jqih4Lc6IgBC02rxc0a0Oa0qR1vgVghqnS0vIS7TyUsCZZYV1 NywHOkGK5XlSZ2BhdcVEAI4DJ4ye68L6AYSFpAo72sXH4iRDnnW0PcVe 9OCDiwlIdcHIF+A6VwnH9H1k1R2y+Fn3tuCHAeB6L+CYNKWK1CtH6FyJ ABTsAcl8fTMSPCpvqVSb6TFGrtzOwl16XNyAgri27aZBEaH1BHlFghT2 fDwG+2NyfoswaylgHJw916ZJy2cnkVB+Onhnu3lT47V13065SJDdbx3E k+NpLg==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158938 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158944 900 1800 6048000 3600
