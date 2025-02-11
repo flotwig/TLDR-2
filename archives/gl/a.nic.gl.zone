@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158965 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. YaPwT3G7wTUfYdnfQy4GNPFUhGWTpHavb05FaTXtQ71d9GhH7soonff8 glON78VpzXGnPELCQVElDgNZa2Hap4OzPhXzXBgeOBfzvOSy8NXAX8Yd YhlaavRmT1fQHNi3YzIPC7oIjNZXaR8weXVzj3yrTeKyX6hatpJmCS7E 1bqxyTYRDpu8lxUDNQH72daDnnwleAcwJvR1e5FiE3eteQnPMVY5vT7c +YVG253eU0+sZM9p6cBOjuWEYKmMbEdnrQKWVdsmyarLPno3bDLNhGC1 jUHykP3Nn6tG7cXGpm50aQhOeTiHX/ebxuDEjZOMAABEX4om+cSWeX8B PzVMOA==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158976 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. TIQ/tEA8z0uwq5l5JiUHFfuPEKvv6kjOPscSV9LZVydwesW7hK4P9esI PosjTiozB/qxRbKU3h0A9AB1z5+WHG69UxgOUZam7Xq6Bu8eqlHcPWlE fqgU2odVeoZ+lHx8ceMRA1ntuYXtzygY0HagYT5s1r5weD1YOBLfxk57 VpKcgliBb/vwm9UlGVATKyehK4zyHumO9vVZBp4HL6YhejbO0pBi18dm K0eFhU2e6DNBR9P6HHKKuMsgNdtCHMlex40viDXMbeg8+eB03DrrTBsI M+q3Wg3qx43G0IoPIuHQcWEoTYs0YURMb5OfqlvyTdaJzEJJUKM55PzX MFKWpA==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -2391,8 +2391,8 @@ baumeister.gl.		3600	IN	NS	ns3.nets.ch.
 baurecht.gl.		3600	IN	NS	ns.udag.de.
 baurecht.gl.		3600	IN	NS	ns.udag.net.
 baurecht.gl.		3600	IN	NS	ns.udag.org.
-baza.gl.		3600	IN	NS	ns3.my-ndns.com.
-baza.gl.		3600	IN	NS	ns4.my-ndns.com.
+baza.gl.		3600	IN	NS	henrik.ns.cloudflare.com.
+baza.gl.		3600	IN	NS	clarissa.ns.cloudflare.com.
 baza1.gl.		3600	IN	NS	3-pas.njalla.in.
 baza1.gl.		3600	IN	NS	1-ceci.njalla.do.
 baza1.gl.		3600	IN	NS	2-nest.pipe.ma.
@@ -11693,6 +11693,7 @@ lynge-petersen.gl.	3600	IN	NS	pns31.cloudns.net.
 lynge-petersen.gl.	3600	IN	NS	pns32.cloudns.net.
 lynge-petersen.gl.	3600	IN	NS	pns33.cloudns.net.
 lynge-petersen.gl.	3600	IN	NS	pns34.cloudns.net.
+lynge-petersen.gl.	3600	IN	NS	ns31.cloudns.net.
 lynges.gl.		3600	IN	NS	ns1.bdm.microsoftonline.com.
 lynges.gl.		3600	IN	NS	ns2.bdm.microsoftonline.com.
 lynges.gl.		3600	IN	NS	ns3.bdm.microsoftonline.com.
@@ -17938,6 +17939,8 @@ sjob.gl.		3600	IN	NS	ns2.modulo.gl.
 sjob.gl.		3600	IN	NS	ns3.modulo.gl.
 sk.gl.			3600	IN	NS	ns1.vercel-dns.com.
 sk.gl.			3600	IN	NS	ns2.vercel-dns.com.
+skak.gl.		3600	IN	NS	ns3007.mochahost.com.
+skak.gl.		3600	IN	NS	ns4007.mochahost.com.
 skansen.gl.		3600	IN	NS	a.hosting.gl.
 skansen.gl.		3600	IN	NS	b.hosting.gl.
 skansen.gl.		3600	IN	NS	c.hosting.gl.
@@ -23060,4 +23063,4 @@ VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. hXmOGA3SSZtCaLNql2ckzbLOkhP28fYqMJDv6SbqC/H0qYamZvq4Zz+w 8Awlyi5Jqih4Lc6IgBC02rxc0a0Oa0qR1vgVghqnS0vIS7TyUsCZZYV1 NywHOkGK5XlSZ2BhdcVEAI4DJ4ye68L6AYSFpAo72sXH4iRDnnW0PcVe 9OCDiwlIdcHIF+A6VwnH9H1k1R2y+Fn3tuCHAeB6L+CYNKWK1CtH6FyJ ABTsAcl8fTMSPCpvqVSb6TFGrtzOwl16XNyAgri27aZBEaH1BHlFghT2 fDwG+2NyfoswaylgHJw916ZJy2cnkVB+Onhnu3lT47V13065SJDdbx3E k+NpLg==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158965 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158976 900 1800 6048000 3600
