@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158973 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. KayW3ded/MwzyBQ+k6zEEE+vsJZzwwGFYecU2/w5nYcuWCa1jgl67Sj0 sWZs8h5rXAvOf1F2QGaZl2WHaPtROG/1ueYhAD2TILOSS3OoeBKNjK1X 7wxKn1BYeR5+Womj3FtCq5M4FejELM7QGoDNUKxxYzhFXIx3FFy5s/Tm bVtPV5jJWC3WMgsgSalhh61B2VRArM1vgg5PEIfYHz04/vN2xtSLNdc7 SwID1gdXsfECogy5OfY8LLGaydMYFO5Hx0FRDa0ANp+3KWLz5anshhsH I4JvljUmBSD+Vt04DqLVRr2qx6AHujbUgm4K9O2Gv1x5c0jqcgOXhmRu ovojKQ==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158978 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. UrnOCI3DcxkOQ+jDM6xFBJDX4tB4m5dms2do2/x8pnIrkt2dXSUD/gKL rc43ui/mvFFXA5MM9+jwM1wC8huXV/bkgi7stVjbScBVn5TsFy6muA7H tCXDv0ead9vD19GX+SXPpruZCEnqN0p6m8WtcT0aJyaPQQIqd6QhmoE0 n0j9YZLtjfYK5qfO6g/MqbiVduTJin7LDwXy8fCn4+4k6DHZHSYBhBws 9q7RQDHD2rWTAzdsQV/GTlRAR+/Bm1edZ2QKmWJVZmSjmm4yzJAEMyet gz2176UnHuQc3jnaKJ3PDtVoDCJIU/2Rnho/1HB6oXYR8tv4piaXjeUg RFKMgQ==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -11693,6 +11693,7 @@ lynge-petersen.gl.	3600	IN	NS	pns31.cloudns.net.
 lynge-petersen.gl.	3600	IN	NS	pns32.cloudns.net.
 lynge-petersen.gl.	3600	IN	NS	pns33.cloudns.net.
 lynge-petersen.gl.	3600	IN	NS	pns34.cloudns.net.
+lynge-petersen.gl.	3600	IN	NS	ns31.cloudns.net.
 lynges.gl.		3600	IN	NS	ns1.bdm.microsoftonline.com.
 lynges.gl.		3600	IN	NS	ns2.bdm.microsoftonline.com.
 lynges.gl.		3600	IN	NS	ns3.bdm.microsoftonline.com.
@@ -17938,6 +17939,8 @@ sjob.gl.		3600	IN	NS	ns2.modulo.gl.
 sjob.gl.		3600	IN	NS	ns3.modulo.gl.
 sk.gl.			3600	IN	NS	ns1.vercel-dns.com.
 sk.gl.			3600	IN	NS	ns2.vercel-dns.com.
+skak.gl.		3600	IN	NS	ns3007.mochahost.com.
+skak.gl.		3600	IN	NS	ns4007.mochahost.com.
 skansen.gl.		3600	IN	NS	a.hosting.gl.
 skansen.gl.		3600	IN	NS	b.hosting.gl.
 skansen.gl.		3600	IN	NS	c.hosting.gl.
@@ -23060,4 +23063,4 @@ VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. hXmOGA3SSZtCaLNql2ckzbLOkhP28fYqMJDv6SbqC/H0qYamZvq4Zz+w 8Awlyi5Jqih4Lc6IgBC02rxc0a0Oa0qR1vgVghqnS0vIS7TyUsCZZYV1 NywHOkGK5XlSZ2BhdcVEAI4DJ4ye68L6AYSFpAo72sXH4iRDnnW0PcVe 9OCDiwlIdcHIF+A6VwnH9H1k1R2y+Fn3tuCHAeB6L+CYNKWK1CtH6FyJ ABTsAcl8fTMSPCpvqVSb6TFGrtzOwl16XNyAgri27aZBEaH1BHlFghT2 fDwG+2NyfoswaylgHJw916ZJy2cnkVB+Onhnu3lT47V13065SJDdbx3E k+NpLg==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158973 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022158978 900 1800 6048000 3600
