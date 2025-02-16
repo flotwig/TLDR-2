@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025021600 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1739664034"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025021602 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1739671235"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -12552,8 +12552,6 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 7793.cm.		3600	IN	NS	jasmine.ns.cloudflare.com.
 77950.cm.		3600	IN	NS	ns1.alidns.com.
 77950.cm.		3600	IN	NS	ns2.alidns.com.
-77966.cm.		3600	IN	NS	ns1.netsto.net.
-77966.cm.		3600	IN	NS	ns2.netsto.net.
 7797.cm.		3600	IN	NS	ns1.netsto.net.
 7797.cm.		3600	IN	NS	ns2.netsto.net.
 7798.cm.		3600	IN	NS	yoxall.ns.cloudflare.com.
@@ -27158,8 +27156,10 @@ chowsangsang.cm.	3600	IN	NS	pns23.cloudns.net.
 chowsangsang.cm.	3600	IN	NS	pns24.cloudns.net.
 choxi.cm.		3600	IN	NS	ns1.parkingcrew.net.
 choxi.cm.		3600	IN	NS	ns2.parkingcrew.net.
-chr-ebolowa.cm.		3600	IN	NS	ns3.newtoncorp.net.
-chr-ebolowa.cm.		3600	IN	NS	ns4.newtoncorp.net.
+chr-ebolowa.cm.		3600	IN	NS	ns1.chr-ebolowa.cm.
+chr-ebolowa.cm.		3600	IN	NS	ns2.chr-ebolowa.cm.
+ns1.chr-ebolowa.cm.	3600	IN	A	178.32.213.243
+ns2.chr-ebolowa.cm.	3600	IN	A	178.32.213.243
 chracerh.cm.		3600	IN	NS	ns200.anycast.me.
 chracerh.cm.		3600	IN	NS	dns200.anycast.me.
 chrbafoussam.cm.	3600	IN	NS	ns1.camoogroup.com.
@@ -52198,8 +52198,8 @@ nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
 ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
 ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
-ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
 ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
+ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
 nanaboubagroup.cm.	3600	IN	NS	ns2.tchaytchay.com.
 nanbudokaikan.cm.	3600	IN	NS	ns102.ovh.net.
@@ -53945,10 +53945,6 @@ ohheyhero.cm.		3600	IN	NS	nssui.comlaude.ch.
 ohheyhero.cm.		3600	IN	NS	nsusa.comlaude.net.
 ohiocasualty-ins.cm.	3600	IN	NS	ns1.markmonitor.com.
 ohiocasualty-ins.cm.	3600	IN	NS	ns3.markmonitor.com.
-ohis.cm.		3600	IN	NS	ns1.a2hosting.com.
-ohis.cm.		3600	IN	NS	ns2.a2hosting.com.
-ohis.cm.		3600	IN	NS	ns3.a2hosting.com.
-ohis.cm.		3600	IN	NS	ns4.a2hosting.com.
 ohm.cm.			3600	IN	NS	ns3.abovedomains.com.
 ohm.cm.			3600	IN	NS	ns4.abovedomains.com.
 ohp.cm.			3600	IN	NS	ns3.abovedomains.com.
@@ -62937,10 +62933,8 @@ skarbekassociates.cm.	3600	IN	NS	nssui.comlaude.ch.
 skarbekassociates.cm.	3600	IN	NS	nsusa.comlaude.net.
 skbuilding.cm.		3600	IN	NS	ns1.skbuilding.cm.
 skbuilding.cm.		3600	IN	NS	ns2.skbuilding.cm.
-ns1.skbuilding.cm.	3600	IN	A	138.201.141.117
-ns1.skbuilding.cm.	3600	IN	A	195.154.167.147
-ns2.skbuilding.cm.	3600	IN	A	138.201.141.117
-ns2.skbuilding.cm.	3600	IN	A	195.154.167.147
+ns1.skbuilding.cm.	3600	IN	A	178.32.213.243
+ns2.skbuilding.cm.	3600	IN	A	178.32.213.243
 skechers.cm.		3600	IN	NS	alan.ns.cloudflare.com.
 skechers.cm.		3600	IN	NS	carol.ns.cloudflare.com.
 sketch.cm.		3600	IN	NS	ns3.abovedomains.com.
@@ -68943,8 +68937,8 @@ univ-maroua.cm.		3600	IN	NS	ns1.mtnbusiness.cm.
 univ-maroua.cm.		3600	IN	NS	ns2.mtnbusiness.cm.
 univ-ndere.cm.		3600	IN	NS	nsy.prosygma-cm.com.
 univ-ndere.cm.		3600	IN	NS	bamnyanga.univ-ndere.cm.
-bamnyanga.univ-ndere.cm. 3600	IN	A	192.145.186.130
 bamnyanga.univ-ndere.cm. 3600	IN	AAAA	2001:43f8:1470:700::2
+bamnyanga.univ-ndere.cm. 3600	IN	A	192.145.186.130
 univ-ndere2.cm.		3600	IN	NS	ns3.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns4.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns5.cloud.stdigital.network.
@@ -70071,8 +70065,8 @@ vinafarm.cm.		3600	IN	NS	ns1.netsto.net.
 vinafarm.cm.		3600	IN	NS	ns2.netsto.net.
 vinatravel.cm.		3600	IN	NS	ns1.vinatravel.cm.
 vinatravel.cm.		3600	IN	NS	ns2.vinatravel.cm.
-ns1.vinatravel.cm.	3600	IN	A	138.201.141.117
-ns2.vinatravel.cm.	3600	IN	A	138.201.141.117
+ns1.vinatravel.cm.	3600	IN	A	178.32.213.243
+ns2.vinatravel.cm.	3600	IN	A	178.32.213.243
 vinbet.cm.		3600	IN	NS	ns1.netsto.net.
 vinbet.cm.		3600	IN	NS	ns2.netsto.net.
 vinci-autoroutes.cm.	3600	IN	NS	udns1.cscdns.net.
@@ -75423,4 +75417,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025021600 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025021602 1800 900 1209600 3600
