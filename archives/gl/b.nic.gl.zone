@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159307 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. EW2jhkyHoNn8Q4SgxClpYhxx0xAbwWSiQW439Z97ABNaNOqqXgLKcuiI qaq4ReemBJ0cm64A6MKw0DuBCy9m4BJr4DKIalK+pnLfJsBz/dwd+IeY J6gKB9JPWfkSaTRXWJ7M+WbTx/CJM5c2oo8wEqCayotNbGQIvnKB7nYa 96LBzf1LilyO9/yoSYMQ4BQ2IhxfUJH8Zw0RMJ6xIU38I/yDD/JuOFnq f+ndPH/ZHZUzEQ1VMJQ8bW/TuXoq1U2YldynBKW06uJueg8dAh75S+P3 P2kKlj3ZpWD6IYb2qZ1DZ2J0vgvhYFkcUFE/6YqIoP2qnTo6MXEEY9Uq gDF+OA==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159317 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. TLrpgBYBOuecI+JdsaMcLLCE784DO0ckxLMST/IFtT2BmN22Vdipqeyt d48X6In0+G6YRRYBFNhesIGI9B+xmuyPECzlGl/6jom/VM+vhLCnCqf2 Qy8cu4upHOoQSsXGGF727+THkdLIgJPsYQ/PKlTnGrW7/UqW3o91ZNIy 0TcNz6lGFtcTPnMtZjXyL0pxYh5eoVvFMoaTpbsNT7nc0VddXPEAut5F cPyDh8GXlpCYWR+opwJge+8t/4Sojie5AGgE9yb+dWkkYWRqwE6nbPEn q/ZIHYBJUUQdmTPuCoEzNIWimtkzJYscMPop/74lxBAcQxEh0TNrafsl 3DzS1Q==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -5160,8 +5160,8 @@ edukak.gl.		3600	IN	NS	ns3.supercp.com.
 edukak.gl.		3600	IN	NS	ns4.supercp.com.
 eduroam.gl.		3600	IN	NS	mimer.deic.dk.
 eduroam.gl.		3600	IN	NS	ns-soa.darenet.dk.
-eduroam.gl.		3600	IN	DS	45372 13 2 338FDD36DA298F4AFC0C53595277CE365131A9A5F7F706BCA320EF17 5F2D6DD3
-eduroam.gl.		3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. ADBgZS0r425n2nq7uwnf1w7faBSPKtDBWaCwJ6web1KRMUUDo55GHbKk /BoC9zjP5OegPBacraZzXr1X09It9DGHLd//ZqaO/9Tmk13vZHSj4LQq eSkdPUA5B7qZOYFZWmGhNHgg9pzxYhRMMIjyVjATAEMHdOED+4zFwQDL QNi8Wv9HHTJ8JUsyyRAH54uRXxWYMsqMueHjDwBnO2OPp0bEoUXw3wdP bL2iYDB5xQ2KTD8Gqh4Db4cC+XVp4XAcwRS1XKySgPujsxCqIRmA+2Im AyoYMrtZFlQ4eNOGJQVBdbAcG313dM0KZAMZLgRD9QaVKXoofIiu780w uIdHdA==
+eduroam.gl.		3600	IN	DS	11394 13 2 89629E94D0555CDB966BBBBA79370297976FD3090AE8C393C9B6B441 BE48514F
+eduroam.gl.		3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. brStIH6EwAnjsRGqa3NcSr90/K/17o7IQm4sHVJ4SctM+N4o1welK805 2tytzKU6jcuVOpZkWnsy3oub9QWWfKzqjHyyYiIwqacfRsZqlJ03WsLv rSfY0rlCRws+fwZ2totE4iwGifVU2tKB8hzHXG5W3L7RoFHfnd8PjayZ VrwK8ePF8PqIYTs2V/a8SJctvLjN9UHu+44gw8jhkohCK3CQNDNZgOQD raIsMNP76tMTmbnq2RhjT73fcjhV+QmNmqdal4D+a7wPf74J6yjLejti RT4Vhj4KKqINgEgfkpWLQwWuLyTRJhQnYp1kfBCjNgZb0pgDO82nSxcE Bi+Vjg==
 edv.gl.			3600	IN	NS	ns.checkdomain.de.
 edv.gl.			3600	IN	NS	ns2.checkdomain.de.
 ee.gl.			3600	IN	NS	ns-21-a.gandi.net.
@@ -5870,6 +5870,9 @@ fashionone.gl.		3600	IN	NS	ns5.101domain.com.
 fasnacht.gl.		3600	IN	NS	ns.hostpoint.ch.
 fasnacht.gl.		3600	IN	NS	ns2.hostpoint.ch.
 fasnacht.gl.		3600	IN	NS	ns3.hostpoint.ch.
+fast.gl.		3600	IN	NS	ns01.nominus.com.
+fast.gl.		3600	IN	NS	ns02.nominus.com.
+fast.gl.		3600	IN	NS	ns03.nominus.com.
 fastbraces.gl.		3600	IN	NS	ns01.trademarkarea.com.
 fastbraces.gl.		3600	IN	NS	ns02.trademarkarea.com.
 fastbraces.gl.		3600	IN	NS	ns03.trademarkarea.com.
@@ -8200,10 +8203,9 @@ hotelservice.gl.	3600	IN	NS	1.dnsservers.de.
 hotelservice.gl.	3600	IN	NS	2.dns-servers.eu.
 hotelservice.gl.	3600	IN	NS	3.dnsservers.de.
 hotelservice.gl.	3600	IN	NS	4.dns-servers.eu.
-hotelsisimiut.gl.	3600	IN	NS	ns1.aputit.gl.
-hotelsisimiut.gl.	3600	IN	NS	ns2.aputit.gl.
-hotelsisimiut.gl.	3600	IN	NS	ns3.aputit.gl.
-hotelsisimiut.gl.	3600	IN	NS	ns4.aputit.gl.
+hotelsisimiut.gl.	3600	IN	NS	ns1.modulo.gl.
+hotelsisimiut.gl.	3600	IN	NS	ns2.modulo.gl.
+hotelsisimiut.gl.	3600	IN	NS	ns3.modulo.gl.
 hotelsoema.gl.		3600	IN	NS	ns1.simply.com.
 hotelsoema.gl.		3600	IN	NS	ns2.simply.com.
 hotelsoema.gl.		3600	IN	NS	ns3.simply.com.
@@ -23091,4 +23093,4 @@ VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. hXmOGA3SSZtCaLNql2ckzbLOkhP28fYqMJDv6SbqC/H0qYamZvq4Zz+w 8Awlyi5Jqih4Lc6IgBC02rxc0a0Oa0qR1vgVghqnS0vIS7TyUsCZZYV1 NywHOkGK5XlSZ2BhdcVEAI4DJ4ye68L6AYSFpAo72sXH4iRDnnW0PcVe 9OCDiwlIdcHIF+A6VwnH9H1k1R2y+Fn3tuCHAeB6L+CYNKWK1CtH6FyJ ABTsAcl8fTMSPCpvqVSb6TFGrtzOwl16XNyAgri27aZBEaH1BHlFghT2 fDwG+2NyfoswaylgHJw916ZJy2cnkVB+Onhnu3lT47V13065SJDdbx3E k+NpLg==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159307 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159317 900 1800 6048000 3600
