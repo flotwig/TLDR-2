@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159263 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. apJ6HvKBKP0M/5KbfrCInJJi80pK3sy3YnIin4fxzUnumIeoqW9QqDGZ kcMhot/lUTF8e4SPk/EZnqcsdSNHKvCshvAt4LsUYrSaLfY56YPDwQHa YrxmUGCGZQrCAB9eNMhyRrFNgMMWP9mEaoRSAMarJQPgyW4ZwYFz05n2 FpdW6D2RlsEGT6ElECKA2l4hiD88RXd0esea7gVwiVNgGPqafUxqLPwF GXVWGGpNGZDGZMyKe6bqnBTdxWLtW7ZCELeGxzNVHY8O+FDQ6XQSvYiF poEr7GNbXfH0Ev7eh83cxqnTw7y9PpArO06Y5u4fvhaG+Hrn+Ij+n93e uZWA8g==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159278 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. NYRbgXlNdZ9dVKNJO3n0DNt/Mb9c68sM82Yz/9s5hIOP1s83CWAuRpZX 2N0bLeUoF1fYB9YHmpzFw3AESpA6IQmv2UUcY47Q/Mg8YK4MnKsMi2Xw ieTjxXLD4RiO/xS/ruXrA5MnQ9JI156Xu3c5KfBQmomdfUtlzH4TFO+P U5yI7VKdYnJIVQu75mJnZPZYct7mTpnIoAepCd7SZINvpeNlG0s0E8sJ MwhZ8MuFLFQxUt5+69IZQq7ILlc6e/GYmqnR//0jPT3UCSvoSSc2OErm Tj1rVRiJ9YxlwuIgG3Xm1W+79JysidAmEKSH3r09c5vyKuhdNxcpUVY0 /Sp2ig==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -4976,8 +4976,8 @@ dupont.gl.		3600	IN	NS	pdns3.ultradns.org.
 dupont.gl.		3600	IN	NS	pdns4.ultradns.org.
 dupont.gl.		3600	IN	NS	pdns5.ultradns.info.
 dupont.gl.		3600	IN	NS	pdns6.ultradns.co.uk.
-dut.gl.			3600	IN	NS	jill.ns.cloudflare.com.
-dut.gl.			3600	IN	NS	tony.ns.cloudflare.com.
+dut.gl.			3600	IN	NS	domain.idotz.net.
+dut.gl.			3600	IN	NS	expired.idotz.net.
 dutyfree.gl.		3600	IN	NS	ns1.simply.com.
 dutyfree.gl.		3600	IN	NS	ns2.simply.com.
 dutyfree.gl.		3600	IN	NS	ns3.simply.com.
@@ -5586,9 +5586,10 @@ esvagt.gl.		3600	IN	NS	ns2.scannet2.dk.
 eswc.gl.		3600	IN	NS	dns1.idp365.net.
 eswc.gl.		3600	IN	NS	dns2.idp365.net.
 eswc.gl.		3600	IN	NS	dns3.idp365.net.
-et.gl.			3600	IN	NS	ns1.ndsplitter.com.
-et.gl.			3600	IN	NS	ns2.ndsplitter.com.
-et.gl.			3600	IN	NS	ns3.ndsplitter.com.
+et.gl.			3600	IN	NS	ns1.monikerdns.net.
+et.gl.			3600	IN	NS	ns2.monikerdns.net.
+et.gl.			3600	IN	NS	ns3.monikerdns.net.
+et.gl.			3600	IN	NS	ns4.monikerdns.net.
 eta.gl.			3600	IN	NS	ns1.esoft.com.ru.
 eta.gl.			3600	IN	NS	ns2.esoft.org.ru.
 etam.gl.		3600	IN	NS	ns-24-c.gandi.net.
@@ -18791,8 +18792,6 @@ supplymaster.gl.	3600	IN	NS	ns01.trademarkarea.com.
 supplymaster.gl.	3600	IN	NS	ns02.trademarkarea.com.
 support.gl.		3600	IN	NS	adam.ns.cloudflare.com.
 support.gl.		3600	IN	NS	sharon.ns.cloudflare.com.
-surehotel.gl.		3600	IN	NS	ns1.loopia.se.
-surehotel.gl.		3600	IN	NS	ns2.loopia.se.
 surf.gl.		3600	IN	NS	ns01.one.com.
 surf.gl.		3600	IN	NS	ns02.one.com.
 susasumi.gl.		3600	IN	NS	ns1.nunahosting.net.
@@ -23061,4 +23060,4 @@ VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. hXmOGA3SSZtCaLNql2ckzbLOkhP28fYqMJDv6SbqC/H0qYamZvq4Zz+w 8Awlyi5Jqih4Lc6IgBC02rxc0a0Oa0qR1vgVghqnS0vIS7TyUsCZZYV1 NywHOkGK5XlSZ2BhdcVEAI4DJ4ye68L6AYSFpAo72sXH4iRDnnW0PcVe 9OCDiwlIdcHIF+A6VwnH9H1k1R2y+Fn3tuCHAeB6L+CYNKWK1CtH6FyJ ABTsAcl8fTMSPCpvqVSb6TFGrtzOwl16XNyAgri27aZBEaH1BHlFghT2 fDwG+2NyfoswaylgHJw916ZJy2cnkVB+Onhnu3lT47V13065SJDdbx3E k+NpLg==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159263 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159278 900 1800 6048000 3600
