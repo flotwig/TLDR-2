@@ -1,4 +1,4 @@
-fj.			3600	IN	SOA	ns1.fj. domreg.usp.ac.fj. 2025021812 21600 3600 1209600 3600
+fj.			3600	IN	SOA	ns1.fj. domreg.usp.ac.fj. 2025021822 21600 3600 1209600 3600
 fj.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250326141541 20250214225345 2604 fj. QYIMgZ9v/i5+4sTRjFxUiL6EecN0uEWht3YQBojKjT4AMPJlTWfkNBJB l5fKWPM9SpMMFVGyM0cZ9RIGdoWLI4HlS5pE5z6r5YM478jXpgs/gXWH 4X58F5WsCGeW/LZl7iIyJv2QBwQDnqdRTkq2xEeQTLKG8SYlpoW+JPnH I6Zw9xKJASPxNMKzRp27l7ioGiqfNwoIZA7GiVMErwhYITacnohs7P7L e1kBb2aaWcy1uZ6E45njzOXp5rqfJhkDOUPAACrfPsiAIz/d4PvOHWEy hJjzxpcyk7kI8wkL90aps8qXsEuESprxojCSAI9ubsDG0WzB4v2UO1BR i3V/RA==
 fj.			0	IN	NSEC3PARAM 1 0 5 0E12C2BDFDFA4F06
 fj.			86400	IN	RRSIG	NS 8 1 86400 20250326115513 20250214225345 2604 fj. Trv9FDqUnry5h8uKuwHywkf1IpYCfOY+Mm6vqUEezBDTlWRFpho/HGLW jHFfwpb2KPzYT1veUfMFAKeKJ1ySNQALKy1d8LEkusKUY52b5b5xpWcw DYj4SXu5TJt6DzROkU1pTwRUvRfYbgdefKuoDSMWa47i5ZbORg0m8AQC yLkF7FrEPUgFnbTf6EpGY3T2zjX8PbXOyh11sX9ODpRSSXboO0CwSlMX lm7bSUVCIdMQ1eU4yhrOR0nwE1UQHH1bf4igCYbeFgn5aGvBZ1pHIv2m VGUSzwI6dUWRWWQ7EY1JN22uE4aeQA+cyIH1ObBV9lfNJCjPHFLqieLE GdQI6w==
@@ -7,14 +7,14 @@ fj.			86400	IN	NS	ns2.fj.
 fj.			86400	IN	NS	ns3.fj.
 fj.			86400	IN	NS	ns4.fj.
 fj.			86400	IN	NS	ns5.fj.
-fj.			86400	IN	RRSIG	TXT 8 1 86400 20250329235452 20250217220144 2604 fj. SQp5oHEbceTmXRgRv3c6NNmqI9z3RvG548BXo63JoeshAUrCWqE7FYgi VouQlY6pFt4oMAd63c6hrGKMneGW6WBbHzLlXeKFSuNa9LxsFXTAbSRw FPcbMnr/Bec3Y/S01F7DvkMhl4XYCnf9x+a0aAxEdKdduB84e3aSl6n/ E6WnFKzeJFtJZ09/xhoZOyoYZYD5gtXqATEJEmm178BbNmyAMDOMfvIm QHjhbMpQ/f+Igc0XgpFEj0G/rp2evWuuZKoRX3h1LEeqYjCW5Q/JyE9X iZXAv/Mw5YWSM5SjMSd5E9rNDNUc73e9XEnov2HPXcj8gbuJtxH5m7Ri 4UiMvA==
-fj.			86400	IN	TXT	"Generation Time: 1739833272"
+fj.			86400	IN	RRSIG	TXT 8 1 86400 20250330135144 20250218080135 2604 fj. Zw1/s3thi/4h+KyM7J+k10miHKmDvzN9+BOTSbnCkN7G21hbDWFnQEIo rdGQcUHhuoUk2rb6HSjWQsbBPrNBp2FWeQ8j2KwH6Jts63peg+j59ysr PKU5XhNBDnuOENCslxpmBvAmZj/Gg1v0cgG6+yp5SRPxt00ROPmjIN4Z //T0eLa3Wl+1yNycwk29z3Sh3zasA3BM1m+TRDEN0xSgiP8C7K2B/MPj mvoCjTZBzYgB7GgfqiNpAtwllMngxhOIGr9ISqJ7w0X3Qej6Toco/r7y VuGCbWtWu3jDQshhEBgZaaOKg++G+NUIwyuAA3Q8cT6yCVOwe1kFHDzg FtOXeA==
+fj.			86400	IN	TXT	"Generation Time: 1739869267"
 fj.			3600	IN	RRSIG	DNSKEY 8 1 3600 20250327033720 20250214230137 49279 fj. Ehlvz9nAZWM9kfFxa2pbDl86GAp9U+eQxidiBkYnG5iIo538qzzIX28e dT6SKnn92/QJaheoc58JxdwP1+eoS0gSXAAsyiIeIcUq97oyRH0Kieqb pPoBTeg7mdrw5Cp+9P7QoFX4H9e0c9N6nen4anHxsLtnryzAy0qA+1HB v15UIQJbhd49i12KTjFvLZ7js/+TAIQ0KjfbzwV/Bmk4PPcnk4MMO3Wm Xeii0O6fYr5wy6gdLC5BTTPCYy37TWfADqJN6+ckeXia8ee0rhwx6MAn ErZSYVMR1x6axVuLYbgm0drGi+0y+6X9YvvlELpEDeozycoNGdRiang1 eFsmTA==
 fj.			3600	IN	DNSKEY	256 3 8 AwEAAalRo5RAOHNHqgVgDeWQDLhpMR8ka34T/jXrZxDe6E/4aOnjDWlh e3wmwH7S0be3/mlLGah2j6dGfWvMzFx5damGYC32dzvp5vIOnOMpocVK WWbQCWwvWv+6/wh8bc9Riy0P6PueptxJ3yZlam5cHzREsmGIb/Pp/Cyc hwoDQOXDD1FHFB8eNjdfLowC4JNLPW0xPwG+PSLM2F0FlSR0hBdHDTMH m8G5bdSwa/NvKju96K5uWpqlocdlHw7IYEt8THKnbVz1wlJ5Ti4+2X3o iQgo89od64Lma28UYCEepQqAT5BRk7qcoxu83lfVI8ya6bSDi5XdFtJJ 9W73RxMDTmM=
 fj.			3600	IN	DNSKEY	257 3 8 AwEAAd5+bZuFhphp9ajeKLHuED5eIa/5iMhjWJB59zlVl+aJItwdmyTX oKxz0MK0+cSinHK2ktA3kNS+yy0JmJ/m7ioKSVo9K9JLpmcq/JGJbnVQ b5f/xGgZ5r0cU6DdcV2ntQyNtzuEnDFXsrAFfR8grDc+H/rliiYXe2ev UM00XQ3YvDkDGdakQ9FcDwjpXEZ0TmI40MId8ha4MWdGo3gZFcqCH5nc iEEQpeq+Gi+eVT48Y9YTtt4CFnrORkGN6k0Ii2bcaLnRUB0qSJFdAnhm 5A7HDOO9xMrXzfBZ40SZmiTrTax8pKUw59ar1UgUF/1bf+fzoZ2QCVqm U+r8YZgc0TE=
-fj.			3600	IN	RRSIG	SOA 8 1 3600 20250330103635 20250217220144 2604 fj. nrG8VpijRaXY3dNmwygrPYdULaApxSJDJhFlTe7/92P4EaMPOSSQ8H+d 07UtuOJfj6DV7bE+V3epFktRpQA0c8jHRLftUNy1kO3xCTYnE+EEu519 WkSUesMht4CyO+S51FsbmuRgKCyRdUuRzDVBbdhESY4BiBJqDcE0hFlg V8nZhySdGpLoXLBa5tA2yNDlLCZGQQzISOctC+jrD6uYaTu4DVipy2FB 6q4SqTYXkBUX2J07kTmCzcnvQrBXA+3wfzExwoQwV25gEsnggQOUrWNF pm3+Q1qESFbKAAHwIX5B7wNT+wE4/ptdSVMHzg37rJENK5H0yWYY4VuG VYh3Fw==
-ac.fj.			86400	IN	RRSIG	TXT 8 2 86400 20250329131410 20250217220144 2604 fj. YAxEQvXaTu+McPhTE/cIPeNMiTB14Q0A987iicfrr1UOvQ/WgR6wXSdz ILyha40edVj+R0vmNoWBLdgxaKpihY0ujPCWxByKkuAIFNKaAANz7bsr Q7QsNP2LHD+coxBGFB0VGHN4vyNlPR9qOciisAIzi7w2qNmMQWENgFZN 5EQZcUuhQYNKwXJFwNWRPEKYYc/otu5IyArITpduqT+7coRpZR8y9yE3 nfeE+jVk9sdycGBRwIcahCP8gBAWWAkQJs/SPbIC1lcUrCiOy1c/eoan 9NColFNDm/n2+mfcYMAcR0rIDNYKWT7D0Xq6LPO7w73FfgkgvApMn4Ew r7luRw==
-ac.fj.			86400	IN	TXT	"Generation Time: 1739833272"
+fj.			3600	IN	RRSIG	SOA 8 1 3600 20250330074531 20250218080135 2604 fj. VwtZzRfJfXHUTYrkq1hWnfWCcgtXGiw3EAhSXVZ7C2csx5HuGwCrVQaf xzwjHPurTpzjfKYp+yL55zLJKwnSIcunnEx1sBRR7NH6SSLcxuOirWjV VSDX32NidiXPEAeA9Qn7YL1NpD+b5jGVCH9W6HCuT2JSX2nfZjH1F/9W 22NWfHnC+CK7ASbtQ3qKcHyyOKoJStpR4yhmlQpopLhx3mZJnaaz31/5 RIBV1daMFLsWucoBYWX6yOgxdhRnHfo/kw9nBQPlRcUo+3mAU5AhgbnJ wRROIHrybDU5barNyyLk0/R0dGFQJWnZRgb2TqdxHdg4OYRDlGyUrTfp IrAXHQ==
+ac.fj.			86400	IN	RRSIG	TXT 8 2 86400 20250330180757 20250218080135 2604 fj. WK+OP5gvEDeY+Vkv6adfqBNzr9Xx+8C2mVD9k/Ss/G0Jyn8jYj4tfU7t guVxs3E542CxDavefb6xnG1W5c0qbJolsWAlI5NotnUUicrXLvTGT0Nm vvac/pJ/CXpY63A7V3bNBHzrct5aNgmdTeiBTJsv86CgS3dFo5T1CFOe sng1Lp7cqzT0xdHKjbvzI87HCCkwlMWmps2ekDcMI5F3yogLr28BnMjc 4yDrnySPgchhfyB4z5ddQoxaNNX8lzS4ywhTdSKfoc5WRo7SdIU4Ekqp MJN8tGxOSl/fVFkAfMSHKj9BRT57My+kw0d+RQW66Y6hzylyUS09ISPJ LuCy1A==
+ac.fj.			86400	IN	TXT	"Generation Time: 1739869267"
 adpatelcollege.ac.fj.	86400	IN	NS	aron.ns.cloudflare.com.
 adpatelcollege.ac.fj.	86400	IN	NS	chase.ns.cloudflare.com.
 aresmgmtasia.ac.fj.	86400	IN	NS	ns1.101domain.com.
@@ -116,8 +116,8 @@ votualevucollege.ac.fj.	86400	IN	NS	ivan.ns.cloudflare.com.
 votualevucollege.ac.fj.	86400	IN	NS	aryanna.ns.cloudflare.com.
 whi.ac.fj.		86400	IN	NS	drua.tfl.com.fj.
 whi.ac.fj.		86400	IN	NS	tabua.tfl.com.fj.
-biz.fj.			86400	IN	RRSIG	TXT 8 2 86400 20250330002637 20250217220144 2604 fj. VQ+xh93s1w3a733WQXbHCXHC+nP9f4pi+2LKDc5EyB85cyav0rxYHXAv QFYdX+qNGyiYSxSMtpGP30bmGAs5JpMBLLPrnQQoj3Cmy4pA6pPKvaiX IF3GJFP0sy1u9PaLoO7NLlcDZTmVGeOSHH4FNb+XgLFo78ChK/rBSbKO rJfvNpCBxx0/8K6m9+qmRDnlzW530J5gEfDvDr1Nocz9ovMV/am+oShB og6nuN9TWp38Yw2aWT2BQVOqDo29n52pUEK9m1J6920RAw7I8Xcoqrw5 vH5rVe6oZ1W6RwOM8Yx4aC0hq9kaQFnqljBqGlj+C/KCkWoIbZ5Yu2gs /Ts9NA==
-biz.fj.			86400	IN	TXT	"Generation Time: 1739833272"
+biz.fj.			86400	IN	RRSIG	TXT 8 2 86400 20250330202923 20250218080135 2604 fj. VPs3dKqdlhJdMj+UvJcJ400ZcmlHJYZIYSYyBnGj6EHO1/VxyJzeYk0c xBrq8lRLZK55y/8I/v+LbVSXPAi7bTaMuIf27Op9XAScYeb+ZfMKrpDo OSdVfxoWiyfcBP0kzJz/up2pIsErC9GSgXrZ1ZJpNUJEwfROS6JNDiEX Tbdc4a/P0PrFMC8psdEme4pv2+mR+E4Gl+qU05xSdi1qiu+0019R45Ft pDjj70oUvuFai0WApuFrZhFTpc8R9l34SI7HVcUodYl0QrT562Fa4q4U 2lCy2KPjMWtgoU0tQX1DYRlB8b2tZopEY3OLetHjvaAHRCebXH8Qmyqb ZRG2dg==
+biz.fj.			86400	IN	TXT	"Generation Time: 1739869267"
 altria.biz.fj.		86400	IN	NS	dns1.cscdns.net.
 altria.biz.fj.		86400	IN	NS	dns2.cscdns.net.
 brother.biz.fj.		86400	IN	NS	ns1.ipmirror.com.
@@ -149,8 +149,8 @@ vodafone.biz.fj.	86400	IN	NS	ns1.vodafone.net.fj.
 vodafone.biz.fj.	86400	IN	NS	ns2.vodafone.net.fj.
 vodaphone.biz.fj.	86400	IN	NS	ns1.vodafone.net.fj.
 vodaphone.biz.fj.	86400	IN	NS	ns2.vodafone.net.fj.
-com.fj.			86400	IN	RRSIG	TXT 8 2 86400 20250329230753 20250217220144 2604 fj. YPVlISd0wEOQQW1oh05Y0d0shOK8CnRKrR9ro9Y+Oz6QsjIi+lu6/zKl EZRKf5qMMPoeMXiChhHXDQQKBt4F1VKlAeK36wm7aAACrMVKZom0Zi57 P72Oj6I2D8CR0dn33d+yWyg1jhMOHGwSoNSCeKPRqNTOgE1GA58/p+ig VSeE2UT1xUR0SRykjw8DNOJ2Q0s9tlH/Tn9Y+NsOtNNCy87j0+xVfyM0 36MnZPfr0z1iWVjktYlVEeQRexAEOsheTvlhrldRt7QIWOZx8CU+Lzws 1fo41GINfzGSPVBHhIQ9W9EF0z0vlmq8y7TtH/xRMgLY2S3POpqBMb52 qYEV5Q==
-com.fj.			86400	IN	TXT	"Generation Time: 1739833300"
+com.fj.			86400	IN	RRSIG	TXT 8 2 86400 20250329211449 20250218080135 2604 fj. AI6kyZA93pwiMPRUZPqBKSIG/t4M1zkI9cVJIGWNNgjZmd+idaO4nfzl nd6s4kUUWssmrNzW2tZL1NS4VM8Z2QShuRDkWNlOlLQEi4ucakiXmHH+ Y9/X29AYMirEoZdVfdQd79U/j8yQKTmGP/Vzs4rlbQcVdSBB/93Qjo5p 2FSqv5CdQJ2CnTtSGyVW2iKJ/evKYV55x7y0MRHWBRYlyLu905B05FWr x7ZPLC6rBtPf2YclMRwlInHqA6IEvSQ6jD0xjYVgG/EnxVJ7fN9RKzYz xHjNdyvFRIVqdk21/kicQ9yTJIzVlJ+SeCs1EW0U6ZsVn/fYUWF/w6od yxVb4A==
+com.fj.			86400	IN	TXT	"Generation Time: 1739869292"
 101domain.com.fj.	86400	IN	NS	ns1.101domain.com.
 101domain.com.fj.	86400	IN	NS	ns2.101domain.com.
 101domains.com.fj.	86400	IN	NS	houston.ns.cloudflare.com.
@@ -2496,7 +2496,6 @@ gorentacar.com.fj.	86400	IN	NS	ns2.bluehost.com.
 gosais.com.fj.		86400	IN	NS	ns47.domaincontrol.com.
 gosais.com.fj.		86400	IN	NS	ns48.domaincontrol.com.
 gosg.com.fj.		86400	IN	NS	ns101.cloudns.net.
-gosg.com.fj.		86400	IN	NS	ns102.cloudns.net.
 gosg.com.fj.		86400	IN	NS	ns103.cloudns.net.
 gosg.com.fj.		86400	IN	NS	ns104.cloudns.net.
 gosh.com.fj.		86400	IN	NS	manu.usp.ac.fj.
@@ -3404,10 +3403,10 @@ luxuryportfolio.com.fj.	86400	IN	NS	ns1.netnames.net.
 luxuryportfolio.com.fj.	86400	IN	NS	ns2.netnames.net.
 lyndhurst.com.fj.	86400	IN	NS	ns09.domaincontrol.com.
 lyndhurst.com.fj.	86400	IN	NS	ns10.domaincontrol.com.
-lysaght.com.fj.		86400	IN	NS	ns-231.awsdns-28.com.
-lysaght.com.fj.		86400	IN	NS	ns-642.awsdns-16.net.
-lysaght.com.fj.		86400	IN	NS	ns-1462.awsdns-54.org.
-lysaght.com.fj.		86400	IN	NS	ns-1780.awsdns-30.co.uk.
+lysaght.com.fj.		86400	IN	NS	ns-1172.awsdns-18.org.
+lysaght.com.fj.		86400	IN	NS	ns-1737.awsdns-25.co.uk.
+lysaght.com.fj.		86400	IN	NS	ns-553.awsdns-05.net.
+lysaght.com.fj.		86400	IN	NS	ns-59.awsdns-07.com.
 macquarie.com.fj.	86400	IN	NS	drua.tfl.com.fj.
 macquarie.com.fj.	86400	IN	NS	tabua.tfl.com.fj.
 mactanks.com.fj.	86400	IN	NS	ns1.dns-parking.com.
@@ -3543,6 +3542,7 @@ mccain.com.fj.		86400	IN	NS	ns1.netnames.net.
 mccain.com.fj.		86400	IN	NS	ns2.netnames.net.
 mcdonalds.com.fj.	86400	IN	NS	ns11.cloudns.net.
 mcdonalds.com.fj.	86400	IN	NS	ns12.cloudns.net.
+mcdonalds.com.fj.	86400	IN	NS	ns14.cloudns.net.
 meanproducts.com.fj.	86400	IN	NS	ns1.wordpress.com.
 meanproducts.com.fj.	86400	IN	NS	ns2.wordpress.com.
 meanproducts.com.fj.	86400	IN	NS	ns3.wordpress.com.
@@ -4128,6 +4128,7 @@ oriflame.com.fj.	86400	IN	NS	ns3-01.azure-dns.org.
 oriflame.com.fj.	86400	IN	NS	ns4-01.azure-dns.info.
 orion.com.fj.		86400	IN	NS	ns11.cloudns.net.
 orion.com.fj.		86400	IN	NS	ns12.cloudns.net.
+orion.com.fj.		86400	IN	NS	ns13.cloudns.net.
 orix.com.fj.		86400	IN	NS	drua.tfl.com.fj.
 orix.com.fj.		86400	IN	NS	tabua.tfl.com.fj.
 osc.com.fj.		86400	IN	NS	ns40.wpxhosting.com.
@@ -6254,8 +6255,8 @@ gransy-anycast1.fj.	86400	IN	RRSIG	A 8 2 86400 20250326120149 20250214225345 260
 gransy-anycast1.fj.	86400	IN	A	185.28.194.194
 gransy-anycast2.fj.	86400	IN	RRSIG	A 8 2 86400 20250327071025 20250214225345 2604 fj. DtPgJQ9hIMYHRmMDENe4jJ7cZeYNfZtpudqmbIUzFCR8H4TQhkjtzorV glzPqGF85D+N3j2aZlAl31++RxR2tu5buPjX8YNg11ZmJqvB6XwuCS/p y9MVm2HRGUEGGC1dLV7w7KbRUdIa2ymFmZniM2TsVYh/1Z+FT7QmeInb 0PyW4diWmxe3B490BRnFop52LCA37yHZJO8JhRg7pe2lpVEkbW9kAaqv ysVQr502Ob+G1tcDnA2gCe9KMUqN/q3SPgs7iXS+1+bE3XSNYSdZ8qKI CHHEmyJeUqbm9T7JWPjRkx9QCexroFov19oj3AU0MmUPg/p8gNX+wvtJ JNi3xw==
 gransy-anycast2.fj.	86400	IN	A	185.38.108.108
-info.fj.		86400	IN	RRSIG	TXT 8 2 86400 20250330094127 20250217220144 2604 fj. eCawsxG392zMLlqCXKiKpjeffU6OuVACqczJX1qXaZZeSgLDgxwmiN9A W18QWC0yOrmc4MjJ0RxNUQAPDDOJzq+yRIY1XE2K8BANBfl0+LjuXVv+ 3byc6VvCwl/QvD/NdgZAprZP4UpOzeet620y6vSsxKVC29pNOi5583Z/ KjavCqbXno31QNpXbmtXOVv5N1xL8sOgY69Xs4Kga8WXMnIPe8mnV+kr DDYpB6+ro6LRUS4SbqiOKL3wO6dwoy1QbjFTAMuHQpv+Vojc2jxlBusU nt5Yj6Tz7qHjjZvZUzlTJ8Xm9U3GnOLVGRjAfrG+O0oddxL21KZrUsRH pi7nKg==
-info.fj.		86400	IN	TXT	"Generation Time: 1739833303"
+info.fj.		86400	IN	RRSIG	TXT 8 2 86400 20250330092422 20250218080135 2604 fj. K5N+VGyt+zyU85//R8E0P3G+7F+3GvE7SF6IGNQKZ1THNq2TZyjZrTfg s6whqMxLMkiLsYgN3kSaRTWuNFc+2uT9Dy2DrnGp8/aWY+CAHzTqlyKX cUmciYc22oBdF4ssDhGYuhSVz2M8pfrBSVD86cKuSdl6al6BMX37F7cw eMwMJ9+qKO9KInygMJx7Fr60SKa07haSCsIXkrDgkad8kBHfBw+rFMFt ImHiIEQ0cL4qL5b3mKqMbCc5JfcQvVfSiqRI40nXyoJI4rTcrLsHNQmv 1M/5w8hR584T0jcs6K3dIex/Z5ocSFTX+6H13nnEMGXe9dMCHru9l6FX lBJZmw==
+info.fj.		86400	IN	TXT	"Generation Time: 1739869294"
 altria.info.fj.		86400	IN	NS	dns1.cscdns.net.
 altria.info.fj.		86400	IN	NS	dns2.cscdns.net.
 brother.info.fj.	86400	IN	NS	ns1.ipmirror.com.
@@ -6293,8 +6294,8 @@ master.fj.		86400	IN	RRSIG	A 8 2 86400 20250326232904 20250214225345 2604 fj. fo
 master.fj.		86400	IN	A	144.120.141.11
 www.master.fj.		86400	IN	RRSIG	A 8 3 86400 20250327022007 20250214225345 2604 fj. dQenwLHaswvmoGwEiaYwYK3nrMGkEVXPYcRUw3uVUwPdXvnK+UnAq3HA xzlocnpSmG2m8RWwJbiFLFpP5Rvqn4QXYqyGe9d2pjcdhP8s6lidXyxr cpik8+5z5lSoHYuczqvpysj1dBq8gkTBeb/Yv+AxK/TfRT0VhYKfUHkf /GnmnqsX+FhkR17R6UZiFqiH1Tyd6ptSjVuaAJblIsSLkkBcH+Iiw0T9 eJHzG3j/y6EFjozon14sAWyNWCbdZs6TPxtf2yZqWIAp9muuXoP+S3Kj 0E/mH8El7940HuMShPP1ZReBVKoEVT55ZkKitBvbNxwl6taibASebh0x 6y8y4g==
 www.master.fj.		86400	IN	A	144.120.141.11
-mil.fj.			86400	IN	RRSIG	TXT 8 2 86400 20250329122650 20250217220144 2604 fj. NSx0Auf7KfqkqaV+vQfexLaK76GN/xgEKF+hcqFihDt6BdcbBrcBfwbJ h9Xmh0MsDQWuXiv51CtIB6IhCaDZSBFAh0G/YVSmHOaP58cl3gHxPL2c Pm38qiJS+51BBLxGFcZHN3UfF2ZPVYbIy56WI1xV9UTIF2GulmeqtGrR 0ioGj8lfACduTfK4uaU5QoxF4/pHzaklL5UHaM0ynuUIouZR2l4swpqc /Zak7mbsodSKgZ66xaEyEurkWh2s6NTuW4Oa3EVP8Lup68Qbb+E9hPT5 nXXW+YvmVEImSV5tS2C7UI/4PiVs0jmLXj1ow1H66kPLLgALLzCp7mhG yOUxKA==
-mil.fj.			86400	IN	TXT	"Generation Time: 1739833300"
+mil.fj.			86400	IN	RRSIG	TXT 8 2 86400 20250330103633 20250218080135 2604 fj. Gkxoty0wrfH+R6h83AwFnENMRckazqCzYbEQCIDsMJxNFz1nbtWciN+k y1spyuKpFSVdkw+rNxARrn1euWWnJuUx6XazG5iM2gzhp0z6JnfKwcUL UI/c1OaU8Es0oj1RSlpntt+YZEJYwZ5wZHIpZsxLOeIKLRwCuKFvweOL kYriFfmabNZ9Lsvm93P+sroLdG8URX8MxIkH/1B0FEWAWYNhHHDEUI5Z cqIVhoVX89GrYZv3AZLkYyIyG06PFqAe61u6NDDdM6qyJxCizI02qji7 3MfQ3q6W9RYI1ak5zk6KSDQRxYyqgJ+9gW2adB0OrpU8iXFTR0tcQTZz 4/R3pQ==
+mil.fj.			86400	IN	TXT	"Generation Time: 1739869292"
 fijinavy.mil.fj.	86400	IN	NS	caching01.usp.ac.fj.
 fijinavy.mil.fj.	86400	IN	NS	caching02.usp.ac.fj.
 navneet.mil.fj.		86400	IN	NS	ns1.usp.ac.fj.
@@ -6309,8 +6310,8 @@ rfmfdefense.mil.fj.	86400	IN	NS	ns11.dnsmadeeasy.com.
 rfmfdefense.mil.fj.	86400	IN	NS	ns12.dnsmadeeasy.com.
 rfmfdefense.mil.fj.	86400	IN	NS	ns13.dnsmadeeasy.com.
 rfmfdefense.mil.fj.	86400	IN	NS	ns14.dnsmadeeasy.com.
-name.fj.		86400	IN	RRSIG	TXT 8 2 86400 20250330024106 20250217220144 2604 fj. XSB+yYUSHp25+akBdqGykZENdN0nEWoXxSAEYK2cJQNqmh12KsY6PYJy XVWXNo4DYhh3/c6nprcc6zcFLyM8F3sH0MjUM0cref3C00NeUUaT3xV5 dLG1w7ur/BjKs1tNRSQCizHOGeUoPDYjXFPBnNmTJIg0aCro013gtADa ZowRSvarIZCULk7h9xCYISaKiJtuZsTVxGK2TrU4Ns1AMP94dhzySTCd Rtarhu+2dpMNhbiNB/5BbXxNa/EKLrDrUaOS77fXU2Il0N2ZTMqXylk9 4rMkpFH4RBYh1ZCZOPRqhsyKwceuYLBIIwmMYc1drlxzGYoflrfQtAJQ p8N5tA==
-name.fj.		86400	IN	TXT	"Generation Time: 1739833303"
+name.fj.		86400	IN	RRSIG	TXT 8 2 86400 20250330031415 20250218080135 2604 fj. NZGv8NqyDBN/X4s4xGhq2cmyeOjlFKMt7GsENddSxhRGXooeB3G3Pq18 JAScob1wy5IORuYV2v6kk2vELu94N66o68Sef7LcT8kHpinc6Div9NCH 26CDDOyerdEmhfMQO5c31yY0B633Zh1eR1cPYHDnGLWWaO3M6A0AA5Tq 2bwWUyeeHhHlu8h0US5JTul7q0WkVbyzKFnMkTkwhHj02Znio2AYPNy/ 6qZccFoILhfdPKBKLU+NWm+IDUr1lGZLGFygwFmo3ow7eIGXSWHdFJ1H j7M9MBIWvK+o8i2jUI2HQIbl6Uv4Ah4geOLsjhhs8X1NH87/V8oZshc8 tDK31Q==
+name.fj.		86400	IN	TXT	"Generation Time: 1739869294"
 altria.name.fj.		86400	IN	NS	dns1.cscdns.net.
 altria.name.fj.		86400	IN	NS	dns2.cscdns.net.
 brother.name.fj.	86400	IN	NS	ns1.ipmirror.com.
@@ -6338,8 +6339,8 @@ vodafone.name.fj.	86400	IN	NS	ns1.vodafone.net.fj.
 vodafone.name.fj.	86400	IN	NS	ns2.vodafone.net.fj.
 vodaphone.name.fj.	86400	IN	NS	ns1.vodafone.net.fj.
 vodaphone.name.fj.	86400	IN	NS	ns2.vodafone.net.fj.
-net.fj.			86400	IN	RRSIG	TXT 8 2 86400 20250330072634 20250217220144 2604 fj. EvA8AbY57xUGTIj6rIy/RMfVm22VE8vqlRC0/MSOhhSVqo49Mnurkgu7 nhm4GosavAX2WpSWEwypa7tcOguZxT7IKwkmyoYwO/VGaoCc78HHeKD8 w+/K4ZkL7Sgj2x/qRju8LkOxLpn80DDVRkqee23VnSuBhrA6lDgkQ4kP ju5NnaLQ9681TdzHyDalV8MUQJ7ZsJv3aMxC78tfry5npsefyDnn9nZN SY98TjVe9AjYaP36pZQy0AxmZ+DpFNgkIq4v61ND2sOPdcILA0CcGmlx y9/19MBZKqsvCWMlybfGqslzy6Q/1/bJ9sK/CaB5lpQs+0csad1WIxaZ ANIEWw==
-net.fj.			86400	IN	TXT	"Generation Time: 1739833300"
+net.fj.			86400	IN	RRSIG	TXT 8 2 86400 20250329223751 20250218080135 2604 fj. L7jVC1Z5u6bhlOSjLLihRVkE8oeMTW+gA+H9MqKa9VY3yCwKh8t79Xtf 96CvZwdgHA8hDDod8EzDmKqVtLSiUqQzXDvIFwCOd/+eCj8Jr3lSDZri O5/Yjm5YLbjUtZIu5JqCZWtlBjC6ULlgqkMfLi06kbYrr/AQdkMR2zb4 B+Lp2mEqeZIH887/A8y1xJu5udFfFf/iKyyGpAF3/xwD6vXIrltR3Y8A VFN2R8W6+ejCboGTn9C9rlDBWEQIhL/wyx+738AC0d74MUy16KKNu4OV rs2e4kQKoV38Kv7bSfJnFrjOH2g8ySuG09q16jZ9HW+5Epz3a2tBost0 BKIJ9w==
+net.fj.			86400	IN	TXT	"Generation Time: 1739869292"
 3m.net.fj.		86400	IN	NS	a.ns.3m.com.
 3m.net.fj.		86400	IN	NS	b.ns.3m.com.
 aa.net.fj.		86400	IN	NS	dns1.cscdns.net.
@@ -6509,8 +6510,8 @@ ns5.fj.			86400	IN	RRSIG	AAAA 8 2 86400 20250326222311 20250214225345 2604 fj. E
 ns5.fj.			86400	IN	AAAA	2001:500:14:6138:ad::1
 ns5.fj.			86400	IN	RRSIG	A 8 2 86400 20250327025157 20250214225345 2604 fj. C35kjKG/kuXMorYXt5xtzqi6HpHoiOlY05/hJJvdgCvi6YGWoV39qPHE NnnRSIfpfAlgsXUc/KBkz7y6RfB0nJHxF3i9ymMTOXWNJ46V1vT1ToyV hpV2hK9Hl+BtynC3oP0U5OgDf+MZxfzgnc6Og0zf+8fmt3JmKiteNAip BOC+mx6mfORXr3JDRD7ABDT4d7SbBGcOuhv9PGwvXQxC28erwK9uk991 d5YfFiyGpvUClgLmBf1evSJoFyDPteh3xMsmTP9QOXFI6iXAH/5nHwbI YC2xuBLPOrlgy2MCJ6+U7muMW7Lw4sWqg9RcuXTecHsapQuNWbre6Ig7 CH0Bjg==
 ns5.fj.			86400	IN	A	204.61.216.138
-org.fj.			86400	IN	RRSIG	TXT 8 2 86400 20250329174443 20250217220144 2604 fj. PnMrjdFtiIcP4MZHuh/DOHdAAmkmzc7KyJDPZeo8yiU8sOXN4odyYVVK redtFojDT4b+eQ+kI/5+APKswOkSFoL/YyVEVOGuumeay0ljfV898Seb BkrZZrm3yew99LcQLLljf7hQP6GbZJgw971+kftnyMxiO9oZmwlArwE5 Fx0R6gMj45Jq+N5LuO6uVfy5Je6Ecb+lSMRRswV84zhMxMU8p3qMVf8I fwScxY3KYsGnvfXfRdBXyi+CAm0UGcWeQf2zOEi3mGCV9dRHSX/qUzMo iVuWTHv1HRW/vR6IB3CcsKxz6yEdTFwutjOHJFsnKHF+2NCPTG3l/rz6 ahYYDw==
-org.fj.			86400	IN	TXT	"Generation Time: 1739833302"
+org.fj.			86400	IN	RRSIG	TXT 8 2 86400 20250330153453 20250218080135 2604 fj. fOq+lBKkaxOCQeXpzWw2X3cfeI65M9thxBCUH3x5hMqFGv4fpY9fNb/S OH0iJQETeBQBj5LC3We2155PrhhW1FR7ggPJX4oTUlm3meIplphwzcMM EkpAinAC2cdk89PaXj1GUjsEiEIY/ehbwv8xlVVJCq+OQ4d++NXRox/u 4D+4Lb91fGVfpOCgUkPgquE9Ye3GHq+XjKzxY4wwuiTQh/Qr9tP6cZ3B wN+rQO7jt7ITicqrffHEcHm5+5mDk5BCd+T7pea8D7/PAYTgzdyUvZGu 9ydHYaLGjh2DlPAw2maKJjjHLL3orZUgwItP/6Qn0eSQI/1Pth5wgzLX XRlhsg==
+org.fj.			86400	IN	TXT	"Generation Time: 1739869294"
 10000toes.org.fj.	86400	IN	NS	lucy.ns.cloudflare.com.
 10000toes.org.fj.	86400	IN	NS	carlos.ns.cloudflare.com.
 3m.org.fj.		86400	IN	NS	a.ns.3m.com.
@@ -6890,8 +6891,8 @@ womensfund.org.fj.	86400	IN	NS	ns3-06.azure-dns.org.
 womensfund.org.fj.	86400	IN	NS	ns4-06.azure-dns.info.
 youthcamp.org.fj.	86400	IN	NS	ns1.justhost.com.
 youthcamp.org.fj.	86400	IN	NS	ns2.justhost.com.
-pro.fj.			86400	IN	RRSIG	TXT 8 2 86400 20250330013804 20250217220144 2604 fj. gmFE1dv8BfJHf6eH/7rIpgpB/7THmqQcqCt3uu3gHNn7LGom5heH8sQi v1LNKIuXr3m9CG8GM8jl7H/uI/YXgD+/E3NANrZThvEU4RFQcFIVywBd b5fJ6PxAYdO+7+eYmI2RkLj5/JgLgnX6712u4kersggQ+nyht4BqjTwG 7kSJnTYM6tMTziKFfaT8ytCEoXcUDCXnQxrwValF/QB12NGidDlOlGpq 6NU9WXJciKDsopEPhs6nW0xsP0yRxFXXc7lWs9WJNPAXi353C8dnJi+D Rqo4WUbf+1q/dCdiY5Kcvyqa3nvJPUofjk65zS+gNZGo0O14HiEgVPrg yt92Zw==
-pro.fj.			86400	IN	TXT	"Generation Time: 1739833302"
+pro.fj.			86400	IN	RRSIG	TXT 8 2 86400 20250330130801 20250218080135 2604 fj. a3rW8NbaFG8cQEV6bM91C+ectZSmu7icoOyCJ6YQU5uznQf3oVH+7VeH joGzGivaWGZ1H/QIm37auLLO6Hobh5HPEGZKXu1+JKEDDOdlv3sIiwrW RzPD+N8Uxpbd0eF/PAPrZo504Y1X/sylxvNapuxESLw6s/jKZlUdzF/6 euCzkpLSAUSctr3b2xbAC3euXDHpNWNCev6TPxL5mCwD+8hvCGGzlz17 +InAMRZJINjql5Js3xPwVNNAw9ZmuNujDcwP6A5bmCxfuSdhKoRuN7KW CWaltHwLZWIVrlt7LfPcOq9j2vbxpj14jBRVdgdXJ3SK1k0w+Bv98AA7 4L2JDA==
+pro.fj.			86400	IN	TXT	"Generation Time: 1739869294"
 altria.pro.fj.		86400	IN	NS	dns1.cscdns.net.
 altria.pro.fj.		86400	IN	NS	dns2.cscdns.net.
 brother.pro.fj.		86400	IN	NS	ns1.ipmirror.com.
@@ -12683,4 +12684,4 @@ vvijvi350phielnael9j924f1hovpdvc.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 VVNOA3
 vvijvi350phielnael9j924f1hovpdvc.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250327002100 20250214225345 2604 fj. YEkXJx13C9GKrn9IfosDY7shWLH0YxsWcC2bZSrK2d9nF7Ld3PduJr8A iWLgToD+NtQHAZFcQ3xxBj8bolOkACYyU5SwU8PZHeqUjkgy10FjDwo0 6toPy/Lxkg6VRxvbh+Fn6JmDU9qhmucJw/b8HdIHf/2eskFWvuFbA5Fd TlFyfzMrQ6ZB/SUCrFnWw88K0LRQAZvFnkFmKO9uOONz9kZMDrd2qyCN gnI2WW+kz96d1qEFjYZRqZm7+bJUb5QY2WYzAulSiGl8/8v/V+OG1pFV Y3D2BvFPxwSRbymWHLHkSE+TUPTIXAAtmtJptXkRXjMm8SMDJCOecCCW +jBVOA==
 vvnoa3ht3k1598bgl9oaspj7l1kpohal.fj. 3600 IN NSEC3 1 0 5 0E12C2BDFDFA4F06 0050LD0MKUEDH9M224UADR401VE72TPF NS
 vvnoa3ht3k1598bgl9oaspj7l1kpohal.fj. 3600 IN RRSIG NSEC3 8 2 3600 20250326175540 20250214225345 2604 fj. d8pD2RP9OzX/QWRi/a4VuSefhiLe2MHR5Ha8LykGblNIpOgPYYhq6mY8 4t4CX7zLMIubrso06oNHqCg8y56MhogPDV9y7iEdw+m6RhMlOpHWppI6 Y++BnxjKw7/LHnvqpoGk9fRwATGValTAAaTJXLbL0VRPjBPdIPJaTKuD esQ3Y2SVkl+ZG6GDYQuJ1NmI1cQP/7mJhmTQEm+2lzkFFyJnswenhFFO TO2ZxrUd6CqSkNAn7BKZ72z/UjhMe81tovBwmrlRf2B+qxPi1IP/1u1y DgsaX/CrmE8a0zIZso8hjxv7s8y8LU7x6EzlW7MktysH1QKTTpsBVQ1e BLCnuw==
-fj.			3600	IN	SOA	ns1.fj. domreg.usp.ac.fj. 2025021812 21600 3600 1209600 3600
+fj.			3600	IN	SOA	ns1.fj. domreg.usp.ac.fj. 2025021822 21600 3600 1209600 3600
