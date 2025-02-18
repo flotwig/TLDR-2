@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159349 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. Kx695saK8nfofk2MHw09VpBq+bMUz1KcVWZZNL36lVpqec3eyws7G1lK zHJIxo2p0HbxYLHPD6AH31WXBlSeyttj0WrEX+leqGVYgP6g8xgsnL7d Wd8SNn/6fnA/uy84Bs/ucVJ84DFwxhY80UuNpqlqVyT4TphL0nDaRjbQ lJ437zPfuSeHInPR8bOPLHAvfywKb6d2WuMuPAEinSJtCMTyd0MqtutK 1XIDBKkyuApT+FTPta7ZFkd6UuSlFpAmwD5gZOd0oMRbn6+SIy0bZevs 2s0DlmUkxqIh6k7TZo6iebnGyEJo2q22Mg/mzOvhVM2Fy+thpwMKMD6y bNAEAg==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159368 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. Ot+NKrhF4Dk4xFd9LeFRnEC9BdJUYonpCuU4l8N3/8TD0yRTCyAbOPUP JzFjz64irBmW3cALzKKD3BEUuXrAJ1Bgcne8c9JaxM+DIXwI77+FOU0z SbAH0Pn62wcCTfju48g4LCufcD0n59+186AoF+FzGsO9DIFqr/KTLmzR CmIBHCsImIMNY1DOAVfuWyeh9K9b58uetsXYQUktd1RlLbK8hnPTEke+ z8iP+NJDEqozOgJAWkrlmfgtKXHl41a/qPCO1y0xBAGwIxYDyJZ23AUe z9AL/6dbE6XApMCc03IRzBpHHZzv60ILuL0nCDqID1+x2lNc2RwBHI5k ftH+aw==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -3502,6 +3502,9 @@ campkangiusaq.gl.	3600	IN	NS	ns2.scannet2.dk.
 campuskujalleq.gl.	3600	IN	NS	ns1.modulo.gl.
 campuskujalleq.gl.	3600	IN	NS	ns2.modulo.gl.
 campuskujalleq.gl.	3600	IN	NS	ns3.modulo.gl.
+can.gl.			3600	IN	NS	1-you.njalla.no.
+can.gl.			3600	IN	NS	2-can.njalla.in.
+can.gl.			3600	IN	NS	3-get.njalla.fo.
 canada-goose.gl.	3600	IN	NS	ns1.101domain.com.
 canada-goose.gl.	3600	IN	NS	ns2.101domain.com.
 canada-goose.gl.	3600	IN	NS	ns5.101domain.com.
@@ -11285,10 +11288,9 @@ lhb.gl.			3600	IN	NS	ns4.sedgwick.com.
 lhbyg.gl.		3600	IN	NS	ns1.azehosting.net.
 lhbyg.gl.		3600	IN	NS	ns2.azehosting.net.
 lhbyg.gl.		3600	IN	NS	ns3.azehosting.net.
-lhg.gl.			3600	IN	NS	ns1.aputit.gl.
-lhg.gl.			3600	IN	NS	ns2.aputit.gl.
-lhg.gl.			3600	IN	NS	ns3.aputit.gl.
-lhg.gl.			3600	IN	NS	ns4.aputit.gl.
+lhg.gl.			3600	IN	NS	ns1.modulo.gl.
+lhg.gl.			3600	IN	NS	ns2.modulo.gl.
+lhg.gl.			3600	IN	NS	ns3.modulo.gl.
 lhs.gl.			3600	IN	NS	ns1.sedgwick.com.
 lhs.gl.			3600	IN	NS	ns2.sedgwick.com.
 lhs.gl.			3600	IN	NS	ns3.sedgwick.com.
@@ -11353,14 +11355,12 @@ lindholm.gl.		3600	IN	NS	c.hosting.gl.
 lindholm.gl.		3600	IN	NS	d.hosting.gl.
 lindorff.gl.		3600	IN	NS	a.portsdns.se.
 lindorff.gl.		3600	IN	NS	b.portsdns.net.
-lingshunting.gl.	3600	IN	NS	ns1.aputit.gl.
-lingshunting.gl.	3600	IN	NS	ns2.aputit.gl.
-lingshunting.gl.	3600	IN	NS	ns3.aputit.gl.
-lingshunting.gl.	3600	IN	NS	ns4.aputit.gl.
-lingshuntinggreenland.gl. 3600	IN	NS	ns1.aputit.gl.
-lingshuntinggreenland.gl. 3600	IN	NS	ns2.aputit.gl.
-lingshuntinggreenland.gl. 3600	IN	NS	ns3.aputit.gl.
-lingshuntinggreenland.gl. 3600	IN	NS	ns4.aputit.gl.
+lingshunting.gl.	3600	IN	NS	ns1.modulo.gl.
+lingshunting.gl.	3600	IN	NS	ns2.modulo.gl.
+lingshunting.gl.	3600	IN	NS	ns3.modulo.gl.
+lingshuntinggreenland.gl. 3600	IN	NS	ns1.modulo.gl.
+lingshuntinggreenland.gl. 3600	IN	NS	ns2.modulo.gl.
+lingshuntinggreenland.gl. 3600	IN	NS	ns3.modulo.gl.
 link.gl.		3600	IN	NS	ns01.one.com.
 link.gl.		3600	IN	NS	ns02.one.com.
 links.gl.		3600	IN	NS	ns-71-b.gandi.net.
@@ -11786,8 +11786,6 @@ m3gaweb3.gl.		3600	IN	NS	reese.ns.cloudflare.com.
 m3gaweb3.gl.		3600	IN	NS	adaline.ns.cloudflare.com.
 m3gaweb5.gl.		3600	IN	NS	reese.ns.cloudflare.com.
 m3gaweb5.gl.		3600	IN	NS	adaline.ns.cloudflare.com.
-m3qa.gl.		3600	IN	NS	brady.ns.cloudflare.com.
-m3qa.gl.		3600	IN	NS	christina.ns.cloudflare.com.
 m7ga.gl.		3600	IN	NS	chad.ns.cloudflare.com.
 m7ga.gl.		3600	IN	NS	imani.ns.cloudflare.com.
 ma.gl.			3600	IN	NS	ns1.linode.com.
@@ -17206,6 +17204,8 @@ sanasoqfelix.gl.	3600	IN	NS	a.hosting.gl.
 sanasoqfelix.gl.	3600	IN	NS	b.hosting.gl.
 sanasoqfelix.gl.	3600	IN	NS	c.hosting.gl.
 sanasoqfelix.gl.	3600	IN	NS	d.hosting.gl.
+sanasoqpeter.gl.	3600	IN	NS	ns1.curanet.dk.
+sanasoqpeter.gl.	3600	IN	NS	ns2.curanet.dk.
 sandals.gl.		3600	IN	NS	ns1.sandalsbeta.com.
 sandals.gl.		3600	IN	NS	ns2.sandalsbeta.com.
 sandberg.gl.		3600	IN	NS	sri.ns.cloudflare.com.
@@ -21463,10 +21463,9 @@ ya.gl.			3600	IN	NS	oxygen.ns.hetzner.com.
 ya.gl.			3600	IN	NS	hydrogen.ns.hetzner.com.
 yahoo.gl.		3600	IN	NS	ns1.yahoo.com.
 yahoo.gl.		3600	IN	NS	ns5.yahoo.com.
-yamaha.gl.		3600	IN	NS	ns1.aputit.gl.
-yamaha.gl.		3600	IN	NS	ns2.aputit.gl.
-yamaha.gl.		3600	IN	NS	ns3.aputit.gl.
-yamaha.gl.		3600	IN	NS	ns4.aputit.gl.
+yamaha.gl.		3600	IN	NS	ns1.modulo.gl.
+yamaha.gl.		3600	IN	NS	ns2.modulo.gl.
+yamaha.gl.		3600	IN	NS	ns3.modulo.gl.
 yamaha-motor.gl.	3600	IN	NS	ns-289.awsdns-36.com.
 yamaha-motor.gl.	3600	IN	NS	ns-1021.awsdns-63.net.
 yamaha-motor.gl.	3600	IN	NS	ns-1184.awsdns-20.org.
@@ -21479,10 +21478,9 @@ yamahamotor.gl.		3600	IN	NS	ns-289.awsdns-36.com.
 yamahamotor.gl.		3600	IN	NS	ns-1021.awsdns-63.net.
 yamahamotor.gl.		3600	IN	NS	ns-1184.awsdns-20.org.
 yamahamotor.gl.		3600	IN	NS	ns-1941.awsdns-50.co.uk.
-yamahaparts.gl.		3600	IN	NS	ns1.aputit.gl.
-yamahaparts.gl.		3600	IN	NS	ns2.aputit.gl.
-yamahaparts.gl.		3600	IN	NS	ns3.aputit.gl.
-yamahaparts.gl.		3600	IN	NS	ns4.aputit.gl.
+yamahaparts.gl.		3600	IN	NS	ns1.modulo.gl.
+yamahaparts.gl.		3600	IN	NS	ns2.modulo.gl.
+yamahaparts.gl.		3600	IN	NS	ns3.modulo.gl.
 yamatek.gl.		3600	IN	NS	ns1.bdm.microsoftonline.com.
 yamatek.gl.		3600	IN	NS	ns2.bdm.microsoftonline.com.
 yamatek.gl.		3600	IN	NS	ns3.bdm.microsoftonline.com.
@@ -23097,4 +23095,4 @@ VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. hXmOGA3SSZtCaLNql2ckzbLOkhP28fYqMJDv6SbqC/H0qYamZvq4Zz+w 8Awlyi5Jqih4Lc6IgBC02rxc0a0Oa0qR1vgVghqnS0vIS7TyUsCZZYV1 NywHOkGK5XlSZ2BhdcVEAI4DJ4ye68L6AYSFpAo72sXH4iRDnnW0PcVe 9OCDiwlIdcHIF+A6VwnH9H1k1R2y+Fn3tuCHAeB6L+CYNKWK1CtH6FyJ ABTsAcl8fTMSPCpvqVSb6TFGrtzOwl16XNyAgri27aZBEaH1BHlFghT2 fDwG+2NyfoswaylgHJw916ZJy2cnkVB+Onhnu3lT47V13065SJDdbx3E k+NpLg==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159349 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159368 900 1800 6048000 3600
