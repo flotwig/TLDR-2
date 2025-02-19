@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159414 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. LI4kh9gQyBuBiDe80G4+9H4JtDaPiLENkRHp+umxgcdZg/WyJfHh/HYa 9w7Y4jfysc3Dn0goLiFTZVgvFc01kgXqOGcSRH8iK0InGS/s5hd0KKkQ 3q5rpX7V0/XvW4Wc9UcmWgSmPSdteFwruN4Ck/Nf18jkQsE0mouc+mn2 nR9wuTPzJs/8gANYRG9JOlH4OIKD2d1FyINyU7bFXbcHW7fXNgQXL7FU cb7EYT/UGnbaJAa0KJk2hUNlDlpXdNyx1u0flwkQ8bV8K1XN9tcglckv ++ZJvAca67ORK44GfJWER1zqa5KTLKT8pZwbtpyocHMobsEmbbHUfdgs Ok04Gg==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159419 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. Ua+dZKBBxliSDnLhhKdYwqKt1ngd4liGwj2R9Xzxmcqylbfercim79MB lfgGysT8muZcstyJ1+Tkabos0s/0zIPYUm3D/044bsyK1Xu9vA9cY6eI DMeBmKWhf0HiVDoduaHPvNluY1jODBy29quUE8ECUZA/s24DweLDT3gd ousQqMCgAMerr9sKblERXH8+FriPZRuZb203J9phHkwQa1Gb5tcbMh32 LDZd3L/d7/Rkv5jgjt2v8hCxLUcpsR+xI5l6fA1qNbtJOVENvcv6s8wV /dXDO6qeTsMFtqdejnfvaB9B+gdqoa3vUEZdD1JAGb5Ij6fzRTmrHr20 3AZrcw==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -12787,9 +12787,12 @@ motormarine.gl.		3600	IN	NS	a.hosting.gl.
 motormarine.gl.		3600	IN	NS	b.hosting.gl.
 motormarine.gl.		3600	IN	NS	c.hosting.gl.
 motormarine.gl.		3600	IN	NS	d.hosting.gl.
-motorola.gl.		3600	IN	NS	ns1.motorolamobility.com.
-motorola.gl.		3600	IN	NS	ns3.motorolamobility.com.
-motorola.gl.		3600	IN	NS	ns4.motorolamobility.com.
+motorola.gl.		3600	IN	NS	a1-79.akam.net.
+motorola.gl.		3600	IN	NS	a3-67.akam.net.
+motorola.gl.		3600	IN	NS	a8-64.akam.net.
+motorola.gl.		3600	IN	NS	a11-64.akam.net.
+motorola.gl.		3600	IN	NS	a24-65.akam.net.
+motorola.gl.		3600	IN	NS	a28-66.akam.net.
 motorolamobility.gl.	3600	IN	NS	ns2.mot.com.
 motorolamobility.gl.	3600	IN	NS	ns3.mot.com.
 motorolamobility.gl.	3600	IN	NS	ns4.mot.com.
@@ -23095,4 +23098,4 @@ VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. hXmOGA3SSZtCaLNql2ckzbLOkhP28fYqMJDv6SbqC/H0qYamZvq4Zz+w 8Awlyi5Jqih4Lc6IgBC02rxc0a0Oa0qR1vgVghqnS0vIS7TyUsCZZYV1 NywHOkGK5XlSZ2BhdcVEAI4DJ4ye68L6AYSFpAo72sXH4iRDnnW0PcVe 9OCDiwlIdcHIF+A6VwnH9H1k1R2y+Fn3tuCHAeB6L+CYNKWK1CtH6FyJ ABTsAcl8fTMSPCpvqVSb6TFGrtzOwl16XNyAgri27aZBEaH1BHlFghT2 fDwG+2NyfoswaylgHJw916ZJy2cnkVB+Onhnu3lT47V13065SJDdbx3E k+NpLg==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159414 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159419 900 1800 6048000 3600
