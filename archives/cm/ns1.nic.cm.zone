@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025022114 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1740146722"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025022115 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1740150324"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -18838,8 +18838,6 @@ aqdpro.cm.		3600	IN	NS	ns1.alidns.com.
 aqdpro.cm.		3600	IN	NS	ns2.alidns.com.
 aqdy.cm.		3600	IN	NS	erin.ns.cloudflare.com.
 aqdy.cm.		3600	IN	NS	luke.ns.cloudflare.com.
-aqua-conv.cm.		3600	IN	NS	dns1400a.trouble-free.net.
-aqua-conv.cm.		3600	IN	NS	dns1400b.trouble-free.net.
 aqua2.cm.		3600	IN	NS	ns1.aqua2.cm.
 aqua2.cm.		3600	IN	NS	ns2.aqua2.cm.
 ns1.aqua2.cm.		3600	IN	A	92.222.240.69
@@ -26573,8 +26571,6 @@ chaturbate.cm.		3600	IN	NS	pns23.cloudns.net.
 chaturbate.cm.		3600	IN	NS	pns24.cloudns.net.
 chazidian.cm.		3600	IN	NS	ns1.netsto.net.
 chazidian.cm.		3600	IN	NS	ns2.netsto.net.
-chc.cm.			3600	IN	NS	ns1.camoogroup.com.
-chc.cm.			3600	IN	NS	ns2.camoogroup.com.
 chc-sa.cm.		3600	IN	NS	ns1.camoogroup.com.
 chc-sa.cm.		3600	IN	NS	ns2.camoogroup.com.
 che.cm.			3600	IN	NS	ns1.bodis.com.
@@ -26921,8 +26917,6 @@ cib.cm.			3600	IN	NS	ns1.vultr.com.
 cib.cm.			3600	IN	NS	ns2.vultr.com.
 cibc.cm.		3600	IN	NS	ns1.hastydns.com.
 cibc.cm.		3600	IN	NS	ns2.hastydns.com.
-cicam.cm.		3600	IN	NS	ns1.o2switch.net.
-cicam.cm.		3600	IN	NS	ns2.o2switch.net.
 cicc.cm.		3600	IN	NS	ns1.contabo.net.
 cicc.cm.		3600	IN	NS	ns2.contabo.net.
 cicc.cm.		3600	IN	NS	ns3.contabo.net.
@@ -36076,10 +36070,10 @@ france-travail-jeune.cm. 3600	IN	NS	obs.ns1.fr.
 france-travail-jeunes.cm. 3600	IN	NS	ns2.observatoiredesmarques.fr.
 france-travail-jeunes.cm. 3600	IN	NS	ns3.nameshield.net.
 france-travail-jeunes.cm. 3600	IN	NS	obs.ns1.fr.
-francedns.cm.		86400	IN	DS	41347 8 2 CF688370394A592FCE169602F653B368EC881D0596C5E245F2691FBC 84DFC6F5
 francedns.cm.		3600	IN	NS	ns1.netim.net.
 francedns.cm.		3600	IN	NS	ns2.netim.net.
 francedns.cm.		3600	IN	NS	ns3.netim.net.
+francedns.cm.		86400	IN	DS	41347 8 2 CF688370394A592FCE169602F653B368EC881D0596C5E245F2691FBC 84DFC6F5
 francescas.cm.		3600	IN	NS	ns1.adtraks.com.
 francescas.cm.		3600	IN	NS	ns2.adtraks.com.
 francetravail.cm.	3600	IN	NS	ns2.observatoiredesmarques.fr.
@@ -41901,6 +41895,8 @@ intel.cm.		3600	IN	NS	ns4.intel.com.
 intelar.cm.		3600	IN	NS	ns1.lendaxas.com.
 intelar.cm.		3600	IN	NS	ns2.lendaxas.com.
 intelcam.cm.		3600	IN	NS	kim.camnet.cm.
+intelcia.cm.		3600	IN	NS	ns20.ovh.net.
+intelcia.cm.		3600	IN	NS	dns20.ovh.net.
 intelcosystems.cm.	3600	IN	NS	ns1.camoogroup.com.
 intelcosystems.cm.	3600	IN	NS	ns2.camoogroup.com.
 intelecglobaltechnology.cm. 3600 IN	NS	ns-697.awsdns-23.net.
@@ -46892,6 +46888,8 @@ likusasa.cm.		3600	IN	NS	ns1nl.mochahost.com.
 likusasa.cm.		3600	IN	NS	ns2nl.mochahost.com.
 lili-books.cm.		3600	IN	NS	ns1.dns-parking.com.
 lili-books.cm.		3600	IN	NS	ns2.dns-parking.com.
+lili-delivery.cm.	3600	IN	NS	ns1.camoogroup.com.
+lili-delivery.cm.	3600	IN	NS	ns2.camoogroup.com.
 lilicloth.cm.		3600	IN	NS	ns1.adtraks.com.
 lilicloth.cm.		3600	IN	NS	ns2.adtraks.com.
 lilly.cm.		3600	IN	NS	ns1.parkingcrew.net.
@@ -51922,8 +51920,8 @@ nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
 ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
 ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
-ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
 ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
+ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
 nanaboubagroup.cm.	3600	IN	NS	ns2.tchaytchay.com.
 nanbudokaikan.cm.	3600	IN	NS	ns102.ovh.net.
@@ -68789,8 +68787,8 @@ univ-maroua.cm.		3600	IN	NS	ns1.mtnbusiness.cm.
 univ-maroua.cm.		3600	IN	NS	ns2.mtnbusiness.cm.
 univ-ndere.cm.		3600	IN	NS	nsy.prosygma-cm.com.
 univ-ndere.cm.		3600	IN	NS	bamnyanga.univ-ndere.cm.
-bamnyanga.univ-ndere.cm. 3600	IN	A	192.145.186.130
 bamnyanga.univ-ndere.cm. 3600	IN	AAAA	2001:43f8:1470:700::2
+bamnyanga.univ-ndere.cm. 3600	IN	A	192.145.186.130
 univ-ndere2.cm.		3600	IN	NS	ns3.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns4.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns5.cloud.stdigital.network.
@@ -75270,4 +75268,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025022114 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025022115 1800 900 1209600 3600
