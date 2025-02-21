@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159509 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. VUwTintHekbIM7UL3+mxlRJiCu0oHDVlt6cmxr0XRQcPL8brvjI7pGhb oVsZ+snOhHhR/zb5tvhQLLRdhARw1gJ1tCfvzsqNVECvjfPQaVpkJcZt e6ERFCrOplu4GnICIL418QKc390BGjgJD6P8FOS+PegAP2ML0bA6Z9WG g8VC5tW6JjhfEdhPYzXDRSbfYxrcXT9b2WVEji7FxnGsGsB9awYsWTg0 dvr/Aq6vxT+Jf6Xl9BsQI+5UFA8w8R1+VDpFUKy0kzREaqDtKAK+/lwn Z6pMrLS4nTei4uOF4NLapUn+aVQ8L3rG5Pf1YBlzf6/fKv6ut8laXPGo 9KRUeQ==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159535 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. akY2r/1ECDIsEBiG1Psm4BJXe8y2EQPguPPNDei9j+cpI1IFSFFATFXn ZahxTS049UGFuXmk2wyZI1ciNkDl2jRkyfNd3tujslxfdYYFAUvaAcNm a+yG7/UctWj+QPjqNJRTkQwYoA5+AcSUkyL+RR2LKKl9L55GTycYOyX6 dydbuMqG0uOfNcG2I/a57/W9CJTF8EpyUqwiEoownT+UzoTANqBPXPdJ nCCQ6jcxFg1yXWQlf+hJYsVHdFBwd2bDeUgAXs/9QjAjjyDYSzKOHRQS b6MWRlQkxbf4A8OJteoRA1WeYqvz8SltjYem9p/f55XkZgY08yMr9AdT kaHtuA==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -8314,8 +8314,8 @@ http-bclub.gl.		3600	IN	NS	ns3.my-ndns.com.
 http-bclub.gl.		3600	IN	NS	ns4.my-ndns.com.
 https-bclub.gl.		3600	IN	NS	ns3.my-ndns.com.
 https-bclub.gl.		3600	IN	NS	ns4.my-ndns.com.
-https-stashpatrick.gl.	3600	IN	NS	sns43.hostgator.in.
-https-stashpatrick.gl.	3600	IN	NS	sns44.hostgator.in.
+https-stashpatrick.gl.	3600	IN	NS	norah.ns.cloudflare.com.
+https-stashpatrick.gl.	3600	IN	NS	piotr.ns.cloudflare.com.
 htx.gl.			3600	IN	NS	ns1.ispapi.net.
 htx.gl.			3600	IN	NS	ns2.ispapi.net.
 hu.gl.			3600	IN	NS	indie.ns.cloudflare.com.
@@ -8677,8 +8677,6 @@ ilj.gl.			3600	IN	NS	ns2.gigahost.dk.
 ilj.gl.			3600	IN	NS	ns3.gigahost.dk.
 ilj.gl.			3600	IN	NS	ns4.gigahost.dk.
 ilj.gl.			3600	IN	NS	ns5.gigahost.dk.
-ill.gl.			3600	IN	NS	desi.ns.cloudflare.com.
-ill.gl.			3600	IN	NS	porter.ns.cloudflare.com.
 illersuisoq.gl.		3600	IN	NS	ns1.curanet.dk.
 illersuisoq.gl.		3600	IN	NS	ns2.curanet.dk.
 illersuisuuneq.gl.	3600	IN	NS	ns1.simply.com.
@@ -23110,4 +23108,4 @@ VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. hXmOGA3SSZtCaLNql2ckzbLOkhP28fYqMJDv6SbqC/H0qYamZvq4Zz+w 8Awlyi5Jqih4Lc6IgBC02rxc0a0Oa0qR1vgVghqnS0vIS7TyUsCZZYV1 NywHOkGK5XlSZ2BhdcVEAI4DJ4ye68L6AYSFpAo72sXH4iRDnnW0PcVe 9OCDiwlIdcHIF+A6VwnH9H1k1R2y+Fn3tuCHAeB6L+CYNKWK1CtH6FyJ ABTsAcl8fTMSPCpvqVSb6TFGrtzOwl16XNyAgri27aZBEaH1BHlFghT2 fDwG+2NyfoswaylgHJw916ZJy2cnkVB+Onhnu3lT47V13065SJDdbx3E k+NpLg==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159509 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159535 900 1800 6048000 3600
