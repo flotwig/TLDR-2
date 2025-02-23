@@ -12392,8 +12392,8 @@ ns1.ac.lk.		172800	IN	A	192.248.1.162
 ns3.ac.lk.		172800	IN	A	202.124.166.178
 d.nic.lk.		172800	IN	AAAA	2402:4000:479:c5::a
 d.nic.lk.		172800	IN	A	123.231.6.18
-h.nic.lk.		172800	IN	AAAA	2404:8a00:0:a00::4005
 h.nic.lk.		172800	IN	A	43.252.12.206
+h.nic.lk.		172800	IN	AAAA	2404:8a00:0:a00::4005
 m.nic.lk.		172800	IN	AAAA	2407:c00:21:8:202:129:235:229
 m.nic.lk.		172800	IN	A	202.129.235.229
 ns-c.nic.lk.		172800	IN	A	203.143.19.3
@@ -14463,9 +14463,9 @@ dns1.lttnet.net.	172800	IN	A	62.68.42.9
 ns1-fr.mediaserv.net.	172800	IN	A	185.56.51.194
 ns1-gp.mediaserv.net.	172800	IN	A	213.188.172.1
 ns1-mq.mediaserv.net.	172800	IN	A	213.16.20.3
-a.mynic.net.		172800	IN	AAAA	2600:9000:a404:ea61:d5b5:aa1c:fed3:4d77
 a.mynic.net.		172800	IN	A	3.33.142.194
 a.mynic.net.		172800	IN	A	15.197.237.255
+a.mynic.net.		172800	IN	AAAA	2600:9000:a404:ea61:d5b5:aa1c:fed3:4d77
 server.nordu.net.	172800	IN	AAAA	2001:948:4:2::19
 server.nordu.net.	172800	IN	A	193.10.252.19
 ns.ntamar.net.		172800	IN	A	117.103.88.33
@@ -22395,18 +22395,18 @@ weber.			172800	IN	NS	v0n2.nic.weber.
 weber.			172800	IN	NS	v0n3.nic.weber.
 weber.			172800	IN	NS	v2n0.nic.weber.
 weber.			172800	IN	NS	v2n1.nic.weber.
-v0n0.nic.weber.		172800	IN	AAAA	2a01:8840:6a::21
 v0n0.nic.weber.		172800	IN	A	65.22.108.21
-v0n1.nic.weber.		172800	IN	AAAA	2a01:8840:6b::21
+v0n0.nic.weber.		172800	IN	AAAA	2a01:8840:6a::21
 v0n1.nic.weber.		172800	IN	A	65.22.109.21
-v0n2.nic.weber.		172800	IN	AAAA	2a01:8840:6c::21
+v0n1.nic.weber.		172800	IN	AAAA	2a01:8840:6b::21
 v0n2.nic.weber.		172800	IN	A	65.22.110.21
-v0n3.nic.weber.		172800	IN	AAAA	2a01:8840:108::21
+v0n2.nic.weber.		172800	IN	AAAA	2a01:8840:6c::21
 v0n3.nic.weber.		172800	IN	A	161.232.32.21
-v2n0.nic.weber.		172800	IN	AAAA	2a01:8840:6d::21
+v0n3.nic.weber.		172800	IN	AAAA	2a01:8840:108::21
 v2n0.nic.weber.		172800	IN	A	65.22.111.21
-v2n1.nic.weber.		172800	IN	AAAA	2a01:8840:109::21
+v2n0.nic.weber.		172800	IN	AAAA	2a01:8840:6d::21
 v2n1.nic.weber.		172800	IN	A	161.232.33.21
+v2n1.nic.weber.		172800	IN	AAAA	2a01:8840:109::21
 website.		86400	IN	RRSIG	NSEC 8 1 86400 20250308050000 20250223040000 26470 . VEadxHgrN88rhXwDNPbcpVRlxEU0Z3csZvBDlkWgfDKx8MzDA0W4OXQ9 Q2M1G4SceyqsX9a0flOw5PCj7okSWd9/sWI5/jTQVPxMfTSECYxpF6+M Un6WDY/Avi/BF5Onx8G9Gl8Z4hu2OigHaU5U8ELgH3CPH4Srq/uHZet1 g0f7zOzrWCZivLIN90KE3yI+2aQG+G+CJ6w1U6HUO2tjpUqo6sLKEroT yGw321gCqGmQZTknJOUPc8Nw+ML/N0CpE0bRi8gp4r6AzVTW3KplJFSr GddBVDWjQ4HEdGTfUjk1oEDllXbvc9x1Ps9M+txXgdPxodCKydHu7u0O lTlkmw==
 website.		86400	IN	NSEC	wed. NS DS RRSIG NSEC
 website.		86400	IN	RRSIG	DS 8 1 86400 20250308050000 20250223040000 26470 . mv/0wpsAgzwBh8hemzaKqodI/C0uKsVaNUoo2waRu7T4OZ9LZkHaILkv FnBOOBqxapblQvYxosbJXP1TDMXbLF/W4OArvOMca1r/ZJw5R6IPV/0c Obudj0iKR4yFccVLP96QvGoMRgz711ZOy1jkH7ldpqcBadExhz/oF2a2 NmESgXBi8X4masuutGSZ8AvWPFXm7NQMgw+s0/osSQuyaQHLI1txWobT R+15hxZW+NeUZEJ2uOAaUbXwZgq7OJlxgdYV4WuLjofRtlWTwanCVGtV PR+FZWnWSpa7Mw4PGUSKYgalpRvklvhLrSSlGMIUj8fgY9q1yDlebHT/ U0Jvcg==
