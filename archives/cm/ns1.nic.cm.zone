@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025022308 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1740297921"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025022309 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1740301524"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -1666,6 +1666,8 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 118tk.cm.		3600	IN	NS	ns2.netsto.net.
 118tu.cm.		3600	IN	NS	ns1.netsto.net.
 118tu.cm.		3600	IN	NS	ns2.netsto.net.
+118tuku.cm.		3600	IN	NS	a2.share-dns.com.
+118tuku.cm.		3600	IN	NS	b2.share-dns.net.
 118z1.cm.		3600	IN	NS	ns1.alidns.com.
 118z1.cm.		3600	IN	NS	ns2.alidns.com.
 118z2.cm.		3600	IN	NS	ns6.netsto.net.
@@ -7742,6 +7744,8 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 49jt.cm.		3600	IN	NS	ns4.dynu.com.
 49kaijiang.cm.		3600	IN	NS	ns1.dnscu.com.
 49kaijiang.cm.		3600	IN	NS	ns2.dnscu.com.
+49kj.cm.		3600	IN	NS	a3.share-dns.com.
+49kj.cm.		3600	IN	NS	b3.share-dns.net.
 49kkk.cm.		3600	IN	NS	ns1.netsto.net.
 49kkk.cm.		3600	IN	NS	ns2.netsto.net.
 49lhc.cm.		3600	IN	NS	ns1.netsto.net.
@@ -7764,6 +7768,8 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 49t7.cm.		3600	IN	NS	ns7.netsto.net.
 49tc.cm.		3600	IN	NS	a.share-dns.com.
 49tc.cm.		3600	IN	NS	b.share-dns.net.
+49tk.cm.		3600	IN	NS	a4.share-dns.com.
+49tk.cm.		3600	IN	NS	b4.share-dns.net.
 49ttt.cm.		3600	IN	NS	ns1.netsto.net.
 49ttt.cm.		3600	IN	NS	ns2.netsto.net.
 49tu.cm.		3600	IN	NS	ns1.netsto.net.
@@ -38055,8 +38061,8 @@ grohe.cm.		3600	IN	NS	ns1.lemarit.net.
 grohe.cm.		3600	IN	NS	ns2.lemarit.de.
 grohe.cm.		3600	IN	NS	ns2.lemarit.net.
 grohe.cm.		3600	IN	NS	ns3.lemarit.de.
-grok.cm.		3600	IN	NS	ns1.netsto.net.
-grok.cm.		3600	IN	NS	ns2.netsto.net.
+grok.cm.		3600	IN	NS	ns1.4.cn.
+grok.cm.		3600	IN	NS	ns2.4.cn.
 grolier.cm.		3600	IN	NS	ns1.scholastic.com.
 grolier.cm.		3600	IN	NS	ns2.scholastic.com.
 groove.cm.		3600	IN	NS	uma.ns.cloudflare.com.
@@ -51745,10 +51751,10 @@ namesdatabase.cm.	3600	IN	NS	ns02.classmates.com.
 namesdatabase.cm.	3600	IN	NS	authns-ws.lax.mysite.com.
 nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
-ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
-ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
+ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
+ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
 nanaboubagroup.cm.	3600	IN	NS	ns2.tchaytchay.com.
 nanbudokaikan.cm.	3600	IN	NS	ns102.ovh.net.
@@ -68614,8 +68620,8 @@ univ-maroua.cm.		3600	IN	NS	ns1.mtnbusiness.cm.
 univ-maroua.cm.		3600	IN	NS	ns2.mtnbusiness.cm.
 univ-ndere.cm.		3600	IN	NS	nsy.prosygma-cm.com.
 univ-ndere.cm.		3600	IN	NS	bamnyanga.univ-ndere.cm.
-bamnyanga.univ-ndere.cm. 3600	IN	AAAA	2001:43f8:1470:700::2
 bamnyanga.univ-ndere.cm. 3600	IN	A	192.145.186.130
+bamnyanga.univ-ndere.cm. 3600	IN	AAAA	2001:43f8:1470:700::2
 univ-ndere2.cm.		3600	IN	NS	ns3.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns4.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns5.cloud.stdigital.network.
@@ -75075,4 +75081,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025022308 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025022309 1800 900 1209600 3600
