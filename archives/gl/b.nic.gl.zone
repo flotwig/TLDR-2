@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159622 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. PwgJMA2DoMt8e40NS1335geV1vSjbsPcXabU2TJiMlZN4elsyoV/gEzd dUdFZBlrocQjbZAiAVKQChE7WtY1ufYrkjODKWvvQJ8AWchpyn0XNyT6 3hvpaXRsrJvDohq3Rcl/25//GJlV+8FJMun8PZRYLB+jJ3kt0k19MHkq EeA244leXzbomolUekpOUbSBtj5L6PI4G3e40qUozZT1VhY/iW0YRyuC McsL+Zp0M8idEM6R1y9gilB3w/pHlyQVzpWYHkHggFZMyQeBklbiguym moWUFXhbg1TSOXpYBiyZE5CFdeakfrymjres2uP3H4fl1HFkt56ybbLh lC6pyg==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159631 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. L+yonZ/xB3tWEkO9PZAuNkrdSsLR1XfvqFdQ2uXvnUC8uYKD6bIcrpBQ eF4tFtS4tTU1FBgDUyy2jHsWWw8ODghWsqBBcHs6XsJi0+ubvBGB7+Vx GsnQq+UWUL1IXoky91WnP/Ym8B1/P16KDnhP4y9I9b/BoSMtVXsH/dAw TczbrZjvuxIt+t/Ra3m56hqPV3oA4Zpa5Al2Ff1AyqmvXDzwe1S+6HHi mAZf199ENpjOqxbC1DdjbZ0blpSt37NvpfFVmPO4k7ua0iVF8zGveCXk W+rG1lHH/hRoQ/8315+EMAoxhpcQldWmdy6P4Q8iyzwzSayLuNp5ZAXz nkAqIw==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -8672,6 +8672,8 @@ ilj.gl.			3600	IN	NS	ns2.gigahost.dk.
 ilj.gl.			3600	IN	NS	ns3.gigahost.dk.
 ilj.gl.			3600	IN	NS	ns4.gigahost.dk.
 ilj.gl.			3600	IN	NS	ns5.gigahost.dk.
+ill.gl.			3600	IN	NS	desi.ns.cloudflare.com.
+ill.gl.			3600	IN	NS	porter.ns.cloudflare.com.
 illersuisoq.gl.		3600	IN	NS	ns1.curanet.dk.
 illersuisoq.gl.		3600	IN	NS	ns2.curanet.dk.
 illersuisuuneq.gl.	3600	IN	NS	ns1.simply.com.
@@ -15957,6 +15959,9 @@ poulsen.gl.		3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. c
 poundfit.gl.		3600	IN	NS	ns01.trademarkarea.com.
 poundfit.gl.		3600	IN	NS	ns02.trademarkarea.com.
 poundfit.gl.		3600	IN	NS	ns03.trademarkarea.com.
+pov.gl.			3600	IN	NS	ns1.netim.net.
+pov.gl.			3600	IN	NS	ns2.netim.net.
+pov.gl.			3600	IN	NS	ns3.netim.net.
 power.gl.		3600	IN	NS	ns1.eurodns.com.
 power.gl.		3600	IN	NS	ns2.eurodns.com.
 power.gl.		3600	IN	NS	ns3.eurodns.com.
@@ -20738,6 +20743,9 @@ vodanet.gl.		3600	IN	NS	ns2.curanet.dk.
 vodaphone.gl.		3600	IN	NS	ns1.vodafone.com.
 vodaphone.gl.		3600	IN	NS	ns3.vodafone.com.
 vodaphone.gl.		3600	IN	NS	ns5.vodafone.com.
+vods.gl.		3600	IN	NS	ns1.netim.net.
+vods.gl.		3600	IN	NS	ns2.netim.net.
+vods.gl.		3600	IN	NS	ns3.netim.net.
 voe.gl.			3600	IN	NS	ns.inwx.de.
 voe.gl.			3600	IN	NS	ns2.inwx.de.
 voe.gl.			3600	IN	NS	ns3.inwx.eu.
@@ -23078,4 +23086,4 @@ VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. hXmOGA3SSZtCaLNql2ckzbLOkhP28fYqMJDv6SbqC/H0qYamZvq4Zz+w 8Awlyi5Jqih4Lc6IgBC02rxc0a0Oa0qR1vgVghqnS0vIS7TyUsCZZYV1 NywHOkGK5XlSZ2BhdcVEAI4DJ4ye68L6AYSFpAo72sXH4iRDnnW0PcVe 9OCDiwlIdcHIF+A6VwnH9H1k1R2y+Fn3tuCHAeB6L+CYNKWK1CtH6FyJ ABTsAcl8fTMSPCpvqVSb6TFGrtzOwl16XNyAgri27aZBEaH1BHlFghT2 fDwG+2NyfoswaylgHJw916ZJy2cnkVB+Onhnu3lT47V13065SJDdbx3E k+NpLg==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159622 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159631 900 1800 6048000 3600
