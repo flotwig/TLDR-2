@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159631 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. L+yonZ/xB3tWEkO9PZAuNkrdSsLR1XfvqFdQ2uXvnUC8uYKD6bIcrpBQ eF4tFtS4tTU1FBgDUyy2jHsWWw8ODghWsqBBcHs6XsJi0+ubvBGB7+Vx GsnQq+UWUL1IXoky91WnP/Ym8B1/P16KDnhP4y9I9b/BoSMtVXsH/dAw TczbrZjvuxIt+t/Ra3m56hqPV3oA4Zpa5Al2Ff1AyqmvXDzwe1S+6HHi mAZf199ENpjOqxbC1DdjbZ0blpSt37NvpfFVmPO4k7ua0iVF8zGveCXk W+rG1lHH/hRoQ/8315+EMAoxhpcQldWmdy6P4Q8iyzwzSayLuNp5ZAXz nkAqIw==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159633 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. dJahey/S2X7j9RO+WvIsLJnm3DcdGcRzzUAxPrAcxeO/DO4j6zNYQbMs TUTEsXRnGplUJ8cLtvKLrmtSez3sFWAoKgfpVJgTyAjyWzcnnNLEVPcw HfZYdxrM680g+ELwai9xUzGoJ5jBcRVg2Kg94zXBUti1R61cvpYLy8pQ l88S9NW0+Yhl1dqkYYeeXlY+xJMtNIn9oRz0NRmIDMimntypBvQxQTqU DOEEwpKpEwcrrJB0MPc5ByuJSFO7KxFmsrCoNjA7aAsY1FG+6S3oZtZ1 ADGA1wmazzw3YPw5IHTMRxTOaPII1pvjP0BaQC7QJTMSNR1TnDqU/vKp v5ka8A==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -14700,6 +14700,8 @@ omg-2.gl.		3600	IN	NS	mia.ns.cloudflare.com.
 omg-2.gl.		3600	IN	NS	noah.ns.cloudflare.com.
 omg-3.gl.		3600	IN	NS	mia.ns.cloudflare.com.
 omg-3.gl.		3600	IN	NS	noah.ns.cloudflare.com.
+omg1.gl.		3600	IN	NS	ns1-virt.catched.com.
+omg1.gl.		3600	IN	NS	ns2-virt.catched.com.
 omg11.gl.		3600	IN	NS	eva.ns.cloudflare.com.
 omg11.gl.		3600	IN	NS	keanu.ns.cloudflare.com.
 omg12.gl.		3600	IN	NS	sonny.ns.cloudflare.com.
@@ -19826,10 +19828,8 @@ trygoo.gl.		3600	IN	NS	ns-cloud-e1.googledomains.com.
 trygoo.gl.		3600	IN	NS	ns-cloud-e2.googledomains.com.
 trygoo.gl.		3600	IN	NS	ns-cloud-e3.googledomains.com.
 trygoo.gl.		3600	IN	NS	ns-cloud-e4.googledomains.com.
-tryn.gl.		3600	IN	NS	ns1.iwantmyname.net.
-tryn.gl.		3600	IN	NS	ns2.iwantmyname.net.
-tryn.gl.		3600	IN	NS	ns3.iwantmyname.net.
-tryn.gl.		3600	IN	NS	ns4.iwantmyname.net.
+tryn.gl.		3600	IN	NS	abby.ns.cloudflare.com.
+tryn.gl.		3600	IN	NS	trey.ns.cloudflare.com.
 ts.gl.			3600	IN	NS	ns01.one.com.
 ts.gl.			3600	IN	NS	ns02.one.com.
 tschudi.gl.		3600	IN	NS	ns1.cyon.ch.
@@ -23086,4 +23086,4 @@ VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. hXmOGA3SSZtCaLNql2ckzbLOkhP28fYqMJDv6SbqC/H0qYamZvq4Zz+w 8Awlyi5Jqih4Lc6IgBC02rxc0a0Oa0qR1vgVghqnS0vIS7TyUsCZZYV1 NywHOkGK5XlSZ2BhdcVEAI4DJ4ye68L6AYSFpAo72sXH4iRDnnW0PcVe 9OCDiwlIdcHIF+A6VwnH9H1k1R2y+Fn3tuCHAeB6L+CYNKWK1CtH6FyJ ABTsAcl8fTMSPCpvqVSb6TFGrtzOwl16XNyAgri27aZBEaH1BHlFghT2 fDwG+2NyfoswaylgHJw916ZJy2cnkVB+Onhnu3lT47V13065SJDdbx3E k+NpLg==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159631 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159633 900 1800 6048000 3600
