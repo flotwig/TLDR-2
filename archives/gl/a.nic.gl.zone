@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159658 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. eV2eBPFPYF4UAVNoDzxxS6bJtuYZsxwCDHpjuaK+oBbfJRgD5VyD+PUO 4YNmmJNix94E1b+b5y6+vV8IUYT85hRIPEng54x31QbXfWHzcZ7O/i5z khERW1RQu27dk+6prA4WPtICib+fMng2bjL67k4QIY6YpsZiRM1uOnEw F/qNi55tnFc8C0/vRgh46ktll+4NWPI5EcceUQYT6zS0RvRDIwE6T39Y aez5WVk1ZY26ugvo/dj02kUOigHnTtrQrPEfMdY9aQvBZ2dHmewMOXZ8 U2yGSKRP7NEgi1jwBbQCzmANuPcJH5OnNmQOxhQZVTYVvu0+8L7js1q5 nvLVtA==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159669 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. CVX5C09YFzaVKVbqJrBHsp+yHjK2Akpykt7cCBQpNUphQxiy21+5Snoh TLMDxB1RcXQPNtW4Qr3rdCPlesclvY7DzzKwa8UBCYWlrnqBmMz1DHgZ NVfR2fe60g5oH4i7yZkn1KHdprkqHvpgmCR3Lr41nF2/yQoztM3AtXst hoCkqG9+Zk/vQKnBjknN2i8E6btYmEHISGuEbuCIdPzR1AxyUuMHltuN IE2B1ITQhnLQrx5TxV09PCD+OZK0fEHS24TyBq0nWS9mDdXF8dnW8WiD W8sy3ApMZTPPJ9t7cEFc6akrSXeCBfm1m+w853DiQjA3VJzmHFlnJWxL SVsboQ==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -13732,11 +13732,11 @@ nip.gl.			3600	IN	NS	major.ns.cloudflare.com.
 nip.gl.			3600	IN	NS	tricia.ns.cloudflare.com.
 nip.gl.			3600	IN	DS	2371 13 2 7DC0A534AFBAE96991F25325D3F92CEE8048E7659A6B5DF2C3257DDA 4B77AD95
 nip.gl.			3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. OAdf2Sn3i+QHuphx0aAXpC4uF6+BL7hvky2wdyUtYIARb+5MhmZkT+bf k/rcnrd0WRYsm3KNosSdt9IljMj3agmP5R0VHmLg15CkZEnF3sOwZDsH RO+jMSLT9/5axoJ0ElBtWkgbIy9jG4UwTE+J+huB3w2rWFh54KOaci4f 687j8s1vcgwzdTqt94eNU++NJdK8KizYWif3wrlohqTEE7EcKoFpqLhK ILQqtotYNwerTR3Ftweu4aF8hDSZlGVEJe3/67nJGfe+08Shpj6/R1gS Ssdd8zVTJ5849rof0f0sn1eZCgzBuF/AOZO+1mgCXhXlf2dbZQPnS3vk xdNKiw==
-nipaa.gl.		3600	IN	NS	ns01.one.com.
 nipaa.gl.		3600	IN	NS	ns02.one.com.
-nipaa.gl.		3600	IN	NS	helium.ns.hetzner.de.
 nipaa.gl.		3600	IN	NS	oxygen.ns.hetzner.com.
 nipaa.gl.		3600	IN	NS	hydrogen.ns.hetzner.com.
+nipaa.gl.		3600	IN	NS	kim.ns.cloudflare.com.
+nipaa.gl.		3600	IN	NS	josh.ns.cloudflare.com.
 nipi.gl.		3600	IN	NS	ns1.hosting.inuit.gl.
 nipi.gl.		3600	IN	NS	ns2.hosting.inuit.gl.
 nipifm.gl.		3600	IN	NS	a.hosting.gl.
@@ -14701,8 +14701,8 @@ omg-3.gl.		3600	IN	NS	mia.ns.cloudflare.com.
 omg-3.gl.		3600	IN	NS	noah.ns.cloudflare.com.
 omg1.gl.		3600	IN	NS	ns1-virt.catched.com.
 omg1.gl.		3600	IN	NS	ns2-virt.catched.com.
-omg10.gl.		3600	IN	NS	ns3.my-ndns.com.
-omg10.gl.		3600	IN	NS	ns4.my-ndns.com.
+omg10.gl.		3600	IN	NS	tina.ns.cloudflare.com.
+omg10.gl.		3600	IN	NS	derek.ns.cloudflare.com.
 omg11.gl.		3600	IN	NS	eva.ns.cloudflare.com.
 omg11.gl.		3600	IN	NS	keanu.ns.cloudflare.com.
 omg12.gl.		3600	IN	NS	sonny.ns.cloudflare.com.
@@ -23111,4 +23111,4 @@ VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. hXmOGA3SSZtCaLNql2ckzbLOkhP28fYqMJDv6SbqC/H0qYamZvq4Zz+w 8Awlyi5Jqih4Lc6IgBC02rxc0a0Oa0qR1vgVghqnS0vIS7TyUsCZZYV1 NywHOkGK5XlSZ2BhdcVEAI4DJ4ye68L6AYSFpAo72sXH4iRDnnW0PcVe 9OCDiwlIdcHIF+A6VwnH9H1k1R2y+Fn3tuCHAeB6L+CYNKWK1CtH6FyJ ABTsAcl8fTMSPCpvqVSb6TFGrtzOwl16XNyAgri27aZBEaH1BHlFghT2 fDwG+2NyfoswaylgHJw916ZJy2cnkVB+Onhnu3lT47V13065SJDdbx3E k+NpLg==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159658 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159669 900 1800 6048000 3600
