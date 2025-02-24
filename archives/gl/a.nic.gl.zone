@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159673 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. YmfV10HjBRl7LK4+Sfv2MA6sWFFaUb3rkfVz6vS/Kxt/cr3L7+/FPEs3 UGUMURXfa3+kD9Ht0TIvXPJCu35yS2ZJRzcBJ7TaGultHJMYhrOegj7r o30eW3rqOcNBIV+HDIekRY2b0c0WAvl1/c2kE++FUTczngPAC755PCM3 Jpw2sJsO6q0Ti4i53/TVOrzqKpSxUcLofYkauCH4j/6HdDCIfiYrzLTi Pfx2/4RXwgTlq5UctNbVV56cP1Wk1s65bbgKeziRM2gY9hWH/bSQcoZz hJmShSOvo4saeHP3kJW+pgPDMj7yPc1LTjf8vYBYe/eRQTgYzfkoqlzm rF143A==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159677 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. JxVHdXyn9MYnbUYfYxxY0kOWNBJT6UHaiOVnUJ4HasqA1lflMs/0K0GO /ntmcVvsAjDXhvR/uqQUFPurNI6HKuDhvimnipMQhTXgHniXJrL52AL9 jBwCYTB1NyjnNejskOa+eSJm+K3tGTZ6pRiqb9YQYE2uyO5QJ7pib5gV R9IJ6NWe1w8MGQLtavnfnsVJIC4E97ytZflc2YV0mKRwFPjAB7o4F3Jv F8cc+bBZP/kYYJbsKRuLm8KeeioQ29tHfKNU+zNQx/KTzZlVn4hz1Ije 487TSeAofXwCFuph/wzNRMcM6SUsd2ErpbHTE1w3bExvV7KLruhwlFcD 4sHyXA==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -11752,8 +11752,8 @@ m3ga.gl.		3600	IN	NS	a.2ns.net.
 m3ga.gl.		3600	IN	NS	b.2ns.net.
 m3ga-at.gl.		3600	IN	NS	ns1.disabled.ispapi.net.
 m3ga-at.gl.		3600	IN	NS	ns3.disabled.ispapi.net.
-m3ga-gl.gl.		3600	IN	NS	luke.ns.cloudflare.com.
-m3ga-gl.gl.		3600	IN	NS	rosalie.ns.cloudflare.com.
+m3ga-gl.gl.		3600	IN	NS	suspended.luke.ns.cloudflare.com.
+m3ga-gl.gl.		3600	IN	NS	suspended.rosalie.ns.cloudflare.com.
 m3ga10.gl.		3600	IN	NS	liz.ns.cloudflare.com.
 m3ga10.gl.		3600	IN	NS	dean.ns.cloudflare.com.
 m3ga4.gl.		3600	IN	NS	liz.ns.cloudflare.com.
@@ -19576,8 +19576,8 @@ tj.gl.			3600	IN	NS	ns2.digitalocean.com.
 tj.gl.			3600	IN	NS	ns3.digitalocean.com.
 tjekdet.gl.		3600	IN	NS	ns01.one.com.
 tjekdet.gl.		3600	IN	NS	ns02.one.com.
-tk.gl.			3600	IN	NS	logan.ns.cloudflare.com.
-tk.gl.			3600	IN	NS	cheryl.ns.cloudflare.com.
+tk.gl.			3600	IN	NS	ns1.afternic.com.
+tk.gl.			3600	IN	NS	ns2.afternic.com.
 tkgroup.gl.		3600	IN	NS	ns01.one.com.
 tkgroup.gl.		3600	IN	NS	ns02.one.com.
 tkmaxx.gl.		3600	IN	NS	ns1.markmonitor.com.
@@ -23111,4 +23111,4 @@ VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. hXmOGA3SSZtCaLNql2ckzbLOkhP28fYqMJDv6SbqC/H0qYamZvq4Zz+w 8Awlyi5Jqih4Lc6IgBC02rxc0a0Oa0qR1vgVghqnS0vIS7TyUsCZZYV1 NywHOkGK5XlSZ2BhdcVEAI4DJ4ye68L6AYSFpAo72sXH4iRDnnW0PcVe 9OCDiwlIdcHIF+A6VwnH9H1k1R2y+Fn3tuCHAeB6L+CYNKWK1CtH6FyJ ABTsAcl8fTMSPCpvqVSb6TFGrtzOwl16XNyAgri27aZBEaH1BHlFghT2 fDwG+2NyfoswaylgHJw916ZJy2cnkVB+Onhnu3lT47V13065SJDdbx3E k+NpLg==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159673 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159677 900 1800 6048000 3600
