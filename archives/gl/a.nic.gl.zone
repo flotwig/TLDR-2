@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159727 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. TU2X8PYsQPH8Kq26nrafXTRQSRxZh66URKXApEnjS7YqFjJRoo41u4Uk MnfxKP1++vhDJP6V+uuM6H9Z8zz+Sn+fHpY6AZnrNoRSSWzOETWaHgUR LXemlNkEjTOdLhXI6tdFvjdEXixda3YMWKa7R4Ql1z+Nj9oYuDL4SMMU AEsqw9idXrwbWhAuGOeXwLpjOLaIucqesPH8KPkMPGHC3BvNTJVOTGCR TekSss9irkpjE+gI/4hBHEAGs9BXo4mQtNKVYOCZP9SCoUns6m/jc+Fx /gK/YyTUCjnqEpphyB7ivXbs7DgP/rjLUpQpJrKU0g1Rjl1hCF6vl0/y +6UOMA==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159737 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. Rvoc0oUPJfAbU9C79fuFtTZd3C44OV7iFHSkxji5kwd31zB5WnYHxOHO y6BY4oUSYnWO5Sf7/7RV4lUujv/yjZvmUGpuQmoR/w6b0QauJVgNZumx 7siYgeJo0WlRc37Ko6lpChWC34TM1EsKcEJxbbGOPFWjQDBl4Rv0AlrL 7mINKKeZ7xLcNchUaojXocaxaNsa38OixQ5PvIXEjcC0u+Y5WT512IOL rmhdY9mBIEux6KCpBi5mWGg0aQERtv3m2Ae5rQvHRWZQOje8fJgXpAIy 0kHZMvTwx3P4v1j0kIO+WG5Bmni92jzhvf91nupVqfCEgo8jG1BvK4IP sbu9gw==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -8509,6 +8509,11 @@ ns2.ig.gl.		3600	IN	A	45.93.9.141
 igaffik.gl.		3600	IN	NS	ns1.modulo.gl.
 igaffik.gl.		3600	IN	NS	ns2.modulo.gl.
 igaffik.gl.		3600	IN	NS	ns3.modulo.gl.
+igaliko.gl.		3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. Iyw+70KhCJM7uixp75USYk7Gl9vUTE80AtCxvDbggvFGtucTW7YA6LGn YWiKlj7VdYxvtdYsNci7JP86T3Mh816habprId7KNldI7ophLk5WfL/m CeJqdMnQmjsdq7yyWuWq/P5HpdMhqSi4JWC6QIcnrTG3kFfq0uKtz61B SMgyQVZ9llWGT2IX2WuFixZGa696HVDKngeV8YtyH/KwFBQIvyLqaWOY iynlxOwKxWGaLE0zH4hugq7RvwccygfUQCNgFUnLpeJHJm4C4Nwa2pBR yR0lYwJ6NmzcxzOe2b/MbiPldwEiBlnAkbjToBiZZ0hsg45xrfV+l3LA fLmA9Q==
+igaliko.gl.		3600	IN	DS	688 13 2 EA51FDC18B2A841F18FDCA9CBCDFE86E080E18F0FEA46B9FE56EC5CB A45D332A
+igaliko.gl.		3600	IN	NS	ns1.simply.com.
+igaliko.gl.		3600	IN	NS	ns2.simply.com.
+igaliko.gl.		3600	IN	NS	ns3.simply.com.
 igaliku.gl.		3600	IN	NS	ns1.simply.com.
 igaliku.gl.		3600	IN	NS	ns2.simply.com.
 igaliku.gl.		3600	IN	NS	ns3.simply.com.
@@ -11756,8 +11761,6 @@ m3ga.gl.		3600	IN	NS	a.2ns.net.
 m3ga.gl.		3600	IN	NS	b.2ns.net.
 m3ga-at.gl.		3600	IN	NS	ns1.disabled.ispapi.net.
 m3ga-at.gl.		3600	IN	NS	ns3.disabled.ispapi.net.
-m3ga-gl.gl.		3600	IN	NS	suspended.luke.ns.cloudflare.com.
-m3ga-gl.gl.		3600	IN	NS	suspended.rosalie.ns.cloudflare.com.
 m3ga10.gl.		3600	IN	NS	liz.ns.cloudflare.com.
 m3ga10.gl.		3600	IN	NS	dean.ns.cloudflare.com.
 m3ga4.gl.		3600	IN	NS	liz.ns.cloudflare.com.
@@ -14779,9 +14782,6 @@ omgbuy8.gl.		3600	IN	NS	art.ns.cloudflare.com.
 omgbuy8.gl.		3600	IN	NS	holly.ns.cloudflare.com.
 omgbuy9.gl.		3600	IN	NS	art.ns.cloudflare.com.
 omgbuy9.gl.		3600	IN	NS	holly.ns.cloudflare.com.
-omgg.gl.		3600	IN	NS	3-pas.njalla.in.
-omgg.gl.		3600	IN	NS	1-ceci.njalla.do.
-omgg.gl.		3600	IN	NS	2-nest.pipe.ma.
 omgg2.gl.		3600	IN	NS	eoin.ns.cloudflare.com.
 omgg2.gl.		3600	IN	NS	diana.ns.cloudflare.com.
 omgg3.gl.		3600	IN	NS	eoin.ns.cloudflare.com.
@@ -14870,9 +14870,6 @@ omgto8.gl.		3600	IN	NS	eva.ns.cloudflare.com.
 omgto8.gl.		3600	IN	NS	keanu.ns.cloudflare.com.
 omgto9.gl.		3600	IN	NS	eva.ns.cloudflare.com.
 omgto9.gl.		3600	IN	NS	keanu.ns.cloudflare.com.
-omgx.gl.		3600	IN	NS	3-pas.njalla.in.
-omgx.gl.		3600	IN	NS	1-ceci.njalla.do.
-omgx.gl.		3600	IN	NS	2-nest.pipe.ma.
 omgx1.gl.		3600	IN	NS	aragorn.ns.cloudflare.com.
 omgx1.gl.		3600	IN	NS	kehlani.ns.cloudflare.com.
 omgx3.gl.		3600	IN	NS	eoin.ns.cloudflare.com.
@@ -19797,10 +19794,6 @@ tretorn.gl.		3600	IN	NS	ns6.markmonitor.com.
 tretorn.gl.		3600	IN	NS	ns7.markmonitor.com.
 treuhand.gl.		3600	IN	NS	ns91.tophost.ch.
 treuhand.gl.		3600	IN	NS	ns92.tophost.ch.
-treuhandart.gl.		3600	IN	NS	a.hosting.gl.
-treuhandart.gl.		3600	IN	NS	b.hosting.gl.
-treuhandart.gl.		3600	IN	NS	c.hosting.gl.
-treuhandart.gl.		3600	IN	NS	d.hosting.gl.
 trip.gl.		3600	IN	NS	ns1-coming-soon.sav.com.
 trip.gl.		3600	IN	NS	ns2-coming-soon.sav.com.
 trivago.gl.		3600	IN	NS	pdns1.ultradns.net.
@@ -23128,8 +23121,10 @@ VSP6V00QBMJTTQ2DATVT37444B48MKDM.gl. 3600 IN NSEC3 1 1 0 103A7ABA VUM9S5L5HAHHJM
 VSP6V00QBMJTTQ2DATVT37444B48MKDM.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. gLWN/VTgjFkQ6LDMQ8bEGbcPA1jO9xsjj0DrbF0m/6MNd7Srcr5EnT/m jCyWNXqwQ/5wsAEy6aI985xrsIiLZKv1590xbyU5zHRRLKw4x5qRU6UV lBG2mRcW6Vq96J7iWgKTPAwVD9XPuXZ3DwT8Kmz/6bSGpqCMdXqkRMfM +ENcWn0qYgtcTyDqmmYehsxVX0vJnEglPYv1oLPjp6/c1Y5/8HL8r2DF jedrcm7j4bvS/mtu/ubWYwxHLQ6FJ2+Y/Yoo+nLTlKsw9uwnd7K7G/qg ipzJ7ofV+inZM5GdC95s3RY9MabnC1NOSPuR7lBd3+d4edQlkzoslHYf 54hwWA==
 VUM9S5L5HAHHJMRE0NPOGBHFKRBTMLDO.gl. 3600 IN NSEC3 1 1 0 103A7ABA VV6DB7VS26JR46DIF9LQB655UMNG7RGP NS DS RRSIG
 VUM9S5L5HAHHJMRE0NPOGBHFKRBTMLDO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. VIRhDZqyg5dPQA5FDlV1ayIcxWA9qJWyyH+KVjEPBR5VBzCOF2SofABi Gp/RNPjq/1fQxwSA+f+kxxYdohEDSFPzt9x4NVUbKw0TTiZdGxIHD4gf GLQcNzg0R7qafqiHxt98911OKBDBuL7TfvaBhKn1KraHeR6cew6hOZdu 9mBOzQ3HMNT5yPvOJroHJnpknSzA+mu7CjHkYP1I08JbqSJKbXXI6x4J Qgr8RQhviQHKfUqTg7FnrlSNGKiYwCd2NGnilTfBl0fdtqNKLVRdVR3f eyLh02dzu5sQ1tujMtM6SoCHuBVYnCPj30EHItuVAU4Z+NcHpLXBqXBx vAdBbg==
-VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO NS DS RRSIG
-VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. hXmOGA3SSZtCaLNql2ckzbLOkhP28fYqMJDv6SbqC/H0qYamZvq4Zz+w 8Awlyi5Jqih4Lc6IgBC02rxc0a0Oa0qR1vgVghqnS0vIS7TyUsCZZYV1 NywHOkGK5XlSZ2BhdcVEAI4DJ4ye68L6AYSFpAo72sXH4iRDnnW0PcVe 9OCDiwlIdcHIF+A6VwnH9H1k1R2y+Fn3tuCHAeB6L+CYNKWK1CtH6FyJ ABTsAcl8fTMSPCpvqVSb6TFGrtzOwl16XNyAgri27aZBEaH1BHlFghT2 fDwG+2NyfoswaylgHJw916ZJy2cnkVB+Onhnu3lT47V13065SJDdbx3E k+NpLg==
+VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN NSEC3 1 1 0 103A7ABA VV8869IB9FCEAHRJQC3ES9IQUTIA7J08 NS DS RRSIG
+VV6DB7VS26JR46DIF9LQB655UMNG7RGP.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. OvYcwjDUO9ownK0Vy9pp4gsUKxkyfw92Hu4jZ+ci6n9nvQvEF3yzGG8W v3kudOXMueZlEXu4+sa8Pk5nF0RMIaWgitSNm1P07IvtTaOM9eqmBEn+ L+Ju31fI2gZRAQwajCF/qksWYpKCyWQOSBYUCRRcuOR9CVQuzsHrA9k/ Jc9HecGpQjbTdvDkvZsM6VFPqfq4Zj05humgYizac4yAidJsxao9lRwt 5OQlpXUu4NP8CzJYSDcZtsuPNl78Fr0hXhUoAP3HWWowa9oLr7ntHO8G gtKwvxcfuzSOPtNrIQKqKKRfL27Vgj6EdqJ+ZHkcTpH2ycWS6tyC9WR1 Ngvm/A==
+VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO NS DS RRSIG
+VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. Y1v6YCMGj4s9yQklhWCXx85cHo7XgjG7XeGAGB57PU7+Lz4jCiDJMsY4 R+4nnPMpy6OH9sZcxkwF07DPfC5lLw8Gbog9ljPR7n4ivcEa+eZJaTXj LXertb5CywPqy9p7qqL4IBUJxIcenrgp/9DFXsXcB6TlHa9u3c8EfcUa yumwb2ZFin5AI2WlcPBDdqdq2tqFWcbPtaIO/eb361Hd/bfpH2887QcQ YbI5DVk/pcvK58igwxrZKAtmbnHyA6bErgSTpOhRRFie33xBKooFodoE LsosTenpFt04204AdyFHvJT/X8eJPVb7Iy28dnZ76J/q1LVO/NX8/zIe 437rGQ==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159727 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159737 900 1800 6048000 3600
