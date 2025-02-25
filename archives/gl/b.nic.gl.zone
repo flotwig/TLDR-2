@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159735 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. O3DrmBeVsCz6+k/03dEdztOvlhwP1NrG+tHAERKI0HDGvYEOAiQ6CPt+ mwq49mYFF02Nz/YhQOeUwAI+KOZQm/kP0gRXyC9tI8ekeCHUKiXbnvq7 YyTF9TjHOwLrdup6CgHQKw3mc6WAvelkIDZtQRAzMLd9za8CwLTReMn3 jkRWMPjqQsuPu1dn77aQI+e/FrC73jA5rFb0+3Q8lbn9St6aV2DmT2JM 7fQyah3rQUjZJ41hymPu5g692HOVf/VTVPU5ulvye5FUMz32+WcJ2YCD wE62PWAP7wT6lD4KTB1wM4jMagQtD4o5ukeF6TenRYHwH8Xpum9xkW87 A1Y5ag==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159758 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. XYAiDHbuT6mXA5+rBicuqlqNbEPF3lzXNsiAVNMBexSqYCjIJ1Zw9hQt Vp4M03Jp+jBL5moHfr9fwUlhmSuzky1IdqqMxkI3rwx903942tU5ciEG 7iip//WBR8s9s7qWEB1AYgEN3d4r+NWSopGhaJQO8FyqVVNp2n/legZA 7lN/AVq3z5nETDUE+f79XTurz78/EGD7RUeNvsYBY2WuO7Yc5LTzoOq8 pj9v7j111PpZ8c11XV/bMoM3xTnSMiPCYtObb2rETNdRJ4y0UmBpdewk 4B8sYWrGfZyBOHBcxU7b7wIw9gpUadPCR96EQ1tPrwrfdQ7iY/B2ybUA bWMzHg==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -11603,6 +11603,9 @@ lpm.gl.			3600	IN	NS	ns1.bdm.microsoftonline.com.
 lpm.gl.			3600	IN	NS	ns2.bdm.microsoftonline.com.
 lpm.gl.			3600	IN	NS	ns3.bdm.microsoftonline.com.
 lpm.gl.			3600	IN	NS	ns4.bdm.microsoftonline.com.
+lpmarineservice.gl.	3600	IN	NS	ns1.gigahost.dk.
+lpmarineservice.gl.	3600	IN	NS	ns2.gigahost.dk.
+lpmarineservice.gl.	3600	IN	NS	ns3.gigahost.dk.
 lra4.gl.		3600	IN	NS	eu.atakdomain.com.
 lra4.gl.		3600	IN	NS	tr.atakdomain.com.
 lra5.gl.		3600	IN	NS	eu.atakdomain.com.
@@ -19667,6 +19670,10 @@ topview.gl.		3600	IN	NS	a.hosting.gl.
 topview.gl.		3600	IN	NS	b.hosting.gl.
 topview.gl.		3600	IN	NS	c.hosting.gl.
 topview.gl.		3600	IN	NS	d.hosting.gl.
+topviking.gl.		3600	IN	NS	a.hosting.gl.
+topviking.gl.		3600	IN	NS	b.hosting.gl.
+topviking.gl.		3600	IN	NS	c.hosting.gl.
+topviking.gl.		3600	IN	NS	d.hosting.gl.
 tork.gl.		3600	IN	NS	melkor.ngninfra.net.
 tork.gl.		3600	IN	NS	tilion.ngninfra.net.
 torrak.gl.		3600	IN	NS	helium.ns.hetzner.de.
@@ -19794,6 +19801,8 @@ tretorn.gl.		3600	IN	NS	ns6.markmonitor.com.
 tretorn.gl.		3600	IN	NS	ns7.markmonitor.com.
 treuhand.gl.		3600	IN	NS	ns91.tophost.ch.
 treuhand.gl.		3600	IN	NS	ns92.tophost.ch.
+treuhandart.gl.		3600	IN	NS	ns91.tophost.ch.
+treuhandart.gl.		3600	IN	NS	ns92.tophost.ch.
 trip.gl.		3600	IN	NS	ns1-coming-soon.sav.com.
 trip.gl.		3600	IN	NS	ns2-coming-soon.sav.com.
 trivago.gl.		3600	IN	NS	pdns1.ultradns.net.
@@ -23127,4 +23136,4 @@ VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. Y1v6YCMGj4s9yQklhWCXx85cHo7XgjG7XeGAGB57PU7+Lz4jCiDJMsY4 R+4nnPMpy6OH9sZcxkwF07DPfC5lLw8Gbog9ljPR7n4ivcEa+eZJaTXj LXertb5CywPqy9p7qqL4IBUJxIcenrgp/9DFXsXcB6TlHa9u3c8EfcUa yumwb2ZFin5AI2WlcPBDdqdq2tqFWcbPtaIO/eb361Hd/bfpH2887QcQ YbI5DVk/pcvK58igwxrZKAtmbnHyA6bErgSTpOhRRFie33xBKooFodoE LsosTenpFt04204AdyFHvJT/X8eJPVb7Iy28dnZ76J/q1LVO/NX8/zIe 437rGQ==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159735 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159758 900 1800 6048000 3600
