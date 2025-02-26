@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159764 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. arALsWe+d9s2jVP8gee7y/KwWZlhELMogU4XRyXpw/JRCsWbVYLHClJP U6mORUDlqKaynJMxhiyv5muEz0+SMVMF7yIbSB9/BHBYE64QBG/Ew1eO PJS8zFMVhE5s93B5BxS9cBhrNkHnyO1U/vDqjI23UUET/uoKPY+w7Mio b+5TjaTgdSJdMdMrCjnu7Z7UqzpNVxdCbK5Ai0xecoIkHsfKn8Vf+85i Ien3FgKv7R53itZT4Vr4ZJ3NPgc8dhDXnYhThMIMwuP2HFCyJ64SD37v yXhOt6+ASmQLFNHql9dt9q62MfHzeuSyGHQdARXapXYVjX19GOoVdFhY kTLg/A==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159772 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. C2b5EzyQl7kGL12F8dD2kZX7Tj6b1wP8YmaI1cnSgWpd+D7E7bWcrQU8 RjOiLskcebSwpiBEJHgPT0UFPkskGm5hcY0IbLBLoA0D6RFH6tGLI8Ow qAlVU0DVAvlOFyU/dNctks6/uZ0lSsjJB3cAG7up6Cn8R/lC6kTMgWER l8gnjZr3gyvVWm3zqUWwvPYxrAt/Pfdm7zvJUaFMWXNUZJpjDOiNlyCv v5ThVCU52f7wipGEkLKVfbavV1i3MDSGK+MAN6LZ4CTgTwcN1S1CuiTQ qrLw/aOu0W1k2q6o4vwP7yT/FYcMltexKOe0urRvgFmZvZloS2+VCTyi O5M9Nw==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -72,6 +72,8 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250428120000 20250207120000 57390 gl. DvnEDn
 14kra.gl.		3600	IN	NS	ns1.disabled.ispapi.net.
 14kra.gl.		3600	IN	NS	ns2.disabled.ispapi.net.
 14kra.gl.		3600	IN	NS	ns3.disabled.ispapi.net.
+15.gl.			3600	IN	NS	ns1.netsto.net.
+15.gl.			3600	IN	NS	ns2.netsto.net.
 1508.gl.		3600	IN	NS	ns01.one.com.
 1508.gl.		3600	IN	NS	ns02.one.com.
 15271.gl.		3600	IN	NS	a.dnspod.com.
@@ -4034,8 +4036,6 @@ computer.gl.		3600	IN	NS	ns.checkdomain.de.
 computer.gl.		3600	IN	NS	ns2.checkdomain.de.
 computerfit.gl.		3600	IN	NS	ns1.jimdo.com.
 computerfit.gl.		3600	IN	NS	ns2.jimdo.com.
-con.gl.			3600	IN	NS	ns1.onlycpanel.com.
-con.gl.			3600	IN	NS	ns2.onlycpanel.com.
 conference.gl.		3600	IN	NS	ns1.hosting.inuit.gl.
 conference.gl.		3600	IN	NS	ns2.hosting.inuit.gl.
 conico.gl.		3600	IN	NS	ns1.netim.net.
@@ -6272,8 +6272,8 @@ forlaget-atuagkat.gl.	3600	IN	NS	ns2.dandomain.dk.
 forlaget-atuagkat.gl.	3600	IN	NS	ns3.dandomain.dk.
 form.gl.		3600	IN	NS	170.ns1.abovedomains.com.
 form.gl.		3600	IN	NS	170.ns2.abovedomains.com.
-forms.gl.		3600	IN	NS	170.ns1.above.com.
-forms.gl.		3600	IN	NS	170.ns2.above.com.
+forms.gl.		3600	IN	NS	170.ns1.abovedomains.com.
+forms.gl.		3600	IN	NS	170.ns2.abovedomains.com.
 foronuclear.gl.		3600	IN	NS	ns.dinahosting.com.
 foronuclear.gl.		3600	IN	NS	ns2.dinahosting.com.
 foronuclear.gl.		3600	IN	NS	ns3.dinahosting.com.
@@ -7002,8 +7002,8 @@ gog.gl.			3600	IN	NS	ns2.bodis.com.
 gogreenland.gl.		3600	IN	NS	ns1.modulo.gl.
 gogreenland.gl.		3600	IN	NS	ns2.modulo.gl.
 gogreenland.gl.		3600	IN	NS	ns3.modulo.gl.
-goi.gl.			3600	IN	NS	170.ns1.above.com.
-goi.gl.			3600	IN	NS	170.ns2.above.com.
+goi.gl.			3600	IN	NS	170.ns1.abovedomains.com.
+goi.gl.			3600	IN	NS	170.ns2.abovedomains.com.
 goiardi.gl.		3600	IN	NS	ns-313.awsdns-39.com.
 goiardi.gl.		3600	IN	NS	ns-949.awsdns-54.net.
 goiardi.gl.		3600	IN	NS	ns-1247.awsdns-27.org.
@@ -7110,8 +7110,8 @@ gp.gl.			3600	IN	NS	dns43.cloudns.net.
 gp.gl.			3600	IN	NS	dns44.cloudns.net.
 gpb.gl.			3600	IN	NS	ns2.gazprombank.ru.
 gpb.gl.			3600	IN	NS	ns3.gazprombank.ru.
-gpp.gl.			3600	IN	NS	170.ns1.above.com.
-gpp.gl.			3600	IN	NS	170.ns2.above.com.
+gpp.gl.			3600	IN	NS	170.ns1.abovedomains.com.
+gpp.gl.			3600	IN	NS	170.ns2.abovedomains.com.
 gps.gl.			3600	IN	NS	ns1.101domain.com.
 gps.gl.			3600	IN	NS	ns2.101domain.com.
 gpt.gl.			3600	IN	NS	holding-ns1.paomi.com.
@@ -7606,9 +7606,6 @@ gunshop.gl.		3600	IN	NS	d.hosting.gl.
 gur.gl.			3600	IN	NS	ns1.netim.net.
 gur.gl.			3600	IN	NS	ns2.netim.net.
 gur.gl.			3600	IN	NS	ns3.netim.net.
-gustavlundstrom.gl.	3600	IN	NS	ns1.netim.net.
-gustavlundstrom.gl.	3600	IN	NS	ns2.netim.net.
-gustavlundstrom.gl.	3600	IN	NS	ns3.netim.net.
 gux.gl.			3600	IN	NS	ns1.gigahost.dk.
 gux.gl.			3600	IN	NS	ns2.gigahost.dk.
 gux.gl.			3600	IN	NS	ns3.gigahost.dk.
@@ -15461,8 +15458,6 @@ pen.gl.			3600	IN	NS	jakub.ns.cloudflare.com.
 pen.gl.			3600	IN	NS	destiny.ns.cloudflare.com.
 pen.gl.			3600	IN	DS	2371 13 2 83500D515182C3ED444ED9754981991313618C6E8D8774A4ACF8A51A ED653E38
 pen.gl.			3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. AO4+O5uafJuADcD0AUPNtpqFVvXZtqVcXgONHTZ0BFkhVhMhqoWKGETR UFkheCQCQq7gy3gmE1d9bHi9H06eeSQ6MrDdfHwJqFtmZm60dDkqx9sr 4zlm4Rz2w9xEoZFQTyRyjC7vUzcSJ4MFcLMQ2al3TODaaekW6KP2VP81 0lFU2zzYpJq+WJTFLYMR7Nsh2wtV9jNg+bJt73no9crtT0O+wQbJhlSw 9/WpVc4VWEOfT+3Onfyytahnna3ov+Lvuap0+ntf+cpcSvFTOMPA8dmW Y56KHeKCgZyvciwPdZnO2Da0Dr29v5JIgViN04odAIYTLAGP6EpsQnok 2VAdQg==
-pendle.gl.		3600	IN	NS	ns1.managedns1.com.
-pendle.gl.		3600	IN	NS	ns2.managedns1.com.
 penny.gl.		3600	IN	NS	ns-cloud-c1.googledomains.com.
 penny.gl.		3600	IN	NS	ns-cloud-c2.googledomains.com.
 penny.gl.		3600	IN	NS	ns-cloud-c3.googledomains.com.
@@ -18154,8 +18149,6 @@ socialstyrelsen.gl.	3600	IN	NS	ns3.modulo.gl.
 socialstyrelsennanoq.gl. 3600	IN	NS	ns1.modulo.gl.
 socialstyrelsennanoq.gl. 3600	IN	NS	ns2.modulo.gl.
 socialstyrelsennanoq.gl. 3600	IN	NS	ns3.modulo.gl.
-socket.gl.		3600	IN	NS	ns1.managedns1.com.
-socket.gl.		3600	IN	NS	ns2.managedns1.com.
 soemandshjem.gl.	3600	IN	NS	ns1.solutio.dk.
 soemandshjem.gl.	3600	IN	NS	ns2.solutio.dk.
 soemandshjem.gl.	3600	IN	NS	ns3.solutio.dk.
@@ -23135,4 +23128,4 @@ VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. Y1v6YCMGj4s9yQklhWCXx85cHo7XgjG7XeGAGB57PU7+Lz4jCiDJMsY4 R+4nnPMpy6OH9sZcxkwF07DPfC5lLw8Gbog9ljPR7n4ivcEa+eZJaTXj LXertb5CywPqy9p7qqL4IBUJxIcenrgp/9DFXsXcB6TlHa9u3c8EfcUa yumwb2ZFin5AI2WlcPBDdqdq2tqFWcbPtaIO/eb361Hd/bfpH2887QcQ YbI5DVk/pcvK58igwxrZKAtmbnHyA6bErgSTpOhRRFie33xBKooFodoE LsosTenpFt04204AdyFHvJT/X8eJPVb7Iy28dnZ76J/q1LVO/NX8/zIe 437rGQ==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159764 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159772 900 1800 6048000 3600
