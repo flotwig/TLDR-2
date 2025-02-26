@@ -1,4 +1,4 @@
-ni.			86400	IN	SOA	ns.ni. root.ns.ni. 2021113216 600 600 604801 86400
+ni.			86400	IN	SOA	ns.ni. root.ns.ni. 2021113217 600 600 604801 86400
 ni.			86400	IN	NS	ns.ni.
 ni.			86400	IN	NS	ns.ideay.net.ni.
 ni.			86400	IN	NS	ns2.ni.
@@ -602,6 +602,8 @@ dhoze.ni.		86400	IN	NS	dns03.ports.se.
 dhoze.ni.		86400	IN	NS	dns04.ports.net.
 diem.ni.		86400	IN	NS	ns-cloud-d3.googledomains.com.
 diem.ni.		86400	IN	NS	ns-cloud-d4.googledomains.com.
+directorio.ni.		86400	IN	NS	ns.ni.
+directorio.ni.		86400	IN	NS	ns2.ni.
 disagro.ni.		86400	IN	NS	ns01.trademarkarea.com.
 disagro.ni.		86400	IN	NS	ns02.trademarkarea.com.
 disagro.ni.		86400	IN	NS	ns03.trademarkarea.com.
@@ -1375,9 +1377,8 @@ nic2.ni.		86400	IN	NS	ns2.greengeeks.net.
 ns1.nica.ni.		86400	IN	A	165.98.28.2
 nicix.ni.		86400	IN	NS	ns.ni.
 nicix.ni.		86400	IN	NS	ns2.ni.
-nicix.ni.		86400	IN	NS	ns3.ni.
-nicixproject.ni.	86400	IN	NS	ns1.bluehost.com.
-nicixproject.ni.	86400	IN	NS	ns2.bluehost.com.
+nicixproject.ni.	86400	IN	NS	ns.ni.
+nicixproject.ni.	86400	IN	NS	ns2.ni.
 nicnicaragua.ni.	86400	IN	NS	ns.ni.
 nicnicaragua.ni.	86400	IN	NS	ns2.ni.
 nico.ni.		86400	IN	NS	aida.ns.cloudflare.com.
@@ -1502,6 +1503,12 @@ paramountplus.ni.	86400	IN	NS	dns3.p09.nsone.net.
 paramountplus.ni.	86400	IN	NS	dns4.p09.nsone.net.
 paramountplus.ni.	86400	IN	NS	ns0004.secondary.cloudflare.com.
 paramountplus.ni.	86400	IN	NS	ns0243.secondary.cloudflare.com.
+paramountskydance.ni.	86400	IN	NS	dns1.p01.nsone.net.
+paramountskydance.ni.	86400	IN	NS	dns1.paramount-cloudflare.com.
+paramountskydance.ni.	86400	IN	NS	dns2.p01.nsone.net.
+paramountskydance.ni.	86400	IN	NS	dns2.paramount-cloudflare.com.
+paramountskydance.ni.	86400	IN	NS	dns3.p01.nsone.net.
+paramountskydance.ni.	86400	IN	NS	dns4.p01.nsone.net.
 pay.ni.			86400	IN	NS	lovisa.ns.cloudflare.com.
 pay.ni.			86400	IN	NS	christian.ns.cloudflare.com.
 perfectos.ni.		86400	IN	NS	ns01.trademarkarea.com.
@@ -1990,7 +1997,8 @@ wolflubes.ni.		86400	IN	NS	ns4.brandshelter.net.
 wolflubes.ni.		86400	IN	NS	ns5.brandshelter.us.
 workoutanytime.ni.	86400	IN	NS	ns01.trademarkarea.com.
 workoutanytime.ni.	86400	IN	NS	ns02.trademarkarea.com.
-www.ni.			86400	IN	NS	srv1.i2.net.ni.
+www.ni.			86400	IN	NS	ns.ni.
+www.ni.			86400	IN	NS	ns2.ni.
 xoom.ni.		86400	IN	NS	ns1.markmonitor.com.
 xoom.ni.		86400	IN	NS	ns2.markmonitor.com.
 xoom.ni.		86400	IN	NS	ns3.markmonitor.com.
@@ -2043,4 +2051,4 @@ zumex.ni.		86400	IN	NS	ns3.ascio.com.
 zumex.ni.		86400	IN	NS	ns4.ascio.com.
 zumtobel.ni.		86400	IN	NS	meadow.ns.cloudflare.com.
 zumtobel.ni.		86400	IN	NS	thaddeus.ns.cloudflare.com.
-ni.			86400	IN	SOA	ns.ni. root.ns.ni. 2021113216 600 600 604801 86400
+ni.			86400	IN	SOA	ns.ni. root.ns.ni. 2021113217 600 600 604801 86400
