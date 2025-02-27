@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159865 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. eEoV2wFombhD5QH0Il/kbgN5nxxWUmVoNtgXX47BtVpcy8YUeAXTRbX8 mEUdvdjVTIumd2oSuy2pY9YJFb3HKzbo1BM0pBij5sshfYrQS4+3npu5 eT6asfLmTdw0t3u1kmCHyoTycoPcqKzJsPI5BNcTZOM9tGmRmQovZctm H1ZzkQCwhhwzL2Ok1xgRklX2Abzy/Xz10NUlSJUlU2okGZizLw/QtXcP C0NQxo1NIpN86Mv52lsCiBoj+vTKuoGYNr0cA68G5sOzb8BBSd9FzbCa 1+a3cP6azyEReKoX/OuZRVAdFMhhuD/XWBkMX/LQ4qcdmfRJiAESb7za 5atzLw==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159867 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. HrKoEzaGX8qAN4lpfq5zSD31xTtoD8aSkZmYiYOi8/S3ZuakryPcgROI 3bsaYmW7H6vdK5zoBlSm5yQj7Mx/bwaxASKNiTN7d/fRT3S2IL1vXYd/ MXggwPLIULHnlTj+hL90i0yevFtyE6CVheJtO43BWR1VVs+udV4hA9MI arGm8y1A8dkWH3NRMG2yqP86rT2v26Oz+wr4UW5HaOzan0ux5XcIm/5W 5Kdc8oEHVLQHka1XbgBrFTo0HKpPfrc4qN1ERcFT2gSGGsd6qdnRSIb5 zYStVDbxCJsrflCKpyIYJzAOVaAhkAkaemtR6aTJcwcz/U7jIzNZrjCi +AcfLg==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -2453,6 +2453,8 @@ bcg.gl.			3600	IN	NS	ns-1056.awsdns-04.org.
 bcg.gl.			3600	IN	NS	ns-1849.awsdns-39.co.uk.
 bcllub.gl.		3600	IN	NS	ns3.my-ndns.com.
 bcllub.gl.		3600	IN	NS	ns4.my-ndns.com.
+bclub.gl.		3600	IN	NS	ns1.fx-dns.net.
+bclub.gl.		3600	IN	NS	ns2.fx-dns.net.
 bclubb.gl.		3600	IN	NS	ns1.openprovider.nl.
 bclubb.gl.		3600	IN	NS	ns2.openprovider.be.
 bclubb.gl.		3600	IN	NS	ns3.openprovider.eu.
@@ -19042,6 +19044,8 @@ tagpap.gl.		3600	IN	NS	ns4.simply.com.
 tagpap.gl.		3600	IN	DS	60724 13 2 F53BB2069BCF230634E210FAF3E968F5EABCC3A8C7DD9B4C5F70FDDE F0EF292A
 tagpap.gl.		3600	IN	DS	60724 13 4 A64D33CD26B7A5301C797AE981432EC95D05C956962C8D16B8576A5E 0575D68714D679AFA0F63CADE0C613113DD70FD7
 tagpap.gl.		3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. K5SnWcmuArL6MSEpXdqGi7aOeXYhykqyhrJCXp34ELbw+Fs/G2TeonmI fQb3/nM9Hh6w2LmHuL/iE/ZtMdi0STfdEfogi0AgIfAghEc30xTi6o41 Vk5MWVnAcxEYFV9OPg8CApDgYhYP3If0haAeM3F7oUhXrJsX0ZwCR4K3 0zHD9qSKiB9em/eo/im9sHbfigsDVQ3e506D5CrpBUdysCM+IaXB3moR Gb8apKl8mruL0ZmAHCqb7vhAHNPNa8WBDOb3jUjtZ+eaelk3QBjmk8ZM 8dDqqv71NQ4vyoSLHi+Z2MTYjVDjq2qB1n/i3N267pKGkIC9uKqvAyNo iCHpbw==
+takanna.gl.		3600	IN	NS	rick.ns.cloudflare.com.
+takanna.gl.		3600	IN	NS	sara.ns.cloudflare.com.
 takeda.gl.		3600	IN	NS	ns-396.awsdns-49.com.
 takeda.gl.		3600	IN	NS	ns-701.awsdns-23.net.
 takeda.gl.		3600	IN	NS	ns-1041.awsdns-02.org.
@@ -20164,10 +20168,9 @@ ukaleq.gl.		3600	IN	NS	ns2.gratisdns.dk.
 ukaleq.gl.		3600	IN	NS	ns3.gratisdns.dk.
 ukaleq.gl.		3600	IN	NS	ns4.gratisdns.dk.
 ukaleq.gl.		3600	IN	NS	ns5.gratisdns.dk.
-ukt.gl.			3600	IN	NS	ns027.holyrock.net.
-ukt.gl.			3600	IN	NS	ns028.holyrock.net.
-ukt.gl.			3600	IN	NS	ns029.holyrock.net.
-ukt.gl.			3600	IN	NS	ns030.holyrock.net.
+ukt.gl.			3600	IN	NS	ns1.netim.net.
+ukt.gl.			3600	IN	NS	ns2.netim.net.
+ukt.gl.			3600	IN	NS	ns3.netim.net.
 ul.gl.			3600	IN	NS	ns.namespace4you.de.
 ul.gl.			3600	IN	NS	ns2.namespace4you.de.
 ulaajuk.gl.		3600	IN	NS	a.hosting.gl.
@@ -23147,4 +23150,4 @@ VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. Y1v6YCMGj4s9yQklhWCXx85cHo7XgjG7XeGAGB57PU7+Lz4jCiDJMsY4 R+4nnPMpy6OH9sZcxkwF07DPfC5lLw8Gbog9ljPR7n4ivcEa+eZJaTXj LXertb5CywPqy9p7qqL4IBUJxIcenrgp/9DFXsXcB6TlHa9u3c8EfcUa yumwb2ZFin5AI2WlcPBDdqdq2tqFWcbPtaIO/eb361Hd/bfpH2887QcQ YbI5DVk/pcvK58igwxrZKAtmbnHyA6bErgSTpOhRRFie33xBKooFodoE LsosTenpFt04204AdyFHvJT/X8eJPVb7Iy28dnZ76J/q1LVO/NX8/zIe 437rGQ==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159865 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159867 900 1800 6048000 3600
