@@ -6789,8 +6789,8 @@ h.nic.es.		172800	IN	A	194.0.33.53
 h.nic.es.		172800	IN	AAAA	2001:678:40::53
 ad.ns.nic.es.		172800	IN	A	194.69.254.15
 ad.ns.nic.es.		172800	IN	AAAA	2001:67c:21cc:2000::64:47
-cat.ns.nic.es.		172800	IN	AAAA	2001:67c:21cc:2000::64:47
 cat.ns.nic.es.		172800	IN	A	194.69.254.15
+cat.ns.nic.es.		172800	IN	AAAA	2001:67c:21cc:2000::64:47
 esq.			172800	IN	NS	ns-tld1.charlestonroadregistry.com.
 esq.			172800	IN	NS	ns-tld2.charlestonroadregistry.com.
 esq.			172800	IN	NS	ns-tld3.charlestonroadregistry.com.
@@ -10783,8 +10783,8 @@ m.dns.it.		172800	IN	A	217.29.76.4
 m.dns.it.		172800	IN	AAAA	2001:1ac0:0:200:0:a5d1:6004:2
 r.dns.it.		172800	IN	A	193.206.141.46
 r.dns.it.		172800	IN	AAAA	2001:760:ffff:ffff::ca
-v.dns.it.		172800	IN	A	194.0.25.44
 v.dns.it.		172800	IN	AAAA	2001:678:20::44
+v.dns.it.		172800	IN	A	194.0.25.44
 osiris.namex.it.	172800	IN	A	193.201.40.6
 osiris.namex.it.	172800	IN	AAAA	2a0f:80:1::6
 seth.namex.it.		172800	IN	A	193.201.40.7
@@ -12358,8 +12358,8 @@ ns1.ac.lk.		172800	IN	AAAA	2401:dd00:1::162
 ns3.ac.lk.		172800	IN	A	202.124.166.178
 d.nic.lk.		172800	IN	A	123.231.6.18
 d.nic.lk.		172800	IN	AAAA	2402:4000:479:c5::a
-h.nic.lk.		172800	IN	A	43.252.12.206
 h.nic.lk.		172800	IN	AAAA	2404:8a00:0:a00::4005
+h.nic.lk.		172800	IN	A	43.252.12.206
 m.nic.lk.		172800	IN	A	202.129.235.229
 m.nic.lk.		172800	IN	AAAA	2407:c00:21:8:202:129:235:229
 ns-c.nic.lk.		172800	IN	A	203.143.19.3
@@ -14431,9 +14431,9 @@ dns1.lttnet.net.	172800	IN	A	62.68.42.9
 ns1-fr.mediaserv.net.	172800	IN	A	185.56.51.194
 ns1-gp.mediaserv.net.	172800	IN	A	213.188.172.1
 ns1-mq.mediaserv.net.	172800	IN	A	213.16.20.3
+a.mynic.net.		172800	IN	AAAA	2600:9000:a404:ea61:d5b5:aa1c:fed3:4d77
 a.mynic.net.		172800	IN	A	3.33.142.194
 a.mynic.net.		172800	IN	A	15.197.237.255
-a.mynic.net.		172800	IN	AAAA	2600:9000:a404:ea61:d5b5:aa1c:fed3:4d77
 server.nordu.net.	172800	IN	A	193.10.252.19
 server.nordu.net.	172800	IN	AAAA	2001:948:4:2::19
 ns.ntamar.net.		172800	IN	A	117.103.88.33
@@ -22363,18 +22363,18 @@ weber.			86400	IN	DS	55549 8 2 FDD1F975D9E59017788B52570119039ED3D99EFB0984CD966
 weber.			86400	IN	RRSIG	DS 8 1 86400 20250312220000 20250227210000 26470 . Ovh11WfESiQJRLYSQQxrH2eOi1YE4dLC0s79zlisZ+PD+kVNjn8/es0R Xg3cgagmKwcgbTMqlWHjaRRHNs9wmEPGlLPuPft9zciUB1h0HqSdGVCw 6IW92iEB8WpjT+HA1k46eLXxw9lJgJHgpI+z887/M5i5r7tQjcnithew pbLid4Cb/yojAFoUykzNiKPMp1j2os6kU/TwtFotTZ+zPttFV0jfN5Ge vNSf9DOhv/PirHeTy7AvbXlSP642NbzoiPLvOPl60ByQ40/Z/Ql6IpPv eDeuivKEiOP4YUjzRTTfdBq8iyX4OOgO8SukhmfbElzKa6XoBVl8E+2h JUUq/g==
 weber.			86400	IN	NSEC	website. NS DS RRSIG NSEC
 weber.			86400	IN	RRSIG	NSEC 8 1 86400 20250312220000 20250227210000 26470 . mo1s6nKnJ9vC8YIaLcZifSmrcJ219rVDj6LF+/2CzO1ls7b0/hVpOF8/ WIJJRnqcMi2h5gCONXJZssUvJiX0kj5xcu/Ab6hBbl3wiKBMcz+DRihI PjkYtvdN5QZw6WoSJ4z0esfgMHsggmsAnwdH0ZhTQwPWQQUKBm4QzDFc /fuUeHHlYpKwTkPqHM+Pr0LejjiPNlFNyASVA9ufXffyU7rpCGM5tynW ripCZSvlzpuix43zahpQ61qQVPD6KiLOdAP2jW4Ubng9d4SBWi8ycn9B lfzePBa1bTSofDNdVY/csQXn3WxuTNoI3dVYEGtB1PEygQP94/TmRsl2 q6yUMg==
-v0n0.nic.weber.		172800	IN	A	65.22.108.21
 v0n0.nic.weber.		172800	IN	AAAA	2a01:8840:6a::21
-v0n1.nic.weber.		172800	IN	A	65.22.109.21
+v0n0.nic.weber.		172800	IN	A	65.22.108.21
 v0n1.nic.weber.		172800	IN	AAAA	2a01:8840:6b::21
-v0n2.nic.weber.		172800	IN	A	65.22.110.21
+v0n1.nic.weber.		172800	IN	A	65.22.109.21
 v0n2.nic.weber.		172800	IN	AAAA	2a01:8840:6c::21
-v0n3.nic.weber.		172800	IN	A	161.232.32.21
+v0n2.nic.weber.		172800	IN	A	65.22.110.21
 v0n3.nic.weber.		172800	IN	AAAA	2a01:8840:108::21
-v2n0.nic.weber.		172800	IN	A	65.22.111.21
+v0n3.nic.weber.		172800	IN	A	161.232.32.21
 v2n0.nic.weber.		172800	IN	AAAA	2a01:8840:6d::21
-v2n1.nic.weber.		172800	IN	A	161.232.33.21
+v2n0.nic.weber.		172800	IN	A	65.22.111.21
 v2n1.nic.weber.		172800	IN	AAAA	2a01:8840:109::21
+v2n1.nic.weber.		172800	IN	A	161.232.33.21
 website.		172800	IN	NS	a.nic.website.
 website.		172800	IN	NS	b.nic.website.
 website.		172800	IN	NS	e.nic.website.
