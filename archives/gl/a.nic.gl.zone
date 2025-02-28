@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159915 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. gY5x78kQWzXTRqDA56/l1aZxm0KOkQtB2mMYwEEOpf/56ZF2yrGs06+n z3wbACOocX1GaDDmPLYDQ7bH5K8QsAdjdS89V9VKhhIWcFkah11cVU5t yKdcjEH7DK+kvucYYN8UR3X49H/CVJq9nGWGdA8h/dsitzQryIMw1YmL Ke0Ttx6BRJ+RAXm7JomszkYQIXWErRbuj+PZZo6l8dJ9CDtRTQEOct7V 5j8d6XsJVmi5Htb85NypGHY46+0c1goaIAt67sPEscJY+nZoLU7CI7TH hxYPJ6ZwdJVkm3vaf1ZRK2kiTUCghMOy4Mc8g0DsK7OUsXQpw17N/Nyk qqlUwg==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159920 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. hGIo0TZ48sr/5cHuCvnKpiSX1ekaQPOvYpdmjNXjfjV4P5Q7TXQ4y6fk SKnfeq8nOyRjH5+HMOQI/rFGOA0BBE6L1OUXa129uwZ+Rt6Z+WoZ/mQ1 fp9jMiF9xNhTK6WI9/vglOp1UeS6RQIf0q6oGmNCNeMGNAeCKSCuyWOL jqv51epRG50rmynjLLEd254MaP4qbSl3Dmb2hDk7GTBLe63ahE+6Pxvi 2Cqfxsok1esVmi/s7r5ckOnyUqG0vcfwxx7IC8t7CYqNBvsQ7h7J5REo yixFOGdYZmNgyvExmctvCk3/JV+pXU8s9OeFsUMRaHpCoDbZuHBPr7aG 8LOaug==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -19211,6 +19211,9 @@ teachnet.gl.		3600	IN	NS	ns2.netim.net.
 teachnet.gl.		3600	IN	NS	ns3.netim.net.
 teachnet.gl.		3600	IN	NS	ns4.netim.net.
 teachnet.gl.		3600	IN	NS	ns5.netim.net.
+team.gl.		3600	IN	NS	ns1.simply.com.
+team.gl.		3600	IN	NS	ns2.simply.com.
+team.gl.		3600	IN	NS	ns3.simply.com.
 teamneon.gl.		3600	IN	NS	ns.udag.de.
 teamneon.gl.		3600	IN	NS	ns.udag.net.
 teamneon.gl.		3600	IN	NS	ns.udag.org.
@@ -19219,6 +19222,9 @@ teamviewer.gl.		3600	IN	NS	tv-ns2.teamviewer.com.
 teamviewer.gl.		3600	IN	NS	tv-ns3.teamviewer.com.
 teamviewer.gl.		3600	IN	NS	tv-ns4.teamviewer.com.
 teamviewer.gl.		3600	IN	NS	tv-ns5.teamviewer.com.
+teamwork.gl.		3600	IN	NS	ns1.simply.com.
+teamwork.gl.		3600	IN	NS	ns2.simply.com.
+teamwork.gl.		3600	IN	NS	ns3.simply.com.
 tech.gl.		3600	IN	NS	ns01.hostnet.nl.
 tech.gl.		3600	IN	NS	ns02.hostnet.nl.
 tef.gl.			3600	IN	NS	ns1.simply.com.
@@ -23166,4 +23172,4 @@ VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. Y1v6YCMGj4s9yQklhWCXx85cHo7XgjG7XeGAGB57PU7+Lz4jCiDJMsY4 R+4nnPMpy6OH9sZcxkwF07DPfC5lLw8Gbog9ljPR7n4ivcEa+eZJaTXj LXertb5CywPqy9p7qqL4IBUJxIcenrgp/9DFXsXcB6TlHa9u3c8EfcUa yumwb2ZFin5AI2WlcPBDdqdq2tqFWcbPtaIO/eb361Hd/bfpH2887QcQ YbI5DVk/pcvK58igwxrZKAtmbnHyA6bErgSTpOhRRFie33xBKooFodoE LsosTenpFt04204AdyFHvJT/X8eJPVb7Iy28dnZ76J/q1LVO/NX8/zIe 437rGQ==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159915 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159920 900 1800 6048000 3600
