@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030109 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1740819920"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030111 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1740827122"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -10947,8 +10947,10 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 6m.cm.			3600	IN	NS	ns2.netsto.net.
 6n.cm.			3600	IN	NS	ns1.alidns.com.
 6n.cm.			3600	IN	NS	ns2.alidns.com.
-6o.cm.			3600	IN	NS	ns1.qeodns.com.
-6o.cm.			3600	IN	NS	ns2.qeodns.com.
+6o.cm.			3600	IN	NS	ns1.cloudns.net.
+6o.cm.			3600	IN	NS	ns2.cloudns.net.
+6o.cm.			3600	IN	NS	ns3.cloudns.net.
+6o.cm.			3600	IN	NS	ns4.cloudns.net.
 6p.cm.			3600	IN	NS	ns1.netsto.net.
 6p.cm.			3600	IN	NS	ns2.netsto.net.
 6park.cm.		3600	IN	NS	pns21.cloudns.net.
@@ -20103,9 +20105,9 @@ balloon.cm.		3600	IN	NS	ns2.hostmered.com.
 balmain.cm.		3600	IN	NS	ns.domainnetwork.se.
 balmain.cm.		3600	IN	NS	ns2.domainnetwork.se.
 balmain.cm.		3600	IN	NS	ns3.domainnetwork.com.
-balombo.cm.		86400	IN	DS	2371 13 2 ADA93C4533E71B7975ABEF90C62E31FA0BC9AE51EAD940BA61278D2A 5A7F0C52
 balombo.cm.		3600	IN	NS	aarav.ns.cloudflare.com.
 balombo.cm.		3600	IN	NS	daphne.ns.cloudflare.com.
+balombo.cm.		86400	IN	DS	2371 13 2 ADA93C4533E71B7975ABEF90C62E31FA0BC9AE51EAD940BA61278D2A 5A7F0C52
 balomoproduction.cm.	3600	IN	NS	ns0.thundercloud.uk.
 balomoproduction.cm.	3600	IN	NS	ns1.thundercloud.uk.
 baloon.cm.		3600	IN	NS	ns1.bdm.microsoftonline.com.
@@ -26054,8 +26056,8 @@ cfca.cm.		3600	IN	NS	ns1.dnshostservices.com.
 cfca.cm.		3600	IN	NS	ns2.dnshostservices.com.
 cfca.cm.		3600	IN	NS	ns3.dnshostservices.com.
 cfca.cm.		3600	IN	NS	ns4.dnshostservices.com.
-cfce.cm.		3600	IN	NS	dns1.registrar-servers.com.
-cfce.cm.		3600	IN	NS	dns2.registrar-servers.com.
+cfce.cm.		3600	IN	NS	nick.ns.cloudflare.com.
+cfce.cm.		3600	IN	NS	veronica.ns.cloudflare.com.
 cfe-cameroun.cm.	3600	IN	NS	dns1.namecheaphosting.com.
 cfe-cameroun.cm.	3600	IN	NS	dns2.namecheaphosting.com.
 cfeefc.cm.		3600	IN	NS	ns1.netsto.net.
@@ -49508,6 +49510,8 @@ mileroticos.cm.		3600	IN	NS	pns23.cloudns.net.
 mileroticos.cm.		3600	IN	NS	pns24.cloudns.net.
 miles.cm.		3600	IN	NS	gina.ns.cloudflare.com.
 miles.cm.		3600	IN	NS	donald.ns.cloudflare.com.
+milestones.cm.		3600	IN	NS	dns1.namecheaphosting.com.
+milestones.cm.		3600	IN	NS	dns2.namecheaphosting.com.
 milewise.cm.		3600	IN	NS	ns01.gcd-dns.com.
 milewise.cm.		3600	IN	NS	ns02.gcd-dns.com.
 milfzr.cm.		3600	IN	NS	1665.ns1.above.com.
@@ -51587,8 +51591,8 @@ nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
 ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
 ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
-ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
 ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
+ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
 nanaboubagroup.cm.	3600	IN	NS	ns2.tchaytchay.com.
 nanbudokaikan.cm.	3600	IN	NS	ns102.ovh.net.
@@ -52428,8 +52432,6 @@ nikon.cm.		3600	IN	NS	ns2.parkingcrew.net.
 nile.cm.		3600	IN	NS	nsgbr.comlaude.co.uk.
 nile.cm.		3600	IN	NS	nssui.comlaude.ch.
 nile.cm.		3600	IN	NS	nsusa.comlaude.net.
-nimbuz.cm.		3600	IN	NS	ns1.camoogroup.com.
-nimbuz.cm.		3600	IN	NS	ns2.camoogroup.com.
 nindohost.cm.		3600	IN	NS	rob.ns.cloudflare.com.
 nindohost.cm.		3600	IN	NS	rose.ns.cloudflare.com.
 nine.cm.		3600	IN	NS	mary.ns.cloudflare.com.
@@ -74922,4 +74924,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030109 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030111 1800 900 1209600 3600
