@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159985 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. XNTazrilvKJJwJL2/7TpskrFgafLVrD6R6t9KhgaMYS90VEgKqJfSoK4 lf8y4tcoCovFf+ftoUgDcnzjAhjnetrvg2cVfrZmob0G3J9wOS7VatCm EYssBZRHjb3JY1Sjii4qpGJ+QtbdOhfOg4gw6VQSIIYn6NV+bBXFv+2u +40BA13LYlPYFHK0D/LfibKJAKQ7PeBEAV9J6VZWDyEWqewCP94nFrMY 0Xp76tWrilIbIosEII9Yruk3nQ3jWjVH4hg7NI6kbDaDl+KdProEhhIo FvjkcRq3wmUXJb5NUomvZ905rsYUfyiZRXBr2pR6IhGOjegVYECk0ZZh fIK14A==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159988 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. DBQyxQYAKnw6WbmxI4MGoMua66Q//kGZ3oPktK19WRNr/qmZDoQOk59n efrQ3grTsjIBrPfbgXDKlMFRlG2L0SVZ9uj34ouiO/TBIGawA57UsTWu giPu7l1Qut/Iqx5qSbRQujUtlJbIXZ/a9Frw+mCaD65pKJFKPLSCEuH4 e5YYNSRDTHNQvF6TnuMpn5eK93afSTCUWlLrzgilCnKC+Vcwfjl8n1Py ZWZhfRDptffnwdNtoQjJ+LS7QugJoCnyeDX9rWSLRe5gIpcjS9AbrSej M0jT4LLkd8dKc86kk+mk8XskyUIuF7aVi7jAItSFIAsyTct8R4EOhUvv srJ8dg==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -82,8 +82,6 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250428120000 20250207120000 57390 gl. DvnEDn
 15kra.gl.		3600	IN	NS	ns1.disabled.ispapi.net.
 15kra.gl.		3600	IN	NS	ns2.disabled.ispapi.net.
 15kra.gl.		3600	IN	NS	ns3.disabled.ispapi.net.
-16.gl.			3600	IN	NS	ns1.sedoparking.com.
-16.gl.			3600	IN	NS	ns2.sedoparking.com.
 168.gl.			3600	IN	NS	pat.ns.cloudflare.com.
 168.gl.			3600	IN	NS	jake.ns.cloudflare.com.
 16kra.gl.		3600	IN	NS	ns1.disabled.ispapi.net.
@@ -99,8 +97,6 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250428120000 20250207120000 57390 gl. DvnEDn
 18kra.gl.		3600	IN	NS	ns1.disabled.ispapi.net.
 18kra.gl.		3600	IN	NS	ns2.disabled.ispapi.net.
 18kra.gl.		3600	IN	NS	ns3.disabled.ispapi.net.
-19.gl.			3600	IN	NS	ns1.sedoparking.com.
-19.gl.			3600	IN	NS	ns2.sedoparking.com.
 19kra.gl.		3600	IN	NS	ns1.disabled.ispapi.net.
 19kra.gl.		3600	IN	NS	ns2.disabled.ispapi.net.
 19kra.gl.		3600	IN	NS	ns3.disabled.ispapi.net.
@@ -137,8 +133,6 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250428120000 20250207120000 57390 gl. DvnEDn
 20kra.gl.		3600	IN	NS	ns1.disabled.ispapi.net.
 20kra.gl.		3600	IN	NS	ns2.disabled.ispapi.net.
 20kra.gl.		3600	IN	NS	ns3.disabled.ispapi.net.
-21.gl.			3600	IN	NS	ns1.sedoparking.com.
-21.gl.			3600	IN	NS	ns2.sedoparking.com.
 21kra.gl.		3600	IN	NS	algin.ns.cloudflare.com.
 21kra.gl.		3600	IN	NS	jacqueline.ns.cloudflare.com.
 22.gl.			3600	IN	NS	ns1210.ispapi.net.
@@ -4412,8 +4406,6 @@ dataviz.gl.		3600	IN	NS	ns1.nunahosting.net.
 dataviz.gl.		3600	IN	NS	ns2.nunahosting.net.
 dataviz.gl.		3600	IN	NS	ns3.nunahosting.net.
 dataviz.gl.		3600	IN	NS	ns4.nunahosting.net.
-date.gl.		3600	IN	NS	ns1.sedoparking.com.
-date.gl.		3600	IN	NS	ns2.sedoparking.com.
 dau.gl.			3600	IN	NS	root-dns.netcup.net.
 dau.gl.			3600	IN	NS	third-dns.netcup.net.
 dau.gl.			3600	IN	NS	second-dns.netcup.net.
@@ -6747,8 +6739,6 @@ gex.gl.			3600	IN	NS	a.hosting.gl.
 gex.gl.			3600	IN	NS	b.hosting.gl.
 gex.gl.			3600	IN	NS	c.hosting.gl.
 gex.gl.			3600	IN	NS	d.hosting.gl.
-gf.gl.			3600	IN	NS	ns1.sedoparking.com.
-gf.gl.			3600	IN	NS	ns2.sedoparking.com.
 gfi.gl.			3600	IN	NS	ns1.modulo.gl.
 gfi.gl.			3600	IN	NS	ns2.modulo.gl.
 gfi.gl.			3600	IN	NS	ns3.modulo.gl.
@@ -16643,9 +16633,6 @@ reader.gl.		3600	IN	NS	tani.ns.cloudflare.com.
 real.gl.		3600	IN	NS	ns1.ndsplitter.com.
 real.gl.		3600	IN	NS	ns2.ndsplitter.com.
 real.gl.		3600	IN	NS	ns3.ndsplitter.com.
-realestate.gl.		3600	IN	NS	ns1.ndsplitter.com.
-realestate.gl.		3600	IN	NS	ns2.ndsplitter.com.
-realestate.gl.		3600	IN	NS	ns3.ndsplitter.com.
 realkompetencer.gl.	3600	IN	NS	ns3.nordicway.dk.
 realkompetencer.gl.	3600	IN	NS	ns4.nordicway.dk.
 rectan.gl.		3600	IN	NS	damien.ns.cloudflare.com.
@@ -23165,4 +23152,4 @@ VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. Y1v6YCMGj4s9yQklhWCXx85cHo7XgjG7XeGAGB57PU7+Lz4jCiDJMsY4 R+4nnPMpy6OH9sZcxkwF07DPfC5lLw8Gbog9ljPR7n4ivcEa+eZJaTXj LXertb5CywPqy9p7qqL4IBUJxIcenrgp/9DFXsXcB6TlHa9u3c8EfcUa yumwb2ZFin5AI2WlcPBDdqdq2tqFWcbPtaIO/eb361Hd/bfpH2887QcQ YbI5DVk/pcvK58igwxrZKAtmbnHyA6bErgSTpOhRRFie33xBKooFodoE LsosTenpFt04204AdyFHvJT/X8eJPVb7Iy28dnZ76J/q1LVO/NX8/zIe 437rGQ==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159985 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022159988 900 1800 6048000 3600
