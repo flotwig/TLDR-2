@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160041 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. bL/Z5CELl0GTh+Jw7OUUOUQVMDKFI79QmVyxq1hLOnQ319l24Z1QThof L2AF3g5e1KXQ+8WNA00b9OdLSc7kZRgpSL0CFsAoKTlvYLjrZAhXcLBX f9vzx97v0TpoS03rMJVevQjZZ6e8MTG3I0czOvLOzm6ovKe/adsfD4XY DciwGsCsDdZScmmvCmHhoonJ+1xJfhO7ExyyFOvd/DoMkXAoWERw6EFX It4azYtJbhxwxSaE0zHUeUG6sLXPpju4jbUHZSo0kMmgHQOGp5741Mfm YldonSQguSO1JzPmZ3PCTB980jm3AHq+KxTCMjPwqxTeL35QMlL4QFhw bK7CMQ==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160054 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. QQ2qQqPZMtp+6zFBii0dnFIACHOiG+InFc6h1SbDTODEVaF5FsUy4H7v EfrNDGBCzaoDwj6qbCyepy5696vaLpppiI123o8n2t9WO2OP9z1W/irN ngy8jCAXusX7Z+GLV2GdvZifNxBM9WQGiysskep1XzAsFyw7umpNmUcG yBbHYoCMjkokP1j7/gP42TEnzFA9ScZHLEIwQ9OYY1gJyZ+/DKWYmUD8 OorqX0P1CNa5uWC1nBtFkmG5cV4GYv/SQ30AdKwmTSWUSPizPj/7Xg21 0Sd9cR6gyhFK9OnQtBbyAgTUqy5Yj6Yexs8oA4ADLwNelzwvKMDAfQxf Ug/AgQ==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -135,9 +135,6 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250428120000 20250207120000 57390 gl. DvnEDn
 20kra.gl.		3600	IN	NS	ns3.disabled.ispapi.net.
 21kra.gl.		3600	IN	NS	algin.ns.cloudflare.com.
 21kra.gl.		3600	IN	NS	jacqueline.ns.cloudflare.com.
-22.gl.			3600	IN	NS	ns1210.ispapi.net.
-22.gl.			3600	IN	NS	ns2180.ispapi.net.
-22.gl.			3600	IN	NS	ns3194.ispapi.net.
 222.gl.			3600	IN	NS	a.dnspod.com.
 222.gl.			3600	IN	NS	b.dnspod.com.
 222.gl.			3600	IN	NS	c.dnspod.com.
@@ -346,14 +343,8 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250428120000 20250207120000 57390 gl. DvnEDn
 66.gl.			3600	IN	NS	ns2.dan.com.
 666.gl.			3600	IN	NS	ns1.domainnamedns.com.
 666.gl.			3600	IN	NS	ns2.domainnamedns.com.
-68.gl.			3600	IN	NS	ns1210.ispapi.net.
-68.gl.			3600	IN	NS	ns2180.ispapi.net.
-68.gl.			3600	IN	NS	ns3194.ispapi.net.
 688.gl.			3600	IN	NS	ns1.domainnamedns.com.
 688.gl.			3600	IN	NS	ns2.domainnamedns.com.
-69.gl.			3600	IN	NS	ns1210.ispapi.net.
-69.gl.			3600	IN	NS	ns2180.ispapi.net.
-69.gl.			3600	IN	NS	ns3194.ispapi.net.
 6kra.gl.		3600	IN	NS	ns1.disabled.ispapi.net.
 6kra.gl.		3600	IN	NS	ns3.disabled.ispapi.net.
 6krn.gl.		3600	IN	NS	bob.ns.cloudflare.com.
@@ -4273,9 +4264,6 @@ cyza.gl.		3600	IN	NS	ns2.netim.net.
 cyza.gl.		3600	IN	NS	ns3.netim.net.
 cyza.gl.		3600	IN	NS	ns4.netim.net.
 cyza.gl.		3600	IN	NS	ns5.netim.net.
-cz.gl.			3600	IN	NS	ns1210.ispapi.net.
-cz.gl.			3600	IN	NS	ns2180.ispapi.net.
-cz.gl.			3600	IN	NS	ns3194.ispapi.net.
 d.gl.			3600	IN	NS	ns1.regery.net.
 d.gl.			3600	IN	NS	ns2.regery.net.
 d.gl.			3600	IN	NS	ns3.regery.net.
@@ -6653,9 +6641,6 @@ gcc.gl.			3600	IN	NS	kia.ns.cloudflare.com.
 gcc.gl.			3600	IN	NS	javon.ns.cloudflare.com.
 gcrc.gl.		3600	IN	NS	ns01.one.com.
 gcrc.gl.		3600	IN	NS	ns02.one.com.
-gd.gl.			3600	IN	NS	ns1210.ispapi.net.
-gd.gl.			3600	IN	NS	ns2180.ispapi.net.
-gd.gl.			3600	IN	NS	ns3194.ispapi.net.
 gdp.gl.			3600	IN	NS	ns21613718270.a2dns.com.
 gdp.gl.			3600	IN	NS	ns21613718271.a2dns.com.
 gdpr.gl.		3600	IN	NS	ns1.simply.com.
@@ -11693,9 +11678,6 @@ lutz.gl.		3600	IN	NS	ns2.cyon.ch.
 lux.gl.			3600	IN	NS	ns3-fwl2.nic.ru.
 lux.gl.			3600	IN	NS	ns4-fwl2.nic.ru.
 lux.gl.			3600	IN	NS	ns8-fwl2.nic.ru.
-lv.gl.			3600	IN	NS	ns1210.ispapi.net.
-lv.gl.			3600	IN	NS	ns2180.ispapi.net.
-lv.gl.			3600	IN	NS	ns3194.ispapi.net.
 lvm.gl.			3600	IN	NS	ns1.trisinus.de.
 lvm.gl.			3600	IN	NS	ns2.trisinus.de.
 lvm.gl.			3600	IN	NS	ns3.trisinus.de.
@@ -15341,10 +15323,8 @@ pars.gl.		3600	IN	NS	a.hosting.gl.
 pars.gl.		3600	IN	NS	b.hosting.gl.
 pars.gl.		3600	IN	NS	c.hosting.gl.
 pars.gl.		3600	IN	NS	d.hosting.gl.
-parse.gl.		3600	IN	NS	ns1.iwantmyname.net.
-parse.gl.		3600	IN	NS	ns2.iwantmyname.net.
-parse.gl.		3600	IN	NS	ns3.iwantmyname.net.
-parse.gl.		3600	IN	NS	ns4.iwantmyname.net.
+parse.gl.		3600	IN	NS	dan.ns.cloudflare.com.
+parse.gl.		3600	IN	NS	lily.ns.cloudflare.com.
 party-gaming.gl.	3600	IN	NS	dns1.itsfogo.com.
 party-gaming.gl.	3600	IN	NS	dns2.itsfogo.com.
 party-gaming.gl.	3600	IN	NS	dns3.itsfogo.com.
@@ -15764,9 +15744,6 @@ pkl.gl.			3600	IN	NS	ns1.aputit.gl.
 pkl.gl.			3600	IN	NS	ns2.aputit.gl.
 pkl.gl.			3600	IN	NS	ns3.aputit.gl.
 pkl.gl.			3600	IN	NS	ns4.aputit.gl.
-pl.gl.			3600	IN	NS	ns1210.ispapi.net.
-pl.gl.			3600	IN	NS	ns2180.ispapi.net.
-pl.gl.			3600	IN	NS	ns3194.ispapi.net.
 planet.gl.		3600	IN	NS	ns-15-a.gandi.net.
 planet.gl.		3600	IN	NS	ns-83-b.gandi.net.
 planet.gl.		3600	IN	NS	ns-143-c.gandi.net.
@@ -18969,9 +18946,6 @@ systematic.gl.		3600	IN	NS	ns1.eurodns.com.
 systematic.gl.		3600	IN	NS	ns2.eurodns.com.
 systematic.gl.		3600	IN	NS	ns3.eurodns.com.
 systematic.gl.		3600	IN	NS	ns4.eurodns.com.
-sz.gl.			3600	IN	NS	ns1210.ispapi.net.
-sz.gl.			3600	IN	NS	ns2180.ispapi.net.
-sz.gl.			3600	IN	NS	ns3194.ispapi.net.
 t.gl.			3600	IN	NS	ns1.dreamhost.com.
 t.gl.			3600	IN	NS	ns2.dreamhost.com.
 t.gl.			3600	IN	NS	ns3.dreamhost.com.
@@ -20080,9 +20054,6 @@ tz.gl.			3600	IN	NS	ns1.wnokta.com.
 tz.gl.			3600	IN	NS	ns2.wnokta.com.
 u.gl.			3600	IN	NS	ns1.dan.com.
 u.gl.			3600	IN	NS	ns2.dan.com.
-ua.gl.			3600	IN	NS	ns1.dan.com.
-ua.gl.			3600	IN	NS	ns2.dan.com.
-ua.gl.			3600	IN	NS	r0mn4177.verify.hn.
 ub.gl.			3600	IN	NS	clcp1.nibsdns.com.
 ub.gl.			3600	IN	NS	clcp2.nibsdns.com.
 ub.gl.			3600	IN	NS	clcp3.nibsdns.com.
@@ -20399,9 +20370,6 @@ uuu.gl.			3600	IN	NS	ns-cloud-e1.googledomains.com.
 uuu.gl.			3600	IN	NS	ns-cloud-e2.googledomains.com.
 uuu.gl.			3600	IN	NS	ns-cloud-e3.googledomains.com.
 uuu.gl.			3600	IN	NS	ns-cloud-e4.googledomains.com.
-uv.gl.			3600	IN	NS	ns1210.ispapi.net.
-uv.gl.			3600	IN	NS	ns2180.ispapi.net.
-uv.gl.			3600	IN	NS	ns3194.ispapi.net.
 ux.gl.			3600	IN	NS	ns1.iwantmyname.net.
 ux.gl.			3600	IN	NS	ns2.iwantmyname.net.
 ux.gl.			3600	IN	NS	ns3.iwantmyname.net.
@@ -20580,6 +20548,9 @@ vidvinkel.gl.		3600	IN	NS	ns4.simply.com.
 vidvinkel.gl.		3600	IN	DS	18415 13 2 78756D8826E77ECF8A714BDD980B7AB365F4F190025C7737ED9BECE6 25740628
 vidvinkel.gl.		3600	IN	DS	18415 13 4 215CAF061F62FC2CA2771B89C93DD6914B76CDD23F3F582F6D6024FE 77A7B6A80112CC7409E16718AB72614DFD8C927A
 vidvinkel.gl.		3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. XzoUDQDLxP2aGgiul0p5mn82cDA8GaSO6PH+jDMUZntoAw3iDEAdlTaK Q6ivyThRxRcdOddNcl7BqGBevzwrphbafSBCNyl3xwP/8QI/gtYTLtxz T7qRRhBOgUCL1MeGeGwxbwEDITOdQiDMgRmErkhWLJkst13zc02mxIGS YrPgdU38BO9Vwz2prFRW5M+zuL7CvEA8ddR+m30PzSixDUaQ2ddDmbr5 3rBloSII2xViH1xyboD35qF7dG+ZFt6RSGbCyCseUEvVXMzJurwBbEqx KBQXLfOhNUED7ZCt5Q05Q0IA6vAatEI/3VS6N8tEcSqSU4zbjZc4hnJE pieN4w==
+viet69.gl.		3600	IN	NS	1-you.njalla.no.
+viet69.gl.		3600	IN	NS	2-can.njalla.in.
+viet69.gl.		3600	IN	NS	3-get.njalla.fo.
 view.gl.		3600	IN	NS	ns1.xpertnet.in.
 view.gl.		3600	IN	NS	ns2.xpertnet.in.
 viggo.gl.		3600	IN	NS	ns1.linode.com.
@@ -20887,9 +20858,6 @@ vuu.gl.			3600	IN	NS	ns1.iwantmyname.net.
 vuu.gl.			3600	IN	NS	ns2.iwantmyname.net.
 vuu.gl.			3600	IN	NS	ns3.iwantmyname.net.
 vuu.gl.			3600	IN	NS	ns4.iwantmyname.net.
-vv.gl.			3600	IN	NS	ns1210.ispapi.net.
-vv.gl.			3600	IN	NS	ns2180.ispapi.net.
-vv.gl.			3600	IN	NS	ns3194.ispapi.net.
 vve.gl.			3600	IN	NS	ns1.kimik-it.gl.
 vve.gl.			3600	IN	NS	ns2.kimik-it.gl.
 vvs.gl.			3600	IN	NS	ns1.hosting.inuit.gl.
@@ -21391,9 +21359,6 @@ xk.gl.			3600	IN	NS	ns1183.dns.dyn.com.
 xk.gl.			3600	IN	NS	ns2128.dns.dyn.com.
 xk.gl.			3600	IN	NS	ns3188.dns.dyn.com.
 xk.gl.			3600	IN	NS	ns4175.dns.dyn.com.
-xl.gl.			3600	IN	NS	ns1.dan.com.
-xl.gl.			3600	IN	NS	ns2.dan.com.
-xl.gl.			3600	IN	NS	r0mn4177.verify.hn.
 xl-byg.gl.		3600	IN	NS	ns1.eurodns.com.
 xl-byg.gl.		3600	IN	NS	ns2.eurodns.com.
 xl-byg.gl.		3600	IN	NS	ns3.eurodns.com.
@@ -23158,4 +23123,4 @@ VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. Y1v6YCMGj4s9yQklhWCXx85cHo7XgjG7XeGAGB57PU7+Lz4jCiDJMsY4 R+4nnPMpy6OH9sZcxkwF07DPfC5lLw8Gbog9ljPR7n4ivcEa+eZJaTXj LXertb5CywPqy9p7qqL4IBUJxIcenrgp/9DFXsXcB6TlHa9u3c8EfcUa yumwb2ZFin5AI2WlcPBDdqdq2tqFWcbPtaIO/eb361Hd/bfpH2887QcQ YbI5DVk/pcvK58igwxrZKAtmbnHyA6bErgSTpOhRRFie33xBKooFodoE LsosTenpFt04204AdyFHvJT/X8eJPVb7Iy28dnZ76J/q1LVO/NX8/zIe 437rGQ==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160041 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160054 900 1800 6048000 3600
