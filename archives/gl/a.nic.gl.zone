@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160032 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. DjjSCtrAX6jfC3ctrJbSZR73AxvS/LD1WsOBjh99QR6ePcLLWX3Qa+B/ QfmPPLb/OBo+YwxLMNkmGLX8VLHbbZ5smmOxhauTuztnrxPBqQ+0w91v OxWv4C/IFHXENMhEoERNYUINVCkVkBSoT4P5Mln39kN/+q6jp0ijaA3C wKneC97OrDHuYCXmUfLqW6lRiCwQWtXyzmE5J4xyf6SQAw/hvT1jm68S GB+gWx/mJIbGt5ANkqfiM5erkL3jYzC8hwi0Nxe6AxPbIsglROoEFHnG 01lfKponIUdDGps6SFu8dXlzIzMkdxOEh8uI2dLE/s1O/vJ+gb7+WHMN O23AIw==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160041 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. bL/Z5CELl0GTh+Jw7OUUOUQVMDKFI79QmVyxq1hLOnQ319l24Z1QThof L2AF3g5e1KXQ+8WNA00b9OdLSc7kZRgpSL0CFsAoKTlvYLjrZAhXcLBX f9vzx97v0TpoS03rMJVevQjZZ6e8MTG3I0czOvLOzm6ovKe/adsfD4XY DciwGsCsDdZScmmvCmHhoonJ+1xJfhO7ExyyFOvd/DoMkXAoWERw6EFX It4azYtJbhxwxSaE0zHUeUG6sLXPpju4jbUHZSo0kMmgHQOGp5741Mfm YldonSQguSO1JzPmZ3PCTB980jm3AHq+KxTCMjPwqxTeL35QMlL4QFhw bK7CMQ==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -637,9 +637,6 @@ adrenalin.gl.		3600	IN	NS	ns1.afraid.org.
 adrenalin.gl.		3600	IN	NS	ns2.afraid.org.
 adrenalin.gl.		3600	IN	NS	ns3.afraid.org.
 adrenalin.gl.		3600	IN	NS	ns4.afraid.org.
-ads.gl.			3600	IN	NS	ns1.netim.net.
-ads.gl.			3600	IN	NS	ns2.netim.net.
-ads.gl.			3600	IN	NS	ns3.netim.net.
 adsgoogle.gl.		3600	IN	NS	ns1.markmonitor.com.
 adsgoogle.gl.		3600	IN	NS	ns3.markmonitor.com.
 adsl.gl.		3600	IN	NS	a.ns.tusass.gl.
@@ -2846,8 +2843,6 @@ blackjack.gl.		3600	IN	DS	45643 13 4 27BADDFB85961A4184F2977DF743A8217B9EE0C771C
 blackjack.gl.		3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. dRQdLk2HmOBw2Bitu8Rf/oJOueSAr7MLbcbo35KOkQDLMcpBZRA5/XMk mKCabWtqHPj+5Qrg6h55GtUyv1WmPFP/hYye0e2UDdi1mm+EJ5mpk7lx 3sd++tTEa93pSRFr0CWVrNZouJ0qihlTpX9kFkXCbANVk1WWczWhgvys RCiEiLdh8fNhUu+feHhZu+zHn0oB35nLmC/yqo/gElRaYvhop9UVslzf FKWDe+rT1B8nxth8kfDA37krL43soOox9yFBRG7LvhGYRQbiw6LzjWV2 zYwlC/PJGTSjIE+iuSVWj1rVT+NlHkt9Kh4DQCI0gdBF/qrBZ4xK27UJ B8gXlw==
 blacknight.gl.		3600	IN	NS	ns.blacknightsolutions.com.
 blacknight.gl.		3600	IN	NS	ns2.blacknightsolutions.com.
-blast.gl.		3600	IN	NS	arely.ns.cloudflare.com.
-blast.gl.		3600	IN	NS	carter.ns.cloudflare.com.
 blinker.gl.		3600	IN	NS	ns.hostpoint.ch.
 blinker.gl.		3600	IN	NS	ns2.hostpoint.ch.
 blinker.gl.		3600	IN	NS	ns3.hostpoint.ch.
@@ -3240,8 +3235,8 @@ bs02.gl.		3600	IN	NS	bjorn.ns.cloudflare.com.
 bs02.gl.		3600	IN	NS	ligia.ns.cloudflare.com.
 bs02shop.gl.		3600	IN	NS	fred.ns.cloudflare.com.
 bs02shop.gl.		3600	IN	NS	cecelia.ns.cloudflare.com.
-bs2.gl.			3600	IN	NS	hal.ns.cloudflare.com.
-bs2.gl.			3600	IN	NS	perla.ns.cloudflare.com.
+bs2.gl.			3600	IN	NS	ns1.expired.reg.ru.
+bs2.gl.			3600	IN	NS	ns2.expired.reg.ru.
 bs2beast.gl.		3600	IN	NS	fred.ns.cloudflare.com.
 bs2beast.gl.		3600	IN	NS	cecelia.ns.cloudflare.com.
 bs2best.gl.		3600	IN	NS	3-pas.njalla.in.
@@ -9478,8 +9473,9 @@ iy.gl.			3600	IN	NS	c.hosting.gl.
 iy.gl.			3600	IN	NS	d.hosting.gl.
 j.gl.			3600	IN	NS	ns1.dan.com.
 j.gl.			3600	IN	NS	ns2.dan.com.
-j4.gl.			3600	IN	NS	amy.ns.cloudflare.com.
-j4.gl.			3600	IN	NS	ben.ns.cloudflare.com.
+j4.gl.			3600	IN	NS	ns1.netim.net.
+j4.gl.			3600	IN	NS	ns2.netim.net.
+j4.gl.			3600	IN	NS	ns3.netim.net.
 ja.gl.			3600	IN	NS	kay.ns.cloudflare.com.
 ja.gl.			3600	IN	NS	nitin.ns.cloudflare.com.
 jack.gl.		3600	IN	NS	ns1.vercel-dns.com.
@@ -15301,8 +15297,8 @@ palo.gl.		3600	IN	NS	a.hosting.gl.
 palo.gl.		3600	IN	NS	b.hosting.gl.
 palo.gl.		3600	IN	NS	c.hosting.gl.
 palo.gl.		3600	IN	NS	d.hosting.gl.
-palworld.gl.		3600	IN	NS	ns.parktons.com.
-palworld.gl.		3600	IN	NS	ns2.parktons.com.
+palworld.gl.		3600	IN	NS	expired1.parktons.com.
+palworld.gl.		3600	IN	NS	expired2.parktons.com.
 panasonic.gl.		3600	IN	NS	rns1.rightsdns.com.
 panasonic.gl.		3600	IN	NS	rns2.rightsdns.com.
 panda.gl.		3600	IN	NS	3-pas.njalla.in.
@@ -16631,9 +16627,9 @@ rd.gl.			3600	IN	NS	ns5.gigahost.dk.
 rdtech.gl.		3600	IN	NS	ns.hostpoint.ch.
 rdtech.gl.		3600	IN	NS	ns2.hostpoint.ch.
 rdtech.gl.		3600	IN	NS	ns3.hostpoint.ch.
-re.gl.			3600	IN	NS	ns1.digitalocean.com.
-re.gl.			3600	IN	NS	ns2.digitalocean.com.
-re.gl.			3600	IN	NS	ns3.digitalocean.com.
+re.gl.			3600	IN	NS	ns1.netim.net.
+re.gl.			3600	IN	NS	ns2.netim.net.
+re.gl.			3600	IN	NS	ns3.netim.net.
 reach.gl.		3600	IN	NS	mark.ns.cloudflare.com.
 reach.gl.		3600	IN	NS	opal.ns.cloudflare.com.
 reader.gl.		3600	IN	NS	owen.ns.cloudflare.com.
@@ -23162,4 +23158,4 @@ VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. Y1v6YCMGj4s9yQklhWCXx85cHo7XgjG7XeGAGB57PU7+Lz4jCiDJMsY4 R+4nnPMpy6OH9sZcxkwF07DPfC5lLw8Gbog9ljPR7n4ivcEa+eZJaTXj LXertb5CywPqy9p7qqL4IBUJxIcenrgp/9DFXsXcB6TlHa9u3c8EfcUa yumwb2ZFin5AI2WlcPBDdqdq2tqFWcbPtaIO/eb361Hd/bfpH2887QcQ YbI5DVk/pcvK58igwxrZKAtmbnHyA6bErgSTpOhRRFie33xBKooFodoE LsosTenpFt04204AdyFHvJT/X8eJPVb7Iy28dnZ76J/q1LVO/NX8/zIe 437rGQ==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160032 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160041 900 1800 6048000 3600
