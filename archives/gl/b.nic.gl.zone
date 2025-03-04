@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160110 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. fkmXhJly1O8WCWQ/TQjuiiU0o6ZEjxbek/w+LXeXfsWi1TcgQxU/La/j PLEiSOQIJKSY8/Z/XJkW3GamHxzXJgYb6+Mb1hy70l6A0T96abNZB4iF JKcT9YKGMgPfeI3CjB1Fw61S4JAjTHreq7TkjG7lNNeqWaBpyWrgOwHL EZz1LPSdRy0iCwBEGFVJHi1wM5BK/mZMF/LQ8LYDuPb9ghEPwtIaRUGJ DKsqDCmtNVzEzCHCEA291Wh4aN938ZEhs6FtW/7l1sl4JAermyNy85/c IzqJqAbNtztrhmfk7hfOC77IVl3ZM2zZpNKG/FqpZzcCKYAPJT+dCCFl Iecd6Q==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160124 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. Gr4loyffjhH0ySwBOn3F67GG2HxCqAS4KZMMistQBE0zt9szAL/gDDDi FDXVsZTBKEEtBP+JjvXLQPNj3b87s1X3AiUsUiEl2ZUcufRb2o8cIimE NeQFCPynnbJ4jlVHij/+VBLZNSnp2552aIXXNf21f46Rjz7kF7iAxM9x oYMkPgL75lzlBH9wluC0PVcDKNP+N+2NFuH0k428QG9tz84CUorD+MT1 qinh2bqYPhgqPFrvGQal02N5xImIMF/EMVkt5dif2INOW9nyHxl0FhTL 6JPspdIoPrLeqRiVTSZEbjHv1953F/Mv3NWRpH0gX4YlX4UPb/AEepsU RHwDEQ==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -225,8 +225,9 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250428120000 20250207120000 57390 gl. DvnEDn
 2krk.gl.		3600	IN	NS	dalary.ns.cloudflare.com.
 2krm.gl.		3600	IN	NS	eoin.ns.cloudflare.com.
 2krm.gl.		3600	IN	NS	diana.ns.cloudflare.com.
-2krn.gl.		3600	IN	NS	cora.ns.cloudflare.com.
-2krn.gl.		3600	IN	NS	donovan.ns.cloudflare.com.
+2krn.gl.		3600	IN	NS	ns1.disabled.ispapi.net.
+2krn.gl.		3600	IN	NS	ns2.disabled.ispapi.net.
+2krn.gl.		3600	IN	NS	ns3.disabled.ispapi.net.
 2omg.gl.		3600	IN	NS	mia.ns.cloudflare.com.
 2omg.gl.		3600	IN	NS	noah.ns.cloudflare.com.
 2plus-greenland.gl.	3600	IN	NS	ns1.nunahosting.net.
@@ -7475,6 +7476,8 @@ grok.gl.		3600	IN	NS	ns-34.awsdns-04.com.
 grok.gl.		3600	IN	NS	ns-964.awsdns-56.net.
 grok.gl.		3600	IN	NS	ns-1259.awsdns-29.org.
 grok.gl.		3600	IN	NS	ns-1818.awsdns-35.co.uk.
+gronenergi.gl.		3600	IN	NS	ns1.curanet.dk.
+gronenergi.gl.		3600	IN	NS	ns2.curanet.dk.
 gronlandspoliti.gl.	3600	IN	NS	udns1.cscdns.net.
 gronlandspoliti.gl.	3600	IN	NS	udns2.cscdns.uk.
 gronlandsposten.gl.	3600	IN	NS	ns1.modulo.gl.
@@ -10771,8 +10774,9 @@ krn2.gl.		3600	IN	NS	bob.ns.cloudflare.com.
 krn2.gl.		3600	IN	NS	itzel.ns.cloudflare.com.
 krn3.gl.		3600	IN	NS	bob.ns.cloudflare.com.
 krn3.gl.		3600	IN	NS	itzel.ns.cloudflare.com.
-krn4.gl.		3600	IN	NS	todd.ns.cloudflare.com.
-krn4.gl.		3600	IN	NS	kelly.ns.cloudflare.com.
+krn4.gl.		3600	IN	NS	ns1.disabled.ispapi.net.
+krn4.gl.		3600	IN	NS	ns2.disabled.ispapi.net.
+krn4.gl.		3600	IN	NS	ns3.disabled.ispapi.net.
 krn5.gl.		3600	IN	NS	ns1.domainnameapi.com.
 krn5.gl.		3600	IN	NS	ns2.domainnameapi.com.
 krn6.gl.		3600	IN	NS	ns1.domainnameapi.com.
@@ -11760,8 +11764,9 @@ m3gahide.gl.		3600	IN	NS	dax.ns.cloudflare.com.
 m3gahide.gl.		3600	IN	NS	zoe.ns.cloudflare.com.
 m3galook.gl.		3600	IN	NS	piper.ns.cloudflare.com.
 m3galook.gl.		3600	IN	NS	rocco.ns.cloudflare.com.
-m3gat.gl.		3600	IN	NS	kay.ns.cloudflare.com.
-m3gat.gl.		3600	IN	NS	venkat.ns.cloudflare.com.
+m3gat.gl.		3600	IN	NS	ns1.disabled.ispapi.net.
+m3gat.gl.		3600	IN	NS	ns2.disabled.ispapi.net.
+m3gat.gl.		3600	IN	NS	ns3.disabled.ispapi.net.
 m3gaweb2.gl.		3600	IN	NS	reese.ns.cloudflare.com.
 m3gaweb2.gl.		3600	IN	NS	adaline.ns.cloudflare.com.
 m3gaweb3.gl.		3600	IN	NS	reese.ns.cloudflare.com.
@@ -12327,8 +12332,9 @@ mentorix.gl.		3600	IN	NS	ns.scannet2.dk.
 mentorix.gl.		3600	IN	NS	ns2.scannet2.dk.
 menu.gl.		3600	IN	NS	ns1.reg.ru.
 menu.gl.		3600	IN	NS	ns2.reg.ru.
-meqa.gl.		3600	IN	NS	luke.ns.cloudflare.com.
-meqa.gl.		3600	IN	NS	rosalie.ns.cloudflare.com.
+meqa.gl.		3600	IN	NS	ns1.disabled.ispapi.net.
+meqa.gl.		3600	IN	NS	ns2.disabled.ispapi.net.
+meqa.gl.		3600	IN	NS	ns3.disabled.ispapi.net.
 meqqusaalik.gl.		3600	IN	NS	ns1.simply.com.
 meqqusaalik.gl.		3600	IN	NS	ns2.simply.com.
 meqqusaalik.gl.		3600	IN	NS	ns3.simply.com.
@@ -23116,4 +23122,4 @@ VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. Y1v6YCMGj4s9yQklhWCXx85cHo7XgjG7XeGAGB57PU7+Lz4jCiDJMsY4 R+4nnPMpy6OH9sZcxkwF07DPfC5lLw8Gbog9ljPR7n4ivcEa+eZJaTXj LXertb5CywPqy9p7qqL4IBUJxIcenrgp/9DFXsXcB6TlHa9u3c8EfcUa yumwb2ZFin5AI2WlcPBDdqdq2tqFWcbPtaIO/eb361Hd/bfpH2887QcQ YbI5DVk/pcvK58igwxrZKAtmbnHyA6bErgSTpOhRRFie33xBKooFodoE LsosTenpFt04204AdyFHvJT/X8eJPVb7Iy28dnZ76J/q1LVO/NX8/zIe 437rGQ==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160110 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160124 900 1800 6048000 3600
