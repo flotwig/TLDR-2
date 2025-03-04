@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160096 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. jTFs17nM6FvwRr4y3ql9POmk2H212GSkrMs/cU9EhYIEOz4vS5fGKPaS rLmtlVKZMFbfYQwdCh3tsEsZmFJTE5CYIajtndJgv1UouUeNDziuSa8P 1t8X/IW/sdHsJmaJYrlv+aTQuIXRxTiX6omL7qouFnThmB6pS5nLFyKZ T5xzhQpeXIetV2ilO902/i5y483jWqPPwnxqCziNdWL1Bvd7j1vxk+pa q3vq+t7lFv6kQOMqswipfW1yuCbNLgkBrIbGJYqjZR/TARp0liTZF0B+ j1anUay2ikTCKY6MKLUjnQ5ikW95ztNO6rjnJohFtYFjT5Tsh7dPIH7A DqTohw==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160104 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. YCMvdX/ONz+TgOBlk1XvSvrn1vYQNorwimVQ0V+VtPThxcfOC0Lk9v5f mazxiQyHCAwsUUdgUOFuoW+rP2KXoT2GAaxHlWcQAfZK82JUca6UYb7a qmm9MkuFr1ChUTDLbkDyUTt7ANebe0XjL5dzVR1k5yyOVvHtURYaOpRX P2sH2guZwLqMyUJxpm3+eQjFcNfHMj+8YLEqpZ/2pERQL8YRovbtFvHZ xb76M/PmIlFrr5k+aJstvSrq9crWWlPkYtpb1jVsPNZOyOdzSYHAKItK 3/f1+/JDan95xYpRLnm8ues7v7yPtYa4bP7bYf/6hJVaHDh/AmrHKe62 UH/5uw==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -260,9 +260,6 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250428120000 20250207120000 57390 gl. DvnEDn
 36485.gl.		3600	IN	NS	ns2.netsto.net.
 37.gl.			3600	IN	NS	ns1.registry-server.com.
 37.gl.			3600	IN	NS	ns2.registry-server.com.
-38.gl.			3600	IN	NS	ns1210.ispapi.net.
-38.gl.			3600	IN	NS	ns2180.ispapi.net.
-38.gl.			3600	IN	NS	ns3194.ispapi.net.
 3bs.gl.			3600	IN	NS	bjorn.ns.cloudflare.com.
 3bs.gl.			3600	IN	NS	ligia.ns.cloudflare.com.
 3c.gl.			3600	IN	NS	1-you.njalla.no.
@@ -375,9 +372,6 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250428120000 20250207120000 57390 gl. DvnEDn
 7777.gl.		3600	IN	NS	ns-100-a.gandi.net.
 7777.gl.		3600	IN	NS	ns-153-b.gandi.net.
 7777.gl.		3600	IN	NS	ns-248-c.gandi.net.
-78.gl.			3600	IN	NS	ns1210.ispapi.net.
-78.gl.			3600	IN	NS	ns2180.ispapi.net.
-78.gl.			3600	IN	NS	ns3194.ispapi.net.
 79999.gl.		3600	IN	NS	ns1.netsto.net.
 79999.gl.		3600	IN	NS	ns2.netsto.net.
 7f.gl.			3600	IN	NS	ns2.pd-house.com.
@@ -4223,9 +4217,6 @@ cvr.gl.			3600	IN	NS	a.hosting.gl.
 cvr.gl.			3600	IN	NS	b.hosting.gl.
 cvr.gl.			3600	IN	NS	c.hosting.gl.
 cvr.gl.			3600	IN	NS	d.hosting.gl.
-cvrr.gl.		3600	IN	NS	ns1.regery.net.
-cvrr.gl.		3600	IN	NS	ns2.regery.net.
-cvrr.gl.		3600	IN	NS	ns3.regery.net.
 cw.gl.			3600	IN	NS	ns-488.awsdns-61.com.
 cw.gl.			3600	IN	NS	ns-602.awsdns-11.net.
 cw.gl.			3600	IN	NS	ns-1289.awsdns-33.org.
@@ -23125,4 +23116,4 @@ VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. Y1v6YCMGj4s9yQklhWCXx85cHo7XgjG7XeGAGB57PU7+Lz4jCiDJMsY4 R+4nnPMpy6OH9sZcxkwF07DPfC5lLw8Gbog9ljPR7n4ivcEa+eZJaTXj LXertb5CywPqy9p7qqL4IBUJxIcenrgp/9DFXsXcB6TlHa9u3c8EfcUa yumwb2ZFin5AI2WlcPBDdqdq2tqFWcbPtaIO/eb361Hd/bfpH2887QcQ YbI5DVk/pcvK58igwxrZKAtmbnHyA6bErgSTpOhRRFie33xBKooFodoE LsosTenpFt04204AdyFHvJT/X8eJPVb7Iy28dnZ76J/q1LVO/NX8/zIe 437rGQ==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160096 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160104 900 1800 6048000 3600
