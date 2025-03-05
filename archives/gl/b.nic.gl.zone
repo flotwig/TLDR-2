@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160183 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. QKvfoouASp/fyk331ER7A9EKF0C7jZDbrKMerjWUSYzRHyFxa7lhKPbM qM6Jxc1RMQIQmXtztlHp0GA4wa6PloKdiqIFkMn2xopIC4zGs9s8RywC jHCnWHZrECodTzYU/zL+o6F9EAAujuTSbAQSyfLaO/VKe33ylEyLL8d+ e5OV/gQOYuDDByhiRnhSp+vv/o+SjNfFGjwVr0XQFrupybr3ngRh3LoA 3bCX+wOc4VgXyNrfKuGDXYw50yf5xKcp3ZAFBbnHX+oKo36j9ogo6Y60 ar9NxhFN+DEszTEVa+tWVaUUitLpp2O58M+VLDXn6o5ZmVqbnZy5Owjw kVnzig==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160201 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. CJJBc11QmsbVqwPLrij046fAlitkCaP0QeBkxjiAUm18J5l/z99jvZlZ zS8t84YEcWhZQybXNh0zs6DeSH6oy0yAojUD1/UWRmL315X6QIGEj4ep Qw0YFp0JBZLuTHL8euIuGzll0U46ecwFKwXjTnKcrCa+z6odCk1ySBbv 449Skf3WN9VrA7lSI1hP0x/joqruvUEBE4enxaikRe26onS/xxSvkJw8 pasjm7M65CgOFadvqXzbRtqP0+dFuX31IXCHNcq9aqUE83O3hZVwrV44 6mWwcE3heV8G7a2bcTrCGGzNET8oIQX6LxQ1vX86B7mlTUmb4/cF89tv BSvj7g==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -2834,6 +2834,8 @@ blackjack.gl.		3600	IN	DS	45643 13 4 27BADDFB85961A4184F2977DF743A8217B9EE0C771C
 blackjack.gl.		3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. dRQdLk2HmOBw2Bitu8Rf/oJOueSAr7MLbcbo35KOkQDLMcpBZRA5/XMk mKCabWtqHPj+5Qrg6h55GtUyv1WmPFP/hYye0e2UDdi1mm+EJ5mpk7lx 3sd++tTEa93pSRFr0CWVrNZouJ0qihlTpX9kFkXCbANVk1WWczWhgvys RCiEiLdh8fNhUu+feHhZu+zHn0oB35nLmC/yqo/gElRaYvhop9UVslzf FKWDe+rT1B8nxth8kfDA37krL43soOox9yFBRG7LvhGYRQbiw6LzjWV2 zYwlC/PJGTSjIE+iuSVWj1rVT+NlHkt9Kh4DQCI0gdBF/qrBZ4xK27UJ B8gXlw==
 blacknight.gl.		3600	IN	NS	ns.blacknightsolutions.com.
 blacknight.gl.		3600	IN	NS	ns2.blacknightsolutions.com.
+bless.gl.		3600	IN	NS	ishaan.ns.cloudflare.com.
+bless.gl.		3600	IN	NS	suzanne.ns.cloudflare.com.
 blinker.gl.		3600	IN	NS	ns.hostpoint.ch.
 blinker.gl.		3600	IN	NS	ns2.hostpoint.ch.
 blinker.gl.		3600	IN	NS	ns3.hostpoint.ch.
@@ -4626,6 +4628,10 @@ dinahostings.gl.	3600	IN	NS	ns.dinahosting.com.
 dinahostings.gl.	3600	IN	NS	ns2.dinahosting.com.
 dinahostings.gl.	3600	IN	NS	ns3.dinahosting.com.
 dinahostings.gl.	3600	IN	NS	ns4.dinahosting.com.
+dio.gl.			3600	IN	NS	ns-101.awsdns-12.com.
+dio.gl.			3600	IN	NS	ns-525.awsdns-01.net.
+dio.gl.			3600	IN	NS	ns-1468.awsdns-55.org.
+dio.gl.			3600	IN	NS	ns-1539.awsdns-00.co.uk.
 directv.gl.		3600	IN	NS	ns10a.attdns.net.
 directv.gl.		3600	IN	NS	ns10b.attdns.net.
 discover.gl.		3600	IN	NS	ns1.sedoparking.com.
@@ -8777,6 +8783,9 @@ imaq.gl.		3600	IN	NS	ns2.curanet.dk.
 imaqice.gl.		3600	IN	NS	ns1.netsite.dk.
 imaqice.gl.		3600	IN	NS	ns2.netsite.eu.
 imaqice.gl.		3600	IN	NS	ns3.netsite.se.
+imeq.gl.		3600	IN	NS	ns1045.ui-dns.de.
+imeq.gl.		3600	IN	NS	ns1045.ui-dns.biz.
+imeq.gl.		3600	IN	NS	ns1045.ui-dns.org.
 imeqarfik.gl.		3600	IN	NS	a.hosting.gl.
 imeqarfik.gl.		3600	IN	NS	b.hosting.gl.
 imeqarfik.gl.		3600	IN	NS	c.hosting.gl.
@@ -23123,4 +23132,4 @@ VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. Y1v6YCMGj4s9yQklhWCXx85cHo7XgjG7XeGAGB57PU7+Lz4jCiDJMsY4 R+4nnPMpy6OH9sZcxkwF07DPfC5lLw8Gbog9ljPR7n4ivcEa+eZJaTXj LXertb5CywPqy9p7qqL4IBUJxIcenrgp/9DFXsXcB6TlHa9u3c8EfcUa yumwb2ZFin5AI2WlcPBDdqdq2tqFWcbPtaIO/eb361Hd/bfpH2887QcQ YbI5DVk/pcvK58igwxrZKAtmbnHyA6bErgSTpOhRRFie33xBKooFodoE LsosTenpFt04204AdyFHvJT/X8eJPVb7Iy28dnZ76J/q1LVO/NX8/zIe 437rGQ==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160183 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160201 900 1800 6048000 3600
