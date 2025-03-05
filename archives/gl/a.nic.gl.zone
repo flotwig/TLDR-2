@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160196 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. dmZRH7fhFJlIBfXjZFkLklN/xq5Nq2R1CkthoPg2GtcaAetIQzlyM226 AJ1tOwlBcRHkJsacs5XU6bBuAPn2MuT2NH3aW2hN/jkz8PgQOhNLMwiW mmEe7SXiMydl9zkjN8ToOPUiF0MLEgDWARePzWFJ6+AA8jGb5ETcGk1Q aq603GyDuyVkzzwxhR/I8f8Cl/GN670QyHLBdAFLkb/B9F4CSesSTZUx SApUmCZGq4KBgpfiDrT8Dz+W772prGYOAATPXIhbvtp9VOV6d6zAfLL2 w2f4FshMiupgbDDYuTXhEgtBK51wkdU8dfmJSPMDcQMkpsuZRdNOtOnu E9wSKA==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160198 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. e3ALBjGdks9xS/SF+OPeAt1QcYUE+HW4W5NA6UiRrOhaYHyKzJPxz+1Z wKkxHqncVd2quYuqJtLIFenPMNE7kGGlcdCpa/S+F7ndGDdHjhUwdOOc xeO2Qdzk/o2s7GRvvNI1XROZ8abGXQFlXqEuM92ymxJESoourmjXpQK1 SuyunWrnSgvOvIk5yJHaTiS41g7UOyi6BUR59SxtREhmL0Pqfa695ZQD eGeWnv2UslPbAeJG7lfpHDW0g3asnO+17xVwOXJU0jA6E2s3mcM6KQB4 X9UHF0Ud9hAGOCpQHOoR+hQ6o/AHOlvI+XsmhYwSacJixQ4BeRIvh3Zc TzEzIw==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -4626,6 +4626,10 @@ dinahostings.gl.	3600	IN	NS	ns.dinahosting.com.
 dinahostings.gl.	3600	IN	NS	ns2.dinahosting.com.
 dinahostings.gl.	3600	IN	NS	ns3.dinahosting.com.
 dinahostings.gl.	3600	IN	NS	ns4.dinahosting.com.
+dio.gl.			3600	IN	NS	ns-101.awsdns-12.com.
+dio.gl.			3600	IN	NS	ns-525.awsdns-01.net.
+dio.gl.			3600	IN	NS	ns-1468.awsdns-55.org.
+dio.gl.			3600	IN	NS	ns-1539.awsdns-00.co.uk.
 directv.gl.		3600	IN	NS	ns10a.attdns.net.
 directv.gl.		3600	IN	NS	ns10b.attdns.net.
 discover.gl.		3600	IN	NS	ns1.sedoparking.com.
@@ -8777,6 +8781,9 @@ imaq.gl.		3600	IN	NS	ns2.curanet.dk.
 imaqice.gl.		3600	IN	NS	ns1.netsite.dk.
 imaqice.gl.		3600	IN	NS	ns2.netsite.eu.
 imaqice.gl.		3600	IN	NS	ns3.netsite.se.
+imeq.gl.		3600	IN	NS	ns1045.ui-dns.de.
+imeq.gl.		3600	IN	NS	ns1045.ui-dns.biz.
+imeq.gl.		3600	IN	NS	ns1045.ui-dns.org.
 imeqarfik.gl.		3600	IN	NS	a.hosting.gl.
 imeqarfik.gl.		3600	IN	NS	b.hosting.gl.
 imeqarfik.gl.		3600	IN	NS	c.hosting.gl.
@@ -23123,4 +23130,4 @@ VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. Y1v6YCMGj4s9yQklhWCXx85cHo7XgjG7XeGAGB57PU7+Lz4jCiDJMsY4 R+4nnPMpy6OH9sZcxkwF07DPfC5lLw8Gbog9ljPR7n4ivcEa+eZJaTXj LXertb5CywPqy9p7qqL4IBUJxIcenrgp/9DFXsXcB6TlHa9u3c8EfcUa yumwb2ZFin5AI2WlcPBDdqdq2tqFWcbPtaIO/eb361Hd/bfpH2887QcQ YbI5DVk/pcvK58igwxrZKAtmbnHyA6bErgSTpOhRRFie33xBKooFodoE LsosTenpFt04204AdyFHvJT/X8eJPVb7Iy28dnZ76J/q1LVO/NX8/zIe 437rGQ==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160196 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160198 900 1800 6048000 3600
