@@ -1,5 +1,7 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030610 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1741255228"
+;; Connection to 195.24.205.60#53(195.24.205.60) for cm. failed: timed out.
+;; no servers could be reached
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030611 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1741258829"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -46663,8 +46665,8 @@ m2umoney.cm.		3600	IN	NS	ns104.ovh.net.
 m2umoney.cm.		3600	IN	NS	dns104.ovh.net.
 m365.cm.		3600	IN	NS	ns1.netsto.net.
 m365.cm.		3600	IN	NS	ns2.netsto.net.
-m3ga.cm.		3600	IN	NS	ns3.my-ndns.com.
-m3ga.cm.		3600	IN	NS	ns4.my-ndns.com.
+m3ga.cm.		3600	IN	NS	camilo.ns.cloudflare.com.
+m3ga.cm.		3600	IN	NS	cheryl.ns.cloudflare.com.
 m4.cm.			3600	IN	NS	ns1.netsto.net.
 m4.cm.			3600	IN	NS	ns2.netsto.net.
 m5.cm.			3600	IN	NS	ns1.netsto.net.
@@ -48673,8 +48675,10 @@ mimi1.cm.		3600	IN	NS	ns1.netsto.net.
 mimi1.cm.		3600	IN	NS	ns2.netsto.net.
 min.cm.			3600	IN	NS	ns1.create.com.
 min.cm.			3600	IN	NS	ns2.create.com.
-minac.cm.		3600	IN	NS	ns1.camoogroup.com.
-minac.cm.		3600	IN	NS	ns2.camoogroup.com.
+minac.cm.		3600	IN	NS	ns1.dnshostservices.com.
+minac.cm.		3600	IN	NS	ns2.dnshostservices.com.
+minac.cm.		3600	IN	NS	ns3.dnshostservices.com.
+minac.cm.		3600	IN	NS	ns4.dnshostservices.com.
 minac-gov.cm.		3600	IN	NS	ns1.camoogroup.com.
 minac-gov.cm.		3600	IN	NS	ns2.camoogroup.com.
 minader.cm.		3600	IN	NS	kim.camnet.cm.
@@ -73882,4 +73886,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030610 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030611 1800 900 1209600 3600

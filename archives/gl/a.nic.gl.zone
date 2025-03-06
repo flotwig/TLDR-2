@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160220 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. MzaMCisG4gTQTBgNFM63qkgf1O12/K6zgPseQv8gZ/nyAg6fUKsKpPud 352n6akhGn87ofqozuOMRId6PC7zBFXaB5VxC3/Zl8wFJBtgwHN8l9+P 13JFxG3DebXjk76gLr0ZIZkv8vfbBw/PzW38r7AtM+sMYttFIW+o/KHq JuoE3RtW7z8IBXfzc+j5Up1dUa/Ul8DBsWwaCuWpMt8m+H1odoM8i6MH ofdisKLzTtoLvzPZatF+P2MuVYgntqrKZC12IZvvbw9qEttVN2GCzHV2 jECZoW2y/fgwoDmmjUIsm7xY0PB+HF2oTpAihwNMWb33lP3WtSMwECdd uHZ5zw==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160231 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. i+ygwt9kfno8ZrawwO0OUS9CruRzU/gi7fET/O88WIfrqlFUemiG8gMt nNuJkb8HIZwXp6O2/QHytzCXzZsN3NzrK/BMSLsXEWqbbVLuT2gyppcH oORv+bLOvmBJM5lUCbKLlZsa2vTE03WrvHHIaJ0GGZyyIyl6SV/h1Hf6 EwH0eBuKV7IJws9sMuOeZC0dC3cytiBsU2rHyU965mJ8sPEKFZP6BDPZ hOpdTMtRkv8a60EviIGYP6EcvWiXONfduxqGGLLu+4xs77og/CaG/rxk XHnzilaLq99qNDFHCxDti0tQenI7BuR//ZxoFm62bQ28aEBxzoacUoMS 5RUk7A==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -630,9 +630,10 @@ adsgoogle.gl.		3600	IN	NS	ns1.markmonitor.com.
 adsgoogle.gl.		3600	IN	NS	ns3.markmonitor.com.
 adsl.gl.		3600	IN	NS	a.ns.tusass.gl.
 adsl.gl.		3600	IN	NS	b.ns.tusass.gl.
-adultswim.gl.		3600	IN	NS	ns1.timewarner.net.
-adultswim.gl.		3600	IN	NS	ns3.timewarner.net.
-adultswim.gl.		3600	IN	NS	ns5.timewarner.net.
+adultswim.gl.		3600	IN	NS	ns-100.awsdns-12.com.
+adultswim.gl.		3600	IN	NS	ns-927.awsdns-51.net.
+adultswim.gl.		3600	IN	NS	ns-1074.awsdns-06.org.
+adultswim.gl.		3600	IN	NS	ns-1546.awsdns-01.co.uk.
 adv-dahl.gl.		3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. Ivs7ROCV4Sbib6RfwrMSHSGZEBBy0iZir9pVc49YfSRbq/7WWr83XFwk 5Tk4KpBHucODXUS0sgaM4/eRjj3nV/lwMw/aPik91h4HJADy3feR/BQC ildlI5iqk+2/Y1ct0E2VIg6gVjxMF5/Ikl6yp8WBEhUq9+IwExs3Ngwo 2c6mDq8bgmTK/e9hQTIcQMuCsh7TBRuZrw8zS+sQ5stGJpKLjOTmzoBa OuXRcx6bm/tR7YPqejE8GHZUSmjV1X7eF9y1OPRrAmfSRJj4pkQFXUFA nCEIaFaf/uRvLA+cTcrvDRzXj4sclwHS+XCjHkUjFaTy+EWaO13ss/mR GBm6hA==
 adv-dahl.gl.		3600	IN	DS	9415 13 2 AFE4AAE54BF13EEC4C1ED0D0D7A902410187FDA3FA61A31CC53A34C2 C28D5611
 adv-dahl.gl.		3600	IN	NS	a.hosting.gl.
@@ -15481,6 +15482,10 @@ persondata.gl.		3600	IN	NS	ns1.simply.com.
 persondata.gl.		3600	IN	NS	ns2.simply.com.
 persondata.gl.		3600	IN	NS	ns3.simply.com.
 persondata.gl.		3600	IN	NS	ns4.simply.com.
+pet.gl.			3600	IN	NS	a.hosting.gl.
+pet.gl.			3600	IN	NS	b.hosting.gl.
+pet.gl.			3600	IN	NS	c.hosting.gl.
+pet.gl.			3600	IN	NS	d.hosting.gl.
 petcure.gl.		3600	IN	NS	ns1.curanet.dk.
 petcure.gl.		3600	IN	NS	ns2.curanet.dk.
 peterbraathen.gl.	3600	IN	NS	ns3.inmotionhosting.com.
@@ -15501,6 +15506,10 @@ petro-canada.gl.	3600	IN	NS	ns5.markmonitor.com.
 petrocanada.gl.		3600	IN	NS	ns1.markmonitor.com.
 petrocanada.gl.		3600	IN	NS	ns3.markmonitor.com.
 petrocanada.gl.		3600	IN	NS	ns5.markmonitor.com.
+pets.gl.		3600	IN	NS	a.hosting.gl.
+pets.gl.		3600	IN	NS	b.hosting.gl.
+pets.gl.		3600	IN	NS	c.hosting.gl.
+pets.gl.		3600	IN	NS	d.hosting.gl.
 pex.gl.			3600	IN	NS	ns1.digitalocean.com.
 pex.gl.			3600	IN	NS	ns2.digitalocean.com.
 pex.gl.			3600	IN	NS	ns3.digitalocean.com.
@@ -17591,6 +17600,9 @@ sermitsiaqphoto.gl.	3600	IN	NS	ns3.modulo.gl.
 seropram.gl.		3600	IN	NS	nsgbr.comlaude.co.uk.
 seropram.gl.		3600	IN	NS	nssui.comlaude.ch.
 seropram.gl.		3600	IN	NS	nsusa.comlaude.net.
+serravik.gl.		3600	IN	NS	ns5.chosting.dk.
+serravik.gl.		3600	IN	NS	ns6.chosting.dk.
+serravik.gl.		3600	IN	NS	ns7.chosting.dk.
 server.gl.		3600	IN	NS	dns.server.gl.
 dns.server.gl.		3600	IN	A	144.76.194.18
 service.gl.		3600	IN	NS	adam.ns.cloudflare.com.
@@ -19642,9 +19654,10 @@ toolstation.gl.		3600	IN	NS	ns-cloud-d1.googledomains.com.
 toolstation.gl.		3600	IN	NS	ns-cloud-d2.googledomains.com.
 toolstation.gl.		3600	IN	NS	ns-cloud-d3.googledomains.com.
 toolstation.gl.		3600	IN	NS	ns-cloud-d4.googledomains.com.
-toonix.gl.		3600	IN	NS	ns1.timewarner.net.
-toonix.gl.		3600	IN	NS	ns3.timewarner.net.
-toonix.gl.		3600	IN	NS	ns5.timewarner.net.
+toonix.gl.		3600	IN	NS	ns-438.awsdns-54.com.
+toonix.gl.		3600	IN	NS	ns-533.awsdns-02.net.
+toonix.gl.		3600	IN	NS	ns-1293.awsdns-33.org.
+toonix.gl.		3600	IN	NS	ns-1709.awsdns-21.co.uk.
 toornaq.gl.		3600	IN	NS	ns1.mysecurecloudhost.com.
 toornaq.gl.		3600	IN	NS	ns2.mysecurecloudhost.com.
 toornaq.gl.		3600	IN	NS	ns3.mysecurecloudhost.com.
@@ -23126,4 +23139,4 @@ VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. Y1v6YCMGj4s9yQklhWCXx85cHo7XgjG7XeGAGB57PU7+Lz4jCiDJMsY4 R+4nnPMpy6OH9sZcxkwF07DPfC5lLw8Gbog9ljPR7n4ivcEa+eZJaTXj LXertb5CywPqy9p7qqL4IBUJxIcenrgp/9DFXsXcB6TlHa9u3c8EfcUa yumwb2ZFin5AI2WlcPBDdqdq2tqFWcbPtaIO/eb361Hd/bfpH2887QcQ YbI5DVk/pcvK58igwxrZKAtmbnHyA6bErgSTpOhRRFie33xBKooFodoE LsosTenpFt04204AdyFHvJT/X8eJPVb7Iy28dnZ76J/q1LVO/NX8/zIe 437rGQ==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160220 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160231 900 1800 6048000 3600
