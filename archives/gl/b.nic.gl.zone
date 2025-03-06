@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160228 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. SfLdrXVavYxQxg+Ha2aaHF9WZc8/tpE8zii8W04Q9u/t7IPPxXMmAKCz ZMoFaGoS4/62kBiZLIpH5+sF9YHuLla3Z0TNdw7lx9JtGxdAhY0jJiEp 2SGVp59M4T7qC7U3CRucllJSzBp3DmF1k4753pVnM0Ixw5/3/VoWgpEQ 6dwUiO6Ae4AswY0AsKgs8w2Kx5xLzR0S3qUZLbX9kDYL3IG+rUI4Ng9y vBz3DNnXjxr1dmn9tURf5mkIHYM9BfEQ0TKVE62dYi5L9+xKbyqrmruw 9jXrCieVb58i+jhchJppj+ZhTJW+9UaL5Q4SdeX25vgY5cC2HTYrqL01 pv7/uw==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160238 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. YaqAkTqH7ZwO/jYv9+QpJdZjHTyaj0CJ9314yZ0HH4jPCggrFvj1q0dW a8QuGjx/HMMKFo7a6ox3Z4y8qcEwhBT/QFq11vvrOs6CDZFOAvU2mNJQ yij8cnR853eurqVfom3r8/gHwHVe9BFGmaLXi1s1bxVDnpSZVNDcT9Fj J87jx12CiRXXZi24cHPGMvAFWepTM8pJ9Xq5YWH+ilsh4BCDJHQLoIhA 97WepMzTTJuj3rQs+llG5arB8F6ACHRZ3k55PrMQsE7PYLMiEnpIyvUP ArOXAIGjqbuArxSlCdHlX+EIouOIWBccxyHb7gsdVXuTdpZf/5t/46Mr KmlCbg==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -7,9 +7,8 @@ gl.			86400	IN	NS	ns1.anycastdns.cz.
 gl.			86400	IN	NS	ns2.anycastdns.cz.
 gl.			86400	IN	RRSIG	NS 8 1 86400 20250428120000 20250207120000 57390 gl. cKmloohk340MXETSUxp2Dp436kNcedUs6246yuHjSc/8fQRwo/N2oje8 J2p8rZORPrhX7w3RkjtmVI4/+N0ZuLb1Z6995khFsBd9hlkQGH9J+xP5 RXG8eFHJuaYsgA7C7GaGnvISR3ly6Q28EA3zcjAjt0+DIczfoq0uEEGe sOXv9kS0nkuWEpDHJHmLpg5rzjJsUAjaCR1X8sUZuiCQQeY7i9324Q0S F93UAeAOPG/c16OErOEXegh7sLJPZoztzv7VopR2QhIzlqbRU4BqkVh/ hb1q7HJNajXg/V5wCTY/Sw2ELH+wLvEMorchRsnNMW6PNUpBBvgUa+FR Ncb8Gg==
 gl.			86400	IN	DNSKEY	256 3 8 AwEAAZQoEjyIZnLTg1KjLl8AakwY8ir6sF5DBTPqDCu0JBBVoPc8ba41 3y3uEeS6xqbsVjBGHJcVAXyeOBQ/LH1mStO4hRS7topgSV0nzukSOsf8 7Ue2fwmJmryQQvjeSSt9EO9RnPrt/Pvkt5XkyMQBMCDqBaOa+x4BoDnU 3hzGJTzFFsjBbjk65TN+Xp6x0stFuf4i1O9ogshCTRgy+5Jw5OcBKwNj 8+hNEghUoQGy26ElgqgX2kiMCF8cTANEliq3v35P8shABJcyEyLsIrzz +dC8Q11Yb2zpY6g2y64so4VEWdyfddTHZx0sTB3gBiMKPYum5NRLHcdG n7fuoClOq3k=
-gl.			86400	IN	DNSKEY	256 3 8 AwEAAclLTj9+Vsco/n+2kUXSdLMTnn2Wa+1yGQ8ulLCeWAP6L9HtzRjU RbR42xGLjgbwOaEG2vab1c2PCLQ2DEgDGFRia2/I8Akv6OFN+Zuj3DxO G7iiIBivqfK25tn2jC73vdZnqi787RN3xXWzlzIraxmnIaUdoWdTWqZ4 l6LNQNhUm5n4TZRT3R9V8DlaiKaF3DfNetjI2r6M00vhMmgN1GNss3xQ rKJllPbjcy9n0SRREx32wKOhU/EKs9ksI6O4l6tLW0ysPjBexe9mL1/O tPXbdo4e7COqCF4d8S5CYGRFhBYeVYIm1zZU2NHwqUjjwiJ5X/I/1bu0 Dcdr3gt3v6s=
 gl.			86400	IN	DNSKEY	257 3 8 AwEAAfYm4+zwxY7gxb4XaVDGuNUKfR2Zcd9wYXI+JeL6NutecP8/5yej pYvyYrS9EoZKi1I/Zxy5T0bhke0TfCwtX+1fjLqZYXhnqPbqRrFjRsML EMx4BXnI4+jRKOx/Fq1RQHKJqnw+3k9peImXyxSs79OzNKIbZHvYh/BY LjzGX2GUqRngvxjzfsPYpqV4vI3tpqTx5UpetxNLzMSPwZSI/rfDuRDZ jP44V1UjLkcZ2AmqSva6q92kb7zruhn6C0JocyPTOPPK1J08tSp/ur+A YLYLyxL8+v28i1i9c1UhtatXpnCHn8OGFmg2pC/Vv2Q8sTXjKs6DFQ4I GODOQdU2HqM=
-gl.			86400	IN	RRSIG	DNSKEY 8 1 86400 20250515120000 20250224120000 11560 gl. Bln5jTKZHURZqJZjAYQvIC4cKpsgTXCCyZqh0v1MVk04bBuSdEX7r24G 73JJcOlZ8Kd/3+s1Me0lE90pEW6p3UxgKhzEXNVcGTd8WgnfRhTdqqhm NvkZ8reHOA5mfjguhaoH5THTfjghfPppKBD0K3AxVBJLzeutjoUVPvp/ OKrvERBKiN4YKU5KxqNECShhs9oSHyOErYXReuoi1WnGwte7r7004IvB 3lx+aOW+M9UqtpWz8owDEza154pD5Pkk/jRYYCLtO8IduhQcnS4TX05Y 1V0+4uMqPazLqjqmv8he+UDCvfACCa9uDgSpknlQMIy5o+LDdTM+wLHB 7/liag==
+gl.			86400	IN	RRSIG	DNSKEY 8 1 86400 20250525120000 20250306120000 11560 gl. qCUdSXnZ5yt+bHveWgkkdNRbJZ/jJBqd8kktm0iPv9TshtMPMfFZe8ee Z2SWpiXbZVnC9ahC9jyfJ1fyYZWhSeDyyBmsglazCBIrMGjTrcNypghn LY1hhwwmoleTMeU7Fm7MdcT/isRfgjyAmm4Vh+9kcdjdD9imWGpBv1U0 hCuyDKEUlE+AYAJ9UvsHPCiUo3VD92Mrdwn4VpkjqgH9HKeMa7NyKsv2 P6pvae0eb1OBwd9AdGBQs8gxmqPa5N2WNXv/zy0Uy/pTkKZ1wLUzeYVa vjWDUBLeipjXv4HbIjL2IwvX4+h1QBvz4Qo9THnaJQQgvyojOxKQ8Vtk wiaYOw==
 gl.			0	IN	NSEC3PARAM 1 0 0 103A7ABA
 gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250428120000 20250207120000 57390 gl. DvnEDnH3EC46wdjUk0bF1BOx7dlyNbtZAFkkA1h7UMZjunbsK2xkGuWL O8vlfb2JszxCeOZoZfHpAJac8pDOdqPAoWRXjjR/1J0I8+vxODNZXyec TqTp2WTNcBh6MQXEY2re0Z/qJEBVkKsv3+9fTfnNKfjFLEpY9o0eAuxS Mk02Ef1JWB8G4B6ydmDxUxy8kCWxMFN0hZcnPP+94fWKnsIMCliMzYmL U0nyY1xmGnlAm8ZuuGXCEUkF05hwYx3bJ33mzmmGIjTsS2CTlpYDNM/6 5w4gJyPXVkQNanCiEVY6b0MzNg53SjBt+MjHl1sCMo3dVWXRRevS4PHv CHhLQA==
 0.gl.			3600	IN	NS	ns1.sudos.co.
@@ -630,9 +629,10 @@ adsgoogle.gl.		3600	IN	NS	ns1.markmonitor.com.
 adsgoogle.gl.		3600	IN	NS	ns3.markmonitor.com.
 adsl.gl.		3600	IN	NS	a.ns.tusass.gl.
 adsl.gl.		3600	IN	NS	b.ns.tusass.gl.
-adultswim.gl.		3600	IN	NS	ns1.timewarner.net.
-adultswim.gl.		3600	IN	NS	ns3.timewarner.net.
-adultswim.gl.		3600	IN	NS	ns5.timewarner.net.
+adultswim.gl.		3600	IN	NS	ns-100.awsdns-12.com.
+adultswim.gl.		3600	IN	NS	ns-927.awsdns-51.net.
+adultswim.gl.		3600	IN	NS	ns-1074.awsdns-06.org.
+adultswim.gl.		3600	IN	NS	ns-1546.awsdns-01.co.uk.
 adv-dahl.gl.		3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. Ivs7ROCV4Sbib6RfwrMSHSGZEBBy0iZir9pVc49YfSRbq/7WWr83XFwk 5Tk4KpBHucODXUS0sgaM4/eRjj3nV/lwMw/aPik91h4HJADy3feR/BQC ildlI5iqk+2/Y1ct0E2VIg6gVjxMF5/Ikl6yp8WBEhUq9+IwExs3Ngwo 2c6mDq8bgmTK/e9hQTIcQMuCsh7TBRuZrw8zS+sQ5stGJpKLjOTmzoBa OuXRcx6bm/tR7YPqejE8GHZUSmjV1X7eF9y1OPRrAmfSRJj4pkQFXUFA nCEIaFaf/uRvLA+cTcrvDRzXj4sclwHS+XCjHkUjFaTy+EWaO13ss/mR GBm6hA==
 adv-dahl.gl.		3600	IN	DS	9415 13 2 AFE4AAE54BF13EEC4C1ED0D0D7A902410187FDA3FA61A31CC53A34C2 C28D5611
 adv-dahl.gl.		3600	IN	NS	a.hosting.gl.
@@ -10780,8 +10780,8 @@ krn.gl.			3600	IN	NS	eoin.ns.cloudflare.com.
 krn.gl.			3600	IN	NS	diana.ns.cloudflare.com.
 krn1.gl.		3600	IN	NS	bob.ns.cloudflare.com.
 krn1.gl.		3600	IN	NS	itzel.ns.cloudflare.com.
-krn10.gl.		3600	IN	NS	ns1.domainnameapi.com.
-krn10.gl.		3600	IN	NS	ns2.domainnameapi.com.
+krn10.gl.		3600	IN	NS	eu.apiname.com.
+krn10.gl.		3600	IN	NS	tr.apiname.com.
 krn2.gl.		3600	IN	NS	bob.ns.cloudflare.com.
 krn2.gl.		3600	IN	NS	itzel.ns.cloudflare.com.
 krn3.gl.		3600	IN	NS	bob.ns.cloudflare.com.
@@ -10789,16 +10789,16 @@ krn3.gl.		3600	IN	NS	itzel.ns.cloudflare.com.
 krn4.gl.		3600	IN	NS	ns1.disabled.ispapi.net.
 krn4.gl.		3600	IN	NS	ns2.disabled.ispapi.net.
 krn4.gl.		3600	IN	NS	ns3.disabled.ispapi.net.
-krn5.gl.		3600	IN	NS	ns1.domainnameapi.com.
-krn5.gl.		3600	IN	NS	ns2.domainnameapi.com.
+krn5.gl.		3600	IN	NS	eu.apiname.com.
+krn5.gl.		3600	IN	NS	tr.apiname.com.
 krn6.gl.		3600	IN	NS	ns1.domainnameapi.com.
 krn6.gl.		3600	IN	NS	ns2.domainnameapi.com.
-krn7.gl.		3600	IN	NS	ns1.domainnameapi.com.
-krn7.gl.		3600	IN	NS	ns2.domainnameapi.com.
+krn7.gl.		3600	IN	NS	eu.apiname.com.
+krn7.gl.		3600	IN	NS	tr.apiname.com.
 krn8.gl.		3600	IN	NS	ns1.domainnameapi.com.
 krn8.gl.		3600	IN	NS	ns2.domainnameapi.com.
-krn9.gl.		3600	IN	NS	ns1.domainnameapi.com.
-krn9.gl.		3600	IN	NS	ns2.domainnameapi.com.
+krn9.gl.		3600	IN	NS	eu.apiname.com.
+krn9.gl.		3600	IN	NS	tr.apiname.com.
 krra10.gl.		3600	IN	NS	leif.ns.cloudflare.com.
 krra10.gl.		3600	IN	NS	lola.ns.cloudflare.com.
 krra7.gl.		3600	IN	NS	eu.atakdomain.com.
@@ -15481,6 +15481,10 @@ persondata.gl.		3600	IN	NS	ns1.simply.com.
 persondata.gl.		3600	IN	NS	ns2.simply.com.
 persondata.gl.		3600	IN	NS	ns3.simply.com.
 persondata.gl.		3600	IN	NS	ns4.simply.com.
+pet.gl.			3600	IN	NS	a.hosting.gl.
+pet.gl.			3600	IN	NS	b.hosting.gl.
+pet.gl.			3600	IN	NS	c.hosting.gl.
+pet.gl.			3600	IN	NS	d.hosting.gl.
 petcure.gl.		3600	IN	NS	ns1.curanet.dk.
 petcure.gl.		3600	IN	NS	ns2.curanet.dk.
 peterbraathen.gl.	3600	IN	NS	ns3.inmotionhosting.com.
@@ -15501,6 +15505,10 @@ petro-canada.gl.	3600	IN	NS	ns5.markmonitor.com.
 petrocanada.gl.		3600	IN	NS	ns1.markmonitor.com.
 petrocanada.gl.		3600	IN	NS	ns3.markmonitor.com.
 petrocanada.gl.		3600	IN	NS	ns5.markmonitor.com.
+pets.gl.		3600	IN	NS	a.hosting.gl.
+pets.gl.		3600	IN	NS	b.hosting.gl.
+pets.gl.		3600	IN	NS	c.hosting.gl.
+pets.gl.		3600	IN	NS	d.hosting.gl.
 pex.gl.			3600	IN	NS	ns1.digitalocean.com.
 pex.gl.			3600	IN	NS	ns2.digitalocean.com.
 pex.gl.			3600	IN	NS	ns3.digitalocean.com.
@@ -17591,6 +17599,9 @@ sermitsiaqphoto.gl.	3600	IN	NS	ns3.modulo.gl.
 seropram.gl.		3600	IN	NS	nsgbr.comlaude.co.uk.
 seropram.gl.		3600	IN	NS	nssui.comlaude.ch.
 seropram.gl.		3600	IN	NS	nsusa.comlaude.net.
+serravik.gl.		3600	IN	NS	ns5.chosting.dk.
+serravik.gl.		3600	IN	NS	ns6.chosting.dk.
+serravik.gl.		3600	IN	NS	ns7.chosting.dk.
 server.gl.		3600	IN	NS	dns.server.gl.
 dns.server.gl.		3600	IN	A	144.76.194.18
 service.gl.		3600	IN	NS	adam.ns.cloudflare.com.
@@ -19642,9 +19653,10 @@ toolstation.gl.		3600	IN	NS	ns-cloud-d1.googledomains.com.
 toolstation.gl.		3600	IN	NS	ns-cloud-d2.googledomains.com.
 toolstation.gl.		3600	IN	NS	ns-cloud-d3.googledomains.com.
 toolstation.gl.		3600	IN	NS	ns-cloud-d4.googledomains.com.
-toonix.gl.		3600	IN	NS	ns1.timewarner.net.
-toonix.gl.		3600	IN	NS	ns3.timewarner.net.
-toonix.gl.		3600	IN	NS	ns5.timewarner.net.
+toonix.gl.		3600	IN	NS	ns-438.awsdns-54.com.
+toonix.gl.		3600	IN	NS	ns-533.awsdns-02.net.
+toonix.gl.		3600	IN	NS	ns-1293.awsdns-33.org.
+toonix.gl.		3600	IN	NS	ns-1709.awsdns-21.co.uk.
 toornaq.gl.		3600	IN	NS	ns1.mysecurecloudhost.com.
 toornaq.gl.		3600	IN	NS	ns2.mysecurecloudhost.com.
 toornaq.gl.		3600	IN	NS	ns3.mysecurecloudhost.com.
@@ -23126,4 +23138,4 @@ VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. Y1v6YCMGj4s9yQklhWCXx85cHo7XgjG7XeGAGB57PU7+Lz4jCiDJMsY4 R+4nnPMpy6OH9sZcxkwF07DPfC5lLw8Gbog9ljPR7n4ivcEa+eZJaTXj LXertb5CywPqy9p7qqL4IBUJxIcenrgp/9DFXsXcB6TlHa9u3c8EfcUa yumwb2ZFin5AI2WlcPBDdqdq2tqFWcbPtaIO/eb361Hd/bfpH2887QcQ YbI5DVk/pcvK58igwxrZKAtmbnHyA6bErgSTpOhRRFie33xBKooFodoE LsosTenpFt04204AdyFHvJT/X8eJPVb7Iy28dnZ76J/q1LVO/NX8/zIe 437rGQ==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160228 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160238 900 1800 6048000 3600
