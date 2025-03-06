@@ -1,5 +1,9 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030604 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1741233626"
+;; Connection to 195.24.205.60#53(195.24.205.60) for cm. failed: timed out.
+;; no servers could be reached
+;; Connection to 195.24.205.60#53(195.24.205.60) for cm. failed: timed out.
+;; no servers could be reached
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030606 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1741240826"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -17866,6 +17870,8 @@ aramark.cm.		3600	IN	NS	ns6.dnsmadeeasy.com.
 aramark.cm.		3600	IN	NS	ns7.dnsmadeeasy.com.
 aramark.cm.		3600	IN	NS	burst.aramark.com.
 aramark.cm.		3600	IN	NS	surge.aramark.com.
+aramco.cm.		3600	IN	NS	ns3.abovedomains.com.
+aramco.cm.		3600	IN	NS	ns4.abovedomains.com.
 aramex.cm.		3600	IN	NS	dns1.idp365.net.
 aramex.cm.		3600	IN	NS	dns2.idp365.net.
 aramex.cm.		3600	IN	NS	dns3.idp365.net.
@@ -19492,6 +19498,8 @@ bankofthewest.cm.	3600	IN	NS	ns1.parkingcrew.net.
 bankofthewest.cm.	3600	IN	NS	ns2.parkingcrew.net.
 bankomaat.cm.		3600	IN	NS	toby.ns.cloudflare.com.
 bankomaat.cm.		3600	IN	NS	kimora.ns.cloudflare.com.
+bankomat.cm.		3600	IN	NS	ns3.abovedomains.com.
+bankomat.cm.		3600	IN	NS	ns4.abovedomains.com.
 bankomatcm.cm.		3600	IN	NS	rex.ns.cloudflare.com.
 bankomatcm.cm.		3600	IN	NS	stevie.ns.cloudflare.com.
 bankozarks.cm.		3600	IN	NS	carl.ns.cloudflare.com.
@@ -20132,8 +20140,8 @@ beegroup.cm.		3600	IN	NS	ns-cloud-b1.googledomains.com.
 beegroup.cm.		3600	IN	NS	ns-cloud-b2.googledomains.com.
 beegroup.cm.		3600	IN	NS	ns-cloud-b3.googledomains.com.
 beegroup.cm.		3600	IN	NS	ns-cloud-b4.googledomains.com.
-beehiiv.cm.		3600	IN	NS	rob.ns.cloudflare.com.
-beehiiv.cm.		3600	IN	NS	dora.ns.cloudflare.com.
+beehiiv.cm.		3600	IN	NS	yalun.ns.giantpanda.com.
+beehiiv.cm.		3600	IN	NS	changchang.ns.giantpanda.com.
 beenverified.cm.	3600	IN	NS	ns1.ii51.parklogic.com.
 beenverified.cm.	3600	IN	NS	ns2.ii51.parklogic.com.
 beer.cm.		3600	IN	NS	dns1.registrar-servers.com.
@@ -31745,8 +31753,8 @@ elephanttube.cm.	3600	IN	NS	ns31.constellix.com.
 elephanttube.cm.	3600	IN	NS	ns41.constellix.net.
 elephanttube.cm.	3600	IN	NS	ns51.constellix.net.
 elephanttube.cm.	3600	IN	NS	ns61.constellix.net.
-elevate.cm.		3600	IN	NS	dns1.registrar-servers.com.
-elevate.cm.		3600	IN	NS	dns2.registrar-servers.com.
+elevate.cm.		3600	IN	NS	uma.ns.cloudflare.com.
+elevate.cm.		3600	IN	NS	apollo.ns.cloudflare.com.
 elevise.cm.		3600	IN	NS	dns1.cscdns.net.
 elevise.cm.		3600	IN	NS	dns2.cscdns.net.
 elevize.cm.		3600	IN	NS	dns1.cscdns.net.
@@ -50678,8 +50686,8 @@ nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
 ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
 ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
-ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
 ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
+ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
 nanaboubagroup.cm.	3600	IN	NS	ns2.tchaytchay.com.
 nanbudokaikan.cm.	3600	IN	NS	ns102.ovh.net.
@@ -67542,8 +67550,8 @@ univ-maroua.cm.		3600	IN	NS	ns1.mtnbusiness.cm.
 univ-maroua.cm.		3600	IN	NS	ns2.mtnbusiness.cm.
 univ-ndere.cm.		3600	IN	NS	nsy.prosygma-cm.com.
 univ-ndere.cm.		3600	IN	NS	bamnyanga.univ-ndere.cm.
-bamnyanga.univ-ndere.cm. 3600	IN	AAAA	2001:43f8:1470:700::2
 bamnyanga.univ-ndere.cm. 3600	IN	A	192.145.186.130
+bamnyanga.univ-ndere.cm. 3600	IN	AAAA	2001:43f8:1470:700::2
 univ-ndere2.cm.		3600	IN	NS	ns3.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns4.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns5.cloud.stdigital.network.
@@ -70467,8 +70475,8 @@ wonderland.cm.		3600	IN	NS	ns1.stackdns.com.
 wonderland.cm.		3600	IN	NS	ns2.stackdns.com.
 wonderland.cm.		3600	IN	NS	ns3.stackdns.com.
 wonderland.cm.		3600	IN	NS	ns4.stackdns.com.
-wondershare.cm.		3600	IN	NS	rob.ns.cloudflare.com.
-wondershare.cm.		3600	IN	NS	dora.ns.cloudflare.com.
+wondershare.cm.		3600	IN	NS	yalun.ns.giantpanda.com.
+wondershare.cm.		3600	IN	NS	changchang.ns.giantpanda.com.
 woniu.cm.		3600	IN	NS	ns1.netsto.net.
 woniu.cm.		3600	IN	NS	ns2.netsto.net.
 woo.cm.			3600	IN	NS	ns1198.hexonet.net.
@@ -73840,4 +73848,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030604 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030606 1800 900 1209600 3600
