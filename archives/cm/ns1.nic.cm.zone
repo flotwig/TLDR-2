@@ -1,7 +1,5 @@
-;; Connection to 195.24.205.60#53(195.24.205.60) for cm. failed: timed out.
-;; no servers could be reached
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030611 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1741258829"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030612 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1741262430"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -15859,8 +15857,8 @@ afoupconnect.cm.	3600	IN	NS	ns1.o2switch.net.
 afoupconnect.cm.	3600	IN	NS	ns2.o2switch.net.
 afp1m.cm.		3600	IN	NS	ns1.dns.com.
 afp1m.cm.		3600	IN	NS	ns2.dns.com.
-afp2m.cm.		3600	IN	NS	ns1.dns.com.
-afp2m.cm.		3600	IN	NS	ns2.dns.com.
+afp2m.cm.		3600	IN	NS	ns1.dnsip.com.
+afp2m.cm.		3600	IN	NS	ns2.dnsip.com.
 afp3m.cm.		3600	IN	NS	ns1.dns.com.
 afp3m.cm.		3600	IN	NS	ns2.dns.com.
 afp5m.cm.		3600	IN	NS	ns1.dns.com.
@@ -26086,6 +26084,8 @@ cjq.cm.			3600	IN	NS	b.dnspod.com.
 cjq.cm.			3600	IN	NS	c.dnspod.com.
 ck.cm.			3600	IN	NS	ns1.bodis.com.
 ck.cm.			3600	IN	NS	ns2.bodis.com.
+ck337.cm.		3600	IN	NS	ns1.netsto.net.
+ck337.cm.		3600	IN	NS	ns2.netsto.net.
 ck777.cm.		3600	IN	NS	ns6.netsto.net.
 ck777.cm.		3600	IN	NS	ns7.netsto.net.
 ck8.cm.			3600	IN	NS	ns1.alidns.com.
@@ -30641,8 +30641,8 @@ dspayments.cm.		3600	IN	NS	ns1.parkingcrew.net.
 dspayments.cm.		3600	IN	NS	ns2.parkingcrew.net.
 dsquared.cm.		3600	IN	NS	ns1.eurodns.com.
 dsquared.cm.		3600	IN	NS	ns2.eurodns.com.
-dsr3p.cm.		3600	IN	NS	ns1.dns.com.
-dsr3p.cm.		3600	IN	NS	ns2.dns.com.
+dsr3p.cm.		3600	IN	NS	ns1.dnsip.com.
+dsr3p.cm.		3600	IN	NS	ns2.dnsip.com.
 dstv.cm.		3600	IN	NS	ns1.parkingcrew.net.
 dstv.cm.		3600	IN	NS	ns2.parkingcrew.net.
 dsv.cm.			3600	IN	NS	ns1.camoogroup.com.
@@ -40511,8 +40511,8 @@ indom.cm.		3600	IN	NS	dns1.cscdns.net.
 indom.cm.		3600	IN	NS	dns2.cscdns.net.
 indomi.cm.		3600	IN	NS	ns1.camoogroup.com.
 indomi.cm.		3600	IN	NS	ns2.camoogroup.com.
-indomita.cm.		3600	IN	NS	lila.ns.cloudflare.com.
-indomita.cm.		3600	IN	NS	shane.ns.cloudflare.com.
+indomita.cm.		3600	IN	NS	ns1.camoogroup.com.
+indomita.cm.		3600	IN	NS	ns2.camoogroup.com.
 indonesia.cm.		3600	IN	NS	pns21.cloudns.net.
 indonesia.cm.		3600	IN	NS	pns22.cloudns.net.
 indonesia.cm.		3600	IN	NS	pns23.cloudns.net.
@@ -50714,8 +50714,8 @@ namesdatabase.cm.	3600	IN	NS	ns02.classmates.com.
 namesdatabase.cm.	3600	IN	NS	authns-ws.lax.mysite.com.
 nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
-ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
 ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
+ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
 ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
 ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
@@ -67582,8 +67582,8 @@ univ-maroua.cm.		3600	IN	NS	ns1.mtnbusiness.cm.
 univ-maroua.cm.		3600	IN	NS	ns2.mtnbusiness.cm.
 univ-ndere.cm.		3600	IN	NS	nsy.prosygma-cm.com.
 univ-ndere.cm.		3600	IN	NS	bamnyanga.univ-ndere.cm.
-bamnyanga.univ-ndere.cm. 3600	IN	A	192.145.186.130
 bamnyanga.univ-ndere.cm. 3600	IN	AAAA	2001:43f8:1470:700::2
+bamnyanga.univ-ndere.cm. 3600	IN	A	192.145.186.130
 univ-ndere2.cm.		3600	IN	NS	ns3.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns4.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns5.cloud.stdigital.network.
@@ -70738,8 +70738,8 @@ ws.cm.			3600	IN	NS	pns21.cloudns.net.
 ws.cm.			3600	IN	NS	pns22.cloudns.net.
 ws.cm.			3600	IN	NS	pns23.cloudns.net.
 ws.cm.			3600	IN	NS	pns24.cloudns.net.
-wsb0m.cm.		3600	IN	NS	ns1.dns.com.
-wsb0m.cm.		3600	IN	NS	ns2.dns.com.
+wsb0m.cm.		3600	IN	NS	ns1.dnsip.com.
+wsb0m.cm.		3600	IN	NS	ns2.dnsip.com.
 wsbbet.cm.		3600	IN	NS	ns1.netsto.net.
 wsbbet.cm.		3600	IN	NS	ns2.netsto.net.
 wscsarl.cm.		3600	IN	NS	ns1.camoogroup.com.
@@ -73886,4 +73886,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030611 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030612 1800 900 1209600 3600
