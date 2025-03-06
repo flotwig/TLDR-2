@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160235 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. AT4agwp3Qq0Z7DtdeJsq1qMQnaD1tXJnIpuCozMxIeqGyUYsDs6nTXs8 wJSn6DGVZjfBTokuUl6VWCE8YiGD+F7VbC++RAonsTespkUYDoE/xFiD SBYurXsfLp3AiGWMFgpH9zytrtzQDDD3sEKpeqwIGl/YNvju8k9UGSmj Lzs6S2eVugGedqGj1V8uxKDNYMYvFnqBbcKUAa9pYGZvyG+58+LjPQbT D6H/FE6YmEYmmu8w2dthScxswD/5mYSiwAUnvyM1lGn0jeBY8Tm6+/Uy hTp6GYqiBPYBGOCieeaCcMMG0Wqb8CA5rCr1M/7kZkC8G1/Fvt8lPqWc z3BwOg==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160241 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. L9Wx55Jr68BtNcqVTJkiSRneBRhkR2iFQydudWnpEvfQneUCIPOoAhv0 sq18ffHbm6SbGlEu/G0I4i3zBnTcPHTkPPp0TfML8h0sAy6VMo2vCjyG dQ6mNModskOMYEAtljSn/OA7oUKoXYpMRIwQ5Da4O87XLIAZyKVmDtCO 1aGIhQ/Rj/PTg6fwnl73AudEz0WRJFGrMePCSZZOcYiZP6TJa07wHOl9 9fngxfjteli00zvX9cC7GNNM0GgRgMBwxK/gMj3Nz9SA0zBaMd2uD3yl NGkm760YEFyQcI5q0LqATE7GUnv6R6p2LNfpfflvXvs4ew/DSaCaps+q qfFDKQ==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -10780,8 +10780,8 @@ krn.gl.			3600	IN	NS	eoin.ns.cloudflare.com.
 krn.gl.			3600	IN	NS	diana.ns.cloudflare.com.
 krn1.gl.		3600	IN	NS	bob.ns.cloudflare.com.
 krn1.gl.		3600	IN	NS	itzel.ns.cloudflare.com.
-krn10.gl.		3600	IN	NS	ns1.domainnameapi.com.
-krn10.gl.		3600	IN	NS	ns2.domainnameapi.com.
+krn10.gl.		3600	IN	NS	eu.apiname.com.
+krn10.gl.		3600	IN	NS	tr.apiname.com.
 krn2.gl.		3600	IN	NS	bob.ns.cloudflare.com.
 krn2.gl.		3600	IN	NS	itzel.ns.cloudflare.com.
 krn3.gl.		3600	IN	NS	bob.ns.cloudflare.com.
@@ -10789,16 +10789,16 @@ krn3.gl.		3600	IN	NS	itzel.ns.cloudflare.com.
 krn4.gl.		3600	IN	NS	ns1.disabled.ispapi.net.
 krn4.gl.		3600	IN	NS	ns2.disabled.ispapi.net.
 krn4.gl.		3600	IN	NS	ns3.disabled.ispapi.net.
-krn5.gl.		3600	IN	NS	ns1.domainnameapi.com.
-krn5.gl.		3600	IN	NS	ns2.domainnameapi.com.
-krn6.gl.		3600	IN	NS	ns1.domainnameapi.com.
-krn6.gl.		3600	IN	NS	ns2.domainnameapi.com.
-krn7.gl.		3600	IN	NS	ns1.domainnameapi.com.
-krn7.gl.		3600	IN	NS	ns2.domainnameapi.com.
-krn8.gl.		3600	IN	NS	ns1.domainnameapi.com.
-krn8.gl.		3600	IN	NS	ns2.domainnameapi.com.
-krn9.gl.		3600	IN	NS	ns1.domainnameapi.com.
-krn9.gl.		3600	IN	NS	ns2.domainnameapi.com.
+krn5.gl.		3600	IN	NS	eu.apiname.com.
+krn5.gl.		3600	IN	NS	tr.apiname.com.
+krn6.gl.		3600	IN	NS	eu.apiname.com.
+krn6.gl.		3600	IN	NS	tr.apiname.com.
+krn7.gl.		3600	IN	NS	eu.apiname.com.
+krn7.gl.		3600	IN	NS	tr.apiname.com.
+krn8.gl.		3600	IN	NS	eu.apiname.com.
+krn8.gl.		3600	IN	NS	tr.apiname.com.
+krn9.gl.		3600	IN	NS	eu.apiname.com.
+krn9.gl.		3600	IN	NS	tr.apiname.com.
 krra10.gl.		3600	IN	NS	leif.ns.cloudflare.com.
 krra10.gl.		3600	IN	NS	lola.ns.cloudflare.com.
 krra7.gl.		3600	IN	NS	eu.atakdomain.com.
@@ -13643,10 +13643,8 @@ niclasen.gl.		3600	IN	NS	ns2.modulo.gl.
 niclasen.gl.		3600	IN	NS	ns3.modulo.gl.
 nico.gl.		3600	IN	NS	ns1.vercel-dns.com.
 nico.gl.		3600	IN	NS	ns2.vercel-dns.com.
-nielsen.gl.		3600	IN	NS	ns1.bdm.microsoftonline.com.
-nielsen.gl.		3600	IN	NS	ns2.bdm.microsoftonline.com.
-nielsen.gl.		3600	IN	NS	ns3.bdm.microsoftonline.com.
-nielsen.gl.		3600	IN	NS	ns4.bdm.microsoftonline.com.
+nielsen.gl.		3600	IN	NS	ns.dandomain.dk.
+nielsen.gl.		3600	IN	NS	ns2.dandomain.dk.
 nielsensvvs.gl.		3600	IN	NS	ns1.hosting.inuit.gl.
 nielsensvvs.gl.		3600	IN	NS	ns2.hosting.inuit.gl.
 nif.gl.			3600	IN	NS	ns1-hosting.inuit.gl.
@@ -23138,4 +23136,4 @@ VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. Y1v6YCMGj4s9yQklhWCXx85cHo7XgjG7XeGAGB57PU7+Lz4jCiDJMsY4 R+4nnPMpy6OH9sZcxkwF07DPfC5lLw8Gbog9ljPR7n4ivcEa+eZJaTXj LXertb5CywPqy9p7qqL4IBUJxIcenrgp/9DFXsXcB6TlHa9u3c8EfcUa yumwb2ZFin5AI2WlcPBDdqdq2tqFWcbPtaIO/eb361Hd/bfpH2887QcQ YbI5DVk/pcvK58igwxrZKAtmbnHyA6bErgSTpOhRRFie33xBKooFodoE LsosTenpFt04204AdyFHvJT/X8eJPVb7Iy28dnZ76J/q1LVO/NX8/zIe 437rGQ==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160235 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160241 900 1800 6048000 3600
