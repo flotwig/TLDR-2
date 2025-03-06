@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160238 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. YaqAkTqH7ZwO/jYv9+QpJdZjHTyaj0CJ9314yZ0HH4jPCggrFvj1q0dW a8QuGjx/HMMKFo7a6ox3Z4y8qcEwhBT/QFq11vvrOs6CDZFOAvU2mNJQ yij8cnR853eurqVfom3r8/gHwHVe9BFGmaLXi1s1bxVDnpSZVNDcT9Fj J87jx12CiRXXZi24cHPGMvAFWepTM8pJ9Xq5YWH+ilsh4BCDJHQLoIhA 97WepMzTTJuj3rQs+llG5arB8F6ACHRZ3k55PrMQsE7PYLMiEnpIyvUP ArOXAIGjqbuArxSlCdHlX+EIouOIWBccxyHb7gsdVXuTdpZf/5t/46Mr KmlCbg==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160244 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. GFYK6WgBU1ZiLFz386FmGXwUVEXsq0kDAzY1O0vVzVvUxi3CTeGDRKVf S4Z271LTetyaFcT2ZZuA4NIPLIdh+SuBD2ql1JGYlg7vC3IxYKbg526e sAnPJw3ArJvMJM7IML8b5l4GR4gCZaKXjeyXnElQU8F9o2cIDiU18syW +nViUi2cSjhmmax2G5EoLYLv2VkG520VMs0hvqd4a9Vhsg5stcnnlmWN 1ZmrhUdEcjbHIRWvGhaEEOXMsyGYZ+RcY4EAGNaFqAEnykhmyZhW/UNx 8Uymmt01YZs2owvrIQYnxZprFGfGJ7Rr/QQ4j/dKmyO34k7RJpzhNihX CoTbYQ==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -10791,12 +10791,12 @@ krn4.gl.		3600	IN	NS	ns2.disabled.ispapi.net.
 krn4.gl.		3600	IN	NS	ns3.disabled.ispapi.net.
 krn5.gl.		3600	IN	NS	eu.apiname.com.
 krn5.gl.		3600	IN	NS	tr.apiname.com.
-krn6.gl.		3600	IN	NS	ns1.domainnameapi.com.
-krn6.gl.		3600	IN	NS	ns2.domainnameapi.com.
+krn6.gl.		3600	IN	NS	eu.apiname.com.
+krn6.gl.		3600	IN	NS	tr.apiname.com.
 krn7.gl.		3600	IN	NS	eu.apiname.com.
 krn7.gl.		3600	IN	NS	tr.apiname.com.
-krn8.gl.		3600	IN	NS	ns1.domainnameapi.com.
-krn8.gl.		3600	IN	NS	ns2.domainnameapi.com.
+krn8.gl.		3600	IN	NS	eu.apiname.com.
+krn8.gl.		3600	IN	NS	tr.apiname.com.
 krn9.gl.		3600	IN	NS	eu.apiname.com.
 krn9.gl.		3600	IN	NS	tr.apiname.com.
 krra10.gl.		3600	IN	NS	leif.ns.cloudflare.com.
@@ -12764,6 +12764,8 @@ morganstanley.gl.	3600	IN	NS	ext-ns1.morganstanley.net.
 morganstanley.gl.	3600	IN	NS	ext-ns3.morganstanley.net.
 morganstanley.gl.	3600	IN	NS	ext-ns5.morganstanley.net.
 morganstanley.gl.	3600	IN	NS	ext-ns7.morganstanley.net.
+mori.gl.		3600	IN	NS	dns1.cscdns.net.
+mori.gl.		3600	IN	NS	dns2.cscdns.net.
 morningstar.gl.		3600	IN	NS	ns1.markmonitor.com.
 morningstar.gl.		3600	IN	NS	ns2.markmonitor.com.
 morningstar.gl.		3600	IN	NS	ns3.markmonitor.com.
@@ -13643,10 +13645,8 @@ niclasen.gl.		3600	IN	NS	ns2.modulo.gl.
 niclasen.gl.		3600	IN	NS	ns3.modulo.gl.
 nico.gl.		3600	IN	NS	ns1.vercel-dns.com.
 nico.gl.		3600	IN	NS	ns2.vercel-dns.com.
-nielsen.gl.		3600	IN	NS	ns1.bdm.microsoftonline.com.
-nielsen.gl.		3600	IN	NS	ns2.bdm.microsoftonline.com.
-nielsen.gl.		3600	IN	NS	ns3.bdm.microsoftonline.com.
-nielsen.gl.		3600	IN	NS	ns4.bdm.microsoftonline.com.
+nielsen.gl.		3600	IN	NS	ns.dandomain.dk.
+nielsen.gl.		3600	IN	NS	ns2.dandomain.dk.
 nielsensvvs.gl.		3600	IN	NS	ns1.hosting.inuit.gl.
 nielsensvvs.gl.		3600	IN	NS	ns2.hosting.inuit.gl.
 nif.gl.			3600	IN	NS	ns1-hosting.inuit.gl.
@@ -23138,4 +23138,4 @@ VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. Y1v6YCMGj4s9yQklhWCXx85cHo7XgjG7XeGAGB57PU7+Lz4jCiDJMsY4 R+4nnPMpy6OH9sZcxkwF07DPfC5lLw8Gbog9ljPR7n4ivcEa+eZJaTXj LXertb5CywPqy9p7qqL4IBUJxIcenrgp/9DFXsXcB6TlHa9u3c8EfcUa yumwb2ZFin5AI2WlcPBDdqdq2tqFWcbPtaIO/eb361Hd/bfpH2887QcQ YbI5DVk/pcvK58igwxrZKAtmbnHyA6bErgSTpOhRRFie33xBKooFodoE LsosTenpFt04204AdyFHvJT/X8eJPVb7Iy28dnZ76J/q1LVO/NX8/zIe 437rGQ==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160238 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160244 900 1800 6048000 3600
