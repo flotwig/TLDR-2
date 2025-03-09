@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030910 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1741514721"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030914 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1741529123"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -13259,8 +13259,8 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 8l.cm.			3600	IN	NS	maria.ns.cloudflare.com.
 8m.cm.			3600	IN	NS	ns1.netsto.net.
 8m.cm.			3600	IN	NS	ns2.netsto.net.
-8n.cm.			3600	IN	NS	sam.ns.cloudflare.com.
-8n.cm.			3600	IN	NS	maria.ns.cloudflare.com.
+8n.cm.			3600	IN	NS	ns1.netsto.net.
+8n.cm.			3600	IN	NS	ns2.netsto.net.
 8o.cm.			3600	IN	NS	aspen.ns.cloudflare.com.
 8o.cm.			3600	IN	NS	apollo.ns.cloudflare.com.
 8p.cm.			3600	IN	NS	ns1.netsto.net.
@@ -27293,8 +27293,6 @@ cosmopolitan.cm.	3600	IN	NS	pns21.cloudns.net.
 cosmopolitan.cm.	3600	IN	NS	pns22.cloudns.net.
 cosmopolitan.cm.	3600	IN	NS	pns23.cloudns.net.
 cosmopolitan.cm.	3600	IN	NS	pns24.cloudns.net.
-cosmos.cm.		3600	IN	NS	laylah.ns.cloudflare.com.
-cosmos.cm.		3600	IN	NS	jermaine.ns.cloudflare.com.
 cosnova.cm.		3600	IN	NS	dns1.inforent.net.
 cosnova.cm.		3600	IN	NS	dns2.inforent.de.
 cosnova.cm.		3600	IN	NS	dns3.inforent.eu.
@@ -37890,8 +37888,6 @@ hecylink.cm.		3600	IN	NS	ns1.mysecurecloudhost.com.
 hecylink.cm.		3600	IN	NS	ns2.mysecurecloudhost.com.
 hedgefund.cm.		3600	IN	NS	ns1.parkingcrew.net.
 hedgefund.cm.		3600	IN	NS	ns2.parkingcrew.net.
-hedgehog.cm.		3600	IN	NS	ns12.ovh.net.
-hedgehog.cm.		3600	IN	NS	dns12.ovh.net.
 hedonism.cm.		3600	IN	NS	ns1.opp.net.
 hedonism.cm.		3600	IN	NS	ns2.opp.net.
 hedonism.cm.		3600	IN	NS	ns3.opp.net.
@@ -50474,8 +50470,8 @@ mzb.cm.			3600	IN	NS	ignat.ns.cloudflare.com.
 mzb.cm.			3600	IN	NS	davina.ns.cloudflare.com.
 n.cm.			3600	IN	NS	hasslo.ns.cloudflare.com.
 n.cm.			3600	IN	NS	ursula.ns.cloudflare.com.
-n1.cm.			3600	IN	NS	sam.ns.cloudflare.com.
-n1.cm.			3600	IN	NS	maria.ns.cloudflare.com.
+n1.cm.			3600	IN	NS	ns1.netsto.net.
+n1.cm.			3600	IN	NS	ns2.netsto.net.
 n26.cm.			3600	IN	NS	ns1.netsto.net.
 n26.cm.			3600	IN	NS	ns2.netsto.net.
 n2y.cm.			3600	IN	NS	ns1.parkingcrew.net.
@@ -50599,10 +50595,10 @@ namesdatabase.cm.	3600	IN	NS	ns02.classmates.com.
 namesdatabase.cm.	3600	IN	NS	authns-ws.lax.mysite.com.
 nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
-ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
 ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
-ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
+ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
 ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
+ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
 nanaboubagroup.cm.	3600	IN	NS	ns2.tchaytchay.com.
 nanbudokaikan.cm.	3600	IN	NS	ns102.ovh.net.
@@ -58052,6 +58048,11 @@ relation.cm.		3600	IN	NS	ns2.o2switch.net.
 relaxdays.cm.		3600	IN	NS	ns.udag.de.
 relaxdays.cm.		3600	IN	NS	ns.udag.net.
 relaxdays.cm.		3600	IN	NS	ns.udag.org.
+relay.cm.		3600	IN	NS	ns1.ddos-guard.net.
+relay.cm.		3600	IN	NS	ns2.ddos-guard.net.
+relay.cm.		3600	IN	NS	ns3.ddos-guard.net.
+relay.cm.		3600	IN	NS	ns4.ddos-guard.net.
+relay.cm.		3600	IN	NS	ns5.ddos-guard.net.
 reliable.cm.		3600	IN	NS	udns1.ultradns.net.
 reliable.cm.		3600	IN	NS	udns2.ultradns.net.
 reliance.cm.		3600	IN	NS	ns1041.ifastnet.com.
@@ -58586,6 +58587,8 @@ rm.cm.			3600	IN	NS	ns0.ifl.net.
 rm.cm.			3600	IN	NS	ns1.ifl.net.
 rm1.cm.			3600	IN	NS	jule.ns.cloudflare.com.
 rm1.cm.			3600	IN	NS	julian.ns.cloudflare.com.
+rm22.cm.		3600	IN	NS	may.ns.cloudflare.com.
+rm22.cm.		3600	IN	NS	tanner.ns.cloudflare.com.
 rm8vip10.cm.		3600	IN	NS	ns1cnb.name.com.
 rm8vip10.cm.		3600	IN	NS	ns2fgv.name.com.
 rm8vip10.cm.		3600	IN	NS	ns3cna.name.com.
@@ -62359,6 +62362,8 @@ soyoucant.cm.		3600	IN	NS	ns05.jpmorganchase.com.
 soyoucant.cm.		3600	IN	NS	ns06.jpmorganchase.com.
 sp.cm.			3600	IN	NS	ns1.parkingcrew.net.
 sp.cm.			3600	IN	NS	ns2.parkingcrew.net.
+sp22.cm.		3600	IN	NS	may.ns.cloudflare.com.
+sp22.cm.		3600	IN	NS	tanner.ns.cloudflare.com.
 sp919.cm.		3600	IN	NS	may.ns.cloudflare.com.
 sp919.cm.		3600	IN	NS	tanner.ns.cloudflare.com.
 spa.cm.			3600	IN	NS	ns1.netsto.net.
@@ -64479,8 +64484,6 @@ tdxmarket.cm.		3600	IN	NS	ns1.camoogroup.com.
 tdxmarket.cm.		3600	IN	NS	ns2.camoogroup.com.
 te.cm.			3600	IN	NS	ns1.dns.com.
 te.cm.			3600	IN	NS	ns2.dns.com.
-te-sea.cm.		3600	IN	NS	ns1.camoogroup.com.
-te-sea.cm.		3600	IN	NS	ns2.camoogroup.com.
 tea.cm.			3600	IN	NS	leah.ns.cloudflare.com.
 tea.cm.			3600	IN	NS	major.ns.cloudflare.com.
 teachable.cm.		3600	IN	NS	ns3.abovedomains.com.
@@ -73726,4 +73729,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030910 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025030914 1800 900 1209600 3600
