@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160368 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. cEQRBhI0NwctFk8j/58E2Vu1NuIp0o7QF9036LuaYLjET5C8QJr+HaFz ulEofUT9l4S6ZNYYB+0uFcrQHj7qQ2NEdUew3xxTYPbHgoeWxpJaYN+4 NRCU+en+FdFgUg9dtsjEGEooNMBTOEU14JJK2Ll/fj/qaF/iDOy5MCuF J5cTbkVdTN7CpeEZrIBQlNnGqSGvUXtieKrzwE7jGiUlOjaIoc3GXDFr 4m0HReLLhjcNb8VQrYYkrSPcjAImT2Qayqed36O0tNrNm4QEU/xy4XXV d6WKG1Pv25M3l2rn38E+20LBMr6RfLOvwWt3Ut+2tcgJUiSQhkJe2ZJA wfFY4w==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160371 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. KoF5lCJDheJy30fcjVGRiLAbKmFyJN2aj3U8rITgvsOG15N/mn6inJj9 dXxdm/57xdAHmneQHx3CWbZ/97j5tbyYQLLXIpSgz5avLbQo8oqmSO6Q F94YxieLWTU6aiO0Z2ZTDmjW99tWg88L7omgMxAyWKJq/ibVqzmGxzsP iSaUC/oNnt45bx9J5FbDDLgNUAN9UAvA4k5m+FDJ9zItnQaCWFd++d9n aP4ADrR3cuFKrKSJA08oFgYMe8IrXQnoCLoEZCIlriJUU56QrkYombvA dTBBojz+YZ5WqeNhoo+4+VGICKiBIDRAa+GyJY0oMF0LvRAcrDb847Pj UQZZPg==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -1129,8 +1129,6 @@ amerloq.gl.		3600	IN	NS	ns1.omninet.dk.
 amerloq.gl.		3600	IN	NS	ns2.omninet.dk.
 amerloq.gl.		3600	IN	NS	ns3.omninet.dk.
 amerloq.gl.		3600	IN	NS	ns4.omninet.dk.
-amg.gl.			3600	IN	NS	sonny.ns.cloudflare.com.
-amg.gl.			3600	IN	NS	aleena.ns.cloudflare.com.
 amigos.gl.		3600	IN	NS	ns1.ddos-guard.net.
 amigos.gl.		3600	IN	NS	ns2.ddos-guard.net.
 amigos.gl.		3600	IN	NS	ns3.ddos-guard.net.
@@ -4073,9 +4071,6 @@ coop.gl.		3600	IN	NS	ns3.eurodns.com.
 coop.gl.		3600	IN	NS	ns4.eurodns.com.
 corcoran.gl.		3600	IN	NS	dns1.cscdns.net.
 corcoran.gl.		3600	IN	NS	dns2.cscdns.net.
-core.gl.		3600	IN	NS	ns1.ndsplitter.com.
-core.gl.		3600	IN	NS	ns2.ndsplitter.com.
-core.gl.		3600	IN	NS	ns3.ndsplitter.com.
 coright.gl.		3600	IN	NS	ns1.hyp.net.
 coright.gl.		3600	IN	NS	ns2.hyp.net.
 coright.gl.		3600	IN	NS	ns3.hyp.net.
@@ -5801,10 +5796,6 @@ faber.gl.		3600	IN	NS	ns4.simply.com.
 faber.gl.		3600	IN	DS	61962 13 2 1AA3697B22FB7C586B09C13C3AC1402EA87F6C7FF861353A949F490B 8DCAE3D8
 faber.gl.		3600	IN	DS	61962 13 4 932B32A98659110DB335F740FB6387C20800B04CD8DD4DA3858785EE EFD0A7D61CE3DEB5968566092A8E1A7F4DE80ABA
 faber.gl.		3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. d91k8dmhbAEvo0epg0tN9kUmfXZz39cZGuinq5HgrbgMfAyngUWaV4iz L8AhBVGGo5LIroW4SE3CWdxTjnkXq2ER4nbVg2sKKKIfDh/Dj7yU+LEV g7Fnf0k4iB+ECahCDXlasb9CsbsYH9rqXdibFTo57uWcONzhifMv5kmD S9kna5gJ5cCBYmY9FERrmyfoq3W08k+eb9yIJQZhttpMg+AMxJl20wjC GJtyKDhYfYSpf8cBieY8eJAEly7MFssvhC63yClBbaI0+EN67eoI3WdQ iCQL7fp74BRc43UQKUC7WR9pERuyJxaL+lEU21Gf5oqS7n+5zg4yU8/n iOVB7g==
-fablab.gl.		3600	IN	NS	ns1.omninet.dk.
-fablab.gl.		3600	IN	NS	ns2.omninet.dk.
-fablab.gl.		3600	IN	NS	ns3.omninet.dk.
-fablab.gl.		3600	IN	NS	ns4.omninet.dk.
 facebook.gl.		3600	IN	NS	a.ns.facebook.com.
 facebook.gl.		3600	IN	NS	b.ns.facebook.com.
 facebook.gl.		3600	IN	NS	c.ns.facebook.com.
@@ -8174,10 +8165,6 @@ hotelnordbo.gl.		3600	IN	NS	ns01.one.com.
 hotelnordbo.gl.		3600	IN	NS	ns02.one.com.
 hotelnordboapartments.gl. 3600	IN	NS	ns01.one.com.
 hotelnordboapartments.gl. 3600	IN	NS	ns02.one.com.
-hotelnuka.gl.		3600	IN	NS	ns1.aputit.gl.
-hotelnuka.gl.		3600	IN	NS	ns2.aputit.gl.
-hotelnuka.gl.		3600	IN	NS	ns3.aputit.gl.
-hotelnuka.gl.		3600	IN	NS	ns4.aputit.gl.
 hotelnuuk.gl.		3600	IN	NS	a.hosting.gl.
 hotelnuuk.gl.		3600	IN	NS	b.hosting.gl.
 hotelnuuk.gl.		3600	IN	NS	c.hosting.gl.
@@ -8200,9 +8187,6 @@ hotelservice.gl.	3600	IN	NS	1.dnsservers.de.
 hotelservice.gl.	3600	IN	NS	2.dns-servers.eu.
 hotelservice.gl.	3600	IN	NS	3.dnsservers.de.
 hotelservice.gl.	3600	IN	NS	4.dns-servers.eu.
-hotelsisimiut.gl.	3600	IN	NS	ns1.modulo.gl.
-hotelsisimiut.gl.	3600	IN	NS	ns2.modulo.gl.
-hotelsisimiut.gl.	3600	IN	NS	ns3.modulo.gl.
 hotelsoema.gl.		3600	IN	NS	ns1.simply.com.
 hotelsoema.gl.		3600	IN	NS	ns2.simply.com.
 hotelsoema.gl.		3600	IN	NS	ns3.simply.com.
@@ -8466,14 +8450,8 @@ idco.gl.		3600	IN	NS	ns4.simply.com.
 idco.gl.		3600	IN	DS	32939 13 2 45104D92F6AA5CBC6B81EF1B0C3FB76DE20D3C0A46F7BCDCCF90AE33 008568E0
 idco.gl.		3600	IN	DS	32939 13 4 6F258BAB4414FA0A230DC4F111A597B6BDE5C64824404072B1DF73FF DD86A26723BA32915973C92DC18C74D8C1BD3BCC
 idco.gl.		3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. javTpATwKepKyYpdQpunOcWpFdRBpsTAyalqsyLm9QlFwCE8E2dFARlv faIS+HEGOr7sr+ll2UU0A7EHA1BRPacUoOWOAMQSz2K485pQFTEebHKZ xFRxkixcJniog4bmlPb+u5QZrJf8v3meA9W+VJ+haT/pH+6iUomnROvS UHOJtTIMVLMBo6xgyNUxkrU/48AVPNwzN7HqMN4N2igQkiv4uzX+bdCs LI7ZVwQ4qCovfhZT9lO1DYQrzXaEbYGtOtFFL1jJns8BTz+OZ0eYgpIj FMir4ANAEUbKGlv1cUJwfrgIhjEi9EhlKLntFaUFrBL+/mjkwCs/7aHD 4lnvJg==
-idea.gl.		3600	IN	NS	ns1.ndsplitter.com.
-idea.gl.		3600	IN	NS	ns2.ndsplitter.com.
-idea.gl.		3600	IN	NS	ns3.ndsplitter.com.
 idealista.gl.		3600	IN	NS	ns1.dondominio.com.
 idealista.gl.		3600	IN	NS	ns2.dondominio.com.
-ideas.gl.		3600	IN	NS	ns1.ndsplitter.com.
-ideas.gl.		3600	IN	NS	ns2.ndsplitter.com.
-ideas.gl.		3600	IN	NS	ns3.ndsplitter.com.
 ido.gl.			3600	IN	NS	ns-4-b.gandi.net.
 ido.gl.			3600	IN	NS	ns-16-a.gandi.net.
 ido.gl.			3600	IN	NS	ns-186-c.gandi.net.
@@ -12964,6 +12942,9 @@ mwga.gl.		3600	IN	NS	reese.ns.cloudflare.com.
 mwga.gl.		3600	IN	NS	adaline.ns.cloudflare.com.
 mx.gl.			3600	IN	NS	ns1.curanet.dk.
 mx.gl.			3600	IN	NS	ns2.curanet.dk.
+my.gl.			3600	IN	NS	ns1.gigalayer.com.
+my.gl.			3600	IN	NS	ns2.gigalayer.com.
+my.gl.			3600	IN	NS	ns3.gigalayer.com.
 myb.gl.			3600	IN	NS	ns1.cloud86.nl.
 myb.gl.			3600	IN	NS	ns2.cloud86.nl.
 myb.gl.			3600	IN	NS	ns3.cloud86.eu.
@@ -14897,8 +14878,6 @@ omron.gl.		3600	IN	NS	nsa.omron.com.
 omron.gl.		3600	IN	NS	nsb.omron.com.
 omron.gl.		3600	IN	NS	nsc.omron.com.
 omron.gl.		3600	IN	NS	nsd.omron.com.
-omv.gl.			3600	IN	NS	sonny.ns.cloudflare.com.
-omv.gl.			3600	IN	NS	aleena.ns.cloudflare.com.
 on.gl.			3600	IN	NS	ns1.netim.net.
 on.gl.			3600	IN	NS	ns2.netim.net.
 on.gl.			3600	IN	NS	ns3.netim.net.
@@ -14965,8 +14944,6 @@ oo.gl.			3600	IN	NS	ns01.one.com.
 oo.gl.			3600	IN	NS	ns02.one.com.
 oog.gl.			3600	IN	NS	ns1.siteground.net.
 oog.gl.			3600	IN	NS	ns2.siteground.net.
-oomg.gl.		3600	IN	NS	sonny.ns.cloudflare.com.
-oomg.gl.		3600	IN	NS	aleena.ns.cloudflare.com.
 oomg2.gl.		3600	IN	NS	sri.ns.cloudflare.com.
 oomg2.gl.		3600	IN	NS	laila.ns.cloudflare.com.
 oomg3.gl.		3600	IN	NS	eoin.ns.cloudflare.com.
@@ -16591,9 +16568,6 @@ reach.gl.		3600	IN	NS	mark.ns.cloudflare.com.
 reach.gl.		3600	IN	NS	opal.ns.cloudflare.com.
 reader.gl.		3600	IN	NS	owen.ns.cloudflare.com.
 reader.gl.		3600	IN	NS	tani.ns.cloudflare.com.
-real.gl.		3600	IN	NS	ns1.ndsplitter.com.
-real.gl.		3600	IN	NS	ns2.ndsplitter.com.
-real.gl.		3600	IN	NS	ns3.ndsplitter.com.
 realkompetencer.gl.	3600	IN	NS	ns3.nordicway.dk.
 realkompetencer.gl.	3600	IN	NS	ns4.nordicway.dk.
 rectan.gl.		3600	IN	NS	damien.ns.cloudflare.com.
@@ -17398,10 +17372,6 @@ seaflo.gl.		3600	IN	NS	ns2224.ispapi.net.
 seaflo.gl.		3600	IN	NS	ns3211.ispapi.net.
 seafood.gl.		3600	IN	NS	ns1.curanet.dk.
 seafood.gl.		3600	IN	NS	ns2.curanet.dk.
-seas.gl.		3600	IN	NS	ns1.aputit.gl.
-seas.gl.		3600	IN	NS	ns2.aputit.gl.
-seas.gl.		3600	IN	NS	ns3.aputit.gl.
-seas.gl.		3600	IN	NS	ns4.aputit.gl.
 seaside.gl.		3600	IN	NS	ns1.simply.com.
 seaside.gl.		3600	IN	NS	ns2.simply.com.
 seaside.gl.		3600	IN	NS	ns3.simply.com.
@@ -18272,8 +18242,6 @@ spi.gl.			3600	IN	NS	ns3138.dns.dyn.com.
 spi.gl.			3600	IN	NS	ns4145.dns.dyn.com.
 spie.gl.		3600	IN	NS	ns1.spiegl.de.
 spie.gl.		3600	IN	NS	ns2.spiegl.de.
-splicecom.gl.		3600	IN	NS	ns1-dedivps-86075.dedicloud.co.uk.
-splicecom.gl.		3600	IN	NS	ns2-dedivps-86075.dedicloud.co.uk.
 spoly.gl.		3600	IN	NS	ns1.netim.net.
 spoly.gl.		3600	IN	NS	ns2.netim.net.
 spoly.gl.		3600	IN	NS	ns3.netim.net.
@@ -23104,4 +23072,4 @@ VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. Y1v6YCMGj4s9yQklhWCXx85cHo7XgjG7XeGAGB57PU7+Lz4jCiDJMsY4 R+4nnPMpy6OH9sZcxkwF07DPfC5lLw8Gbog9ljPR7n4ivcEa+eZJaTXj LXertb5CywPqy9p7qqL4IBUJxIcenrgp/9DFXsXcB6TlHa9u3c8EfcUa yumwb2ZFin5AI2WlcPBDdqdq2tqFWcbPtaIO/eb361Hd/bfpH2887QcQ YbI5DVk/pcvK58igwxrZKAtmbnHyA6bErgSTpOhRRFie33xBKooFodoE LsosTenpFt04204AdyFHvJT/X8eJPVb7Iy28dnZ76J/q1LVO/NX8/zIe 437rGQ==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160368 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160371 900 1800 6048000 3600
