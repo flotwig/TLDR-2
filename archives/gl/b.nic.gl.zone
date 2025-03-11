@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160514 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. TC8dZ6mw50xPxDaagDucSuOQwVbVsVSJ4B5m4bHje3Rtgu7fWEbA+2vz CC555Eu3r0MDZ97j5cijtLVwqFf5qnrKC022GifE13/P11gcDLuljpCP TXT1k13O4Pq/X1MXAFvrhBjW1NZvfnwZLEcKZvIXN7eC3MQZr+WTDeAx SfphleZU4ZNfVsCzvBFB3qwJGwbhk/tH8QEqxoo1M3ZJhu3YAbD1lp2B FAhKs5VtgC5Dcr9D44tiy9dXgtSdAtzzp1ntr9tsBL18mjJIMdlnbppT TuTErtoLqbG/iSMXngvqIz0RghZLhBOlnN1K3/yGKCST/lCoR0Ue+5xt v1Vi7A==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160527 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. kdikW4kwdAJqusPL0Aj4rdy0F/hcMEGq7FeUP00dfc9PVNpI8wRooPLd 8FS2mLt/kj6oOzSEQhg2h30mXEtnhGHL+4oFJ3QuGEzWyPS77zSovOXL wEMMPFGv5eHymwLgR6EasbOwZOAfzAiahNWA5fbMyJvAGoT3ZT8/bEqK zXeGKomgE4WeSGGYxvVxVSLDoXdxkmIKNymQm/r4pMGAoAL6bX/Bu8VB 9NUl6anGX4KYMnXMyy0bR+7E/+r4XLK2jxnLp8w27zJUH08eFBTsgDOh LTpHV0ZJaG3r9sNGuI71E/CUy/koEZQTiICf6T7FzqnwXP7ji9GkDrrY URu/ZA==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -5794,6 +5794,10 @@ faber.gl.		3600	IN	NS	ns4.simply.com.
 faber.gl.		3600	IN	DS	61962 13 2 1AA3697B22FB7C586B09C13C3AC1402EA87F6C7FF861353A949F490B 8DCAE3D8
 faber.gl.		3600	IN	DS	61962 13 4 932B32A98659110DB335F740FB6387C20800B04CD8DD4DA3858785EE EFD0A7D61CE3DEB5968566092A8E1A7F4DE80ABA
 faber.gl.		3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. d91k8dmhbAEvo0epg0tN9kUmfXZz39cZGuinq5HgrbgMfAyngUWaV4iz L8AhBVGGo5LIroW4SE3CWdxTjnkXq2ER4nbVg2sKKKIfDh/Dj7yU+LEV g7Fnf0k4iB+ECahCDXlasb9CsbsYH9rqXdibFTo57uWcONzhifMv5kmD S9kna5gJ5cCBYmY9FERrmyfoq3W08k+eb9yIJQZhttpMg+AMxJl20wjC GJtyKDhYfYSpf8cBieY8eJAEly7MFssvhC63yClBbaI0+EN67eoI3WdQ iCQL7fp74BRc43UQKUC7WR9pERuyJxaL+lEU21Gf5oqS7n+5zg4yU8/n iOVB7g==
+fablab.gl.		3600	IN	NS	ns1.omninet.dk.
+fablab.gl.		3600	IN	NS	ns2.omninet.dk.
+fablab.gl.		3600	IN	NS	ns3.omninet.dk.
+fablab.gl.		3600	IN	NS	ns4.omninet.dk.
 facebook.gl.		3600	IN	NS	a.ns.facebook.com.
 facebook.gl.		3600	IN	NS	b.ns.facebook.com.
 facebook.gl.		3600	IN	NS	c.ns.facebook.com.
@@ -8154,6 +8158,10 @@ hotelnordbo.gl.		3600	IN	NS	ns01.one.com.
 hotelnordbo.gl.		3600	IN	NS	ns02.one.com.
 hotelnordboapartments.gl. 3600	IN	NS	ns01.one.com.
 hotelnordboapartments.gl. 3600	IN	NS	ns02.one.com.
+hotelnuka.gl.		3600	IN	NS	ns1.aputit.gl.
+hotelnuka.gl.		3600	IN	NS	ns2.aputit.gl.
+hotelnuka.gl.		3600	IN	NS	ns3.aputit.gl.
+hotelnuka.gl.		3600	IN	NS	ns4.aputit.gl.
 hotelnuuk.gl.		3600	IN	NS	a.hosting.gl.
 hotelnuuk.gl.		3600	IN	NS	b.hosting.gl.
 hotelnuuk.gl.		3600	IN	NS	c.hosting.gl.
@@ -17365,6 +17373,10 @@ seaflo.gl.		3600	IN	NS	ns2224.ispapi.net.
 seaflo.gl.		3600	IN	NS	ns3211.ispapi.net.
 seafood.gl.		3600	IN	NS	ns1.curanet.dk.
 seafood.gl.		3600	IN	NS	ns2.curanet.dk.
+seas.gl.		3600	IN	NS	ns1.aputit.gl.
+seas.gl.		3600	IN	NS	ns2.aputit.gl.
+seas.gl.		3600	IN	NS	ns3.aputit.gl.
+seas.gl.		3600	IN	NS	ns4.aputit.gl.
 seaside.gl.		3600	IN	NS	ns1.simply.com.
 seaside.gl.		3600	IN	NS	ns2.simply.com.
 seaside.gl.		3600	IN	NS	ns3.simply.com.
@@ -23068,4 +23080,4 @@ VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. Y1v6YCMGj4s9yQklhWCXx85cHo7XgjG7XeGAGB57PU7+Lz4jCiDJMsY4 R+4nnPMpy6OH9sZcxkwF07DPfC5lLw8Gbog9ljPR7n4ivcEa+eZJaTXj LXertb5CywPqy9p7qqL4IBUJxIcenrgp/9DFXsXcB6TlHa9u3c8EfcUa yumwb2ZFin5AI2WlcPBDdqdq2tqFWcbPtaIO/eb361Hd/bfpH2887QcQ YbI5DVk/pcvK58igwxrZKAtmbnHyA6bErgSTpOhRRFie33xBKooFodoE LsosTenpFt04204AdyFHvJT/X8eJPVb7Iy28dnZ76J/q1LVO/NX8/zIe 437rGQ==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160514 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160527 900 1800 6048000 3600
