@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031224 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1741821020"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031302 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1741831223"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -30458,8 +30458,6 @@ dyd.cm.			3600	IN	NS	ns1.netsto.net.
 dyd.cm.			3600	IN	NS	ns2.netsto.net.
 dydj.cm.		3600	IN	NS	ns1.netsto.net.
 dydj.cm.		3600	IN	NS	ns2.netsto.net.
-dydx.cm.		3600	IN	NS	elisa.ns.cloudflare.com.
-dydx.cm.		3600	IN	NS	cosmin.ns.cloudflare.com.
 dyhjw.cm.		3600	IN	NS	ns1.netsto.net.
 dyhjw.cm.		3600	IN	NS	ns2.netsto.net.
 dyj.cm.			3600	IN	NS	ns3.abovedomains.com.
@@ -30898,6 +30896,8 @@ ecolbet.cm.		3600	IN	NS	ns1.ecolbet.cm.
 ecolbet.cm.		3600	IN	NS	ns2.ecolbet.cm.
 ns1.ecolbet.cm.		3600	IN	A	92.222.240.69
 ns2.ecolbet.cm.		3600	IN	A	92.222.240.69
+ecoledunumerique.cm.	3600	IN	NS	ns1.camoogroup.com.
+ecoledunumerique.cm.	3600	IN	NS	ns2.camoogroup.com.
 ecoleinternationaledekribi.cm. 3600 IN	NS	noah.ns.cloudflare.com.
 ecoleinternationaledekribi.cm. 3600 IN	NS	tricia.ns.cloudflare.com.
 ecolelesmajors.cm.	3600	IN	NS	ns1.camoogroup.com.
@@ -50291,8 +50291,8 @@ nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
 ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
 ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
-ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
 ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
+ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
 nanaboubagroup.cm.	3600	IN	NS	ns2.tchaytchay.com.
 nanbudokaikan.cm.	3600	IN	NS	ns102.ovh.net.
@@ -62601,8 +62601,6 @@ stargate.cm.		3600	IN	NS	dns01.gmoserver.jp.
 stargate.cm.		3600	IN	NS	dns02.gmoserver.jp.
 starhub.cm.		3600	IN	NS	ns1.parkingcrew.net.
 starhub.cm.		3600	IN	NS	ns2.parkingcrew.net.
-starknet.cm.		3600	IN	NS	elisa.ns.cloudflare.com.
-starknet.cm.		3600	IN	NS	cosmin.ns.cloudflare.com.
 starlink.cm.		3600	IN	NS	ns1.camoogroup.com.
 starlink.cm.		3600	IN	NS	ns2.camoogroup.com.
 starofservice.cm.	3600	IN	NS	ns-408.awsdns-51.com.
@@ -64914,8 +64912,6 @@ thomaxduxgrocer.cm.	3600	IN	NS	ns0.telstra.net.
 thomaxduxgrocer.cm.	3600	IN	NS	ns1.telstra.net.
 thor.cm.		3600	IN	NS	ns3.abovedomains.com.
 thor.cm.		3600	IN	NS	ns4.abovedomains.com.
-thorchain.cm.		3600	IN	NS	elisa.ns.cloudflare.com.
-thorchain.cm.		3600	IN	NS	cosmin.ns.cloudflare.com.
 thoughtmachine.cm.	3600	IN	NS	ns-80-c.gandi.net.
 thoughtmachine.cm.	3600	IN	NS	ns-160-a.gandi.net.
 thoughtmachine.cm.	3600	IN	NS	ns-226-b.gandi.net.
@@ -67161,8 +67157,8 @@ univ-maroua.cm.		3600	IN	NS	ns1.mtnbusiness.cm.
 univ-maroua.cm.		3600	IN	NS	ns2.mtnbusiness.cm.
 univ-ndere.cm.		3600	IN	NS	nsy.prosygma-cm.com.
 univ-ndere.cm.		3600	IN	NS	bamnyanga.univ-ndere.cm.
-bamnyanga.univ-ndere.cm. 3600	IN	A	192.145.186.130
 bamnyanga.univ-ndere.cm. 3600	IN	AAAA	2001:43f8:1470:700::2
+bamnyanga.univ-ndere.cm. 3600	IN	A	192.145.186.130
 univ-ndere2.cm.		3600	IN	NS	ns3.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns4.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns5.cloud.stdigital.network.
@@ -73412,4 +73408,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031224 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031302 1800 900 1209600 3600
