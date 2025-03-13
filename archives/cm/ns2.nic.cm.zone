@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031306 1800 900 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1741845626"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031311 1800 900 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1741863629"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -1899,8 +1899,8 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 138789.cm.		3600	IN	NS	ns2.alidns.com.
 138hh.cm.		3600	IN	NS	ns1.alidns.com.
 138hh.cm.		3600	IN	NS	ns2.alidns.com.
-138t.cm.		3600	IN	NS	asa.ns.cloudflare.com.
-138t.cm.		3600	IN	NS	marty.ns.cloudflare.com.
+138t.cm.		3600	IN	NS	vip7.alidns.com.
+138t.cm.		3600	IN	NS	vip8.alidns.com.
 139.cm.			3600	IN	NS	ns1.4.cn.
 139.cm.			3600	IN	NS	ns2.4.cn.
 139234.cm.		3600	IN	NS	ns1.alidns.com.
@@ -15183,10 +15183,6 @@ adi.cm.			3600	IN	NS	ns1.bluehost.com.
 adi.cm.			3600	IN	NS	ns2.bluehost.com.
 adib.cm.		3600	IN	NS	siti.ns.orangewebsite.com.
 adib.cm.		3600	IN	NS	buffy.ns.orangewebsite.com.
-adidas.cm.		3600	IN	NS	pns21.cloudns.net.
-adidas.cm.		3600	IN	NS	pns22.cloudns.net.
-adidas.cm.		3600	IN	NS	pns23.cloudns.net.
-adidas.cm.		3600	IN	NS	pns24.cloudns.net.
 adidjo.cm.		3600	IN	NS	ns1.o2switch.net.
 adidjo.cm.		3600	IN	NS	ns2.o2switch.net.
 admin.cm.		3600	IN	NS	ns1.bodis.com.
@@ -25131,10 +25127,6 @@ cheaphotels.cm.		3600	IN	NS	ns1.ii51.parklogic.com.
 cheaphotels.cm.		3600	IN	NS	ns2.ii51.parklogic.com.
 cheaply.cm.		3600	IN	NS	ns200.anycast.me.
 cheaply.cm.		3600	IN	NS	dns200.anycast.me.
-cheapoair.cm.		3600	IN	NS	pns21.cloudns.net.
-cheapoair.cm.		3600	IN	NS	pns22.cloudns.net.
-cheapoair.cm.		3600	IN	NS	pns23.cloudns.net.
-cheapoair.cm.		3600	IN	NS	pns24.cloudns.net.
 cheapostay.cm.		3600	IN	NS	pns21.cloudns.net.
 cheapostay.cm.		3600	IN	NS	pns22.cloudns.net.
 cheapostay.cm.		3600	IN	NS	pns23.cloudns.net.
@@ -34554,10 +34546,10 @@ france-travail-jeune.cm. 3600	IN	NS	obs.ns1.fr.
 france-travail-jeunes.cm. 3600	IN	NS	ns2.observatoiredesmarques.fr.
 france-travail-jeunes.cm. 3600	IN	NS	ns3.nameshield.net.
 france-travail-jeunes.cm. 3600	IN	NS	obs.ns1.fr.
+francedns.cm.		86400	IN	DS	41347 8 2 CF688370394A592FCE169602F653B368EC881D0596C5E245F2691FBC 84DFC6F5
 francedns.cm.		3600	IN	NS	ns1.netim.net.
 francedns.cm.		3600	IN	NS	ns2.netim.net.
 francedns.cm.		3600	IN	NS	ns3.netim.net.
-francedns.cm.		86400	IN	DS	41347 8 2 CF688370394A592FCE169602F653B368EC881D0596C5E245F2691FBC 84DFC6F5
 francescas.cm.		3600	IN	NS	ns1.adtraks.com.
 francescas.cm.		3600	IN	NS	ns2.adtraks.com.
 francetravail.cm.	3600	IN	NS	ns2.observatoiredesmarques.fr.
@@ -44418,10 +44410,6 @@ lastfm.cm.		3600	IN	NS	dns3.p09.nsone.net.
 lastfm.cm.		3600	IN	NS	dns4.p09.nsone.net.
 lastfm.cm.		3600	IN	NS	ns0004.secondary.cloudflare.com.
 lastfm.cm.		3600	IN	NS	ns0243.secondary.cloudflare.com.
-lastminute.cm.		3600	IN	NS	pns21.cloudns.net.
-lastminute.cm.		3600	IN	NS	pns22.cloudns.net.
-lastminute.cm.		3600	IN	NS	pns23.cloudns.net.
-lastminute.cm.		3600	IN	NS	pns24.cloudns.net.
 lastpass.cm.		3600	IN	NS	ns1.hastydns.com.
 lastpass.cm.		3600	IN	NS	ns2.hastydns.com.
 lasvegas.cm.		3600	IN	NS	pns21.cloudns.net.
@@ -50279,8 +50267,8 @@ namesdatabase.cm.	3600	IN	NS	ns02.classmates.com.
 namesdatabase.cm.	3600	IN	NS	authns-ws.lax.mysite.com.
 nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
-ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
 ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
+ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
 ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
 ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
@@ -61356,8 +61344,8 @@ smartly.cm.		3600	IN	NS	ns3.nindohost.net.
 smartly.cm.		3600	IN	NS	ns4.nindohost.net.
 smartm.cm.		3600	IN	NS	ns1.camoogroup.com.
 smartm.cm.		3600	IN	NS	ns2.camoogroup.com.
-smartrade.cm.		3600	IN	NS	dns1.registrar-servers.com.
-smartrade.cm.		3600	IN	NS	dns2.registrar-servers.com.
+smartrade.cm.		3600	IN	NS	nile.ns.cloudflare.com.
+smartrade.cm.		3600	IN	NS	braelyn.ns.cloudflare.com.
 smartrinse.cm.		3600	IN	NS	dns1.p01.nsone.net.
 smartrinse.cm.		3600	IN	NS	dns2.p01.nsone.net.
 smartrinse.cm.		3600	IN	NS	dns3.p01.nsone.net.
@@ -67143,8 +67131,8 @@ univ-maroua.cm.		3600	IN	NS	ns1.mtnbusiness.cm.
 univ-maroua.cm.		3600	IN	NS	ns2.mtnbusiness.cm.
 univ-ndere.cm.		3600	IN	NS	nsy.prosygma-cm.com.
 univ-ndere.cm.		3600	IN	NS	bamnyanga.univ-ndere.cm.
-bamnyanga.univ-ndere.cm. 3600	IN	A	192.145.186.130
 bamnyanga.univ-ndere.cm. 3600	IN	AAAA	2001:43f8:1470:700::2
+bamnyanga.univ-ndere.cm. 3600	IN	A	192.145.186.130
 univ-ndere2.cm.		3600	IN	NS	ns3.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns4.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns5.cloud.stdigital.network.
@@ -67896,10 +67884,8 @@ vbet.cm.		3600	IN	NS	hank.ns.cloudflare.com.
 vbet.cm.		3600	IN	NS	lily.ns.cloudflare.com.
 vbgov.cm.		3600	IN	NS	ns1.parkingcrew.net.
 vbgov.cm.		3600	IN	NS	ns2.parkingcrew.net.
-vbro.cm.		3600	IN	NS	pns21.cloudns.net.
-vbro.cm.		3600	IN	NS	pns22.cloudns.net.
-vbro.cm.		3600	IN	NS	pns23.cloudns.net.
-vbro.cm.		3600	IN	NS	pns24.cloudns.net.
+vbro.cm.		3600	IN	NS	ns1.adtraks.com.
+vbro.cm.		3600	IN	NS	ns2.adtraks.com.
 vbs.cm.			3600	IN	NS	ns-235.awsdns-29.com.
 vbs.cm.			3600	IN	NS	ns-945.awsdns-54.net.
 vbs.cm.			3600	IN	NS	ns-1478.awsdns-56.org.
@@ -71820,6 +71806,8 @@ yankeecandle.cm.	3600	IN	NS	ns1.parkingcrew.net.
 yankeecandle.cm.	3600	IN	NS	ns2.parkingcrew.net.
 yankees.cm.		3600	IN	NS	ns1.parkingcrew.net.
 yankees.cm.		3600	IN	NS	ns2.parkingcrew.net.
+yaoji.cm.		3600	IN	NS	ns1.netsto.net.
+yaoji.cm.		3600	IN	NS	ns2.netsto.net.
 yaoo.cm.		3600	IN	NS	ns3.abovedomains.com.
 yaoo.cm.		3600	IN	NS	ns4.abovedomains.com.
 yaounde.cm.		3600	IN	NS	kim.camnet.cm.
@@ -73394,4 +73382,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031306 1800 900 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025031311 1800 900 1209600 3600
