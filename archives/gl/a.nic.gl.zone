@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160671 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. bfnBfI3tV1Q2M+pBsSLCRTguLYjndheO6W2Z0nEtWzGiyWdmSwl3EI75 pDACigW5HkrODaLGzl8K93awIsZR/Quwev4w7Fs9n79pkkuluVkPojGW cjJsqFsuU+WW6O7/gIrrrNX/IkjZP/Fym3Yi2sF0ONphLJPSNGq2YejB ETJx/VS8Weh9eLML4dulx1ClgL/c9e4im5IEsd4Ni0XOsLlAFj2nfQo0 cq40sH4Wck88IZbIfy88RLhNDjwxwDnE4gCgEzFI9wRdB0r31lECJd4D AjkXmc2fJbh2vVxGetyPiLzYjILIMsfEtOAQd+4ngnFXJ9PlVLm5wSbv uEgbUw==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160682 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. BUZS5YcXVrnlWat+k3pY+D+xgCcgIFt0vLmtcW/5v8Zrtl1Z9MLnL5B5 RiNa8zvQ+3aT/A5u865LxfdOBfUL+V8hFph+KH0+qrhwAmlIfpRUyFtR 99+c8meai9pDHC6+xsjPaHGUd4dhc8icR3FCg7uOUZTuK+vWOSTtt8R3 JAbO7SPJ9imaA7auAnUXEJ5o6AMmAJHM/8IaxDL+RHoAUsSXnxxM14p7 y2OBvFphXsp0apB0C78wUfbjppn7+ODdy3qo63inmAvHOIIl9cJKyaZi j6Xv1RTNKVKOoHGxBr4DhDib4YW2YpDR8G7G1r5Q0F9ptPN68K52yV46 s/JWZg==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -7300,6 +7300,10 @@ greenlandicpolice.gl.	3600	IN	NS	udns1.cscdns.net.
 greenlandicpolice.gl.	3600	IN	NS	udns2.cscdns.uk.
 greenlandinvest.gl.	3600	IN	NS	ns1.b-one.nu.
 greenlandinvest.gl.	3600	IN	NS	ns2.b-one.nu.
+greenlandking.gl.	3600	IN	NS	a.hosting.gl.
+greenlandking.gl.	3600	IN	NS	b.hosting.gl.
+greenlandking.gl.	3600	IN	NS	c.hosting.gl.
+greenlandking.gl.	3600	IN	NS	d.hosting.gl.
 greenlandlaw.gl.	3600	IN	NS	ns1.hosting.inuit.gl.
 greenlandlaw.gl.	3600	IN	NS	ns2.hosting.inuit.gl.
 greenlandminerals.gl.	3600	IN	NS	ns1.webdew.net.au.
@@ -11113,8 +11117,8 @@ lbo.gl.			3600	IN	DS	33381 13 4 576A7162D82509E5366ED577C758BAB43251DD6FD7F9C029
 lbo.gl.			3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. QnCk6/5+A+xthpBCkL3S/Lmvo82Iwe4Z8T8TqPavCrQTgnMZ2uNDK7VB UJQadf02O611v4huoqRIwcbzvxmXym7lChsSiPwdREbAarqjJPyOevko 0rkrMfc2ZvVfdE3Q+iKcxqFciZCTceRQOETuSB0q/DNCWztV8KZknRes nr34tjsYCQjISNhuV/xcTiyUEJ42o/R4PMW3XGNJkVx/8l0ZKdJtWRC7 Tt75RHbaYjZv1PAvvQPF3b3Epdb46eXCdH3XlLIMP+AYA212A8iJGzWA /0qKfHIB9SUinSLFj/iFrOiUPimZiVyL7Qx9XAeb4E1pngIf/yBiWGC8 eq9CIA==
 lbs.gl.			3600	IN	NS	venus.ns.cloudflare.com.
 lbs.gl.			3600	IN	NS	charles.ns.cloudflare.com.
-lc.gl.			3600	IN	NS	ns1.vercel-dns.com.
-lc.gl.			3600	IN	NS	ns2.vercel-dns.com.
+lc.gl.			3600	IN	NS	venkat.ns.cloudflare.com.
+lc.gl.			3600	IN	NS	annabel.ns.cloudflare.com.
 ld.gl.			3600	IN	NS	ns1.netim.net.
 ld.gl.			3600	IN	NS	ns2.netim.net.
 ld.gl.			3600	IN	NS	ns3.netim.net.
@@ -23091,4 +23095,4 @@ VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. Y1v6YCMGj4s9yQklhWCXx85cHo7XgjG7XeGAGB57PU7+Lz4jCiDJMsY4 R+4nnPMpy6OH9sZcxkwF07DPfC5lLw8Gbog9ljPR7n4ivcEa+eZJaTXj LXertb5CywPqy9p7qqL4IBUJxIcenrgp/9DFXsXcB6TlHa9u3c8EfcUa yumwb2ZFin5AI2WlcPBDdqdq2tqFWcbPtaIO/eb361Hd/bfpH2887QcQ YbI5DVk/pcvK58igwxrZKAtmbnHyA6bErgSTpOhRRFie33xBKooFodoE LsosTenpFt04204AdyFHvJT/X8eJPVb7Iy28dnZ76J/q1LVO/NX8/zIe 437rGQ==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160671 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160682 900 1800 6048000 3600
