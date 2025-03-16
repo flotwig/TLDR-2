@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160793 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. OGJXe/Bh7f8LHmo25w8eZ9OtgLi9CTUUAhTFvOBf8EWm1g1w0siKvCNs n03Uv6LFdkfUK88pmXCPqBnVGIYdtksnKA5tdY0vYaZruMsIzDKFhrin uGnvVKL9BZYx38RDpFbplM6fvQMG2dnwCj9lJU9/VQhucMYVGMOtZ8b4 pSW9rvYQyDx2CLnboD5/8YqsUxtx9/sg5cpwylwFAzPmQtKw4iw3vvJv X8wYo6HGV5vyH/UU3Nd/5RAMWnQ3eATdvS/E0U6L+A4w14HTefQZZz5Y whzwzaWMxuvSUmMXRGcwzsn1OjSXFfsMmnBwUq/515bf79ZdyITjDoBg rfthlw==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160800 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. FNOOxWvotDx4nrwqIBTtTmZB0qJgnwZBo/IyrlFwupOnJSg5KEjCj5eC yl8ATd2rtZlQ/2nVEXVLe6RVeNGq1r2XsSIs4a4dyFGRWj5JX+dSf/Zw 8DPLxdkeM8oS6bUrSZZv7tT14mXh/9M0qkKDlq/g+2mT3Kl5yTyM8okT dy69PXB6LO4IxLc2tDfANu4aPf7ZD/ITwcGJV6/9aU7c7anp8GUSXwPR pZlR8IPPOajNe6EBU7Y322KTEZ+SZE4jG+NcHLPxkTiosTV28ZY+HcrV EyW/Sk3NkZhikaEJYR6e1GVi7uLefrbCitDaXQpOO3aCx5a40AsGVOJP 3J6lcw==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -1329,11 +1329,8 @@ api.gl.			3600	IN	NS	sandra.neostrada.nl.
 api.gl.			3600	IN	NS	christina.neostrada.nl.
 apisi.gl.		3600	IN	NS	ns1.hosting.inuit.gl.
 apisi.gl.		3600	IN	NS	ns2.hosting.inuit.gl.
-apisseq.gl.		3600	IN	NS	ns1.gigahost.dk.
-apisseq.gl.		3600	IN	NS	ns2.gigahost.dk.
-apisseq.gl.		3600	IN	NS	ns3.gigahost.dk.
-apisseq.gl.		3600	IN	NS	ns4.gigahost.dk.
-apisseq.gl.		3600	IN	NS	ns5.gigahost.dk.
+apisseq.gl.		3600	IN	NS	ns1.curanet.dk.
+apisseq.gl.		3600	IN	NS	ns2.curanet.dk.
 apn.gl.			3600	IN	NS	ns1.modulo.gl.
 apn.gl.			3600	IN	NS	ns2.modulo.gl.
 apn.gl.			3600	IN	NS	ns3.modulo.gl.
@@ -5181,11 +5178,8 @@ eguide4data.gl.		3600	IN	NS	ns2.dandomain.dk.
 egum.gl.		3600	IN	NS	ns1.netim.net.
 egum.gl.		3600	IN	NS	ns2.netim.net.
 egum.gl.		3600	IN	NS	ns3.netim.net.
-egux.gl.		3600	IN	NS	ns1.gigahost.dk.
-egux.gl.		3600	IN	NS	ns2.gigahost.dk.
-egux.gl.		3600	IN	NS	ns3.gigahost.dk.
-egux.gl.		3600	IN	NS	ns4.gigahost.dk.
-egux.gl.		3600	IN	NS	ns5.gigahost.dk.
+egux.gl.		3600	IN	NS	ns1.curanet.dk.
+egux.gl.		3600	IN	NS	ns2.curanet.dk.
 eh.gl.			3600	IN	NS	1-you.njalla.no.
 eh.gl.			3600	IN	NS	2-can.njalla.in.
 eh.gl.			3600	IN	NS	3-get.njalla.fo.
@@ -5609,11 +5603,8 @@ eu.gl.			3600	IN	NS	ns2.netim.net.
 eu.gl.			3600	IN	NS	ns3.netim.net.
 eu.gl.			3600	IN	NS	ns4.netim.net.
 eu.gl.			3600	IN	NS	ns5.netim.net.
-eud.gl.			3600	IN	NS	ns1.gigahost.dk.
-eud.gl.			3600	IN	NS	ns2.gigahost.dk.
-eud.gl.			3600	IN	NS	ns3.gigahost.dk.
-eud.gl.			3600	IN	NS	ns4.gigahost.dk.
-eud.gl.			3600	IN	NS	ns5.gigahost.dk.
+eud.gl.			3600	IN	NS	ns1.curanet.dk.
+eud.gl.			3600	IN	NS	ns2.curanet.dk.
 eugenius.gl.		3600	IN	NS	a.hosting.gl.
 eugenius.gl.		3600	IN	NS	b.hosting.gl.
 eugenius.gl.		3600	IN	NS	c.hosting.gl.
@@ -7592,11 +7583,8 @@ gunshop.gl.		3600	IN	NS	d.hosting.gl.
 gur.gl.			3600	IN	NS	ns1.netim.net.
 gur.gl.			3600	IN	NS	ns2.netim.net.
 gur.gl.			3600	IN	NS	ns3.netim.net.
-gux.gl.			3600	IN	NS	ns1.gigahost.dk.
-gux.gl.			3600	IN	NS	ns2.gigahost.dk.
-gux.gl.			3600	IN	NS	ns3.gigahost.dk.
-gux.gl.			3600	IN	NS	ns4.gigahost.dk.
-gux.gl.			3600	IN	NS	ns5.gigahost.dk.
+gux.gl.			3600	IN	NS	ns1.curanet.dk.
+gux.gl.			3600	IN	NS	ns2.curanet.dk.
 gux-aasiaat.gl.		3600	IN	NS	ns1.hosting.inuit.gl.
 gux-aasiaat.gl.		3600	IN	NS	ns2.hosting.inuit.gl.
 guxnuuk.gl.		3600	IN	NS	ns1.simply.com.
@@ -9531,10 +9519,8 @@ jens.gl.		3600	IN	NS	hydrogen.ns.hetzner.com.
 jensen.gl.		3600	IN	NS	ns1.simply.com.
 jensen.gl.		3600	IN	NS	ns2.simply.com.
 jensen.gl.		3600	IN	NS	ns3.simply.com.
-jernmetalskole.gl.	3600	IN	NS	ns1.omninet.dk.
-jernmetalskole.gl.	3600	IN	NS	ns2.omninet.dk.
-jernmetalskole.gl.	3600	IN	NS	ns3.omninet.dk.
-jernmetalskole.gl.	3600	IN	NS	ns4.omninet.dk.
+jernmetalskole.gl.	3600	IN	NS	ns1.curanet.dk.
+jernmetalskole.gl.	3600	IN	NS	ns2.curanet.dk.
 jespersen.gl.		3600	IN	NS	ns1.simply.com.
 jespersen.gl.		3600	IN	NS	ns2.simply.com.
 jespersen.gl.		3600	IN	NS	ns3.simply.com.
@@ -10863,10 +10849,8 @@ ktc.gl.			3600	IN	NS	ns4.simply.com.
 ktc.gl.			3600	IN	DS	11755 13 2 FB7ED67F6C4707F02C23DD8D05FE157436796984BD10D84B0115B9AE E34CF633
 ktc.gl.			3600	IN	DS	11755 13 4 CCD1EE63D253FB756381EA72B2F9F84E22755C09F32493D76A5080D8 941749B6A6B9EF639962F42ADA1B79BA27E10AF0
 ktc.gl.			3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. JPL3f8J/fwUnBXULIG+vH+ce/ru2Y8fMknsloQr4vz1pbolOK1/8Sqlz omwA6XsryyNCl1N7/nGayD8dN9IefkmJI5dD8MDWKxIb92I2jWLObOa6 a5cOK3f59swnCgn3GhhxL8lbP8zPnmJlDdT/KOH66aoF/OCFMWKDrVne OC61cZszwAHHOo3fFCiJMat2StfgwWJRJq/67eaIwHjXrN18MwAI6R8n U2+3rF+tfDx27tWat3JEFEr/LM7GL+6bmCX3QNbsMjkKSBic686WIIiV TZ2kHRFPJSxmUw21XlDBwB+W8rkYRZ60nISpWwDieJsCwEwJ3MMoL/IU aVz09A==
-kti.gl.			3600	IN	NS	ns1.omninet.dk.
-kti.gl.			3600	IN	NS	ns2.omninet.dk.
-kti.gl.			3600	IN	NS	ns3.omninet.dk.
-kti.gl.			3600	IN	NS	ns4.omninet.dk.
+kti.gl.			3600	IN	NS	ns1.curanet.dk.
+kti.gl.			3600	IN	NS	ns2.curanet.dk.
 ku.gl.			3600	IN	NS	ns1.dan.com.
 ku.gl.			3600	IN	NS	ns2.dan.com.
 kubli.gl.		3600	IN	NS	ns1.hoststar.hosting.
@@ -12125,9 +12109,8 @@ matt.gl.		3600	IN	NS	ns1.markmonitor.com.
 matt.gl.		3600	IN	NS	ns3.markmonitor.com.
 matu.gl.		3600	IN	NS	ns1.hosting.inuit.gl.
 matu.gl.		3600	IN	NS	ns2.hosting.inuit.gl.
-matup.gl.		3600	IN	NS	ns1.simply.com.
-matup.gl.		3600	IN	NS	ns2.simply.com.
-matup.gl.		3600	IN	NS	ns3.simply.com.
+matup.gl.		3600	IN	NS	ns1.curanet.dk.
+matup.gl.		3600	IN	NS	ns2.curanet.dk.
 max.gl.			3600	IN	NS	ns01.one.com.
 max.gl.			3600	IN	NS	ns02.one.com.
 max4tassa.gl.		3600	IN	NS	a.hosting.gl.
@@ -15043,10 +15026,8 @@ oqaasileriffik.gl.	3600	IN	NS	ns-cloud-d3.googledomains.com.
 oqaasileriffik.gl.	3600	IN	NS	ns-cloud-d4.googledomains.com.
 oqaatigiuk.gl.		3600	IN	NS	kip.ns.cloudflare.com.
 oqaatigiuk.gl.		3600	IN	NS	serena.ns.cloudflare.com.
-oqaatsit.gl.		3600	IN	NS	ns1.omninet.dk.
-oqaatsit.gl.		3600	IN	NS	ns2.omninet.dk.
-oqaatsit.gl.		3600	IN	NS	ns3.omninet.dk.
-oqaatsit.gl.		3600	IN	NS	ns4.omninet.dk.
+oqaatsit.gl.		3600	IN	NS	ns1.curanet.dk.
+oqaatsit.gl.		3600	IN	NS	ns2.curanet.dk.
 oqalliffik.gl.		3600	IN	NS	ns01.one.com.
 oqalliffik.gl.		3600	IN	NS	ns02.one.com.
 or.gl.			3600	IN	NS	ns1.zierhut-networks.de.
@@ -17192,10 +17173,8 @@ sandgreen.gl.		3600	IN	NS	ns1.nunahosting.net.
 sandgreen.gl.		3600	IN	NS	ns2.nunahosting.net.
 sandgreen.gl.		3600	IN	NS	ns3.nunahosting.net.
 sandgreen.gl.		3600	IN	NS	ns4.nunahosting.net.
-sanilin.gl.		3600	IN	NS	ns1.omninet.dk.
-sanilin.gl.		3600	IN	NS	ns2.omninet.dk.
-sanilin.gl.		3600	IN	NS	ns3.omninet.dk.
-sanilin.gl.		3600	IN	NS	ns4.omninet.dk.
+sanilin.gl.		3600	IN	NS	ns1.curanet.dk.
+sanilin.gl.		3600	IN	NS	ns2.curanet.dk.
 sanistaal.gl.		3600	IN	NS	ns1.eurodns.com.
 sanistaal.gl.		3600	IN	NS	ns2.eurodns.com.
 sanistaal.gl.		3600	IN	NS	ns3.eurodns.com.
@@ -23102,4 +23081,4 @@ VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. Y1v6YCMGj4s9yQklhWCXx85cHo7XgjG7XeGAGB57PU7+Lz4jCiDJMsY4 R+4nnPMpy6OH9sZcxkwF07DPfC5lLw8Gbog9ljPR7n4ivcEa+eZJaTXj LXertb5CywPqy9p7qqL4IBUJxIcenrgp/9DFXsXcB6TlHa9u3c8EfcUa yumwb2ZFin5AI2WlcPBDdqdq2tqFWcbPtaIO/eb361Hd/bfpH2887QcQ YbI5DVk/pcvK58igwxrZKAtmbnHyA6bErgSTpOhRRFie33xBKooFodoE LsosTenpFt04204AdyFHvJT/X8eJPVb7Iy28dnZ76J/q1LVO/NX8/zIe 437rGQ==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160793 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160800 900 1800 6048000 3600
