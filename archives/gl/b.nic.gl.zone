@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160865 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. cOGXXTUlyjale8rgDrAyd/nNrPmMzpYzqtXRzs8liVpBJbcz28FzLAgp NohiJwodc4WHFc7iH3ciiixX15MWavGZkkzMYoMdm62GTtgVf9JYeyy5 jMMFByi6Rpxo5dxxJcSAguyanIP4jkxSCDXpttpP2Zq/xHXzwiZ1I+B3 cRqDHtFQQhNQuDy3Eq9eYOPUeTdxYOgRi2WvFz3iNp1rbh6ylaYeAeTE vjBnJ3B5vAJR7jWCTNE+lqBOmGszekpBxWrWzbIDUCauQd9gP2D2f+36 uOCidt/1BOaI55GZSrrtSwvErlIpifdXRwWoeiXQWttFt0XTxLlwn1Gq 7zUV7Q==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160874 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. EOR5FU+XPw82csRegNeCDQOdOL2tvnkwYVLbdMuHTQRz27Awm7evuBob i/kafJkN7iakBdCLJZvUU5W2NbOz5+bocXc38DUbtKKqYByQ3FFyNNEL LYe6vU3xyFrY/LINBkldDuTiclYc+9PsCPJlYuShtzCvXEpug6hXsBCh p5HDWz1dmU8MeRwA8x3QL5gn5qm2BKmholtUI0uta0b+0onf3IS4x5nl T67j0HEqjtUUkAwQm/wEIeYKCxI75Kbu+1DTg25kLHF5BkHRY3VtGmQh cpu4GCoka/TLTaSWiegliGjdSkQ1XRdag9Ct6FWi2YivEqBS2+9H9loC OdXWAA==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -267,9 +267,8 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250428120000 20250207120000 57390 gl. DvnEDn
 3c.gl.			3600	IN	NS	3-get.njalla.fo.
 3cx.gl.			3600	IN	NS	alina.ns.cloudflare.com.
 3cx.gl.			3600	IN	NS	augustus.ns.cloudflare.com.
-3d.gl.			3600	IN	NS	ns1.netim.net.
-3d.gl.			3600	IN	NS	ns2.netim.net.
-3d.gl.			3600	IN	NS	ns3.netim.net.
+3d.gl.			3600	IN	NS	ns1.afternic.com.
+3d.gl.			3600	IN	NS	ns2.afternic.com.
 3dprint.gl.		3600	IN	NS	ns1.hosting.inuit.gl.
 3dprint.gl.		3600	IN	NS	ns2.hosting.inuit.gl.
 3krn.gl.		3600	IN	NS	bob.ns.cloudflare.com.
@@ -3220,8 +3219,6 @@ bs02shop.gl.		3600	IN	NS	fred.ns.cloudflare.com.
 bs02shop.gl.		3600	IN	NS	cecelia.ns.cloudflare.com.
 bs2.gl.			3600	IN	NS	ns1.expired.reg.ru.
 bs2.gl.			3600	IN	NS	ns2.expired.reg.ru.
-bs2beast.gl.		3600	IN	NS	fred.ns.cloudflare.com.
-bs2beast.gl.		3600	IN	NS	cecelia.ns.cloudflare.com.
 bs2best.gl.		3600	IN	NS	3-pas.njalla.in.
 bs2best.gl.		3600	IN	NS	1-ceci.njalla.do.
 bs2best.gl.		3600	IN	NS	2-nest.pipe.ma.
@@ -3234,8 +3231,6 @@ bs2sait.gl.		3600	IN	NS	mona.ns.cloudflare.com.
 bs2sait.gl.		3600	IN	NS	hasslo.ns.cloudflare.com.
 bs2saite.gl.		3600	IN	NS	fred.ns.cloudflare.com.
 bs2saite.gl.		3600	IN	NS	cecelia.ns.cloudflare.com.
-bs2sate.gl.		3600	IN	NS	fred.ns.cloudflare.com.
-bs2sate.gl.		3600	IN	NS	cecelia.ns.cloudflare.com.
 bs2site.gl.		3600	IN	NS	bjorn.ns.cloudflare.com.
 bs2site.gl.		3600	IN	NS	rihana.ns.cloudflare.com.
 bs2tsite1.gl.		3600	IN	NS	fred.ns.cloudflare.com.
@@ -8531,9 +8526,6 @@ igoo.gl.		3600	IN	NS	ns3.epik.com.
 igoo.gl.		3600	IN	NS	ns4.epik.com.
 igoo.gl.		3600	IN	DS	6767 13 2 C0EF643B9AEAC7D812974A85A98D49633D4EF6DF57CA78811F57BA34 66E4561C
 igoo.gl.		3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. Lbye0M93nrV+p40iI8n6LRgwEPZIpS5JO5p5wHbJX/DB+tgfc2RNV7Fb GZ96ZCaXQMeya8q973Q4DXgtQ50lb4ju0thGM+iRMqd7ClmmCtdLhVkj IN4kVNWNhkjmdmk5jdrAo+Zx9JzG7eFAY6awHVmecGM1QTvBt9UNsX6i voRkGqwUkpvHPh5cIpa1vcD1yur17RmaHBcsOAHLtHw8yknCzs7EXiZ+ I20JY1cgo/l9LRrDLkZlQrSgHuRDOvXDOGLzgVworQGetHEsUy/wWKnr 682AFgisQcFDJslKUuw5GrghcQGgA2x66Z5g+VGKR6HKa9xbrffrOWPR nRZTtQ==
-ih.gl.			3600	IN	NS	ns1.netim.net.
-ih.gl.			3600	IN	NS	ns2.netim.net.
-ih.gl.			3600	IN	NS	ns3.netim.net.
 iheart.gl.		3600	IN	NS	ns1.clearchannel.com.
 iheart.gl.		3600	IN	NS	ns2.clearchannel.com.
 iheart.gl.		3600	IN	NS	dns1.clearchannel.com.
@@ -20503,9 +20495,8 @@ vidvinkel.gl.		3600	IN	NS	ns4.simply.com.
 vidvinkel.gl.		3600	IN	DS	18415 13 2 78756D8826E77ECF8A714BDD980B7AB365F4F190025C7737ED9BECE6 25740628
 vidvinkel.gl.		3600	IN	DS	18415 13 4 215CAF061F62FC2CA2771B89C93DD6914B76CDD23F3F582F6D6024FE 77A7B6A80112CC7409E16718AB72614DFD8C927A
 vidvinkel.gl.		3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. XzoUDQDLxP2aGgiul0p5mn82cDA8GaSO6PH+jDMUZntoAw3iDEAdlTaK Q6ivyThRxRcdOddNcl7BqGBevzwrphbafSBCNyl3xwP/8QI/gtYTLtxz T7qRRhBOgUCL1MeGeGwxbwEDITOdQiDMgRmErkhWLJkst13zc02mxIGS YrPgdU38BO9Vwz2prFRW5M+zuL7CvEA8ddR+m30PzSixDUaQ2ddDmbr5 3rBloSII2xViH1xyboD35qF7dG+ZFt6RSGbCyCseUEvVXMzJurwBbEqx KBQXLfOhNUED7ZCt5Q05Q0IA6vAatEI/3VS6N8tEcSqSU4zbjZc4hnJE pieN4w==
-viet69.gl.		3600	IN	NS	1-you.njalla.no.
-viet69.gl.		3600	IN	NS	2-can.njalla.in.
-viet69.gl.		3600	IN	NS	3-get.njalla.fo.
+viet69.gl.		3600	IN	NS	sid.ns.cloudflare.com.
+viet69.gl.		3600	IN	NS	robin.ns.cloudflare.com.
 view.gl.		3600	IN	NS	ns1.xpertnet.in.
 view.gl.		3600	IN	NS	ns2.xpertnet.in.
 viggo.gl.		3600	IN	NS	ns1.linode.com.
@@ -23093,4 +23084,4 @@ VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. Y1v6YCMGj4s9yQklhWCXx85cHo7XgjG7XeGAGB57PU7+Lz4jCiDJMsY4 R+4nnPMpy6OH9sZcxkwF07DPfC5lLw8Gbog9ljPR7n4ivcEa+eZJaTXj LXertb5CywPqy9p7qqL4IBUJxIcenrgp/9DFXsXcB6TlHa9u3c8EfcUa yumwb2ZFin5AI2WlcPBDdqdq2tqFWcbPtaIO/eb361Hd/bfpH2887QcQ YbI5DVk/pcvK58igwxrZKAtmbnHyA6bErgSTpOhRRFie33xBKooFodoE LsosTenpFt04204AdyFHvJT/X8eJPVb7Iy28dnZ76J/q1LVO/NX8/zIe 437rGQ==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160865 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022160874 900 1800 6048000 3600
