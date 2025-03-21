@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161064 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. k0oml5eFd72B+7QwAsMZni6uD7Iu4WbpVRDQWQF5pn116FUR9WTtdrVa +Oz3zTtLeKqhSQsIn4LO2lObHtrm17IVRL14+dqXX7vcjuWyQLq+Sonk f+h/YQK3ulQ5eoavxYub2fxhxrjqdaGrsGqVqsvD7uE/9SSFCj70CeZB 1ilYLHpDsVtQChbcRQ3F8mCi7D1BJyAi86iod9R/3hmeiCutE8Ymzn5e fGdvRh8VswPNeV/k06CAxnwBT14s0ECeCxAFAr30AvWr3h/6knGPeOIG CbHhXB8LsNFvTGx5MJHQaK5yxmU9HgrDBPUMcRFmqgauEh84/OWiO4pm L1DI6w==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161069 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. HuNLvk6xleUiKttXJYbLi848w3ZyAWc5DfhnFLGBrTupSy+jFA4uquZK CEuopRPdSHjsUJEMfQTrkimvsD7rzdvuMVvQtBtWFXZplj+gPUoaczcS 2oKc3F5kIvIbHHVec+OJoFVx46K1bACoyqDbMidE73bMqSw058nXTVUw WljCMavkiClNrQBnoSJPsk0+h4y0TN6nL6auGQ8RkXebOybJqGOzu0xe Og2feewcf8/lpwvMoOGwC9DvCLRw3xbUbe+d4RPjOakGcwBd6fnfCy3J DWZh4nbhQJonHG8/7CMLxoI7id2dOlHZVw5gvVc6zL6rRRU/GzD2MQxx WU4trw==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -2714,6 +2714,10 @@ biludlejning.gl.	3600	IN	NS	ns1.nunahosting.net.
 biludlejning.gl.	3600	IN	NS	ns2.nunahosting.net.
 biludlejning.gl.	3600	IN	NS	ns3.nunahosting.net.
 biludlejning.gl.	3600	IN	NS	ns4.nunahosting.net.
+bin.gl.			3600	IN	NS	ns1.pananames.com.
+bin.gl.			3600	IN	NS	ns2.pananames.com.
+bin.gl.			3600	IN	NS	ns3.pananames.com.
+bin.gl.			3600	IN	NS	ns4.pananames.com.
 binance.gl.		3600	IN	NS	ns1.101domain.com.
 binance.gl.		3600	IN	NS	ns2.101domain.com.
 bing.gl.		3600	IN	NS	ns1.register.it.
@@ -5296,6 +5300,8 @@ emanuel.gl.		3600	IN	NS	ns1.aputit.gl.
 emanuel.gl.		3600	IN	NS	ns2.aputit.gl.
 emanuel.gl.		3600	IN	NS	ns3.aputit.gl.
 emanuel.gl.		3600	IN	NS	ns4.aputit.gl.
+emi.gl.			3600	IN	NS	aisha.ns.cloudflare.com.
+emi.gl.			3600	IN	NS	marek.ns.cloudflare.com.
 emiliano.gl.		3600	IN	NS	liz.ns.cloudflare.com.
 emiliano.gl.		3600	IN	NS	jobs.ns.cloudflare.com.
 emilien.gl.		3600	IN	NS	ns1.messagingengine.com.
@@ -23034,4 +23040,4 @@ VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. Y1v6YCMGj4s9yQklhWCXx85cHo7XgjG7XeGAGB57PU7+Lz4jCiDJMsY4 R+4nnPMpy6OH9sZcxkwF07DPfC5lLw8Gbog9ljPR7n4ivcEa+eZJaTXj LXertb5CywPqy9p7qqL4IBUJxIcenrgp/9DFXsXcB6TlHa9u3c8EfcUa yumwb2ZFin5AI2WlcPBDdqdq2tqFWcbPtaIO/eb361Hd/bfpH2887QcQ YbI5DVk/pcvK58igwxrZKAtmbnHyA6bErgSTpOhRRFie33xBKooFodoE LsosTenpFt04204AdyFHvJT/X8eJPVb7Iy28dnZ76J/q1LVO/NX8/zIe 437rGQ==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161064 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161069 900 1800 6048000 3600
