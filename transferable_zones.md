@@ -1,6 +1,5 @@
 # List of TLDs & Roots With Zone Transfers Currently Enabled
 
-* `.` via `d.root-servers.net.`: [Click here to view zone data.](archives/root/d.root-servers.net.zone)
 * `.` via `c.root-servers.net.`: [Click here to view zone data.](archives/root/c.root-servers.net.zone)
 * `.` via `b.root-servers.net.`: [Click here to view zone data.](archives/root/b.root-servers.net.zone)
 * `.` via `k.root-servers.net.`: [Click here to view zone data.](archives/root/k.root-servers.net.zone)
@@ -21,7 +20,7 @@
 * `kh` via `ns.camnet.com.kh.`: [Click here to view zone data.](archives/kh/ns.camnet.com.kh.zone)
 * `kp` via `ns1.kptc.kp.`: [Click here to view zone data.](archives/kp/ns1.kptc.kp.zone)
 * `mp` via `ns1.nic.mp.`: [Click here to view zone data.](archives/mp/ns1.nic.mp.zone)
-* `mw` via `chambo.sdnp.org.mw.`: [Click here to view zone data.](archives/mw/chambo.sdnp.org.mw.zone)
+* `mw` via `domwe.sdn.mw.`: [Click here to view zone data.](archives/mw/domwe.sdn.mw.zone)
 * `ni` via `ns.ideay.net.ni.`: [Click here to view zone data.](archives/ni/ns.ideay.net.ni.zone)
 * `ps` via `ns1.pnina.ps.`: [Click here to view zone data.](archives/ps/ns1.pnina.ps.zone)
 * `sl` via `ns2.neoip.com.`: [Click here to view zone data.](archives/sl/ns2.neoip.com.zone)
@@ -30,7 +29,8 @@
 * `ve` via `ns4.nic.ve.`: [Click here to view zone data.](archives/ve/ns4.nic.ve.zone)
 * `xn--54b7fta0cc` via `bayanno.btcl.net.bd.`: [Click here to view zone data.](archives/xn--54b7fta0cc/bayanno.btcl.net.bd.zone)
 * `xn--fzc2c9e2c` via `ns-c.nic.lk.`: [Click here to view zone data.](archives/xn--fzc2c9e2c/ns-c.nic.lk.zone)
+* `xn--mgbai9azgqp6j` via `ns2.ntc.net.pk.`: [Click here to view zone data.](archives/xn--mgbai9azgqp6j/ns2.ntc.net.pk.zone)
 * `xn--mgbtx2b` via `ns.cmc.iq.`: [Click here to view zone data.](archives/xn--mgbtx2b/ns.cmc.iq.zone)
 * `xn--wgbh1c` via `ns1.dotmasr.eg.`: [Click here to view zone data.](archives/xn--wgbh1c/ns1.dotmasr.eg.zone)
-* `xn--xkc2al3hye2a` via `ns-c.nic.lk.`: [Click here to view zone data.](archives/xn--xkc2al3hye2a/ns-c.nic.lk.zone)
+* `xn--xkc2al3hye2a` via `ns-l.nic.lk.`: [Click here to view zone data.](archives/xn--xkc2al3hye2a/ns-l.nic.lk.zone)
 * `xn--ygbi2ammx` via `ns1.pnina.ps.`: [Click here to view zone data.](archives/xn--ygbi2ammx/ns1.pnina.ps.zone)
