@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161231 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. LvyC09a8SBwP7tgW7vfiBO4yl1WlpqIiwSintdphn8k+zL7GTe4pRnke /D0aeKzCvjX/H55tojchJFOyqRe1mrnVNKlbBuhhPCVRyL1VoXy2xEji 761h+JW+y2Ew/B7DX6TmaT4/cQS0tCdXD9WZCn2XXEJ6Gacfz0sOciY7 1gOhi1amCxSKpb4teiAh5E2QocyFTKuULYOKKorDc+fd89Gy1xvOpfMF 36IoYC5jFBVtzjKPOkYZ3RHjgfC3nNr12H4oCq2gtOIckHO5hU2Ylh8t G33tH7vVOCWRvw+Ut4Iuhk4Ms3FziyW2DfgwoikB4Eor6ORsagzsXzk3 5KuOKw==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161244 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. DAekypstL8iCtE5zpB35fXGlVFIj1PB8JdgB4/5EOCsd/L7wHdA78yJV apn66RZ1QJIxGjAw7RnHP79h/MPDbjbh4Ngq2o1ZIawsEg8cfZURkNAD ahd7bZ4Z37shuh10HJ9QkhTBD70dW0xocoBtAbjfCMGX5SbuBCzyazVo gNZU1FHNe4uJmzYr0p81uFut8Mv5CL48V4nsFGG/C63JUAb4JOvlcEse JT38HakD9KG7MKrjX40pyjISBYj/SuVchmUjYMg25GgC3tl6lj0IF/Jz T5y7OVQIz8vJ7GIIritmOSOuQnU8mu+fy0RLixjMRqBWND00/52qXWe0 mM6Cng==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -10777,10 +10777,14 @@ ksaps.gl.		3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. Gxl
 ksb.gl.			3600	IN	NS	ns1.brandshelter.com.
 ksb.gl.			3600	IN	NS	ns2.brandshelter.de.
 ksb.gl.			3600	IN	NS	ns3.brandshelter.info.
-ksglas.gl.		3600	IN	NS	ns1.curanet.dk.
-ksglas.gl.		3600	IN	NS	ns2.curanet.dk.
-kssanasut.gl.		3600	IN	NS	ns1.curanet.dk.
-kssanasut.gl.		3600	IN	NS	ns2.curanet.dk.
+ksglas.gl.		3600	IN	NS	ns1.nunahosting.net.
+ksglas.gl.		3600	IN	NS	ns2.nunahosting.net.
+ksglas.gl.		3600	IN	NS	ns3.nunahosting.net.
+ksglas.gl.		3600	IN	NS	ns4.nunahosting.net.
+kssanasut.gl.		3600	IN	NS	ns1.nunahosting.net.
+kssanasut.gl.		3600	IN	NS	ns2.nunahosting.net.
+kssanasut.gl.		3600	IN	NS	ns3.nunahosting.net.
+kssanasut.gl.		3600	IN	NS	ns4.nunahosting.net.
 kta15.gl.		3600	IN	NS	aaden.ns.cloudflare.com.
 kta15.gl.		3600	IN	NS	liberty.ns.cloudflare.com.
 kta16.gl.		3600	IN	NS	porter.ns.cloudflare.com.
@@ -11911,8 +11915,10 @@ manpower.gl.		3600	IN	NS	auth100.ns.uu.net.
 manscaped.gl.		3600	IN	NS	ns01.trademarkarea.com.
 manscaped.gl.		3600	IN	NS	ns02.trademarkarea.com.
 manscaped.gl.		3600	IN	NS	ns03.trademarkarea.com.
-mantimers.gl.		3600	IN	NS	ns1.curanet.dk.
-mantimers.gl.		3600	IN	NS	ns2.curanet.dk.
+mantimers.gl.		3600	IN	NS	ns1.nunahosting.net.
+mantimers.gl.		3600	IN	NS	ns2.nunahosting.net.
+mantimers.gl.		3600	IN	NS	ns3.nunahosting.net.
+mantimers.gl.		3600	IN	NS	ns4.nunahosting.net.
 manu.gl.		3600	IN	NS	ns1.simply.com.
 manu.gl.		3600	IN	NS	ns2.simply.com.
 manu.gl.		3600	IN	NS	ns3.simply.com.
@@ -12399,8 +12405,10 @@ mia.gl.			3600	IN	NS	ns3.nunahosting.net.
 mia.gl.			3600	IN	NS	ns4.nunahosting.net.
 mia-nuuk.gl.		3600	IN	NS	ns1.hosting.inuit.gl.
 mia-nuuk.gl.		3600	IN	NS	ns2.hosting.inuit.gl.
-micha.gl.		3600	IN	NS	ns1.curanet.dk.
-micha.gl.		3600	IN	NS	ns2.curanet.dk.
+micha.gl.		3600	IN	NS	ns1.nunahosting.net.
+micha.gl.		3600	IN	NS	ns2.nunahosting.net.
+micha.gl.		3600	IN	NS	ns3.nunahosting.net.
+micha.gl.		3600	IN	NS	ns4.nunahosting.net.
 microgreens.gl.		3600	IN	NS	ns1.patys.com.
 microgreens.gl.		3600	IN	NS	ns2.patys.com.
 microsoft.gl.		3600	IN	NS	ns1-03.azure-dns.com.
@@ -14104,8 +14112,10 @@ nuiaq.gl.		3600	IN	NS	ns4.simply.com.
 nuiaq.gl.		3600	IN	DS	11293 13 2 FA3A1E4F0B90B7C77138895E93539B2378CF09E96DA729B4AC81131D B3120983
 nuiaq.gl.		3600	IN	DS	11293 13 4 48C208DB97AF4FFD23A271931865A9955F31B3871F0672133972F76E 3DEB44ADA5D9265DCB6229F53538F16810B53156
 nuiaq.gl.		3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. gmbbRnMYwCCOpfqtCbHAPArwbwhFWcsaA3S9BCFWJzDYeUz9txR1TMMB XsqLf+bqKvzGGPa0NLp8m4o0UzNIjn9Vn9c6NmmMFswC48WPXUvrxKg+ bRIvaMO3sod1Z9cRVDxaIb1qFmqeGZH+4bay/aNMmBsBSCj7SHGDMRXg iqdTqYbeSTvCUDG03usLtpS8lcaYABVkHyw6rjQyLW4Vi+cCsYXlrIYF p7VBjFh9WkZJlwE9zSjmH0QbhGKis2xtIgRFTDml3PsQH4EJ099XqyzC +7DsQBJVV3yHQX9Ler6q8PzI5vHTEEDi3HTH2fKhDh2k/6UfwP5BWOTf lyaBew==
-nuiki.gl.		3600	IN	NS	ns1.curanet.dk.
-nuiki.gl.		3600	IN	NS	ns2.curanet.dk.
+nuiki.gl.		3600	IN	NS	ns1.nunahosting.net.
+nuiki.gl.		3600	IN	NS	ns2.nunahosting.net.
+nuiki.gl.		3600	IN	NS	ns3.nunahosting.net.
+nuiki.gl.		3600	IN	NS	ns4.nunahosting.net.
 nuis.gl.		3600	IN	NS	ns1.bdm.microsoftonline.com.
 nuis.gl.		3600	IN	NS	ns2.bdm.microsoftonline.com.
 nuis.gl.		3600	IN	NS	ns3.bdm.microsoftonline.com.
@@ -14119,8 +14129,10 @@ nuk.gl.			3600	IN	NS	d.hosting.gl.
 nukagreenland.gl.	3600	IN	NS	ns1.hosting.inuit.gl.
 nukagreenland.gl.	3600	IN	NS	ns2.hosting.inuit.gl.
 nukagreenland.gl.	3600	IN	NS	ns3.hosting.inuit.gl.
-nukappi.gl.		3600	IN	NS	ns1.curanet.dk.
-nukappi.gl.		3600	IN	NS	ns2.curanet.dk.
+nukappi.gl.		3600	IN	NS	ns1.nunahosting.net.
+nukappi.gl.		3600	IN	NS	ns2.nunahosting.net.
+nukappi.gl.		3600	IN	NS	ns3.nunahosting.net.
+nukappi.gl.		3600	IN	NS	ns4.nunahosting.net.
 nukik.gl.		3600	IN	NS	ns1.nukik.it.
 nukik.gl.		3600	IN	NS	ns2.nukik.it.
 nukik.gl.		3600	IN	NS	ns3.nukik.it.
@@ -14267,8 +14279,10 @@ nutserut.gl.		3600	IN	NS	ns-cloud-e3.googledomains.com.
 nutserut.gl.		3600	IN	NS	ns-cloud-e4.googledomains.com.
 nuuk.gl.		3600	IN	NS	ns01.one.com.
 nuuk.gl.		3600	IN	NS	ns02.one.com.
-nuuk-el.gl.		3600	IN	NS	ns1.curanet.dk.
-nuuk-el.gl.		3600	IN	NS	ns2.curanet.dk.
+nuuk-el.gl.		3600	IN	NS	ns1.nunahosting.net.
+nuuk-el.gl.		3600	IN	NS	ns2.nunahosting.net.
+nuuk-el.gl.		3600	IN	NS	ns3.nunahosting.net.
+nuuk-el.gl.		3600	IN	NS	ns4.nunahosting.net.
 nuuk-lokalreklame.gl.	3600	IN	NS	ns1.modulo.gl.
 nuuk-lokalreklame.gl.	3600	IN	NS	ns2.modulo.gl.
 nuuk-lokalreklame.gl.	3600	IN	NS	ns3.modulo.gl.
@@ -14965,8 +14979,10 @@ oqaatsit.gl.		3600	IN	NS	ns3.nunahosting.net.
 oqaatsit.gl.		3600	IN	NS	ns4.nunahosting.net.
 oqalliffik.gl.		3600	IN	NS	ns01.one.com.
 oqalliffik.gl.		3600	IN	NS	ns02.one.com.
-oqaloqatigiiffik.gl.	3600	IN	NS	ns1.curanet.dk.
-oqaloqatigiiffik.gl.	3600	IN	NS	ns2.curanet.dk.
+oqaloqatigiiffik.gl.	3600	IN	NS	ns1.nunahosting.net.
+oqaloqatigiiffik.gl.	3600	IN	NS	ns2.nunahosting.net.
+oqaloqatigiiffik.gl.	3600	IN	NS	ns3.nunahosting.net.
+oqaloqatigiiffik.gl.	3600	IN	NS	ns4.nunahosting.net.
 or.gl.			3600	IN	NS	ns1.zierhut-networks.de.
 or.gl.			3600	IN	NS	ns2.zierhut-networks.de.
 or.gl.			3600	IN	NS	ns3.zierhut-networks.de.
@@ -15466,8 +15482,10 @@ phylocanvas.gl.		3600	IN	NS	nucum.ns.cloudflare.com.
 pi.gl.			3600	IN	NS	ns1.modulo.gl.
 pi.gl.			3600	IN	NS	ns2.modulo.gl.
 pi.gl.			3600	IN	NS	ns3.modulo.gl.
-piaman.gl.		3600	IN	NS	ns1.curanet.dk.
-piaman.gl.		3600	IN	NS	ns2.curanet.dk.
+piaman.gl.		3600	IN	NS	ns1.nunahosting.net.
+piaman.gl.		3600	IN	NS	ns2.nunahosting.net.
+piaman.gl.		3600	IN	NS	ns3.nunahosting.net.
+piaman.gl.		3600	IN	NS	ns4.nunahosting.net.
 piareersarfiit.gl.	3600	IN	NS	ns1.modulo.gl.
 piareersarfiit.gl.	3600	IN	NS	ns2.modulo.gl.
 piareersarfiit.gl.	3600	IN	NS	ns3.modulo.gl.
@@ -15517,8 +15535,10 @@ pilu.gl.		3600	IN	DS	7958 13 2 1EB2ACFB91FB1F2E736C50D2A3C46B346E3DEE008E10B3B2B
 pilu.gl.		3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. N1NBSYGQnqW4IvYz3q9geNeObzXL0FbE2ikD+dVfvoS/CsWHY0Nn9b3Z C9t53oVHreBavUyQI6bgkA2WmBxCPC7vijA5yyIki8HKSBgNKRX5J93l csDwj9xGDctVBOeuTghKu6Dm73zeehanGidl5cKtzSO/ZzbZ1WBusSS9 YYWHor1kK4s8m0mH5fLkDdv1hAZECAUc8k8a/CBD10VWws7heq9DxSqk By/VerLxSXMrgAMLgD01MknVuHl44IdSBliJh5SKc/unQL8/VTz37n1I NKr5OBIWri9OeXZiY0gQEWDdJVvwv80J9AyfDgzDrMuqq7RERV4kPhDO 12Dp8w==
 pilusport.gl.		3600	IN	NS	ns10.wixdns.net.
 pilusport.gl.		3600	IN	NS	ns11.wixdns.net.
-pilutaq.gl.		3600	IN	NS	ns1.curanet.dk.
-pilutaq.gl.		3600	IN	NS	ns2.curanet.dk.
+pilutaq.gl.		3600	IN	NS	ns1.nunahosting.net.
+pilutaq.gl.		3600	IN	NS	ns2.nunahosting.net.
+pilutaq.gl.		3600	IN	NS	ns3.nunahosting.net.
+pilutaq.gl.		3600	IN	NS	ns4.nunahosting.net.
 pim.gl.			3600	IN	NS	ns-48-a.gandi.net.
 pim.gl.			3600	IN	NS	ns-95-b.gandi.net.
 pim.gl.			3600	IN	NS	ns-242-c.gandi.net.
@@ -15590,8 +15610,10 @@ pisisa.gl.		3600	IN	NS	a.hosting.gl.
 pisisa.gl.		3600	IN	NS	b.hosting.gl.
 pisisa.gl.		3600	IN	NS	c.hosting.gl.
 pisisa.gl.		3600	IN	NS	d.hosting.gl.
-pisoq.gl.		3600	IN	NS	ns1.curanet.dk.
-pisoq.gl.		3600	IN	NS	ns2.curanet.dk.
+pisoq.gl.		3600	IN	NS	ns1.nunahosting.net.
+pisoq.gl.		3600	IN	NS	ns2.nunahosting.net.
+pisoq.gl.		3600	IN	NS	ns3.nunahosting.net.
+pisoq.gl.		3600	IN	NS	ns4.nunahosting.net.
 pisortat.gl.		3600	IN	NS	ns1.modulo.gl.
 pisortat.gl.		3600	IN	NS	ns2.modulo.gl.
 pisortat.gl.		3600	IN	NS	ns3.modulo.gl.
@@ -15744,8 +15766,10 @@ polarraajat.gl.		3600	IN	NS	ns1.eurodns.com.
 polarraajat.gl.		3600	IN	NS	ns2.eurodns.com.
 polarraajat.gl.		3600	IN	NS	ns3.eurodns.com.
 polarraajat.gl.		3600	IN	NS	ns4.eurodns.com.
-polarsanasut.gl.	3600	IN	NS	ns1.curanet.dk.
-polarsanasut.gl.	3600	IN	NS	ns2.curanet.dk.
+polarsanasut.gl.	3600	IN	NS	ns1.nunahosting.net.
+polarsanasut.gl.	3600	IN	NS	ns2.nunahosting.net.
+polarsanasut.gl.	3600	IN	NS	ns3.nunahosting.net.
+polarsanasut.gl.	3600	IN	NS	ns4.nunahosting.net.
 polarseafood.gl.	3600	IN	NS	ns1.eurodns.com.
 polarseafood.gl.	3600	IN	NS	ns2.eurodns.com.
 polarseafood.gl.	3600	IN	NS	ns3.eurodns.com.
@@ -16284,8 +16308,10 @@ qinersineq.gl.		3600	IN	NS	ns1-09.azure-dns.com.
 qinersineq.gl.		3600	IN	NS	ns1-09.azure-dns.net.
 qinersineq.gl.		3600	IN	NS	ns1-09.azure-dns.org.
 qinersineq.gl.		3600	IN	NS	ns1-09.azure-dns.info.
-qiviut.gl.		3600	IN	NS	ns1.curanet.dk.
-qiviut.gl.		3600	IN	NS	ns2.curanet.dk.
+qiviut.gl.		3600	IN	NS	ns1.nunahosting.net.
+qiviut.gl.		3600	IN	NS	ns2.nunahosting.net.
+qiviut.gl.		3600	IN	NS	ns3.nunahosting.net.
+qiviut.gl.		3600	IN	NS	ns4.nunahosting.net.
 qk.gl.			3600	IN	NS	ns2.techiesplace.com.
 qk.gl.			3600	IN	NS	ns3.wyvern.org.
 qk.gl.			3600	IN	NS	ns2b.wyvern.org.
@@ -23023,4 +23049,4 @@ VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. Y1v6YCMGj4s9yQklhWCXx85cHo7XgjG7XeGAGB57PU7+Lz4jCiDJMsY4 R+4nnPMpy6OH9sZcxkwF07DPfC5lLw8Gbog9ljPR7n4ivcEa+eZJaTXj LXertb5CywPqy9p7qqL4IBUJxIcenrgp/9DFXsXcB6TlHa9u3c8EfcUa yumwb2ZFin5AI2WlcPBDdqdq2tqFWcbPtaIO/eb361Hd/bfpH2887QcQ YbI5DVk/pcvK58igwxrZKAtmbnHyA6bErgSTpOhRRFie33xBKooFodoE LsosTenpFt04204AdyFHvJT/X8eJPVb7Iy28dnZ76J/q1LVO/NX8/zIe 437rGQ==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161231 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161244 900 1800 6048000 3600
