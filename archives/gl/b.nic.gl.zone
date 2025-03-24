@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161254 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. cgjfATEFTp/FOutHcsaqSpUz6xZv7TIEBXsQWLswXu71JctT+ti0MzQb f4LayxZ1z/kHOdpKBQLzfABNvEXqlBZHC22/UsutO+dc30xDkHODPYBr jW/iy74FOR63TtjD1qUuSEKPOAknhINdSGPS4fMx68y+fMev6lNJag5Z hQyeJHGs+LWBVLdMXHGmMiWHWEkl+fhnatyr16WGxWA7WQH4+OmC6WV0 HmaWwkdagHqBPFdd4Wwok2hNI6nMwFjA1nveSlw8soCKRvDNkgqYqk/P ghVBG9rt0tMiiqJgMF6aQJIfoH7PRicdBuinTvrUwjiqnF3wtkg9Irtj FRZ8EQ==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161259 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. Qe8dUBBV7zNHVfIRa0nThrjuyAuZXbrjOEQOJNjO0EYUA9UB7sjt/q5X 6NC/amrSEmpIFtKWS0gZOaYmrSp//aGUODctnsctvVcjyNry+mh7GQyQ aGP1EP/HZckp+nrUbUxf+E7v74VkUWzc/Aky7oxOhBU0N1iXMgdEiLBF H4vr0mlin/ka27aaAFgNJFALQdDTnuMjRMnrNRVNB3RBw0yD+NiJsGxx M3VqEAV3hGz8J/PX0q4QuJIHfnFKCpNXqtiGcDPJ5a9yCxf2WkxbvJ79 KXAW68GdS9Zo+ehDmio17ybWgF9HruK51VqeHQFuZTwuqHh0We0RC6NS JWUc9A==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -2385,10 +2385,8 @@ baza1.gl.		3600	IN	NS	1-ceci.njalla.do.
 baza1.gl.		3600	IN	NS	2-nest.pipe.ma.
 baza10.gl.		3600	IN	NS	aria.ns.cloudflare.com.
 baza10.gl.		3600	IN	NS	felipe.ns.cloudflare.com.
-bb.gl.			3600	IN	NS	a.hosting.gl.
-bb.gl.			3600	IN	NS	b.hosting.gl.
-bb.gl.			3600	IN	NS	c.hosting.gl.
-bb.gl.			3600	IN	NS	d.hosting.gl.
+bb.gl.			3600	IN	NS	ns1.siteground.net.
+bb.gl.			3600	IN	NS	ns2.siteground.net.
 bbc.gl.			3600	IN	NS	ns0.bbcdns.net.
 bbc.gl.			3600	IN	NS	ns0.bbcdns.net.uk.
 bbc.gl.			3600	IN	NS	ns1.bbcdns.net.
@@ -15969,9 +15967,6 @@ privatjordemoder.gl.	3600	IN	NS	a.hosting.gl.
 privatjordemoder.gl.	3600	IN	NS	b.hosting.gl.
 privatjordemoder.gl.	3600	IN	NS	c.hosting.gl.
 privatjordemoder.gl.	3600	IN	NS	d.hosting.gl.
-procedural.gl.		3600	IN	NS	ns-79-a.gandi.net.
-procedural.gl.		3600	IN	NS	ns-179-b.gandi.net.
-procedural.gl.		3600	IN	NS	ns-202-c.gandi.net.
 proces.gl.		3600	IN	NS	ns1.simply.com.
 proces.gl.		3600	IN	NS	ns2.simply.com.
 proces.gl.		3600	IN	NS	ns3.simply.com.
@@ -17433,9 +17428,6 @@ semantix.gl.		3600	IN	NS	ns4.abedns.net.
 seminar.gl.		3600	IN	NS	ns1.netim.net.
 seminar.gl.		3600	IN	NS	ns2.netim.net.
 seminar.gl.		3600	IN	NS	ns3.netim.net.
-sending.gl.		3600	IN	NS	ns-44-a.gandi.net.
-sending.gl.		3600	IN	NS	ns-130-b.gandi.net.
-sending.gl.		3600	IN	NS	ns-217-c.gandi.net.
 seng.gl.		3600	IN	NS	ns1.zaccodns.com.
 seng.gl.		3600	IN	NS	ns2.zaccodns.se.
 seng.gl.		3600	IN	NS	dns1.zaccodigitaltrustlabs.com.
@@ -23061,4 +23053,4 @@ VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. Y1v6YCMGj4s9yQklhWCXx85cHo7XgjG7XeGAGB57PU7+Lz4jCiDJMsY4 R+4nnPMpy6OH9sZcxkwF07DPfC5lLw8Gbog9ljPR7n4ivcEa+eZJaTXj LXertb5CywPqy9p7qqL4IBUJxIcenrgp/9DFXsXcB6TlHa9u3c8EfcUa yumwb2ZFin5AI2WlcPBDdqdq2tqFWcbPtaIO/eb361Hd/bfpH2887QcQ YbI5DVk/pcvK58igwxrZKAtmbnHyA6bErgSTpOhRRFie33xBKooFodoE LsosTenpFt04204AdyFHvJT/X8eJPVb7Iy28dnZ76J/q1LVO/NX8/zIe 437rGQ==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161254 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161259 900 1800 6048000 3600
