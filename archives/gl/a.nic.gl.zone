@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161229 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. MM81l1biGXkQ13jNBAh0P5oengXrj6Z9FLCE2S0sAA7JvWmhK339/xTL 18BPP8TzFR/GkWBg45cSLSLbk05M+5TZz8t9cMe8woT16VFqEULI5rp+ EVajeZn1JqhrQcR3utp2s7rjR7tTcqL4aQFSop6DwQeZD5KXDbZaIc96 J11uzCmeayAwxwonNhqHHobSKK81xOfRBp5hNN1sv6Zgx9nyz6mhgMLA ZXWEWvzCP/Whztkk1tmkjzsRLF5mAo82YnJe+wo/0PLNTgnhXEm/Yfo7 jUsMYlUdRs5j5wZR2bKZm65NjRJTTX05D8dmjZbPWgVCr7XW7OwoVYzZ roIYig==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161231 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. LvyC09a8SBwP7tgW7vfiBO4yl1WlpqIiwSintdphn8k+zL7GTe4pRnke /D0aeKzCvjX/H55tojchJFOyqRe1mrnVNKlbBuhhPCVRyL1VoXy2xEji 761h+JW+y2Ew/B7DX6TmaT4/cQS0tCdXD9WZCn2XXEJ6Gacfz0sOciY7 1gOhi1amCxSKpb4teiAh5E2QocyFTKuULYOKKorDc+fd89Gy1xvOpfMF 36IoYC5jFBVtzjKPOkYZ3RHjgfC3nNr12H4oCq2gtOIckHO5hU2Ylh8t G33tH7vVOCWRvw+Ut4Iuhk4Ms3FziyW2DfgwoikB4Eor6ORsagzsXzk3 5KuOKw==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -2795,8 +2795,6 @@ bl.gl.			3600	IN	NS	ns5.aisleahead.com.
 blaakors.gl.		3600	IN	NS	ns.dandomain.dk.
 blaakors.gl.		3600	IN	NS	ns2.dandomain.dk.
 blaakors.gl.		3600	IN	NS	ns3.dandomain.dk.
-black-sprut.gl.		3600	IN	NS	venus.ns.cloudflare.com.
-black-sprut.gl.		3600	IN	NS	charles.ns.cloudflare.com.
 black-white.gl.		3600	IN	NS	cns1.alfahosting.info.
 black-white.gl.		3600	IN	NS	cns2.alfahosting.info.
 black-white.gl.		3600	IN	NS	cns3.alfahosting.info.
@@ -3198,8 +3196,6 @@ bryghuset.gl.		3600	IN	DS	48191 13 4 84D1648AE09BE90608868CCC7AC343D313F2D2088BC
 bryghuset.gl.		3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. N5H6E5kZukey4BDSfMzYR9DwM8XiydRFIyUEIYyjCZVpjvOUtu0dI+tY aucEwnWBMdYf4Laq961MK81yn3mChsvDwxiV1xIKa6We3837KKLE9+zB 2JwinW2gI+tUTAwwwDTPzcUBaRq+AYq65xFqQRE9+j8khssKJvdnwY9G Ti4B+LjRTkudrXZkLjNt1f0eSs7BMDsQnkMM5mIphdTiJw6fBLSK/yLK YOfLsKddhq0IehiOtZlhXyaRW1WsRM8t6rNC/BaL+QtnOhvXYOf+SYhr 7fKZRRFD0nRaFjZSSfCBgrprNjaUvil6ende8eImuxVtAw4DBkZqRNyC otAl/Q==
 bs.gl.			3600	IN	NS	kaiser.ns.cloudflare.com.
 bs.gl.			3600	IN	NS	crystal.ns.cloudflare.com.
-bs-gl.gl.		3600	IN	NS	venus.ns.cloudflare.com.
-bs-gl.gl.		3600	IN	NS	charles.ns.cloudflare.com.
 bs02.gl.		3600	IN	NS	bjorn.ns.cloudflare.com.
 bs02.gl.		3600	IN	NS	ligia.ns.cloudflare.com.
 bs02shop.gl.		3600	IN	NS	fred.ns.cloudflare.com.
@@ -23027,4 +23023,4 @@ VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. Y1v6YCMGj4s9yQklhWCXx85cHo7XgjG7XeGAGB57PU7+Lz4jCiDJMsY4 R+4nnPMpy6OH9sZcxkwF07DPfC5lLw8Gbog9ljPR7n4ivcEa+eZJaTXj LXertb5CywPqy9p7qqL4IBUJxIcenrgp/9DFXsXcB6TlHa9u3c8EfcUa yumwb2ZFin5AI2WlcPBDdqdq2tqFWcbPtaIO/eb361Hd/bfpH2887QcQ YbI5DVk/pcvK58igwxrZKAtmbnHyA6bErgSTpOhRRFie33xBKooFodoE LsosTenpFt04204AdyFHvJT/X8eJPVb7Iy28dnZ76J/q1LVO/NX8/zIe 437rGQ==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161229 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161231 900 1800 6048000 3600
