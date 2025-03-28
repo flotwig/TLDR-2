@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161481 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. AymUDJ+WXCLcKC4wyzYBsV4PZSDy+zyazXQzHZnoKpHuzDK2XdPHXeej WG3T3gRZ55cR3S+LxSLF+0Gh0aSGqF7GmpRyrLfhbEY1xYAjqpe7I972 z9Lmr/h3FSlDaFZzeX5czjSRKF4ggZWxdKkuiGoOgCctrinIp7iMZNYR ao42KMwgkTfvaz9ucLFTVDwz92Xmkf/3RdqoBy9j6uNZO+qZ0lyOfHN3 cDRD0o1ys+7xx5NFo/oKyQcscL0kbWG/b4AnJSYXS9kQUSLMuKjvCRYx gyJvPVkiYv00dsUdNornOtAHrxP6YAFJONalVxaxj+ZGrcAx/pDzjQ+7 mKQ5JA==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161485 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. NBduWn6jFSdUqtRucc5KRBv4Bg5/ev8NxYhWbBMF2pU4ayvxtUWbvxeK SaaRUFTbliGGkmTIR++7K3uxs07Iw3HeFJWa1TEbSIdyqVNBZPO2cjfi TjPKEth18AUVD3ZmjqNt5Q5Do2vMpDeKUw0d4rUy3o/ETXeBaAV0We2E bzhv960pE82igyXJhsFpUnGwTqfdDnvmqfsLew8i3oQVknIjajvH7Fkh TzIuOWNjwSmiSRVPxC509Vm1Z9AUevHveAeHznCHkmUQDH8l5ZI4i/gT 0FM0lWaTYwzBR7q8CU3rKorYSxZiDjtcI5U6ndx+ExVvWLH1W+f+NoyG IG/8NA==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -1377,6 +1377,11 @@ apps.gl.		3600	IN	NS	ns14.dnsmadeeasy.com.
 aps.gl.			3600	IN	NS	ns1.regery.net.
 aps.gl.			3600	IN	NS	ns2.regery.net.
 aps.gl.			3600	IN	NS	ns3.regery.net.
+apsh.gl.		3600	IN	NS	ns0.1984.is.
+apsh.gl.		3600	IN	NS	ns1.1984.is.
+apsh.gl.		3600	IN	NS	ns1.1984hosting.com.
+apsh.gl.		3600	IN	NS	ns2.1984.is.
+apsh.gl.		3600	IN	NS	ns2.1984hosting.com.
 apuls.gl.		3600	IN	NS	ns1.simply.com.
 apuls.gl.		3600	IN	NS	ns2.simply.com.
 apuls.gl.		3600	IN	NS	ns3.simply.com.
@@ -2420,6 +2425,11 @@ bbp.gl.			3600	IN	NS	ns4.simply.com.
 bbp.gl.			3600	IN	DS	11855 13 2 EA66FF6C407C5831BD77F5ABDE7888D62AE593ED86D47EE5696A481A 6D525859
 bbp.gl.			3600	IN	DS	11855 13 4 E69027EF33B21E316544B0B9EE860F64819AE31B7CA4D006E80297A9 C054279771B6A52B0B155891B9A87F6505D5B2E0
 bbp.gl.			3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. aBNA6kJoLjYd0k+WZ9cEefTsKotvt89FZz5pahaULxrXxus5AC593FM6 QI8gNHJ0BQHsR3enC2qrLTv28cMtiz1XiheJ0tOpzOby+/Z6nasz3dS7 HSkVMSQI9S9BAidVoMIVPRP8ku8tm8XiWl4lvA3+CqmGZqkFrgsQUBpI uTmATuKwdYIQwHiKsyz7cw5g+JIVX+bItFSLJtdBolIz88bNO98YwXzq HJ3uB/3/AVvbhctUHOs5EQSWeGyOKr3mTdE9TgRQWHgHIFQNWT9g512A AafdZISOTFcT1T64LegsrB5YpXNEmd7ppN0b2xbV0MFV5HwdQw0ADd7T 4uAazQ==
+bbwk.gl.		3600	IN	NS	ns0.1984.is.
+bbwk.gl.		3600	IN	NS	ns1.1984.is.
+bbwk.gl.		3600	IN	NS	ns1.1984hosting.com.
+bbwk.gl.		3600	IN	NS	ns2.1984.is.
+bbwk.gl.		3600	IN	NS	ns2.1984hosting.com.
 bc.gl.			3600	IN	NS	ns.bccard.co.kr.
 bc.gl.			3600	IN	NS	ns2.bccard.co.kr.
 bcclub.gl.		3600	IN	NS	ns1200.ispapi.net.
@@ -3372,6 +3382,11 @@ buzz.gl.		3600	IN	NS	ns1.google.com.
 buzz.gl.		3600	IN	NS	ns2.google.com.
 buzz.gl.		3600	IN	NS	ns3.google.com.
 buzz.gl.		3600	IN	NS	ns4.google.com.
+bvco.gl.		3600	IN	NS	ns0.1984.is.
+bvco.gl.		3600	IN	NS	ns1.1984.is.
+bvco.gl.		3600	IN	NS	ns1.1984hosting.com.
+bvco.gl.		3600	IN	NS	ns2.1984.is.
+bvco.gl.		3600	IN	NS	ns2.1984hosting.com.
 bvdzl.gl.		3600	IN	NS	ns0.1984.is.
 bvdzl.gl.		3600	IN	NS	ns1.1984.is.
 bvdzl.gl.		3600	IN	NS	ns1.1984hosting.com.
@@ -4417,6 +4432,11 @@ de-vi.gl.		3600	IN	NS	udns1.cscdns.net.
 de-vi.gl.		3600	IN	NS	udns2.cscdns.uk.
 dea.gl.			3600	IN	NS	ns1.101domain.com.
 dea.gl.			3600	IN	NS	ns2.101domain.com.
+deag.gl.		3600	IN	NS	ns0.1984.is.
+deag.gl.		3600	IN	NS	ns1.1984.is.
+deag.gl.		3600	IN	NS	ns1.1984hosting.com.
+deag.gl.		3600	IN	NS	ns2.1984.is.
+deag.gl.		3600	IN	NS	ns2.1984hosting.com.
 debitor.gl.		3600	IN	NS	a.hosting.gl.
 debitor.gl.		3600	IN	NS	b.hosting.gl.
 debitor.gl.		3600	IN	NS	c.hosting.gl.
@@ -4545,6 +4565,11 @@ devi.gl.		3600	IN	NS	udns1.cscdns.net.
 devi.gl.		3600	IN	NS	udns2.cscdns.uk.
 dexploc.gl.		3600	IN	NS	ns.scannet2.dk.
 dexploc.gl.		3600	IN	NS	ns2.scannet2.dk.
+dfas.gl.		3600	IN	NS	ns0.1984.is.
+dfas.gl.		3600	IN	NS	ns1.1984.is.
+dfas.gl.		3600	IN	NS	ns1.1984hosting.com.
+dfas.gl.		3600	IN	NS	ns2.1984.is.
+dfas.gl.		3600	IN	NS	ns2.1984hosting.com.
 dg.gl.			3600	IN	NS	uma.ns.cloudflare.com.
 dg.gl.			3600	IN	NS	duke.ns.cloudflare.com.
 dgkm.gl.		3600	IN	NS	a.hosting.gl.
@@ -4698,6 +4723,11 @@ dlhak.gl.		3600	IN	NS	ns1.1984.is.
 dlhak.gl.		3600	IN	NS	ns1.1984hosting.com.
 dlhak.gl.		3600	IN	NS	ns2.1984.is.
 dlhak.gl.		3600	IN	NS	ns2.1984hosting.com.
+dloh.gl.		3600	IN	NS	ns0.1984.is.
+dloh.gl.		3600	IN	NS	ns1.1984.is.
+dloh.gl.		3600	IN	NS	ns1.1984hosting.com.
+dloh.gl.		3600	IN	NS	ns2.1984.is.
+dloh.gl.		3600	IN	NS	ns2.1984hosting.com.
 dm.gl.			3600	IN	NS	ns1.iwantmyname.net.
 dm.gl.			3600	IN	NS	ns2.iwantmyname.net.
 dm.gl.			3600	IN	NS	ns3.iwantmyname.net.
@@ -5008,6 +5038,11 @@ dy.gl.			3600	IN	NS	ns-1058.awsdns-04.org.
 dy.gl.			3600	IN	NS	ns-1539.awsdns-00.co.uk.
 dyne.gl.		3600	IN	NS	ns1.jth.net.
 dyne.gl.		3600	IN	NS	ns4.jth.net.
+dynt.gl.		3600	IN	NS	ns0.1984.is.
+dynt.gl.		3600	IN	NS	ns1.1984.is.
+dynt.gl.		3600	IN	NS	ns1.1984hosting.com.
+dynt.gl.		3600	IN	NS	ns2.1984.is.
+dynt.gl.		3600	IN	NS	ns2.1984hosting.com.
 dyqku.gl.		3600	IN	NS	ns0.1984.is.
 dyqku.gl.		3600	IN	NS	ns1.1984.is.
 dyqku.gl.		3600	IN	NS	ns1.1984hosting.com.
@@ -5069,6 +5104,11 @@ ea-asaasut.gl.		3600	IN	NS	ns3.simply.com.
 ea-asaasut.gl.		3600	IN	DS	23425 13 2 0908CD85DCB76979D3F22D56EC92F23E63B24247F8A3AABBE83E76EE 97E74C68
 ea-asaasut.gl.		3600	IN	DS	23425 13 4 3C34A04F42684A66DCBDFA4CF2FFED891690A6992B15C1E1DD7BCED0 1D4DCE5B3D6605E15BFB319BC10D3457E2463CF0
 ea-asaasut.gl.		3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. DdX5Lly/l95y6qQlbDTBs8ooGR4FUN1C0h/zQKQtzqwE3rXdvgldbUId cbKp9IxuygMD1MF8BrEqcPUHSKkbbPZZ9U0GMICQnzoEkwIfyGuJoNqV 8cyXXOJB98Euq75Zo/tHh1pGT++p6MI5q9WhP0UCIn4ErUrSeQY7rd8T pX8JW4zQ+koBrNOW4PQg0NxQfa2L4An0+FumkvET/+ytZPEEMjyNGnl/ mkNGiGxg5mpsCwhTp7HYraBklpGh5AZxf/sW+GW99eWjs56wqoGVZORn nnFqliX1ZVvMVomjV+br4DCQhV3nkOyLUxPwPONBnYDrqkI1Ev0mC/i3 3XlbKQ==
+eabs.gl.		3600	IN	NS	ns0.1984.is.
+eabs.gl.		3600	IN	NS	ns1.1984.is.
+eabs.gl.		3600	IN	NS	ns1.1984hosting.com.
+eabs.gl.		3600	IN	NS	ns2.1984.is.
+eabs.gl.		3600	IN	NS	ns2.1984hosting.com.
 eamra.gl.		3600	IN	NS	ns1.modulo.gl.
 eamra.gl.		3600	IN	NS	ns2.modulo.gl.
 eamra.gl.		3600	IN	NS	ns3.modulo.gl.
@@ -5117,6 +5157,11 @@ ebay.gl.		3600	IN	NS	ns3.netim.net.
 eberhard.gl.		3600	IN	NS	ns.hostpoint.ch.
 eberhard.gl.		3600	IN	NS	ns2.hostpoint.ch.
 eberhard.gl.		3600	IN	NS	ns3.hostpoint.ch.
+ebhm.gl.		3600	IN	NS	ns0.1984.is.
+ebhm.gl.		3600	IN	NS	ns1.1984.is.
+ebhm.gl.		3600	IN	NS	ns1.1984hosting.com.
+ebhm.gl.		3600	IN	NS	ns2.1984.is.
+ebhm.gl.		3600	IN	NS	ns2.1984hosting.com.
 eboks.gl.		3600	IN	NS	ns-auth03.kmd.dk.
 eboks.gl.		3600	IN	NS	ns-auth04.kmd.dk.
 ebooking.gl.		3600	IN	NS	ns1.entorno.com.
@@ -5164,6 +5209,11 @@ ecooking.gl.		3600	IN	DS	7498 13 4 BFE8A684E7829E9B86FEDCF6E4033DA8C446253336EE2
 ecooking.gl.		3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. dfsjYak8j1EDYv4RzdEgLdhrb5PS0Oav3/5yNA4sJl9cDVr4gaUvCnlo XCdOGWWMZ+PwHR0l9tBpAQ3pgs0xRTmgP7aIp7sJDwSSaZEN1BTJT7lE vXhRWpIr1jJvEDrxgmPNcTRmylM0hDgywAUe9GxumeDMyYAE+kcUIgTQ C8zjiY7sDQowsYeaQRtMkY4Loy1K4Hwlkx3mo9TiBsIdolBojt1SX+0A OhffZR7pnblmWj/R0xQARmDDu3ddAiiYmmlKKlliX8ygiqKiTjLxBBEK UqAfD7VyYSwrUYiGTltJN6UBSaAzY68NYY82QGYx03sqgtsojMQ7SDFU 2y8+ww==
 ecosolutions.gl.	3600	IN	NS	dns5.totalchoicehosting.com.
 ecosolutions.gl.	3600	IN	NS	dns6.totalchoicehosting.com.
+ecuf.gl.		3600	IN	NS	ns0.1984.is.
+ecuf.gl.		3600	IN	NS	ns1.1984.is.
+ecuf.gl.		3600	IN	NS	ns1.1984hosting.com.
+ecuf.gl.		3600	IN	NS	ns2.1984.is.
+ecuf.gl.		3600	IN	NS	ns2.1984hosting.com.
 ed.gl.			3600	IN	NS	ns1.netim.net.
 ed.gl.			3600	IN	NS	ns2.netim.net.
 ed.gl.			3600	IN	NS	ns3.netim.net.
@@ -5405,6 +5455,11 @@ emoji.gl.		3600	IN	NS	ns3.regery.net.
 en.gl.			3600	IN	NS	ns1.digitalocean.com.
 en.gl.			3600	IN	NS	ns2.digitalocean.com.
 en.gl.			3600	IN	NS	ns3.digitalocean.com.
+enbf.gl.		3600	IN	NS	ns0.1984.is.
+enbf.gl.		3600	IN	NS	ns1.1984.is.
+enbf.gl.		3600	IN	NS	ns1.1984hosting.com.
+enbf.gl.		3600	IN	NS	ns2.1984.is.
+enbf.gl.		3600	IN	NS	ns2.1984hosting.com.
 enemark.gl.		3600	IN	NS	ns1.bdm.microsoftonline.com.
 enemark.gl.		3600	IN	NS	ns2.bdm.microsoftonline.com.
 enemark.gl.		3600	IN	NS	ns3.bdm.microsoftonline.com.
@@ -5938,6 +5993,11 @@ fc.gl.			3600	IN	NS	ns-cloud-d1.googledomains.com.
 fc.gl.			3600	IN	NS	ns-cloud-d2.googledomains.com.
 fc.gl.			3600	IN	NS	ns-cloud-d3.googledomains.com.
 fc.gl.			3600	IN	NS	ns-cloud-d4.googledomains.com.
+fcfu.gl.		3600	IN	NS	ns0.1984.is.
+fcfu.gl.		3600	IN	NS	ns1.1984.is.
+fcfu.gl.		3600	IN	NS	ns1.1984hosting.com.
+fcfu.gl.		3600	IN	NS	ns2.1984.is.
+fcfu.gl.		3600	IN	NS	ns2.1984hosting.com.
 fe.gl.			3600	IN	NS	1-you.njalla.no.
 fe.gl.			3600	IN	NS	2-can.njalla.in.
 fe.gl.			3600	IN	NS	3-get.njalla.fo.
@@ -6270,6 +6330,11 @@ fm.gl.			3600	IN	NS	ns01.firemodules.net.
 fm.gl.			3600	IN	NS	ns02.firemodules.net.
 fm.gl.			3600	IN	NS	ns03.firemodules.net.
 fm.gl.			3600	IN	NS	ns04.firemodules.net.
+fmho.gl.		3600	IN	NS	ns0.1984.is.
+fmho.gl.		3600	IN	NS	ns1.1984.is.
+fmho.gl.		3600	IN	NS	ns1.1984hosting.com.
+fmho.gl.		3600	IN	NS	ns2.1984.is.
+fmho.gl.		3600	IN	NS	ns2.1984hosting.com.
 fms.gl.			3600	IN	NS	ns1.netim.net.
 fms.gl.			3600	IN	NS	ns2.netim.net.
 fms.gl.			3600	IN	NS	ns3.netim.net.
@@ -6393,6 +6458,11 @@ fp.gl.			3600	IN	NS	ns-cloud-e1.googledomains.com.
 fp.gl.			3600	IN	NS	ns-cloud-e2.googledomains.com.
 fp.gl.			3600	IN	NS	ns-cloud-e3.googledomains.com.
 fp.gl.			3600	IN	NS	ns-cloud-e4.googledomains.com.
+fpps.gl.		3600	IN	NS	ns0.1984.is.
+fpps.gl.		3600	IN	NS	ns1.1984.is.
+fpps.gl.		3600	IN	NS	ns1.1984hosting.com.
+fpps.gl.		3600	IN	NS	ns2.1984.is.
+fpps.gl.		3600	IN	NS	ns2.1984hosting.com.
 fpu.gl.			3600	IN	NS	art.ns.cloudflare.com.
 fpu.gl.			3600	IN	NS	ainsley.ns.cloudflare.com.
 fr.gl.			3600	IN	NS	ns1.dan.com.
@@ -7389,6 +7459,8 @@ greenlandmonitor.gl.	3600	IN	NS	ns3.simply.com.
 greenlandmonitor.gl.	3600	IN	DS	31202 13 2 4DB1AD4625125E76AECEEFB4EDF43F157A01DEADA828D115B1179E05 7E0EE361
 greenlandmonitor.gl.	3600	IN	DS	31202 13 4 1880A02432E41183602C812ECEB777B68DB0D7BFFC2229B54C03349B 6FB0F27186DCBAFD1578781CF68B0ECE35D0D210
 greenlandmonitor.gl.	3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. FWiaQPQEnKTZvlfnSk0S/3T/b2NdI9LetT458VZi9k67VaHQ4G7UJHmv moBZqaJB45KNsDo/cQEQpas+k7PWCozCogIHWIwT/xXOkiOkuBS+QS5S vXAs0bz8uGJI+jmBJZZkLthiZ/Cty9QJGkyqJtnZMuBVrKZr/YMDYCP1 ylm/vw90eW3MbMMn0S235KAPDwY0SWzTK6OXDXNPqTcE2pCtm5oizpwo 7jh9qszyAUFmcb9TC8vsjA07nyS7iOylsHz9N/yrHkxPZIJ8JerHQfqf Z/6gCreY25xnMRh4oGJ/9JfFK1EOgfz/cmbOwxV3CFmXyoJAC0xt6SpM ONHijA==
+greenlandnews.gl.	3600	IN	NS	leah.ns.cloudflare.com.
+greenlandnews.gl.	3600	IN	NS	pablo.ns.cloudflare.com.
 greenlandpolice.gl.	3600	IN	NS	udns1.cscdns.net.
 greenlandpolice.gl.	3600	IN	NS	udns2.cscdns.uk.
 greenlandprojects.gl.	3600	IN	NS	ns1.aputit.gl.
@@ -7620,6 +7692,11 @@ gtf.gl.			3600	IN	NS	c.hosting.gl.
 gtf.gl.			3600	IN	NS	d.hosting.gl.
 gtfo.gl.		3600	IN	NS	ns1.dnshost.net.
 gtfo.gl.		3600	IN	NS	ns2.dnshost.net.
+gtgn.gl.		3600	IN	NS	ns0.1984.is.
+gtgn.gl.		3600	IN	NS	ns1.1984.is.
+gtgn.gl.		3600	IN	NS	ns1.1984hosting.com.
+gtgn.gl.		3600	IN	NS	ns2.1984.is.
+gtgn.gl.		3600	IN	NS	ns2.1984hosting.com.
 gts.gl.			3600	IN	NS	ns1.hosting.inuit.gl.
 gts.gl.			3600	IN	NS	ns2.hosting.inuit.gl.
 gtv.gl.			3600	IN	NS	ns01.one.com.
@@ -7838,6 +7915,11 @@ hbhair.gl.		3600	IN	NS	ns3.simply.com.
 hbhair.gl.		3600	IN	DS	48304 13 2 A327F918C65FAB9E83522F01E6753273896167DF5EBC930E7C471CC5 D735D51B
 hbhair.gl.		3600	IN	DS	48304 13 4 66A0595B6D87AFA34A15CDD012BE4091803FB9C2D6CC3BB0B69217DF 4B04F461C249AB44427568D20284B6262DA12926
 hbhair.gl.		3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. IAvvcmpsgSfxgLce+wVL/lHulZvoTS8NurYWjHk+sZ0aapAZTcp6oBK1 Dl0ETGbHLjC5MutN4183aWhq26o5EWs5LK4NWGdJZliDCO5k0dzikK6I lkwUkIelV+qOZ5zqBCBnFj0PgwJSGLVl2pmpv9yIvBK26c1tmAyncpuI bx+XuCdYnFzZY1PP1mhmoGPYU7QB3voQn+QS7ypDsuOGYH7LmYFM3KX1 mtFC47uzF5YBHy8uw8TfDoFcXm0HaGYPCaJxDut+AsPwm/cWAhYY4lXC e1Y91nGPOUmaQiEdJzXE/dbkr92jUZH/FsPOhGpQQF5vicY08QQWFsmY yUXmsg==
+hbjk.gl.		3600	IN	NS	ns0.1984.is.
+hbjk.gl.		3600	IN	NS	ns1.1984.is.
+hbjk.gl.		3600	IN	NS	ns1.1984hosting.com.
+hbjk.gl.		3600	IN	NS	ns2.1984.is.
+hbjk.gl.		3600	IN	NS	ns2.1984hosting.com.
 hbomax.gl.		3600	IN	NS	ns1.markmonitor.com.
 hbomax.gl.		3600	IN	NS	ns2.markmonitor.com.
 hbomax.gl.		3600	IN	NS	ns3.markmonitor.com.
@@ -7877,6 +7959,11 @@ heilmann.gl.		3600	IN	NS	ns3.dandomain.dk.
 heimatstadt.gl.		3600	IN	NS	ns.udag.de.
 heimatstadt.gl.		3600	IN	NS	ns.udag.net.
 heimatstadt.gl.		3600	IN	NS	ns.udag.org.
+heiw.gl.		3600	IN	NS	ns0.1984.is.
+heiw.gl.		3600	IN	NS	ns1.1984.is.
+heiw.gl.		3600	IN	NS	ns1.1984hosting.com.
+heiw.gl.		3600	IN	NS	ns2.1984.is.
+heiw.gl.		3600	IN	NS	ns2.1984hosting.com.
 helicopter.gl.		3600	IN	NS	a.hosting.gl.
 helicopter.gl.		3600	IN	NS	b.hosting.gl.
 helicopter.gl.		3600	IN	NS	c.hosting.gl.
@@ -8025,6 +8112,11 @@ hjhansenvin.gl.		3600	IN	NS	c.ns14.net.
 hjhansenvin.gl.		3600	IN	NS	d.ns14.net.
 hjtek.gl.		3600	IN	NS	ns1.hosting.inuit.gl.
 hjtek.gl.		3600	IN	NS	ns2.hosting.inuit.gl.
+hjur.gl.		3600	IN	NS	ns0.1984.is.
+hjur.gl.		3600	IN	NS	ns1.1984.is.
+hjur.gl.		3600	IN	NS	ns1.1984hosting.com.
+hjur.gl.		3600	IN	NS	ns2.1984.is.
+hjur.gl.		3600	IN	NS	ns2.1984hosting.com.
 hk.gl.			3600	IN	NS	ns-11.awsdns-01.com.
 hk.gl.			3600	IN	NS	ns-831.awsdns-39.net.
 hk.gl.			3600	IN	NS	ns-1041.awsdns-02.org.
@@ -8049,6 +8141,11 @@ hktransport.gl.		3600	IN	NS	c.hosting.gl.
 hktransport.gl.		3600	IN	NS	d.hosting.gl.
 hl.gl.			3600	IN	NS	jason.ns.cloudflare.com.
 hl.gl.			3600	IN	NS	cheryl.ns.cloudflare.com.
+hlqv.gl.		3600	IN	NS	ns0.1984.is.
+hlqv.gl.		3600	IN	NS	ns1.1984.is.
+hlqv.gl.		3600	IN	NS	ns1.1984hosting.com.
+hlqv.gl.		3600	IN	NS	ns2.1984.is.
+hlqv.gl.		3600	IN	NS	ns2.1984hosting.com.
 hm.gl.			3600	IN	NS	a5-65.akam.net.
 hm.gl.			3600	IN	NS	a8-66.akam.net.
 hm.gl.			3600	IN	NS	a1-139.akam.net.
@@ -8377,6 +8474,11 @@ ht.gl.			3600	IN	NS	tara.ns.cloudflare.com.
 ht.gl.			3600	IN	NS	mitch.ns.cloudflare.com.
 hth.gl.			3600	IN	NS	udns1.cscdns.net.
 hth.gl.			3600	IN	NS	udns2.cscdns.uk.
+htmc.gl.		3600	IN	NS	ns0.1984.is.
+htmc.gl.		3600	IN	NS	ns1.1984.is.
+htmc.gl.		3600	IN	NS	ns1.1984hosting.com.
+htmc.gl.		3600	IN	NS	ns2.1984.is.
+htmc.gl.		3600	IN	NS	ns2.1984hosting.com.
 http-bclub.gl.		3600	IN	NS	ns3.my-ndns.com.
 http-bclub.gl.		3600	IN	NS	ns4.my-ndns.com.
 https-bclub.gl.		3600	IN	NS	ns3.my-ndns.com.
@@ -8576,6 +8678,11 @@ ido.gl.			3600	IN	NS	ns-16-a.gandi.net.
 ido.gl.			3600	IN	NS	ns-186-c.gandi.net.
 idservice.gl.		3600	IN	NS	dns1.cscdns.net.
 idservice.gl.		3600	IN	NS	dns2.cscdns.net.
+iesf.gl.		3600	IN	NS	ns0.1984.is.
+iesf.gl.		3600	IN	NS	ns1.1984.is.
+iesf.gl.		3600	IN	NS	ns1.1984hosting.com.
+iesf.gl.		3600	IN	NS	ns2.1984.is.
+iesf.gl.		3600	IN	NS	ns2.1984hosting.com.
 if.gl.			3600	IN	NS	ns2.if.fi.
 if.gl.			3600	IN	NS	ns4.if.fi.
 if.gl.			3600	IN	NS	ns1-04.azure-dns.com.
@@ -8670,9 +8777,19 @@ ii.gl.			3600	IN	NS	ns-1737.awsdns-25.co.uk.
 iigiti.gl.		3600	IN	NS	ns1.netim.net.
 iigiti.gl.		3600	IN	NS	ns2.netim.net.
 iigiti.gl.		3600	IN	NS	ns3.netim.net.
+iimk.gl.		3600	IN	NS	ns0.1984.is.
+iimk.gl.		3600	IN	NS	ns1.1984.is.
+iimk.gl.		3600	IN	NS	ns1.1984hosting.com.
+iimk.gl.		3600	IN	NS	ns2.1984.is.
+iimk.gl.		3600	IN	NS	ns2.1984hosting.com.
 iin.gl.			3600	IN	NS	ns1.modulo.gl.
 iin.gl.			3600	IN	NS	ns2.modulo.gl.
 iin.gl.			3600	IN	NS	ns3.modulo.gl.
+ijpg.gl.		3600	IN	NS	ns0.1984.is.
+ijpg.gl.		3600	IN	NS	ns1.1984.is.
+ijpg.gl.		3600	IN	NS	ns1.1984hosting.com.
+ijpg.gl.		3600	IN	NS	ns2.1984.is.
+ijpg.gl.		3600	IN	NS	ns2.1984hosting.com.
 ik.gl.			3600	IN	NS	ns5.indis.de.
 ik.gl.			3600	IN	NS	ns6.indis.de.
 ik.gl.			3600	IN	NS	ns7.indis.de.
@@ -8936,6 +9053,11 @@ ims.gl.			3600	IN	NS	ns1.beget.com.
 ims.gl.			3600	IN	NS	ns1.beget.pro.
 ims.gl.			3600	IN	NS	ns2.beget.com.
 ims.gl.			3600	IN	NS	ns2.beget.pro.
+imwl.gl.		3600	IN	NS	ns0.1984.is.
+imwl.gl.		3600	IN	NS	ns1.1984.is.
+imwl.gl.		3600	IN	NS	ns1.1984hosting.com.
+imwl.gl.		3600	IN	NS	ns2.1984.is.
+imwl.gl.		3600	IN	NS	ns2.1984hosting.com.
 in.gl.			3600	IN	NS	pat.ns.cloudflare.com.
 in.gl.			3600	IN	NS	will.ns.cloudflare.com.
 ina.gl.			3600	IN	NS	ns1.nukik.it.
@@ -9561,6 +9683,11 @@ iw.gl.			3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. Ue7ka
 ix.gl.			3600	IN	NS	ns.udag.de.
 ix.gl.			3600	IN	NS	ns.udag.net.
 ix.gl.			3600	IN	NS	ns.udag.org.
+ixhc.gl.		3600	IN	NS	ns0.1984.is.
+ixhc.gl.		3600	IN	NS	ns1.1984.is.
+ixhc.gl.		3600	IN	NS	ns1.1984hosting.com.
+ixhc.gl.		3600	IN	NS	ns2.1984.is.
+ixhc.gl.		3600	IN	NS	ns2.1984hosting.com.
 iy.gl.			3600	IN	NS	a.hosting.gl.
 iy.gl.			3600	IN	NS	b.hosting.gl.
 iy.gl.			3600	IN	NS	c.hosting.gl.
@@ -9748,6 +9875,11 @@ jkr.gl.			3600	IN	NS	ns1.iwantmyname.net.
 jkr.gl.			3600	IN	NS	ns2.iwantmyname.net.
 jkr.gl.			3600	IN	NS	ns3.iwantmyname.net.
 jkr.gl.			3600	IN	NS	ns4.iwantmyname.net.
+jksh.gl.		3600	IN	NS	ns0.1984.is.
+jksh.gl.		3600	IN	NS	ns1.1984.is.
+jksh.gl.		3600	IN	NS	ns1.1984hosting.com.
+jksh.gl.		3600	IN	NS	ns2.1984.is.
+jksh.gl.		3600	IN	NS	ns2.1984hosting.com.
 jl.gl.			3600	IN	NS	ns01.one.com.
 jl.gl.			3600	IN	NS	ns02.one.com.
 jm.gl.			3600	IN	NS	ns1.cloudintegral.com.
@@ -9852,6 +9984,11 @@ jrcc.gl.		3600	IN	NS	a.hosting.gl.
 jrcc.gl.		3600	IN	NS	b.hosting.gl.
 jrcc.gl.		3600	IN	NS	c.hosting.gl.
 jrcc.gl.		3600	IN	NS	d.hosting.gl.
+jrjv.gl.		3600	IN	NS	ns0.1984.is.
+jrjv.gl.		3600	IN	NS	ns1.1984.is.
+jrjv.gl.		3600	IN	NS	ns1.1984hosting.com.
+jrjv.gl.		3600	IN	NS	ns2.1984.is.
+jrjv.gl.		3600	IN	NS	ns2.1984hosting.com.
 jrkce.gl.		3600	IN	NS	ns0.1984.is.
 jrkce.gl.		3600	IN	NS	ns1.1984.is.
 jrkce.gl.		3600	IN	NS	ns1.1984hosting.com.
@@ -9943,6 +10080,11 @@ jw.gl.			3600	IN	NS	ns1.iwantmyname.net.
 jw.gl.			3600	IN	NS	ns2.iwantmyname.net.
 jw.gl.			3600	IN	NS	ns3.iwantmyname.net.
 jw.gl.			3600	IN	NS	ns4.iwantmyname.net.
+jxea.gl.		3600	IN	NS	ns0.1984.is.
+jxea.gl.		3600	IN	NS	ns1.1984.is.
+jxea.gl.		3600	IN	NS	ns1.1984hosting.com.
+jxea.gl.		3600	IN	NS	ns2.1984.is.
+jxea.gl.		3600	IN	NS	ns2.1984hosting.com.
 jxnmo.gl.		3600	IN	NS	ns0.1984.is.
 jxnmo.gl.		3600	IN	NS	ns1.1984.is.
 jxnmo.gl.		3600	IN	NS	ns1.1984hosting.com.
@@ -10431,12 +10573,22 @@ kivitsisuuvugut.gl.	3600	IN	NS	ns3.nunahosting.net.
 kivitsisuuvugut.gl.	3600	IN	NS	ns4.nunahosting.net.
 kj.gl.			3600	IN	NS	ns1.curanet.dk.
 kj.gl.			3600	IN	NS	ns2.curanet.dk.
+kjcl.gl.		3600	IN	NS	ns0.1984.is.
+kjcl.gl.		3600	IN	NS	ns1.1984.is.
+kjcl.gl.		3600	IN	NS	ns1.1984hosting.com.
+kjcl.gl.		3600	IN	NS	ns2.1984.is.
+kjcl.gl.		3600	IN	NS	ns2.1984hosting.com.
 kk.gl.			3600	IN	NS	ns1.messagingengine.com.
 kk.gl.			3600	IN	NS	ns2.messagingengine.com.
 kk2.gl.			3600	IN	NS	logan.ns.cloudflare.com.
 kk2.gl.			3600	IN	NS	josephine.ns.cloudflare.com.
 kkengros.gl.		3600	IN	NS	ns1.hosting.inuit.gl.
 kkengros.gl.		3600	IN	NS	ns2.hosting.inuit.gl.
+kkmd.gl.		3600	IN	NS	ns0.1984.is.
+kkmd.gl.		3600	IN	NS	ns1.1984.is.
+kkmd.gl.		3600	IN	NS	ns1.1984hosting.com.
+kkmd.gl.		3600	IN	NS	ns2.1984.is.
+kkmd.gl.		3600	IN	NS	ns2.1984hosting.com.
 kkra10.gl.		3600	IN	NS	coen.ns.cloudflare.com.
 kkra10.gl.		3600	IN	NS	karina.ns.cloudflare.com.
 kkra11.gl.		3600	IN	NS	leif.ns.cloudflare.com.
@@ -10985,6 +11137,11 @@ kryger.gl.		3600	IN	NS	ns3.simply.com.
 kryger.gl.		3600	IN	DS	44530 13 2 63411F47C23D930D017A1D39665607B91C66606C0F7604F14729E671 9078FC7C
 kryger.gl.		3600	IN	DS	44530 13 4 753C603B085A0E15710FD69D61ECF2CD981FCAAC3DD009371ED626EC B8C9AB691A51A3C1FEF7F12FB35EDE697FE96C35
 kryger.gl.		3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. jNwt2r/JoHcTPnqVLsE83qT4XHOTS0dBXXh2qgWNp4NmYArqoNZamo+H ZAAcmyYUezTLY90jo9tpKBdncFIR0yiEP65pKeQM9urhHSB+72bG6wV9 BxNB6D/+xx86/kLL0VD1cPMMDeL5F1wOSQ0tqMWLu4uZKz1bvwjbkV8q IRgm5Q+kXPVWDtHqDCaZXECkdKIPUpmMqzesQWo1DsUCQMdUQvgJ0Xs6 50TPiPBf15ybAg+Uicu7+/rZqutrMp19lkNPvxLGzTzwsFPUV5g2otcI AeYg7dp/ckK4mSCWuA33fVDszLw+0CPdIxxtCGLOhWxJuSLbB5HaewKt obxANQ==
+kryn.gl.		3600	IN	NS	ns0.1984.is.
+kryn.gl.		3600	IN	NS	ns1.1984.is.
+kryn.gl.		3600	IN	NS	ns1.1984hosting.com.
+kryn.gl.		3600	IN	NS	ns2.1984.is.
+kryn.gl.		3600	IN	NS	ns2.1984hosting.com.
 ks.gl.			3600	IN	NS	ns1.ifastnet5.org.
 ks.gl.			3600	IN	NS	ns2.ifastnet5.org.
 ksaps.gl.		3600	IN	NS	ns1.simply.com.
@@ -11106,6 +11263,11 @@ kvk.gl.			3600	IN	NS	a.hosting.gl.
 kvk.gl.			3600	IN	NS	b.hosting.gl.
 kvk.gl.			3600	IN	NS	c.hosting.gl.
 kvk.gl.			3600	IN	NS	d.hosting.gl.
+kylh.gl.		3600	IN	NS	ns0.1984.is.
+kylh.gl.		3600	IN	NS	ns1.1984.is.
+kylh.gl.		3600	IN	NS	ns1.1984hosting.com.
+kylh.gl.		3600	IN	NS	ns2.1984.is.
+kylh.gl.		3600	IN	NS	ns2.1984hosting.com.
 kylling.gl.		3600	IN	NS	a.hosting.gl.
 kylling.gl.		3600	IN	NS	b.hosting.gl.
 kylling.gl.		3600	IN	NS	c.hosting.gl.
@@ -11757,6 +11919,16 @@ lra5.gl.		3600	IN	NS	eu.atakdomain.com.
 lra5.gl.		3600	IN	NS	tr.atakdomain.com.
 lra6.gl.		3600	IN	NS	eu.atakdomain.com.
 lra6.gl.		3600	IN	NS	tr.atakdomain.com.
+lrcu.gl.		3600	IN	NS	ns0.1984.is.
+lrcu.gl.		3600	IN	NS	ns1.1984.is.
+lrcu.gl.		3600	IN	NS	ns1.1984hosting.com.
+lrcu.gl.		3600	IN	NS	ns2.1984.is.
+lrcu.gl.		3600	IN	NS	ns2.1984hosting.com.
+lrsh.gl.		3600	IN	NS	ns0.1984.is.
+lrsh.gl.		3600	IN	NS	ns1.1984.is.
+lrsh.gl.		3600	IN	NS	ns1.1984hosting.com.
+lrsh.gl.		3600	IN	NS	ns2.1984.is.
+lrsh.gl.		3600	IN	NS	ns2.1984hosting.com.
 ls.gl.			3600	IN	NS	1-you.njalla.no.
 ls.gl.			3600	IN	NS	2-can.njalla.in.
 ls.gl.			3600	IN	NS	3-get.njalla.fo.
@@ -11766,6 +11938,11 @@ lsg.gl.			3600	IN	NS	ns3.simply.com.
 lsg.gl.			3600	IN	NS	ns4.simply.com.
 ltd.gl.			3600	IN	NS	ns1.cybernetpro.com.
 ltd.gl.			3600	IN	NS	ns2.cybernetpro.com.
+ltdt.gl.		3600	IN	NS	ns0.1984.is.
+ltdt.gl.		3600	IN	NS	ns1.1984.is.
+ltdt.gl.		3600	IN	NS	ns1.1984hosting.com.
+ltdt.gl.		3600	IN	NS	ns2.1984.is.
+ltdt.gl.		3600	IN	NS	ns2.1984hosting.com.
 ltinvest.gl.		3600	IN	NS	ns1.simply.com.
 ltinvest.gl.		3600	IN	NS	ns2.simply.com.
 ltinvest.gl.		3600	IN	NS	ns3.simply.com.
@@ -13032,6 +13209,11 @@ mrcharter.gl.		3600	IN	NS	a.hosting.gl.
 mrcharter.gl.		3600	IN	NS	b.hosting.gl.
 mrcharter.gl.		3600	IN	NS	c.hosting.gl.
 mrcharter.gl.		3600	IN	NS	d.hosting.gl.
+mrgp.gl.		3600	IN	NS	ns0.1984.is.
+mrgp.gl.		3600	IN	NS	ns1.1984.is.
+mrgp.gl.		3600	IN	NS	ns1.1984hosting.com.
+mrgp.gl.		3600	IN	NS	ns2.1984.is.
+mrgp.gl.		3600	IN	NS	ns2.1984hosting.com.
 mrtn.gl.		3600	IN	NS	todd.ns.cloudflare.com.
 mrtn.gl.		3600	IN	NS	ollie.ns.cloudflare.com.
 mrvegas.gl.		3600	IN	NS	ns1.dnshost.net.
@@ -13054,6 +13236,11 @@ msn.gl.			3600	IN	NS	ns1-03.azure-dns.com.
 msn.gl.			3600	IN	NS	ns2-03.azure-dns.net.
 msn.gl.			3600	IN	NS	ns3-03.azure-dns.org.
 msn.gl.			3600	IN	NS	ns4-03.azure-dns.info.
+mspx.gl.		3600	IN	NS	ns0.1984.is.
+mspx.gl.		3600	IN	NS	ns1.1984.is.
+mspx.gl.		3600	IN	NS	ns1.1984hosting.com.
+mspx.gl.		3600	IN	NS	ns2.1984.is.
+mspx.gl.		3600	IN	NS	ns2.1984hosting.com.
 mt.gl.			3600	IN	NS	a.hosting.gl.
 mt.gl.			3600	IN	NS	b.hosting.gl.
 mt.gl.			3600	IN	NS	c.hosting.gl.
@@ -14335,6 +14522,16 @@ nplaser.gl.		3600	IN	NS	ns3.simply.com.
 nplaser.gl.		3600	IN	DS	28945 13 2 6292893C1B15D6881273791B7C3A48FE9EB61533DC1A6643BF58521A 997EE142
 nplaser.gl.		3600	IN	DS	28945 13 4 553B8D1FC0044C21DD0F036E06CD52335ECC6C8E7981A4451FBA08E9 8028AFCCEAB853659DF848564B66EE64246F8E50
 nplaser.gl.		3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. OZSGKJbUYoaCfNxRyJfT+IrB5RS0eb2VpprNrGfj46UnWWWqGSpoM3wD 5pwFUMB0VGQa1mbNGz+n/uUlZxcw74PziPNWkNeqUW6+KOFvydDh5pJq zhyVPPRRTTNJf/hC9IhWxCF5sT8TXtMWFcR7rx8ww63OfPuPofkv+cBV WmEqS2uwdZWPxl2wthkGIHLvZ0khhFX3NYuazepNaY0mTiyv09FUcILX tL5Fg27ghrkyMHakXxjsfuf2S+62DEPCUyC8shvszmMQcrdKvY7j0QGv 75ErPLgrm8kRhnmQDXByh7t8xSM7gxKB1viRlBPTs0Oj05TwLHoobO86 KIHh2Q==
+nqng.gl.		3600	IN	NS	ns0.1984.is.
+nqng.gl.		3600	IN	NS	ns1.1984.is.
+nqng.gl.		3600	IN	NS	ns1.1984hosting.com.
+nqng.gl.		3600	IN	NS	ns2.1984.is.
+nqng.gl.		3600	IN	NS	ns2.1984hosting.com.
+nqwe.gl.		3600	IN	NS	ns0.1984.is.
+nqwe.gl.		3600	IN	NS	ns1.1984.is.
+nqwe.gl.		3600	IN	NS	ns1.1984hosting.com.
+nqwe.gl.		3600	IN	NS	ns2.1984.is.
+nqwe.gl.		3600	IN	NS	ns2.1984hosting.com.
 ns.gl.			3600	IN	NS	ns3.epik.com.
 ns.gl.			3600	IN	NS	ns4.epik.com.
 ns84.gl.		3600	IN	NS	ns1.gigahost.dk.
@@ -14375,6 +14572,11 @@ nuance.gl.		3600	IN	NS	ns.bnamed.uk.
 nuance.gl.		3600	IN	NS	ns.bnamed.us.
 nuance.gl.		3600	IN	NS	ns.nscluster.cz.
 nuance.gl.		3600	IN	NS	ns.nscluster.ru.
+nuau.gl.		3600	IN	NS	ns0.1984.is.
+nuau.gl.		3600	IN	NS	ns1.1984.is.
+nuau.gl.		3600	IN	NS	ns1.1984hosting.com.
+nuau.gl.		3600	IN	NS	ns2.1984.is.
+nuau.gl.		3600	IN	NS	ns2.1984hosting.com.
 nuiaq.gl.		3600	IN	NS	ns1.simply.com.
 nuiaq.gl.		3600	IN	NS	ns2.simply.com.
 nuiaq.gl.		3600	IN	NS	ns3.simply.com.
@@ -15420,6 +15622,16 @@ oxtorrent.gl.		3600	IN	NS	meiling.ns.cloudflare.com.
 oy.gl.			3600	IN	NS	ns-26-c.gandi.net.
 oy.gl.			3600	IN	NS	ns-186-b.gandi.net.
 oy.gl.			3600	IN	NS	ns-240-a.gandi.net.
+oyet.gl.		3600	IN	NS	ns0.1984.is.
+oyet.gl.		3600	IN	NS	ns1.1984.is.
+oyet.gl.		3600	IN	NS	ns1.1984hosting.com.
+oyet.gl.		3600	IN	NS	ns2.1984.is.
+oyet.gl.		3600	IN	NS	ns2.1984hosting.com.
+oyvk.gl.		3600	IN	NS	ns0.1984.is.
+oyvk.gl.		3600	IN	NS	ns1.1984.is.
+oyvk.gl.		3600	IN	NS	ns1.1984hosting.com.
+oyvk.gl.		3600	IN	NS	ns2.1984.is.
+oyvk.gl.		3600	IN	NS	ns2.1984hosting.com.
 oz.gl.			3600	IN	NS	ns1.netim.net.
 oz.gl.			3600	IN	NS	ns2.netim.net.
 oz.gl.			3600	IN	NS	ns3.netim.net.
@@ -15620,6 +15832,16 @@ pcs.gl.			3600	IN	NS	ns3.netzone.ch.
 pcs.gl.			3600	IN	DS	8617 8 2 F1BE8C8D6C17E95D3A7CA2C203DE427BB594480506B361B6EEDC813B FEFC29C7
 pcs.gl.			3600	IN	DS	51601 8 2 578AF42A6B84C3733F41D2D02CEA9B706B7FA76C9038A7CBC42682CA F3CECADE
 pcs.gl.			3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. i3MEwV8iewml53+qFkFXBCsnpv6tmV7fZ1onjSgv+bVHaqBo9k8uh6AD yd0B45C3tdrVROR22FBIRup6sdAEq1L1DrOjqvYp+/a/LQ/juv+Wva5j c0MIPT11Om4D04pHQpyDCpXKfJJzBfjvTMjpClT1lZ6qfHKaz7LvBe79 Eo4IDMcPUOjhUwqvc8w5k6cl6IHDM7BqgF96aQMRg07TgBi5DLUzsbAi xMq9Mt4cHpYB+20jqYZz4R0oh1O5WoMdizms8CzkBbU4rqCg9/2frnNf 4HRoPdTZL0q7S290HyMS/5lea3o9FAxbuvtdQwipsLVZrwKRcrmx2qSd ShyAJQ==
+pcuu.gl.		3600	IN	NS	ns0.1984.is.
+pcuu.gl.		3600	IN	NS	ns1.1984.is.
+pcuu.gl.		3600	IN	NS	ns1.1984hosting.com.
+pcuu.gl.		3600	IN	NS	ns2.1984.is.
+pcuu.gl.		3600	IN	NS	ns2.1984hosting.com.
+pdbm.gl.		3600	IN	NS	ns0.1984.is.
+pdbm.gl.		3600	IN	NS	ns1.1984.is.
+pdbm.gl.		3600	IN	NS	ns1.1984hosting.com.
+pdbm.gl.		3600	IN	NS	ns2.1984.is.
+pdbm.gl.		3600	IN	NS	ns2.1984hosting.com.
 pe.gl.			3600	IN	NS	ns1.simply.com.
 pe.gl.			3600	IN	NS	ns2.simply.com.
 pe.gl.			3600	IN	NS	ns3.simply.com.
@@ -15761,6 +15983,11 @@ philipmorris.gl.	3600	IN	NS	ns7.markmonitor.com.
 philips.gl.		3600	IN	NS	ns1.ext.philips.com.
 philips.gl.		3600	IN	NS	ns2.ext.philips.com.
 philips.gl.		3600	IN	NS	ns3.ext.philips.com.
+phjs.gl.		3600	IN	NS	ns0.1984.is.
+phjs.gl.		3600	IN	NS	ns1.1984.is.
+phjs.gl.		3600	IN	NS	ns1.1984hosting.com.
+phjs.gl.		3600	IN	NS	ns2.1984.is.
+phjs.gl.		3600	IN	NS	ns2.1984hosting.com.
 phonixtag.gl.		3600	IN	NS	a.portsdns.se.
 phonixtag.gl.		3600	IN	NS	b.portsdns.net.
 photo.gl.		3600	IN	NS	a.hosting.gl.
@@ -16606,6 +16833,11 @@ qeqqu.gl.		3600	IN	NS	ns3.simply.com.
 qeqqu.gl.		3600	IN	DS	46406 13 2 480C671BE1135580A98E6D292160C2963BA0D0B210C39C9484307F3D B4DAA0E2
 qeqqu.gl.		3600	IN	DS	46406 13 4 F8E835E019475203C1582E4E3A2C4D998D34F472B7B6FE3BA27EE665 E7CE057223AB64E4DED6603EA30981AFF88D2B4F
 qeqqu.gl.		3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. NS018RPaUTpeywGzRaiU478DvnjTryi+CdyXoxPWCDJ+NWjbRl5aWemv aZ8MzZoOKIespbxsUdR+bLW2TtI5FPPCd2YkTbB+9CsPJSiDkpTGDG/a ky0tFiRpIi0YeHbhvqk+Yza/mnIKz/FnmlywvUr0a7zy+Hi2X5iyOYVx UOZy3tamRQ0RvjNzP9aAQI+MwdfXXhabpDBMJK/0aR49SPmuDBwvjnQM X/JBjxfgptTz9RnrO3Sw3C4MOggSeDrurod6QdjkvyYOOQ3/EkqQtQIZ s9GTiflhoGvijurvWtNPuJN535Sp3sreox1RN1X/CuXoxgT1lFLctizM y5/o3g==
+qesk.gl.		3600	IN	NS	ns0.1984.is.
+qesk.gl.		3600	IN	NS	ns1.1984.is.
+qesk.gl.		3600	IN	NS	ns1.1984hosting.com.
+qesk.gl.		3600	IN	NS	ns2.1984.is.
+qesk.gl.		3600	IN	NS	ns2.1984hosting.com.
 qg.gl.			3600	IN	NS	anna.ns.cloudflare.com.
 qg.gl.			3600	IN	NS	kanye.ns.cloudflare.com.
 qgin.gl.		3600	IN	NS	a.hosting.gl.
@@ -16748,12 +16980,22 @@ qvist.gl.		3600	IN	NS	a.hosting.gl.
 qvist.gl.		3600	IN	NS	b.hosting.gl.
 qvist.gl.		3600	IN	NS	c.hosting.gl.
 qvist.gl.		3600	IN	NS	d.hosting.gl.
+qvmw.gl.		3600	IN	NS	ns0.1984.is.
+qvmw.gl.		3600	IN	NS	ns1.1984.is.
+qvmw.gl.		3600	IN	NS	ns1.1984hosting.com.
+qvmw.gl.		3600	IN	NS	ns2.1984.is.
+qvmw.gl.		3600	IN	NS	ns2.1984hosting.com.
 qvodka.gl.		3600	IN	NS	a.hosting.gl.
 qvodka.gl.		3600	IN	NS	b.hosting.gl.
 qvodka.gl.		3600	IN	NS	c.hosting.gl.
 qvodka.gl.		3600	IN	NS	d.hosting.gl.
 qw.gl.			3600	IN	NS	ns1.bdydns.cn.
 qw.gl.			3600	IN	NS	ns2.bdydns.cn.
+qwxt.gl.		3600	IN	NS	ns0.1984.is.
+qwxt.gl.		3600	IN	NS	ns1.1984.is.
+qwxt.gl.		3600	IN	NS	ns1.1984hosting.com.
+qwxt.gl.		3600	IN	NS	ns2.1984.is.
+qwxt.gl.		3600	IN	NS	ns2.1984hosting.com.
 qx.gl.			3600	IN	NS	ns1.iwantmyname.net.
 qx.gl.			3600	IN	NS	ns2.iwantmyname.net.
 qx.gl.			3600	IN	NS	ns3.iwantmyname.net.
@@ -16766,6 +17008,16 @@ qxpur.gl.		3600	IN	NS	toby.ns.cloudflare.com.
 qxpur.gl.		3600	IN	NS	vida.ns.cloudflare.com.
 qz.gl.			3600	IN	NS	dean.ns.cloudflare.com.
 qz.gl.			3600	IN	NS	zara.ns.cloudflare.com.
+qzem.gl.		3600	IN	NS	ns0.1984.is.
+qzem.gl.		3600	IN	NS	ns1.1984.is.
+qzem.gl.		3600	IN	NS	ns1.1984hosting.com.
+qzem.gl.		3600	IN	NS	ns2.1984.is.
+qzem.gl.		3600	IN	NS	ns2.1984hosting.com.
+qzmf.gl.		3600	IN	NS	ns0.1984.is.
+qzmf.gl.		3600	IN	NS	ns1.1984.is.
+qzmf.gl.		3600	IN	NS	ns1.1984hosting.com.
+qzmf.gl.		3600	IN	NS	ns2.1984.is.
+qzmf.gl.		3600	IN	NS	ns2.1984hosting.com.
 qzrxy.gl.		3600	IN	NS	ns0.1984.is.
 qzrxy.gl.		3600	IN	NS	ns1.1984.is.
 qzrxy.gl.		3600	IN	NS	ns1.1984hosting.com.
@@ -16901,6 +17153,11 @@ redhat.gl.		3600	IN	NS	dns1.p01.nsone.net.
 redhat.gl.		3600	IN	NS	dns2.p01.nsone.net.
 redhat.gl.		3600	IN	NS	dns3.p01.nsone.net.
 redhat.gl.		3600	IN	NS	dns4.p01.nsone.net.
+redj.gl.		3600	IN	NS	ns0.1984.is.
+redj.gl.		3600	IN	NS	ns1.1984.is.
+redj.gl.		3600	IN	NS	ns1.1984hosting.com.
+redj.gl.		3600	IN	NS	ns2.1984.is.
+redj.gl.		3600	IN	NS	ns2.1984hosting.com.
 redtracker.gl.		3600	IN	NS	aria.ns.cloudflare.com.
 redtracker.gl.		3600	IN	NS	felipe.ns.cloudflare.com.
 redtracker1.gl.		3600	IN	NS	aria.ns.cloudflare.com.
@@ -17093,6 +17350,11 @@ rhbaf.gl.		3600	IN	NS	ns1.1984.is.
 rhbaf.gl.		3600	IN	NS	ns1.1984hosting.com.
 rhbaf.gl.		3600	IN	NS	ns2.1984.is.
 rhbaf.gl.		3600	IN	NS	ns2.1984hosting.com.
+rhbe.gl.		3600	IN	NS	ns0.1984.is.
+rhbe.gl.		3600	IN	NS	ns1.1984.is.
+rhbe.gl.		3600	IN	NS	ns1.1984hosting.com.
+rhbe.gl.		3600	IN	NS	ns2.1984.is.
+rhbe.gl.		3600	IN	NS	ns2.1984hosting.com.
 rhk.gl.			3600	IN	NS	ns1.gigahost.dk.
 rhk.gl.			3600	IN	NS	ns2.gigahost.dk.
 rhk.gl.			3600	IN	NS	ns3.gigahost.dk.
@@ -17347,6 +17609,11 @@ rxkqu.gl.		3600	IN	NS	ns1.1984.is.
 rxkqu.gl.		3600	IN	NS	ns1.1984hosting.com.
 rxkqu.gl.		3600	IN	NS	ns2.1984.is.
 rxkqu.gl.		3600	IN	NS	ns2.1984hosting.com.
+rxof.gl.		3600	IN	NS	ns0.1984.is.
+rxof.gl.		3600	IN	NS	ns1.1984.is.
+rxof.gl.		3600	IN	NS	ns1.1984hosting.com.
+rxof.gl.		3600	IN	NS	ns2.1984.is.
+rxof.gl.		3600	IN	NS	ns2.1984hosting.com.
 ryactla.gl.		3600	IN	NS	ns.udag.de.
 ryactla.gl.		3600	IN	NS	ns.udag.net.
 ryactla.gl.		3600	IN	NS	ns.udag.org.
@@ -17534,6 +17801,11 @@ santagreenland.gl.	3600	IN	NS	c.hosting.gl.
 santagreenland.gl.	3600	IN	NS	d.hosting.gl.
 santander.gl.		3600	IN	NS	ns1.sedoparking.com.
 santander.gl.		3600	IN	NS	ns2.sedoparking.com.
+saqw.gl.		3600	IN	NS	ns0.1984.is.
+saqw.gl.		3600	IN	NS	ns1.1984.is.
+saqw.gl.		3600	IN	NS	ns1.1984hosting.com.
+saqw.gl.		3600	IN	NS	ns2.1984.is.
+saqw.gl.		3600	IN	NS	ns2.1984hosting.com.
 sara.gl.		3600	IN	NS	a.hosting.gl.
 sara.gl.		3600	IN	NS	b.hosting.gl.
 sara.gl.		3600	IN	NS	c.hosting.gl.
@@ -18418,6 +18690,11 @@ snug.gl.		3600	IN	NS	ns3.afraid.org.
 snug.gl.		3600	IN	NS	ns4.afraid.org.
 so.gl.			3600	IN	NS	sue.ns.cloudflare.com.
 so.gl.			3600	IN	NS	jake.ns.cloudflare.com.
+soao.gl.		3600	IN	NS	ns0.1984.is.
+soao.gl.		3600	IN	NS	ns1.1984.is.
+soao.gl.		3600	IN	NS	ns1.1984hosting.com.
+soao.gl.		3600	IN	NS	ns2.1984.is.
+soao.gl.		3600	IN	NS	ns2.1984hosting.com.
 soccerway.gl.		3600	IN	NS	ns.gransy.com.
 soccerway.gl.		3600	IN	NS	ns2.gransy.com.
 soccerway.gl.		3600	IN	NS	ns3.gransy.com.
@@ -18633,6 +18910,11 @@ sportsonline.gl.	3600	IN	NS	chuck.ns.cloudflare.com.
 sportsonline.gl.	3600	IN	NS	harlee.ns.cloudflare.com.
 spotify.gl.		3600	IN	NS	ns1.sedoparking.com.
 spotify.gl.		3600	IN	NS	ns2.sedoparking.com.
+sppj.gl.		3600	IN	NS	ns0.1984.is.
+sppj.gl.		3600	IN	NS	ns1.1984.is.
+sppj.gl.		3600	IN	NS	ns1.1984hosting.com.
+sppj.gl.		3600	IN	NS	ns2.1984.is.
+sppj.gl.		3600	IN	NS	ns2.1984hosting.com.
 spr.gl.			3600	IN	NS	a.hosting.gl.
 spr.gl.			3600	IN	NS	b.hosting.gl.
 spr.gl.			3600	IN	NS	c.hosting.gl.
@@ -19624,6 +19906,11 @@ tezos.gl.		3600	IN	NS	ns3.systemdns.com.
 tf.gl.			3600	IN	NS	1-you.njalla.no.
 tf.gl.			3600	IN	NS	2-can.njalla.in.
 tf.gl.			3600	IN	NS	3-get.njalla.fo.
+tflo.gl.		3600	IN	NS	ns0.1984.is.
+tflo.gl.		3600	IN	NS	ns1.1984.is.
+tflo.gl.		3600	IN	NS	ns1.1984hosting.com.
+tflo.gl.		3600	IN	NS	ns2.1984.is.
+tflo.gl.		3600	IN	NS	ns2.1984hosting.com.
 tft.gl.			3600	IN	NS	ns1.simply.com.
 tft.gl.			3600	IN	NS	ns2.simply.com.
 tft.gl.			3600	IN	NS	ns3.simply.com.
@@ -20167,6 +20454,11 @@ ts.gl.			3600	IN	NS	ns01.one.com.
 ts.gl.			3600	IN	NS	ns02.one.com.
 tschudi.gl.		3600	IN	NS	ns1.cyon.ch.
 tschudi.gl.		3600	IN	NS	ns2.cyon.ch.
+tsiq.gl.		3600	IN	NS	ns0.1984.is.
+tsiq.gl.		3600	IN	NS	ns1.1984.is.
+tsiq.gl.		3600	IN	NS	ns1.1984hosting.com.
+tsiq.gl.		3600	IN	NS	ns2.1984.is.
+tsiq.gl.		3600	IN	NS	ns2.1984hosting.com.
 tst.gl.			3600	IN	NS	hal.ns.cloudflare.com.
 tst.gl.			3600	IN	NS	donna.ns.cloudflare.com.
 tsystems.gl.		3600	IN	NS	ns1.lovellsnames.org.
@@ -20324,6 +20616,11 @@ tuusaq.gl.		3600	IN	NS	ns1.nunahosting.net.
 tuusaq.gl.		3600	IN	NS	ns2.nunahosting.net.
 tuusaq.gl.		3600	IN	NS	ns3.nunahosting.net.
 tuusaq.gl.		3600	IN	NS	ns4.nunahosting.net.
+tuvf.gl.		3600	IN	NS	ns0.1984.is.
+tuvf.gl.		3600	IN	NS	ns1.1984.is.
+tuvf.gl.		3600	IN	NS	ns1.1984hosting.com.
+tuvf.gl.		3600	IN	NS	ns2.1984.is.
+tuvf.gl.		3600	IN	NS	ns2.1984hosting.com.
 tv.gl.			3600	IN	NS	ns1.netim.net.
 tv.gl.			3600	IN	NS	ns2.netim.net.
 tv.gl.			3600	IN	NS	ns3.netim.net.
@@ -20378,6 +20675,11 @@ tyvny.gl.		3600	IN	NS	ns2.1984.is.
 tyvny.gl.		3600	IN	NS	ns2.1984hosting.com.
 tz.gl.			3600	IN	NS	ns1.wnokta.com.
 tz.gl.			3600	IN	NS	ns2.wnokta.com.
+tzrg.gl.		3600	IN	NS	ns0.1984.is.
+tzrg.gl.		3600	IN	NS	ns1.1984.is.
+tzrg.gl.		3600	IN	NS	ns1.1984hosting.com.
+tzrg.gl.		3600	IN	NS	ns2.1984.is.
+tzrg.gl.		3600	IN	NS	ns2.1984hosting.com.
 u.gl.			3600	IN	NS	ns1.dan.com.
 u.gl.			3600	IN	NS	ns2.dan.com.
 ub.gl.			3600	IN	NS	clcp1.nibsdns.com.
@@ -20446,6 +20748,11 @@ ugeavis.gl.		3600	IN	NS	ns3.modulo.gl.
 ugeavisen.gl.		3600	IN	NS	ns1.modulo.gl.
 ugeavisen.gl.		3600	IN	NS	ns2.modulo.gl.
 ugeavisen.gl.		3600	IN	NS	ns3.modulo.gl.
+ugwj.gl.		3600	IN	NS	ns0.1984.is.
+ugwj.gl.		3600	IN	NS	ns1.1984.is.
+ugwj.gl.		3600	IN	NS	ns1.1984hosting.com.
+ugwj.gl.		3600	IN	NS	ns2.1984.is.
+ugwj.gl.		3600	IN	NS	ns2.1984hosting.com.
 uh.gl.			3600	IN	NS	kyrie.ns.cloudflare.com.
 uh.gl.			3600	IN	NS	venus.ns.cloudflare.com.
 uilu.gl.		3600	IN	NS	ns1.gigahost.dk.
@@ -20457,6 +20764,11 @@ ujarassiorit.gl.	3600	IN	NS	ns01.one.com.
 ujarassiorit.gl.	3600	IN	NS	ns02.one.com.
 ujarassiorit.gl.	3600	IN	DS	5741 13 2 66DDD09ABE52E70FC0D043DE625EF6956DD107D5FD456E1F65D9BC08 84A49A4B
 ujarassiorit.gl.	3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. G+Dl0RGOXhGiXHHDtMptzAd9P4p6CPEOSPdC8Hg3Lp0ezG2MatygfoPT KKG1l6j0f3xcMnsf8ILzis4Lpow7tPBMMPd7QjRNCbOr5CpiOVjt5g9u sUWsxcTDSS1lUFiNWGYoIOnwDNrKQWmcW7emeqc/O4CqDpWVXMAzA48B vKRhBAPIqnnCMR9c5yBxajcomhT4/eY/0BtLUOLf8Q+alR32tK/aRU8n PzAsM89Jfij/Xm5XzvwHaxjcCs++yvhY6H+0jsK9Vii5BTaR9fpvV7gJ 00oWiZ7csLvdNwC3gZ8LFZdxA2PwlWN0RFita4lk25QsHgc52L19/ucb WEoCog==
+ujhp.gl.		3600	IN	NS	ns0.1984.is.
+ujhp.gl.		3600	IN	NS	ns1.1984.is.
+ujhp.gl.		3600	IN	NS	ns1.1984hosting.com.
+ujhp.gl.		3600	IN	NS	ns2.1984.is.
+ujhp.gl.		3600	IN	NS	ns2.1984hosting.com.
 uk.gl.			3600	IN	NS	sue.ns.cloudflare.com.
 uk.gl.			3600	IN	NS	jake.ns.cloudflare.com.
 ukaleq.gl.		3600	IN	NS	ns1.gratisdns.dk.
@@ -20480,12 +20792,27 @@ ullut.gl.		3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. LX/
 uloren.gl.		3600	IN	NS	ns1.modulo.gl.
 uloren.gl.		3600	IN	NS	ns2.modulo.gl.
 uloren.gl.		3600	IN	NS	ns3.modulo.gl.
+ulqx.gl.		3600	IN	NS	ns0.1984.is.
+ulqx.gl.		3600	IN	NS	ns1.1984.is.
+ulqx.gl.		3600	IN	NS	ns1.1984hosting.com.
+ulqx.gl.		3600	IN	NS	ns2.1984.is.
+ulqx.gl.		3600	IN	NS	ns2.1984hosting.com.
+uluv.gl.		3600	IN	NS	ns0.1984.is.
+uluv.gl.		3600	IN	NS	ns1.1984.is.
+uluv.gl.		3600	IN	NS	ns1.1984hosting.com.
+uluv.gl.		3600	IN	NS	ns2.1984.is.
+uluv.gl.		3600	IN	NS	ns2.1984hosting.com.
 ulysse.gl.		3600	IN	NS	ace.ns.cloudflare.com.
 ulysse.gl.		3600	IN	NS	joyce.ns.cloudflare.com.
 um.gl.			3600	IN	NS	ns.jpberlin.de.
 um.gl.			3600	IN	NS	ns2.jpberlin.de.
 umame.gl.		3600	IN	NS	ns01.one.com.
 umame.gl.		3600	IN	NS	ns02.one.com.
+ummv.gl.		3600	IN	NS	ns0.1984.is.
+ummv.gl.		3600	IN	NS	ns1.1984.is.
+ummv.gl.		3600	IN	NS	ns1.1984hosting.com.
+ummv.gl.		3600	IN	NS	ns2.1984.is.
+ummv.gl.		3600	IN	NS	ns2.1984hosting.com.
 un.gl.			3600	IN	NS	ns1.netim.net.
 un.gl.			3600	IN	NS	ns2.netim.net.
 un.gl.			3600	IN	NS	ns3.netim.net.
@@ -20744,6 +21071,11 @@ vbet.gl.		3600	IN	NS	ns1.alphadnszone.com.
 vbet.gl.		3600	IN	NS	ns2.alphadnszone.com.
 vbet.gl.		3600	IN	NS	ns3.alphadnszone.com.
 vbet.gl.		3600	IN	NS	ns4.alphadnszone.com.
+vboj.gl.		3600	IN	NS	ns0.1984.is.
+vboj.gl.		3600	IN	NS	ns1.1984.is.
+vboj.gl.		3600	IN	NS	ns1.1984hosting.com.
+vboj.gl.		3600	IN	NS	ns2.1984.is.
+vboj.gl.		3600	IN	NS	ns2.1984hosting.com.
 vc.gl.			3600	IN	NS	ns7.cnmsn.net.
 vc.gl.			3600	IN	NS	ns8.cnmsn.net.
 vcc.gl.			3600	IN	NS	expired-domain.domrobot.com.
@@ -20839,6 +21171,11 @@ vg.gl.			3600	IN	NS	ns4.simply.com.
 vg.gl.			3600	IN	DS	55672 13 2 F316AD19DFA1C4D97D42361BF47BB2F16A222E14051431AB8F6B1359 D0A26322
 vg.gl.			3600	IN	DS	55672 13 4 05A6A51BFEFDF040B284A25291D30C2045C779AC3A62353223870478 EA9B8027D181D38F9F89BEE48DFF8028F03AA44B
 vg.gl.			3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. QSLQDa1s93/LTjgjWQ4pQOziH4G5QVDJsy6JLkQbcC4UNaBRaduTpzG1 3pS48AU73hkh+sBfjQb/OXZ+rYaON7Hsqnd919ZYQ6eUXHyKAAFqvMpU 7Vy8U09szWq/fvXuvSKmwU8qu8TZ9rAAwPgckvAq3BzMqVxvKrS3ktOH kpooKQynift8TT+JugGPEiRhekFhMmxdVdqHvGvIHrVn12fK1048CtjR A9BN3MB9zaYvBAcmE5OKEO1aVhxSyW/PIZyNCc8pINMjO4DMG2DWZiWC fWNJMxtjG/4Omnq6XnmAiiCZWUtegDWRoVnAI0QLJpSiEbecFh9ZpCkE PgqW7g==
+vgqj.gl.		3600	IN	NS	ns0.1984.is.
+vgqj.gl.		3600	IN	NS	ns1.1984.is.
+vgqj.gl.		3600	IN	NS	ns1.1984hosting.com.
+vgqj.gl.		3600	IN	NS	ns2.1984.is.
+vgqj.gl.		3600	IN	NS	ns2.1984hosting.com.
 vh.gl.			3600	IN	NS	ns.checkdomain.de.
 vh.gl.			3600	IN	NS	ns2.checkdomain.de.
 vhdesign.gl.		3600	IN	NS	a.hosting.gl.
@@ -21291,6 +21628,11 @@ wave.gl.		3600	IN	NS	2-can.njalla.in.
 wave.gl.		3600	IN	NS	3-get.njalla.fo.
 wb.gl.			3600	IN	NS	eoin.ns.cloudflare.com.
 wb.gl.			3600	IN	NS	kiki.ns.cloudflare.com.
+wbdr.gl.		3600	IN	NS	ns0.1984.is.
+wbdr.gl.		3600	IN	NS	ns1.1984.is.
+wbdr.gl.		3600	IN	NS	ns1.1984hosting.com.
+wbdr.gl.		3600	IN	NS	ns2.1984.is.
+wbdr.gl.		3600	IN	NS	ns2.1984hosting.com.
 we.gl.			3600	IN	NS	ns-40.awsdns-05.com.
 we.gl.			3600	IN	NS	ns-823.awsdns-38.net.
 we.gl.			3600	IN	NS	ns-1277.awsdns-31.org.
@@ -21401,9 +21743,19 @@ werbeagentur.gl.	3600	IN	NS	c.ns14.net.
 werbeagentur.gl.	3600	IN	NS	d.ns14.net.
 westernunion.gl.	3600	IN	NS	dns1.emarkmonitor.com.
 westernunion.gl.	3600	IN	NS	dns2.emarkmonitor.com.
+wevo.gl.		3600	IN	NS	ns0.1984.is.
+wevo.gl.		3600	IN	NS	ns1.1984.is.
+wevo.gl.		3600	IN	NS	ns1.1984hosting.com.
+wevo.gl.		3600	IN	NS	ns2.1984.is.
+wevo.gl.		3600	IN	NS	ns2.1984hosting.com.
 wf.gl.			3600	IN	NS	ns1.netim.net.
 wf.gl.			3600	IN	NS	ns2.netim.net.
 wf.gl.			3600	IN	NS	ns3.netim.net.
+wfgf.gl.		3600	IN	NS	ns0.1984.is.
+wfgf.gl.		3600	IN	NS	ns1.1984.is.
+wfgf.gl.		3600	IN	NS	ns1.1984hosting.com.
+wfgf.gl.		3600	IN	NS	ns2.1984.is.
+wfgf.gl.		3600	IN	NS	ns2.1984hosting.com.
 wg.gl.			3600	IN	NS	ns1.digitalocean.com.
 wg.gl.			3600	IN	NS	ns2.digitalocean.com.
 wg.gl.			3600	IN	NS	ns3.digitalocean.com.
@@ -21640,6 +21992,11 @@ wuka.gl.		3600	IN	NS	ns03.trademarkarea.com.
 wukawear.gl.		3600	IN	NS	ns01.trademarkarea.com.
 wukawear.gl.		3600	IN	NS	ns02.trademarkarea.com.
 wukawear.gl.		3600	IN	NS	ns03.trademarkarea.com.
+wull.gl.		3600	IN	NS	ns0.1984.is.
+wull.gl.		3600	IN	NS	ns1.1984.is.
+wull.gl.		3600	IN	NS	ns1.1984hosting.com.
+wull.gl.		3600	IN	NS	ns2.1984.is.
+wull.gl.		3600	IN	NS	ns2.1984hosting.com.
 wurth.gl.		3600	IN	NS	ns01.one.com.
 wurth.gl.		3600	IN	NS	ns02.one.com.
 wvjpq.gl.		3600	IN	NS	ns0.1984.is.
@@ -21670,6 +22027,11 @@ wynajem.gl.		3600	IN	NS	ns2.netim.net.
 wynajem.gl.		3600	IN	NS	ns3.netim.net.
 wz.gl.			3600	IN	NS	ns01.one.com.
 wz.gl.			3600	IN	NS	ns02.one.com.
+wzhj.gl.		3600	IN	NS	ns0.1984.is.
+wzhj.gl.		3600	IN	NS	ns1.1984.is.
+wzhj.gl.		3600	IN	NS	ns1.1984hosting.com.
+wzhj.gl.		3600	IN	NS	ns2.1984.is.
+wzhj.gl.		3600	IN	NS	ns2.1984hosting.com.
 x.gl.			3600	IN	NS	luciana.ns.cloudflare.com.
 x.gl.			3600	IN	NS	stanley.ns.cloudflare.com.
 x8.gl.			3600	IN	NS	art.ns.cloudflare.com.
@@ -21712,11 +22074,21 @@ xg.gl.			3600	IN	NS	marissa.ns.cloudflare.com.
 xgoo.gl.		3600	IN	NS	ns1.regery.net.
 xgoo.gl.		3600	IN	NS	ns2.regery.net.
 xgoo.gl.		3600	IN	NS	ns3.regery.net.
+xgqz.gl.		3600	IN	NS	ns0.1984.is.
+xgqz.gl.		3600	IN	NS	ns1.1984.is.
+xgqz.gl.		3600	IN	NS	ns1.1984hosting.com.
+xgqz.gl.		3600	IN	NS	ns2.1984.is.
+xgqz.gl.		3600	IN	NS	ns2.1984hosting.com.
 xgslu.gl.		3600	IN	NS	ns0.1984.is.
 xgslu.gl.		3600	IN	NS	ns1.1984.is.
 xgslu.gl.		3600	IN	NS	ns1.1984hosting.com.
 xgslu.gl.		3600	IN	NS	ns2.1984.is.
 xgslu.gl.		3600	IN	NS	ns2.1984hosting.com.
+xgvl.gl.		3600	IN	NS	ns0.1984.is.
+xgvl.gl.		3600	IN	NS	ns1.1984.is.
+xgvl.gl.		3600	IN	NS	ns1.1984hosting.com.
+xgvl.gl.		3600	IN	NS	ns2.1984.is.
+xgvl.gl.		3600	IN	NS	ns2.1984hosting.com.
 xhjoh.gl.		3600	IN	NS	ns0.1984.is.
 xhjoh.gl.		3600	IN	NS	ns1.1984.is.
 xhjoh.gl.		3600	IN	NS	ns1.1984hosting.com.
@@ -21874,10 +22246,20 @@ yamatek.gl.		3600	IN	NS	ns3.bdm.microsoftonline.com.
 yamatek.gl.		3600	IN	NS	ns4.bdm.microsoftonline.com.
 yardi.gl.		3600	IN	NS	ns07.gcd-dns.com.
 yardi.gl.		3600	IN	NS	ns08.gcd-dns.com.
+yatg.gl.		3600	IN	NS	ns0.1984.is.
+yatg.gl.		3600	IN	NS	ns1.1984.is.
+yatg.gl.		3600	IN	NS	ns1.1984hosting.com.
+yatg.gl.		3600	IN	NS	ns2.1984.is.
+yatg.gl.		3600	IN	NS	ns2.1984hosting.com.
 ybt.gl.			3600	IN	NS	ns1.kidc.net.
 ybt.gl.			3600	IN	NS	ns2.lgdacom.net.
 yc.gl.			3600	IN	NS	ns1.edgedns.ru.
 yc.gl.			3600	IN	NS	ns2.edgedns.world.
+ycoe.gl.		3600	IN	NS	ns0.1984.is.
+ycoe.gl.		3600	IN	NS	ns1.1984.is.
+ycoe.gl.		3600	IN	NS	ns1.1984hosting.com.
+ycoe.gl.		3600	IN	NS	ns2.1984.is.
+ycoe.gl.		3600	IN	NS	ns2.1984hosting.com.
 yd.gl.			3600	IN	NS	ns1.netsto.net.
 yd.gl.			3600	IN	NS	ns2.netsto.net.
 ye.gl.			3600	IN	NS	ns1.hyp.net.
@@ -21894,6 +22276,11 @@ yg.gl.			3600	IN	NS	ns1.iwantmyname.net.
 yg.gl.			3600	IN	NS	ns2.iwantmyname.net.
 yg.gl.			3600	IN	NS	ns3.iwantmyname.net.
 yg.gl.			3600	IN	NS	ns4.iwantmyname.net.
+yhtc.gl.		3600	IN	NS	ns0.1984.is.
+yhtc.gl.		3600	IN	NS	ns1.1984.is.
+yhtc.gl.		3600	IN	NS	ns1.1984hosting.com.
+yhtc.gl.		3600	IN	NS	ns2.1984.is.
+yhtc.gl.		3600	IN	NS	ns2.1984hosting.com.
 yic-electronics.gl.	3600	IN	NS	lana.ns.cloudflare.com.
 yic-electronics.gl.	3600	IN	NS	miles.ns.cloudflare.com.
 yisfu.gl.		3600	IN	NS	ns0.1984.is.
@@ -21947,6 +22334,16 @@ youtube.gl.		3600	IN	NS	ns1.google.com.
 youtube.gl.		3600	IN	NS	ns2.google.com.
 youtube.gl.		3600	IN	NS	ns3.google.com.
 youtube.gl.		3600	IN	NS	ns4.google.com.
+yqio.gl.		3600	IN	NS	ns0.1984.is.
+yqio.gl.		3600	IN	NS	ns1.1984.is.
+yqio.gl.		3600	IN	NS	ns1.1984hosting.com.
+yqio.gl.		3600	IN	NS	ns2.1984.is.
+yqio.gl.		3600	IN	NS	ns2.1984hosting.com.
+yquh.gl.		3600	IN	NS	ns0.1984.is.
+yquh.gl.		3600	IN	NS	ns1.1984.is.
+yquh.gl.		3600	IN	NS	ns1.1984hosting.com.
+yquh.gl.		3600	IN	NS	ns2.1984.is.
+yquh.gl.		3600	IN	NS	ns2.1984hosting.com.
 yr.gl.			3600	IN	NS	rose.ns.cloudflare.com.
 yr.gl.			3600	IN	NS	yadiel.ns.cloudflare.com.
 ys.gl.			3600	IN	NS	ns1.regery.net.
@@ -21964,6 +22361,11 @@ yvchh.gl.		3600	IN	NS	ns1.1984.is.
 yvchh.gl.		3600	IN	NS	ns1.1984hosting.com.
 yvchh.gl.		3600	IN	NS	ns2.1984.is.
 yvchh.gl.		3600	IN	NS	ns2.1984hosting.com.
+yvfn.gl.		3600	IN	NS	ns0.1984.is.
+yvfn.gl.		3600	IN	NS	ns1.1984.is.
+yvfn.gl.		3600	IN	NS	ns1.1984hosting.com.
+yvfn.gl.		3600	IN	NS	ns2.1984.is.
+yvfn.gl.		3600	IN	NS	ns2.1984hosting.com.
 yw.gl.			3600	IN	NS	ns1.vercel-dns.com.
 yw.gl.			3600	IN	NS	ns2.vercel-dns.com.
 yy.gl.			3600	IN	NS	ns1.alidns.com.
@@ -22011,6 +22413,11 @@ zap.gl.			3600	IN	DS	3331 13 2 0901FBD07E4BEE8999348AF8252B2D7470BB118322FDD2E0E
 zap.gl.			3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. JqwRpG6KCnuL5I2ErruCyf7iMOSXWgzfOZfJm6cYI9LQOhAQ3PPULfp0 x86iUjBM+xhZH08ewc/ib8OXgu6ojAJu/FeDu1TNqmXZQKPyMtTAiHB5 VXpCil0oTmMmLlr0Moe0NYg6+Qhhj5VYo4PQqbJwMLuOAdLAWw7Byj00 cZz61uEnDJsHJ9nIHsNE3N5VAc8srMla3/sSlq53W3LYJVZFzOo4qma5 oTZ3HAqMMYPnwLnN74ZROuaSiiUjPjfJsrNC1GgTlA5POLoXNGgDqvw2 U3SbNWE0K8cyefvpS2zAhlO/+8tSzjzrgzDPNjXFkXiwhYQ4fFzNv1Nq O7VHDw==
 zb.gl.			3600	IN	NS	haley.ns.cloudflare.com.
 zb.gl.			3600	IN	NS	anirban.ns.cloudflare.com.
+zdcy.gl.		3600	IN	NS	ns0.1984.is.
+zdcy.gl.		3600	IN	NS	ns1.1984.is.
+zdcy.gl.		3600	IN	NS	ns1.1984hosting.com.
+zdcy.gl.		3600	IN	NS	ns2.1984.is.
+zdcy.gl.		3600	IN	NS	ns2.1984hosting.com.
 zdmrx.gl.		3600	IN	NS	ns0.1984.is.
 zdmrx.gl.		3600	IN	NS	ns1.1984.is.
 zdmrx.gl.		3600	IN	NS	ns1.1984hosting.com.
@@ -22119,11 +22526,21 @@ zoom.gl.		3600	IN	NS	ns2.webglobe.cz.
 zoom.gl.		3600	IN	NS	ns3.webglobe.com.
 zorotools.gl.		3600	IN	NS	ans1.cw.net.
 zorotools.gl.		3600	IN	NS	ans2.cw.net.
+zpxh.gl.		3600	IN	NS	ns0.1984.is.
+zpxh.gl.		3600	IN	NS	ns1.1984.is.
+zpxh.gl.		3600	IN	NS	ns1.1984hosting.com.
+zpxh.gl.		3600	IN	NS	ns2.1984.is.
+zpxh.gl.		3600	IN	NS	ns2.1984hosting.com.
 zqjdo.gl.		3600	IN	NS	ns0.1984.is.
 zqjdo.gl.		3600	IN	NS	ns1.1984.is.
 zqjdo.gl.		3600	IN	NS	ns1.1984hosting.com.
 zqjdo.gl.		3600	IN	NS	ns2.1984.is.
 zqjdo.gl.		3600	IN	NS	ns2.1984hosting.com.
+zrqd.gl.		3600	IN	NS	ns0.1984.is.
+zrqd.gl.		3600	IN	NS	ns1.1984.is.
+zrqd.gl.		3600	IN	NS	ns1.1984hosting.com.
+zrqd.gl.		3600	IN	NS	ns2.1984.is.
+zrqd.gl.		3600	IN	NS	ns2.1984hosting.com.
 zs.gl.			3600	IN	NS	ns1.hyp.net.
 zs.gl.			3600	IN	NS	ns2.hyp.net.
 zs.gl.			3600	IN	NS	ns3.hyp.net.
@@ -22137,6 +22554,11 @@ zsdie.gl.		3600	IN	NS	ns2.1984.is.
 zsdie.gl.		3600	IN	NS	ns2.1984hosting.com.
 zt.gl.			3600	IN	NS	ns1a.dodns.net.
 zt.gl.			3600	IN	NS	ns2a.dodns.net.
+ztcq.gl.		3600	IN	NS	ns0.1984.is.
+ztcq.gl.		3600	IN	NS	ns1.1984.is.
+ztcq.gl.		3600	IN	NS	ns1.1984hosting.com.
+ztcq.gl.		3600	IN	NS	ns2.1984.is.
+ztcq.gl.		3600	IN	NS	ns2.1984hosting.com.
 zumba.gl.		3600	IN	NS	ns1.simply.com.
 zumba.gl.		3600	IN	NS	ns2.simply.com.
 zumba.gl.		3600	IN	NS	ns3.simply.com.
@@ -23577,4 +23999,4 @@ VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. Y1v6YCMGj4s9yQklhWCXx85cHo7XgjG7XeGAGB57PU7+Lz4jCiDJMsY4 R+4nnPMpy6OH9sZcxkwF07DPfC5lLw8Gbog9ljPR7n4ivcEa+eZJaTXj LXertb5CywPqy9p7qqL4IBUJxIcenrgp/9DFXsXcB6TlHa9u3c8EfcUa yumwb2ZFin5AI2WlcPBDdqdq2tqFWcbPtaIO/eb361Hd/bfpH2887QcQ YbI5DVk/pcvK58igwxrZKAtmbnHyA6bErgSTpOhRRFie33xBKooFodoE LsosTenpFt04204AdyFHvJT/X8eJPVb7Iy28dnZ76J/q1LVO/NX8/zIe 437rGQ==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161481 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161485 900 1800 6048000 3600
