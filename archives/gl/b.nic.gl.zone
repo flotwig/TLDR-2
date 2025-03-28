@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161445 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. Jn468ReEloen6Hw9TCWbXeLEkcRGzcjztq7GTUngVCyE76qTqi0ZC392 YtHcV+xX0SpnPyygxHvDxQcGYI9l+RHMOsxMlHMGjauSJHi4d2eCUYWt WdMaFj7KEjCLo0+hyJarVgiR6NjDwFeCI2S63DbGATUNbNckGNpLvdAm QtHMeXkMlBcxL64wEGtauMcwc2dJxV7Dxn+IWcTqhcuo84Eqx78JfhWE jTcGh5B76QJFBBRiX0rtM2p0qv6Yp5kz3tie7DSOiU56OhaFbcFN0rUr bJYpCCluNv4zgIOu7Qdi9uObb0g7KmGKOqgU5e7JCSiHHBdq0grPJozf 4RBgzg==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161453 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. afCg1pd8TzIuwaZ7JjWSJQpNJZ6IKc+/upmLMONL7iMX7pVhtC5NcZE1 553icOjzPvBcsmyudz9vzzzyzQtKZtlQVVYV/V0KbdcFiv6+/EqU4CfR g9l1IuFjJUzWNoGfGyPz/yelzXAbfPWIkHqSp4dlKCk0Y21kn4rRMiw4 QH5DfbNdDnmI6xXauEPGGiDAQkcSkug1fb/u/pLoDPf/xA/uA1IIAaMu Jvu0pjcOryZ7UeL1m4PDvO5/9nXD52E1a9PGH57WO9OC+7LHX1HQaeGG 30tDYelTVnfo+VcyEwmEz8nh5nKLFy0fB9T+JuPUlKet8/c1XLD7mMc6 CWZUYw==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -9001,6 +9001,8 @@ ilva.gl.		3600	IN	NS	ns1.eurodns.com.
 ilva.gl.		3600	IN	NS	ns2.eurodns.com.
 ilva.gl.		3600	IN	NS	ns3.eurodns.com.
 ilva.gl.		3600	IN	NS	ns4.eurodns.com.
+im.gl.			3600	IN	NS	ns1-coming-soon.sav.com.
+im.gl.			3600	IN	NS	ns2-coming-soon.sav.com.
 ima.gl.			3600	IN	NS	ns1.nunahosting.net.
 ima.gl.			3600	IN	NS	ns2.nunahosting.net.
 ima.gl.			3600	IN	NS	ns3.nunahosting.net.
@@ -11772,9 +11774,6 @@ lksz.gl.		3600	IN	NS	ns1.1984.is.
 lksz.gl.		3600	IN	NS	ns1.1984hosting.com.
 lksz.gl.		3600	IN	NS	ns2.1984.is.
 lksz.gl.		3600	IN	NS	ns2.1984hosting.com.
-ll.gl.			3600	IN	NS	ns1.regery.net.
-ll.gl.			3600	IN	NS	ns2.regery.net.
-ll.gl.			3600	IN	NS	ns3.regery.net.
 lll.gl.			3600	IN	NS	ns1.reg.ru.
 lll.gl.			3600	IN	NS	ns2.reg.ru.
 llregnskab.gl.		3600	IN	NS	ns1.nunahosting.net.
@@ -23977,4 +23976,4 @@ VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. Y1v6YCMGj4s9yQklhWCXx85cHo7XgjG7XeGAGB57PU7+Lz4jCiDJMsY4 R+4nnPMpy6OH9sZcxkwF07DPfC5lLw8Gbog9ljPR7n4ivcEa+eZJaTXj LXertb5CywPqy9p7qqL4IBUJxIcenrgp/9DFXsXcB6TlHa9u3c8EfcUa yumwb2ZFin5AI2WlcPBDdqdq2tqFWcbPtaIO/eb361Hd/bfpH2887QcQ YbI5DVk/pcvK58igwxrZKAtmbnHyA6bErgSTpOhRRFie33xBKooFodoE LsosTenpFt04204AdyFHvJT/X8eJPVb7Iy28dnZ76J/q1LVO/NX8/zIe 437rGQ==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161445 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161453 900 1800 6048000 3600
