@@ -1,4 +1,4 @@
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025032805 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025032811 86400 7200 3600000 172800
 ps.			86400	IN	NS	ps.cctld.authdns.ripe.net.
 ps.			86400	IN	NS	ns1.pnina.ps.
 ps.			86400	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.			86400	IN	NS	rip.psg.com.
 ps.			86400	IN	NS	fork.sth.dnsnode.net.
 ps.			86400	IN	NS	Bilal.pnina.ps.
 ps.			86400	IN	NS	ps-ns.anycast.pch.net.
-ps.			86400	IN	TXT	"Generation Time: 1743152493"
+ps.			86400	IN	TXT	"Generation Time: 1743195694"
 01net.ps.		86400	IN	NS	ns1.safebrands.fr.
 01net.ps.		86400	IN	NS	ns2.safebrands.eu.
 01net.ps.		86400	IN	NS	ns3.safebrands.com.
@@ -2044,8 +2044,6 @@ aptis.ps.		86400	IN	NS	udns1.cscdns.net.
 aptis.ps.		86400	IN	NS	udns2.cscdns.uk.
 aqar.ps.		86400	IN	NS	aria.ns.cloudflare.com.
 aqar.ps.		86400	IN	NS	rudy.ns.cloudflare.com.
-aqari.ps.		86400	IN	NS	ns3.masterweb-ps.com.
-aqari.ps.		86400	IN	NS	ns4.masterweb-ps.com.
 aqariya.ps.		86400	IN	NS	ns1.dns-parking.com.
 aqariya.ps.		86400	IN	NS	ns2.dns-parking.com.
 aqarplus.ps.		86400	IN	NS	ns1.dns-parking.com.
@@ -8341,6 +8339,10 @@ inventingforlifemsd.ps.	86400	IN	NS	dns1.p03.nsone.net.
 inventingforlifemsd.ps.	86400	IN	NS	dns2.p03.nsone.net.
 inventingforlifemsd.ps.	86400	IN	NS	dns3.p03.nsone.net.
 inventingforlifemsd.ps.	86400	IN	NS	dns4.p03.nsone.net.
+inventingforlifemsd.ps.	86400	IN	NS	ns01.msddns.com.
+inventingforlifemsd.ps.	86400	IN	NS	ns02.msddns.com.
+inventingforlifemsd.ps.	86400	IN	NS	ns03.msddns.com.
+inventingforlifemsd.ps.	86400	IN	NS	ns04.msddns.com.
 invest.ps.		86400	IN	NS	ns23.neoserv.si.
 invest.ps.		86400	IN	NS	ns24.neoserv.si.
 investpalestine.ps.	86400	IN	NS	ns1.ftsconsulting.net.
@@ -8986,6 +8988,8 @@ k-home.ps.		86400	IN	NS	ns1-cat.dl-cms.com.
 k-home.ps.		86400	IN	NS	ns2-cat.dl-cms.com.
 k-surgery.ps.		86400	IN	NS	ns1.zone.ps.
 k-surgery.ps.		86400	IN	NS	ns2.zone.ps.
+kaac.ps.		86400	IN	NS	george.ns.cloudflare.com.
+kaac.ps.		86400	IN	NS	jessica.ns.cloudflare.com.
 kaap.ps.		86400	IN	NS	gwen.ns.cloudflare.com.
 kaap.ps.		86400	IN	NS	lars.ns.cloudflare.com.
 kabse.ps.		86400	IN	NS	raegan.ns.cloudflare.com.
@@ -9444,6 +9448,9 @@ lastminute.ps.		86400	IN	NS	ns1.ttawor.com.
 lastminute.ps.		86400	IN	NS	ns2.ttawor.com.
 lastpiece.ps.		86400	IN	NS	ns1-lion.dl-cms.com.
 lastpiece.ps.		86400	IN	NS	ns2-lion.dl-cms.com.
+latale.ps.		86400	IN	NS	1-you.njalla.no.
+latale.ps.		86400	IN	NS	2-can.njalla.in.
+latale.ps.		86400	IN	NS	3-get.njalla.fo.
 latef.ps.		86400	IN	NS	ns1-cat.dl-cms.com.
 latef.ps.		86400	IN	NS	ns2-cat.dl-cms.com.
 laufen.ps.		86400	IN	NS	ns1.ascio.com.
@@ -12896,11 +12903,11 @@ paltech.ps.		86400	IN	NS	ns1.paltech.ps.
 paltech.ps.		86400	IN	NS	ns2.paltech.ps.
 ns1.paltech.ps.		86400	IN	A	38.242.209.203
 ns2.paltech.ps.		86400	IN	A	38.242.209.203
+paltel.ps.		86400	IN	DS	30944 13 2 5B6E4A860BC99FB8C8E7E7E6B1E0CA57456075F2AAF4E7277DFE7D56 44B8E4D0
 paltel.ps.		86400	IN	NS	ns1.paltel.ps.
 paltel.ps.		86400	IN	NS	ns2.paltel.ps.
 paltel.ps.		86400	IN	NS	ns3.paltel.ps.
 paltel.ps.		86400	IN	NS	ns4.paltel.ps.
-paltel.ps.		86400	IN	DS	30944 13 2 5B6E4A860BC99FB8C8E7E7E6B1E0CA57456075F2AAF4E7277DFE7D56 44B8E4D0
 ns1.paltel.ps.		86400	IN	A	216.239.32.106
 ns2.paltel.ps.		86400	IN	A	216.239.34.106
 ns3.paltel.ps.		86400	IN	A	216.239.36.106
@@ -15953,8 +15960,6 @@ sofa.ps.		86400	IN	NS	cp1.privatesystems.net.
 sofa.ps.		86400	IN	NS	cp2.privatesystems.net.
 sofa.ps.		86400	IN	NS	cp3.privatesystems.net.
 sofa.ps.		86400	IN	NS	cp4.privatesystems.net.
-sofouf.ps.		86400	IN	NS	ns1.servconfig.com.
-sofouf.ps.		86400	IN	NS	ns2.servconfig.com.
 sofraa.ps.		86400	IN	NS	vita.ns.cloudflare.com.
 sofraa.ps.		86400	IN	NS	bjorn.ns.cloudflare.com.
 softseeds.ps.		86400	IN	NS	cdns1.hadara.ps.
@@ -18920,4 +18925,4 @@ zuwadeh.ps.		86400	IN	NS	ns3.ftsconsulting.net.
 zuwadeh.ps.		86400	IN	NS	ns4.ftsconsulting.net.
 zuwar.ps.		86400	IN	NS	ns1.dns-parking.com.
 zuwar.ps.		86400	IN	NS	ns2.dns-parking.com.
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025032805 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025032811 86400 7200 3600000 172800
