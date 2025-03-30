@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161561 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. g7Mjg+OUE/pq0yiWk+hpl/FUW50qEVgsHF2yBlZVtiSRxgcxCW08IcB2 KIGkziyGa+abmILeq6/Za+3eNIh9jGJAPrNZbFgISYWbdnDpx7BigP9x C3JIVhbO8ex2BfbuAUjU0Agwln6Mx/ODw6NWnBai3JHsn9XdrCbpI3Yg UoaNVDACG5VXWCZnQBNpjBc/W1naGi2HdOLhF2zE9eiSUWxvIcRycOjh muOxlbAtbe6pryEPbKaEBeyIQ1oKFHBvG6nKScaDG2o0FwdeOxrQBTvO 8MigO2qdb5mUHh5jKi/1tBjpK+26I9tPlqOb8+mpqqSG4oG+IusKEPPs Zb+Pug==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161570 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. bi1yB3/YTH9RevYHkCjUNwa2lhnCliCUprxmaC+X2jfCAgNJT2KuggT+ THF3AclF/yFHoojH57RWHphNP9YHFqtrfIcA9mAb9PeUdjSFVUJeOJD0 WEwLwSXFqOIM96SHewg3HW1hchrcUzK+qGfaMcwcUod9o5CzxiKbhaKB ryg0k1mFYJyCZptTHxGVsHJuqRby4KKwr+8otVwucY0tmt46IAoLeKo+ 0zpPbRW8pFQrfZ6bdy3Xv/O4oYaHnbZKIEXxMlmrH5QyOqM7kMvfeLX8 A/j4CEwC0EM68G/gkuPhzEbpirry703NgjJYk4FC49ggmMBk0Dy3DQvk aRx72g==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -1756,9 +1756,6 @@ arsukfjorden.gl.	3600	IN	NS	ns3-04.azure-dns.org.
 arsukfjorden.gl.	3600	IN	NS	ns4-04.azure-dns.info.
 arsukfood.gl.		3600	IN	NS	ns1.hosting.inuit.gl.
 arsukfood.gl.		3600	IN	NS	ns2.hosting.inuit.gl.
-artenika.gl.		3600	IN	NS	ns1.netim.net.
-artenika.gl.		3600	IN	NS	ns2.netim.net.
-artenika.gl.		3600	IN	NS	ns3.netim.net.
 artic-excursions.gl.	3600	IN	NS	ns1.simply.com.
 artic-excursions.gl.	3600	IN	NS	ns2.simply.com.
 artic-excursions.gl.	3600	IN	NS	ns3.simply.com.
@@ -18414,8 +18411,6 @@ sinerissamiradioqarfik.gl. 3600	IN	NS	adam.ns.cloudflare.com.
 sinerissamiradioqarfik.gl. 3600	IN	NS	sharon.ns.cloudflare.com.
 sinful.gl.		3600	IN	NS	ns1.wannafind.dk.
 sinful.gl.		3600	IN	NS	ns2.wannafind.dk.
-single.gl.		3600	IN	NS	ns1.dan.com.
-single.gl.		3600	IN	NS	ns2.dan.com.
 siorarsiorfik.gl.	3600	IN	NS	ns01.one.com.
 siorarsiorfik.gl.	3600	IN	NS	ns02.one.com.
 sip.gl.			3600	IN	NS	ns1.hosting.inuit.gl.
@@ -19774,8 +19769,6 @@ teamwork.gl.		3600	IN	NS	ns2.simply.com.
 teamwork.gl.		3600	IN	NS	ns3.simply.com.
 teamwork.gl.		3600	IN	DS	51726 13 2 ED9A0D1FC5A7BF47F1E40EF4A250199C22D260A3FCBB9C3AFD309713 B375EF03
 teamwork.gl.		3600	IN	RRSIG	DS 8 2 3600 20250428120000 20250207120000 57390 gl. VB5BMuzHFXs9hp/Kb7UbcF6CGTeRQGwB2YJAwkNe9DgB8UROJWeIb6rC Iy9ODZoy5xz9t5QPNZNKC7o9HNK7apZQLRjD6cff3BpCOL0oF8JRlgYl 6RDJ1NC0Oh8x5RJBqkazisUdlcLsEMmMMxfHTE9gRTEZxtQN8W98S07U ovUeZEEQ/BdDcBj5HhvS38CKTn/LrXFvd5p+8fYVVn39EWXlbHgYcymL dnOh6I7YcL9OV/oK+mFNZNTRXnG9yGad9xR6OKllsRhnWeK6BQ54M9jy rpROCiyZHq6UxiXbyCA+kMIhAu8Kn3JzQKNQeebUvQ9rNEXHZZSh/gkI Azo8ng==
-tech.gl.		3600	IN	NS	ns1.contact.hostnet.support.
-tech.gl.		3600	IN	NS	ns2.contact.hostnet.support.
 tef.gl.			3600	IN	NS	ns1.simply.com.
 tef.gl.			3600	IN	NS	ns2.simply.com.
 tef.gl.			3600	IN	NS	ns3.simply.com.
@@ -20630,6 +20623,10 @@ tw.gl.			3600	IN	NS	ns5.netim.net.
 twigle.gl.		3600	IN	NS	ns1.netim.net.
 twigle.gl.		3600	IN	NS	ns2.netim.net.
 twigle.gl.		3600	IN	NS	ns3.netim.net.
+twin.gl.		3600	IN	NS	ns1.blacknightdns.com.
+twin.gl.		3600	IN	NS	ns2.blacknightdns.com.
+twin.gl.		3600	IN	NS	ns3.blacknightdns.com.
+twin.gl.		3600	IN	NS	ns4.blacknightdns.com.
 twin-set.gl.		3600	IN	NS	ns1.register.it.
 twin-set.gl.		3600	IN	NS	ns2.register.it.
 twinkl.gl.		3600	IN	NS	ns1.101domain.com.
@@ -22016,9 +22013,6 @@ wyn.gl.			3600	IN	NS	ns1.blacknight.com.
 wyn.gl.			3600	IN	NS	ns2.blacknight.com.
 wyn.gl.			3600	IN	NS	ns3.blacknight.com.
 wyn.gl.			3600	IN	NS	ns4.blacknight.com.
-wynajem.gl.		3600	IN	NS	ns1.netim.net.
-wynajem.gl.		3600	IN	NS	ns2.netim.net.
-wynajem.gl.		3600	IN	NS	ns3.netim.net.
 wz.gl.			3600	IN	NS	ns01.one.com.
 wz.gl.			3600	IN	NS	ns02.one.com.
 wzhj.gl.		3600	IN	NS	ns0.1984.is.
@@ -22187,8 +22181,10 @@ xvideos.gl.		3600	IN	NS	ns1.serverstack.com.
 xvideos.gl.		3600	IN	NS	ns2.serverstack.com.
 xvideos.gl.		3600	IN	NS	ns3.serverstack.com.
 xvideos.gl.		3600	IN	NS	ns4.serverstack.com.
-xw.gl.			3600	IN	NS	ns156.herosite.pro.
-xw.gl.			3600	IN	NS	ns157.herosite.pro.
+xw.gl.			3600	IN	NS	ns1.mysecurecloudhost.com.
+xw.gl.			3600	IN	NS	ns2.mysecurecloudhost.com.
+xw.gl.			3600	IN	NS	ns3.mysecurecloudhost.com.
+xw.gl.			3600	IN	NS	ns4.mysecurecloudhost.com.
 xwdfj.gl.		3600	IN	NS	ns0.1984.is.
 xwdfj.gl.		3600	IN	NS	ns1.1984.is.
 xwdfj.gl.		3600	IN	NS	ns1.1984hosting.com.
@@ -23995,4 +23991,4 @@ VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. Y1v6YCMGj4s9yQklhWCXx85cHo7XgjG7XeGAGB57PU7+Lz4jCiDJMsY4 R+4nnPMpy6OH9sZcxkwF07DPfC5lLw8Gbog9ljPR7n4ivcEa+eZJaTXj LXertb5CywPqy9p7qqL4IBUJxIcenrgp/9DFXsXcB6TlHa9u3c8EfcUa yumwb2ZFin5AI2WlcPBDdqdq2tqFWcbPtaIO/eb361Hd/bfpH2887QcQ YbI5DVk/pcvK58igwxrZKAtmbnHyA6bErgSTpOhRRFie33xBKooFodoE LsosTenpFt04204AdyFHvJT/X8eJPVb7Iy28dnZ76J/q1LVO/NX8/zIe 437rGQ==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161561 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161570 900 1800 6048000 3600
