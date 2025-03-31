@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025033018 600 300 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1743357923"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025033102 600 300 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1743386428"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -17084,9 +17084,6 @@ artemis.cm.		3600	IN	NS	dns2.registrar-servers.com.
 artengo.cm.		3600	IN	NS	ns-74-c.gandi.net.
 artengo.cm.		3600	IN	NS	ns-113-b.gandi.net.
 artengo.cm.		3600	IN	NS	ns-252-a.gandi.net.
-artenika.cm.		3600	IN	NS	ns1.netim.net.
-artenika.cm.		3600	IN	NS	ns2.netim.net.
-artenika.cm.		3600	IN	NS	ns3.netim.net.
 artens.cm.		3600	IN	NS	nsa.perf1.fr.
 artens.cm.		3600	IN	NS	nsb.perf1.com.
 artens.cm.		3600	IN	NS	nsc.perf1.com.
@@ -31162,6 +31159,8 @@ envista.cm.		3600	IN	NS	dns2.idp365.net.
 envista.cm.		3600	IN	NS	dns3.idp365.net.
 enviza.cm.		3600	IN	NS	ns3.cernerns.com.
 enviza.cm.		3600	IN	NS	ns4.cernerns.com.
+enzo.cm.		3600	IN	NS	ns1.ict4u-solutions.com.
+enzo.cm.		3600	IN	NS	ns2.ict4u-solutions.com.
 eo.cm.			3600	IN	NS	ns1.4.cn.
 eo.cm.			3600	IN	NS	ns2.4.cn.
 eonline.cm.		3600	IN	NS	ns1.hastydns.com.
@@ -39964,6 +39963,8 @@ iobit.cm.		3600	IN	NS	ns1.adtraks.com.
 iobit.cm.		3600	IN	NS	ns2.adtraks.com.
 iolo.cm.		3600	IN	NS	ns1.camoogroup.com.
 iolo.cm.		3600	IN	NS	ns2.camoogroup.com.
+ion.cm.			3600	IN	NS	dns1.registrar-servers.com.
+ion.cm.			3600	IN	NS	dns2.registrar-servers.com.
 ionos.cm.		3600	IN	NS	ns1.parkingcrew.net.
 ionos.cm.		3600	IN	NS	ns2.parkingcrew.net.
 ios.cm.			3600	IN	NS	f1g1ns1.dnspod.net.
@@ -49647,10 +49648,10 @@ namesdatabase.cm.	3600	IN	NS	ns02.classmates.com.
 namesdatabase.cm.	3600	IN	NS	authns-ws.lax.mysite.com.
 nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
-ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
 ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
-ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
+ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
 ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
+ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
 nanaboubagroup.cm.	3600	IN	NS	ns2.tchaytchay.com.
 nanbudokaikan.cm.	3600	IN	NS	ns102.ovh.net.
@@ -51498,8 +51499,8 @@ okwin.cm.		3600	IN	NS	dns1.registrar-servers.com.
 okwin.cm.		3600	IN	NS	dns2.registrar-servers.com.
 okx.cm.			3600	IN	NS	bingo.ns.cloudflare.com.
 okx.cm.			3600	IN	NS	ruben.ns.cloudflare.com.
-okyl.cm.		3600	IN	NS	rose.ns.cloudflare.com.
-okyl.cm.		3600	IN	NS	everton.ns.cloudflare.com.
+okyl.cm.		3600	IN	NS	a4.share-dns.com.
+okyl.cm.		3600	IN	NS	b4.share-dns.net.
 ol.cm.			3600	IN	NS	ns1.netsto.net.
 ol.cm.			3600	IN	NS	ns2.netsto.net.
 ola.cm.			3600	IN	NS	ns3.abovedomains.com.
@@ -54018,6 +54019,8 @@ pinkberry.cm.		3600	IN	NS	ns02.trademarkarea.com.
 pinkberry.cm.		3600	IN	NS	ns03.trademarkarea.com.
 pinkbike.cm.		3600	IN	NS	ns3.abovedomains.com.
 pinkbike.cm.		3600	IN	NS	ns4.abovedomains.com.
+pinksale.cm.		3600	IN	NS	ns3.abovedomains.com.
+pinksale.cm.		3600	IN	NS	ns4.abovedomains.com.
 pinksalefinance.cm.	3600	IN	NS	elisa.ns.cloudflare.com.
 pinksalefinance.cm.	3600	IN	NS	cosmin.ns.cloudflare.com.
 pinktogether.cm.	3600	IN	NS	jfbextdns1.genmills.com.
@@ -62628,10 +62631,8 @@ sumup.cm.		3600	IN	NS	ns2.adtraks.com.
 sun.cm.			3600	IN	NS	a.dnspod.com.
 sun.cm.			3600	IN	NS	b.dnspod.com.
 sun.cm.			3600	IN	NS	c.dnspod.com.
-sunbeamsarl.cm.		3600	IN	NS	dns1.supremepanel.com.
-sunbeamsarl.cm.		3600	IN	NS	dns2.supremepanel.com.
-sunbeamsarl.cm.		3600	IN	NS	dns3.supremepanel.com.
-sunbeamsarl.cm.		3600	IN	NS	dns4.supremepanel.com.
+sunbeamsarl.cm.		3600	IN	NS	ns1.netsead.net.
+sunbeamsarl.cm.		3600	IN	NS	ns1.centos-webpanel.com.
 sunberhair.cm.		3600	IN	NS	ns1.adtraks.com.
 sunberhair.cm.		3600	IN	NS	ns2.adtraks.com.
 sunbet.cm.		3600	IN	NS	ns1.101domain.com.
@@ -63530,6 +63531,8 @@ tech.cm.		3600	IN	NS	f1g1ns1.dnspod.net.
 tech.cm.		3600	IN	NS	f1g1ns2.dnspod.net.
 tech-labs.cm.		3600	IN	NS	ns1.camoogroup.com.
 tech-labs.cm.		3600	IN	NS	ns2.camoogroup.com.
+tech11.cm.		3600	IN	NS	ns3.abovedomains.com.
+tech11.cm.		3600	IN	NS	ns4.abovedomains.com.
 tech4peace.cm.		3600	IN	NS	dns1.namecheaphosting.com.
 tech4peace.cm.		3600	IN	NS	dns2.namecheaphosting.com.
 techbridge.cm.		3600	IN	NS	ns1.lendaxas.com.
@@ -66480,8 +66483,8 @@ univ-maroua.cm.		3600	IN	NS	ns1.mtnbusiness.cm.
 univ-maroua.cm.		3600	IN	NS	ns2.mtnbusiness.cm.
 univ-ndere.cm.		3600	IN	NS	nsy.prosygma-cm.com.
 univ-ndere.cm.		3600	IN	NS	bamnyanga.univ-ndere.cm.
-bamnyanga.univ-ndere.cm. 3600	IN	AAAA	2001:43f8:1470:700::2
 bamnyanga.univ-ndere.cm. 3600	IN	A	192.145.186.130
+bamnyanga.univ-ndere.cm. 3600	IN	AAAA	2001:43f8:1470:700::2
 univ-ndere2.cm.		3600	IN	NS	ns3.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns4.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns5.cloud.stdigital.network.
@@ -67844,6 +67847,8 @@ vlg.cm.			3600	IN	NS	ns1.alidns.com.
 vlg.cm.			3600	IN	NS	ns2.alidns.com.
 vlog.cm.		3600	IN	NS	ns1.parkingcrew.net.
 vlog.cm.		3600	IN	NS	ns2.parkingcrew.net.
+vlxc.cm.		3600	IN	NS	ns3.abovedomains.com.
+vlxc.cm.		3600	IN	NS	ns4.abovedomains.com.
 vlxx.cm.		3600	IN	NS	sunny.ns.cloudflare.com.
 vlxx.cm.		3600	IN	NS	yadiel.ns.cloudflare.com.
 vm.cm.			3600	IN	NS	f1g1ns1.dnspod.net.
@@ -72674,4 +72679,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025033018 600 300 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025033102 600 300 1209600 3600
