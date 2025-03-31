@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161618 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. A0zzhTzD6JzJLt/ajH0Gh/1h8HSDZe4n7+oVbZ18OXWFk8hJSv8CSeg6 xTKbWHZ98YHXLOGWuQNwkk1bvhwdzPZhY3o2Y+WlF0hwTq9e7Lwvzisg +xKw6sOL8yCFkEZI8sgjboFWZ6Ulshj0jTvCFcW8ps+wB0dbQLVxQU01 5HAh5e8sMoDjNSKOdFF5M8I5xzIIxUuYU5aGbw7DrsqWqcTkjxtk0D/2 Oj1KZBgS1wwBSBjOuVhP94cXQDB5IbmGpTYCWh0TWRvhbQgj794l2C2d U8NRXa2g+pWNUGnFs0RuHvNbufRH1wppHxkC8m4UHyUDNMXKbmYeKFM/ Ob7KDg==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161624 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. kyH/kDtYVMrzepDeKEqyD3oZqx9zSIm4Gt9Pz3/WkvQIEFLvCcw2I/ag Gz7zKFe7EDSr/2YcM1hJVbmkziXMRERlecWpWptZY/ySOsAHln0zZEpq 61lpxx68m+8QMTnZvvxYK24r01JMYYVbFFhEkn0pX1J6NVPB/afEc60E NUrNynU4syrowCFmUBqg+lgHANHmJSwQhQL3TYzxDpNqBltBTvckNYFj 0/PmYdv6bi3YZdKY98sZZttWYSqkBCIgW6LKenef185V2pgv4dX2FbP3 8Dl/2bCRx54HqScZeb10om6phXs9VyUO8EXbz6vqrr/6eztz7Pu46C7g mmhSAg==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -2129,11 +2129,6 @@ avongirl.gl.		3600	IN	NS	dns2.cscdns.net.
 avot.gl.		3600	IN	NS	lisa.neostrada.nl.
 avot.gl.		3600	IN	NS	sandra.neostrada.nl.
 avot.gl.		3600	IN	NS	christina.neostrada.nl.
-aw.gl.			3600	IN	NS	ns1.linode.com.
-aw.gl.			3600	IN	NS	ns2.linode.com.
-aw.gl.			3600	IN	NS	ns3.linode.com.
-aw.gl.			3600	IN	NS	ns4.linode.com.
-aw.gl.			3600	IN	NS	ns5.linode.com.
 awa.gl.			3600	IN	NS	a.hosting.gl.
 awa.gl.			3600	IN	NS	b.hosting.gl.
 awa.gl.			3600	IN	NS	c.hosting.gl.
@@ -4762,6 +4757,8 @@ dollarstore.gl.		3600	IN	NS	c.hosting.gl.
 dollarstore.gl.		3600	IN	NS	d.hosting.gl.
 dolphin.gl.		3600	IN	NS	ns1.dns.ne.jp.
 dolphin.gl.		3600	IN	NS	ns2.dns.ne.jp.
+domain.gl.		3600	IN	NS	ns1.bodis.com.
+domain.gl.		3600	IN	NS	ns2.bodis.com.
 domainname.gl.		3600	IN	NS	ns1.register.be.
 domainname.gl.		3600	IN	NS	ns2.register.be.
 domainname.gl.		3600	IN	NS	ns3.register.be.
@@ -23502,4 +23499,4 @@ VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. Y1v6YCMGj4s9yQklhWCXx85cHo7XgjG7XeGAGB57PU7+Lz4jCiDJMsY4 R+4nnPMpy6OH9sZcxkwF07DPfC5lLw8Gbog9ljPR7n4ivcEa+eZJaTXj LXertb5CywPqy9p7qqL4IBUJxIcenrgp/9DFXsXcB6TlHa9u3c8EfcUa yumwb2ZFin5AI2WlcPBDdqdq2tqFWcbPtaIO/eb361Hd/bfpH2887QcQ YbI5DVk/pcvK58igwxrZKAtmbnHyA6bErgSTpOhRRFie33xBKooFodoE LsosTenpFt04204AdyFHvJT/X8eJPVb7Iy28dnZ76J/q1LVO/NX8/zIe 437rGQ==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161618 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161624 900 1800 6048000 3600
