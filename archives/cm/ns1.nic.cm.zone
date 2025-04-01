@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040109 600 300 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1743498319"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040110 600 300 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1743501921"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -20854,6 +20854,8 @@ bmcx.cm.		3600	IN	NS	ns1.netsto.net.
 bmcx.cm.		3600	IN	NS	ns2.netsto.net.
 bmf.cm.			3600	IN	NS	dns1.registrar-servers.com.
 bmf.cm.			3600	IN	NS	dns2.registrar-servers.com.
+bmfshopping.cm.		3600	IN	NS	gail.ns.cloudflare.com.
+bmfshopping.cm.		3600	IN	NS	tanner.ns.cloudflare.com.
 bmi.cm.			3600	IN	NS	ns3.abovedomains.com.
 bmi.cm.			3600	IN	NS	ns4.abovedomains.com.
 bmi-group.cm.		3600	IN	NS	dns1.cscdns.net.
@@ -33947,10 +33949,10 @@ france-travail-jeune.cm. 3600	IN	NS	obs.ns1.fr.
 france-travail-jeunes.cm. 3600	IN	NS	ns2.observatoiredesmarques.fr.
 france-travail-jeunes.cm. 3600	IN	NS	ns3.nameshield.net.
 france-travail-jeunes.cm. 3600	IN	NS	obs.ns1.fr.
-francedns.cm.		86400	IN	DS	41347 8 2 CF688370394A592FCE169602F653B368EC881D0596C5E245F2691FBC 84DFC6F5
 francedns.cm.		3600	IN	NS	ns1.netim.net.
 francedns.cm.		3600	IN	NS	ns2.netim.net.
 francedns.cm.		3600	IN	NS	ns3.netim.net.
+francedns.cm.		86400	IN	DS	41347 8 2 CF688370394A592FCE169602F653B368EC881D0596C5E245F2691FBC 84DFC6F5
 francescas.cm.		3600	IN	NS	ns1.adtraks.com.
 francescas.cm.		3600	IN	NS	ns2.adtraks.com.
 francetravail.cm.	3600	IN	NS	ns2.observatoiredesmarques.fr.
@@ -39353,8 +39355,8 @@ immigrationcanada.cm.	3600	IN	NS	ns8.lwsdns.com.
 immo.cm.		3600	IN	NS	ns1.nshostserver.net.
 immo.cm.		3600	IN	NS	ns2.nshostserver.net.
 immo.cm.		3600	IN	NS	ns3.nshostserver.net.
-immobat.cm.		3600	IN	NS	ns1.camoogroup.com.
-immobat.cm.		3600	IN	NS	ns2.camoogroup.com.
+immobat.cm.		3600	IN	NS	ns1.obambu.com.
+immobat.cm.		3600	IN	NS	ns2.obambu.com.
 immobilien.cm.		3600	IN	NS	a.ns14.net.
 immobilien.cm.		3600	IN	NS	b.ns14.net.
 immobilien.cm.		3600	IN	NS	c.ns14.net.
@@ -49606,10 +49608,10 @@ namesdatabase.cm.	3600	IN	NS	ns02.classmates.com.
 namesdatabase.cm.	3600	IN	NS	authns-ws.lax.mysite.com.
 nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
-ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
 ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
-ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
+ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
 ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
+ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
 nanaboubagroup.cm.	3600	IN	NS	ns2.tchaytchay.com.
 nanbudokaikan.cm.	3600	IN	NS	ns102.ovh.net.
@@ -72600,4 +72602,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040109 600 300 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040110 600 300 1209600 3600
