@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161678 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. gixj5PzeJuZHwMV3Vf4AzMmQmkYLqWyyYnVyco0G4UIUPIpGw8XA5ZCU ApcZsq0W1MMmR9aNlplRmoX6p5OJ+x7unD8MVXObIq4kM5g6nUcC+XJE F2nPFdApT6BBwB9HFNE16pWYXOzNF70UzAkad7ZT0ZjB29oB/7ZfYljA BxMcSEHJYdKp1cGIMWAk9YJlu1GV+xzXlgRk7nDVSa8dVUJE924CxG2i eyFV9CuKS/jYliW8PN6X5xGt0zIR1hAUrABTXx6WqLeM3chLMW52rxXS +/RSGgiD0fl+o03OJcHRMZqlEigzLJx76tOfsq96OmCqvZ7uxHKPfd49 Frdk/A==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161681 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250428120000 20250207120000 57390 gl. YBUFNrDdGSg3P/cW6nWPtSnbI34IiXC7CLN2xUY+wU9didTeL9KB20aN T9DSnel81jubEYOi64sXwmihh8iYOnUy5sCh70+E/w8mab/efHtAtD97 0HWtG5mYcp9m7LfmVWWd6pymLtUzoDh/CxsOYtsdWk2hvYxqdJZK//nt A+QLTJoxQrdF3loGLdnkOAEcbRMA8eEBW3hTX1yTJvd8JDkYwm8tZLrh hJjnaN8Vi4eFZh/8w15TuwUkPAVUBkk4qc/JdXCzyB/tlSI/KiGGs1B1 1Lq6E9sgHnH43ACKy60ftSHUWOXa+tP5HoGG/ebH7uOFFJvrPfgPMj/J AFBjWg==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -4834,8 +4834,6 @@ dq.gl.			3600	IN	NS	jaziel.ns.cloudflare.com.
 dq.gl.			3600	IN	NS	cecelia.ns.cloudflare.com.
 dr.gl.			3600	IN	NS	max.ns.cloudflare.com.
 dr.gl.			3600	IN	NS	beth.ns.cloudflare.com.
-draw.gl.		3600	IN	NS	ns1.101domain.com.
-draw.gl.		3600	IN	NS	ns2.101domain.com.
 dreigestirn.gl.		3600	IN	NS	a.hosting.gl.
 dreigestirn.gl.		3600	IN	NS	b.hosting.gl.
 dreigestirn.gl.		3600	IN	NS	c.hosting.gl.
@@ -20504,12 +20502,6 @@ vialto.gl.		3600	IN	NS	ns1.markmonitor.com.
 vialto.gl.		3600	IN	NS	ns2.markmonitor.com.
 vialtopartners.gl.	3600	IN	NS	ns1.markmonitor.com.
 vialtopartners.gl.	3600	IN	NS	ns2.markmonitor.com.
-viaplay.gl.		3600	IN	NS	ns1.zaccodns.com.
-viaplay.gl.		3600	IN	NS	ns2.zaccodns.se.
-viaplay.gl.		3600	IN	NS	dns1.zaccodigitaltrustlabs.com.
-viaplay.gl.		3600	IN	NS	dns2.zaccodigitaltrustlabs.net.
-viaplay.gl.		3600	IN	NS	dns3.zaccodigitaltrustlabs.se.
-viaplay.gl.		3600	IN	NS	dns4.zaccodigitaltrustlabs.se.
 video.gl.		3600	IN	NS	a.ns.tusass.gl.
 video.gl.		3600	IN	NS	b.ns.tusass.gl.
 videoc.gl.		3600	IN	NS	ns1.hosting.inuit.gl.
@@ -23117,4 +23109,4 @@ VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN NSEC3 1 1 0 103A7ABA VVMMLAPBUASJRB
 VV8869IB9FCEAHRJQC3ES9IQUTIA7J08.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. Y1v6YCMGj4s9yQklhWCXx85cHo7XgjG7XeGAGB57PU7+Lz4jCiDJMsY4 R+4nnPMpy6OH9sZcxkwF07DPfC5lLw8Gbog9ljPR7n4ivcEa+eZJaTXj LXertb5CywPqy9p7qqL4IBUJxIcenrgp/9DFXsXcB6TlHa9u3c8EfcUa yumwb2ZFin5AI2WlcPBDdqdq2tqFWcbPtaIO/eb361Hd/bfpH2887QcQ YbI5DVk/pcvK58igwxrZKAtmbnHyA6bErgSTpOhRRFie33xBKooFodoE LsosTenpFt04204AdyFHvJT/X8eJPVb7Iy28dnZ76J/q1LVO/NX8/zIe 437rGQ==
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN NSEC3 1 1 0 103A7ABA 01HA2IFGRC9CU1UGH30103D67N1TOO3V NS DS RRSIG
 VVMMLAPBUASJRB6RTHGJL2G4S86G5AJO.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250428120000 20250207120000 57390 gl. BNpzYUl87m1zlBUTQdKpYPPXiEnUak3HnK9oww8P2t6WTshQO0nmO+ak ICGS7lETHKO/AhepG/eiP359/c2M1ySCVh7c3nA1ZNaZ32bqaKJAffHR FREpEAR1OqxxiFarv9rxtjqjmoKwDt5Ldu7Z45Ge2HxaWJiWSqU47Bm6 rHpW6eVy9WaJPOKGSUZ6D73Jn5OZsDOoztiRIr9I1oh+Tcb5oJDgIqoe KTX11263Czi7nbyDz/cBP/sG0EqbdZbJjnoHpISgKAha8pyguA0+aNrM Q8AiNmhVXzXrctcMIacqhVje/U1iWNA9ZqoWnXURagGa7qaIAo2BZlxX 02e+0g==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161678 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022161681 900 1800 6048000 3600
