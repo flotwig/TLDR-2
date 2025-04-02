@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040205 600 300 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1743570035"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040211 600 300 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1743591623"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -2055,6 +2055,8 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 1588153.cm.		3600	IN	NS	ns2.alidns.com.
 15888.cm.		3600	IN	NS	ns1.netsto.net.
 15888.cm.		3600	IN	NS	ns2.netsto.net.
+159.cm.			3600	IN	NS	ns1.dns.com.
+159.cm.			3600	IN	NS	ns2.dns.com.
 159044.cm.		3600	IN	NS	ns1.alidns.com.
 159044.cm.		3600	IN	NS	ns2.alidns.com.
 1591.cm.		3600	IN	NS	ns1.alidns.com.
@@ -5641,6 +5643,8 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 39888.cm.		3600	IN	NS	jasmine.ns.cloudflare.com.
 398881.cm.		3600	IN	NS	ns1.alidns.com.
 398881.cm.		3600	IN	NS	ns2.alidns.com.
+399.cm.			3600	IN	NS	f1g1ns1.dnspod.net.
+399.cm.			3600	IN	NS	f1g1ns2.dnspod.net.
 3995008.cm.		3600	IN	NS	ns1.alidns.com.
 3995008.cm.		3600	IN	NS	ns2.alidns.com.
 399687.cm.		3600	IN	NS	ns1.alidns.com.
@@ -26467,8 +26471,8 @@ courseplay.cm.		3600	IN	NS	dns1.registrar-servers.com.
 courseplay.cm.		3600	IN	NS	dns2.registrar-servers.com.
 coursera.cm.		3600	IN	NS	ns1.bodis.com.
 coursera.cm.		3600	IN	NS	ns2.bodis.com.
-courses.cm.		3600	IN	NS	ns1.abovedomains.com.
-courses.cm.		3600	IN	NS	ns2.abovedomains.com.
+courses.cm.		3600	IN	NS	rdns1.abovedomains.com.
+courses.cm.		3600	IN	NS	rdns2.abovedomains.com.
 coursupreme.cm.		3600	IN	NS	kim.camnet.cm.
 coursupreme.cm.		3600	IN	NS	mbam.camnet.cm.
 couture.cm.		3600	IN	NS	ns1.camoogroup.com.
@@ -42930,6 +42934,8 @@ knowbe4.cm.		3600	IN	NS	ns2.parkingcrew.net.
 knowingearly.cm.	3600	IN	NS	ns1.jnj.com.
 knowingearly.cm.	3600	IN	NS	ns3.jnj.com.
 knowingearly.cm.	3600	IN	NS	ns5.jnj.com.
+knowledgeforchildren.cm. 3600	IN	NS	dayana.ns.cloudflare.com.
+knowledgeforchildren.cm. 3600	IN	NS	quincy.ns.cloudflare.com.
 knownoriginlabs.cm.	3600	IN	NS	ns1.markmonitor.com.
 knownoriginlabs.cm.	3600	IN	NS	ns2.markmonitor.com.
 knownoriginlabs.cm.	3600	IN	NS	ns3.markmonitor.com.
@@ -49536,8 +49542,8 @@ namesdatabase.cm.	3600	IN	NS	ns02.classmates.com.
 namesdatabase.cm.	3600	IN	NS	authns-ws.lax.mysite.com.
 nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
-ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
+ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
 ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
@@ -52502,8 +52508,6 @@ pako.cm.		3600	IN	NS	ns1.camoogroup.com.
 pako.cm.		3600	IN	NS	ns2.camoogroup.com.
 pakpay.cm.		3600	IN	NS	ns1.mtnbusiness.cm.
 pakpay.cm.		3600	IN	NS	ns2.mtnbusiness.cm.
-pal.cm.			3600	IN	NS	gene.ns.cloudflare.com.
-pal.cm.			3600	IN	NS	rudy.ns.cloudflare.com.
 paladin.cm.		3600	IN	NS	ns3.abovedomains.com.
 paladin.cm.		3600	IN	NS	ns4.abovedomains.com.
 palaisdelamicro.cm.	3600	IN	NS	ns1.camoogroup.com.
@@ -66333,8 +66337,8 @@ univ-maroua.cm.		3600	IN	NS	ns1.mtnbusiness.cm.
 univ-maroua.cm.		3600	IN	NS	ns2.mtnbusiness.cm.
 univ-ndere.cm.		3600	IN	NS	nsy.prosygma-cm.com.
 univ-ndere.cm.		3600	IN	NS	bamnyanga.univ-ndere.cm.
-bamnyanga.univ-ndere.cm. 3600	IN	AAAA	2001:43f8:1470:700::2
 bamnyanga.univ-ndere.cm. 3600	IN	A	192.145.186.130
+bamnyanga.univ-ndere.cm. 3600	IN	AAAA	2001:43f8:1470:700::2
 univ-ndere2.cm.		3600	IN	NS	ns3.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns4.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns5.cloud.stdigital.network.
@@ -68698,6 +68702,8 @@ westmarine.cm.		3600	IN	NS	ns1.adtraks.com.
 westmarine.cm.		3600	IN	NS	ns2.adtraks.com.
 westmedgroup.cm.	3600	IN	NS	ns1.parkingcrew.net.
 westmedgroup.cm.	3600	IN	NS	ns2.parkingcrew.net.
+westsidesoftware.cm.	3600	IN	NS	ns200.anycast.me.
+westsidesoftware.cm.	3600	IN	NS	dns200.anycast.me.
 wesw.cm.		3600	IN	NS	dan.ns.cloudflare.com.
 wesw.cm.		3600	IN	NS	irma.ns.cloudflare.com.
 wetflix.cm.		3600	IN	NS	ns1.monikerdns.net.
@@ -72517,4 +72523,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040205 600 300 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040211 600 300 1209600 3600
