@@ -1,4 +1,4 @@
-ni.			86400	IN	SOA	ns.ni. root.ns.ni. 2021113299 60 900 604801 86400
+ni.			86400	IN	SOA	ns.ni. root.ns.ni. 2021113302 60 900 604801 86400
 ni.			86400	IN	NS	ns.ni.
 ni.			86400	IN	NS	ns.uu.net.
 ni.			86400	IN	NS	ns.ideay.net.ni.
@@ -1149,8 +1149,8 @@ mascus.ni.		86400	IN	NS	ns4.leaseweb.nl.
 mascus.ni.		86400	IN	NS	ns5.leaseweb.nl.
 masglo.ni.		86400	IN	NS	ns01.trademarkarea.com.
 masglo.ni.		86400	IN	NS	ns02.trademarkarea.com.
-ns1.masterdiagnostica.ni. 86400	IN	A	213.172.61.66
-ns2.masterdiagnostica.ni. 86400	IN	A	90.161.205.242
+masterdiagnostica.ni.	86400	IN	NS	ns1.masterdiagnostica.ni.
+masterdiagnostica.ni.	86400	IN	NS	ns2.masterdiagnostica.ni.
 masterlock.ni.		86400	IN	NS	dns1.cscdns.net.
 masterlock.ni.		86400	IN	NS	dns2.cscdns.net.
 match.ni.		86400	IN	NS	dns1.p01.nsone.net.
@@ -2015,4 +2015,4 @@ zumex.ni.		86400	IN	NS	ns3.ascio.com.
 zumex.ni.		86400	IN	NS	ns4.ascio.com.
 zumtobel.ni.		86400	IN	NS	meadow.ns.cloudflare.com.
 zumtobel.ni.		86400	IN	NS	thaddeus.ns.cloudflare.com.
-ni.			86400	IN	SOA	ns.ni. root.ns.ni. 2021113299 60 900 604801 86400
+ni.			86400	IN	SOA	ns.ni. root.ns.ni. 2021113302 60 900 604801 86400
