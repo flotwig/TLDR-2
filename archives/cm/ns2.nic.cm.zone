@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040216 600 300 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1743609630"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040307 600 300 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1743663922"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -14277,6 +14277,8 @@ abt.cm.			3600	IN	NS	dns3.p03.nsone.net.
 abt.cm.			3600	IN	NS	ns01.icsn.com.
 abt.cm.			3600	IN	NS	ns02.icsn.com.
 abt.cm.			3600	IN	NS	ns03.icsn.com.
+abtc.cm.		3600	IN	NS	ns1.dn.com.
+abtc.cm.		3600	IN	NS	ns2.dn.com.
 abtelectronics.cm.	3600	IN	NS	ns1.adtraks.com.
 abtelectronics.cm.	3600	IN	NS	ns2.adtraks.com.
 abuc.cm.		3600	IN	NS	ns1.a2hosting.com.
@@ -20532,8 +20534,6 @@ blast.cm.		3600	IN	NS	ns3.abovedomains.com.
 blast.cm.		3600	IN	NS	ns4.abovedomains.com.
 blastarswap.cm.		3600	IN	NS	elisa.ns.cloudflare.com.
 blastarswap.cm.		3600	IN	NS	cosmin.ns.cloudflare.com.
-blasterswap.cm.		3600	IN	NS	elisa.ns.cloudflare.com.
-blasterswap.cm.		3600	IN	NS	cosmin.ns.cloudflare.com.
 blau.cm.		3600	IN	NS	ns1.adtraks.com.
 blau.cm.		3600	IN	NS	ns2.adtraks.com.
 blazeadvisor.cm.	3600	IN	NS	ns1.markmonitor.com.
@@ -30647,6 +30647,8 @@ elconfidencial.cm.	3600	IN	NS	ns1.hastydns.com.
 elconfidencial.cm.	3600	IN	NS	ns2.hastydns.com.
 eldorado.cm.		3600	IN	NS	tina.ns.cloudflare.com.
 eldorado.cm.		3600	IN	NS	alfred.ns.cloudflare.com.
+ele.cm.			3600	IN	NS	dalary.ns.cloudflare.com.
+ele.cm.			3600	IN	NS	elliott.ns.cloudflare.com.
 elearning.cm.		3600	IN	NS	ns3.cloud.stdigital.network.
 elearning.cm.		3600	IN	NS	ns4.cloud.stdigital.network.
 elearning.cm.		3600	IN	NS	ns5.cloud.stdigital.network.
@@ -39170,8 +39172,8 @@ iiii.cm.		3600	IN	NS	ns1.netsto.net.
 iiii.cm.		3600	IN	NS	ns2.netsto.net.
 iipl.cm.		3600	IN	NS	ns6.netsto.net.
 iipl.cm.		3600	IN	NS	ns7.netsto.net.
-iis.cm.			3600	IN	NS	venkat.ns.cloudflare.com.
-iis.cm.			3600	IN	NS	magdalena.ns.cloudflare.com.
+iis.cm.			3600	IN	NS	quincy.ns.cloudflare.com.
+iis.cm.			3600	IN	NS	jasmine.ns.cloudflare.com.
 ij.cm.			3600	IN	NS	ns1.parkingcrew.net.
 ij.cm.			3600	IN	NS	ns2.parkingcrew.net.
 ik.cm.			3600	IN	NS	dns1.registrar-servers.com.
@@ -48150,6 +48152,8 @@ monarch.cm.		3600	IN	NS	ns2.dreamhost.com.
 monarch.cm.		3600	IN	NS	ns3.dreamhost.com.
 monatele.cm.		3600	IN	NS	ns41.infomaniak.com.
 monatele.cm.		3600	IN	NS	ns42.infomaniak.com.
+moncasino.cm.		3600	IN	NS	ns20.ovh.net.
+moncasino.cm.		3600	IN	NS	dns20.ovh.net.
 monchoix.cm.		3600	IN	NS	ns0.thundercloud.uk.
 monchoix.cm.		3600	IN	NS	ns1.thundercloud.uk.
 moncler.cm.		3600	IN	NS	ns1.bodis.com.
@@ -49028,6 +49032,8 @@ mycareerdesignlab.cm.	3600	IN	NS	lewis.ns.cloudflare.com.
 mycareerdesignlab.cm.	3600	IN	NS	clarissa.ns.cloudflare.com.
 mycarpe.cm.		3600	IN	NS	ns1.adtraks.com.
 mycarpe.cm.		3600	IN	NS	ns2.adtraks.com.
+mycasino.cm.		3600	IN	NS	ns20.ovh.net.
+mycasino.cm.		3600	IN	NS	dns20.ovh.net.
 mycfavisit.cm.		3600	IN	NS	ns1.ii51.parklogic.com.
 mycfavisit.cm.		3600	IN	NS	ns2.ii51.parklogic.com.
 mychart.cm.		3600	IN	NS	ns1.parkingcrew.net.
@@ -49544,8 +49550,8 @@ namesdatabase.cm.	3600	IN	NS	ns02.classmates.com.
 namesdatabase.cm.	3600	IN	NS	authns-ws.lax.mysite.com.
 nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
-ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
 ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
+ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
 ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
 ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
@@ -59522,8 +59528,6 @@ sgbc.cm.		3600	IN	NS	tigdns01.socgen.com.
 sgbc.cm.		3600	IN	NS	tigdns02.socgen.com.
 sgbc.cm.		3600	IN	NS	tigdns05.socgen.com.
 sgbc.cm.		3600	IN	NS	tigdns06.socgen.com.
-sgbfinancial.cm.	3600	IN	NS	dns101.registrar-servers.com.
-sgbfinancial.cm.	3600	IN	NS	dns102.registrar-servers.com.
 sgbfinancialsa.cm.	3600	IN	NS	ns3.abovedomains.com.
 sgbfinancialsa.cm.	3600	IN	NS	ns4.abovedomains.com.
 sgfotx.cm.		3600	IN	NS	ns1.rfasource.com.
@@ -60380,7 +60384,9 @@ skittles.cm.		3600	IN	NS	ns-758.awsdns-30.net.
 skittles.cm.		3600	IN	NS	ns-1314.awsdns-36.org.
 skittles.cm.		3600	IN	NS	ns-1566.awsdns-03.co.uk.
 skm.cm.			3600	IN	NS	ns1.obambu.com.
+skm.cm.			3600	IN	NS	ns1.bluehost.com.
 skm.cm.			3600	IN	NS	ns2.obambu.com.
+skm.cm.			3600	IN	NS	ns2.bluehost.com.
 skoda.cm.		3600	IN	NS	isp2.viapraga.cz.
 skoda.cm.		3600	IN	NS	skoda2.skoda-auto.cz.
 skoda.cm.		3600	IN	NS	skoda3.skoda-auto.cz.
@@ -66345,8 +66351,8 @@ univ-maroua.cm.		3600	IN	NS	ns1.mtnbusiness.cm.
 univ-maroua.cm.		3600	IN	NS	ns2.mtnbusiness.cm.
 univ-ndere.cm.		3600	IN	NS	nsy.prosygma-cm.com.
 univ-ndere.cm.		3600	IN	NS	bamnyanga.univ-ndere.cm.
-bamnyanga.univ-ndere.cm. 3600	IN	AAAA	2001:43f8:1470:700::2
 bamnyanga.univ-ndere.cm. 3600	IN	A	192.145.186.130
+bamnyanga.univ-ndere.cm. 3600	IN	AAAA	2001:43f8:1470:700::2
 univ-ndere2.cm.		3600	IN	NS	ns3.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns4.cloud.stdigital.network.
 univ-ndere2.cm.		3600	IN	NS	ns5.cloud.stdigital.network.
@@ -72521,4 +72527,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040216 600 300 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040307 600 300 1209600 3600
