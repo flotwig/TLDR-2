@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040314 600 300 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1743689127"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040324 600 300 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1743721833"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -8265,6 +8265,8 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 5j.cm.			3600	IN	NS	virginia.ns.cloudflare.com.
 5k.cm.			3600	IN	NS	ns1.alidns.com.
 5k.cm.			3600	IN	NS	ns2.alidns.com.
+5m.cm.			3600	IN	NS	ns1.netsto.net.
+5m.cm.			3600	IN	NS	ns2.netsto.net.
 5movierulz.cm.		3600	IN	NS	demi.ns.cloudflare.com.
 5movierulz.cm.		3600	IN	NS	mcgrory.ns.cloudflare.com.
 5n.cm.			3600	IN	NS	ns1.netsto.net.
@@ -8281,6 +8283,8 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 5r.cm.			3600	IN	NS	ns7.netsto.net.
 5s.cm.			3600	IN	NS	ns1.netsto.net.
 5s.cm.			3600	IN	NS	ns2.netsto.net.
+5t.cm.			3600	IN	NS	ns1.netsto.net.
+5t.cm.			3600	IN	NS	ns2.netsto.net.
 5ty.cm.			3600	IN	NS	ns6.netsto.net.
 5ty.cm.			3600	IN	NS	ns7.netsto.net.
 5u.cm.			3600	IN	NS	amy.ns.cloudflare.com.
@@ -12095,8 +12099,8 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 88355.cm.		3600	IN	NS	ns2.netsto.net.
 88365.cm.		3600	IN	NS	ns6.netsto.net.
 88365.cm.		3600	IN	NS	ns7.netsto.net.
-883739.cm.		3600	IN	NS	reza.ns.cloudflare.com.
-883739.cm.		3600	IN	NS	major.ns.cloudflare.com.
+883739.cm.		3600	IN	NS	ns1.netsto.net.
+883739.cm.		3600	IN	NS	ns2.netsto.net.
 884.cm.			3600	IN	NS	hasslo.ns.cloudflare.com.
 884.cm.			3600	IN	NS	ursula.ns.cloudflare.com.
 88402.cm.		3600	IN	NS	ns1.1233dns.com.
@@ -15027,8 +15031,8 @@ agenceseo.cm.		3600	IN	NS	ns1.camoogroup.com.
 agenceseo.cm.		3600	IN	NS	ns2.camoogroup.com.
 agency.cm.		3600	IN	NS	meg.ns.cloudflare.com.
 agency.cm.		3600	IN	NS	cash.ns.cloudflare.com.
-agent.cm.		3600	IN	NS	ns1.netsto.net.
-agent.cm.		3600	IN	NS	ns2.netsto.net.
+agent.cm.		3600	IN	NS	cash.ns.cloudflare.com.
+agent.cm.		3600	IN	NS	nelly.ns.cloudflare.com.
 agentic.cm.		3600	IN	NS	ns1.afternic.com.
 agentic.cm.		3600	IN	NS	ns2.afternic.com.
 agentic.cm.		3600	IN	NS	ns3.verification-p3hndedku92qqwkxpavdud.ns101.verify.hn.
@@ -17768,8 +17772,6 @@ avg.cm.			3600	IN	NS	pns21.cloudns.net.
 avg.cm.			3600	IN	NS	pns22.cloudns.net.
 avg.cm.			3600	IN	NS	pns23.cloudns.net.
 avg.cm.			3600	IN	NS	pns24.cloudns.net.
-avia.cm.		3600	IN	NS	ns1.camoogroup.com.
-avia.cm.		3600	IN	NS	ns2.camoogroup.com.
 aviaday.cm.		3600	IN	NS	nsa.n0c.com.
 aviaday.cm.		3600	IN	NS	nsb.n0c.com.
 aviaday.cm.		3600	IN	NS	nsc.n0c.com.
@@ -30026,9 +30028,9 @@ eb.cm.			3600	IN	NS	pns21.cloudns.net.
 eb.cm.			3600	IN	NS	pns22.cloudns.net.
 eb.cm.			3600	IN	NS	pns23.cloudns.net.
 eb.cm.			3600	IN	NS	pns24.cloudns.net.
-eb-partnersgroup.cm.	3600	IN	NS	nsa.planethoster.net.
-eb-partnersgroup.cm.	3600	IN	NS	nsb.planethoster.net.
-eb-partnersgroup.cm.	3600	IN	NS	nsc.planethoster.net.
+eb-partnersgroup.cm.	3600	IN	NS	nsa.n0c.com.
+eb-partnersgroup.cm.	3600	IN	NS	nsb.n0c.com.
+eb-partnersgroup.cm.	3600	IN	NS	nsc.n0c.com.
 eb7.cm.			3600	IN	NS	ns6.netsto.net.
 eb7.cm.			3600	IN	NS	ns7.netsto.net.
 eba.cm.			3600	IN	NS	ns0.parkingcrew.net.
@@ -30454,8 +30456,10 @@ efirstbank.cm.		3600	IN	NS	ns1.hastydns.com.
 efirstbank.cm.		3600	IN	NS	ns2.hastydns.com.
 efo-ccaa.cm.		3600	IN	NS	ns1.globexcamhost.com.
 efo-ccaa.cm.		3600	IN	NS	ns2.globexcamhost.com.
-efo-ccaaefb.cm.		3600	IN	NS	ns1.camoogroup.com.
-efo-ccaaefb.cm.		3600	IN	NS	ns2.camoogroup.com.
+efo-ccaaefb.cm.		3600	IN	NS	ns9.lwsdns.com.
+efo-ccaaefb.cm.		3600	IN	NS	ns10.lwsdns.com.
+efo-ccaaefb.cm.		3600	IN	NS	ns11.lwsdns.com.
+efo-ccaaefb.cm.		3600	IN	NS	ns12.lwsdns.com.
 eftps.cm.		3600	IN	NS	ns1.ii50.parklogic.com.
 eftps.cm.		3600	IN	NS	ns2.ii50.parklogic.com.
 eg.cm.			3600	IN	NS	leah.ns.cloudflare.com.
@@ -30506,8 +30510,6 @@ eharmony.cm.		3600	IN	NS	pns21.cloudns.net.
 eharmony.cm.		3600	IN	NS	pns22.cloudns.net.
 eharmony.cm.		3600	IN	NS	pns23.cloudns.net.
 eharmony.cm.		3600	IN	NS	pns24.cloudns.net.
-ehd.cm.			3600	IN	NS	ns1.camoogroup.com.
-ehd.cm.			3600	IN	NS	ns2.camoogroup.com.
 ehealthinsurance.cm.	3600	IN	NS	ns1.hastydns.com.
 ehealthinsurance.cm.	3600	IN	NS	ns2.hastydns.com.
 ehiaccount.cm.		3600	IN	NS	ns1.markmonitor.com.
@@ -37077,6 +37079,9 @@ helpme.cm.		3600	IN	NS	ns2.createsend.com.
 helpme.cm.		3600	IN	NS	ns3.createsend.com.
 helpme.cm.		3600	IN	NS	ns4.createsend.com.
 helpme.cm.		3600	IN	NS	ns5.createsend.com.
+helu.cm.		3600	IN	NS	ns.udag.de.
+helu.cm.		3600	IN	NS	ns.udag.net.
+helu.cm.		3600	IN	NS	ns.udag.org.
 helzberg.cm.		3600	IN	NS	ns1.adtraks.com.
 helzberg.cm.		3600	IN	NS	ns2.adtraks.com.
 hemle.cm.		3600	IN	NS	anton.ns.cloudflare.com.
@@ -38117,6 +38122,8 @@ horiba.cm.		3600	IN	NS	rns2.rightsdns.com.
 horiken.cm.		3600	IN	NS	ns.sensyu.ne.jp.
 horiken.cm.		3600	IN	NS	ns2.sensyu.ne.jp.
 horiken.cm.		3600	IN	NS	ns3.sensyu.ne.jp.
+horion.cm.		3600	IN	NS	ns1.camoogroup.com.
+horion.cm.		3600	IN	NS	ns2.camoogroup.com.
 horizoncommodities.cm.	3600	IN	NS	ns1.mtnbusiness.cm.
 horizoncommodities.cm.	3600	IN	NS	ns2.mtnbusiness.cm.
 horoscope.cm.		3600	IN	NS	ns1.parkingcrew.net.
@@ -53828,6 +53835,8 @@ pierreetvacances.cm.	3600	IN	NS	ns1.adtraks.com.
 pierreetvacances.cm.	3600	IN	NS	ns2.adtraks.com.
 pieter.cm.		3600	IN	NS	jobs.ns.cloudflare.com.
 pieter.cm.		3600	IN	NS	janet.ns.cloudflare.com.
+pig.cm.			3600	IN	NS	n1.xundns.com.
+pig.cm.			3600	IN	NS	n2.xundns.com.
 piges2021.cm.		3600	IN	NS	nsa.n0c.com.
 piges2021.cm.		3600	IN	NS	nsb.n0c.com.
 piges2021.cm.		3600	IN	NS	nsc.n0c.com.
@@ -72521,4 +72530,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040314 600 300 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040324 600 300 1209600 3600
