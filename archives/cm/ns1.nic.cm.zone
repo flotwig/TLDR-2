@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040505 600 300 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1743829525"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040507 600 300 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1743836726"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -11038,6 +11038,8 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 7h.cm.			3600	IN	NS	ns2.netsto.net.
 7k.cm.			3600	IN	NS	ns1.netsto.net.
 7k.cm.			3600	IN	NS	ns2.netsto.net.
+7k6k.cm.		3600	IN	NS	ns1.netsto.net.
+7k6k.cm.		3600	IN	NS	ns2.netsto.net.
 7k7k.cm.		3600	IN	NS	ns1.netsto.net.
 7k7k.cm.		3600	IN	NS	ns2.netsto.net.
 7k8k.cm.		3600	IN	NS	ns1.netsto.net.
@@ -18285,9 +18287,9 @@ balloon.cm.		3600	IN	NS	ns2.hostmered.com.
 balmain.cm.		3600	IN	NS	ns.domainnetwork.se.
 balmain.cm.		3600	IN	NS	ns2.domainnetwork.se.
 balmain.cm.		3600	IN	NS	ns3.domainnetwork.com.
-balombo.cm.		86400	IN	DS	2371 13 2 ADA93C4533E71B7975ABEF90C62E31FA0BC9AE51EAD940BA61278D2A 5A7F0C52
 balombo.cm.		3600	IN	NS	aarav.ns.cloudflare.com.
 balombo.cm.		3600	IN	NS	daphne.ns.cloudflare.com.
+balombo.cm.		86400	IN	DS	2371 13 2 ADA93C4533E71B7975ABEF90C62E31FA0BC9AE51EAD940BA61278D2A 5A7F0C52
 balomoproduction.cm.	3600	IN	NS	ns0.thundercloud.uk.
 balomoproduction.cm.	3600	IN	NS	ns1.thundercloud.uk.
 baloon.cm.		3600	IN	NS	ns1.bdm.microsoftonline.com.
@@ -37518,10 +37520,6 @@ highroller.cm.		3600	IN	NS	dns2.idp365.net.
 highroller.cm.		3600	IN	NS	dns3.idp365.net.
 highupweb.cm.		3600	IN	NS	dns1.namecheaphosting.com.
 highupweb.cm.		3600	IN	NS	dns2.namecheaphosting.com.
-highwinds.cm.		3600	IN	NS	ns1bdg.name.com.
-highwinds.cm.		3600	IN	NS	ns2fhn.name.com.
-highwinds.cm.		3600	IN	NS	ns3qty.name.com.
-highwinds.cm.		3600	IN	NS	ns4dls.name.com.
 hikvision.cm.		3600	IN	NS	ns1.markmonitor.com.
 hikvision.cm.		3600	IN	NS	ns2.markmonitor.com.
 hilahotel.cm.		3600	IN	NS	ns1.globexcamhost.com.
@@ -49430,8 +49428,8 @@ namesdatabase.cm.	3600	IN	NS	ns02.classmates.com.
 namesdatabase.cm.	3600	IN	NS	authns-ws.lax.mysite.com.
 nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
-ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
 ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
+ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
 ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
 ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
@@ -61611,10 +61609,6 @@ stabletech.cm.		3600	IN	NS	ns1.camoogroup.com.
 stabletech.cm.		3600	IN	NS	ns2.camoogroup.com.
 stackoverflow.cm.	3600	IN	NS	ns1.parkingcrew.net.
 stackoverflow.cm.	3600	IN	NS	ns2.parkingcrew.net.
-stackpath.cm.		3600	IN	NS	ns1bdg.name.com.
-stackpath.cm.		3600	IN	NS	ns2fhn.name.com.
-stackpath.cm.		3600	IN	NS	ns3qty.name.com.
-stackpath.cm.		3600	IN	NS	ns4dls.name.com.
 stadia.cm.		3600	IN	NS	ns1.markmonitor.com.
 stadia.cm.		3600	IN	NS	ns3.markmonitor.com.
 stadlmann.cm.		3600	IN	NS	dns-01.2sic.net.
@@ -72421,4 +72415,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040505 600 300 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040507 600 300 1209600 3600
