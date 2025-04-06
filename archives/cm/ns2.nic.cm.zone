@@ -1,5 +1,5 @@
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040616 600 300 1209600 3600
-cm.			3600	IN	TXT	"Generation Time: 1743955236"
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040619 600 300 1209600 3600
+cm.			3600	IN	TXT	"Generation Time: 1743966022"
 cm.			3600	IN	A	195.24.205.60
 cm.			3600	IN	NS	ns.itu.ch.
 cm.			3600	IN	NS	ns1.nic.cm.
@@ -3953,6 +3953,8 @@ cm.			3600	IN	NS	phloem.uoregon.edu.
 2999.cm.		3600	IN	NS	ns2.netsto.net.
 29tk.cm.		3600	IN	NS	barbara.ns.cloudflare.com.
 29tk.cm.		3600	IN	NS	vicente.ns.cloudflare.com.
+2a.cm.			3600	IN	NS	ns1.netsto.net.
+2a.cm.			3600	IN	NS	ns2.netsto.net.
 2b.cm.			3600	IN	NS	freedns1.registrar-servers.com.
 2b.cm.			3600	IN	NS	freedns2.registrar-servers.com.
 2b.cm.			3600	IN	NS	freedns3.registrar-servers.com.
@@ -31858,6 +31860,8 @@ excelsior.cm.		3600	IN	NS	ns2.xserver.jp.
 excelsior.cm.		3600	IN	NS	ns3.xserver.jp.
 excelsior.cm.		3600	IN	NS	ns4.xserver.jp.
 excelsior.cm.		3600	IN	NS	ns5.xserver.jp.
+exch.cm.		3600	IN	NS	ns3.my-ndns.com.
+exch.cm.		3600	IN	NS	ns4.my-ndns.com.
 exchange.cm.		3600	IN	NS	nsgbr.comlaude.co.uk.
 exchange.cm.		3600	IN	NS	nssui.comlaude.ch.
 exchange.cm.		3600	IN	NS	nsusa.comlaude.net.
@@ -45302,8 +45306,6 @@ lybibep-douala.cm.	3600	IN	NS	ns1.ccntechnologies.us.
 lybibep-douala.cm.	3600	IN	NS	ns2.ccntechnologies.us.
 lybibo-douala.cm.	3600	IN	NS	ns1.ccntechnologies.us.
 lybibo-douala.cm.	3600	IN	NS	ns2.ccntechnologies.us.
-lybilnkong.cm.		3600	IN	NS	ns1.camoogroup.com.
-lybilnkong.cm.		3600	IN	NS	ns2.camoogroup.com.
 lycamobile.cm.		3600	IN	NS	ns1.brandshelter.com.
 lycamobile.cm.		3600	IN	NS	ns2.brandshelter.de.
 lycamobile.cm.		3600	IN	NS	ns3.brandshelter.info.
@@ -49418,8 +49420,8 @@ nameserver4you.cm.	3600	IN	NS	ns1.nameserver4you.cm.
 nameserver4you.cm.	3600	IN	NS	ns2.nameserver4you.cm.
 ns1.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::1bf1:d320
 ns1.nameserver4you.cm.	3600	IN	A	38.145.210.188
-ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
 ns2.nameserver4you.cm.	3600	IN	AAAA	2605:f700:40:401::242d:9854
+ns2.nameserver4you.cm.	3600	IN	A	38.145.210.187
 nanaboubagroup.cm.	3600	IN	NS	ns1.tchaytchay.com.
 nanaboubagroup.cm.	3600	IN	NS	ns2.tchaytchay.com.
 nanbudokaikan.cm.	3600	IN	NS	ns102.ovh.net.
@@ -50687,8 +50689,8 @@ nsimalen.cm.		3600	IN	NS	ns38a.haisoft.net.
 nsimalen.cm.		3600	IN	NS	ns38b.haisoft.net.
 nsoroyalpalace.cm.	3600	IN	NS	ns1.mtnbusiness.cm.
 nsoroyalpalace.cm.	3600	IN	NS	ns2.mtnbusiness.cm.
-nssbm.cm.		3600	IN	NS	ullis.ns.cloudflare.com.
-nssbm.cm.		3600	IN	NS	anderson.ns.cloudflare.com.
+nssbm.cm.		3600	IN	NS	ns1.netsto.net.
+nssbm.cm.		3600	IN	NS	ns2.netsto.net.
 nsv9.cm.		3600	IN	NS	ns6.netsto.net.
 nsv9.cm.		3600	IN	NS	ns7.netsto.net.
 nt.cm.			3600	IN	NS	ns1.parkingcrew.net.
@@ -68319,8 +68321,8 @@ wbmason.cm.		3600	IN	NS	ns11.abovedomains.com.
 wbmason.cm.		3600	IN	NS	ns12.abovedomains.com.
 wbotcm.cm.		3600	IN	NS	ns1.netsto.net.
 wbotcm.cm.		3600	IN	NS	ns2.netsto.net.
-wbssb.cm.		3600	IN	NS	ullis.ns.cloudflare.com.
-wbssb.cm.		3600	IN	NS	anderson.ns.cloudflare.com.
+wbssb.cm.		3600	IN	NS	ns1.netsto.net.
+wbssb.cm.		3600	IN	NS	ns2.netsto.net.
 wbtc.cm.		3600	IN	NS	ns1.parkingcrew.net.
 wbtc.cm.		3600	IN	NS	ns2.parkingcrew.net.
 wby.cm.			3600	IN	NS	ns1.dns.com.
@@ -72430,4 +72432,4 @@ zzz49.cm.		3600	IN	NS	ns1.netsto.net.
 zzz49.cm.		3600	IN	NS	ns2.netsto.net.
 zzzb.cm.		3600	IN	NS	ns1.alidns.com.
 zzzb.cm.		3600	IN	NS	ns2.alidns.com.
-cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040616 600 300 1209600 3600
+cm.			3600	IN	SOA	ns1.nic.cm. dotcm.antic.cm. 2025040619 600 300 1209600 3600
