@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022162284 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250620190000 20250401190000 57390 gl. NTFgRRHnucGwK/2PrV2aeXpcJdz8goKyF4qgpSngrNWJ7ZZDR0syNrqq VluOOqoYjPMGrSkOjTiIYfL+p8MCAz3whcNA3+GWfeQD/iR0AkcNMpJS IFtZnmPD7JkX8+BPE9cOOReVhviNMIexAkxkG23dwvHyCWglt6/L2X4p vBBXGuTWaA/sQeBr9+NlxTMf4cSh4sxLx6Y7/SvlEcwceB8U8+aKZa7z IXO+6BETXsSZfjWxKLuUWV2HCfnsK7aprz0MQOGJFKIbIvfiI+vPZ38V zG/YJUeUZPtH969aeZuicj5Gw0ILeMA9lKWYLBlfBfhuYXRLu7H6cSKY hLLzIg==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022162287 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250620190000 20250401190000 57390 gl. IFSSXwM8XQfeu/L93Vs8sS3IuDqomPoTwHqiAnOJcysjZ6bofuFt6J/5 q014Jw5lWxxlIzmdiB4dvR+x7cydZiqDPg/dE0QwOVp9AZHZHPaIoiQN Qqwqv12RF2rBfd+8UcU+lRrNbM59bJO56hPyoFBO6yi5629kIUIWh+xE fCYmNWzb4me1Eh/hSmtruRfslk+HU5U5/juyq/+qWDQjUagf4lEob4lB oifMsGJkaxXNqoUZu8htGEzUiGnpVistYG/AQRH+3cydxgH9bY12c1f0 R4ITbF6Dw7ozN3aud3WZuNJejF5lLldDmjEDrZEM8Zcfpxx+tEPuo+fy nZsB2Q==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -518,6 +518,10 @@ aasiaatvvs.gl.		3600	IN	NS	ns01.one.com.
 aasiaatvvs.gl.		3600	IN	NS	ns02.one.com.
 aasiaatvvs.gl.		3600	IN	DS	62978 13 2 5AE47A98907FC65E29C1A71C9D09AF09ABFFC339FBABCD1FE6FB42FC 50B382EC
 aasiaatvvs.gl.		3600	IN	RRSIG	DS 8 2 3600 20250620190000 20250401190000 57390 gl. PBI/fY6oq1o4ujdcWXTZEVOozwUSLN+r8/rle5be8habOIQL/+2efnoZ EiSytV466LNTkK7P2QsWdAl0qm6ZSjOG416KWZUCfTl/IkjA79CdNip6 9r+rdLTZ5KJhNFvhaSeH0XjntO86byFsjS4xyHSK6xo12Z2l7L/lQP5p Lz7kOT4Xk54VApI1gWLCMPq+M4ypBoP+bDyeIc6U4KVxU0IXWkcKW/7o w6L6rU4HMMCm67u5hcGDFfDC/xymoFZNviCLhqhcaQpguH1j85O8hUat BTpKFiqx0kSKSguFCObRvZrwxRu5cQGsyCF9/4CWdFBUTz4mny9fFT2p otucoA==
+aaxwhs.gl.		3600	IN	NS	ns1.dnsexit.com.
+aaxwhs.gl.		3600	IN	NS	ns2.dnsexit.com.
+aaxwhs.gl.		3600	IN	NS	ns3.dnsexit.com.
+aaxwhs.gl.		3600	IN	NS	ns4.dnsexit.com.
 ab.gl.			3600	IN	NS	ns1.dns-parking.com.
 ab.gl.			3600	IN	NS	ns2.dns-parking.com.
 abb.gl.			3600	IN	NS	a4-64.akam.net.
@@ -557,6 +561,10 @@ about-you.gl.		3600	IN	NS	ns1-c.nadns1.com.
 aboutyou.gl.		3600	IN	NS	ns1-a.nadns1.fr.
 aboutyou.gl.		3600	IN	NS	ns1-b.nadns1.com.
 aboutyou.gl.		3600	IN	NS	ns1-c.nadns1.com.
+abuejq.gl.		3600	IN	NS	ns1.dnsexit.com.
+abuejq.gl.		3600	IN	NS	ns2.dnsexit.com.
+abuejq.gl.		3600	IN	NS	ns3.dnsexit.com.
+abuejq.gl.		3600	IN	NS	ns4.dnsexit.com.
 abz.gl.			3600	IN	NS	ns1.timeweb.ru.
 abz.gl.			3600	IN	NS	ns2.timeweb.ru.
 abz.gl.			3600	IN	NS	ns3.timeweb.org.
@@ -754,10 +762,6 @@ ahc.gl.			3600	IN	NS	ns1.eurodns.com.
 ahc.gl.			3600	IN	NS	ns2.eurodns.com.
 ahc.gl.			3600	IN	NS	ns3.eurodns.com.
 ahc.gl.			3600	IN	NS	ns4.eurodns.com.
-ahgiuwv.gl.		3600	IN	NS	ns1.dnsexit.com.
-ahgiuwv.gl.		3600	IN	NS	ns2.dnsexit.com.
-ahgiuwv.gl.		3600	IN	NS	ns3.dnsexit.com.
-ahgiuwv.gl.		3600	IN	NS	ns4.dnsexit.com.
 ahmadiyya.gl.		3600	IN	NS	ns1-lion.vivawebhost.com.
 ahmadiyya.gl.		3600	IN	NS	ns2-lion.vivawebhost.com.
 ahumada.gl.		3600	IN	NS	ns1.cdmon.net.
@@ -1454,10 +1458,6 @@ aqqutuniversity.gl.	3600	IN	NS	ns3.modulo.gl.
 aqutsisut.gl.		3600	IN	NS	ns-321.awsdns-40.com.
 aqutsisut.gl.		3600	IN	NS	ns-1391.awsdns-45.org.
 aqutsisut.gl.		3600	IN	NS	ns-1896.awsdns-45.co.uk.
-aqzngwe.gl.		3600	IN	NS	ns1.dnsexit.com.
-aqzngwe.gl.		3600	IN	NS	ns2.dnsexit.com.
-aqzngwe.gl.		3600	IN	NS	ns3.dnsexit.com.
-aqzngwe.gl.		3600	IN	NS	ns4.dnsexit.com.
 ar.gl.			3600	IN	NS	a.hosting.gl.
 ar.gl.			3600	IN	NS	b.hosting.gl.
 ar.gl.			3600	IN	NS	c.hosting.gl.
@@ -1946,10 +1946,6 @@ atc.gl.			3600	IN	NS	ada.ns.cloudflare.com.
 atc.gl.			3600	IN	NS	mark.ns.cloudflare.com.
 atcon.gl.		3600	IN	NS	ns1.hosting.inuit.gl.
 atcon.gl.		3600	IN	NS	ns2.hosting.inuit.gl.
-atiruel.gl.		3600	IN	NS	ns1.dnsexit.com.
-atiruel.gl.		3600	IN	NS	ns2.dnsexit.com.
-atiruel.gl.		3600	IN	NS	ns3.dnsexit.com.
-atiruel.gl.		3600	IN	NS	ns4.dnsexit.com.
 atisat.gl.		3600	IN	NS	ns1.nunahosting.net.
 atisat.gl.		3600	IN	NS	ns2.nunahosting.net.
 atisat.gl.		3600	IN	NS	ns3.nunahosting.net.
@@ -2017,12 +2013,20 @@ au.gl.			3600	IN	NS	ns-1409.awsdns-48.org.
 au.gl.			3600	IN	NS	ns-1574.awsdns-04.co.uk.
 aua.gl.			3600	IN	NS	ns01.one.com.
 aua.gl.			3600	IN	NS	ns02.one.com.
+aubjpd.gl.		3600	IN	NS	ns1.dnsexit.com.
+aubjpd.gl.		3600	IN	NS	ns2.dnsexit.com.
+aubjpd.gl.		3600	IN	NS	ns3.dnsexit.com.
+aubjpd.gl.		3600	IN	NS	ns4.dnsexit.com.
 audi.gl.		3600	IN	NS	ns2.audi.de.
 audi.gl.		3600	IN	NS	ns5.xc-ns.de.
 audit.gl.		3600	IN	NS	ns1.arvixeshared.com.
 audit.gl.		3600	IN	NS	ns2.arvixeshared.com.
 aul.gl.			3600	IN	NS	ns01.one.com.
 aul.gl.			3600	IN	NS	ns02.one.com.
+aulvbv.gl.		3600	IN	NS	ns1.dnsexit.com.
+aulvbv.gl.		3600	IN	NS	ns2.dnsexit.com.
+aulvbv.gl.		3600	IN	NS	ns3.dnsexit.com.
+aulvbv.gl.		3600	IN	NS	ns4.dnsexit.com.
 aurora.gl.		3600	IN	NS	a.hosting.gl.
 aurora.gl.		3600	IN	NS	b.hosting.gl.
 aurora.gl.		3600	IN	NS	c.hosting.gl.
@@ -2190,10 +2194,6 @@ axis.gl.		3600	IN	NS	nic.axis.com.
 axis.gl.		3600	IN	NS	nic2.axis.com.
 axis.gl.		3600	IN	NS	nic3.axis.com.
 axis.gl.		3600	IN	NS	nic4.axis.com.
-axneywz.gl.		3600	IN	NS	ns1.dnsexit.com.
-axneywz.gl.		3600	IN	NS	ns2.dnsexit.com.
-axneywz.gl.		3600	IN	NS	ns3.dnsexit.com.
-axneywz.gl.		3600	IN	NS	ns4.dnsexit.com.
 axvmclw.gl.		3600	IN	NS	ns1.dnsexit.com.
 axvmclw.gl.		3600	IN	NS	ns2.dnsexit.com.
 axvmclw.gl.		3600	IN	NS	ns3.dnsexit.com.
@@ -2226,6 +2226,10 @@ azure2go.gl.		3600	IN	NS	ns1.eurodns.com.
 azure2go.gl.		3600	IN	NS	ns2.eurodns.com.
 azure2go.gl.		3600	IN	NS	ns3.eurodns.com.
 azure2go.gl.		3600	IN	NS	ns4.eurodns.com.
+azyski.gl.		3600	IN	NS	ns1.dnsexit.com.
+azyski.gl.		3600	IN	NS	ns2.dnsexit.com.
+azyski.gl.		3600	IN	NS	ns3.dnsexit.com.
+azyski.gl.		3600	IN	NS	ns4.dnsexit.com.
 b.gl.			3600	IN	NS	ns-ed1.goneo.de.
 b.gl.			3600	IN	NS	ns-ed2.goneo.de.
 b2b.gl.			3600	IN	NS	otto.ns.cloudflare.com.
@@ -2472,10 +2476,6 @@ bdalton.gl.		3600	IN	NS	ns2.barnesandnoble.com.
 bdalton.gl.		3600	IN	NS	ns3.barnesandnoble.com.
 bdalton.gl.		3600	IN	NS	ns4.barnesandnoble.com.
 bdalton.gl.		3600	IN	NS	mail9th1.barnesandnoble.com.
-bdnxtlh.gl.		3600	IN	NS	ns1.dnsexit.com.
-bdnxtlh.gl.		3600	IN	NS	ns2.dnsexit.com.
-bdnxtlh.gl.		3600	IN	NS	ns3.dnsexit.com.
-bdnxtlh.gl.		3600	IN	NS	ns4.dnsexit.com.
 bdo.gl.			3600	IN	NS	ns1.eurodns.com.
 bdo.gl.			3600	IN	NS	ns2.eurodns.com.
 bdo.gl.			3600	IN	NS	ns3.eurodns.com.
@@ -2656,10 +2656,6 @@ bettogo.gl.		3600	IN	NS	ns0.rro.de.
 bettogo.gl.		3600	IN	NS	ns1.rro.de.
 bettogoal.gl.		3600	IN	NS	ns0.rro.de.
 bettogoal.gl.		3600	IN	NS	ns1.rro.de.
-beygpmu.gl.		3600	IN	NS	ns1.dnsexit.com.
-beygpmu.gl.		3600	IN	NS	ns2.dnsexit.com.
-beygpmu.gl.		3600	IN	NS	ns3.dnsexit.com.
-beygpmu.gl.		3600	IN	NS	ns4.dnsexit.com.
 beyond.gl.		3600	IN	NS	ns1.digitalocean.com.
 beyond.gl.		3600	IN	NS	ns2.digitalocean.com.
 beyondairbnb.gl.	3600	IN	NS	ns1.markmonitor.com.
@@ -2823,10 +2819,6 @@ bitso.gl.		3600	IN	NS	ns4.markmonitor.com.
 bitso.gl.		3600	IN	NS	ns5.markmonitor.com.
 bitso.gl.		3600	IN	NS	ns6.markmonitor.com.
 bitso.gl.		3600	IN	NS	ns7.markmonitor.com.
-biuyscm.gl.		3600	IN	NS	ns1.dnsexit.com.
-biuyscm.gl.		3600	IN	NS	ns2.dnsexit.com.
-biuyscm.gl.		3600	IN	NS	ns3.dnsexit.com.
-biuyscm.gl.		3600	IN	NS	ns4.dnsexit.com.
 biz.gl.			3600	IN	NS	ns1.nic.name.pm.
 biz.gl.			3600	IN	NS	ns2.nic.name.pm.
 biz.gl.			3600	IN	NS	ns3.nic.name.pm.
@@ -3429,6 +3421,10 @@ bwin.gl.		3600	IN	NS	dns3.itsfogo.com.
 bwin.gl.		3600	IN	NS	dns4.itsfogo.com.
 bwin.gl.		3600	IN	NS	dns5.itsfogo.com.
 bwin.gl.		3600	IN	NS	dns6.itsfogo.com.
+bwqlnu.gl.		3600	IN	NS	ns1.dnsexit.com.
+bwqlnu.gl.		3600	IN	NS	ns2.dnsexit.com.
+bwqlnu.gl.		3600	IN	NS	ns3.dnsexit.com.
+bwqlnu.gl.		3600	IN	NS	ns4.dnsexit.com.
 bws.gl.			3600	IN	NS	ns1.eurodns.com.
 bws.gl.			3600	IN	NS	ns2.eurodns.com.
 bws.gl.			3600	IN	NS	ns3.eurodns.com.
@@ -3719,6 +3715,10 @@ centerbo.gl.		3600	IN	NS	ns02.one.com.
 centralraadgivningsenhed.gl. 3600 IN	NS	ns1.modulo.gl.
 centralraadgivningsenhed.gl. 3600 IN	NS	ns2.modulo.gl.
 centralraadgivningsenhed.gl. 3600 IN	NS	ns3.modulo.gl.
+cepjhe.gl.		3600	IN	NS	ns1.dnsexit.com.
+cepjhe.gl.		3600	IN	NS	ns2.dnsexit.com.
+cepjhe.gl.		3600	IN	NS	ns3.dnsexit.com.
+cepjhe.gl.		3600	IN	NS	ns4.dnsexit.com.
 cert.gl.		3600	IN	NS	ns1.modulo.gl.
 cert.gl.		3600	IN	NS	ns2.modulo.gl.
 cert.gl.		3600	IN	NS	ns3.modulo.gl.
@@ -3848,10 +3848,6 @@ ciencia.gl.		3600	IN	NS	ns3.dinahosting.com.
 ciencia.gl.		3600	IN	NS	ns4.dinahosting.com.
 cinch.gl.		3600	IN	NS	dns1.cscdns.net.
 cinch.gl.		3600	IN	NS	dns2.cscdns.net.
-cipccok.gl.		3600	IN	NS	ns1.dnsexit.com.
-cipccok.gl.		3600	IN	NS	ns2.dnsexit.com.
-cipccok.gl.		3600	IN	NS	ns3.dnsexit.com.
-cipccok.gl.		3600	IN	NS	ns4.dnsexit.com.
 cipralex.gl.		3600	IN	NS	nsgbr.comlaude.co.uk.
 cipralex.gl.		3600	IN	NS	nssui.comlaude.ch.
 cipralex.gl.		3600	IN	NS	nsusa.comlaude.net.
@@ -3929,10 +3925,6 @@ clubcandepalleiro.gl.	3600	IN	NS	ns.dinahosting.com.
 clubcandepalleiro.gl.	3600	IN	NS	ns2.dinahosting.com.
 clubcandepalleiro.gl.	3600	IN	NS	ns3.dinahosting.com.
 clubcandepalleiro.gl.	3600	IN	NS	ns4.dinahosting.com.
-cmcsqkt.gl.		3600	IN	NS	ns1.dnsexit.com.
-cmcsqkt.gl.		3600	IN	NS	ns2.dnsexit.com.
-cmcsqkt.gl.		3600	IN	NS	ns3.dnsexit.com.
-cmcsqkt.gl.		3600	IN	NS	ns4.dnsexit.com.
 cms.gl.			3600	IN	NS	a.hosting.gl.
 cms.gl.			3600	IN	NS	b.hosting.gl.
 cms.gl.			3600	IN	NS	c.hosting.gl.
@@ -4149,10 +4141,6 @@ cowi.gl.		3600	IN	NS	ns1.eurodns.com.
 cowi.gl.		3600	IN	NS	ns2.eurodns.com.
 cowi.gl.		3600	IN	NS	ns3.eurodns.com.
 cowi.gl.		3600	IN	NS	ns4.eurodns.com.
-cowkqax.gl.		3600	IN	NS	ns1.dnsexit.com.
-cowkqax.gl.		3600	IN	NS	ns2.dnsexit.com.
-cowkqax.gl.		3600	IN	NS	ns3.dnsexit.com.
-cowkqax.gl.		3600	IN	NS	ns4.dnsexit.com.
 coworking.gl.		3600	IN	NS	ns1045.ui-dns.de.
 coworking.gl.		3600	IN	NS	ns1045.ui-dns.biz.
 coworking.gl.		3600	IN	NS	ns1045.ui-dns.com.
@@ -4245,10 +4233,6 @@ cuba.gl.		3600	IN	NS	ns3.regery.net.
 cube.gl.		3600	IN	NS	ns.hostpoint.ch.
 cube.gl.		3600	IN	NS	ns2.hostpoint.ch.
 cube.gl.		3600	IN	NS	ns3.hostpoint.ch.
-cudstvn.gl.		3600	IN	NS	ns1.dnsexit.com.
-cudstvn.gl.		3600	IN	NS	ns2.dnsexit.com.
-cudstvn.gl.		3600	IN	NS	ns3.dnsexit.com.
-cudstvn.gl.		3600	IN	NS	ns4.dnsexit.com.
 cultureconnect.gl.	3600	IN	NS	ns1.simply.com.
 cultureconnect.gl.	3600	IN	NS	ns2.simply.com.
 cultureconnect.gl.	3600	IN	NS	ns3.simply.com.
@@ -4281,6 +4265,10 @@ cwo.gl.			3600	IN	NS	ns1.bdm.microsoftonline.com.
 cwo.gl.			3600	IN	NS	ns2.bdm.microsoftonline.com.
 cwo.gl.			3600	IN	NS	ns3.bdm.microsoftonline.com.
 cwo.gl.			3600	IN	NS	ns4.bdm.microsoftonline.com.
+cwywlz.gl.		3600	IN	NS	ns1.dnsexit.com.
+cwywlz.gl.		3600	IN	NS	ns2.dnsexit.com.
+cwywlz.gl.		3600	IN	NS	ns3.dnsexit.com.
+cwywlz.gl.		3600	IN	NS	ns4.dnsexit.com.
 cx.gl.			3600	IN	NS	ns.vervehosting.com.
 cx.gl.			3600	IN	NS	ns2.vervehosting.com.
 cx.gl.			3600	IN	NS	ns3.vervehosting.com.
@@ -4458,10 +4446,6 @@ dbet.gl.		3600	IN	NS	ns1.dnshost.net.
 dbet.gl.		3600	IN	NS	ns2.dnshost.net.
 dbramante1928.gl.	3600	IN	NS	ns.dandomain.dk.
 dbramante1928.gl.	3600	IN	NS	ns2.dandomain.dk.
-dbysoza.gl.		3600	IN	NS	ns1.dnsexit.com.
-dbysoza.gl.		3600	IN	NS	ns2.dnsexit.com.
-dbysoza.gl.		3600	IN	NS	ns3.dnsexit.com.
-dbysoza.gl.		3600	IN	NS	ns4.dnsexit.com.
 dc.gl.			3600	IN	NS	dns1.netsons.net.
 dc.gl.			3600	IN	NS	dns2.netsons.net.
 dc.gl.			3600	IN	NS	dns3.netsons.net.
@@ -4608,10 +4592,6 @@ dexploc.gl.		3600	IN	NS	ns.scannet2.dk.
 dexploc.gl.		3600	IN	NS	ns2.scannet2.dk.
 dg.gl.			3600	IN	NS	uma.ns.cloudflare.com.
 dg.gl.			3600	IN	NS	duke.ns.cloudflare.com.
-dgasdze.gl.		3600	IN	NS	ns1.dnsexit.com.
-dgasdze.gl.		3600	IN	NS	ns2.dnsexit.com.
-dgasdze.gl.		3600	IN	NS	ns3.dnsexit.com.
-dgasdze.gl.		3600	IN	NS	ns4.dnsexit.com.
 dgkm.gl.		3600	IN	NS	a.hosting.gl.
 dgkm.gl.		3600	IN	NS	b.hosting.gl.
 dgkm.gl.		3600	IN	NS	c.hosting.gl.
@@ -4634,10 +4614,6 @@ dhl.gl.			3600	IN	NS	ns6.dhl.com.
 dhl.gl.			3600	IN	DS	2215 8 2 B32F9FA50F5ACA10E6026857675AADE3E03244A98A6912C49415F9D1 2FCE068D
 dhl.gl.			3600	IN	DS	28609 8 2 F9371921B89409A60932BE4C8DC0FC82861FC34BEF31272F8FC62A62 8F03B8D3
 dhl.gl.			3600	IN	RRSIG	DS 8 2 3600 20250620190000 20250401190000 57390 gl. VapXWjh5aC9bTO0Skgr/uEagZ3RCjG62JWfcRqP9Q9kasBiUXYSfQ5T7 VRMDdnGJ8Ndeg1UXqsazwQAUNxt2wgp6PbWAX6f+pXEvMF07btqUnh9R JaogYIVEhsTSloxx7xCszpNVb/2ch4zSfs/QDFu1IpRTK/dt62QTO8wy HsIjmQc4DFoWDx/o8oOjCQr7fq0SqsCKMe6ETFyFv/N8xmmsxgk7vWNc gyAUYt0qZvKhNG5XCsj2mFyVaYCJUgoDpoNN/yrIiH4sA0wCtsnNN4ZJ vfAXAt6udYEbOxa0PLlDvxpVoN7/vpnIUyO4d9B+DClnIjqEXFWznhxQ X7BEfA==
-dhnlxyu.gl.		3600	IN	NS	ns1.dnsexit.com.
-dhnlxyu.gl.		3600	IN	NS	ns2.dnsexit.com.
-dhnlxyu.gl.		3600	IN	NS	ns3.dnsexit.com.
-dhnlxyu.gl.		3600	IN	NS	ns4.dnsexit.com.
 di.gl.			3600	IN	NS	ns1.messagingengine.com.
 di.gl.			3600	IN	NS	ns2.messagingengine.com.
 diadora.gl.		3600	IN	NS	ns01.trademarkarea.com.
@@ -4769,10 +4745,6 @@ dmc.gl.			3600	IN	NS	d.hosting.gl.
 dme.gl.			3600	IN	NS	c.hosting.gl.
 dme.gl.			3600	IN	NS	eur2.akam.net.
 dme.gl.			3600	IN	NS	eur5.akam.net.
-dmggoxl.gl.		3600	IN	NS	ns1.dnsexit.com.
-dmggoxl.gl.		3600	IN	NS	ns2.dnsexit.com.
-dmggoxl.gl.		3600	IN	NS	ns3.dnsexit.com.
-dmggoxl.gl.		3600	IN	NS	ns4.dnsexit.com.
 dmi.gl.			3600	IN	NS	ns1.curanet.dk.
 dmi.gl.			3600	IN	NS	ns2.curanet.dk.
 dms.gl.			3600	IN	NS	ns1.supercp.com.
@@ -4790,6 +4762,10 @@ dni.gl.			3600	IN	NS	ns1-02.azure-dns.com.
 dni.gl.			3600	IN	NS	ns2-02.azure-dns.net.
 dni.gl.			3600	IN	NS	ns3-02.azure-dns.org.
 dni.gl.			3600	IN	NS	ns4-02.azure-dns.info.
+dnlptn.gl.		3600	IN	NS	ns1.dnsexit.com.
+dnlptn.gl.		3600	IN	NS	ns2.dnsexit.com.
+dnlptn.gl.		3600	IN	NS	ns3.dnsexit.com.
+dnlptn.gl.		3600	IN	NS	ns4.dnsexit.com.
 dns.gl.			3600	IN	NS	ns1.ispapi.net.
 dns.gl.			3600	IN	NS	ns2.ispapi.net.
 dns.gl.			3600	IN	NS	ns3.ispapi.net.
@@ -5011,6 +4987,10 @@ dsbdigital.gl.		3600	IN	NS	ns-97.awsdns-12.com.
 dsbdigital.gl.		3600	IN	NS	ns-758.awsdns-30.net.
 dsbdigital.gl.		3600	IN	NS	ns-1487.awsdns-57.org.
 dsbdigital.gl.		3600	IN	NS	ns-1787.awsdns-31.co.uk.
+dsmzky.gl.		3600	IN	NS	ns1.dnsexit.com.
+dsmzky.gl.		3600	IN	NS	ns2.dnsexit.com.
+dsmzky.gl.		3600	IN	NS	ns3.dnsexit.com.
+dsmzky.gl.		3600	IN	NS	ns4.dnsexit.com.
 dsrc.gl.		3600	IN	NS	ns1.hyp.net.
 dsrc.gl.		3600	IN	NS	ns2.hyp.net.
 dsrc.gl.		3600	IN	NS	ns3.hyp.net.
@@ -5019,6 +4999,10 @@ dsrc.gl.		3600	IN	DS	61360 13 4 BD9C8A52BAA190734523AD95183AE6465F4168F91D4ECE2D
 dsrc.gl.		3600	IN	RRSIG	DS 8 2 3600 20250620190000 20250401190000 57390 gl. iOG3zPCZAU9xXDmWHPJaKdyQv926aUKDFAX2Il5WQi/KVj+4HYcAlXvD IldLRiu0yw65A189s/a45RAz9Hc64mII/1Lao7jR1X9ZekdK06w5AWv9 EFDDT5L2utNW3O+xGbwtcgNXNp2u0O2qb27kMEi1fIi236WB6/Xhef0p 6TKfs2eOprby691WBODEm/Dpl5ujbgI/3RvPkjJAOemcdh1Q4+U7vQ8o 8r7XLqw3VX5bfROLBfrq6HPjXe6dUQsL1P1Z5xBTkI8VnRn0807h8MY1 12RXbmLgpWHSrafaj5QZzN+F1W2+/ciR9gDqaqs3akCcH4Se8sJeFDGl bZCfVg==
 dss.gl.			3600	IN	NS	ns.dandomain.dk.
 dss.gl.			3600	IN	NS	ns2.dandomain.dk.
+dsywvn.gl.		3600	IN	NS	ns1.dnsexit.com.
+dsywvn.gl.		3600	IN	NS	ns2.dnsexit.com.
+dsywvn.gl.		3600	IN	NS	ns3.dnsexit.com.
+dsywvn.gl.		3600	IN	NS	ns4.dnsexit.com.
 dt.gl.			3600	IN	NS	1-you.njalla.no.
 dt.gl.			3600	IN	NS	2-can.njalla.in.
 dt.gl.			3600	IN	NS	3-get.njalla.fo.
@@ -5077,6 +5061,10 @@ dvp.gl.			3600	IN	NS	ns1.bdm.microsoftonline.com.
 dvp.gl.			3600	IN	NS	ns2.bdm.microsoftonline.com.
 dvp.gl.			3600	IN	NS	ns3.bdm.microsoftonline.com.
 dvp.gl.			3600	IN	NS	ns4.bdm.microsoftonline.com.
+dvwryc.gl.		3600	IN	NS	ns1.dnsexit.com.
+dvwryc.gl.		3600	IN	NS	ns2.dnsexit.com.
+dvwryc.gl.		3600	IN	NS	ns3.dnsexit.com.
+dvwryc.gl.		3600	IN	NS	ns4.dnsexit.com.
 dw.gl.			3600	IN	NS	ns1-coming-soon.sav.com.
 dw.gl.			3600	IN	NS	ns2-coming-soon.sav.com.
 dy.gl.			3600	IN	NS	ns-447.awsdns-55.com.
@@ -5098,10 +5086,6 @@ dyrenesvenner.gl.	3600	IN	DS	28946 13 4 3FD8EF35A9EB65AE64B7C0D9CF1A269711F7FE68
 dyrenesvenner.gl.	3600	IN	RRSIG	DS 8 2 3600 20250620190000 20250401190000 57390 gl. jezQ/nGaG92/RFs8x9/XUXu4EK2sC8q/FYHG0xlMilp/yOLW63pHjhHb UmXL8paHmRUftu8LuRti4RCrfFlBGG7soHlx9e/oTu1MwvV37nf76Dz6 z/EomFOjM4V8SPcHyEldu//Md351Bl35hak+dh+l2ZPKMq6wsrLWiYs2 mUgVf9DjN+OSIc+RDkiRlzw3+PrOT7E7dyD2CH6x01iPWLgi1k19jGFV QruyGW/kYGtPo/J7BJNBq3HvITJ/D7XszhM9WRgzjn90xfoeyaJD2W3v k4qZZz/SHJFf1AYiNe2tyAw2tuSVuZ7OrJADEq22EmLRNG2rVg9pO0a4 GwoOdw==
 dz.gl.			3600	IN	NS	aron.ns.cloudflare.com.
 dz.gl.			3600	IN	NS	darl.ns.cloudflare.com.
-dzsxhrp.gl.		3600	IN	NS	ns1.dnsexit.com.
-dzsxhrp.gl.		3600	IN	NS	ns2.dnsexit.com.
-dzsxhrp.gl.		3600	IN	NS	ns3.dnsexit.com.
-dzsxhrp.gl.		3600	IN	NS	ns4.dnsexit.com.
 e.gl.			3600	IN	NS	ns-ed1.goneo.de.
 e.gl.			3600	IN	NS	ns-ed2.goneo.de.
 e-boks.gl.		3600	IN	NS	ns-auth03.kmd.dk.
@@ -5295,10 +5279,18 @@ ega.gl.			3600	IN	NS	adaline.ns.cloudflare.com.
 egg.gl.			3600	IN	NS	ns1.hukot.cz.
 egg.gl.			3600	IN	NS	ns2.securitynet.cz.
 egg.gl.			3600	IN	NS	ns3.hukot.cz.
+eghyhf.gl.		3600	IN	NS	ns1.dnsexit.com.
+eghyhf.gl.		3600	IN	NS	ns2.dnsexit.com.
+eghyhf.gl.		3600	IN	NS	ns3.dnsexit.com.
+eghyhf.gl.		3600	IN	NS	ns4.dnsexit.com.
 egoo.gl.		3600	IN	NS	ruth.ns.cloudflare.com.
 egoo.gl.		3600	IN	NS	walt.ns.cloudflare.com.
 eguide4data.gl.		3600	IN	NS	ns.dandomain.dk.
 eguide4data.gl.		3600	IN	NS	ns2.dandomain.dk.
+egujjr.gl.		3600	IN	NS	ns1.dnsexit.com.
+egujjr.gl.		3600	IN	NS	ns2.dnsexit.com.
+egujjr.gl.		3600	IN	NS	ns3.dnsexit.com.
+egujjr.gl.		3600	IN	NS	ns4.dnsexit.com.
 egum.gl.		3600	IN	NS	ns1.netim.net.
 egum.gl.		3600	IN	NS	ns2.netim.net.
 egum.gl.		3600	IN	NS	ns3.netim.net.
@@ -5356,6 +5348,10 @@ ek.gl.			3600	IN	NS	ns3.bdm.microsoftonline.com.
 ek.gl.			3600	IN	NS	ns4.bdm.microsoftonline.com.
 ek-soft.gl.		3600	IN	NS	ns01.one.com.
 ek-soft.gl.		3600	IN	NS	ns02.one.com.
+eklurb.gl.		3600	IN	NS	ns1.dnsexit.com.
+eklurb.gl.		3600	IN	NS	ns2.dnsexit.com.
+eklurb.gl.		3600	IN	NS	ns3.dnsexit.com.
+eklurb.gl.		3600	IN	NS	ns4.dnsexit.com.
 eksempel.gl.		3600	IN	NS	a.hosting.gl.
 eksempel.gl.		3600	IN	NS	b.hosting.gl.
 eksempel.gl.		3600	IN	NS	c.hosting.gl.
@@ -5560,6 +5556,10 @@ entreprenorservice.gl.	3600	IN	NS	d.hosting.gl.
 envato.gl.		3600	IN	NS	ns01.trademarkarea.com.
 envato.gl.		3600	IN	NS	ns02.trademarkarea.com.
 envato.gl.		3600	IN	NS	ns03.trademarkarea.com.
+eotfbj.gl.		3600	IN	NS	ns1.dnsexit.com.
+eotfbj.gl.		3600	IN	NS	ns2.dnsexit.com.
+eotfbj.gl.		3600	IN	NS	ns3.dnsexit.com.
+eotfbj.gl.		3600	IN	NS	ns4.dnsexit.com.
 ep.gl.			3600	IN	NS	ns1.ecentria.com.
 ep.gl.			3600	IN	NS	ns2.ecentria.com.
 ep.gl.			3600	IN	NS	ns3.ecentria.com.
@@ -5584,6 +5584,10 @@ epost.gl.		3600	IN	NS	ns1.bdm.microsoftonline.com.
 epost.gl.		3600	IN	NS	ns2.bdm.microsoftonline.com.
 epost.gl.		3600	IN	NS	ns3.bdm.microsoftonline.com.
 epost.gl.		3600	IN	NS	ns4.bdm.microsoftonline.com.
+epqfgn.gl.		3600	IN	NS	ns1.dnsexit.com.
+epqfgn.gl.		3600	IN	NS	ns2.dnsexit.com.
+epqfgn.gl.		3600	IN	NS	ns3.dnsexit.com.
+epqfgn.gl.		3600	IN	NS	ns4.dnsexit.com.
 epson.gl.		3600	IN	NS	ns1-01.azure-dns.com.
 epson.gl.		3600	IN	NS	ns2-01.azure-dns.net.
 epson.gl.		3600	IN	NS	ns3-01.azure-dns.org.
@@ -5596,10 +5600,6 @@ eq.gl.			3600	IN	NS	ns1.iwantmyname.net.
 eq.gl.			3600	IN	NS	ns2.iwantmyname.net.
 eq.gl.			3600	IN	NS	ns3.iwantmyname.net.
 eq.gl.			3600	IN	NS	ns4.iwantmyname.net.
-eqoainc.gl.		3600	IN	NS	ns1.dnsexit.com.
-eqoainc.gl.		3600	IN	NS	ns2.dnsexit.com.
-eqoainc.gl.		3600	IN	NS	ns3.dnsexit.com.
-eqoainc.gl.		3600	IN	NS	ns4.dnsexit.com.
 eqqakkat.gl.		3600	IN	NS	ns1.modulo.gl.
 eqqakkat.gl.		3600	IN	NS	ns2.modulo.gl.
 eqqakkat.gl.		3600	IN	NS	ns3.modulo.gl.
@@ -5755,6 +5755,10 @@ eugenius.gl.		3600	IN	NS	a.hosting.gl.
 eugenius.gl.		3600	IN	NS	b.hosting.gl.
 eugenius.gl.		3600	IN	NS	c.hosting.gl.
 eugenius.gl.		3600	IN	NS	d.hosting.gl.
+eumiwr.gl.		3600	IN	NS	ns1.dnsexit.com.
+eumiwr.gl.		3600	IN	NS	ns2.dnsexit.com.
+eumiwr.gl.		3600	IN	NS	ns3.dnsexit.com.
+eumiwr.gl.		3600	IN	NS	ns4.dnsexit.com.
 euro.gl.		3600	IN	NS	ns1.netim.net.
 euro.gl.		3600	IN	NS	ns2.netim.net.
 euro.gl.		3600	IN	NS	ns3.netim.net.
@@ -5785,10 +5789,6 @@ eurosport.gl.		3600	IN	NS	ns-1332.awsdns-38.org.
 eurosport.gl.		3600	IN	NS	ns-1546.awsdns-01.co.uk.
 eurotoys.gl.		3600	IN	NS	ns1.curanet.dk.
 eurotoys.gl.		3600	IN	NS	ns2.curanet.dk.
-euvjxzb.gl.		3600	IN	NS	ns1.dnsexit.com.
-euvjxzb.gl.		3600	IN	NS	ns2.dnsexit.com.
-euvjxzb.gl.		3600	IN	NS	ns3.dnsexit.com.
-euvjxzb.gl.		3600	IN	NS	ns4.dnsexit.com.
 euzsjfc.gl.		3600	IN	NS	ns1.dnsexit.com.
 euzsjfc.gl.		3600	IN	NS	ns2.dnsexit.com.
 euzsjfc.gl.		3600	IN	NS	ns3.dnsexit.com.
@@ -5834,10 +5834,6 @@ evromail.gl.		3600	IN	NS	lara.ns.cloudflare.com.
 evromail.gl.		3600	IN	NS	mustafa.ns.cloudflare.com.
 evv.gl.			3600	IN	NS	ns0.wixdns.net.
 evv.gl.			3600	IN	NS	ns1.wixdns.net.
-evvogwh.gl.		3600	IN	NS	ns1.dnsexit.com.
-evvogwh.gl.		3600	IN	NS	ns2.dnsexit.com.
-evvogwh.gl.		3600	IN	NS	ns3.dnsexit.com.
-evvogwh.gl.		3600	IN	NS	ns4.dnsexit.com.
 ew.gl.			3600	IN	NS	ns1.domainoffensive.de.
 ew.gl.			3600	IN	NS	ns2.domainoffensive.eu.
 ew.gl.			3600	IN	NS	ns3.domainoffensive.net.
@@ -6065,10 +6061,6 @@ fedex.gl.		3600	IN	NS	a10.dns.fedex.com.
 felber.gl.		3600	IN	NS	ns1.hosttech.ch.
 felber.gl.		3600	IN	NS	ns2.hosttech.ch.
 felber.gl.		3600	IN	NS	ns3.hosttech.ch.
-fempuog.gl.		3600	IN	NS	ns1.dnsexit.com.
-fempuog.gl.		3600	IN	NS	ns2.dnsexit.com.
-fempuog.gl.		3600	IN	NS	ns3.dnsexit.com.
-fempuog.gl.		3600	IN	NS	ns4.dnsexit.com.
 fenris.gl.		3600	IN	NS	ns1.hyp.net.
 fenris.gl.		3600	IN	NS	ns2.hyp.net.
 fenris.gl.		3600	IN	NS	ns3.hyp.net.
@@ -6090,6 +6082,10 @@ festivalo.gl.		3600	IN	NS	ns3.dinahosting.com.
 festivalo.gl.		3600	IN	NS	ns4.dinahosting.com.
 fev.gl.			3600	IN	NS	ns1.curanet.dk.
 fev.gl.			3600	IN	NS	ns2.curanet.dk.
+fewmil.gl.		3600	IN	NS	ns1.dnsexit.com.
+fewmil.gl.		3600	IN	NS	ns2.dnsexit.com.
+fewmil.gl.		3600	IN	NS	ns3.dnsexit.com.
+fewmil.gl.		3600	IN	NS	ns4.dnsexit.com.
 ffg.gl.			3600	IN	NS	ns1.simply.com.
 ffg.gl.			3600	IN	NS	ns2.simply.com.
 ffg.gl.			3600	IN	NS	ns3.simply.com.
@@ -6101,13 +6097,13 @@ fg.gl.			3600	IN	NS	ns43.kreativmedia.ch.
 fg.gl.			3600	IN	NS	ns44.kreativmedia.ch.
 fgb.gl.			3600	IN	NS	ns1.curanet.dk.
 fgb.gl.			3600	IN	NS	ns2.curanet.dk.
+fgkcje.gl.		3600	IN	NS	ns1.dnsexit.com.
+fgkcje.gl.		3600	IN	NS	ns2.dnsexit.com.
+fgkcje.gl.		3600	IN	NS	ns3.dnsexit.com.
+fgkcje.gl.		3600	IN	NS	ns4.dnsexit.com.
 fh.gl.			3600	IN	NS	ns.udag.de.
 fh.gl.			3600	IN	NS	ns.udag.net.
 fh.gl.			3600	IN	NS	ns.udag.org.
-fhiapdc.gl.		3600	IN	NS	ns1.dnsexit.com.
-fhiapdc.gl.		3600	IN	NS	ns2.dnsexit.com.
-fhiapdc.gl.		3600	IN	NS	ns3.dnsexit.com.
-fhiapdc.gl.		3600	IN	NS	ns4.dnsexit.com.
 fhszqil.gl.		3600	IN	NS	ns1.dnsexit.com.
 fhszqil.gl.		3600	IN	NS	ns2.dnsexit.com.
 fhszqil.gl.		3600	IN	NS	ns3.dnsexit.com.
@@ -6242,10 +6238,6 @@ fjo.gl.			3600	IN	NS	ns3.netim.net.
 fk.gl.			3600	IN	NS	ns1169.ispapi.net.
 fk.gl.			3600	IN	NS	ns2161.ispapi.net.
 fk.gl.			3600	IN	NS	ns3214.ispapi.net.
-fkmufox.gl.		3600	IN	NS	ns1.dnsexit.com.
-fkmufox.gl.		3600	IN	NS	ns2.dnsexit.com.
-fkmufox.gl.		3600	IN	NS	ns3.dnsexit.com.
-fkmufox.gl.		3600	IN	NS	ns4.dnsexit.com.
 fl.gl.			3600	IN	NS	chloe.ns.cloudflare.com.
 fl.gl.			3600	IN	NS	louis.ns.cloudflare.com.
 flake.gl.		3600	IN	NS	ns1.simply.com.
@@ -6298,16 +6290,16 @@ flir.gl.		3600	IN	NS	ns4.markmonitor.com.
 flir.gl.		3600	IN	NS	ns5.markmonitor.com.
 flir.gl.		3600	IN	NS	ns6.markmonitor.com.
 flir.gl.		3600	IN	NS	ns7.markmonitor.com.
+fliwou.gl.		3600	IN	NS	ns1.dnsexit.com.
+fliwou.gl.		3600	IN	NS	ns2.dnsexit.com.
+fliwou.gl.		3600	IN	NS	ns3.dnsexit.com.
+fliwou.gl.		3600	IN	NS	ns4.dnsexit.com.
 flixbus.gl.		3600	IN	NS	a.ns14.net.
 flixbus.gl.		3600	IN	NS	b.ns14.net.
 flixbus.gl.		3600	IN	NS	c.ns14.net.
 flixbus.gl.		3600	IN	NS	d.ns14.net.
 flixtor.gl.		3600	IN	NS	kiki.ns.cloudflare.com.
 flixtor.gl.		3600	IN	NS	bruce.ns.cloudflare.com.
-fljjpqq.gl.		3600	IN	NS	ns1.dnsexit.com.
-fljjpqq.gl.		3600	IN	NS	ns2.dnsexit.com.
-fljjpqq.gl.		3600	IN	NS	ns3.dnsexit.com.
-fljjpqq.gl.		3600	IN	NS	ns4.dnsexit.com.
 floatel.gl.		3600	IN	NS	ns1.excedonet.net.
 floatel.gl.		3600	IN	NS	ns2.excedonet.net.
 flora.gl.		3600	IN	NS	a.hosting.gl.
@@ -6375,10 +6367,6 @@ fms.gl.			3600	IN	NS	ns2.netim.net.
 fms.gl.			3600	IN	NS	ns3.netim.net.
 fn.gl.			3600	IN	NS	ns1.vercel-dns.com.
 fn.gl.			3600	IN	NS	ns2.vercel-dns.com.
-fnjadcr.gl.		3600	IN	NS	ns1.dnsexit.com.
-fnjadcr.gl.		3600	IN	NS	ns2.dnsexit.com.
-fnjadcr.gl.		3600	IN	NS	ns3.dnsexit.com.
-fnjadcr.gl.		3600	IN	NS	ns4.dnsexit.com.
 fo.gl.			3600	IN	NS	ns1.iwantmyname.net.
 fo.gl.			3600	IN	NS	ns2.iwantmyname.net.
 fo.gl.			3600	IN	NS	ns3.iwantmyname.net.
@@ -6389,10 +6377,6 @@ focusnordic.gl.		3600	IN	NS	dns01.dipcon.com.
 focusnordic.gl.		3600	IN	NS	dns02.ports.se.
 focusnordic.gl.		3600	IN	NS	dns03.ports.se.
 focusnordic.gl.		3600	IN	NS	dns04.ports.net.
-fofhjev.gl.		3600	IN	NS	ns1.dnsexit.com.
-fofhjev.gl.		3600	IN	NS	ns2.dnsexit.com.
-fofhjev.gl.		3600	IN	NS	ns3.dnsexit.com.
-fofhjev.gl.		3600	IN	NS	ns4.dnsexit.com.
 fokgnnl.gl.		3600	IN	NS	ns1.dnsexit.com.
 fokgnnl.gl.		3600	IN	NS	ns2.dnsexit.com.
 fokgnnl.gl.		3600	IN	NS	ns3.dnsexit.com.
@@ -6616,6 +6600,14 @@ ft.gl.			3600	IN	NS	ns2.netim.net.
 ft.gl.			3600	IN	NS	ns3.netim.net.
 ft.gl.			3600	IN	NS	ns4.netim.net.
 ft.gl.			3600	IN	NS	ns5.netim.net.
+fthhcu.gl.		3600	IN	NS	ns1.dnsexit.com.
+fthhcu.gl.		3600	IN	NS	ns2.dnsexit.com.
+fthhcu.gl.		3600	IN	NS	ns3.dnsexit.com.
+fthhcu.gl.		3600	IN	NS	ns4.dnsexit.com.
+ftziog.gl.		3600	IN	NS	ns1.dnsexit.com.
+ftziog.gl.		3600	IN	NS	ns2.dnsexit.com.
+ftziog.gl.		3600	IN	NS	ns3.dnsexit.com.
+ftziog.gl.		3600	IN	NS	ns4.dnsexit.com.
 fu.gl.			3600	IN	NS	ns01.one.com.
 fu.gl.			3600	IN	NS	ns02.one.com.
 fuco.gl.		3600	IN	NS	ns.dinahosting.com.
@@ -6651,6 +6643,10 @@ futureilulissat.gl.	3600	IN	NS	d.hosting.gl.
 futuresgreenland.gl.	3600	IN	NS	ns1.netim.net.
 futuresgreenland.gl.	3600	IN	NS	ns2.netim.net.
 futuresgreenland.gl.	3600	IN	NS	ns3.netim.net.
+fuxgym.gl.		3600	IN	NS	ns1.dnsexit.com.
+fuxgym.gl.		3600	IN	NS	ns2.dnsexit.com.
+fuxgym.gl.		3600	IN	NS	ns3.dnsexit.com.
+fuxgym.gl.		3600	IN	NS	ns4.dnsexit.com.
 fuze-tea.gl.		3600	IN	NS	ns1-09.azure-dns.com.
 fuze-tea.gl.		3600	IN	NS	ns2-09.azure-dns.net.
 fuze-tea.gl.		3600	IN	NS	ns3-09.azure-dns.org.
@@ -6674,10 +6670,6 @@ fx.gl.			3600	IN	NS	ns-122.awsdns-15.com.
 fx.gl.			3600	IN	NS	ns-875.awsdns-45.net.
 fx.gl.			3600	IN	NS	ns-1191.awsdns-20.org.
 fx.gl.			3600	IN	NS	ns-1601.awsdns-08.co.uk.
-fxbsxar.gl.		3600	IN	NS	ns1.dnsexit.com.
-fxbsxar.gl.		3600	IN	NS	ns2.dnsexit.com.
-fxbsxar.gl.		3600	IN	NS	ns3.dnsexit.com.
-fxbsxar.gl.		3600	IN	NS	ns4.dnsexit.com.
 fxcm.gl.		3600	IN	NS	dns1.idp365.net.
 fxcm.gl.		3600	IN	NS	dns2.idp365.net.
 fxcm.gl.		3600	IN	NS	dns3.idp365.net.
@@ -6818,10 +6810,6 @@ gbuzz.gl.		3600	IN	NS	ns1.google.com.
 gbuzz.gl.		3600	IN	NS	ns2.google.com.
 gbuzz.gl.		3600	IN	NS	ns3.google.com.
 gbuzz.gl.		3600	IN	NS	ns4.google.com.
-gbzfgqg.gl.		3600	IN	NS	ns1.dnsexit.com.
-gbzfgqg.gl.		3600	IN	NS	ns2.dnsexit.com.
-gbzfgqg.gl.		3600	IN	NS	ns3.dnsexit.com.
-gbzfgqg.gl.		3600	IN	NS	ns4.dnsexit.com.
 gc.gl.			3600	IN	NS	ns.dandomain.dk.
 gc.gl.			3600	IN	NS	ns2.dandomain.dk.
 gcc.gl.			3600	IN	NS	kia.ns.cloudflare.com.
@@ -6900,10 +6888,6 @@ get.gl.			3600	IN	NS	ns-300.awsdns-37.com.
 get.gl.			3600	IN	NS	ns-681.awsdns-21.net.
 get.gl.			3600	IN	NS	ns-1053.awsdns-03.org.
 get.gl.			3600	IN	NS	ns-2018.awsdns-60.co.uk.
-getuejs.gl.		3600	IN	NS	ns1.dnsexit.com.
-getuejs.gl.		3600	IN	NS	ns2.dnsexit.com.
-getuejs.gl.		3600	IN	NS	ns3.dnsexit.com.
-getuejs.gl.		3600	IN	NS	ns4.dnsexit.com.
 geus.gl.		3600	IN	NS	ryan.ns.cloudflare.com.
 geus.gl.		3600	IN	NS	fatima.ns.cloudflare.com.
 geusbulletin.gl.	3600	IN	NS	ryan.ns.cloudflare.com.
@@ -6934,6 +6918,10 @@ ggc.gl.			3600	IN	NS	ns2.dns.services.
 ggc.gl.			3600	IN	NS	ns3.dns.services.
 ggg.gl.			3600	IN	NS	teagan.ns.cloudflare.com.
 ggg.gl.			3600	IN	NS	cameron.ns.cloudflare.com.
+ggkuti.gl.		3600	IN	NS	ns1.dnsexit.com.
+ggkuti.gl.		3600	IN	NS	ns2.dnsexit.com.
+ggkuti.gl.		3600	IN	NS	ns3.dnsexit.com.
+ggkuti.gl.		3600	IN	NS	ns4.dnsexit.com.
 ggmgastro.gl.		3600	IN	NS	dns.teamartwork.com.
 ggmgastro.gl.		3600	IN	NS	dns2.teamartwork.com.
 ggnuuk.gl.		3600	IN	NS	ns1.hosting.inuit.gl.
@@ -6941,6 +6929,10 @@ ggnuuk.gl.		3600	IN	NS	ns2.hosting.inuit.gl.
 ggoo.gl.		3600	IN	NS	ns1.netim.net.
 ggoo.gl.		3600	IN	NS	ns2.netim.net.
 ggoo.gl.		3600	IN	NS	ns3.netim.net.
+ggoydk.gl.		3600	IN	NS	ns1.dnsexit.com.
+ggoydk.gl.		3600	IN	NS	ns2.dnsexit.com.
+ggoydk.gl.		3600	IN	NS	ns3.dnsexit.com.
+ggoydk.gl.		3600	IN	NS	ns4.dnsexit.com.
 ggs.gl.			3600	IN	NS	ns1.netim.net.
 ggs.gl.			3600	IN	NS	ns2.netim.net.
 ggs.gl.			3600	IN	NS	ns3.netim.net.
@@ -7012,10 +7004,6 @@ girl.gl.		3600	IN	NS	ns2.dan.com.
 git.gl.			3600	IN	NS	1-you.njalla.no.
 git.gl.			3600	IN	NS	2-can.njalla.in.
 git.gl.			3600	IN	NS	3-get.njalla.fo.
-giurpfh.gl.		3600	IN	NS	ns1.dnsexit.com.
-giurpfh.gl.		3600	IN	NS	ns2.dnsexit.com.
-giurpfh.gl.		3600	IN	NS	ns3.dnsexit.com.
-giurpfh.gl.		3600	IN	NS	ns4.dnsexit.com.
 giwipld.gl.		3600	IN	NS	ns1.dnsexit.com.
 giwipld.gl.		3600	IN	NS	ns2.dnsexit.com.
 giwipld.gl.		3600	IN	NS	ns3.dnsexit.com.
@@ -7312,10 +7300,14 @@ gps.gl.			3600	IN	NS	ns1.101domain.com.
 gps.gl.			3600	IN	NS	ns2.101domain.com.
 gpt.gl.			3600	IN	NS	holding-ns1.paomi.com.
 gpt.gl.			3600	IN	NS	holding-ns2.paomi.com.
-gqixelh.gl.		3600	IN	NS	ns1.dnsexit.com.
-gqixelh.gl.		3600	IN	NS	ns2.dnsexit.com.
-gqixelh.gl.		3600	IN	NS	ns3.dnsexit.com.
-gqixelh.gl.		3600	IN	NS	ns4.dnsexit.com.
+gqbhum.gl.		3600	IN	NS	ns1.dnsexit.com.
+gqbhum.gl.		3600	IN	NS	ns2.dnsexit.com.
+gqbhum.gl.		3600	IN	NS	ns3.dnsexit.com.
+gqbhum.gl.		3600	IN	NS	ns4.dnsexit.com.
+gqdozd.gl.		3600	IN	NS	ns1.dnsexit.com.
+gqdozd.gl.		3600	IN	NS	ns2.dnsexit.com.
+gqdozd.gl.		3600	IN	NS	ns3.dnsexit.com.
+gqdozd.gl.		3600	IN	NS	ns4.dnsexit.com.
 gr.gl.			3600	IN	NS	ns33.ipdns.gr.
 gr.gl.			3600	IN	NS	ns34.ipdns.gr.
 gr-el.gl.		3600	IN	NS	ns10.wixdns.net.
@@ -7811,10 +7803,6 @@ gunshop.gl.		3600	IN	NS	a.hosting.gl.
 gunshop.gl.		3600	IN	NS	b.hosting.gl.
 gunshop.gl.		3600	IN	NS	c.hosting.gl.
 gunshop.gl.		3600	IN	NS	d.hosting.gl.
-gupkfhe.gl.		3600	IN	NS	ns1.dnsexit.com.
-gupkfhe.gl.		3600	IN	NS	ns2.dnsexit.com.
-gupkfhe.gl.		3600	IN	NS	ns3.dnsexit.com.
-gupkfhe.gl.		3600	IN	NS	ns4.dnsexit.com.
 gur.gl.			3600	IN	NS	ns1.netim.net.
 gur.gl.			3600	IN	NS	ns2.netim.net.
 gur.gl.			3600	IN	NS	ns3.netim.net.
@@ -7853,10 +7841,6 @@ gwwtfrg.gl.		3600	IN	NS	ns1.dnsexit.com.
 gwwtfrg.gl.		3600	IN	NS	ns2.dnsexit.com.
 gwwtfrg.gl.		3600	IN	NS	ns3.dnsexit.com.
 gwwtfrg.gl.		3600	IN	NS	ns4.dnsexit.com.
-gwzxmig.gl.		3600	IN	NS	ns1.dnsexit.com.
-gwzxmig.gl.		3600	IN	NS	ns2.dnsexit.com.
-gwzxmig.gl.		3600	IN	NS	ns3.dnsexit.com.
-gwzxmig.gl.		3600	IN	NS	ns4.dnsexit.com.
 gx.gl.			3600	IN	NS	ns1.simply.com.
 gx.gl.			3600	IN	NS	ns2.simply.com.
 gx.gl.			3600	IN	NS	ns3.simply.com.
@@ -7867,15 +7851,15 @@ gxtnwbs.gl.		3600	IN	NS	ns1.dnsexit.com.
 gxtnwbs.gl.		3600	IN	NS	ns2.dnsexit.com.
 gxtnwbs.gl.		3600	IN	NS	ns3.dnsexit.com.
 gxtnwbs.gl.		3600	IN	NS	ns4.dnsexit.com.
-gxuorpj.gl.		3600	IN	NS	ns1.dnsexit.com.
-gxuorpj.gl.		3600	IN	NS	ns2.dnsexit.com.
-gxuorpj.gl.		3600	IN	NS	ns3.dnsexit.com.
-gxuorpj.gl.		3600	IN	NS	ns4.dnsexit.com.
 gy.gl.			3600	IN	NS	ns1.he.net.
 gy.gl.			3600	IN	NS	ns2.he.net.
 gy.gl.			3600	IN	NS	ns3.he.net.
 gy.gl.			3600	IN	NS	ns4.he.net.
 gy.gl.			3600	IN	NS	ns5.he.net.
+gykyit.gl.		3600	IN	NS	ns1.dnsexit.com.
+gykyit.gl.		3600	IN	NS	ns2.dnsexit.com.
+gykyit.gl.		3600	IN	NS	ns3.dnsexit.com.
+gykyit.gl.		3600	IN	NS	ns4.dnsexit.com.
 gym.gl.			3600	IN	NS	ns1-coming-soon.sav.com.
 gym.gl.			3600	IN	NS	ns2-coming-soon.sav.com.
 gymshark.gl.		3600	IN	NS	ha1.markmonitor.zone.
@@ -7902,6 +7886,10 @@ haag.gl.		3600	IN	NS	a.hosting.gl.
 haag.gl.		3600	IN	NS	b.hosting.gl.
 haag.gl.		3600	IN	NS	c.hosting.gl.
 haag.gl.		3600	IN	NS	d.hosting.gl.
+habxyx.gl.		3600	IN	NS	ns1.dnsexit.com.
+habxyx.gl.		3600	IN	NS	ns2.dnsexit.com.
+habxyx.gl.		3600	IN	NS	ns3.dnsexit.com.
+habxyx.gl.		3600	IN	NS	ns4.dnsexit.com.
 haenni.gl.		3600	IN	NS	ns1.hoststar.hosting.
 haenni.gl.		3600	IN	NS	ns2.hoststar.hosting.
 hag.gl.			3600	IN	NS	ns-cloud1.googledomains.com.
@@ -7985,6 +7973,10 @@ hartmann-petersen.gl.	3600	IN	NS	ns4.simply.com.
 hartmann-petersen.gl.	3600	IN	DS	19921 13 2 9771D73B56AD040562CA13538732ABE98315364A9264E27CFFA06EE9 33C0E1ED
 hartmann-petersen.gl.	3600	IN	DS	19921 13 4 C798636C6C18F59709B8BC20F1308150BF0093BA4CE140B6E60E80FD A19D1104D9F6EF4FA6669CEE920E1AB5E829AEC0
 hartmann-petersen.gl.	3600	IN	RRSIG	DS 8 2 3600 20250620190000 20250401190000 57390 gl. kHSo8Jl1P51Kg7R1s2C2mC6oO2zmXypvpZGubsGdFhhoyYiaEUlemz40 F2drSx99PwVCZWF34cpU+rc/AfAFPQn1fD4zJ2C3/Czybq6c12fVv6LF 8+UKNij3H0eM1dkRKccWrS8r+OqeMZ9n5gBaCd+0V/5dUC2pIQBxguct uF01iFqpCVaT1kyEkz6I5ZX9HDyYDWGRifHMO515sz+6NOJyXXlCXBuG Xtpk7nUDQrKJqNemE7Plhn7YThTL34ZT4vVoQk+n0Zs/BR5RAPSRSdGM YnOljtQNF3lvuS953DEM+HmdcxRcbDjFzECnfrdh+QOHFFKoxVZmR1Go X0HQjQ==
+hasixd.gl.		3600	IN	NS	ns1.dnsexit.com.
+hasixd.gl.		3600	IN	NS	ns2.dnsexit.com.
+hasixd.gl.		3600	IN	NS	ns3.dnsexit.com.
+hasixd.gl.		3600	IN	NS	ns4.dnsexit.com.
 haugen.gl.		3600	IN	NS	ns1.hyp.net.
 haugen.gl.		3600	IN	NS	ns2.hyp.net.
 haugen.gl.		3600	IN	NS	ns3.hyp.net.
@@ -8001,6 +7993,10 @@ havtorn.gl.		3600	IN	NS	ns1.orgatech.de.
 havtorn.gl.		3600	IN	NS	ns2.orgatech.de.
 hb.gl.			3600	IN	NS	nataly.ns.cloudflare.com.
 hb.gl.			3600	IN	NS	patrick.ns.cloudflare.com.
+hbblos.gl.		3600	IN	NS	ns1.dnsexit.com.
+hbblos.gl.		3600	IN	NS	ns2.dnsexit.com.
+hbblos.gl.		3600	IN	NS	ns3.dnsexit.com.
+hbblos.gl.		3600	IN	NS	ns4.dnsexit.com.
 hbbtv.gl.		3600	IN	NS	eur2.akam.net.
 hbbtv.gl.		3600	IN	NS	eur5.akam.net.
 hbgjand.gl.		3600	IN	NS	ns1.dnsexit.com.
@@ -8029,10 +8025,18 @@ hcandersen.gl.		3600	IN	NS	ns1.bdm.microsoftonline.com.
 hcandersen.gl.		3600	IN	NS	ns2.bdm.microsoftonline.com.
 hcandersen.gl.		3600	IN	NS	ns3.bdm.microsoftonline.com.
 hcandersen.gl.		3600	IN	NS	ns4.bdm.microsoftonline.com.
+hcglbm.gl.		3600	IN	NS	ns1.dnsexit.com.
+hcglbm.gl.		3600	IN	NS	ns2.dnsexit.com.
+hcglbm.gl.		3600	IN	NS	ns3.dnsexit.com.
+hcglbm.gl.		3600	IN	NS	ns4.dnsexit.com.
 hcorsted.gl.		3600	IN	NS	udns1.cscdns.net.
 hcorsted.gl.		3600	IN	NS	udns2.cscdns.uk.
 hd.gl.			3600	IN	NS	ns3.dnsv2.com.
 hd.gl.			3600	IN	NS	ns4.dnsv2.com.
+hdoyeb.gl.		3600	IN	NS	ns1.dnsexit.com.
+hdoyeb.gl.		3600	IN	NS	ns2.dnsexit.com.
+hdoyeb.gl.		3600	IN	NS	ns3.dnsexit.com.
+hdoyeb.gl.		3600	IN	NS	ns4.dnsexit.com.
 hds.gl.			3600	IN	NS	ns1.iwantmyname.net.
 hds.gl.			3600	IN	NS	ns2.iwantmyname.net.
 hds.gl.			3600	IN	NS	ns3.iwantmyname.net.
@@ -8231,6 +8235,10 @@ hlixcfr.gl.		3600	IN	NS	ns1.dnsexit.com.
 hlixcfr.gl.		3600	IN	NS	ns2.dnsexit.com.
 hlixcfr.gl.		3600	IN	NS	ns3.dnsexit.com.
 hlixcfr.gl.		3600	IN	NS	ns4.dnsexit.com.
+hlrunc.gl.		3600	IN	NS	ns1.dnsexit.com.
+hlrunc.gl.		3600	IN	NS	ns2.dnsexit.com.
+hlrunc.gl.		3600	IN	NS	ns3.dnsexit.com.
+hlrunc.gl.		3600	IN	NS	ns4.dnsexit.com.
 hm.gl.			3600	IN	NS	a5-65.akam.net.
 hm.gl.			3600	IN	NS	a8-66.akam.net.
 hm.gl.			3600	IN	NS	a1-139.akam.net.
@@ -8557,6 +8565,10 @@ https-stashpatrick.gl.	3600	IN	NS	norah.ns.cloudflare.com.
 https-stashpatrick.gl.	3600	IN	NS	piotr.ns.cloudflare.com.
 htx.gl.			3600	IN	NS	ns1.ispapi.net.
 htx.gl.			3600	IN	NS	ns2.ispapi.net.
+htxwhg.gl.		3600	IN	NS	ns1.dnsexit.com.
+htxwhg.gl.		3600	IN	NS	ns2.dnsexit.com.
+htxwhg.gl.		3600	IN	NS	ns3.dnsexit.com.
+htxwhg.gl.		3600	IN	NS	ns4.dnsexit.com.
 hu.gl.			3600	IN	NS	indie.ns.cloudflare.com.
 hu.gl.			3600	IN	NS	renan.ns.cloudflare.com.
 hub.gl.			3600	IN	NS	ns1.fozzy.com.
@@ -8620,10 +8632,6 @@ huvpvvl.gl.		3600	IN	NS	ns1.dnsexit.com.
 huvpvvl.gl.		3600	IN	NS	ns2.dnsexit.com.
 huvpvvl.gl.		3600	IN	NS	ns3.dnsexit.com.
 huvpvvl.gl.		3600	IN	NS	ns4.dnsexit.com.
-huyjghb.gl.		3600	IN	NS	ns1.dnsexit.com.
-huyjghb.gl.		3600	IN	NS	ns2.dnsexit.com.
-huyjghb.gl.		3600	IN	NS	ns3.dnsexit.com.
-huyjghb.gl.		3600	IN	NS	ns4.dnsexit.com.
 hv.gl.			3600	IN	NS	noel.ns.cloudflare.com.
 hv.gl.			3600	IN	NS	monroe.ns.cloudflare.com.
 hvt.gl.			3600	IN	NS	ns1.bdm.microsoftonline.com.
@@ -8634,10 +8642,6 @@ hwhdcjv.gl.		3600	IN	NS	ns1.dnsexit.com.
 hwhdcjv.gl.		3600	IN	NS	ns2.dnsexit.com.
 hwhdcjv.gl.		3600	IN	NS	ns3.dnsexit.com.
 hwhdcjv.gl.		3600	IN	NS	ns4.dnsexit.com.
-hwzerjv.gl.		3600	IN	NS	ns1.dnsexit.com.
-hwzerjv.gl.		3600	IN	NS	ns2.dnsexit.com.
-hwzerjv.gl.		3600	IN	NS	ns3.dnsexit.com.
-hwzerjv.gl.		3600	IN	NS	ns4.dnsexit.com.
 hxxeaaf.gl.		3600	IN	NS	ns1.dnsexit.com.
 hxxeaaf.gl.		3600	IN	NS	ns2.dnsexit.com.
 hxxeaaf.gl.		3600	IN	NS	ns3.dnsexit.com.
@@ -8741,6 +8745,10 @@ icicero.gl.		3600	IN	NS	a.hosting.gl.
 icicero.gl.		3600	IN	NS	b.hosting.gl.
 icicero.gl.		3600	IN	NS	c.hosting.gl.
 icicero.gl.		3600	IN	NS	d.hosting.gl.
+iculel.gl.		3600	IN	NS	ns1.dnsexit.com.
+iculel.gl.		3600	IN	NS	ns2.dnsexit.com.
+iculel.gl.		3600	IN	NS	ns3.dnsexit.com.
+iculel.gl.		3600	IN	NS	ns4.dnsexit.com.
 id.gl.			3600	IN	NS	ns1.idvdns.com.
 id.gl.			3600	IN	NS	ns3.idvdns.com.
 id.gl.			3600	IN	NS	ns4.idvdns.com.
@@ -8755,10 +8763,6 @@ idco.gl.		3600	IN	NS	ns4.simply.com.
 idco.gl.		3600	IN	DS	32939 13 2 45104D92F6AA5CBC6B81EF1B0C3FB76DE20D3C0A46F7BCDCCF90AE33 008568E0
 idco.gl.		3600	IN	DS	32939 13 4 6F258BAB4414FA0A230DC4F111A597B6BDE5C64824404072B1DF73FF DD86A26723BA32915973C92DC18C74D8C1BD3BCC
 idco.gl.		3600	IN	RRSIG	DS 8 2 3600 20250620190000 20250401190000 57390 gl. WeIJrHgujJr4Qy0y6/BFOqQx6BRCkJ5NbCGIxZnIt+yQ9L+cRVoXQnu3 MxzYKYZFWaCMO8zV1L3AtU25DB9t4O4KHVnJGsSPxKeorIHLJGyN/SRi WdBKCa+aCpOIAoNZOZNsGdjc7gmk8fzfHf5Xux2yE1r4Fq2lHbaq//A7 2KgnUgvQ+tpQko+RccHszhMykzGQv5XtzqUNSfU7tWUOEzcjIS34tucS jKOHIXWU/aQ2D9ahboNdDPn3SyCYu6mt96lwa6/mm04stj18QIElQka+ Iq/5jBXfxLTAZIazYu9g0lqoGWd9e+iPiPew6QxiyqYSSII3Aj5u9gPZ t7ho6w==
-iddykye.gl.		3600	IN	NS	ns1.dnsexit.com.
-iddykye.gl.		3600	IN	NS	ns2.dnsexit.com.
-iddykye.gl.		3600	IN	NS	ns3.dnsexit.com.
-iddykye.gl.		3600	IN	NS	ns4.dnsexit.com.
 idealista.gl.		3600	IN	NS	ns1.dondominio.com.
 idealista.gl.		3600	IN	NS	ns2.dondominio.com.
 ido.gl.			3600	IN	NS	ns-4-b.gandi.net.
@@ -8766,10 +8770,6 @@ ido.gl.			3600	IN	NS	ns-16-a.gandi.net.
 ido.gl.			3600	IN	NS	ns-186-c.gandi.net.
 idservice.gl.		3600	IN	NS	dns1.cscdns.net.
 idservice.gl.		3600	IN	NS	dns2.cscdns.net.
-idvwrnf.gl.		3600	IN	NS	ns1.dnsexit.com.
-idvwrnf.gl.		3600	IN	NS	ns2.dnsexit.com.
-idvwrnf.gl.		3600	IN	NS	ns3.dnsexit.com.
-idvwrnf.gl.		3600	IN	NS	ns4.dnsexit.com.
 if.gl.			3600	IN	NS	ns2.if.fi.
 if.gl.			3600	IN	NS	ns4.if.fi.
 if.gl.			3600	IN	NS	ns1-04.azure-dns.com.
@@ -8778,10 +8778,6 @@ if.gl.			3600	IN	NS	ns3-04.azure-dns.org.
 if.gl.			3600	IN	NS	ns4-04.azure-dns.info.
 ifc.gl.			3600	IN	NS	ns1.hosting.inuit.gl.
 ifc.gl.			3600	IN	NS	ns2.hosting.inuit.gl.
-ifenknc.gl.		3600	IN	NS	ns1.dnsexit.com.
-ifenknc.gl.		3600	IN	NS	ns2.dnsexit.com.
-ifenknc.gl.		3600	IN	NS	ns3.dnsexit.com.
-ifenknc.gl.		3600	IN	NS	ns4.dnsexit.com.
 ifforsikring.gl.	3600	IN	NS	ns2.if.fi.
 ifforsikring.gl.	3600	IN	NS	ns4.if.fi.
 ig.gl.			3600	IN	NS	ns1.ig.gl.
@@ -8866,10 +8862,6 @@ iigiti.gl.		3600	IN	NS	ns3.netim.net.
 iin.gl.			3600	IN	NS	ns1.modulo.gl.
 iin.gl.			3600	IN	NS	ns2.modulo.gl.
 iin.gl.			3600	IN	NS	ns3.modulo.gl.
-ijpjvtw.gl.		3600	IN	NS	ns1.dnsexit.com.
-ijpjvtw.gl.		3600	IN	NS	ns2.dnsexit.com.
-ijpjvtw.gl.		3600	IN	NS	ns3.dnsexit.com.
-ijpjvtw.gl.		3600	IN	NS	ns4.dnsexit.com.
 ik.gl.			3600	IN	NS	ns5.indis.de.
 ik.gl.			3600	IN	NS	ns6.indis.de.
 ik.gl.			3600	IN	NS	ns7.indis.de.
@@ -8889,6 +8881,10 @@ ikiu.gl.		3600	IN	DS	60469 13 4 3C93E15DA822D9A643AA9C4BAE53D72CED6C870EEAE415BF
 ikiu.gl.		3600	IN	RRSIG	DS 8 2 3600 20250620190000 20250401190000 57390 gl. lAHfqRT4xq/njAfXaNlEeHJlFr/izSTuthGKRrImMGZmiJqi1UMyHmg/ mbFgoCXGcdghyPdp0KfT8KI9roQcmzVzwFJSaLMTWA67EfMRsiqbB3s3 DJ1Sf9yiyXVK7Zs/jMZ3TbgQpUCXsnjnxQdPpXiv7Y4TsLHyKHA0NDXZ DFEJ6jowmpd3U6y3t5EqADo3hb41VjqX0q2osYnyRg4rpP6IMz35VRnf j6SekhMPZDxZVHZbyten8hCyvjjrRRwceSC+lgbHH+agi9JDW/ScWFVp VtpobUc/lWRAj16Ho4wkAr8cfU3cW0ttemWtyeDSw0QJ0ViAX7ZV/YGT DqKzxw==
 ikiuut.gl.		3600	IN	NS	a.ns.tusass.gl.
 ikiuut.gl.		3600	IN	NS	b.ns.tusass.gl.
+ikmspu.gl.		3600	IN	NS	ns1.dnsexit.com.
+ikmspu.gl.		3600	IN	NS	ns2.dnsexit.com.
+ikmspu.gl.		3600	IN	NS	ns3.dnsexit.com.
+ikmspu.gl.		3600	IN	NS	ns4.dnsexit.com.
 il.gl.			3600	IN	NS	ns6505.hostgator.com.
 il.gl.			3600	IN	NS	ns6506.hostgator.com.
 ila.gl.			3600	IN	NS	ns1.modulo.gl.
@@ -8899,6 +8895,10 @@ ilagiit.gl.		3600	IN	NS	ns2.hosting.inuit.gl.
 ilaquttat.gl.		3600	IN	NS	ns1.dreamhost.com.
 ilaquttat.gl.		3600	IN	NS	ns2.dreamhost.com.
 ilaquttat.gl.		3600	IN	NS	ns3.dreamhost.com.
+ilcwlz.gl.		3600	IN	NS	ns1.dnsexit.com.
+ilcwlz.gl.		3600	IN	NS	ns2.dnsexit.com.
+ilcwlz.gl.		3600	IN	NS	ns3.dnsexit.com.
+ilcwlz.gl.		3600	IN	NS	ns4.dnsexit.com.
 ili.gl.			3600	IN	NS	ns1-03.azure-dns.com.
 ili.gl.			3600	IN	NS	ns2-03.azure-dns.net.
 ili.gl.			3600	IN	NS	ns3-03.azure-dns.org.
@@ -9041,6 +9041,10 @@ ilupe.gl.		3600	IN	NS	ns4.simply.com.
 ilupe.gl.		3600	IN	DS	65148 13 2 8E7E42D856A0CC9074332407658BBB3749B473F8F60B441BDC41200D A0D280DE
 ilupe.gl.		3600	IN	DS	65148 13 4 02E9F69FADC45514FD8E87C8F67E5D01679C8E55386EEFDA26AD5209 15703D3135FBB685B8A29023B03F8E5659671E2A
 ilupe.gl.		3600	IN	RRSIG	DS 8 2 3600 20250620190000 20250401190000 57390 gl. CCCvPz4JXX64+u1Qrpte3OT0RFJjfapHiJGnrnxhss8nx8SN2obnRBwd zJLcrYrBnSiVdxvrmUm5r+/qSlp+5Z4xvixzyCGwQf5LCeNegaovlbud rJwEF9+ZSfH/XXKluwbAY5uRgNjkX+yM/MqSIsmoCHQjSL0m+oc5/YMd mckB2l3t51Kz1y8VSjOO0upegYZYrsdRUWCZNUnCQhEo+2a64asV16a8 SHEQMkiNhpkvtYg3VBQBDKvMbRI6AcI813UeBuscccNgwgS6jxkdB1Tp 2FiCUuefU4qk20RaG9wmbJsj7k4Kqk+LTsLiUqklKViAiUB25tMTYeyx pUkMTQ==
+ilurwz.gl.		3600	IN	NS	ns1.dnsexit.com.
+ilurwz.gl.		3600	IN	NS	ns2.dnsexit.com.
+ilurwz.gl.		3600	IN	NS	ns3.dnsexit.com.
+ilurwz.gl.		3600	IN	NS	ns4.dnsexit.com.
 iluseq.gl.		3600	IN	NS	ns1.gigahost.dk.
 iluseq.gl.		3600	IN	NS	ns2.gigahost.dk.
 iluseq.gl.		3600	IN	NS	ns3.gigahost.dk.
@@ -9099,6 +9103,10 @@ imf.gl.			3600	IN	NS	ns1.bdm.microsoftonline.com.
 imf.gl.			3600	IN	NS	ns2.bdm.microsoftonline.com.
 imf.gl.			3600	IN	NS	ns3.bdm.microsoftonline.com.
 imf.gl.			3600	IN	NS	ns4.bdm.microsoftonline.com.
+imfqpe.gl.		3600	IN	NS	ns1.dnsexit.com.
+imfqpe.gl.		3600	IN	NS	ns2.dnsexit.com.
+imfqpe.gl.		3600	IN	NS	ns3.dnsexit.com.
+imfqpe.gl.		3600	IN	NS	ns4.dnsexit.com.
 img.gl.			3600	IN	NS	ken.ns.cloudflare.com.
 img.gl.			3600	IN	NS	isla.ns.cloudflare.com.
 imivik.gl.		3600	IN	NS	a.hosting.gl.
@@ -9481,10 +9489,6 @@ io.gl.			3600	IN	NS	jill.ns.cloudflare.com.
 io.gl.			3600	IN	NS	noah.ns.cloudflare.com.
 iot.gl.			3600	IN	NS	ns1.hosting.inuit.gl.
 iot.gl.			3600	IN	NS	ns2.hosting.inuit.gl.
-iouikpq.gl.		3600	IN	NS	ns1.dnsexit.com.
-iouikpq.gl.		3600	IN	NS	ns2.dnsexit.com.
-iouikpq.gl.		3600	IN	NS	ns3.dnsexit.com.
-iouikpq.gl.		3600	IN	NS	ns4.dnsexit.com.
 ip.gl.			3600	IN	NS	bella.ns.cloudflare.com.
 ip.gl.			3600	IN	NS	brett.ns.cloudflare.com.
 iperaaneq.gl.		3600	IN	NS	ns1.simply.com.
@@ -9544,10 +9548,6 @@ ir.gl.			3600	IN	NS	ns.dinahosting.com.
 ir.gl.			3600	IN	NS	ns2.dinahosting.com.
 ir.gl.			3600	IN	NS	ns3.dinahosting.com.
 ir.gl.			3600	IN	NS	ns4.dinahosting.com.
-irfmzrb.gl.		3600	IN	NS	ns1.dnsexit.com.
-irfmzrb.gl.		3600	IN	NS	ns2.dnsexit.com.
-irfmzrb.gl.		3600	IN	NS	ns3.dnsexit.com.
-irfmzrb.gl.		3600	IN	NS	ns4.dnsexit.com.
 irisager.gl.		3600	IN	NS	ns1.gigahost.dk.
 irisager.gl.		3600	IN	NS	ns2.gigahost.dk.
 irisager.gl.		3600	IN	NS	ns3.gigahost.dk.
@@ -9836,10 +9836,6 @@ jci.gl.			3600	IN	NS	a.hosting.gl.
 jci.gl.			3600	IN	NS	b.hosting.gl.
 jci.gl.			3600	IN	NS	c.hosting.gl.
 jci.gl.			3600	IN	NS	d.hosting.gl.
-jcxtgyf.gl.		3600	IN	NS	ns1.dnsexit.com.
-jcxtgyf.gl.		3600	IN	NS	ns2.dnsexit.com.
-jcxtgyf.gl.		3600	IN	NS	ns3.dnsexit.com.
-jcxtgyf.gl.		3600	IN	NS	ns4.dnsexit.com.
 jd.gl.			3600	IN	NS	ns1.dan.com.
 jd.gl.			3600	IN	NS	ns2.dan.com.
 jde.gl.			3600	IN	NS	dns1.cscdns.net.
@@ -9860,6 +9856,10 @@ jens.gl.		3600	IN	NS	hydrogen.ns.hetzner.com.
 jensen.gl.		3600	IN	NS	ns1.simply.com.
 jensen.gl.		3600	IN	NS	ns2.simply.com.
 jensen.gl.		3600	IN	NS	ns3.simply.com.
+jermnw.gl.		3600	IN	NS	ns1.dnsexit.com.
+jermnw.gl.		3600	IN	NS	ns2.dnsexit.com.
+jermnw.gl.		3600	IN	NS	ns3.dnsexit.com.
+jermnw.gl.		3600	IN	NS	ns4.dnsexit.com.
 jernmetalskole.gl.	3600	IN	NS	ns1.nunahosting.net.
 jernmetalskole.gl.	3600	IN	NS	ns2.nunahosting.net.
 jernmetalskole.gl.	3600	IN	NS	ns3.nunahosting.net.
@@ -10069,14 +10069,6 @@ jrcc.gl.		3600	IN	NS	a.hosting.gl.
 jrcc.gl.		3600	IN	NS	b.hosting.gl.
 jrcc.gl.		3600	IN	NS	c.hosting.gl.
 jrcc.gl.		3600	IN	NS	d.hosting.gl.
-jrjwpdl.gl.		3600	IN	NS	ns1.dnsexit.com.
-jrjwpdl.gl.		3600	IN	NS	ns2.dnsexit.com.
-jrjwpdl.gl.		3600	IN	NS	ns3.dnsexit.com.
-jrjwpdl.gl.		3600	IN	NS	ns4.dnsexit.com.
-jrwysmw.gl.		3600	IN	NS	ns1.dnsexit.com.
-jrwysmw.gl.		3600	IN	NS	ns2.dnsexit.com.
-jrwysmw.gl.		3600	IN	NS	ns3.dnsexit.com.
-jrwysmw.gl.		3600	IN	NS	ns4.dnsexit.com.
 js.gl.			3600	IN	NS	sloan.ns.cloudflare.com.
 js.gl.			3600	IN	NS	peyton.ns.cloudflare.com.
 js.gl.			3600	IN	DS	2371 13 2 CE43665A40DF33C8C26F51FFC8C184B2F3DA78FA007AFD48FD3E188F F741562F
@@ -10085,10 +10077,6 @@ jsilvdn.gl.		3600	IN	NS	ns1.dnsexit.com.
 jsilvdn.gl.		3600	IN	NS	ns2.dnsexit.com.
 jsilvdn.gl.		3600	IN	NS	ns3.dnsexit.com.
 jsilvdn.gl.		3600	IN	NS	ns4.dnsexit.com.
-jskncwc.gl.		3600	IN	NS	ns1.dnsexit.com.
-jskncwc.gl.		3600	IN	NS	ns2.dnsexit.com.
-jskncwc.gl.		3600	IN	NS	ns3.dnsexit.com.
-jskncwc.gl.		3600	IN	NS	ns4.dnsexit.com.
 jt.gl.			3600	IN	NS	ns-cloud-b1.googledomains.com.
 jt.gl.			3600	IN	NS	ns-cloud-b2.googledomains.com.
 ju.gl.			3600	IN	NS	ns1.gigahost.dk.
@@ -10160,6 +10148,10 @@ jv.gl.			3600	IN	NS	ns3.hyp.net.
 jv.gl.			3600	IN	DS	49302 15 2 C80BE9E26E92EA92CE1423A425B6FBEADA4A95A7A67CD1B06F76367E FB7DC8E9
 jv.gl.			3600	IN	DS	49302 15 4 3D3F15910FE5A782EB5AFB63320E0736E5DDB7322A796AF4B706CEC0 C9FEB80B423C91536F8EA3E6A64BED8CE88D0121
 jv.gl.			3600	IN	RRSIG	DS 8 2 3600 20250620190000 20250401190000 57390 gl. Oc3eMPrH2lnkQD7m0rz3dOebsev8KJSP34nTRpuwVTUyujxcjW+6Fcpt TmmXQt0FKfd1AqiZIpPnPq1HDaU6qHa1hAHr7mkkmdc02u5Fbac+n+pP A4p/eFVM4LJ+n3vBwDGxgT2UBGqlcSdjYLJrzcuY2aHivseVSA2lRI9Y g66GsruqYeVH87q+S/9hERQvah+S3MMDdURhNv1NWFkURPyDazBYW/vB OmKpW+Sn6YaOHbIpvaY+yvyekWkGCiHV0qIemOfr3y+ID97tYqS/Znw+ tp2leLMCwfnnN2yxR8cQZkaawgBgEudcXaGOcD9/XBPR8cawimmBI/Pg 4UnR6A==
+jvkigb.gl.		3600	IN	NS	ns1.dnsexit.com.
+jvkigb.gl.		3600	IN	NS	ns2.dnsexit.com.
+jvkigb.gl.		3600	IN	NS	ns3.dnsexit.com.
+jvkigb.gl.		3600	IN	NS	ns4.dnsexit.com.
 jw.gl.			3600	IN	NS	ns1.iwantmyname.net.
 jw.gl.			3600	IN	NS	ns2.iwantmyname.net.
 jw.gl.			3600	IN	NS	ns3.iwantmyname.net.
@@ -10180,10 +10172,6 @@ jyzyqfo.gl.		3600	IN	NS	ns1.dnsexit.com.
 jyzyqfo.gl.		3600	IN	NS	ns2.dnsexit.com.
 jyzyqfo.gl.		3600	IN	NS	ns3.dnsexit.com.
 jyzyqfo.gl.		3600	IN	NS	ns4.dnsexit.com.
-jzrvqhd.gl.		3600	IN	NS	ns1.dnsexit.com.
-jzrvqhd.gl.		3600	IN	NS	ns2.dnsexit.com.
-jzrvqhd.gl.		3600	IN	NS	ns3.dnsexit.com.
-jzrvqhd.gl.		3600	IN	NS	ns4.dnsexit.com.
 k.gl.			3600	IN	NS	ns-119.awsdns-14.com.
 k.gl.			3600	IN	NS	ns-610.awsdns-12.net.
 k.gl.			3600	IN	NS	ns-1413.awsdns-48.org.
@@ -10469,12 +10457,20 @@ kd.gl.			3600	IN	NS	ns1.afraid.org.
 kd.gl.			3600	IN	NS	ns2.afraid.org.
 kd.gl.			3600	IN	NS	ns3.afraid.org.
 kd.gl.			3600	IN	NS	ns4.afraid.org.
+kdrtyv.gl.		3600	IN	NS	ns1.dnsexit.com.
+kdrtyv.gl.		3600	IN	NS	ns2.dnsexit.com.
+kdrtyv.gl.		3600	IN	NS	ns3.dnsexit.com.
+kdrtyv.gl.		3600	IN	NS	ns4.dnsexit.com.
 ke.gl.			3600	IN	NS	ns1.bb-online.net.
 ke.gl.			3600	IN	NS	ns2.bb-online.org.
 ke.gl.			3600	IN	NS	ns3.bb-online.info.
 ke.gl.			3600	IN	NS	ns4.bb-online.biz.
 ke.gl.			3600	IN	DS	13675 8 2 28785A0572AD77ADA56DB58607763216CC0ED8F44D715438328858C9 D7980034
 ke.gl.			3600	IN	RRSIG	DS 8 2 3600 20250620190000 20250401190000 57390 gl. H97L7+6oo3HHBnLa9MU1iVxukvHSZ0SlhJKApMXldeJSmVaAaGfzVCrB POLETdldPciXC5TsZndiRmK3cnqXs8EnTteRVT3cJEo6wlWV4d9kgLVE Mn/hQFlDUv2BvoLQoWq+GdkHxJr0TpqqKXgWr9Kk4p2k5RdHkd54VLiz hZXatpIMxXxLUi80ZhelAkklEtlON8qTtif0a58J7xUoPlHY4VRUuaR7 QIDGUQu5GjfaM6QjPbCG1BhowRGDwGxHCMvy+TGVxjTibbtW2uFyIw0s HnTFyHbQ1ILBRup5h7TAQK8CfJH4jwMKdhTxTGuxFUuoeWaN7E+5gIkT 5DO02w==
+kejmqq.gl.		3600	IN	NS	ns1.dnsexit.com.
+kejmqq.gl.		3600	IN	NS	ns2.dnsexit.com.
+kejmqq.gl.		3600	IN	NS	ns3.dnsexit.com.
+kejmqq.gl.		3600	IN	NS	ns4.dnsexit.com.
 keller.gl.		3600	IN	NS	ns7.ns0.com.
 keller.gl.		3600	IN	NS	ns549.pair.com.
 kenddanmark.gl.		3600	IN	NS	a.hosting.gl.
@@ -11205,10 +11201,6 @@ kryger.gl.		3600	IN	NS	ns3.simply.com.
 kryger.gl.		3600	IN	DS	44530 13 2 63411F47C23D930D017A1D39665607B91C66606C0F7604F14729E671 9078FC7C
 kryger.gl.		3600	IN	DS	44530 13 4 753C603B085A0E15710FD69D61ECF2CD981FCAAC3DD009371ED626EC B8C9AB691A51A3C1FEF7F12FB35EDE697FE96C35
 kryger.gl.		3600	IN	RRSIG	DS 8 2 3600 20250620190000 20250401190000 57390 gl. LvI74zT0ZW9XJj8sXINZ6K9NXZMXEiNPyO2RCPPUpFYW4tgerMvGwOcS LIxtXjriP2EZoZIlbf4UbMeyubdHIhSD0PjnnnbNbLNKm5gbJ8UU8FdH X3OcwtnMyMf8mct90n51heXVZ4uIHVP7zV6L6NFpXJPLQRzfNtVvQyIg easWXEenNiETqx/ARyCmBvwvOfY0Z3YTolSybaDB4DKgknmBy/GR5Dyl tDMNeV4S6j9N/uH1JZKK71UN+7QLEunQbdeyn01So1HM+y4jL9BekYbz OJDu6p+RgInARQGCcA0vHesLfBwoIh6d8Wub4FVIYx740ejq2nEmxHYF 5Q+Ycw==
-krzwfbr.gl.		3600	IN	NS	ns1.dnsexit.com.
-krzwfbr.gl.		3600	IN	NS	ns2.dnsexit.com.
-krzwfbr.gl.		3600	IN	NS	ns3.dnsexit.com.
-krzwfbr.gl.		3600	IN	NS	ns4.dnsexit.com.
 ks.gl.			3600	IN	NS	ns1.ifastnet5.org.
 ks.gl.			3600	IN	NS	ns2.ifastnet5.org.
 ksaps.gl.		3600	IN	NS	ns1.simply.com.
@@ -11221,10 +11213,6 @@ ksaps.gl.		3600	IN	RRSIG	DS 8 2 3600 20250620190000 20250401190000 57390 gl. jDi
 ksb.gl.			3600	IN	NS	ns1.brandshelter.com.
 ksb.gl.			3600	IN	NS	ns2.brandshelter.de.
 ksb.gl.			3600	IN	NS	ns3.brandshelter.info.
-kseinaz.gl.		3600	IN	NS	ns1.dnsexit.com.
-kseinaz.gl.		3600	IN	NS	ns2.dnsexit.com.
-kseinaz.gl.		3600	IN	NS	ns3.dnsexit.com.
-kseinaz.gl.		3600	IN	NS	ns4.dnsexit.com.
 ksglas.gl.		3600	IN	NS	ns1.nunahosting.net.
 ksglas.gl.		3600	IN	NS	ns2.nunahosting.net.
 ksglas.gl.		3600	IN	NS	ns3.nunahosting.net.
@@ -11260,10 +11248,6 @@ kti.gl.			3600	IN	NS	ns1.nunahosting.net.
 kti.gl.			3600	IN	NS	ns2.nunahosting.net.
 kti.gl.			3600	IN	NS	ns3.nunahosting.net.
 kti.gl.			3600	IN	NS	ns4.nunahosting.net.
-ktsftie.gl.		3600	IN	NS	ns1.dnsexit.com.
-ktsftie.gl.		3600	IN	NS	ns2.dnsexit.com.
-ktsftie.gl.		3600	IN	NS	ns3.dnsexit.com.
-ktsftie.gl.		3600	IN	NS	ns4.dnsexit.com.
 ku.gl.			3600	IN	NS	ns1.dan.com.
 ku.gl.			3600	IN	NS	ns2.dan.com.
 kubli.gl.		3600	IN	NS	ns1.hoststar.hosting.
@@ -11338,6 +11322,10 @@ kvk.gl.			3600	IN	NS	a.hosting.gl.
 kvk.gl.			3600	IN	NS	b.hosting.gl.
 kvk.gl.			3600	IN	NS	c.hosting.gl.
 kvk.gl.			3600	IN	NS	d.hosting.gl.
+kwxmjt.gl.		3600	IN	NS	ns1.dnsexit.com.
+kwxmjt.gl.		3600	IN	NS	ns2.dnsexit.com.
+kwxmjt.gl.		3600	IN	NS	ns3.dnsexit.com.
+kwxmjt.gl.		3600	IN	NS	ns4.dnsexit.com.
 kylling.gl.		3600	IN	NS	a.hosting.gl.
 kylling.gl.		3600	IN	NS	b.hosting.gl.
 kylling.gl.		3600	IN	NS	c.hosting.gl.
@@ -11797,13 +11785,13 @@ lkg.gl.			3600	IN	NS	ns1.iwantmyname.net.
 lkg.gl.			3600	IN	NS	ns2.iwantmyname.net.
 lkg.gl.			3600	IN	NS	ns3.iwantmyname.net.
 lkg.gl.			3600	IN	NS	ns4.iwantmyname.net.
+lkjzul.gl.		3600	IN	NS	ns1.dnsexit.com.
+lkjzul.gl.		3600	IN	NS	ns2.dnsexit.com.
+lkjzul.gl.		3600	IN	NS	ns3.dnsexit.com.
+lkjzul.gl.		3600	IN	NS	ns4.dnsexit.com.
 lkr.gl.			3600	IN	NS	ns1.modulo.gl.
 lkr.gl.			3600	IN	NS	ns2.modulo.gl.
 lkr.gl.			3600	IN	NS	ns3.modulo.gl.
-llhengl.gl.		3600	IN	NS	ns1.dnsexit.com.
-llhengl.gl.		3600	IN	NS	ns2.dnsexit.com.
-llhengl.gl.		3600	IN	NS	ns3.dnsexit.com.
-llhengl.gl.		3600	IN	NS	ns4.dnsexit.com.
 lll.gl.			3600	IN	NS	ns1.reg.ru.
 lll.gl.			3600	IN	NS	ns2.reg.ru.
 llregnskab.gl.		3600	IN	NS	ns1.nunahosting.net.
@@ -12538,10 +12526,6 @@ maximut.gl.		3600	IN	NS	ns4.bdm.microsoftonline.com.
 mayoral.gl.		3600	IN	NS	dns1.mayoral.com.
 mayoral.gl.		3600	IN	NS	dns2.mayoral.com.
 mayoral.gl.		3600	IN	NS	dns3.mayoral.com.
-mazdzmg.gl.		3600	IN	NS	ns1.dnsexit.com.
-mazdzmg.gl.		3600	IN	NS	ns2.dnsexit.com.
-mazdzmg.gl.		3600	IN	NS	ns3.dnsexit.com.
-mazdzmg.gl.		3600	IN	NS	ns4.dnsexit.com.
 mb.gl.			3600	IN	NS	ns1.bdm.microsoftonline.com.
 mb.gl.			3600	IN	NS	ns2.bdm.microsoftonline.com.
 mb.gl.			3600	IN	NS	ns3.bdm.microsoftonline.com.
@@ -13111,10 +13095,6 @@ moeller.gl.		3600	IN	NS	ns1.nunahosting.net.
 moeller.gl.		3600	IN	NS	ns2.nunahosting.net.
 moeller.gl.		3600	IN	NS	ns3.nunahosting.net.
 moeller.gl.		3600	IN	NS	ns4.nunahosting.net.
-moeqbje.gl.		3600	IN	NS	ns1.dnsexit.com.
-moeqbje.gl.		3600	IN	NS	ns2.dnsexit.com.
-moeqbje.gl.		3600	IN	NS	ns3.dnsexit.com.
-moeqbje.gl.		3600	IN	NS	ns4.dnsexit.com.
 moeve.gl.		3600	IN	NS	ns1.ascio.com.
 moeve.gl.		3600	IN	NS	ns2.ascio.com.
 moeve.gl.		3600	IN	NS	ns3.ascio.com.
@@ -13310,19 +13290,11 @@ mtt.gl.			3600	IN	NS	ns1.eurodns.com.
 mtt.gl.			3600	IN	NS	ns2.eurodns.com.
 mtt.gl.			3600	IN	NS	ns3.eurodns.com.
 mtt.gl.			3600	IN	NS	ns4.eurodns.com.
-mtwyqez.gl.		3600	IN	NS	ns1.dnsexit.com.
-mtwyqez.gl.		3600	IN	NS	ns2.dnsexit.com.
-mtwyqez.gl.		3600	IN	NS	ns3.dnsexit.com.
-mtwyqez.gl.		3600	IN	NS	ns4.dnsexit.com.
 mueller.gl.		3600	IN	NS	a.regfish-ns.net.
 mueller.gl.		3600	IN	NS	b.regfish-ns.net.
 mueller.gl.		3600	IN	NS	c.regfish-ns.net.
 mueller.gl.		3600	IN	DS	53915 13 2 3B453AC01F77C0640929B35F0DD35B14F5F4FD5E4D0074333C37D28C ACFC5336
 mueller.gl.		3600	IN	RRSIG	DS 8 2 3600 20250620190000 20250401190000 57390 gl. JaptpukyLJZEToFapiQqZ6O4z+Lx7vIyerwAb7xTEZeCg01xJtXNu3yN BrnB2LBfPc3yMCjVpdfFvSWD9Dncv5sAKE/zBiNefyena/U4ttFpAAc+ LmweGg1hMRTh8TyKClqDQXW5GRaPPVAj8EaQ36iEiHOaAPSWu71b5EAF RmJ00AuQQ0lymmttb7wcQXmlz4kNc2Fb6kMy0sXyOSt7T+wUL0yRCpPE aLM+B/XF+oBZ7GcGFvj/k5FBrp/wCW1tP8fvfKSrUthezXYcDhBrg2R+ h5lkzjGVpPgCOhSrvzmSKIlCUdn1mmtiRu4Q149xFc+VCZhxjzV6LVND KMGZOw==
-mujmmax.gl.		3600	IN	NS	ns1.dnsexit.com.
-mujmmax.gl.		3600	IN	NS	ns2.dnsexit.com.
-mujmmax.gl.		3600	IN	NS	ns3.dnsexit.com.
-mujmmax.gl.		3600	IN	NS	ns4.dnsexit.com.
 muku.gl.		3600	IN	NS	ns1.simply.com.
 muku.gl.		3600	IN	NS	ns2.simply.com.
 muku.gl.		3600	IN	NS	ns3.simply.com.
@@ -13476,6 +13448,10 @@ mysparinvest.gl.	3600	IN	NS	ns1.eurodns.com.
 mysparinvest.gl.	3600	IN	NS	ns2.eurodns.com.
 mz.gl.			3600	IN	NS	beau.ns.cloudflare.com.
 mz.gl.			3600	IN	NS	chloe.ns.cloudflare.com.
+mzgbzh.gl.		3600	IN	NS	ns1.dnsexit.com.
+mzgbzh.gl.		3600	IN	NS	ns2.dnsexit.com.
+mzgbzh.gl.		3600	IN	NS	ns3.dnsexit.com.
+mzgbzh.gl.		3600	IN	NS	ns4.dnsexit.com.
 n.gl.			3600	IN	NS	ns1.netim.net.
 n.gl.			3600	IN	NS	ns2.netim.net.
 n.gl.			3600	IN	NS	ns3.netim.net.
@@ -13759,6 +13735,10 @@ narsarsuaqmuseum.gl.	3600	IN	NS	ns4.simply.com.
 narsarsuaqmuseum.gl.	3600	IN	DS	35689 13 2 4A05931794460C3C17E3FF24D61D4C398B2B8B02B7EC460415577D05 E6986DE1
 narsarsuaqmuseum.gl.	3600	IN	DS	35689 13 4 227F869139797008398DC193C17530D1B865C1E5B6CCEDD3662887E9 6F96BEBAA91DD5746CA1348C5CFDD946D68728A6
 narsarsuaqmuseum.gl.	3600	IN	RRSIG	DS 8 2 3600 20250620190000 20250401190000 57390 gl. Mk5tK5VKAXQuT9WMEbWNHHeaq1i084Ln6i/DSvAC+LcfAd7+9t3ictye E1OSGUjdh3VhCArZtNlacy9Ln8uEc4V3MwWY4wyZ4oDIVDk/XzoUt5Zm /Xu0wSul867RY0JzJR8+TNzrL3/GvGSf21rnvnJIvtmdwSeF4/z/QNsx 9Q1iIVKCsnjxLb5Gohf0f036IgB09aSvFVbjc/YD7ZQz2DFwqr2ChE39 u6Enh/U85Yb8ZTUim8eqyvywCBAeMRQ1Pu25HI87USOBVmmoQy3hCaHW TAqVD5d8Dxx8tqu9rX6SsCnlb9rv05MfMFrLKHP2ImxMvFI4RmjkZn38 aNPOSw==
+narvbn.gl.		3600	IN	NS	ns1.dnsexit.com.
+narvbn.gl.		3600	IN	NS	ns2.dnsexit.com.
+narvbn.gl.		3600	IN	NS	ns3.dnsexit.com.
+narvbn.gl.		3600	IN	NS	ns4.dnsexit.com.
 narvikhydrogen.gl.	3600	IN	NS	ns1.hyp.net.
 narvikhydrogen.gl.	3600	IN	NS	ns2.hyp.net.
 narvikhydrogen.gl.	3600	IN	NS	ns3.hyp.net.
@@ -14319,6 +14299,10 @@ ns4.nj.gl.		3600	IN	A	208.80.127.2
 ns4.nj.gl.		3600	IN	AAAA	2600:1802:4::1
 njav.gl.		3600	IN	NS	pablo.ns.cloudflare.com.
 njav.gl.		3600	IN	NS	clarissa.ns.cloudflare.com.
+njeagp.gl.		3600	IN	NS	ns1.dnsexit.com.
+njeagp.gl.		3600	IN	NS	ns2.dnsexit.com.
+njeagp.gl.		3600	IN	NS	ns3.dnsexit.com.
+njeagp.gl.		3600	IN	NS	ns4.dnsexit.com.
 njebpdj.gl.		3600	IN	NS	ns1.dnsexit.com.
 njebpdj.gl.		3600	IN	NS	ns2.dnsexit.com.
 njebpdj.gl.		3600	IN	NS	ns3.dnsexit.com.
@@ -14600,6 +14584,14 @@ nplaser.gl.		3600	IN	NS	ns3.simply.com.
 nplaser.gl.		3600	IN	DS	28945 13 2 6292893C1B15D6881273791B7C3A48FE9EB61533DC1A6643BF58521A 997EE142
 nplaser.gl.		3600	IN	DS	28945 13 4 553B8D1FC0044C21DD0F036E06CD52335ECC6C8E7981A4451FBA08E9 8028AFCCEAB853659DF848564B66EE64246F8E50
 nplaser.gl.		3600	IN	RRSIG	DS 8 2 3600 20250620190000 20250401190000 57390 gl. HGT6E0+FriXlbs3NaA8+bqLfkaH9DU/NkGnTv+h3Jmy7OL2I8RPjV2C7 iDWhFZHSAIW9U9Q8SS+C5PKPCewNqIUTzElNkPbH2TdCN29+LNcqky6t 3aUyINJ4jhI+y/d3/69JmJszUDdt4aW3AjF31GA3zY5IUS6sypOEzS1z ZgjA9LLVZj1Wvs8bE84jF5VDqiJNsxNtBHEu8owFX635wtcBstGIqqQ1 cC3rDgp9/3dKaCveG2EV6uldc1cwuoNvjTm5QgkKiwgBlQ29GDopaFL4 Ygzq/Tzh0EAJI7tS6p5gKjiF5i4u2BIprN3IfTmr270u55/C136clCvV pMi1vw==
+nrpkex.gl.		3600	IN	NS	ns1.dnsexit.com.
+nrpkex.gl.		3600	IN	NS	ns2.dnsexit.com.
+nrpkex.gl.		3600	IN	NS	ns3.dnsexit.com.
+nrpkex.gl.		3600	IN	NS	ns4.dnsexit.com.
+nrybvx.gl.		3600	IN	NS	ns1.dnsexit.com.
+nrybvx.gl.		3600	IN	NS	ns2.dnsexit.com.
+nrybvx.gl.		3600	IN	NS	ns3.dnsexit.com.
+nrybvx.gl.		3600	IN	NS	ns4.dnsexit.com.
 ns.gl.			3600	IN	NS	ns3.epik.com.
 ns.gl.			3600	IN	NS	ns4.epik.com.
 ns84.gl.		3600	IN	NS	ns1.gigahost.dk.
@@ -14607,10 +14599,6 @@ ns84.gl.		3600	IN	NS	ns2.gigahost.dk.
 ns84.gl.		3600	IN	NS	ns3.gigahost.dk.
 ns84.gl.		3600	IN	NS	ns4.gigahost.dk.
 ns84.gl.		3600	IN	NS	ns5.gigahost.dk.
-nstnymg.gl.		3600	IN	NS	ns1.dnsexit.com.
-nstnymg.gl.		3600	IN	NS	ns2.dnsexit.com.
-nstnymg.gl.		3600	IN	NS	ns3.dnsexit.com.
-nstnymg.gl.		3600	IN	NS	ns4.dnsexit.com.
 nsty.gl.		3600	IN	NS	ns1.eurodns.com.
 nsty.gl.		3600	IN	NS	ns2.eurodns.com.
 nsty.gl.		3600	IN	NS	ns3.eurodns.com.
@@ -15003,10 +14991,6 @@ nuuttarneq.gl.		3600	IN	NS	ns2.modulo.gl.
 nuuttarneq.gl.		3600	IN	NS	ns3.modulo.gl.
 nvivo.gl.		3600	IN	NS	dns1.cscdns.net.
 nvivo.gl.		3600	IN	NS	dns2.cscdns.net.
-nvlwxtk.gl.		3600	IN	NS	ns1.dnsexit.com.
-nvlwxtk.gl.		3600	IN	NS	ns2.dnsexit.com.
-nvlwxtk.gl.		3600	IN	NS	ns3.dnsexit.com.
-nvlwxtk.gl.		3600	IN	NS	ns4.dnsexit.com.
 nvvs.gl.		3600	IN	NS	ns1.bdm.microsoftonline.com.
 nvvs.gl.		3600	IN	NS	ns2.bdm.microsoftonline.com.
 nvvs.gl.		3600	IN	NS	ns3.bdm.microsoftonline.com.
@@ -15158,10 +15142,6 @@ olsen.gl.		3600	IN	NS	ns1.nordicway.dk.
 olsen.gl.		3600	IN	NS	ns2.nordicway.dk.
 olsen.gl.		3600	IN	NS	ns3.nordicway.dk.
 olsen.gl.		3600	IN	NS	ns4.nordicway.dk.
-olwjrvz.gl.		3600	IN	NS	ns1.dnsexit.com.
-olwjrvz.gl.		3600	IN	NS	ns2.dnsexit.com.
-olwjrvz.gl.		3600	IN	NS	ns3.dnsexit.com.
-olwjrvz.gl.		3600	IN	NS	ns4.dnsexit.com.
 olymp.gl.		3600	IN	NS	ns-52.awsdns-06.com.
 olymp.gl.		3600	IN	NS	ns-721.awsdns-26.net.
 olymp.gl.		3600	IN	NS	ns-1115.awsdns-11.org.
@@ -15368,10 +15348,6 @@ omron.gl.		3600	IN	NS	nsa.omron.com.
 omron.gl.		3600	IN	NS	nsb.omron.com.
 omron.gl.		3600	IN	NS	nsc.omron.com.
 omron.gl.		3600	IN	NS	nsd.omron.com.
-omycqad.gl.		3600	IN	NS	ns1.dnsexit.com.
-omycqad.gl.		3600	IN	NS	ns2.dnsexit.com.
-omycqad.gl.		3600	IN	NS	ns3.dnsexit.com.
-omycqad.gl.		3600	IN	NS	ns4.dnsexit.com.
 on.gl.			3600	IN	NS	ns1.netim.net.
 on.gl.			3600	IN	NS	ns2.netim.net.
 on.gl.			3600	IN	NS	ns3.netim.net.
@@ -15641,10 +15617,6 @@ outletten.gl.		3600	IN	NS	a.hosting.gl.
 outletten.gl.		3600	IN	NS	b.hosting.gl.
 outletten.gl.		3600	IN	NS	c.hosting.gl.
 outletten.gl.		3600	IN	NS	d.hosting.gl.
-ouvjbfl.gl.		3600	IN	NS	ns1.dnsexit.com.
-ouvjbfl.gl.		3600	IN	NS	ns2.dnsexit.com.
-ouvjbfl.gl.		3600	IN	NS	ns3.dnsexit.com.
-ouvjbfl.gl.		3600	IN	NS	ns4.dnsexit.com.
 ov.gl.			3600	IN	NS	ns1.netim.net.
 ov.gl.			3600	IN	NS	ns2.netim.net.
 ov.gl.			3600	IN	NS	ns3.netim.net.
@@ -15663,12 +15635,12 @@ oway.gl.		3600	IN	NS	ns1.register.it.
 oway.gl.		3600	IN	NS	ns2.register.it.
 own.gl.			3600	IN	NS	ns1-coming-soon.sav.com.
 own.gl.			3600	IN	NS	ns2-coming-soon.sav.com.
+owvxta.gl.		3600	IN	NS	ns1.dnsexit.com.
+owvxta.gl.		3600	IN	NS	ns2.dnsexit.com.
+owvxta.gl.		3600	IN	NS	ns3.dnsexit.com.
+owvxta.gl.		3600	IN	NS	ns4.dnsexit.com.
 ox.gl.			3600	IN	NS	ns.sourcedns.com.
 ox.gl.			3600	IN	NS	ns1.sourcedns.com.
-oxblpgg.gl.		3600	IN	NS	ns1.dnsexit.com.
-oxblpgg.gl.		3600	IN	NS	ns2.dnsexit.com.
-oxblpgg.gl.		3600	IN	NS	ns3.dnsexit.com.
-oxblpgg.gl.		3600	IN	NS	ns4.dnsexit.com.
 oxelt.gl.		3600	IN	NS	ns-149.awsdns-18.com.
 oxelt.gl.		3600	IN	NS	ns-896.awsdns-48.net.
 oxelt.gl.		3600	IN	NS	ns-1138.awsdns-14.org.
@@ -16228,6 +16200,10 @@ plesner.gl.		3600	IN	NS	dns1.cscdns.net.
 plesner.gl.		3600	IN	NS	dns2.cscdns.net.
 plesnergreenland.gl.	3600	IN	NS	dns1.cscdns.net.
 plesnergreenland.gl.	3600	IN	NS	dns2.cscdns.net.
+plomoj.gl.		3600	IN	NS	ns1.dnsexit.com.
+plomoj.gl.		3600	IN	NS	ns2.dnsexit.com.
+plomoj.gl.		3600	IN	NS	ns3.dnsexit.com.
+plomoj.gl.		3600	IN	NS	ns4.dnsexit.com.
 plusability.gl.		3600	IN	NS	dns1.cscdns.net.
 plusability.gl.		3600	IN	NS	dns2.cscdns.net.
 plusi.gl.		3600	IN	NS	a.hosting.gl.
@@ -16473,6 +16449,10 @@ ppzadmx.gl.		3600	IN	NS	ns1.dnsexit.com.
 ppzadmx.gl.		3600	IN	NS	ns2.dnsexit.com.
 ppzadmx.gl.		3600	IN	NS	ns3.dnsexit.com.
 ppzadmx.gl.		3600	IN	NS	ns4.dnsexit.com.
+pqirnp.gl.		3600	IN	NS	ns1.dnsexit.com.
+pqirnp.gl.		3600	IN	NS	ns2.dnsexit.com.
+pqirnp.gl.		3600	IN	NS	ns3.dnsexit.com.
+pqirnp.gl.		3600	IN	NS	ns4.dnsexit.com.
 pr.gl.			3600	IN	NS	ns01.one.com.
 pr.gl.			3600	IN	NS	ns02.one.com.
 prada.gl.		3600	IN	NS	ns1.barbero.zone.
@@ -16652,20 +16632,16 @@ pvm.gl.			3600	IN	NS	ns01.one.com.
 pvm.gl.			3600	IN	NS	ns02.one.com.
 pvm.gl.			3600	IN	DS	4800 13 2 DACD4044A9BEF8BFB2333BF0FCDE14B5C6E722E96B1971811192B666 4816412E
 pvm.gl.			3600	IN	RRSIG	DS 8 2 3600 20250620190000 20250401190000 57390 gl. b35/dGk/Wzc79GF/LfHat6Ri8N8RusKSY2kxEg4cWqUemIZ34kVgFtO9 8Is/4XBgcx7zBEjoXhp7jF4AtdxG53eIVnfgkG/LOSn69rLAkJ3+5Gg5 nUryDHdhe24zeMi6FmZmyf54Us7vyYOEoP9L6IIAh4sx3atLJfgKYD3+ yF6L3uM/Z3wdR4vD8kICfgvxOUjF9N090xzXJH83mZa6UuoAxQLRWajI AVx0f558qDfYF+l+g1QnPaUKNLyGZrHD0BRaCRAeV4D9WQniThyXyg6y D30EP91ksL3vEpNzGjluGcHeu1ObswQ2V+0LNEMhnxNkguletfHVUhLp Oom5zA==
-pvvxsmt.gl.		3600	IN	NS	ns1.dnsexit.com.
-pvvxsmt.gl.		3600	IN	NS	ns2.dnsexit.com.
-pvvxsmt.gl.		3600	IN	NS	ns3.dnsexit.com.
-pvvxsmt.gl.		3600	IN	NS	ns4.dnsexit.com.
 pw.gl.			3600	IN	NS	ns1.afternic.com.
 pw.gl.			3600	IN	NS	ns2.afternic.com.
 pwc.gl.			3600	IN	NS	dns1.cscdns.net.
 pwc.gl.			3600	IN	NS	dns2.cscdns.net.
+pwhunl.gl.		3600	IN	NS	ns1.dnsexit.com.
+pwhunl.gl.		3600	IN	NS	ns2.dnsexit.com.
+pwhunl.gl.		3600	IN	NS	ns3.dnsexit.com.
+pwhunl.gl.		3600	IN	NS	ns4.dnsexit.com.
 px.gl.			3600	IN	NS	jeff.ns.cloudflare.com.
 px.gl.			3600	IN	NS	pola.ns.cloudflare.com.
-pxufkjj.gl.		3600	IN	NS	ns1.dnsexit.com.
-pxufkjj.gl.		3600	IN	NS	ns2.dnsexit.com.
-pxufkjj.gl.		3600	IN	NS	ns3.dnsexit.com.
-pxufkjj.gl.		3600	IN	NS	ns4.dnsexit.com.
 pydeck.gl.		3600	IN	NS	ns1.dnsimple.com.
 pydeck.gl.		3600	IN	NS	ns2.dnsimple-edge.net.
 pydeck.gl.		3600	IN	NS	ns3.dnsimple.com.
@@ -16799,14 +16775,22 @@ qbc.gl.			3600	IN	NS	ns1.supercp.com.
 qbc.gl.			3600	IN	NS	ns2.supercp.com.
 qbc.gl.			3600	IN	NS	ns3.supercp.com.
 qbc.gl.			3600	IN	NS	ns4.supercp.com.
+qbqkpv.gl.		3600	IN	NS	ns1.dnsexit.com.
+qbqkpv.gl.		3600	IN	NS	ns2.dnsexit.com.
+qbqkpv.gl.		3600	IN	NS	ns3.dnsexit.com.
+qbqkpv.gl.		3600	IN	NS	ns4.dnsexit.com.
 qc.gl.			3600	IN	NS	pns101.cloudns.net.
 qc.gl.			3600	IN	NS	pns102.cloudns.net.
 qc.gl.			3600	IN	NS	pns103.cloudns.net.
 qc.gl.			3600	IN	NS	pns104.cloudns.net.
-qcvhbdl.gl.		3600	IN	NS	ns1.dnsexit.com.
-qcvhbdl.gl.		3600	IN	NS	ns2.dnsexit.com.
-qcvhbdl.gl.		3600	IN	NS	ns3.dnsexit.com.
-qcvhbdl.gl.		3600	IN	NS	ns4.dnsexit.com.
+qcjfxe.gl.		3600	IN	NS	ns1.dnsexit.com.
+qcjfxe.gl.		3600	IN	NS	ns2.dnsexit.com.
+qcjfxe.gl.		3600	IN	NS	ns3.dnsexit.com.
+qcjfxe.gl.		3600	IN	NS	ns4.dnsexit.com.
+qcxkrk.gl.		3600	IN	NS	ns1.dnsexit.com.
+qcxkrk.gl.		3600	IN	NS	ns2.dnsexit.com.
+qcxkrk.gl.		3600	IN	NS	ns3.dnsexit.com.
+qcxkrk.gl.		3600	IN	NS	ns4.dnsexit.com.
 qd.gl.			3600	IN	NS	dean.ns.cloudflare.com.
 qd.gl.			3600	IN	NS	zara.ns.cloudflare.com.
 qe.gl.			3600	IN	NS	pns101.cloudns.net.
@@ -16915,6 +16899,10 @@ qp.gl.			3600	IN	NS	dean.ns.cloudflare.com.
 qp.gl.			3600	IN	NS	zara.ns.cloudflare.com.
 qq.gl.			3600	IN	NS	cdns1.interserver.net.
 qq.gl.			3600	IN	NS	cdns2.interserver.net.
+qqnlru.gl.		3600	IN	NS	ns1.dnsexit.com.
+qqnlru.gl.		3600	IN	NS	ns2.dnsexit.com.
+qqnlru.gl.		3600	IN	NS	ns3.dnsexit.com.
+qqnlru.gl.		3600	IN	NS	ns4.dnsexit.com.
 qr.gl.			3600	IN	NS	dns1.main-city.net.
 qr.gl.			3600	IN	NS	dns2.main-city.net.
 qr8.gl.			3600	IN	NS	nsc.ratior.net.
@@ -17110,10 +17098,6 @@ rd.gl.			3600	IN	NS	ns5.gigahost.dk.
 rdtech.gl.		3600	IN	NS	ns.hostpoint.ch.
 rdtech.gl.		3600	IN	NS	ns2.hostpoint.ch.
 rdtech.gl.		3600	IN	NS	ns3.hostpoint.ch.
-rdvruzi.gl.		3600	IN	NS	ns1.dnsexit.com.
-rdvruzi.gl.		3600	IN	NS	ns2.dnsexit.com.
-rdvruzi.gl.		3600	IN	NS	ns3.dnsexit.com.
-rdvruzi.gl.		3600	IN	NS	ns4.dnsexit.com.
 re.gl.			3600	IN	NS	ns1.netim.net.
 re.gl.			3600	IN	NS	ns2.netim.net.
 re.gl.			3600	IN	NS	ns3.netim.net.
@@ -17437,10 +17421,6 @@ rng.gl.			3600	IN	NS	ns1.eurodns.com.
 rng.gl.			3600	IN	NS	ns2.eurodns.com.
 rng.gl.			3600	IN	NS	ns3.eurodns.com.
 rng.gl.			3600	IN	NS	ns4.eurodns.com.
-rnqbdxz.gl.		3600	IN	NS	ns1.dnsexit.com.
-rnqbdxz.gl.		3600	IN	NS	ns2.dnsexit.com.
-rnqbdxz.gl.		3600	IN	NS	ns3.dnsexit.com.
-rnqbdxz.gl.		3600	IN	NS	ns4.dnsexit.com.
 ro.gl.			3600	IN	NS	ns1.aftermarket.com.
 ro.gl.			3600	IN	NS	ns2.aftermarket.com.
 rob.gl.			3600	IN	NS	lia.ns.cloudflare.com.
@@ -18147,6 +18127,10 @@ sfj.gl.			3600	IN	NS	c.hosting.gl.
 sfj.gl.			3600	IN	NS	d.hosting.gl.
 sfl.gl.			3600	IN	NS	ganz.ns.cloudflare.com.
 sfl.gl.			3600	IN	NS	stephane.ns.cloudflare.com.
+sfmkxi.gl.		3600	IN	NS	ns1.dnsexit.com.
+sfmkxi.gl.		3600	IN	NS	ns2.dnsexit.com.
+sfmkxi.gl.		3600	IN	NS	ns3.dnsexit.com.
+sfmkxi.gl.		3600	IN	NS	ns4.dnsexit.com.
 sft.gl.			3600	IN	NS	ns-319.awsdns-39.com.
 sft.gl.			3600	IN	NS	ns-685.awsdns-21.net.
 sft.gl.			3600	IN	NS	ns-1236.awsdns-26.org.
@@ -18203,10 +18187,6 @@ shirayuri.gl.		3600	IN	RRSIG	DS 8 2 3600 20250620190000 20250401190000 57390 gl.
 shkspr.gl.		3600	IN	NS	cp1.orbitalgroup.com.
 shkspr.gl.		3600	IN	NS	cp2.orbitalgroup.com.
 shkspr.gl.		3600	IN	NS	cp3.orbitalgroup.com.
-shmyzrf.gl.		3600	IN	NS	ns1.dnsexit.com.
-shmyzrf.gl.		3600	IN	NS	ns2.dnsexit.com.
-shmyzrf.gl.		3600	IN	NS	ns3.dnsexit.com.
-shmyzrf.gl.		3600	IN	NS	ns4.dnsexit.com.
 shobr.gl.		3600	IN	NS	ns1.101domain.com.
 shobr.gl.		3600	IN	NS	ns2.101domain.com.
 shoo.gl.		3600	IN	NS	ns1.iwantmyname.net.
@@ -18889,10 +18869,6 @@ sputnik.gl.		3600	IN	NS	dns1.epag.net.
 sputnik.gl.		3600	IN	NS	dns2.epag.net.
 sq.gl.			3600	IN	NS	ns1.bodis.com.
 sq.gl.			3600	IN	NS	ns2.bodis.com.
-sqacmcr.gl.		3600	IN	NS	ns1.dnsexit.com.
-sqacmcr.gl.		3600	IN	NS	ns2.dnsexit.com.
-sqacmcr.gl.		3600	IN	NS	ns3.dnsexit.com.
-sqacmcr.gl.		3600	IN	NS	ns4.dnsexit.com.
 sqrk.gl.		3600	IN	NS	a.hosting.gl.
 sqrk.gl.		3600	IN	NS	b.hosting.gl.
 sqrk.gl.		3600	IN	NS	c.hosting.gl.
@@ -19517,10 +19493,6 @@ tabulex.gl.		3600	IN	NS	ns3.hyp.net.
 tabulex.gl.		3600	IN	DS	65216 15 2 6F621AFB07562EEB047B541AF5A202B7B24CDA22E57F622E12732C75 A4D5B797
 tabulex.gl.		3600	IN	DS	65216 15 4 4F7C155E6497125BA68FAA0A800DCE5AC23939E8DC48B9DA9FF4FE95 5839B067F4A9E60AD64C0888250BC8360901EC3C
 tabulex.gl.		3600	IN	RRSIG	DS 8 2 3600 20250620190000 20250401190000 57390 gl. b/pATKsR8veRJhyoKEQ6fx5suQ4X8ZG7uZuO6pDRReEMy4IxsU04x8qu b85vmbQJK3ET7JlTyyYtt00i/ZCmBy9n6bbiXB1ySF2QPrJq2bS0V+sk 9Kj2DEyJ8wT5h80NdEnGCDMTJNeMWYfK72kRPO1Z8pAkzCcsB7LMQnzM V8QlkH9hVT7qXwB7pEAJVZZxCe4AaGGs1yWzMtmsXfgydpJuVyWfihBa 4+YQYZdikFmOCeJp7MdYa9gt5XYrZng7nUP2mEg4UwJemrbypuaw+ipS gjQwkJSRhVPZ1a0ti2yd6vc+ZCPlA1qrIECCdlRb3rvpuC7Tz0RatVZo 3zCoww==
-tafixym.gl.		3600	IN	NS	ns1.dnsexit.com.
-tafixym.gl.		3600	IN	NS	ns2.dnsexit.com.
-tafixym.gl.		3600	IN	NS	ns3.dnsexit.com.
-tafixym.gl.		3600	IN	NS	ns4.dnsexit.com.
 tag.gl.			3600	IN	NS	ns01.one.com.
 tag.gl.			3600	IN	NS	ns02.one.com.
 tag24.gl.		3600	IN	NS	a.ns14.net.
@@ -19682,18 +19654,10 @@ tbm.gl.			3600	IN	NS	ns205.adobe.net.
 tbm.gl.			3600	IN	NS	ns206.adobe.net.
 tc.gl.			3600	IN	NS	ns6.netsto.net.
 tc.gl.			3600	IN	NS	ns7.netsto.net.
-tcppitk.gl.		3600	IN	NS	ns1.dnsexit.com.
-tcppitk.gl.		3600	IN	NS	ns2.dnsexit.com.
-tcppitk.gl.		3600	IN	NS	ns3.dnsexit.com.
-tcppitk.gl.		3600	IN	NS	ns4.dnsexit.com.
 td.gl.			3600	IN	NS	ns-382.awsdns-47.com.
 td.gl.			3600	IN	NS	ns-624.awsdns-14.net.
 td.gl.			3600	IN	NS	ns-1434.awsdns-51.org.
 td.gl.			3600	IN	NS	ns-1764.awsdns-28.co.uk.
-tdmvszc.gl.		3600	IN	NS	ns1.dnsexit.com.
-tdmvszc.gl.		3600	IN	NS	ns2.dnsexit.com.
-tdmvszc.gl.		3600	IN	NS	ns3.dnsexit.com.
-tdmvszc.gl.		3600	IN	NS	ns4.dnsexit.com.
 te.gl.			3600	IN	NS	ns1.iwantmyname.net.
 te.gl.			3600	IN	NS	ns2.iwantmyname.net.
 te.gl.			3600	IN	NS	ns3.iwantmyname.net.
@@ -19864,10 +19828,6 @@ tgi.gl.			3600	IN	NS	adam.ns.cloudflare.com.
 tgi.gl.			3600	IN	NS	sharon.ns.cloudflare.com.
 tgo.gl.			3600	IN	NS	duke.ns.cloudflare.com.
 tgo.gl.			3600	IN	NS	paislee.ns.cloudflare.com.
-tgqlejj.gl.		3600	IN	NS	ns1.dnsexit.com.
-tgqlejj.gl.		3600	IN	NS	ns2.dnsexit.com.
-tgqlejj.gl.		3600	IN	NS	ns3.dnsexit.com.
-tgqlejj.gl.		3600	IN	NS	ns4.dnsexit.com.
 th.gl.			3600	IN	NS	ns.inwx.de.
 th.gl.			3600	IN	NS	ns2.inwx.de.
 th.gl.			3600	IN	NS	ns3.inwx.eu.
@@ -20123,10 +20083,6 @@ tjoudem.gl.		3600	IN	NS	ns1.dnsexit.com.
 tjoudem.gl.		3600	IN	NS	ns2.dnsexit.com.
 tjoudem.gl.		3600	IN	NS	ns3.dnsexit.com.
 tjoudem.gl.		3600	IN	NS	ns4.dnsexit.com.
-tjxoyob.gl.		3600	IN	NS	ns1.dnsexit.com.
-tjxoyob.gl.		3600	IN	NS	ns2.dnsexit.com.
-tjxoyob.gl.		3600	IN	NS	ns3.dnsexit.com.
-tjxoyob.gl.		3600	IN	NS	ns4.dnsexit.com.
 tk.gl.			3600	IN	NS	ns1.darkness-reigns.net.
 tk.gl.			3600	IN	NS	ns2.darkness-reigns.nl.
 tk.gl.			3600	IN	NS	ns3.darkness-reigns.net.
@@ -20169,12 +20125,12 @@ tn.gl.			3600	IN	NS	ns1.eurodns.com.
 tn.gl.			3600	IN	NS	ns2.eurodns.com.
 tn.gl.			3600	IN	NS	ns3.eurodns.com.
 tn.gl.			3600	IN	NS	ns4.eurodns.com.
+tnfhyx.gl.		3600	IN	NS	ns1.dnsexit.com.
+tnfhyx.gl.		3600	IN	NS	ns2.dnsexit.com.
+tnfhyx.gl.		3600	IN	NS	ns3.dnsexit.com.
+tnfhyx.gl.		3600	IN	NS	ns4.dnsexit.com.
 tng.gl.			3600	IN	NS	zac.ns.cloudflare.com.
 tng.gl.			3600	IN	NS	meadow.ns.cloudflare.com.
-tnhtvmu.gl.		3600	IN	NS	ns1.dnsexit.com.
-tnhtvmu.gl.		3600	IN	NS	ns2.dnsexit.com.
-tnhtvmu.gl.		3600	IN	NS	ns3.dnsexit.com.
-tnhtvmu.gl.		3600	IN	NS	ns4.dnsexit.com.
 tntnuuk.gl.		3600	IN	NS	ns1.hosting.inuit.gl.
 tntnuuk.gl.		3600	IN	NS	ns2.hosting.inuit.gl.
 to.gl.			3600	IN	NS	ns1.vercel-dns.com.
@@ -20407,10 +20363,6 @@ trustedcheckout.gl.	3600	IN	NS	ns9.managed-ip.com.
 trustedcheckout.gl.	3600	IN	NS	ns10.managed-ip.com.
 trustedcheckout.gl.	3600	IN	NS	ns11.managed-ip.info.
 trustedcheckout.gl.	3600	IN	NS	ns12.managed-ip.info.
-trutdch.gl.		3600	IN	NS	ns1.dnsexit.com.
-trutdch.gl.		3600	IN	NS	ns2.dnsexit.com.
-trutdch.gl.		3600	IN	NS	ns3.dnsexit.com.
-trutdch.gl.		3600	IN	NS	ns4.dnsexit.com.
 trw.gl.			3600	IN	NS	dns1.cscdns.net.
 trw.gl.			3600	IN	NS	dns2.cscdns.net.
 tryan.gl.		3600	IN	NS	ns.dinahosting.com.
@@ -20553,6 +20505,10 @@ tupilaktravel.gl.	3600	IN	NS	a.hosting.gl.
 tupilaktravel.gl.	3600	IN	NS	b.hosting.gl.
 tupilaktravel.gl.	3600	IN	NS	c.hosting.gl.
 tupilaktravel.gl.	3600	IN	NS	d.hosting.gl.
+tupjlf.gl.		3600	IN	NS	ns1.dnsexit.com.
+tupjlf.gl.		3600	IN	NS	ns2.dnsexit.com.
+tupjlf.gl.		3600	IN	NS	ns3.dnsexit.com.
+tupjlf.gl.		3600	IN	NS	ns4.dnsexit.com.
 turbo.gl.		3600	IN	NS	1-you.njalla.no.
 turbo.gl.		3600	IN	NS	2-can.njalla.in.
 turbo.gl.		3600	IN	NS	3-get.njalla.fo.
@@ -20740,10 +20696,6 @@ uhxrdog.gl.		3600	IN	NS	ns1.dnsexit.com.
 uhxrdog.gl.		3600	IN	NS	ns2.dnsexit.com.
 uhxrdog.gl.		3600	IN	NS	ns3.dnsexit.com.
 uhxrdog.gl.		3600	IN	NS	ns4.dnsexit.com.
-uiknear.gl.		3600	IN	NS	ns1.dnsexit.com.
-uiknear.gl.		3600	IN	NS	ns2.dnsexit.com.
-uiknear.gl.		3600	IN	NS	ns3.dnsexit.com.
-uiknear.gl.		3600	IN	NS	ns4.dnsexit.com.
 uilu.gl.		3600	IN	NS	ns1.gigahost.dk.
 uilu.gl.		3600	IN	NS	ns2.gigahost.dk.
 ujaasivoq.gl.		3600	IN	NS	ns1.dreamhost.com.
@@ -20918,10 +20870,6 @@ url.gl.			3600	IN	NS	tony.ns.cloudflare.com.
 ursprung.gl.		3600	IN	NS	ns.hostpoint.ch.
 ursprung.gl.		3600	IN	NS	ns2.hostpoint.ch.
 ursprung.gl.		3600	IN	NS	ns3.hostpoint.ch.
-urvyeqe.gl.		3600	IN	NS	ns1.dnsexit.com.
-urvyeqe.gl.		3600	IN	NS	ns2.dnsexit.com.
-urvyeqe.gl.		3600	IN	NS	ns3.dnsexit.com.
-urvyeqe.gl.		3600	IN	NS	ns4.dnsexit.com.
 us.gl.			3600	IN	NS	ns1.hyp.net.
 us.gl.			3600	IN	NS	ns2.hyp.net.
 us.gl.			3600	IN	NS	ns3.hyp.net.
@@ -20992,6 +20940,10 @@ uummatit.gl.		3600	IN	NS	ns1.gigahost.dk.
 uummatit.gl.		3600	IN	NS	ns2.gigahost.dk.
 uummatit.gl.		3600	IN	NS	ns3.gigahost.dk.
 uummatit.gl.		3600	IN	NS	ns4.gigahost.dk.
+uuphie.gl.		3600	IN	NS	ns1.dnsexit.com.
+uuphie.gl.		3600	IN	NS	ns2.dnsexit.com.
+uuphie.gl.		3600	IN	NS	ns3.dnsexit.com.
+uuphie.gl.		3600	IN	NS	ns4.dnsexit.com.
 uupi.gl.		3600	IN	NS	ns1.hosting.inuit.gl.
 uupi.gl.		3600	IN	NS	ns2.hosting.inuit.gl.
 uuu.gl.			3600	IN	NS	ns-cloud-e1.googledomains.com.
@@ -21014,6 +20966,10 @@ uz.gl.			3600	IN	NS	ns.dinahosting.com.
 uz.gl.			3600	IN	NS	ns2.dinahosting.com.
 uz.gl.			3600	IN	NS	ns3.dinahosting.com.
 uz.gl.			3600	IN	NS	ns4.dinahosting.com.
+uzfhwu.gl.		3600	IN	NS	ns1.dnsexit.com.
+uzfhwu.gl.		3600	IN	NS	ns2.dnsexit.com.
+uzfhwu.gl.		3600	IN	NS	ns3.dnsexit.com.
+uzfhwu.gl.		3600	IN	NS	ns4.dnsexit.com.
 v.gl.			3600	IN	NS	ns1.parkingcrew.net.
 v.gl.			3600	IN	NS	ns2.parkingcrew.net.
 v2.gl.			3600	IN	NS	ns-486.awsdns-60.com.
@@ -21027,10 +20983,6 @@ vacan-soleil.gl.	3600	IN	NS	dns01-dpms.letsbrand.eu.
 vacan-soleil.gl.	3600	IN	NS	dns02-dpms.letsbrand.eu.
 vacansoleil.gl.		3600	IN	NS	dns01-dpms.letsbrand.eu.
 vacansoleil.gl.		3600	IN	NS	dns02-dpms.letsbrand.eu.
-vaejxnq.gl.		3600	IN	NS	ns1.dnsexit.com.
-vaejxnq.gl.		3600	IN	NS	ns2.dnsexit.com.
-vaejxnq.gl.		3600	IN	NS	ns3.dnsexit.com.
-vaejxnq.gl.		3600	IN	NS	ns4.dnsexit.com.
 valentin.gl.		3600	IN	NS	ns-cloud-a1.googledomains.com.
 valentin.gl.		3600	IN	NS	ns-cloud-a2.googledomains.com.
 valentin.gl.		3600	IN	NS	ns-cloud-a3.googledomains.com.
@@ -21377,6 +21329,14 @@ viz.gl.			3600	IN	NS	ns1.iwantmyname.net.
 viz.gl.			3600	IN	NS	ns2.iwantmyname.net.
 viz.gl.			3600	IN	NS	ns3.iwantmyname.net.
 viz.gl.			3600	IN	NS	ns4.iwantmyname.net.
+vkerss.gl.		3600	IN	NS	ns1.dnsexit.com.
+vkerss.gl.		3600	IN	NS	ns2.dnsexit.com.
+vkerss.gl.		3600	IN	NS	ns3.dnsexit.com.
+vkerss.gl.		3600	IN	NS	ns4.dnsexit.com.
+vksubn.gl.		3600	IN	NS	ns1.dnsexit.com.
+vksubn.gl.		3600	IN	NS	ns2.dnsexit.com.
+vksubn.gl.		3600	IN	NS	ns3.dnsexit.com.
+vksubn.gl.		3600	IN	NS	ns4.dnsexit.com.
 vl.gl.			3600	IN	NS	ns-217.awsdns-27.com.
 vl.gl.			3600	IN	NS	ns-1004.awsdns-61.net.
 vl.gl.			3600	IN	NS	ns-1272.awsdns-31.org.
@@ -21384,10 +21344,6 @@ vl.gl.			3600	IN	NS	ns-1940.awsdns-50.co.uk.
 vm.gl.			3600	IN	NS	1-you.njalla.no.
 vm.gl.			3600	IN	NS	2-can.njalla.in.
 vm.gl.			3600	IN	NS	3-get.njalla.fo.
-vmcfdlf.gl.		3600	IN	NS	ns1.dnsexit.com.
-vmcfdlf.gl.		3600	IN	NS	ns2.dnsexit.com.
-vmcfdlf.gl.		3600	IN	NS	ns3.dnsexit.com.
-vmcfdlf.gl.		3600	IN	NS	ns4.dnsexit.com.
 vmfg.gl.		3600	IN	NS	ns1.modulo.gl.
 vmfg.gl.		3600	IN	NS	ns2.modulo.gl.
 vmfg.gl.		3600	IN	NS	ns3.modulo.gl.
@@ -21406,13 +21362,13 @@ vodaphone.gl.		3600	IN	NS	ns5.vodafone.com.
 vods.gl.		3600	IN	NS	ns1.netim.net.
 vods.gl.		3600	IN	NS	ns2.netim.net.
 vods.gl.		3600	IN	NS	ns3.netim.net.
+vodsnd.gl.		3600	IN	NS	ns1.dnsexit.com.
+vodsnd.gl.		3600	IN	NS	ns2.dnsexit.com.
+vodsnd.gl.		3600	IN	NS	ns3.dnsexit.com.
+vodsnd.gl.		3600	IN	NS	ns4.dnsexit.com.
 voe.gl.			3600	IN	NS	ns.inwx.de.
 voe.gl.			3600	IN	NS	ns2.inwx.de.
 voe.gl.			3600	IN	NS	ns3.inwx.eu.
-vofagog.gl.		3600	IN	NS	ns1.dnsexit.com.
-vofagog.gl.		3600	IN	NS	ns2.dnsexit.com.
-vofagog.gl.		3600	IN	NS	ns3.dnsexit.com.
-vofagog.gl.		3600	IN	NS	ns4.dnsexit.com.
 vog.gl.			3600	IN	NS	dns.diverse.domains.
 vog.gl.			3600	IN	NS	ns1.first-ns.de.
 vog.gl.			3600	IN	NS	robotns2.second-ns.de.
@@ -21503,6 +21459,10 @@ vsat.gl.		3600	IN	NS	a.hosting.gl.
 vsat.gl.		3600	IN	NS	b.hosting.gl.
 vsat.gl.		3600	IN	NS	c.hosting.gl.
 vsat.gl.		3600	IN	NS	d.hosting.gl.
+vshols.gl.		3600	IN	NS	ns1.dnsexit.com.
+vshols.gl.		3600	IN	NS	ns2.dnsexit.com.
+vshols.gl.		3600	IN	NS	ns3.dnsexit.com.
+vshols.gl.		3600	IN	NS	ns4.dnsexit.com.
 vt.gl.			3600	IN	NS	jack.ns.cloudflare.com.
 vt.gl.			3600	IN	NS	sara.ns.cloudflare.com.
 vu.gl.			3600	IN	NS	ns1.iwantmyname.net.
@@ -21587,6 +21547,10 @@ wanzl.gl.		3600	IN	NS	a.ns14.net.
 wanzl.gl.		3600	IN	NS	b.ns14.net.
 wanzl.gl.		3600	IN	NS	c.ns14.net.
 wanzl.gl.		3600	IN	NS	d.ns14.net.
+wasles.gl.		3600	IN	NS	ns1.dnsexit.com.
+wasles.gl.		3600	IN	NS	ns2.dnsexit.com.
+wasles.gl.		3600	IN	NS	ns3.dnsexit.com.
+wasles.gl.		3600	IN	NS	ns4.dnsexit.com.
 water.gl.		3600	IN	NS	ns.dandomain.dk.
 water.gl.		3600	IN	NS	ns2.dandomain.dk.
 water.gl.		3600	IN	NS	ns3.dandomain.dk.
@@ -21610,10 +21574,6 @@ wave.gl.		3600	IN	NS	2-can.njalla.in.
 wave.gl.		3600	IN	NS	3-get.njalla.fo.
 wb.gl.			3600	IN	NS	eoin.ns.cloudflare.com.
 wb.gl.			3600	IN	NS	kiki.ns.cloudflare.com.
-wbwzysw.gl.		3600	IN	NS	ns1.dnsexit.com.
-wbwzysw.gl.		3600	IN	NS	ns2.dnsexit.com.
-wbwzysw.gl.		3600	IN	NS	ns3.dnsexit.com.
-wbwzysw.gl.		3600	IN	NS	ns4.dnsexit.com.
 we.gl.			3600	IN	NS	ns-40.awsdns-05.com.
 we.gl.			3600	IN	NS	ns-823.awsdns-38.net.
 we.gl.			3600	IN	NS	ns-1277.awsdns-31.org.
@@ -21718,6 +21678,10 @@ wellsfargo.gl.		3600	IN	NS	edns1.ultradns.com.
 wellsfargo.gl.		3600	IN	NS	edns1.ultradns.net.
 wellsfargo.gl.		3600	IN	NS	a1-189.akam.net.
 wellsfargo.gl.		3600	IN	NS	a24-66.akam.net.
+weppiq.gl.		3600	IN	NS	ns1.dnsexit.com.
+weppiq.gl.		3600	IN	NS	ns2.dnsexit.com.
+weppiq.gl.		3600	IN	NS	ns3.dnsexit.com.
+weppiq.gl.		3600	IN	NS	ns4.dnsexit.com.
 werbeagentur.gl.	3600	IN	NS	a.ns14.net.
 werbeagentur.gl.	3600	IN	NS	b.ns14.net.
 werbeagentur.gl.	3600	IN	NS	c.ns14.net.
@@ -21839,6 +21803,10 @@ wl.gl.			3600	IN	NS	dns.fastdns24.com.
 wl.gl.			3600	IN	NS	dns2.fastdns24.org.
 wl.gl.			3600	IN	NS	dns3.fastdns24.eu.
 wl.gl.			3600	IN	NS	dns4.fastdns24.link.
+wliqzh.gl.		3600	IN	NS	ns1.dnsexit.com.
+wliqzh.gl.		3600	IN	NS	ns2.dnsexit.com.
+wliqzh.gl.		3600	IN	NS	ns3.dnsexit.com.
+wliqzh.gl.		3600	IN	NS	ns4.dnsexit.com.
 wm.gl.			3600	IN	NS	ns1.eurodns.com.
 wm.gl.			3600	IN	NS	ns2.eurodns.com.
 wm.gl.			3600	IN	NS	ns3.eurodns.com.
@@ -21937,10 +21905,6 @@ wq.gl.			3600	IN	RRSIG	DS 8 2 3600 20250620190000 20250401190000 57390 gl. W9NRQ
 ws.gl.			3600	IN	NS	ns1.netim.net.
 ws.gl.			3600	IN	NS	ns2.netim.net.
 ws.gl.			3600	IN	NS	ns3.netim.net.
-wsayesx.gl.		3600	IN	NS	ns1.dnsexit.com.
-wsayesx.gl.		3600	IN	NS	ns2.dnsexit.com.
-wsayesx.gl.		3600	IN	NS	ns3.dnsexit.com.
-wsayesx.gl.		3600	IN	NS	ns4.dnsexit.com.
 wsfquac.gl.		3600	IN	NS	ns1.dnsexit.com.
 wsfquac.gl.		3600	IN	NS	ns2.dnsexit.com.
 wsfquac.gl.		3600	IN	NS	ns3.dnsexit.com.
@@ -21994,6 +21958,10 @@ wynajem.gl.		3600	IN	NS	ns2.netim.net.
 wynajem.gl.		3600	IN	NS	ns3.netim.net.
 wz.gl.			3600	IN	NS	ns01.one.com.
 wz.gl.			3600	IN	NS	ns02.one.com.
+wzhshe.gl.		3600	IN	NS	ns1.dnsexit.com.
+wzhshe.gl.		3600	IN	NS	ns2.dnsexit.com.
+wzhshe.gl.		3600	IN	NS	ns3.dnsexit.com.
+wzhshe.gl.		3600	IN	NS	ns4.dnsexit.com.
 x.gl.			3600	IN	NS	luciana.ns.cloudflare.com.
 x.gl.			3600	IN	NS	stanley.ns.cloudflare.com.
 x8.gl.			3600	IN	NS	art.ns.cloudflare.com.
@@ -22047,10 +22015,18 @@ xi.gl.			3600	IN	NS	ns4.netim.net.
 xi.gl.			3600	IN	NS	ns5.netim.net.
 xin.gl.			3600	IN	NS	ns01.trademarkarea.com.
 xin.gl.			3600	IN	NS	ns02.trademarkarea.com.
+xiyzyf.gl.		3600	IN	NS	ns1.dnsexit.com.
+xiyzyf.gl.		3600	IN	NS	ns2.dnsexit.com.
+xiyzyf.gl.		3600	IN	NS	ns3.dnsexit.com.
+xiyzyf.gl.		3600	IN	NS	ns4.dnsexit.com.
 xk.gl.			3600	IN	NS	ns1183.dns.dyn.com.
 xk.gl.			3600	IN	NS	ns2128.dns.dyn.com.
 xk.gl.			3600	IN	NS	ns3188.dns.dyn.com.
 xk.gl.			3600	IN	NS	ns4175.dns.dyn.com.
+xkfsqo.gl.		3600	IN	NS	ns1.dnsexit.com.
+xkfsqo.gl.		3600	IN	NS	ns2.dnsexit.com.
+xkfsqo.gl.		3600	IN	NS	ns3.dnsexit.com.
+xkfsqo.gl.		3600	IN	NS	ns4.dnsexit.com.
 xl.gl.			3600	IN	NS	ns1.dan.com.
 xl.gl.			3600	IN	NS	ns2.dan.com.
 xl.gl.			3600	IN	NS	r0mn4177.verify.hn.
@@ -22119,10 +22095,6 @@ xr.gl.			3600	IN	DS	50760 13 4 E8460941DD0235860C3EDD7D912AD5440F9352CCE01A57BDD
 xr.gl.			3600	IN	RRSIG	DS 8 2 3600 20250620190000 20250401190000 57390 gl. jkUAVkG+BlvHifjsBXANgAjbAxOWOcUcde0DDkuz/HETc/dWKss8e3Ti 2uWuN28SSxdh0X8RupQRSZjPTZ6BpHS8wW6iTpGnz2E7b6QCKX0hclYs 4ooWyjppoCs7VB2hM4It5S4bLlzxv+HiRYy6IC1Xtv9q0q05nF7x0QLx xC0AeZDN0eZmcDedQdAI/3erA3FswYpxAea2FhNOuKbVtlrVIhL4aiAo kunQSfj8dpJKSRlabJyeNxn1A9K518dTafAnD7DNO8v40gGFcX5YpTij tNyEO5lruq+Md1c5i0kVh8ovRaLKo8SDSr3aYrDisdKgvEYp8SRBsjPU BWOsjA==
 xrp.gl.			3600	IN	NS	imani.ns.cloudflare.com.
 xrp.gl.			3600	IN	NS	randy.ns.cloudflare.com.
-xrsmhji.gl.		3600	IN	NS	ns1.dnsexit.com.
-xrsmhji.gl.		3600	IN	NS	ns2.dnsexit.com.
-xrsmhji.gl.		3600	IN	NS	ns3.dnsexit.com.
-xrsmhji.gl.		3600	IN	NS	ns4.dnsexit.com.
 xs.gl.			3600	IN	NS	ns1.wannafind.dk.
 xs.gl.			3600	IN	NS	ns2.wannafind.dk.
 xs.gl.			3600	IN	DS	40064 13 4 59D517E21622BA789BAAE6B2E9E233B012AC559F4860F5D72B49C8CE 6F378FD00D20F3934D269BD2BE57941526481A08
@@ -22145,6 +22117,10 @@ xu.gl.			3600	IN	NS	ns1.iwantmyname.net.
 xu.gl.			3600	IN	NS	ns2.iwantmyname.net.
 xu.gl.			3600	IN	NS	ns3.iwantmyname.net.
 xu.gl.			3600	IN	NS	ns4.iwantmyname.net.
+xucicn.gl.		3600	IN	NS	ns1.dnsexit.com.
+xucicn.gl.		3600	IN	NS	ns2.dnsexit.com.
+xucicn.gl.		3600	IN	NS	ns3.dnsexit.com.
+xucicn.gl.		3600	IN	NS	ns4.dnsexit.com.
 xunta.gl.		3600	IN	NS	ns1.netim.net.
 xunta.gl.		3600	IN	NS	ns2.netim.net.
 xunta.gl.		3600	IN	NS	ns3.netim.net.
@@ -22207,10 +22183,6 @@ ybt.gl.			3600	IN	NS	ns1.kidc.net.
 ybt.gl.			3600	IN	NS	ns2.lgdacom.net.
 yc.gl.			3600	IN	NS	ns1.edgedns.ru.
 yc.gl.			3600	IN	NS	ns2.edgedns.world.
-ycvtnng.gl.		3600	IN	NS	ns1.dnsexit.com.
-ycvtnng.gl.		3600	IN	NS	ns2.dnsexit.com.
-ycvtnng.gl.		3600	IN	NS	ns3.dnsexit.com.
-ycvtnng.gl.		3600	IN	NS	ns4.dnsexit.com.
 yd.gl.			3600	IN	NS	ns1.netsto.net.
 yd.gl.			3600	IN	NS	ns2.netsto.net.
 ye.gl.			3600	IN	NS	ns1.hyp.net.
@@ -22227,10 +22199,6 @@ yg.gl.			3600	IN	NS	ns1.iwantmyname.net.
 yg.gl.			3600	IN	NS	ns2.iwantmyname.net.
 yg.gl.			3600	IN	NS	ns3.iwantmyname.net.
 yg.gl.			3600	IN	NS	ns4.iwantmyname.net.
-ygviowx.gl.		3600	IN	NS	ns1.dnsexit.com.
-ygviowx.gl.		3600	IN	NS	ns2.dnsexit.com.
-ygviowx.gl.		3600	IN	NS	ns3.dnsexit.com.
-ygviowx.gl.		3600	IN	NS	ns4.dnsexit.com.
 yic-electronics.gl.	3600	IN	NS	lana.ns.cloudflare.com.
 yic-electronics.gl.	3600	IN	NS	miles.ns.cloudflare.com.
 yiknatr.gl.		3600	IN	NS	ns1.dnsexit.com.
@@ -22247,6 +22215,14 @@ ylfbjus.gl.		3600	IN	NS	ns3.dnsexit.com.
 ylfbjus.gl.		3600	IN	NS	ns4.dnsexit.com.
 ylor.gl.		3600	IN	NS	zoe.ns.cloudflare.com.
 ylor.gl.		3600	IN	NS	fred.ns.cloudflare.com.
+ymevhj.gl.		3600	IN	NS	ns1.dnsexit.com.
+ymevhj.gl.		3600	IN	NS	ns2.dnsexit.com.
+ymevhj.gl.		3600	IN	NS	ns3.dnsexit.com.
+ymevhj.gl.		3600	IN	NS	ns4.dnsexit.com.
+ymuqmm.gl.		3600	IN	NS	ns1.dnsexit.com.
+ymuqmm.gl.		3600	IN	NS	ns2.dnsexit.com.
+ymuqmm.gl.		3600	IN	NS	ns3.dnsexit.com.
+ymuqmm.gl.		3600	IN	NS	ns4.dnsexit.com.
 yo.gl.			3600	IN	NS	asa.ns.cloudflare.com.
 yo.gl.			3600	IN	NS	rohin.ns.cloudflare.com.
 yoga.gl.		3600	IN	NS	ns1.netim.net.
@@ -22259,10 +22235,6 @@ yogarta.gl.		3600	IN	NS	ns8.wixdns.net.
 yogarta.gl.		3600	IN	NS	ns9.wixdns.net.
 yoox.gl.		3600	IN	NS	ns1.register.it.
 yoox.gl.		3600	IN	NS	ns2.register.it.
-yotfotv.gl.		3600	IN	NS	ns1.dnsexit.com.
-yotfotv.gl.		3600	IN	NS	ns2.dnsexit.com.
-yotfotv.gl.		3600	IN	NS	ns3.dnsexit.com.
-yotfotv.gl.		3600	IN	NS	ns4.dnsexit.com.
 yoursafe.gl.		3600	IN	NS	ns01.bitsafe.com.
 yoursafe.gl.		3600	IN	NS	ns02.bitsafe.com.
 yoursafe.gl.		3600	IN	NS	ns03.bitsafe.com.
@@ -22271,10 +22243,6 @@ youtube.gl.		3600	IN	NS	ns1.google.com.
 youtube.gl.		3600	IN	NS	ns2.google.com.
 youtube.gl.		3600	IN	NS	ns3.google.com.
 youtube.gl.		3600	IN	NS	ns4.google.com.
-ypglhpp.gl.		3600	IN	NS	ns1.dnsexit.com.
-ypglhpp.gl.		3600	IN	NS	ns2.dnsexit.com.
-ypglhpp.gl.		3600	IN	NS	ns3.dnsexit.com.
-ypglhpp.gl.		3600	IN	NS	ns4.dnsexit.com.
 ys.gl.			3600	IN	NS	ns1.regery.net.
 ys.gl.			3600	IN	NS	ns2.regery.net.
 ys.gl.			3600	IN	NS	ns3.regery.net.
@@ -22335,16 +22303,8 @@ zap.gl.			3600	IN	NS	ns3.epik.com.
 zap.gl.			3600	IN	NS	ns4.epik.com.
 zap.gl.			3600	IN	DS	3331 13 2 0901FBD07E4BEE8999348AF8252B2D7470BB118322FDD2E0E5B492A4 8B886514
 zap.gl.			3600	IN	RRSIG	DS 8 2 3600 20250620190000 20250401190000 57390 gl. gRTnJAoFlHhG4XKrJMnryA/DUDcqlMfA8DVdS/9HjRr8ks7HLsWFyNDw zPp//hxC8IAuKy2XrKcuTJQFPDaShBhGF2ZtZTnKR3dD4kPl/1KGxH5H 1MGNC8RAQ7P8L3lmb55iMMDN+7EOv8nPNQGt2ZmH3cONY0d/pWkzUiHQ sg4DUmOCzd1RJmrHtDE9AIjDQMadJi7PyEWDypuA6BA/bBBCXkOvrTmL DgHzPfqmcjb452WTo7pdIOhOMkl8UtlcQSwc1qtb4YokwnAgxN43rSeV Gklu+LTv2es1GhWMR3DkaeeLWqWgFwyLkgwbi9EUI0RnuBD3oRqknoOO H9hIfw==
-zazdiwh.gl.		3600	IN	NS	ns1.dnsexit.com.
-zazdiwh.gl.		3600	IN	NS	ns2.dnsexit.com.
-zazdiwh.gl.		3600	IN	NS	ns3.dnsexit.com.
-zazdiwh.gl.		3600	IN	NS	ns4.dnsexit.com.
 zb.gl.			3600	IN	NS	haley.ns.cloudflare.com.
 zb.gl.			3600	IN	NS	anirban.ns.cloudflare.com.
-zbjlfzr.gl.		3600	IN	NS	ns1.dnsexit.com.
-zbjlfzr.gl.		3600	IN	NS	ns2.dnsexit.com.
-zbjlfzr.gl.		3600	IN	NS	ns3.dnsexit.com.
-zbjlfzr.gl.		3600	IN	NS	ns4.dnsexit.com.
 zeal.gl.		3600	IN	NS	kip.ns.cloudflare.com.
 zeal.gl.		3600	IN	NS	dana.ns.cloudflare.com.
 zee.gl.			3600	IN	NS	tony.ns.cloudflare.com.
@@ -22353,6 +22313,10 @@ zehnder.gl.		3600	IN	NS	ns1.hoststar.hosting.
 zehnder.gl.		3600	IN	NS	ns2.hoststar.hosting.
 zeitarbeit.gl.		3600	IN	NS	ns.checkdomain.de.
 zeitarbeit.gl.		3600	IN	NS	ns2.checkdomain.de.
+zemkqg.gl.		3600	IN	NS	ns1.dnsexit.com.
+zemkqg.gl.		3600	IN	NS	ns2.dnsexit.com.
+zemkqg.gl.		3600	IN	NS	ns3.dnsexit.com.
+zemkqg.gl.		3600	IN	NS	ns4.dnsexit.com.
 zen.gl.			3600	IN	NS	todd.ns.cloudflare.com.
 zen.gl.			3600	IN	NS	dahlia.ns.cloudflare.com.
 zen.gl.			3600	IN	DS	2371 13 2 46FC63722BC9D72865931BCA43E65498D831A1FEB39035DAF11B0A37 9DB3C9C3
@@ -22424,10 +22388,6 @@ zl.gl.			3600	IN	NS	pns101.cloudns.net.
 zl.gl.			3600	IN	NS	pns102.cloudns.net.
 zl.gl.			3600	IN	NS	pns103.cloudns.net.
 zl.gl.			3600	IN	NS	pns104.cloudns.net.
-zluqpcn.gl.		3600	IN	NS	ns1.dnsexit.com.
-zluqpcn.gl.		3600	IN	NS	ns2.dnsexit.com.
-zluqpcn.gl.		3600	IN	NS	ns3.dnsexit.com.
-zluqpcn.gl.		3600	IN	NS	ns4.dnsexit.com.
 zm.gl.			3600	IN	NS	desi.ns.cloudflare.com.
 zm.gl.			3600	IN	NS	mario.ns.cloudflare.com.
 zo.gl.			3600	IN	NS	pns21.cloudns.net.
@@ -22482,6 +22442,10 @@ zusammenhalt.gl.	3600	IN	NS	ns6.kasserver.com.
 zx.gl.			3600	IN	NS	ns1.digitalocean.com.
 zx.gl.			3600	IN	NS	ns2.digitalocean.com.
 zx.gl.			3600	IN	NS	ns3.digitalocean.com.
+zxedsg.gl.		3600	IN	NS	ns1.dnsexit.com.
+zxedsg.gl.		3600	IN	NS	ns2.dnsexit.com.
+zxedsg.gl.		3600	IN	NS	ns3.dnsexit.com.
+zxedsg.gl.		3600	IN	NS	ns4.dnsexit.com.
 zy.gl.			3600	IN	NS	ns1.sedoparking.com.
 zy.gl.			3600	IN	NS	ns2.sedoparking.com.
 zyn.gl.			3600	IN	NS	ns1.markmonitor.com.
@@ -23909,4 +23873,4 @@ VUUKQNG9UT9NTCQ7U59H7QU1M7LVB0N1.gl. 3600 IN NSEC3 1 1 0 2D5C06E8 VV17SVK5AF63LO
 VUUKQNG9UT9NTCQ7U59H7QU1M7LVB0N1.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250620190000 20250401190000 57390 gl. iLiuBtgsXRrzxu7ns3VWvLlACCG7RZ005VUzj+nCg3L52fyvle9UbAWK yJkmdkBzvEXg9NlfkfRarxXPKX/IH5CeAJq+5cVscZ4Eosc6dag83/rG aXHzid0T76NHlaMLkMrTce8gADUEhJ/4D+e94ZQGNsiVRyjobjrtaVNq i1IOgVewG+Dp4zryh2MkmHL1/NKYIiSeyVU60Kz17i5w55WqTk78OAPO DqMESupDxtH2sJOM7n44wPvotauqrhc1Fl7zViw8kMZRNakLJ0jBe+x+ NH9RcGR3VHXt4TGGromchnP+JueZXy44veE0YnZj4EJoz9AIvjGszTTr u26yWw==
 VV17SVK5AF63LOD2SUCIRSBLTNDV13CM.gl. 3600 IN NSEC3 1 1 0 2D5C06E8 0192RCA1K1PVT43OGBR0VHVV2VQ12S4U NS DS RRSIG
 VV17SVK5AF63LOD2SUCIRSBLTNDV13CM.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250620190000 20250401190000 57390 gl. YNLPcAOUeOgudWkZgWb4pG4KV5I6H3i3cT28fDzdJnY9lSt5chpxwznm PrDYDkkmIQDGFrzS+UE9VpGGlaFr1hYkLAsXFfHpPLny7k3L1UuYFHNO 2H+BT4kjgQO8zce6xvLb2Hrh9oUmNheS2G/fVIHlGu7QlQ8jaPmPknjl kJeJDwoRW+jX1ccU8C5CJ8Sb0G8J2Y+p0UJhq4fQIqVVM7v5HJZxVDPG swdp7CiI4oyMIcsD9BxSTMUkfYwOTyipTUa9VUJhwXej/1tULm156XKI /NFuPG0GeeRsikohqgLYW+H6Ld2gdhHTQ/cMw2BulYlQxQByj+zK5Z/i OEUd7w==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022162284 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022162287 900 1800 6048000 3600
