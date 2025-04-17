@@ -1,4 +1,4 @@
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025041610 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025041703 86400 7200 3600000 172800
 ps.			86400	IN	NS	ps.cctld.authdns.ripe.net.
 ps.			86400	IN	NS	ns1.pnina.ps.
 ps.			86400	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.			86400	IN	NS	rip.psg.com.
 ps.			86400	IN	NS	fork.sth.dnsnode.net.
 ps.			86400	IN	NS	Bilal.pnina.ps.
 ps.			86400	IN	NS	ps-ns.anycast.pch.net.
-ps.			86400	IN	TXT	"Generation Time: 1744826507"
+ps.			86400	IN	TXT	"Generation Time: 1744862499"
 01net.ps.		86400	IN	NS	ns1.safebrands.fr.
 01net.ps.		86400	IN	NS	ns2.safebrands.eu.
 01net.ps.		86400	IN	NS	ns3.safebrands.com.
@@ -11025,6 +11025,8 @@ molhem.ps.		86400	IN	NS	ns2.injazatcloud.ps.
 molouki.ps.		86400	IN	NS	ns1.contabo.net.
 molouki.ps.		86400	IN	NS	ns2.contabo.net.
 molouki.ps.		86400	IN	NS	ns3.contabo.net.
+momcozy.ps.		86400	IN	NS	ns1.icp100.net.
+momcozy.ps.		86400	IN	NS	ns2.icp100.net.
 monad.ps.		86400	IN	NS	quincy.ns.cloudflare.com.
 monad.ps.		86400	IN	NS	clarissa.ns.cloudflare.com.
 mondelez.ps.		86400	IN	NS	dns1.cscdns.net.
@@ -13320,9 +13322,9 @@ pfc.ps.			86400	IN	NS	cdns1.hadara.ps.
 pfc.ps.			86400	IN	NS	cdns2.hadara.ps.
 pfda.ps.		86400	IN	NS	ns1.weblayer.co.
 pfda.ps.		86400	IN	NS	ns2.weblayer.co.
-pfeis.ps.		86400	IN	DS	48693 13 2 BA0B5D3C90AB3CC79C6CF68DDB0DB364F784F7EA0F2DD9BE6D45C279 459E974C
 pfeis.ps.		86400	IN	NS	cdns1.hadara.ps.
 pfeis.ps.		86400	IN	NS	cdns2.hadara.ps.
+pfeis.ps.		86400	IN	DS	48693 13 2 BA0B5D3C90AB3CC79C6CF68DDB0DB364F784F7EA0F2DD9BE6D45C279 459E974C
 pfgt.ps.		86400	IN	NS	dns1.namecheaphosting.com.
 pfgt.ps.		86400	IN	NS	dns2.namecheaphosting.com.
 pfi.ps.			86400	IN	NS	gwen.ns.cloudflare.com.
@@ -15750,8 +15752,9 @@ silwad.ps.		86400	IN	NS	ns1.servconfig.com.
 silwad.ps.		86400	IN	NS	ns2.servconfig.com.
 silwadmill.ps.		86400	IN	NS	ns1.servconfig.com.
 silwadmill.ps.		86400	IN	NS	ns2.servconfig.com.
-simo.ps.		86400	IN	NS	lia.ns.cloudflare.com.
-simo.ps.		86400	IN	NS	kolton.ns.cloudflare.com.
+simo.ps.		86400	IN	NS	ns1.regery.net.
+simo.ps.		86400	IN	NS	ns2.regery.net.
+simo.ps.		86400	IN	NS	ns3.regery.net.
 simona.ps.		86400	IN	NS	ns1.ttawor.com.
 simona.ps.		86400	IN	NS	ns2.ttawor.com.
 simple.ps.		86400	IN	NS	ns1.netim.net.
@@ -17915,6 +17918,8 @@ vegas.ps.		86400	IN	NS	ns2.injazatcloud.ps.
 vehicleofhope.ps.	86400	IN	NS	1-you.njalla.no.
 vehicleofhope.ps.	86400	IN	NS	2-can.njalla.in.
 vehicleofhope.ps.	86400	IN	NS	3-get.njalla.fo.
+velvet.ps.		86400	IN	NS	cdns1.main-hosting.eu.
+velvet.ps.		86400	IN	NS	cdns2.main-hosting.eu.
 vend.ps.		86400	IN	NS	ns1.digitalocean.com.
 vend.ps.		86400	IN	NS	ns2.digitalocean.com.
 vend.ps.		86400	IN	NS	ns3.digitalocean.com.
@@ -17958,10 +17963,10 @@ versahpalestine.ps.	86400	IN	NS	ns2.101domain.com.
 versahpalestine.ps.	86400	IN	NS	ns5.101domain.com.
 vertex.ps.		86400	IN	NS	ns4045.hostgator.com.
 vertex.ps.		86400	IN	NS	ns4046.hostgator.com.
-vertu.ps.		86400	IN	DS	13660 8 2 A52206B82E90BEB04C62B69EC6EBA3BDFCF123BAA8CF65BFE5F0DAA9 ACE9A4AD
 vertu.ps.		86400	IN	NS	ns1.bb-online.net.
 vertu.ps.		86400	IN	NS	ns2.bb-online.org.
 vertu.ps.		86400	IN	NS	ns3.bb-online.info.
+vertu.ps.		86400	IN	DS	13660 8 2 A52206B82E90BEB04C62B69EC6EBA3BDFCF123BAA8CF65BFE5F0DAA9 ACE9A4AD
 vespa.ps.		86400	IN	NS	ns1.barbero.zone.
 vespa.ps.		86400	IN	NS	ns2.barbero.zone.
 veta.ps.		86400	IN	NS	ns1.injazatcloud.ps.
@@ -18451,14 +18456,10 @@ with.ps.		86400	IN	NS	ns.nscluster.at.
 with.ps.		86400	IN	NS	ns.nscluster.lt.
 witness.ps.		86400	IN	NS	dns1.namecheaphosting.com.
 witness.ps.		86400	IN	NS	dns2.namecheaphosting.com.
-witty.ps.		86400	IN	NS	ns1.witty.ps.
-witty.ps.		86400	IN	NS	ns2.witty.ps.
-witty.ps.		86400	IN	NS	ns3.witty.ps.
-witty.ps.		86400	IN	NS	ns4.witty.ps.
-ns1.witty.ps.		86400	IN	A	167.71.73.238
-ns2.witty.ps.		86400	IN	A	51.38.114.43
-ns3.witty.ps.		86400	IN	A	94.130.75.18
-ns4.witty.ps.		86400	IN	A	149.28.254.81
+witty.ps.		86400	IN	NS	ns1.ultahost.com.
+witty.ps.		86400	IN	NS	ns2.ultahost.com.
+witty.ps.		86400	IN	NS	ns3.ultahost.com.
+witty.ps.		86400	IN	NS	ns4.ultahost.com.
 wiwu.ps.		86400	IN	NS	ns1.greenbackend.com.
 wiwu.ps.		86400	IN	NS	ns2.greenbackend.com.
 wiwu.ps.		86400	IN	NS	ns3.greenbackend.com.
@@ -18969,4 +18970,4 @@ zuwadeh.ps.		86400	IN	NS	ns3.ftsconsulting.net.
 zuwadeh.ps.		86400	IN	NS	ns4.ftsconsulting.net.
 zuwar.ps.		86400	IN	NS	ns1.dns-parking.com.
 zuwar.ps.		86400	IN	NS	ns2.dns-parking.com.
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025041610 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025041703 86400 7200 3600000 172800
