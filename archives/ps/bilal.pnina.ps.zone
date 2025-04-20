@@ -1,4 +1,4 @@
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025041909 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025042005 86400 7200 3600000 172800
 ps.			86400	IN	NS	ps.cctld.authdns.ripe.net.
 ps.			86400	IN	NS	ns1.pnina.ps.
 ps.			86400	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.			86400	IN	NS	rip.psg.com.
 ps.			86400	IN	NS	fork.sth.dnsnode.net.
 ps.			86400	IN	NS	Bilal.pnina.ps.
 ps.			86400	IN	NS	ps-ns.anycast.pch.net.
-ps.			86400	IN	TXT	"Generation Time: 1745078501"
+ps.			86400	IN	TXT	"Generation Time: 1745136100"
 01net.ps.		86400	IN	NS	ns1.safebrands.fr.
 01net.ps.		86400	IN	NS	ns2.safebrands.eu.
 01net.ps.		86400	IN	NS	ns3.safebrands.com.
@@ -30,7 +30,6 @@ ps.			86400	IN	TXT	"Generation Time: 1745078501"
 101domain.ps.		86400	IN	NS	nelly.ns.cloudflare.com.
 101domains.ps.		86400	IN	NS	dale.ns.cloudflare.com.
 101domains.ps.		86400	IN	NS	nelly.ns.cloudflare.com.
-101ml.ps.		86400	IN	DS	2371 13 2 EB594057B9980AC6DAF9CA0D51F8A8B1DEF2B9EC8B54C8C44A478D81 5D583A40
 101ml.ps.		86400	IN	NS	elliot.ns.cloudflare.com.
 101ml.ps.		86400	IN	NS	gloria.ns.cloudflare.com.
 112.ps.			86400	IN	NS	dns3.gov.ps.
@@ -3946,8 +3945,8 @@ checkplug.ps.		86400	IN	NS	vita.ns.cloudflare.com.
 checkplug.ps.		86400	IN	NS	bjorn.ns.cloudflare.com.
 cheeseandmore.ps.	86400	IN	NS	ns1.servconfig.com.
 cheeseandmore.ps.	86400	IN	NS	ns2.servconfig.com.
-cheezi.ps.		86400	IN	NS	ns1.ttawor.com.
-cheezi.ps.		86400	IN	NS	ns2.ttawor.com.
+cheezi.ps.		86400	IN	NS	ns1.bluehost.com.
+cheezi.ps.		86400	IN	NS	ns2.bluehost.com.
 chefaseel.ps.		86400	IN	NS	cdns1.hadara.ps.
 chefaseel.ps.		86400	IN	NS	cdns2.hadara.ps.
 chery.ps.		86400	IN	NS	ns-61-c.gandi.net.
@@ -6533,6 +6532,10 @@ ftdd.ps.		86400	IN	NS	ns1.bluehost.com.
 ftdd.ps.		86400	IN	NS	ns2.bluehost.com.
 ftp.ps.			86400	IN	NS	ns1.pnina.ps.
 ftp.ps.			86400	IN	NS	ns2.pnina.ps.
+fts.ps.			86400	IN	NS	ns1.ftsconsulting.net.
+fts.ps.			86400	IN	NS	ns2.ftsconsulting.net.
+fts.ps.			86400	IN	NS	ns3.ftsconsulting.net.
+fts.ps.			86400	IN	NS	ns4.ftsconsulting.net.
 ftth.ps.		86400	IN	NS	dns1.web-hosting.com.
 ftth.ps.		86400	IN	NS	dns1.namecheaphosting.com.
 ftth.ps.		86400	IN	NS	dns2.namecheaphosting.com.
@@ -8603,8 +8606,8 @@ izhiman.ps.		86400	IN	NS	ns3.masterweb-ps.com.
 izhiman.ps.		86400	IN	NS	ns4.masterweb-ps.com.
 izhimancoffee.ps.	86400	IN	NS	ns12.wixdns.net.
 izhimancoffee.ps.	86400	IN	NS	ns13.wixdns.net.
-iztechvalley.ps.	86400	IN	NS	ns1.injazatcloud.ps.
-iztechvalley.ps.	86400	IN	NS	ns2.injazatcloud.ps.
+iztechvalley.ps.	86400	IN	NS	lady.ns.cloudflare.com.
+iztechvalley.ps.	86400	IN	NS	chuck.ns.cloudflare.com.
 jab.ps.			86400	IN	NS	cdns1.hadara.ps.
 jab.ps.			86400	IN	NS	cdns2.hadara.ps.
 jabalia.ps.		86400	IN	NS	ns1.supercp.com.
@@ -9176,9 +9179,9 @@ khalaf.ps.		86400	IN	NS	dns1.100ws.com.
 khalaf.ps.		86400	IN	NS	dns2.100ws.com.
 khaledosaily.ps.	86400	IN	NS	ns1.leg-des.com.
 khaledosaily.ps.	86400	IN	NS	ns2.leg-des.com.
+khaledsccd.ps.		86400	IN	DS	2371 13 2 1EFF14DB755AEF02D4E54ECA7F936FF34143BD410E0BCAB5D7795225 909AE81D
 khaledsccd.ps.		86400	IN	NS	tia.ns.cloudflare.com.
 khaledsccd.ps.		86400	IN	NS	seth.ns.cloudflare.com.
-khaledsccd.ps.		86400	IN	DS	2371 13 2 1EFF14DB755AEF02D4E54ECA7F936FF34143BD410E0BCAB5D7795225 909AE81D
 khaletmayah-munc.ps.	86400	IN	NS	ns1.dns-parking.com.
 khaletmayah-munc.ps.	86400	IN	NS	ns2.dns-parking.com.
 khalidhospital.ps.	86400	IN	NS	cdns1.hadara.ps.
@@ -12529,6 +12532,8 @@ ozelr.ps.		86400	IN	NS	sam.ns.cloudflare.com.
 ozelr.ps.		86400	IN	NS	elsa.ns.cloudflare.com.
 ozman.ps.		86400	IN	NS	ns1-panda.dl-cms.com.
 ozman.ps.		86400	IN	NS	ns2-panda.dl-cms.com.
+oznil.ps.		86400	IN	NS	ns1.injazatcloud.ps.
+oznil.ps.		86400	IN	NS	ns2.injazatcloud.ps.
 ozon.ps.		86400	IN	NS	ns1.gnld4.siteground.eu.
 ozon.ps.		86400	IN	NS	ns2.gnld4.siteground.eu.
 ozone.ps.		86400	IN	NS	ns853.websitewelcome.com.
@@ -15436,10 +15441,10 @@ sesconsulting.ps.	86400	IN	NS	opal.ns.cloudflare.com.
 sesconsulting.ps.	86400	IN	NS	gannon.ns.cloudflare.com.
 setre.ps.		86400	IN	NS	ns1-lion.dl-cms.com.
 setre.ps.		86400	IN	NS	ns2-lion.dl-cms.com.
+setu.ps.		86400	IN	DS	24652 8 2 41CA10B983D65867DC611A767B897181B2268347BC67841896FE40F6 33B450C4
 setu.ps.		86400	IN	NS	1-you.njalla.no.
 setu.ps.		86400	IN	NS	2-can.njalla.in.
 setu.ps.		86400	IN	NS	3-get.njalla.fo.
-setu.ps.		86400	IN	DS	24652 8 2 41CA10B983D65867DC611A767B897181B2268347BC67841896FE40F6 33B450C4
 sfc.ps.			86400	IN	NS	ns1.ftsconsulting.net.
 sfc.ps.			86400	IN	NS	ns2.ftsconsulting.net.
 sfc.ps.			86400	IN	NS	ns3.ftsconsulting.net.
@@ -17512,8 +17517,10 @@ tsgbethlehem.ps.	86400	IN	NS	cdns1.hadara.ps.
 tsgbethlehem.ps.	86400	IN	NS	cdns2.hadara.ps.
 tsolutions.ps.		86400	IN	NS	elle.ns.cloudflare.com.
 tsolutions.ps.		86400	IN	NS	gabe.ns.cloudflare.com.
-tsst.ps.		86400	IN	NS	sid.ns.cloudflare.com.
-tsst.ps.		86400	IN	NS	mira.ns.cloudflare.com.
+tsst.ps.		86400	IN	NS	ns1.inmotionhosting.com.
+tsst.ps.		86400	IN	NS	ns2.inmotionhosting.com.
+tsst.ps.		86400	IN	NS	ns3.inmotionhosting.com.
+tsst.ps.		86400	IN	NS	ns4.inmotionhosting.com.
 tstore.ps.		86400	IN	NS	ns1.injazatcloud.ps.
 tstore.ps.		86400	IN	NS	ns2.injazatcloud.ps.
 tt.ps.			86400	IN	NS	ns1.srls.io.
@@ -18800,8 +18807,9 @@ zaitun.ps.		86400	IN	NS	ns1.mysecurecloudhost.com.
 zaitun.ps.		86400	IN	NS	ns2.mysecurecloudhost.com.
 zaitun.ps.		86400	IN	NS	ns3.mysecurecloudhost.com.
 zaitun.ps.		86400	IN	NS	ns4.mysecurecloudhost.com.
-zajelpress.ps.		86400	IN	NS	ns1.de5.fcomet.com.
-zajelpress.ps.		86400	IN	NS	ns2.de5.fcomet.com.
+zajelpress.ps.		86400	IN	NS	ns01.trademarkarea.com.
+zajelpress.ps.		86400	IN	NS	ns02.trademarkarea.com.
+zajelpress.ps.		86400	IN	NS	ns03.trademarkarea.com.
 zakah-daraj.ps.		86400	IN	NS	ns13.nepras.net.
 zakah-daraj.ps.		86400	IN	NS	ns14.nepras.net.
 zakat.ps.		86400	IN	NS	ns1.trustedcom.com.
@@ -18969,4 +18977,4 @@ zuwadeh.ps.		86400	IN	NS	ns3.ftsconsulting.net.
 zuwadeh.ps.		86400	IN	NS	ns4.ftsconsulting.net.
 zuwar.ps.		86400	IN	NS	ns1.dns-parking.com.
 zuwar.ps.		86400	IN	NS	ns2.dns-parking.com.
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025041909 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025042005 86400 7200 3600000 172800
