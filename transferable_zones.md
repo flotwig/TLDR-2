@@ -12,7 +12,7 @@
 * `er` via `zaranew.noc.net.er.`: [Click here to view zone data.](archives/er/zaranew.noc.net.er.zone)
 * `fj` via `ns2.fj.`: [Click here to view zone data.](archives/fj/ns2.fj.zone)
 * `gh` via `ns2.nic.gh.`: [Click here to view zone data.](archives/gh/ns2.nic.gh.zone)
-* `gl` via `a.nic.gl.`: [Click here to view zone data.](archives/gl/a.nic.gl.zone)
+* `gl` via `b.nic.gl.`: [Click here to view zone data.](archives/gl/b.nic.gl.zone)
 * `gn` via `ns1.gn.`: [Click here to view zone data.](archives/gn/ns1.gn.zone)
 * `gp` via `ns2.nic.gp.`: [Click here to view zone data.](archives/gp/ns2.nic.gp.zone)
 * `iq` via `ns.cmc.iq.`: [Click here to view zone data.](archives/iq/ns.cmc.iq.zone)
