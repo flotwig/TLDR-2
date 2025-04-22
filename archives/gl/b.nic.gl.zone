@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022162905 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250620190000 20250401190000 57390 gl. baHb4hjH78DAg3K3sboYpOAazS0RhxLCXtqel8PI/TuvKBkTNU5+Odf6 b2EirvShF3wyLsb9cd6FMYU46Y4pFmBwY/XQGz07m2EzVd4eHdLDC92t OGUbdevJLR8gMY1B5BdKswf/AYB1jaXkSvAKd94nAAgsFThxP33C/NOF QTjWc2pO3aOYWhdplnECyBGBp5SdF/95mxEYV9H8qhDwggM+ARDiO2q0 gZOZEWAtgUJdiCUG8B3rMbXKfVsy+9lobT09MkDnMvNTxZbseK9qxXfV hj1xc0X3lZHx020VZUse1EggbjNaiY74esjETZLkQjPtGDvNQ384hscK NKFb2A==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022162911 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250620190000 20250401190000 57390 gl. GzdjVz19KcG655bNwzVZbVI886UiYIDd6B8bK5jmm01WWo/YwQ1YwSaf AUdCpcGhh6Ob4PcsWw3HYcFATU9VVLN5YUdaHCrbn2za32meqBoH8UIk BiZUbrJbJq4NidccPjgfVQYKHq5CXOR/ZvBLeZjP/cV+emM9pRLnoctl ZqVvXsysTImyAcFZMiGFPy6CbN5mIwdq7wfKaDAv1HQz9AOJGAAZOZRt N2KvgZX53IW6dRYM6CKXT1q8USJD631MuLyoQWAfLGjT4DAd+xl+13i7 y/usrjGYTpPy06Piyo7SxOLQfIyM2mo5WwCFKOyTOx3S72FaDAChbl0e Wt4spA==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -3357,6 +3357,8 @@ bx.gl.			3600	IN	NS	hal.ns.cloudflare.com.
 bx.gl.			3600	IN	NS	olga.ns.cloudflare.com.
 by.gl.			3600	IN	NS	ns1.sedoparking.com.
 by.gl.			3600	IN	NS	ns2.sedoparking.com.
+bybit.gl.		3600	IN	NS	dns1.cscdns.net.
+bybit.gl.		3600	IN	NS	dns2.cscdns.net.
 byer.gl.		3600	IN	NS	ns1.netim.net.
 byer.gl.		3600	IN	NS	ns2.netim.net.
 byer.gl.		3600	IN	NS	ns3.netim.net.
@@ -16338,8 +16340,10 @@ qtech.gl.		3600	IN	DS	20012 13 4 EB35165AC5B48A0B7A328A3172AF41B91FC62ECB0B4AB46
 qtech.gl.		3600	IN	RRSIG	DS 8 2 3600 20250620190000 20250401190000 57390 gl. TvmVQ3p6nmsBYtpiSoedIVJYCZirvF+qOgpmQuQKgKCGSg7xsV4DLVsY sCL2mE3vhSC9iO8Gt+z3gNQwbRawTghslTK+PVrSLUmQpK997n7ysCxH aXMb8J216Xn+a3fewIEri90irztpf7r8MfKCZCNeA5WntCSlgYcpNmp8 g08g/qdReZPoDmFiWy9tf8ZBM89tDKIsF/CpAikxOr2Mc34W5cNoehmX Xy1+UlT56N2IK9F3m3iHll0LUOImnry8dfyWK/AYdKQItGGzHbp45Fxp ghb69BVHr3M0j0q8at6NEAfAT//5VuRbvdQOOeXjYisUrqK0BChJmKPQ HYeloQ==
 qtime.gl.		3600	IN	NS	ns1.hosting.inuit.gl.
 qtime.gl.		3600	IN	NS	ns2.hosting.inuit.gl.
-qtimersortarfia.gl.	3600	IN	NS	ns1.curanet.dk.
-qtimersortarfia.gl.	3600	IN	NS	ns2.curanet.dk.
+qtimersortarfia.gl.	3600	IN	NS	ns1.nunahosting.net.
+qtimersortarfia.gl.	3600	IN	NS	ns2.nunahosting.net.
+qtimersortarfia.gl.	3600	IN	NS	ns3.nunahosting.net.
+qtimersortarfia.gl.	3600	IN	NS	ns4.nunahosting.net.
 qu.gl.			3600	IN	NS	ns5.awardspace.com.
 qu.gl.			3600	IN	NS	ns6.awardspace.com.
 quantum.gl.		3600	IN	NS	gail.ns.cloudflare.com.
@@ -17064,8 +17068,10 @@ sanasa-art.gl.		3600	IN	NS	ns3.simply.com.
 sanasa-art.gl.		3600	IN	DS	47878 13 2 75B86BFE9FF5F283F52E1038F314B00DE715DC0E770989F4D8F4554F 9AE2A9A2
 sanasa-art.gl.		3600	IN	DS	47878 13 4 6F0F87F0B2B4313A5C543E466D25D5D4AE276504E7655BA6F681B9C1 604065A9B52A9C14EDA8347052C3CB94978FE642
 sanasa-art.gl.		3600	IN	RRSIG	DS 8 2 3600 20250620190000 20250401190000 57390 gl. YVB61lNZcBDj858UfCFBzWu2KeGXYiUyu60xz+Z/emzRUT0CriHvU+ke uQc5qFEYOjD+hmArOLIDgu+UhPJQun4119Xud9xvu7PMUXYVtBbPNwaB ENtokX80mvHvJpn1KmDmxx4Yx6ra24agNzArEL7bPmctASTHxICTu0gl hslfyuzROHvOlCpBQyTNFx7ApaVChSVyIg7WoBLAripbnC6TmD/EzUzT 8t22jycSGcD9UQPw+DVxZX0QXZxoouRu0T+cfGgxz9iTIvEC7vMnEznA uLFmTjGnxUFMJ69LRipt+xsXJCUCtDmpmaLLpEOh89p5q8sxLdelFRRm uxjsNw==
-sanasabyg.gl.		3600	IN	NS	ns1.curanet.dk.
-sanasabyg.gl.		3600	IN	NS	ns2.curanet.dk.
+sanasabyg.gl.		3600	IN	NS	ns1.nunahosting.net.
+sanasabyg.gl.		3600	IN	NS	ns2.nunahosting.net.
+sanasabyg.gl.		3600	IN	NS	ns3.nunahosting.net.
+sanasabyg.gl.		3600	IN	NS	ns4.nunahosting.net.
 sanasoq.gl.		3600	IN	NS	ns1.bdm.microsoftonline.com.
 sanasoq.gl.		3600	IN	NS	ns2.bdm.microsoftonline.com.
 sanasoq.gl.		3600	IN	NS	ns3.bdm.microsoftonline.com.
@@ -17749,8 +17755,10 @@ sisak.gl.		3600	IN	DS	51622 13 4 C4AE84BBC5449160896CC77EED258FF6AB28C05F0987134
 sisak.gl.		3600	IN	RRSIG	DS 8 2 3600 20250620190000 20250401190000 57390 gl. MeP4vV0RARItR+TUBY9Sf54SJypFn86mSnifcfyujLsTBPQEg8xlrfSe HzwixdeJnuQmcyGEi0nEJPFpQQOsEs5Nf2KPKBWbPEyMgIhEaFkSTt1W wDpQuZiBuczsQOpyg3K7NO0VcNkFgXuP0vJVmmgaKbq6nn8bG47SxSyN U4E7WcnsLL2cqurJKkYiOr9SYsfNr7bR7KVkEvdQoUC1dh7LGhTOybBK 2681c5ec5kl1wDKGbeop97kjc52uoWpWO2QmbHEm0ReljbWRjeaT2USO CDBwC+UvrIlv8gTqDCAVdl2fsgjD23zRdYieGdBUlXUQVcfpOmdeEl8X qhbGQg==
 sisanet.gl.		3600	IN	NS	ns1.wwi.dk.
 sisanet.gl.		3600	IN	NS	ns2.wwi.dk.
-sisbaad.gl.		3600	IN	NS	ns1.curanet.dk.
-sisbaad.gl.		3600	IN	NS	ns2.curanet.dk.
+sisbaad.gl.		3600	IN	NS	ns1.nunahosting.net.
+sisbaad.gl.		3600	IN	NS	ns2.nunahosting.net.
+sisbaad.gl.		3600	IN	NS	ns3.nunahosting.net.
+sisbaad.gl.		3600	IN	NS	ns4.nunahosting.net.
 sisimiut.gl.		3600	IN	NS	ns13.hawkhost.com.
 sisimiut.gl.		3600	IN	NS	ns14.hawkhost.com.
 sisimiut-el.gl.		3600	IN	NS	ns1.omninet.dk.
@@ -18694,8 +18702,10 @@ sustainabilitywithsubstance.gl.	3600 IN	NS	edns1.ultradns.biz.
 sustainabilitywithsubstance.gl.	3600 IN	NS	edns1.ultradns.com.
 sustainabilitywithsubstance.gl.	3600 IN	NS	edns1.ultradns.net.
 sustainabilitywithsubstance.gl.	3600 IN	NS	edns1.ultradns.org.
-sustine.gl.		3600	IN	NS	ns1.curanet.dk.
-sustine.gl.		3600	IN	NS	ns2.curanet.dk.
+sustine.gl.		3600	IN	NS	ns1.nunahosting.net.
+sustine.gl.		3600	IN	NS	ns2.nunahosting.net.
+sustine.gl.		3600	IN	NS	ns3.nunahosting.net.
+sustine.gl.		3600	IN	NS	ns4.nunahosting.net.
 suzukimarine.gl.	3600	IN	NS	ns01.one.com.
 suzukimarine.gl.	3600	IN	NS	ns02.one.com.
 sv.gl.			3600	IN	NS	pdns05.domaincontrol.com.
@@ -18979,8 +18989,10 @@ tax-free.gl.		3600	IN	NS	c.hosting.gl.
 tax-free.gl.		3600	IN	NS	d.hosting.gl.
 taxa.gl.		3600	IN	NS	ns01.one.com.
 taxa.gl.		3600	IN	NS	ns02.one.com.
-taxa944944.gl.		3600	IN	NS	ns1.curanet.dk.
-taxa944944.gl.		3600	IN	NS	ns2.curanet.dk.
+taxa944944.gl.		3600	IN	NS	ns1.nunahosting.net.
+taxa944944.gl.		3600	IN	NS	ns2.nunahosting.net.
+taxa944944.gl.		3600	IN	NS	ns3.nunahosting.net.
+taxa944944.gl.		3600	IN	NS	ns4.nunahosting.net.
 taxagut.gl.		3600	IN	NS	ns1.gigahost.dk.
 taxagut.gl.		3600	IN	NS	ns2.gigahost.dk.
 taxagut.gl.		3600	IN	NS	ns3.gigahost.dk.
@@ -22990,4 +23002,4 @@ VUUKQNG9UT9NTCQ7U59H7QU1M7LVB0N1.gl. 3600 IN NSEC3 1 1 0 2D5C06E8 VV17SVK5AF63LO
 VUUKQNG9UT9NTCQ7U59H7QU1M7LVB0N1.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250620190000 20250401190000 57390 gl. iLiuBtgsXRrzxu7ns3VWvLlACCG7RZ005VUzj+nCg3L52fyvle9UbAWK yJkmdkBzvEXg9NlfkfRarxXPKX/IH5CeAJq+5cVscZ4Eosc6dag83/rG aXHzid0T76NHlaMLkMrTce8gADUEhJ/4D+e94ZQGNsiVRyjobjrtaVNq i1IOgVewG+Dp4zryh2MkmHL1/NKYIiSeyVU60Kz17i5w55WqTk78OAPO DqMESupDxtH2sJOM7n44wPvotauqrhc1Fl7zViw8kMZRNakLJ0jBe+x+ NH9RcGR3VHXt4TGGromchnP+JueZXy44veE0YnZj4EJoz9AIvjGszTTr u26yWw==
 VV17SVK5AF63LOD2SUCIRSBLTNDV13CM.gl. 3600 IN NSEC3 1 1 0 2D5C06E8 0192RCA1K1PVT43OGBR0VHVV2VQ12S4U NS DS RRSIG
 VV17SVK5AF63LOD2SUCIRSBLTNDV13CM.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250620190000 20250401190000 57390 gl. YNLPcAOUeOgudWkZgWb4pG4KV5I6H3i3cT28fDzdJnY9lSt5chpxwznm PrDYDkkmIQDGFrzS+UE9VpGGlaFr1hYkLAsXFfHpPLny7k3L1UuYFHNO 2H+BT4kjgQO8zce6xvLb2Hrh9oUmNheS2G/fVIHlGu7QlQ8jaPmPknjl kJeJDwoRW+jX1ccU8C5CJ8Sb0G8J2Y+p0UJhq4fQIqVVM7v5HJZxVDPG swdp7CiI4oyMIcsD9BxSTMUkfYwOTyipTUa9VUJhwXej/1tULm156XKI /NFuPG0GeeRsikohqgLYW+H6Ld2gdhHTQ/cMw2BulYlQxQByj+zK5Z/i OEUd7w==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022162905 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022162911 900 1800 6048000 3600
