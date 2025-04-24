@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163022 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250620190000 20250401190000 57390 gl. CxZ+zaBcZn7oE2OeYZStmDNrHt38z6c9Px2x4nbkDU2UMUKI1ZTg/VCa h+752yM9TKO4hvUWctLXLO3c2jtAS1tBo8X2rkcTPPtud7qu7NjDlwoi DW1wQ6GEHIKmc2QyXuWH/b5RXMPRNpD0sUhJFSmvzzMaH0/z79vAANxA JIx1b5GlxAirC2pNDq54Eym8owtYWqZDB2pC5IcobQoekLIpj0YpgHnI 7oIKtJjUatuvKu33IGrzU1hSsTVLdDDxKIPIlfSeI1g0RBJK6aTXRrg2 oUpz8xs1+llGz+5kSMJeWbQx4KIkV3tVNf11D5kGhf6x2y1roEfNk1sC vnjdTg==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163032 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250620190000 20250401190000 57390 gl. JIXEVUVY0J1y2+CWzU9jLas0PPGMVaBx+hbWOmmkQ6ASXtayKPBGsJdc qBmEgLjWwAAHG2ORGnPwSZCVndRJhca0QGBEgNsRA6Yv76+GJZqvTqmY IokeSqjsOY6b243LlctEY8klQ7RYNbxpNuho8kZyV3NFIZr+jut+gj5t OI78jRRX5TPg1Px6rZvFrQdsZ9eJCJDhP+UynYuEDpHDoyON1UPbZHp5 B5FH2xoUA76kCcquaTO3JZ+L84bUZK4YiRl3r7Vp9iH1+Dw/razxeApz iQwr1lHsqPsGZiOOrNTYXEk7Jzwi39EpchSQfF7/tFx5N0dLEnNLJoCD DxTy1A==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -458,6 +458,8 @@ a5.gl.			3600	IN	NS	fish.ns.cloudflare.com.
 a5.gl.			3600	IN	NS	igor.ns.cloudflare.com.
 aa.gl.			3600	IN	NS	dns1.cscdns.net.
 aa.gl.			3600	IN	NS	dns2.cscdns.net.
+aaa.gl.			3600	IN	NS	a11.share-dns.com.
+aaa.gl.			3600	IN	NS	b11.share-dns.net.
 aac.gl.			3600	IN	NS	ns1.dns.services.
 aac.gl.			3600	IN	NS	ns2.dns.services.
 aac.gl.			3600	IN	NS	ns3.dns.services.
@@ -2005,6 +2007,9 @@ aus-g4s.gl.		3600	IN	NS	ns1.101domain.com.
 aus-g4s.gl.		3600	IN	NS	ns2.101domain.com.
 ausecurity.gl.		3600	IN	NS	ns1.101domain.com.
 ausecurity.gl.		3600	IN	NS	ns2.101domain.com.
+auth.gl.		3600	IN	NS	ns1.netim.net.
+auth.gl.		3600	IN	NS	ns2.netim.net.
+auth.gl.		3600	IN	NS	ns3.netim.net.
 autisme.gl.		3600	IN	NS	ns1.unoeuro.com.
 autisme.gl.		3600	IN	NS	ns2.unoeuro.com.
 autisme.gl.		3600	IN	NS	ns3.unoeuro.com.
@@ -5112,6 +5117,8 @@ edv.gl.			3600	IN	NS	ns.checkdomain.de.
 edv.gl.			3600	IN	NS	ns2.checkdomain.de.
 ee.gl.			3600	IN	NS	ns1.sav.com.
 ee.gl.			3600	IN	NS	ns2.sav.com.
+eee.gl.			3600	IN	NS	a5.share-dns.com.
+eee.gl.			3600	IN	NS	b5.share-dns.net.
 ef.gl.			3600	IN	NS	pam.ns.cloudflare.com.
 ef.gl.			3600	IN	NS	anirban.ns.cloudflare.com.
 efb.gl.			3600	IN	NS	a.hosting.gl.
@@ -5887,6 +5894,8 @@ festivalo.gl.		3600	IN	NS	ns3.dinahosting.com.
 festivalo.gl.		3600	IN	NS	ns4.dinahosting.com.
 fev.gl.			3600	IN	NS	ns1.curanet.dk.
 fev.gl.			3600	IN	NS	ns2.curanet.dk.
+fff.gl.			3600	IN	NS	a3.share-dns.com.
+fff.gl.			3600	IN	NS	b3.share-dns.net.
 ffg.gl.			3600	IN	NS	ns1.simply.com.
 ffg.gl.			3600	IN	NS	ns2.simply.com.
 ffg.gl.			3600	IN	NS	ns3.simply.com.
@@ -23004,4 +23013,4 @@ VUUKQNG9UT9NTCQ7U59H7QU1M7LVB0N1.gl. 3600 IN NSEC3 1 1 0 2D5C06E8 VV17SVK5AF63LO
 VUUKQNG9UT9NTCQ7U59H7QU1M7LVB0N1.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250620190000 20250401190000 57390 gl. iLiuBtgsXRrzxu7ns3VWvLlACCG7RZ005VUzj+nCg3L52fyvle9UbAWK yJkmdkBzvEXg9NlfkfRarxXPKX/IH5CeAJq+5cVscZ4Eosc6dag83/rG aXHzid0T76NHlaMLkMrTce8gADUEhJ/4D+e94ZQGNsiVRyjobjrtaVNq i1IOgVewG+Dp4zryh2MkmHL1/NKYIiSeyVU60Kz17i5w55WqTk78OAPO DqMESupDxtH2sJOM7n44wPvotauqrhc1Fl7zViw8kMZRNakLJ0jBe+x+ NH9RcGR3VHXt4TGGromchnP+JueZXy44veE0YnZj4EJoz9AIvjGszTTr u26yWw==
 VV17SVK5AF63LOD2SUCIRSBLTNDV13CM.gl. 3600 IN NSEC3 1 1 0 2D5C06E8 0192RCA1K1PVT43OGBR0VHVV2VQ12S4U NS DS RRSIG
 VV17SVK5AF63LOD2SUCIRSBLTNDV13CM.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250620190000 20250401190000 57390 gl. YNLPcAOUeOgudWkZgWb4pG4KV5I6H3i3cT28fDzdJnY9lSt5chpxwznm PrDYDkkmIQDGFrzS+UE9VpGGlaFr1hYkLAsXFfHpPLny7k3L1UuYFHNO 2H+BT4kjgQO8zce6xvLb2Hrh9oUmNheS2G/fVIHlGu7QlQ8jaPmPknjl kJeJDwoRW+jX1ccU8C5CJ8Sb0G8J2Y+p0UJhq4fQIqVVM7v5HJZxVDPG swdp7CiI4oyMIcsD9BxSTMUkfYwOTyipTUa9VUJhwXej/1tULm156XKI /NFuPG0GeeRsikohqgLYW+H6Ld2gdhHTQ/cMw2BulYlQxQByj+zK5Z/i OEUd7w==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163022 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163032 900 1800 6048000 3600
