@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163051 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250620190000 20250401190000 57390 gl. dbX5Q/gZ7BqEKIIXMBo2r19f8omvenEyI2xB90L6HRAJ12fhZ0f+gnuV Z164H0CWvAiBfGpBCUYFXRNFcz3kpPl82RHgUR4jAk6PInmp22PPOOh8 8dfXX9c6CSPPodjr6qG1CJBZQjSwjX8cyzddns3U5Bs7tabRzQua7GE9 AdYOQswQkV2MS8NQpd1z+NYMD2NynZEltyUDQXEhWiUVJqNqHEU58UQc 83n053h6lrWmbYAt+gtq+3CmrRv3b5StoysfbjdVBqUeiYxDi0JyKesZ mhYL01yuZoUQkepF6Kco6HwWSuPYcjzbVsIru0gaCiMyffjknZ/C8iva ue740w==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163055 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250620190000 20250401190000 57390 gl. G2Xd4iZdeBxq6P/7dPqwARMxvLpg0sYiAvhe8Ik41pDmjccljfTQc4lV AD+4coKC7YUcln/PfCi/WxgP5AA5V58RrzBIyA8Z754VCbHJzUEbtHsy kzO+2RGrBqDvsJoSzkO2cuCMUyf7wk+W66UtPodHnpaZ1HMjknXQCmzy oV6EOeAmdWQL6F1z7O6wqM6e7aUe9+ONGUehR/PqbyHo++ELPee0ndkz vnrEpvTrKFQKFuk9gPtjM7hkMhQDX/pGchJOtmtPnf+jiobVUsY9hAqa cPEqxSHp8psH+1+ucSjhQe9nLicwHNG6Tv41H5FHsWoJZUV9WOBWRzZG fySgIg==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -1880,6 +1880,10 @@ asos.gl.		3600	IN	NS	ns5.netnames.net.
 asos.gl.		3600	IN	NS	ns6.netnames.net.
 aspegren.gl.		3600	IN	NS	ns1.dns-parking.com.
 aspegren.gl.		3600	IN	NS	ns2.dns-parking.com.
+assut.gl.		3600	IN	NS	a.hosting.gl.
+assut.gl.		3600	IN	NS	b.hosting.gl.
+assut.gl.		3600	IN	NS	c.hosting.gl.
+assut.gl.		3600	IN	NS	d.hosting.gl.
 assuutit.gl.		3600	IN	NS	ns1.simply.com.
 assuutit.gl.		3600	IN	NS	ns2.simply.com.
 assuutit.gl.		3600	IN	NS	ns3.simply.com.
@@ -13050,6 +13054,10 @@ najugaq.gl.		3600	IN	NS	ns4.nunahosting.net.
 nakorsaq.gl.		3600	IN	NS	ns1.hosting.inuit.gl.
 nakorsaq.gl.		3600	IN	NS	ns2.hosting.inuit.gl.
 nakorsaq.gl.		3600	IN	NS	mxns.peqqik.gl.
+nakorsat.gl.		3600	IN	NS	a.hosting.gl.
+nakorsat.gl.		3600	IN	NS	b.hosting.gl.
+nakorsat.gl.		3600	IN	NS	c.hosting.gl.
+nakorsat.gl.		3600	IN	NS	d.hosting.gl.
 nakorsiaq.gl.		3600	IN	NS	a.hosting.gl.
 nakorsiaq.gl.		3600	IN	NS	b.hosting.gl.
 nakorsiaq.gl.		3600	IN	NS	c.hosting.gl.
@@ -15568,6 +15576,10 @@ pinngortitaleriffik.gl.	3600	IN	NS	ns1.curanet.dk.
 pinngortitaleriffik.gl.	3600	IN	NS	ns2.curanet.dk.
 pinterest.gl.		3600	IN	NS	ns1.markmonitor.com.
 pinterest.gl.		3600	IN	NS	ns2.markmonitor.com.
+pintero.gl.		3600	IN	NS	a.hosting.gl.
+pintero.gl.		3600	IN	NS	b.hosting.gl.
+pintero.gl.		3600	IN	NS	c.hosting.gl.
+pintero.gl.		3600	IN	NS	d.hosting.gl.
 piratebay.gl.		3600	IN	NS	ns1.netim.net.
 piratebay.gl.		3600	IN	NS	ns2.netim.net.
 piratebay.gl.		3600	IN	NS	ns3.netim.net.
@@ -23012,4 +23024,4 @@ VUUKQNG9UT9NTCQ7U59H7QU1M7LVB0N1.gl. 3600 IN NSEC3 1 1 0 2D5C06E8 VV17SVK5AF63LO
 VUUKQNG9UT9NTCQ7U59H7QU1M7LVB0N1.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250620190000 20250401190000 57390 gl. iLiuBtgsXRrzxu7ns3VWvLlACCG7RZ005VUzj+nCg3L52fyvle9UbAWK yJkmdkBzvEXg9NlfkfRarxXPKX/IH5CeAJq+5cVscZ4Eosc6dag83/rG aXHzid0T76NHlaMLkMrTce8gADUEhJ/4D+e94ZQGNsiVRyjobjrtaVNq i1IOgVewG+Dp4zryh2MkmHL1/NKYIiSeyVU60Kz17i5w55WqTk78OAPO DqMESupDxtH2sJOM7n44wPvotauqrhc1Fl7zViw8kMZRNakLJ0jBe+x+ NH9RcGR3VHXt4TGGromchnP+JueZXy44veE0YnZj4EJoz9AIvjGszTTr u26yWw==
 VV17SVK5AF63LOD2SUCIRSBLTNDV13CM.gl. 3600 IN NSEC3 1 1 0 2D5C06E8 0192RCA1K1PVT43OGBR0VHVV2VQ12S4U NS DS RRSIG
 VV17SVK5AF63LOD2SUCIRSBLTNDV13CM.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250620190000 20250401190000 57390 gl. YNLPcAOUeOgudWkZgWb4pG4KV5I6H3i3cT28fDzdJnY9lSt5chpxwznm PrDYDkkmIQDGFrzS+UE9VpGGlaFr1hYkLAsXFfHpPLny7k3L1UuYFHNO 2H+BT4kjgQO8zce6xvLb2Hrh9oUmNheS2G/fVIHlGu7QlQ8jaPmPknjl kJeJDwoRW+jX1ccU8C5CJ8Sb0G8J2Y+p0UJhq4fQIqVVM7v5HJZxVDPG swdp7CiI4oyMIcsD9BxSTMUkfYwOTyipTUa9VUJhwXej/1tULm156XKI /NFuPG0GeeRsikohqgLYW+H6Ld2gdhHTQ/cMw2BulYlQxQByj+zK5Z/i OEUd7w==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163051 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163055 900 1800 6048000 3600
