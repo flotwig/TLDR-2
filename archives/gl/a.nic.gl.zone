@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163154 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250620190000 20250401190000 57390 gl. TZpioZXaVXPl7JiSLAgi8Ya4ABGr92C+TlOU8nHPNZM1diBzu4zesSLM W0nmQyOrihQDlx/Rreb52je6i0brdS6gLw6CT1S1rXNV6cBkp3FQn0D5 uM6g8zItn0ookCUrmrCY7XpGIb4xMLG61InQ9/zQMK25psnTCVOrZBqb MCDFKFvuDGhjOEVbfxBY7WUUszetTtN/NcLiDmahapuO8uLzoY1WulN9 5VOUsL/MKqzvrceuH6mw3+8zP4MDq/W84oD8sHSnU5P4+qTkHyX2BjZ+ IQIBSHLayRsM/EUov1Eax7AxWtsQA7kV4NZM0LHDGoKzuvAjmUPdl6PA RhHUmQ==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163158 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250620190000 20250401190000 57390 gl. VSKiyxzsI3QiISIhx7mHRub/bnMjbRHEOUVA/5MLhqs2i6+Ii8k5YFZr n/jc1g8DziovnlqojgWHA+2IPkpC2QKU5KnMqM4iFRfiUknaY80XL3NR yF1ayuqt7ViX5haxBklCBvE6GBX/TevgtUh4/9gbOlMYCkUp82HncWMI 61y888xylzRhGjIB5E+D840M2WIxJPP5Vf1DlY8/tPShVv7X/EsHfHL8 v3cFQzomIV4dIPYDKi4t7cD+PYSCQnAiZtJDzMgTers+fP3QabdiG/4I mNFda/7P3jccfdnqtS4vNbRWnSosw1ROrs2zEXdQ5zCKfasCx3i9SM9n wqXFlQ==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -3897,6 +3897,10 @@ code.gl.		3600	IN	NS	alina.ns.cloudflare.com.
 code.gl.		3600	IN	NS	peyton.ns.cloudflare.com.
 code-bureau.gl.		3600	IN	NS	ns1.messagingengine.com.
 code-bureau.gl.		3600	IN	NS	ns2.messagingengine.com.
+coffee.gl.		3600	IN	NS	a.hosting.gl.
+coffee.gl.		3600	IN	NS	b.hosting.gl.
+coffee.gl.		3600	IN	NS	c.hosting.gl.
+coffee.gl.		3600	IN	NS	d.hosting.gl.
 cogc.gl.		3600	IN	NS	ns1.hosting.inuit.gl.
 cogc.gl.		3600	IN	NS	ns2.hosting.inuit.gl.
 cohen.gl.		3600	IN	NS	a.hosting.gl.
@@ -14592,6 +14596,9 @@ odme.gl.		3600	IN	NS	ns1a.dodns.net.
 odme.gl.		3600	IN	NS	ns2a.dodns.net.
 of.gl.			3600	IN	NS	ns5.private-nameserver.net.
 of.gl.			3600	IN	NS	ns6.private-nameserver.net.
+offgrid.gl.		3600	IN	NS	ns1.simply.com.
+offgrid.gl.		3600	IN	NS	ns2.simply.com.
+offgrid.gl.		3600	IN	NS	ns3.simply.com.
 offset.gl.		3600	IN	NS	a.hosting.gl.
 offset.gl.		3600	IN	NS	b.hosting.gl.
 offset.gl.		3600	IN	NS	c.hosting.gl.
@@ -20279,8 +20286,8 @@ valg.gl.		3600	IN	NS	ns1-07.azure-dns.com.
 valg.gl.		3600	IN	NS	ns1-07.azure-dns.net.
 valg.gl.		3600	IN	NS	ns1-07.azure-dns.org.
 valg.gl.		3600	IN	NS	ns1-07.azure-dns.info.
-van.gl.			3600	IN	NS	ns1-coming-soon.sav.com.
-van.gl.			3600	IN	NS	ns2-coming-soon.sav.com.
+van.gl.			3600	IN	NS	lucy.ns.cloudflare.com.
+van.gl.			3600	IN	NS	will.ns.cloudflare.com.
 vanderspie.gl.		3600	IN	NS	ajay.ns.cloudflare.com.
 vanderspie.gl.		3600	IN	NS	fiona.ns.cloudflare.com.
 vanja.gl.		3600	IN	NS	pns.atznet.dk.
@@ -23005,4 +23012,4 @@ VUUKQNG9UT9NTCQ7U59H7QU1M7LVB0N1.gl. 3600 IN NSEC3 1 1 0 2D5C06E8 VV17SVK5AF63LO
 VUUKQNG9UT9NTCQ7U59H7QU1M7LVB0N1.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250620190000 20250401190000 57390 gl. iLiuBtgsXRrzxu7ns3VWvLlACCG7RZ005VUzj+nCg3L52fyvle9UbAWK yJkmdkBzvEXg9NlfkfRarxXPKX/IH5CeAJq+5cVscZ4Eosc6dag83/rG aXHzid0T76NHlaMLkMrTce8gADUEhJ/4D+e94ZQGNsiVRyjobjrtaVNq i1IOgVewG+Dp4zryh2MkmHL1/NKYIiSeyVU60Kz17i5w55WqTk78OAPO DqMESupDxtH2sJOM7n44wPvotauqrhc1Fl7zViw8kMZRNakLJ0jBe+x+ NH9RcGR3VHXt4TGGromchnP+JueZXy44veE0YnZj4EJoz9AIvjGszTTr u26yWw==
 VV17SVK5AF63LOD2SUCIRSBLTNDV13CM.gl. 3600 IN NSEC3 1 1 0 2D5C06E8 0192RCA1K1PVT43OGBR0VHVV2VQ12S4U NS DS RRSIG
 VV17SVK5AF63LOD2SUCIRSBLTNDV13CM.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250620190000 20250401190000 57390 gl. YNLPcAOUeOgudWkZgWb4pG4KV5I6H3i3cT28fDzdJnY9lSt5chpxwznm PrDYDkkmIQDGFrzS+UE9VpGGlaFr1hYkLAsXFfHpPLny7k3L1UuYFHNO 2H+BT4kjgQO8zce6xvLb2Hrh9oUmNheS2G/fVIHlGu7QlQ8jaPmPknjl kJeJDwoRW+jX1ccU8C5CJ8Sb0G8J2Y+p0UJhq4fQIqVVM7v5HJZxVDPG swdp7CiI4oyMIcsD9BxSTMUkfYwOTyipTUa9VUJhwXej/1tULm156XKI /NFuPG0GeeRsikohqgLYW+H6Ld2gdhHTQ/cMw2BulYlQxQByj+zK5Z/i OEUd7w==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163154 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022163158 900 1800 6048000 3600
