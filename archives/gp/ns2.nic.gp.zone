@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025051914 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025052023 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -437,8 +437,10 @@ aristanetworks.gp.	86400	IN	NS	eleanor.ns.cloudflare.com.
 arkeaonlife.gp.		86400	IN	NS	ns1.arkea.com.
 arkeaonlife.gp.		86400	IN	NS	ns2.arkea.com.
 arkeaonlife.gp.		86400	IN	NS	ns3.arkea.com.
-armos.gp.		86400	IN	NS	ns106.ovh.net.
-armos.gp.		86400	IN	NS	dns106.ovh.net.
+armos.gp.		86400	IN	NS	ns1.armos.gp.
+armos.gp.		86400	IN	NS	ns2.armos.gp.
+ns1.armos.gp.		86400	IN	A	82.112.242.149
+ns2.armos.gp.		86400	IN	A	82.112.242.149
 aroma-zone.gp.		86400	IN	NS	ns1.safebrands.fr.
 aroma-zone.gp.		86400	IN	NS	ns2.safebrands.eu.
 aroma-zone.gp.		86400	IN	NS	ns3.safebrands.com.
@@ -5633,4 +5635,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025051914 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025052023 86400 7200 2592000 345600
