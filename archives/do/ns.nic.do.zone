@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025061119 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025061121 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1749668707"
+do.			3600	IN	TXT	"Generation Time: 1749675909"
 00.do.			3600	IN	NS	maria.ns.cloudflare.com.
 00.do.			3600	IN	NS	ian.ns.cloudflare.com.
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
@@ -588,6 +588,10 @@ abogatorium.do.		3600	IN	NS	dns4.midominio.do.
 abogatorium.do.		3600	IN	NS	dns3.midominio.do.
 abogatorium.do.		3600	IN	NS	dns2.midominio.do.
 abogatorium.do.		3600	IN	NS	dns1.midominio.do.
+aborigen.do.		3600	IN	NS	dns1.midominio.do.
+aborigen.do.		3600	IN	NS	dns2.midominio.do.
+aborigen.do.		3600	IN	NS	dns3.midominio.do.
+aborigen.do.		3600	IN	NS	dns4.midominio.do.
 abracadabra.do.		3600	IN	NS	nicole.ns.cloudflare.com.
 abracadabra.do.		3600	IN	NS	jay.ns.cloudflare.com.
 abraham.do.		3600	IN	NS	dns4.midominio.do.
@@ -1825,10 +1829,8 @@ alamorentacar.do.	3600	IN	NS	dns1.grupoambar.com.do.
 alamorentacar.do.	3600	IN	NS	dns2.grupoambar.com.do.
 alan.do.		3600	IN	NS	leanna.ns.cloudflare.com.
 alan.do.		3600	IN	NS	langston.ns.cloudflare.com.
-alanube.do.		3600	IN	NS	dns1.midominio.do.
-alanube.do.		3600	IN	NS	dns2.midominio.do.
-alanube.do.		3600	IN	NS	dns3.midominio.do.
-alanube.do.		3600	IN	NS	dns4.midominio.do.
+alanube.do.		3600	IN	NS	anahi.ns.cloudflare.com.
+alanube.do.		3600	IN	NS	benedict.ns.cloudflare.com.
 alarm.do.		3600	IN	NS	ns4.markmonitor.com.
 alarm.do.		3600	IN	NS	ns3.markmonitor.com.
 alarm.do.		3600	IN	NS	ns2.markmonitor.com.
@@ -4252,6 +4254,10 @@ automatedpackagingsystems.do. 3600 IN	NS	ns6.markmonitor.com.
 automatedpackagingsystems.do. 3600 IN	NS	ns1.markmonitor.com.
 automatedpackagingsystems.do. 3600 IN	NS	ns5.markmonitor.com.
 automatedpackagingsystems.do. 3600 IN	NS	ns2.markmonitor.com.
+automatik.do.		3600	IN	NS	dns1.midominio.do.
+automatik.do.		3600	IN	NS	dns2.midominio.do.
+automatik.do.		3600	IN	NS	dns3.midominio.do.
+automatik.do.		3600	IN	NS	dns4.midominio.do.
 automationanywhere.do.	3600	IN	NS	ns5.markmonitor.com.
 automationanywhere.do.	3600	IN	NS	ns4.markmonitor.com.
 automationanywhere.do.	3600	IN	NS	ns3.markmonitor.com.
@@ -5021,6 +5027,18 @@ bbva.do.		3600	IN	NS	a3-66.akam.net.
 bbva.do.		3600	IN	NS	a1-166.akam.net.
 bbva.do.		3600	IN	NS	ns1.bbvaedge.com.
 bbva.do.		3600	IN	NS	ns2.bbvaedge.com.
+bbx.do.			3600	IN	NS	dns1.midominio.do.
+bbx.do.			3600	IN	NS	dns2.midominio.do.
+bbx.do.			3600	IN	NS	dns3.midominio.do.
+bbx.do.			3600	IN	NS	dns4.midominio.do.
+bbxcargo.do.		3600	IN	NS	dns1.midominio.do.
+bbxcargo.do.		3600	IN	NS	dns2.midominio.do.
+bbxcargo.do.		3600	IN	NS	dns3.midominio.do.
+bbxcargo.do.		3600	IN	NS	dns4.midominio.do.
+bbxcourier.do.		3600	IN	NS	dns1.midominio.do.
+bbxcourier.do.		3600	IN	NS	dns2.midominio.do.
+bbxcourier.do.		3600	IN	NS	dns3.midominio.do.
+bbxcourier.do.		3600	IN	NS	dns4.midominio.do.
 bc.do.			3600	IN	NS	dns4.midominio.do.
 bc.do.			3600	IN	NS	dns3.midominio.do.
 bc.do.			3600	IN	NS	dns2.midominio.do.
@@ -20361,6 +20379,8 @@ hggroup.do.		3600	IN	NS	dns4.midominio.do.
 hggroup.do.		3600	IN	NS	dns3.midominio.do.
 hggroup.do.		3600	IN	NS	dns2.midominio.do.
 hggroup.do.		3600	IN	NS	dns1.midominio.do.
+hgl.do.			3600	IN	NS	ns14.wixdns.net.
+hgl.do.			3600	IN	NS	ns15.wixdns.net.
 hgr.do.			3600	IN	NS	ns2.imediazip.com.
 hgr.do.			3600	IN	NS	ns1.imediazip.com.
 hgrb.do.		3600	IN	NS	dns4.midominio.do.
@@ -28159,6 +28179,10 @@ miacargo.do.		3600	IN	NS	ns-1980.awsdns-55.co.uk.
 miacargo.do.		3600	IN	NS	ns-722.awsdns-26.net.
 miacargo.do.		3600	IN	NS	ns-424.awsdns-53.com.
 miacargo.do.		3600	IN	NS	ns-1387.awsdns-45.org.
+mialbi.do.		3600	IN	NS	dns1.midominio.do.
+mialbi.do.		3600	IN	NS	dns2.midominio.do.
+mialbi.do.		3600	IN	NS	dns3.midominio.do.
+mialbi.do.		3600	IN	NS	dns4.midominio.do.
 miamiadschool.do.	3600	IN	NS	ns03.trademarkarea.com.
 miamiadschool.do.	3600	IN	NS	ns02.trademarkarea.com.
 miamiadschool.do.	3600	IN	NS	ns01.trademarkarea.com.
@@ -28461,6 +28485,10 @@ milo.do.		3600	IN	NS	amsdns1.nestle.com.
 milo.do.		3600	IN	NS	aoadns1.nestle.com.
 milo.do.		3600	IN	NS	ctrdns1.nestle.com.
 milo.do.		3600	IN	NS	eurdns1.nestle.com.
+milpack.do.		3600	IN	NS	dns1.midominio.do.
+milpack.do.		3600	IN	NS	dns2.midominio.do.
+milpack.do.		3600	IN	NS	dns3.midominio.do.
+milpack.do.		3600	IN	NS	dns4.midominio.do.
 milwaukeebrewers.do.	3600	IN	NS	ns-cloud-c1.googledomains.com.
 milwaukeebrewers.do.	3600	IN	NS	ns-664.awsdns-19.net.
 milwaukeebrewers.do.	3600	IN	NS	ns-1660.awsdns-15.co.uk.
@@ -33856,6 +33884,10 @@ portalnet.do.		3600	IN	NS	dns4.midominio.do.
 portalnet.do.		3600	IN	NS	dns3.midominio.do.
 portalnet.do.		3600	IN	NS	dns2.midominio.do.
 portalnet.do.		3600	IN	NS	dns1.midominio.do.
+portalpass.do.		3600	IN	NS	dns1.midominio.do.
+portalpass.do.		3600	IN	NS	dns2.midominio.do.
+portalpass.do.		3600	IN	NS	dns3.midominio.do.
+portalpass.do.		3600	IN	NS	dns4.midominio.do.
 portalpayments.do.	3600	IN	NS	dns4.midominio.do.
 portalpayments.do.	3600	IN	NS	dns3.midominio.do.
 portalpayments.do.	3600	IN	NS	dns2.midominio.do.
@@ -39154,6 +39186,10 @@ skyline.do.		3600	IN	NS	ns4.mixarthost.com.
 skyline.do.		3600	IN	NS	ns3.mixarthost.com.
 skymedic.do.		3600	IN	NS	ns2.dondominio.com.
 skymedic.do.		3600	IN	NS	ns1.dondominio.com.
+skynet.do.		3600	IN	NS	dns1.midominio.do.
+skynet.do.		3600	IN	NS	dns2.midominio.do.
+skynet.do.		3600	IN	NS	dns3.midominio.do.
+skynet.do.		3600	IN	NS	dns4.midominio.do.
 skypaqcourier.do.	3600	IN	NS	ns3.dreamhost.com.
 skypaqcourier.do.	3600	IN	NS	ns2.dreamhost.com.
 skypaqcourier.do.	3600	IN	NS	ns1.dreamhost.com.
@@ -47313,4 +47349,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025061119 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025061121 3600 3600 604800 3600
