@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022165777 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. SRAbEzA056X7BaNDVXzXXsPhsIns+olo80YCnnfQ0iaH02QWmN4RxRKA CJkF8UkO/1Dqx2PQEVr4oTAxXxf+7wuYpiP5I2MvGIsouIK0S/4W+GSU Jdi5rZNLlWQ70E7CnD9KJB9PAiWzPWgi/XGXeAlKiKgpyx24idhkV6mV nvfXuigPPW2xbrLo0F5YeCY7/Z22mRM7IdWTZWzkEZSgyQ7LV0GBM1xM xha4yFveUlt4IBUG0f77sD5FiZ5bC0TbgEri9Em7BZYcuqvP5qBrxHOC Cmp5D4dHYzky0HnwuembbIPoENS1jjQivTy6S6cxoqj0aSuOD4hEiAJY cXBwkw==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022165779 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. NAXV4gVRYEo5sTI2xpx5VmNRBExSKDUP2Q/Kk9graEe3r0bT0lnpddat mgr1xO/E1/iJdpUCnWUMZezbz9k0T5iPH/ET+xs25ecq79Yf7LgvhKbj MOOl/ebV9dy8v9x6MJOStbOL0HZIibWwSVvDn04a9dG8kvXwxLw2MvlQ t9N84uYO6/xPMDuvvlQVYJWWuB9ITp8agaH0G/g+3AtDT0PC2twSvAts 7qqI3+beQzVG6kVYuB/WYY9j8reQn5PLGgPrGFQvur4QV4qKAEjcnbR8 8mtfihhvG43i2VQ0bLj/ioPgKYbNvVnyIda+iZMx6PAdPH2+IyjF7OEZ HlEXWw==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -2413,8 +2413,10 @@ basilea.gl.		3600	IN	NS	ns4.markmonitor.com.
 basilea.gl.		3600	IN	NS	ns5.markmonitor.com.
 basilea.gl.		3600	IN	NS	ns6.markmonitor.com.
 basilea.gl.		3600	IN	NS	ns7.markmonitor.com.
-battlefields.gl.	3600	IN	NS	ns1.curanet.dk.
-battlefields.gl.	3600	IN	NS	ns2.curanet.dk.
+battlefields.gl.	3600	IN	NS	ns1.nunahosting.net.
+battlefields.gl.	3600	IN	NS	ns2.nunahosting.net.
+battlefields.gl.	3600	IN	NS	ns3.nunahosting.net.
+battlefields.gl.	3600	IN	NS	ns4.nunahosting.net.
 baufinanzierung.gl.	3600	IN	NS	ns15.domserver.de.
 baufinanzierung.gl.	3600	IN	NS	ns16.domserver.de.
 baufinanzierung.gl.	3600	IN	NS	ns17.domserver.de.
@@ -23071,4 +23073,4 @@ VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN NSEC3 1 1 0 658A61DC VUQHSFBDKR2VUS
 VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. lB5c/I0tNAsaJ7UCvKCKGMjvpZtI1zBasrg1lZVxJf7QjeKyWpVhY/lw Fc48glolRmdd/T+ow2cPdpbwe8TrXHeCyvUZ2SyC7hE35NE404ZensIc ODBH3vz9zHMUUw94Z3gp3sVXG/NMH5l5TvsHXjdn4mgqDAa1tmuJ35qA qnLxgre6d8tNFaRx6I+N2oTWmmhXsr3AEC6xThZfpjixf6tfgVsd7XHE lTVHIgPcS5gg22BH7efKSzFdDuE1SWSeZ+E1RFwI4sV5joq+ksfuERi1 r/yVsnYM54dpx6HNFQaCW5SGLQBjTp4huPg/PHvcvzzfzu3ELm7aUT3W RaaDfg==
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN NSEC3 1 1 0 658A61DC 005143N77R1LRPFQ9D8APBF4U5LRION1 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. Kp8NqZcD3hD7BIx+Bms2gF12U6ESRmhbwrYbUxm3lD+tmgY8y48RrfFT HApkVzH5QVYNmFdxz99Q2szmzHKymbWvLhJElHyBdX6++pt/ADATcTWM RQcQLbvM3iPBaZwJMt04HeZaJLf/S2BgNOFUjHw1/FHocl7v0fz54627 TkNiVhIR3wh1I5Z4y3l1UwPdla0614aQQeMyMRLd6OJPl6ci4mn3jXo9 9wb/MH6ozCo0K6b2spI2n4lHfse93jmBOg7KWaL3nZ8cGQhj0sAwYcE/ EiSsHXOwS6q5actoaPYEv5vDxsL+GarwxaHoXUNT6Ddt8bvl8+xwUKbj jNY+IQ==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022165777 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022165779 900 1800 6048000 3600
