@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022165771 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. PQJ/A2M9u7GsDtRFL0foyLfHZB1IXXBwW86e52EXm+S37LQOrxlfmVWf kGjY3INo9CxslHRyzwn1ZTN+TuZRt5hHCobjRi2mQggAiWwAPWv8GRcT yzUTWOxqyH6GiG2xFMzt2H4lLnZy/vO9xOIDXym+MO3bT5OHKZCJh6OH MUp1uSAXbBTmC4SRLYI3YfumfWMTLNr+Xjcy0u9962z9GpusNDoyZvtN Mi/NSVcewpq0+heFI8og+c+U2a1MsHA+OcwZ3WpoUhCzNRY86IOGjdx9 AmqRT1mhPfmz8S9HlI9VvDHVcAa3+H6uCXAsiPqo9THvf8UJlGPJKY1H GuC2Mg==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022165781 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. H/1GFmjdxeBX78HW4Bb/qHjHno5EKoXbJwF2UF+UuYcPp+NHW998MX1e FyjfSOvb+73wWgJFLP31Wj+zWcRGMH3QBvbYYf2+927lRBm1vE9L3KXi pwifCH3a9zz71l9pw3web+Xa5lP7m4r0+DaHxIIvV7rwUEfUhWZJVxlz QfBRWzrRWMNTkJ4xDMjByJNJgsv4F0AyleP7XubKvehVkgo6iCFZHQhb BRXxrT6e0oG5Hs1dY0NI7Sknl0ugNb1OqEJs4A2hEWTNdXIpoj5jl1UT zxl3psejrV+tfgc5NZRhogbCV+v1YjD0nA1bfoFwLIzP0N9inVqXejcR 7Ku47w==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -2413,8 +2413,10 @@ basilea.gl.		3600	IN	NS	ns4.markmonitor.com.
 basilea.gl.		3600	IN	NS	ns5.markmonitor.com.
 basilea.gl.		3600	IN	NS	ns6.markmonitor.com.
 basilea.gl.		3600	IN	NS	ns7.markmonitor.com.
-battlefields.gl.	3600	IN	NS	ns1.curanet.dk.
-battlefields.gl.	3600	IN	NS	ns2.curanet.dk.
+battlefields.gl.	3600	IN	NS	ns1.nunahosting.net.
+battlefields.gl.	3600	IN	NS	ns2.nunahosting.net.
+battlefields.gl.	3600	IN	NS	ns3.nunahosting.net.
+battlefields.gl.	3600	IN	NS	ns4.nunahosting.net.
 baufinanzierung.gl.	3600	IN	NS	ns15.domserver.de.
 baufinanzierung.gl.	3600	IN	NS	ns16.domserver.de.
 baufinanzierung.gl.	3600	IN	NS	ns17.domserver.de.
@@ -6562,6 +6564,9 @@ game.gl.		3600	IN	NS	ns2.sedoparking.com.
 game-duel.gl.		3600	IN	NS	ns1.domaindiscount24.net.
 game-duel.gl.		3600	IN	NS	ns2.domaindiscount24.net.
 game-duel.gl.		3600	IN	NS	ns3.domaindiscount24.net.
+gamelab.gl.		3600	IN	NS	helium.ns.hetzner.de.
+gamelab.gl.		3600	IN	NS	oxygen.ns.hetzner.com.
+gamelab.gl.		3600	IN	NS	hydrogen.ns.hetzner.com.
 gamerlegion.gl.		3600	IN	NS	ns.udag.de.
 gamerlegion.gl.		3600	IN	NS	ns.udag.net.
 gamerlegion.gl.		3600	IN	NS	ns.udag.org.
@@ -9945,6 +9950,10 @@ kangaatsiaq.gl.		3600	IN	NS	ns4.simply.com.
 kangaatsiaq.gl.		3600	IN	DS	42733 13 2 566489BA039B033AB020E7475AFD4F07EEB76BF897003ED23E2F5E66 0CDCB4BA
 kangaatsiaq.gl.		3600	IN	DS	42733 13 4 C1004E8049CDB44548DE7DC79C9507AA7F23ACB6B5F8B89A3E7B2804 85EC994D7D3087B80B2C6F2511F88A6E59319FF0
 kangaatsiaq.gl.		3600	IN	RRSIG	DS 8 2 3600 20250813020000 20250525020000 57390 gl. akyuGAv2MuJIcs/W10E6FP7MT+1vJs1LzKeEBMvMA3WbBViRsiZB667b ONWOrPsaxpcOw+iYSD0wAoFpYUsApdsbCG5Gv1LW231ycUQD0wo5+ZaJ 7MigDiIcJbLCCjHQOTYCNdhQ/0o7t5EHURckyXiT1zUO9iaE/OcKT0QX x5AOK3AYVAlS/35ThMXKw6idu4XwJh3zQ2H6d+GhFeA+HyQVuZdbeGod 7ZbjM13OkExHOouxAZDE0Y/rUVxbcrivP5GaI5Yg+umFhXBdZx8w2l5A wmErizcmnUvWahxYqfgZSFfvrt9jJz/6qI+WkZr659Vt7vEfUR7ahzoY NgZfCg==
+kangia.gl.		3600	IN	NS	ns1-03.azure-dns.com.
+kangia.gl.		3600	IN	NS	ns2-03.azure-dns.net.
+kangia.gl.		3600	IN	NS	ns3-03.azure-dns.org.
+kangia.gl.		3600	IN	NS	ns4-03.azure-dns.info.
 kanu.gl.		3600	IN	NS	ns1.bdm.microsoftonline.com.
 kanu.gl.		3600	IN	NS	ns2.bdm.microsoftonline.com.
 kanu.gl.		3600	IN	NS	ns3.bdm.microsoftonline.com.
@@ -23064,4 +23073,4 @@ VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN NSEC3 1 1 0 658A61DC VUQHSFBDKR2VUS
 VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. lB5c/I0tNAsaJ7UCvKCKGMjvpZtI1zBasrg1lZVxJf7QjeKyWpVhY/lw Fc48glolRmdd/T+ow2cPdpbwe8TrXHeCyvUZ2SyC7hE35NE404ZensIc ODBH3vz9zHMUUw94Z3gp3sVXG/NMH5l5TvsHXjdn4mgqDAa1tmuJ35qA qnLxgre6d8tNFaRx6I+N2oTWmmhXsr3AEC6xThZfpjixf6tfgVsd7XHE lTVHIgPcS5gg22BH7efKSzFdDuE1SWSeZ+E1RFwI4sV5joq+ksfuERi1 r/yVsnYM54dpx6HNFQaCW5SGLQBjTp4huPg/PHvcvzzfzu3ELm7aUT3W RaaDfg==
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN NSEC3 1 1 0 658A61DC 005143N77R1LRPFQ9D8APBF4U5LRION1 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. Kp8NqZcD3hD7BIx+Bms2gF12U6ESRmhbwrYbUxm3lD+tmgY8y48RrfFT HApkVzH5QVYNmFdxz99Q2szmzHKymbWvLhJElHyBdX6++pt/ADATcTWM RQcQLbvM3iPBaZwJMt04HeZaJLf/S2BgNOFUjHw1/FHocl7v0fz54627 TkNiVhIR3wh1I5Z4y3l1UwPdla0614aQQeMyMRLd6OJPl6ci4mn3jXo9 9wb/MH6ozCo0K6b2spI2n4lHfse93jmBOg7KWaL3nZ8cGQhj0sAwYcE/ EiSsHXOwS6q5actoaPYEv5vDxsL+GarwxaHoXUNT6Ddt8bvl8+xwUKbj jNY+IQ==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022165771 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022165781 900 1800 6048000 3600
