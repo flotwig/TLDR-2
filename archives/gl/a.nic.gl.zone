@@ -1,7 +1,5 @@
-;; Connection to 194.177.224.12#53(194.177.224.12) for gl. failed: timed out.
-;; no servers could be reached
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022165876 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. aiqZnSrf5/lZGsybdbK8dmfadYod++VW6yKh1+91xB8ogkA1T1IuZC3U nBPxTeQCARPTkQrKQChqt7SDX6ON0+0ZgfdImNDCxB9EEjYTIxwUaSW/ rDvImYmOx+HI78ldO/c3OSKLsn0mOoaCHE6GOHJjqimo22HM0PmJLjnv urL4ul8Zhkj1yO0V4eThi1XsokLkJAAe0VvJr9x5dS9yl6muC6RGmYOC 1foj4xIJVQOvje1WJgDPBNFgp0AxLnhlce1WWvEVPwLxY6dj3p4PryZe pHLRh6zL5k+7esz184Q1Sb+kuSdUWGbkVqYHlT7UOPNiHZr41eakNyj+ oeQpHQ==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022165881 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. cAeBTv50Uvw54k2Xy3XmpSgz1VT8+u/bSTBtsxa1jTKEOtd6OVo7D0xu vhTDnhOnyxXGUPB6APUjp7ia/sbMx+X1SmvkHVjRFMETEsoi/SHb5eZB OibiTgLVFjD5RbL1PeFJ6b3abRO7tmu1eSpFsxfWlw+sP5O4o03zLM5u JyQLtYd889RdkMHn+5qlVNWuCyrosEtUk4/NrsHSMBmL6i+qW5dZIgwx a9vA6vJX5mCsZ36d+qaGUF0pwy9ZEeRnIo54jNGsaP13/nLDRrbQs5JV QvS2OZcqpMsZHqPHQkXST7nQ9J8pPpYqAwWgIg9FlA/EkAkM86Vg2pag Yw72QA==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -20503,9 +20501,6 @@ visiondirect.gl.	3600	IN	NS	ns2.101domain.com.
 visiondirect.gl.	3600	IN	NS	ns5.101domain.com.
 visit.gl.		3600	IN	NS	ns1.dan.com.
 visit.gl.		3600	IN	NS	ns2.dan.com.
-visiteastgreenland.gl.	3600	IN	NS	ns01.trademarkarea.com.
-visiteastgreenland.gl.	3600	IN	NS	ns02.trademarkarea.com.
-visiteastgreenland.gl.	3600	IN	NS	ns03.trademarkarea.com.
 visitgreenland.gl.	3600	IN	NS	ns1.hosting.inuit.gl.
 visitgreenland.gl.	3600	IN	NS	ns2.hosting.inuit.gl.
 visitittoqqortoormiit.gl. 3600	IN	NS	ns1.gratisdns.dk.
@@ -23034,4 +23029,4 @@ VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN NSEC3 1 1 0 658A61DC VUQHSFBDKR2VUS
 VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. lB5c/I0tNAsaJ7UCvKCKGMjvpZtI1zBasrg1lZVxJf7QjeKyWpVhY/lw Fc48glolRmdd/T+ow2cPdpbwe8TrXHeCyvUZ2SyC7hE35NE404ZensIc ODBH3vz9zHMUUw94Z3gp3sVXG/NMH5l5TvsHXjdn4mgqDAa1tmuJ35qA qnLxgre6d8tNFaRx6I+N2oTWmmhXsr3AEC6xThZfpjixf6tfgVsd7XHE lTVHIgPcS5gg22BH7efKSzFdDuE1SWSeZ+E1RFwI4sV5joq+ksfuERi1 r/yVsnYM54dpx6HNFQaCW5SGLQBjTp4huPg/PHvcvzzfzu3ELm7aUT3W RaaDfg==
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN NSEC3 1 1 0 658A61DC 005143N77R1LRPFQ9D8APBF4U5LRION1 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. Kp8NqZcD3hD7BIx+Bms2gF12U6ESRmhbwrYbUxm3lD+tmgY8y48RrfFT HApkVzH5QVYNmFdxz99Q2szmzHKymbWvLhJElHyBdX6++pt/ADATcTWM RQcQLbvM3iPBaZwJMt04HeZaJLf/S2BgNOFUjHw1/FHocl7v0fz54627 TkNiVhIR3wh1I5Z4y3l1UwPdla0614aQQeMyMRLd6OJPl6ci4mn3jXo9 9wb/MH6ozCo0K6b2spI2n4lHfse93jmBOg7KWaL3nZ8cGQhj0sAwYcE/ EiSsHXOwS6q5actoaPYEv5vDxsL+GarwxaHoXUNT6Ddt8bvl8+xwUKbj jNY+IQ==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022165876 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022165881 900 1800 6048000 3600
