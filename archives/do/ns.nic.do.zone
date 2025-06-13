@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025061316 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025061317 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1749830702"
+do.			3600	IN	TXT	"Generation Time: 1749834303"
 00.do.			3600	IN	NS	maria.ns.cloudflare.com.
 00.do.			3600	IN	NS	ian.ns.cloudflare.com.
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
@@ -993,6 +993,10 @@ admin.do.		3600	IN	NS	dns4.midominio.do.
 admin.do.		3600	IN	NS	dns3.midominio.do.
 admin.do.		3600	IN	NS	dns2.midominio.do.
 admin.do.		3600	IN	NS	dns1.midominio.do.
+admincsa.do.		3600	IN	NS	dns1.midominio.do.
+admincsa.do.		3600	IN	NS	dns2.midominio.do.
+admincsa.do.		3600	IN	NS	dns3.midominio.do.
+admincsa.do.		3600	IN	NS	dns4.midominio.do.
 administra.do.		3600	IN	NS	dns4.midominio.do.
 administra.do.		3600	IN	NS	dns3.midominio.do.
 administra.do.		3600	IN	NS	dns2.midominio.do.
@@ -7686,10 +7690,13 @@ carube.do.		3600	IN	NS	dns112.ovh.net.
 carv.do.		3600	IN	NS	3-pas.njalla.in.
 carv.do.		3600	IN	NS	2-nest.pipe.ma.
 carv.do.		3600	IN	NS	1-ceci.njalla.do.
-carvel.do.		3600	IN	NS	dns4.midominio.do.
-carvel.do.		3600	IN	NS	dns3.midominio.do.
-carvel.do.		3600	IN	NS	dns2.midominio.do.
-carvel.do.		3600	IN	NS	dns1.midominio.do.
+carvel.do.		3600	IN	NS	ns1.markmonitor.com.
+carvel.do.		3600	IN	NS	ns2.markmonitor.com.
+carvel.do.		3600	IN	NS	ns3.markmonitor.com.
+carvel.do.		3600	IN	NS	ns4.markmonitor.com.
+carvel.do.		3600	IN	NS	ns5.markmonitor.com.
+carvel.do.		3600	IN	NS	ns6.markmonitor.com.
+carvel.do.		3600	IN	NS	ns7.markmonitor.com.
 carwiz.do.		3600	IN	NS	dns2.hostingcentar.com.
 carwiz.do.		3600	IN	NS	dns1.hostingcentar.com.
 cas.do.			3600	IN	NS	dns2.midominio.do.
@@ -8940,14 +8947,20 @@ cinemax.do.		3600	IN	NS	ns2.markmonitor.com.
 cinko.do.		3600	IN	NS	ns3.instradns.com.
 cinko.do.		3600	IN	NS	ns2.instradns.com.
 cinko.do.		3600	IN	NS	ns1.instradns.com.
-cinnabon.do.		3600	IN	NS	dns4.midominio.do.
-cinnabon.do.		3600	IN	NS	dns3.midominio.do.
-cinnabon.do.		3600	IN	NS	dns2.midominio.do.
-cinnabon.do.		3600	IN	NS	dns1.midominio.do.
-cinnabon-carvel.do.	3600	IN	NS	dns4.midominio.do.
-cinnabon-carvel.do.	3600	IN	NS	dns3.midominio.do.
-cinnabon-carvel.do.	3600	IN	NS	dns2.midominio.do.
-cinnabon-carvel.do.	3600	IN	NS	dns1.midominio.do.
+cinnabon.do.		3600	IN	NS	ns1.markmonitor.com.
+cinnabon.do.		3600	IN	NS	ns2.markmonitor.com.
+cinnabon.do.		3600	IN	NS	ns3.markmonitor.com.
+cinnabon.do.		3600	IN	NS	ns4.markmonitor.com.
+cinnabon.do.		3600	IN	NS	ns5.markmonitor.com.
+cinnabon.do.		3600	IN	NS	ns6.markmonitor.com.
+cinnabon.do.		3600	IN	NS	ns7.markmonitor.com.
+cinnabon-carvel.do.	3600	IN	NS	ns1.markmonitor.com.
+cinnabon-carvel.do.	3600	IN	NS	ns2.markmonitor.com.
+cinnabon-carvel.do.	3600	IN	NS	ns3.markmonitor.com.
+cinnabon-carvel.do.	3600	IN	NS	ns4.markmonitor.com.
+cinnabon-carvel.do.	3600	IN	NS	ns5.markmonitor.com.
+cinnabon-carvel.do.	3600	IN	NS	ns6.markmonitor.com.
+cinnabon-carvel.do.	3600	IN	NS	ns7.markmonitor.com.
 cinse.do.		3600	IN	NS	dns4.midominio.do.
 cinse.do.		3600	IN	NS	dns3.midominio.do.
 cinse.do.		3600	IN	NS	dns2.midominio.do.
@@ -15452,6 +15465,10 @@ ericmoreno.do.		3600	IN	NS	ns2.bluehost.com.
 ericsson.do.		3600	IN	NS	e3dns.ericy.com.
 ericsson.do.		3600	IN	NS	ns1.ericsson.se.
 ericsson.do.		3600	IN	NS	ns2.ericsson.se.
+ermsolutions.do.	3600	IN	NS	dns1.midominio.do.
+ermsolutions.do.	3600	IN	NS	dns2.midominio.do.
+ermsolutions.do.	3600	IN	NS	dns3.midominio.do.
+ermsolutions.do.	3600	IN	NS	dns4.midominio.do.
 ernstandyoung.do.	3600	IN	NS	dns3.safenames.org.
 ernstandyoung.do.	3600	IN	NS	dns2.safenames.net.
 ernstandyoung.do.	3600	IN	NS	dns1.safenames.com.
@@ -44783,6 +44800,10 @@ vetasinmobiliaria.do.	3600	IN	NS	dns2.midominio.do.
 vetasinmobiliaria.do.	3600	IN	NS	dns1.midominio.do.
 veterinarysupplies.do.	3600	IN	NS	dbru.br.ns.els-gms.att.net.
 veterinarysupplies.do.	3600	IN	NS	dmtu.mt.ns.els-gms.att.net.
+vetersut.do.		3600	IN	NS	dns1.midominio.do.
+vetersut.do.		3600	IN	NS	dns2.midominio.do.
+vetersut.do.		3600	IN	NS	dns3.midominio.do.
+vetersut.do.		3600	IN	NS	dns4.midominio.do.
 vetmetro.do.		3600	IN	NS	ns3.wordpress.com.
 vetmetro.do.		3600	IN	NS	ns2.wordpress.com.
 vetmetro.do.		3600	IN	NS	ns1.wordpress.com.
@@ -47354,4 +47375,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025061316 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025061317 3600 3600 604800 3600
