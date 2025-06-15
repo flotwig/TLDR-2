@@ -1,9 +1,4 @@
-;; Connection to 41.221.99.135#53(41.221.99.135) for mw. failed: timed out.
-;; no servers could be reached
-;; Connection to 41.221.99.135#53(41.221.99.135) for mw. failed: timed out.
-;; no servers could be reached
-;; Connection to 41.221.99.135#53(41.221.99.135) for mw. failed: timed out.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1749830701 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1749960301 1800 600 604800 1800
 mw.			18000	IN	NS	mw.cctld.authdns.ripe.net.
 mw.			18000	IN	NS	ns4.apnic.net.
 mw.			18000	IN	NS	rip.psg.com.
@@ -73,6 +68,8 @@ mw.			18000	IN	NS	chambo.sdnp.org.mw.
 4.mw.			18000	IN	NS	ns1.netim.net.
 4.mw.			18000	IN	NS	ns2.netim.net.
 4.mw.			18000	IN	NS	ns3.netim.net.
+4111.mw.		18000	IN	NS	ns1.netsto.net.
+4111.mw.		18000	IN	NS	ns2.netsto.net.
 44.mw.			18000	IN	NS	ns1.dns.com.
 44.mw.			18000	IN	NS	ns2.dns.com.
 5.mw.			18000	IN	NS	ns1.netim.net.
@@ -3786,8 +3783,10 @@ olaplex.mw.		18000	IN	NS	ns-460.awsdns-57.com.
 olaplex.mw.		18000	IN	NS	ns-647.awsdns-16.net.
 olaplex.mw.		18000	IN	NS	ns-1436.awsdns-51.org.
 olaplex.mw.		18000	IN	NS	ns-1990.awsdns-56.co.uk.
-olx.mw.			18000	IN	NS	pdns2.ultradns.net.
-olx.mw.			18000	IN	NS	pdns6.ultradns.co.uk.
+olx.mw.			18000	IN	NS	ns-362.awsdns-45.com.
+olx.mw.			18000	IN	NS	ns-779.awsdns-33.net.
+olx.mw.			18000	IN	NS	ns-1188.awsdns-20.org.
+olx.mw.			18000	IN	NS	ns-1774.awsdns-29.co.uk.
 on.mw.			18000	IN	NS	ns1.nik.io.
 on.mw.			18000	IN	NS	ns2.nik.io.
 on.mw.			18000	IN	NS	ns3.nik.io.
@@ -5378,4 +5377,4 @@ zurich.mw.		18000	IN	NS	ns1.a1.impervasecuredns.net.
 zurich.mw.		18000	IN	NS	ns1.a2.impervasecuredns.net.
 zutari.mw.		18000	IN	NS	dns1.cscdns.net.
 zutari.mw.		18000	IN	NS	dns2.cscdns.net.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1749830701 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1749960301 1800 600 604800 1800
