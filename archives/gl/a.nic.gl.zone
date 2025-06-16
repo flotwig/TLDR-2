@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166036 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. T575TP0mDOyzyUZYnpGHn6XLszLH8njkVwvhBJUqBW0hy7atWeja3tBA RlPIF1rbgxKPc+q3AMzK3A0nDeUqbrfVGHTZwHjMf73xJVQ2u6+QJf9d HCLmyDF8pv0kAnGR37v2xfalOvBScrLuCjmh8MRtp14rOhG+qPzsiWJa o8N4fXKSQZ0pzdQupd3JqrSjx8dS7e08+gHGvkYRZZSPR6jecmO6Xp12 BdFjqX190zsGfC7cqQol4zmbbG+l7qsDYntyAeiITtf9tecw9Q67f6Mr MjZkh9XHupvf8m3e1CLvxcJBtLOFDgGF6Dwc0ZC3/bXOhNleMpODcUOv Gl7FKg==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166046 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. jZG83zzhllYrLMshLiUJCpv5wfWaIljSXNMtvHD6LMOfAMZKXELhvnAT Ar2Pb7UHUZwOVIfihNBFKkQO66vfoorl8ZF/VTFlYAtycUE8iVwhulDG zMYg1mRLvyWzFCtML1VjKjBlRWZTxZFFcZwNLNfYVjMuh95x/Hq7T7QA JLnWM7uP6N9Ho4vhj+Ks25rqT/43YRXPuctdHn1fKbbffq+S97pBhkKl XhHL3gECrlINkso4R4X4qBlNW51pXj82Qg1v5h0N6PwJRtuhTXjV1+av YRcCTeWXaHMgljI9CftoFaWqGzdyHOzBWFGrX4wZmPQuHazP4b2w4GVb k2DNMg==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -2097,6 +2097,10 @@ avannaaarcticgames.gl.	3600	IN	NS	ns2.curanet.dk.
 avannaani.gl.		3600	IN	NS	ns1.modulo.gl.
 avannaani.gl.		3600	IN	NS	ns2.modulo.gl.
 avannaani.gl.		3600	IN	NS	ns3.modulo.gl.
+avannaata.gl.		3600	IN	NS	ns1-35.azure-dns.com.
+avannaata.gl.		3600	IN	NS	ns2-35.azure-dns.net.
+avannaata.gl.		3600	IN	NS	ns3-35.azure-dns.org.
+avannaata.gl.		3600	IN	NS	ns4-35.azure-dns.info.
 avannamut.gl.		3600	IN	NS	ns1.dreamhost.com.
 avannamut.gl.		3600	IN	NS	ns2.dreamhost.com.
 avannamut.gl.		3600	IN	NS	ns3.dreamhost.com.
@@ -14258,8 +14262,8 @@ nup.gl.			3600	IN	NS	ns1.nunahosting.net.
 nup.gl.			3600	IN	NS	ns2.nunahosting.net.
 nup.gl.			3600	IN	NS	ns3.nunahosting.net.
 nup.gl.			3600	IN	NS	ns4.nunahosting.net.
-nurepa.gl.		3600	IN	NS	ns01.one.com.
-nurepa.gl.		3600	IN	NS	ns02.one.com.
+nurepa.gl.		3600	IN	NS	ns1.curanet.dk.
+nurepa.gl.		3600	IN	NS	ns2.curanet.dk.
 nutaaliorta.gl.		3600	IN	NS	ns1.nunahosting.net.
 nutaaliorta.gl.		3600	IN	NS	ns2.nunahosting.net.
 nutaaliorta.gl.		3600	IN	NS	ns3.nunahosting.net.
@@ -18970,8 +18974,8 @@ tasermiutcamp.gl.	3600	IN	NS	a.hosting.gl.
 tasermiutcamp.gl.	3600	IN	NS	b.hosting.gl.
 tasermiutcamp.gl.	3600	IN	NS	c.hosting.gl.
 tasermiutcamp.gl.	3600	IN	NS	d.hosting.gl.
-tasiilaq.gl.		3600	IN	NS	ns01.one.com.
-tasiilaq.gl.		3600	IN	NS	ns02.one.com.
+tasiilaq.gl.		3600	IN	NS	ns1.curanet.dk.
+tasiilaq.gl.		3600	IN	NS	ns2.curanet.dk.
 tassa.gl.		3600	IN	NS	ns1.simply.com.
 tassa.gl.		3600	IN	NS	ns2.simply.com.
 tassa.gl.		3600	IN	NS	ns3.simply.com.
@@ -23029,4 +23033,4 @@ VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN NSEC3 1 1 0 658A61DC VUQHSFBDKR2VUS
 VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. lB5c/I0tNAsaJ7UCvKCKGMjvpZtI1zBasrg1lZVxJf7QjeKyWpVhY/lw Fc48glolRmdd/T+ow2cPdpbwe8TrXHeCyvUZ2SyC7hE35NE404ZensIc ODBH3vz9zHMUUw94Z3gp3sVXG/NMH5l5TvsHXjdn4mgqDAa1tmuJ35qA qnLxgre6d8tNFaRx6I+N2oTWmmhXsr3AEC6xThZfpjixf6tfgVsd7XHE lTVHIgPcS5gg22BH7efKSzFdDuE1SWSeZ+E1RFwI4sV5joq+ksfuERi1 r/yVsnYM54dpx6HNFQaCW5SGLQBjTp4huPg/PHvcvzzfzu3ELm7aUT3W RaaDfg==
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN NSEC3 1 1 0 658A61DC 005143N77R1LRPFQ9D8APBF4U5LRION1 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. Kp8NqZcD3hD7BIx+Bms2gF12U6ESRmhbwrYbUxm3lD+tmgY8y48RrfFT HApkVzH5QVYNmFdxz99Q2szmzHKymbWvLhJElHyBdX6++pt/ADATcTWM RQcQLbvM3iPBaZwJMt04HeZaJLf/S2BgNOFUjHw1/FHocl7v0fz54627 TkNiVhIR3wh1I5Z4y3l1UwPdla0614aQQeMyMRLd6OJPl6ci4mn3jXo9 9wb/MH6ozCo0K6b2spI2n4lHfse93jmBOg7KWaL3nZ8cGQhj0sAwYcE/ EiSsHXOwS6q5actoaPYEv5vDxsL+GarwxaHoXUNT6Ddt8bvl8+xwUKbj jNY+IQ==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166036 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166046 900 1800 6048000 3600
