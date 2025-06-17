@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166095 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. S0MkPQ7MXVYR4wr9UsrAItYRlyFdD2yLIcJq7bd7trngL994Uy2sNWlh 11oQQ4dVOJw/dowVQoeLYaBIfGPQQ2Qn8uVPwLSbCMH21K0GgbyCLAaX 9ksKskqFJ+dlYIHyGs1z2ByIOdmDvIvJq577KMsj0o1KLC9lvtrjiuh3 NRgvptqlG/mPWeJLtMVD9MIanp0ALHaH8qJUOttA+olYgVl5F/X+EFRL bdF3Ohe4Fcnn6m6kQ2eFyJeNUijA8x6TbU6WRhVZeqQBt806WZ1OfzRi X5eO3wSuytPkvs6ChvEyVA7tWLbnnJIdLqgiycW5AYOGaWixY2LLQ25r uViQwA==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166100 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. By0vBE0RxmzmLK//75qV7rYCibbUhlw4jbFuaDFEBio+jvP9d3Nsfe7W LnNSwuIn4GOhS52Mkz7+odKFmfbtkGee2q+l2d5cdM/lfJiyaQvkEnEd 257/TiFFd6/kmi9UA6NFy+yERavrdEHwSPnX745u7+JB6voCCILFm3Ko POzBAuKsmfA3sZURhSZLQJoGJb3r1BHTn0q2s9jhlxuHvmt2/OygccxI XY7EJhGmtwNpMe+H1FNP65I3aAwQEp5bKravPw7ipUX8FLbBHZjhAkou tO0Cj4ymoFaljVKw7SPqLmI2/O6uVIE9KGqCPyD5ARQjRv+EVySGhGpf L6XyOA==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -3261,9 +3261,8 @@ bs2site.gl.		3600	IN	NS	bjorn.ns.cloudflare.com.
 bs2site.gl.		3600	IN	NS	rihana.ns.cloudflare.com.
 bs2tsite1.gl.		3600	IN	NS	lola.ns.cloudflare.com.
 bs2tsite1.gl.		3600	IN	NS	george.ns.cloudflare.com.
-bs2web.gl.		3600	IN	NS	ns1.regery.net.
-bs2web.gl.		3600	IN	NS	ns2.regery.net.
-bs2web.gl.		3600	IN	NS	ns3.regery.net.
+bs2web.gl.		3600	IN	NS	mina.ns.cloudflare.com.
+bs2web.gl.		3600	IN	NS	roman.ns.cloudflare.com.
 bs3.gl.			3600	IN	NS	bjorn.ns.cloudflare.com.
 bs3.gl.			3600	IN	NS	ligia.ns.cloudflare.com.
 bsb.gl.			3600	IN	NS	ns.dandomain.dk.
@@ -4404,6 +4403,8 @@ dc.gl.			3600	IN	NS	dns3.netsons.net.
 dc.gl.			3600	IN	NS	dns4.netsons.net.
 dc-supply.gl.		3600	IN	NS	ns1.curanet.dk.
 dc-supply.gl.		3600	IN	NS	ns2.curanet.dk.
+dcr.gl.			3600	IN	NS	ns.dandomain.dk.
+dcr.gl.			3600	IN	NS	ns2.dandomain.dk.
 de.gl.			3600	IN	NS	ns1.regery.net.
 de.gl.			3600	IN	NS	ns2.regery.net.
 de.gl.			3600	IN	NS	ns3.regery.net.
@@ -21332,9 +21333,9 @@ xvideos.gl.		3600	IN	NS	ns3.serverstack.com.
 xvideos.gl.		3600	IN	NS	ns4.serverstack.com.
 xxx.gl.			3600	IN	NS	ns1.dan.com.
 xxx.gl.			3600	IN	NS	ns2.dan.com.
-xy.gl.			3600	IN	NS	ns1.ispapi.net.
-xy.gl.			3600	IN	NS	ns2.ispapi.net.
-xy.gl.			3600	IN	NS	ns3.ispapi.net.
+xy.gl.			3600	IN	NS	ns1.regery.net.
+xy.gl.			3600	IN	NS	ns2.regery.net.
+xy.gl.			3600	IN	NS	ns3.regery.net.
 xyz.gl.			3600	IN	NS	ns1.domaindiscount24.net.
 xyz.gl.			3600	IN	NS	ns2.domaindiscount24.net.
 xyz.gl.			3600	IN	NS	ns3.domaindiscount24.net.
@@ -23045,4 +23046,4 @@ VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000
 VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN NSEC3 1 1 0 658A61DC VUQHSFBDKR2VUS8IG9DQGGNO573521C7 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN NSEC3 1 1 0 658A61DC 005143N77R1LRPFQ9D8APBF4U5LRION1 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. Kp8NqZcD3hD7BIx+Bms2gF12U6ESRmhbwrYbUxm3lD+tmgY8y48RrfFT HApkVzH5QVYNmFdxz99Q2szmzHKymbWvLhJElHyBdX6++pt/ADATcTWM RQcQLbvM3iPBaZwJMt04HeZaJLf/S2BgNOFUjHw1/FHocl7v0fz54627 TkNiVhIR3wh1I5Z4y3l1UwPdla0614aQQeMyMRLd6OJPl6ci4mn3jXo9 9wb/MH6ozCo0K6b2spI2n4lHfse93jmBOg7KWaL3nZ8cGQhj0sAwYcE/ EiSsHXOwS6q5actoaPYEv5vDxsL+GarwxaHoXUNT6Ddt8bvl8+xwUKbj jNY+IQ==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166095 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166100 900 1800 6048000 3600
