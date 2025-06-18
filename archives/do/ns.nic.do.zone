@@ -1,4 +1,6 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025061821 3600 3600 604800 3600
+;; Connection to 190.113.72.177#53(190.113.72.177) for do. failed: timed out.
+;; no servers could be reached
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025061822 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +8,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1750280408"
+do.			3600	IN	TXT	"Generation Time: 1750284009"
 00.do.			3600	IN	NS	maria.ns.cloudflare.com.
 00.do.			3600	IN	NS	ian.ns.cloudflare.com.
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
@@ -8652,6 +8654,14 @@ chequeametu.do.		3600	IN	NS	dns4.midominio.do.
 chequeametu.do.		3600	IN	NS	dns3.midominio.do.
 chequeametu.do.		3600	IN	NS	dns2.midominio.do.
 chequeametu.do.		3600	IN	NS	dns1.midominio.do.
+chery.do.		3600	IN	NS	dns1.midominio.do.
+chery.do.		3600	IN	NS	dns2.midominio.do.
+chery.do.		3600	IN	NS	dns3.midominio.do.
+chery.do.		3600	IN	NS	dns4.midominio.do.
+cheryrd.do.		3600	IN	NS	dns1.midominio.do.
+cheryrd.do.		3600	IN	NS	dns2.midominio.do.
+cheryrd.do.		3600	IN	NS	dns3.midominio.do.
+cheryrd.do.		3600	IN	NS	dns4.midominio.do.
 chess.do.		3600	IN	NS	ns3.digitalocean.com.
 chess.do.		3600	IN	NS	ns2.digitalocean.com.
 chess.do.		3600	IN	NS	ns1.digitalocean.com.
@@ -33514,10 +33524,10 @@ pjplace.do.		3600	IN	NS	dns2.cscdns.net.
 pjplace.do.		3600	IN	NS	dns1.cscdns.net.
 pkg.do.			3600	IN	NS	sean.ns.cloudflare.com.
 pkg.do.			3600	IN	NS	dayana.ns.cloudflare.com.
-pla.do.			3600	IN	NS	dns4.midominio.do.
-pla.do.			3600	IN	NS	dns3.midominio.do.
-pla.do.			3600	IN	NS	dns2.midominio.do.
-pla.do.			3600	IN	NS	dns1.midominio.do.
+pla.do.			3600	IN	NS	ns1.bdm.microsoftonline.com.
+pla.do.			3600	IN	NS	ns2.bdm.microsoftonline.com.
+pla.do.			3600	IN	NS	ns3.bdm.microsoftonline.com.
+pla.do.			3600	IN	NS	ns4.bdm.microsoftonline.com.
 placebet.do.		3600	IN	NS	ns24.domaincontrol.com.
 placebet.do.		3600	IN	NS	ns23.domaincontrol.com.
 placi.do.		3600	IN	NS	ns4.netim.net.
@@ -47478,4 +47488,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025061821 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025061822 3600 3600 604800 3600
