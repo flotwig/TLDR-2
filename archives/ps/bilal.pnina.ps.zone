@@ -1,4 +1,4 @@
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025061911 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025062006 86400 7200 3600000 172800
 ps.			86400	IN	NS	ps.cctld.authdns.ripe.net.
 ps.			86400	IN	NS	ns1.pnina.ps.
 ps.			86400	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.			86400	IN	NS	rip.psg.com.
 ps.			86400	IN	NS	fork.sth.dnsnode.net.
 ps.			86400	IN	NS	Bilal.pnina.ps.
 ps.			86400	IN	NS	ps-ns.anycast.pch.net.
-ps.			86400	IN	TXT	"Generation Time: 1750363301"
+ps.			86400	IN	TXT	"Generation Time: 1750413713"
 01net.ps.		86400	IN	NS	ns1.safebrands.fr.
 01net.ps.		86400	IN	NS	ns2.safebrands.eu.
 01net.ps.		86400	IN	NS	ns3.safebrands.com.
@@ -5924,8 +5924,6 @@ ezshop.ps.		86400	IN	NS	cdns1.hadara.ps.
 ezshop.ps.		86400	IN	NS	cdns2.hadara.ps.
 ezzalmaslamani.ps.	86400	IN	NS	desi.ns.cloudflare.com.
 ezzalmaslamani.ps.	86400	IN	NS	norm.ns.cloudflare.com.
-f4j.ps.			86400	IN	NS	gwen.ns.cloudflare.com.
-f4j.ps.			86400	IN	NS	lars.ns.cloudflare.com.
 fabrics.ps.		86400	IN	NS	ns1.sederhost.com.
 fabrics.ps.		86400	IN	NS	ns2.sederhost.com.
 fabrics.ps.		86400	IN	NS	ns3.sederhost.com.
@@ -13620,10 +13618,10 @@ pma.ps.			86400	IN	NS	ns3-36.azure-dns.org.
 pma.ps.			86400	IN	NS	ns4-36.azure-dns.info.
 pmatest.ps.		86400	IN	NS	ns7.gemzo.net.
 pmatest.ps.		86400	IN	NS	ns8.gemzo.net.
-pmc.ps.			86400	IN	NS	gwen.ns.cloudflare.com.
-pmc.ps.			86400	IN	NS	lars.ns.cloudflare.com.
 pmc.ps.			86400	IN	DS	58975 8 1 457C6BED06F2C8C34C1DA6F71F1E2790217F013F
 pmc.ps.			86400	IN	DS	58975 8 2 98AA8253F3F0FBF78AD6E3EDE74321F0A86308068578ACC57E687490 027ADE30
+pmc.ps.			86400	IN	NS	gwen.ns.cloudflare.com.
+pmc.ps.			86400	IN	NS	lars.ns.cloudflare.com.
 pmc-g.ps.		86400	IN	NS	todd.ns.cloudflare.com.
 pmc-g.ps.		86400	IN	NS	anahi.ns.cloudflare.com.
 pmco.ps.		86400	IN	NS	ns1.contabo.net.
@@ -15383,10 +15381,6 @@ scrap.ps.		86400	IN	NS	ns02.trademarkarea.com.
 scrap.ps.		86400	IN	NS	ns03.trademarkarea.com.
 screen.ps.		86400	IN	NS	ns1.accountsupport.com.
 screen.ps.		86400	IN	NS	ns2.accountsupport.com.
-scrip.ps.		86400	IN	NS	ns-48.awsdns-06.com.
-scrip.ps.		86400	IN	NS	ns-570.awsdns-07.net.
-scrip.ps.		86400	IN	NS	ns-1190.awsdns-20.org.
-scrip.ps.		86400	IN	NS	ns-1761.awsdns-28.co.uk.
 scs.ps.			86400	IN	NS	ns1.variomedia.de.
 scs.ps.			86400	IN	NS	ns2.variomedia.de.
 scsc.ps.		86400	IN	NS	cdns1.hadara.ps.
@@ -16748,8 +16742,6 @@ tahalil.ps.		86400	IN	NS	mimi.ns.cloudflare.com.
 tahalil.ps.		86400	IN	NS	jonah.ns.cloudflare.com.
 tahaluf.ps.		86400	IN	NS	ns1.supercode.ps.
 tahaluf.ps.		86400	IN	NS	ns2.supercode.ps.
-tahaqaq.ps.		86400	IN	NS	ns1.dns-parking.com.
-tahaqaq.ps.		86400	IN	NS	ns2.dns-parking.com.
 tahboub.ps.		86400	IN	NS	ns1.leg-des.com.
 tahboub.ps.		86400	IN	NS	ns2.leg-des.com.
 taj.ps.			86400	IN	NS	cdns1.hadara.ps.
@@ -16850,12 +16842,12 @@ tamweeli.ps.		86400	IN	NS	ns06.domaincontrol.com.
 tanoora.ps.		86400	IN	NS	mg-ns-a.massar.com.
 tanoora.ps.		86400	IN	NS	mg-ns-b.massar.com.
 tanoora.ps.		86400	IN	NS	mg-ns-d.massar.com.
-tapp.ps.		86400	IN	NS	1-you.njalla.no.
-tapp.ps.		86400	IN	NS	2-can.njalla.in.
-tapp.ps.		86400	IN	NS	3-get.njalla.fo.
 tapp.ps.		86400	IN	DS	21289 8 2 364680FC4955AB9CA63435808336D5863CE8C26CFC527747177D8449 321BF84D
 tapp.ps.		86400	IN	DS	47266 8 2 A16B9EEF0318FE8F1B34436771E448FEF91CE712AB555F6FBCE41C1A C7D364DE
 tapp.ps.		86400	IN	DS	49810 8 2 FAFC1A77B30AEC3EEEC9338C36E41AD5E272A742F021CB73B7657CBC 9DC0E60D
+tapp.ps.		86400	IN	NS	1-you.njalla.no.
+tapp.ps.		86400	IN	NS	2-can.njalla.in.
+tapp.ps.		86400	IN	NS	3-get.njalla.fo.
 taqa.ps.		86400	IN	NS	ruth.ns.cloudflare.com.
 taqa.ps.		86400	IN	NS	will.ns.cloudflare.com.
 taqaddom.ps.		86400	IN	NS	ns1.trustedcom.com.
@@ -18805,8 +18797,9 @@ zahrawi.ps.		86400	IN	NS	kate.ns.cloudflare.com.
 zahrawi.ps.		86400	IN	NS	will.ns.cloudflare.com.
 zain.ps.		86400	IN	NS	dns1.alami.net.
 zain.ps.		86400	IN	NS	dns2.alami.net.
-zain-alabidin.ps.	86400	IN	NS	ns1.sederhost.com.
-zain-alabidin.ps.	86400	IN	NS	ns2.sederhost.com.
+zain-alabidin.ps.	86400	IN	NS	ns1.wordpress.com.
+zain-alabidin.ps.	86400	IN	NS	ns2.wordpress.com.
+zain-alabidin.ps.	86400	IN	NS	ns3.wordpress.com.
 zain-co.ps.		86400	IN	NS	ns1.dns-parking.com.
 zain-co.ps.		86400	IN	NS	ns2.dns-parking.com.
 zainachoclate.ps.	86400	IN	NS	ns1.dns-parking.com.
@@ -18849,6 +18842,8 @@ zalloum.ps.		86400	IN	NS	ns1.byethost34.org.
 zalloum.ps.		86400	IN	NS	ns2.byethost34.org.
 zalloumco.ps.		86400	IN	NS	cdns1.hadara.ps.
 zalloumco.ps.		86400	IN	NS	cdns2.hadara.ps.
+zamakan.ps.		86400	IN	NS	ns1.injazatcloud.ps.
+zamakan.ps.		86400	IN	NS	ns2.injazatcloud.ps.
 zamat.ps.		86400	IN	NS	ns1.zone.ps.
 zamat.ps.		86400	IN	NS	ns2.zone.ps.
 zamzam.ps.		86400	IN	NS	ns1-cat.dl-cms.com.
@@ -18992,4 +18987,4 @@ zuwadeh.ps.		86400	IN	NS	ns3.ftswebservices.com.
 zuwadeh.ps.		86400	IN	NS	ns4.ftswebservices.com.
 zuwar.ps.		86400	IN	NS	ns1.dns-parking.com.
 zuwar.ps.		86400	IN	NS	ns2.dns-parking.com.
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025061911 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025062006 86400 7200 3600000 172800

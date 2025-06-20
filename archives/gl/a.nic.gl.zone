@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166272 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. ezMcMyUQpcHXU8GRf6VKWauc0dwzRklSTJbzeo+QAzeA1OiVZzG4LRMI cFzS6CemGvKdWuujsiQThnPmOHYkLe/pA8C//2JzgJHp3AmdUe3Rmasx IJwc5qSAggOjjtJLuSgC0PfN9/M/BKl5LTBLoQa88Vo8QqcEzMmY2BNU 8Ds2aGelkYeBrGd0IN3H7kZd2MMggC5JwvsB85GUFFcP9hEOH+s4WxLv FD8l5Job984QdtlpTQt/fU+9QvKoKSbmwcc2BUYFJuhO7PrKwfUdHp5e UN1FdhE+Ey8+ecInyHr6FI7vZSUJsnPVACD+U4ImwwG5U4Xw74V+ho/1 AB1DsA==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166276 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. eqZfmlZBMXuIUEfZ3K4ZMq7k7xuyX/IEqV37Hk7DXN61O5nU2qS118sh 4AuWYh2/TVCP5BSFQpWcyPXe9c1lUaaFm6ih2Nd3BudzGeeYnXDlVPKy UhiWV2oEw/YvIkd5T6rL7oju1YYPR9tIdI35dtwo3WgxdYC9+2K6U6FQ gBXUrRuvMYijj8QRh6+c5M8cnEC6X2jNwnLWHiCVS8F3lZhF81VsBRrw AVPgL6AAcYMapfB+ak8YUi1DvZVj3WaufuhDtDMoqQH5xc1EEbDgSF+q zNrO2svtd57yIFkA4NL/IOtsUJDBqgrO/Cktuj5Bi2aghtTyJ3xXd7dN 3vFJAQ==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -16,9 +16,10 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250813020000 20250525020000 57390 gl. UcJ/fs
 0.gl.			3600	IN	NS	ns2.sudos.co.
 00.gl.			3600	IN	NS	ns1.registry-server.com.
 00.gl.			3600	IN	NS	ns2.registry-server.com.
-000.gl.			3600	IN	NS	a.dnspod.com.
-000.gl.			3600	IN	NS	b.dnspod.com.
-000.gl.			3600	IN	NS	c.dnspod.com.
+000.gl.			3600	IN	NS	pns61.cloudns.net.
+000.gl.			3600	IN	NS	pns62.cloudns.com.
+000.gl.			3600	IN	NS	pns63.cloudns.net.
+000.gl.			3600	IN	NS	pns64.cloudns.uk.
 01.gl.			3600	IN	NS	ns1.vercel-dns.com.
 01.gl.			3600	IN	NS	ns2.vercel-dns.com.
 02202.gl.		3600	IN	NS	ns01.ondns.de.
@@ -49,9 +50,10 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250813020000 20250525020000 57390 gl. UcJ/fs
 101domains.gl.		3600	IN	NS	nelly.ns.cloudflare.com.
 10kra.gl.		3600	IN	NS	ns1.disabled.ispapi.net.
 10kra.gl.		3600	IN	NS	ns3.disabled.ispapi.net.
-111.gl.			3600	IN	NS	a.dnspod.com.
-111.gl.			3600	IN	NS	b.dnspod.com.
-111.gl.			3600	IN	NS	c.dnspod.com.
+111.gl.			3600	IN	NS	pns61.cloudns.net.
+111.gl.			3600	IN	NS	pns62.cloudns.com.
+111.gl.			3600	IN	NS	pns63.cloudns.net.
+111.gl.			3600	IN	NS	pns64.cloudns.uk.
 113.gl.			3600	IN	NS	ns1.wannafind.dk.
 113.gl.			3600	IN	NS	ns2.wannafind.dk.
 11kra.gl.		3600	IN	NS	ns1.disabled.ispapi.net.
@@ -257,9 +259,10 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250813020000 20250525020000 57390 gl. UcJ/fs
 31284.gl.		3600	IN	NS	ns2.netsto.net.
 33.gl.			3600	IN	NS	ns1.registry-server.com.
 33.gl.			3600	IN	NS	ns2.registry-server.com.
-333.gl.			3600	IN	NS	a.dnspod.com.
-333.gl.			3600	IN	NS	b.dnspod.com.
-333.gl.			3600	IN	NS	c.dnspod.com.
+333.gl.			3600	IN	NS	pns61.cloudns.net.
+333.gl.			3600	IN	NS	pns62.cloudns.com.
+333.gl.			3600	IN	NS	pns63.cloudns.net.
+333.gl.			3600	IN	NS	pns64.cloudns.uk.
 345.gl.			3600	IN	NS	ns1.netsto.net.
 345.gl.			3600	IN	NS	ns2.netsto.net.
 363636.gl.		3600	IN	NS	ns1.curanet.dk.
@@ -304,9 +307,10 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250813020000 20250525020000 57390 gl. UcJ/fs
 42.gl.			3600	IN	NS	ns16.asurahosting.com.
 44.gl.			3600	IN	NS	ns1.dns.com.
 44.gl.			3600	IN	NS	ns2.dns.com.
-444.gl.			3600	IN	NS	a.dnspod.com.
-444.gl.			3600	IN	NS	b.dnspod.com.
-444.gl.			3600	IN	NS	c.dnspod.com.
+444.gl.			3600	IN	NS	pns61.cloudns.net.
+444.gl.			3600	IN	NS	pns62.cloudns.com.
+444.gl.			3600	IN	NS	pns63.cloudns.net.
+444.gl.			3600	IN	NS	pns64.cloudns.uk.
 45177.gl.		3600	IN	NS	ns1.netsto.net.
 45177.gl.		3600	IN	NS	ns2.netsto.net.
 49.gl.			3600	IN	NS	a4.share-dns.com.
@@ -23056,4 +23060,4 @@ VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN NSEC3 1 1 0 658A61DC VUQHSFBDKR2VUS
 VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. lB5c/I0tNAsaJ7UCvKCKGMjvpZtI1zBasrg1lZVxJf7QjeKyWpVhY/lw Fc48glolRmdd/T+ow2cPdpbwe8TrXHeCyvUZ2SyC7hE35NE404ZensIc ODBH3vz9zHMUUw94Z3gp3sVXG/NMH5l5TvsHXjdn4mgqDAa1tmuJ35qA qnLxgre6d8tNFaRx6I+N2oTWmmhXsr3AEC6xThZfpjixf6tfgVsd7XHE lTVHIgPcS5gg22BH7efKSzFdDuE1SWSeZ+E1RFwI4sV5joq+ksfuERi1 r/yVsnYM54dpx6HNFQaCW5SGLQBjTp4huPg/PHvcvzzfzu3ELm7aUT3W RaaDfg==
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN NSEC3 1 1 0 658A61DC 005143N77R1LRPFQ9D8APBF4U5LRION1 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. Kp8NqZcD3hD7BIx+Bms2gF12U6ESRmhbwrYbUxm3lD+tmgY8y48RrfFT HApkVzH5QVYNmFdxz99Q2szmzHKymbWvLhJElHyBdX6++pt/ADATcTWM RQcQLbvM3iPBaZwJMt04HeZaJLf/S2BgNOFUjHw1/FHocl7v0fz54627 TkNiVhIR3wh1I5Z4y3l1UwPdla0614aQQeMyMRLd6OJPl6ci4mn3jXo9 9wb/MH6ozCo0K6b2spI2n4lHfse93jmBOg7KWaL3nZ8cGQhj0sAwYcE/ EiSsHXOwS6q5actoaPYEv5vDxsL+GarwxaHoXUNT6Ddt8bvl8+xwUKbj jNY+IQ==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166272 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166276 900 1800 6048000 3600
