@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166294 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. OWugrpNArSH/Ds2STh5LX+GR0lgJjtk+3XHkmwwxLch0xOFny/qHYI4Y Ty5FMBaBGU4P/5DVG/eMD0wx5zna3XylOfwDoEP9GNhVPlfqWMbZuKxu 5s6kp0Z/Y8y/NI6hBvfM7eG173y27rizq0loH4OCpN/4xCpFA9EtzJ3N HoL4Oauxq2e8WXbhMyccZKNqxjUjwvsoFIH2umznx22kA/XSN/4f34LJ jRPjyuYMM5QuH5uVW9ZCDev++yDk8jn/lmExaxbcUe+fX6k0YcVnXmkI onbAY9icL1PMlPa8ympRU11JGpal7RSjZ4/UH+jZFotOtF/EZBgBX5Gh soVc/w==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166303 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. HwxHDSdZDy8SM074j0c3HQjxt/+arPfcii8Td2lYqAVcnvZgLX+025/g 9auHBXO1YnTaIW8hX51IDIx3xD/HPIv3Ec5jAqt43UsPRsIEw3NsdCLc /5hux/TSLFJV4Mx4d3wlEb4DqbokTwwZaFchKHYvhURoeq5ENNGf057Y ly5imsVewkBVdC59oGz7+Eb/+moQoRT165Lj2o87UvvtAmxHE0ZdmkOW zGaocvcMgpBcYixoFO5rXCWNQQx74BIhfxEJENxuklOBZU5wsxwunPqF 4UrJVNeMqbHPCKYasYjxoXX6t1xoUExR7DI5iPQQM/kiLXpwymQqBHYH C6NV5Q==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -125,8 +125,6 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250813020000 20250525020000 57390 gl. UcJ/fs
 1g.gl.			3600	IN	NS	ns2.bdydns.cn.
 1krn.gl.		3600	IN	NS	bob.ns.cloudflare.com.
 1krn.gl.		3600	IN	NS	itzel.ns.cloudflare.com.
-1megaweb.gl.		3600	IN	NS	reese.ns.cloudflare.com.
-1megaweb.gl.		3600	IN	NS	adaline.ns.cloudflare.com.
 1og1.gl.		3600	IN	NS	ns-1and1.ui-dns.de.
 1og1.gl.		3600	IN	NS	ns-1and1.ui-dns.biz.
 1og1.gl.		3600	IN	NS	ns-1and1.ui-dns.com.
@@ -11783,12 +11781,6 @@ m3ga9.gl.		3600	IN	NS	liz.ns.cloudflare.com.
 m3ga9.gl.		3600	IN	NS	dean.ns.cloudflare.com.
 m3galook.gl.		3600	IN	NS	piper.ns.cloudflare.com.
 m3galook.gl.		3600	IN	NS	rocco.ns.cloudflare.com.
-m3gaweb2.gl.		3600	IN	NS	reese.ns.cloudflare.com.
-m3gaweb2.gl.		3600	IN	NS	adaline.ns.cloudflare.com.
-m3gaweb3.gl.		3600	IN	NS	reese.ns.cloudflare.com.
-m3gaweb3.gl.		3600	IN	NS	adaline.ns.cloudflare.com.
-m3gaweb5.gl.		3600	IN	NS	reese.ns.cloudflare.com.
-m3gaweb5.gl.		3600	IN	NS	adaline.ns.cloudflare.com.
 m3qa.gl.		3600	IN	NS	luke.ns.cloudflare.com.
 m3qa.gl.		3600	IN	NS	rosalie.ns.cloudflare.com.
 m7ga.gl.		3600	IN	NS	chad.ns.cloudflare.com.
@@ -12013,8 +12005,6 @@ marketing.gl.		3600	IN	NS	ns1.inmotionhosting.com.
 marketing.gl.		3600	IN	NS	ns2.inmotionhosting.com.
 markmonitor.gl.		3600	IN	NS	ns1.markmonitor.com.
 markmonitor.gl.		3600	IN	NS	ns3.markmonitor.com.
-marksix.gl.		3600	IN	NS	ns1.dnscu.com.
-marksix.gl.		3600	IN	NS	ns2.dnscu.com.
 markus.gl.		3600	IN	NS	ns1.simply.com.
 markus.gl.		3600	IN	NS	ns2.simply.com.
 markus.gl.		3600	IN	NS	ns3.simply.com.
@@ -12240,20 +12230,14 @@ mega-mp.gl.		3600	IN	NS	ns1.disabled.ispapi.net.
 mega-mp.gl.		3600	IN	NS	ns3.disabled.ispapi.net.
 mega10.gl.		3600	IN	NS	liz.ns.cloudflare.com.
 mega10.gl.		3600	IN	NS	dean.ns.cloudflare.com.
-mega1web.gl.		3600	IN	NS	reese.ns.cloudflare.com.
-mega1web.gl.		3600	IN	NS	adaline.ns.cloudflare.com.
 mega4.gl.		3600	IN	NS	liz.ns.cloudflare.com.
 mega4.gl.		3600	IN	NS	dean.ns.cloudflare.com.
 mega555.gl.		3600	IN	NS	coen.ns.cloudflare.com.
 mega555.gl.		3600	IN	NS	edna.ns.cloudflare.com.
 mega555kf7lsmb54yd6etzginolhxxi4ytdoma2rf77ngq55fhfcnyid.gl. 3600 IN NS	luke.ns.cloudflare.com.
 mega555kf7lsmb54yd6etzginolhxxi4ytdoma2rf77ngq55fhfcnyid.gl. 3600 IN NS	rosalie.ns.cloudflare.com.
-mega555net1.gl.		3600	IN	NS	reese.ns.cloudflare.com.
-mega555net1.gl.		3600	IN	NS	adaline.ns.cloudflare.com.
 mega555toweb.gl.	3600	IN	NS	coen.ns.cloudflare.com.
 mega555toweb.gl.	3600	IN	NS	edna.ns.cloudflare.com.
-mega555web1.gl.		3600	IN	NS	reese.ns.cloudflare.com.
-mega555web1.gl.		3600	IN	NS	adaline.ns.cloudflare.com.
 mega6.gl.		3600	IN	NS	liz.ns.cloudflare.com.
 mega6.gl.		3600	IN	NS	dean.ns.cloudflare.com.
 mega7.gl.		3600	IN	NS	liz.ns.cloudflare.com.
@@ -12262,20 +12246,8 @@ mega8.gl.		3600	IN	NS	liz.ns.cloudflare.com.
 mega8.gl.		3600	IN	NS	dean.ns.cloudflare.com.
 mega9.gl.		3600	IN	NS	liz.ns.cloudflare.com.
 mega9.gl.		3600	IN	NS	dean.ns.cloudflare.com.
-megahide.gl.		3600	IN	NS	reese.ns.cloudflare.com.
-megahide.gl.		3600	IN	NS	adaline.ns.cloudflare.com.
 megalook.gl.		3600	IN	NS	joaquin.ns.cloudflare.com.
 megalook.gl.		3600	IN	NS	journey.ns.cloudflare.com.
-meganet1.gl.		3600	IN	NS	reese.ns.cloudflare.com.
-meganet1.gl.		3600	IN	NS	adaline.ns.cloudflare.com.
-megaweb-1.gl.		3600	IN	NS	reese.ns.cloudflare.com.
-megaweb-1.gl.		3600	IN	NS	adaline.ns.cloudflare.com.
-megawed1.gl.		3600	IN	NS	reese.ns.cloudflare.com.
-megawed1.gl.		3600	IN	NS	adaline.ns.cloudflare.com.
-megawed2.gl.		3600	IN	NS	reese.ns.cloudflare.com.
-megawed2.gl.		3600	IN	NS	adaline.ns.cloudflare.com.
-megawed3.gl.		3600	IN	NS	reese.ns.cloudflare.com.
-megawed3.gl.		3600	IN	NS	adaline.ns.cloudflare.com.
 mego.gl.		3600	IN	NS	jerry.ns.cloudflare.com.
 mego.gl.		3600	IN	NS	rachel.ns.cloudflare.com.
 meilvang.gl.		3600	IN	NS	a.hosting.gl.
@@ -20799,10 +20771,6 @@ wanzl.gl.		3600	IN	NS	d.ns14.net.
 water.gl.		3600	IN	NS	ns.dandomain.dk.
 water.gl.		3600	IN	NS	ns2.dandomain.dk.
 water.gl.		3600	IN	NS	ns3.dandomain.dk.
-watergl.gl.		3600	IN	NS	a.hosting.gl.
-watergl.gl.		3600	IN	NS	b.hosting.gl.
-watergl.gl.		3600	IN	NS	c.hosting.gl.
-watergl.gl.		3600	IN	NS	d.hosting.gl.
 waterlogic.gl.		3600	IN	NS	ns1.register.it.
 waterlogic.gl.		3600	IN	NS	ns2.register.it.
 watertaxi.gl.		3600	IN	NS	ns.scannet2.dk.
@@ -20860,10 +20828,6 @@ webmail.gl.		3600	IN	NS	adam.ns.cloudflare.com.
 webmail.gl.		3600	IN	NS	sharon.ns.cloudflare.com.
 webmd.gl.		3600	IN	NS	tim.ns.cloudflare.com.
 webmd.gl.		3600	IN	NS	cloe.ns.cloudflare.com.
-webmega.gl.		3600	IN	NS	reese.ns.cloudflare.com.
-webmega.gl.		3600	IN	NS	adaline.ns.cloudflare.com.
-webmega1.gl.		3600	IN	NS	reese.ns.cloudflare.com.
-webmega1.gl.		3600	IN	NS	adaline.ns.cloudflare.com.
 webproof.gl.		3600	IN	NS	ns.dandomain.dk.
 webproof.gl.		3600	IN	NS	ns2.dandomain.dk.
 webshop.gl.		3600	IN	NS	a.hosting.gl.
@@ -23060,4 +23024,4 @@ VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000
 VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN NSEC3 1 1 0 658A61DC VUQHSFBDKR2VUS8IG9DQGGNO573521C7 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN NSEC3 1 1 0 658A61DC 005143N77R1LRPFQ9D8APBF4U5LRION1 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. Kp8NqZcD3hD7BIx+Bms2gF12U6ESRmhbwrYbUxm3lD+tmgY8y48RrfFT HApkVzH5QVYNmFdxz99Q2szmzHKymbWvLhJElHyBdX6++pt/ADATcTWM RQcQLbvM3iPBaZwJMt04HeZaJLf/S2BgNOFUjHw1/FHocl7v0fz54627 TkNiVhIR3wh1I5Z4y3l1UwPdla0614aQQeMyMRLd6OJPl6ci4mn3jXo9 9wb/MH6ozCo0K6b2spI2n4lHfse93jmBOg7KWaL3nZ8cGQhj0sAwYcE/ EiSsHXOwS6q5actoaPYEv5vDxsL+GarwxaHoXUNT6Ddt8bvl8+xwUKbj jNY+IQ==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166294 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166303 900 1800 6048000 3600
