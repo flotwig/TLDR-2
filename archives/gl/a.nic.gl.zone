@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166439 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. N+6eLe9yrnHp8863Gaw0uy7+iB2zMUzisDiMPJ1T/mDdcWPBKfApO+Qd Maj7kq/ZI9Vt5S+3McWo8z/0riUmYsFPid6orewaWPMPrI38ukTKeycl 9jtE9YxRVO1drsqOROTjI7+04/U5v/a2v3Asa55myulhbs/LK5sl3ICT D+9eYUaXuCuLYfUJBDPLqx8g7aFYjUY1ybSY5l6jLy6CM2Y2En1lEozE wi5jrQCEHqCXYQZPvMH9ZuwCVUHZ9MUyWUXhVLcfYO8zKRJ/zwUdsV81 tqu+9XG6cnkqGv3hYCyvWgraPIJdm5vhRkZbACBrwTexVXruareup3sC zRMOsw==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166444 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. GDOqYO4irv3oUQDrRwYDXB73jjn1y3r10EWO2JcNkd2sC/0PAHh/j1ck HnhOZP8a9rVXI0Y9grF0xdsLzqEPTYFcqEFjkFsuQgwDhPuVB/TCvSIB HEok4jdYJcvbUZ8sd2I/CVSJoJGdKZm496fcRLhSaYFbwPSA/wJJ6YXy jLXcxCiTRCn/nV/60REK5itRU7z6c/2xp7kcnjFxjWgyM3dIJPyjDHGq uTD0oUbbGMNAt0+TxSMqY4zqp51vmzokStgFjmX6yzzHfxd1KySBDedl 5ObIuuNlqSTcZldZSZq0fiQLNPnSgc8nPvxTZ7KZg9u6eZAx7BlfCz+G ipr+/w==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -759,8 +759,9 @@ agerskov.gl.		3600	IN	NS	a.hosting.gl.
 agerskov.gl.		3600	IN	NS	b.hosting.gl.
 agerskov.gl.		3600	IN	NS	c.hosting.gl.
 agerskov.gl.		3600	IN	NS	d.hosting.gl.
-agi.gl.			3600	IN	NS	ns1.dns-parking.com.
-agi.gl.			3600	IN	NS	ns2.dns-parking.com.
+agi.gl.			3600	IN	NS	ns1.regery.net.
+agi.gl.			3600	IN	NS	ns2.regery.net.
+agi.gl.			3600	IN	NS	ns3.regery.net.
 agilenordic.gl.		3600	IN	NS	ns01.one.com.
 agilenordic.gl.		3600	IN	NS	ns02.one.com.
 agip.gl.		3600	IN	NS	ns1.register.it.
@@ -2861,6 +2862,8 @@ blackjack.gl.		3600	IN	DS	45643 13 4 27BADDFB85961A4184F2977DF743A8217B9EE0C771C
 blackjack.gl.		3600	IN	RRSIG	DS 8 2 3600 20250813020000 20250525020000 57390 gl. E6e1q7Ae8Ij40Z3uoWRI1DkHp/NYTf0LGGLcIhakoB9Vx5rl1/bF95w5 ZQIWhfm700hzmMsAmgorExt/g+eErCZLVrMEC1aOpN5n2+7q4vqWSiOw 4FIcYDIaiRIjierD7dD6Kg3gZE44kXqv+Lz/bdfTag/Ri6zhV3gvFuYJ PdFEGrx4NHijAPKil4CjQ9VqFyZeqvb2T1/SbQX2ZkVMMu+2s0GWqMbK 6IR/1OCrSVxW63MlDSraO1XuxbUNZLDyl+qGLbGcxznnhoIiZApiBWjz /EIVBcigGamVs+lZeQ2AiK5UwU6dESAw71dmMc/+TG7YGKjKnYfPEoAa /OdiRw==
 blacknight.gl.		3600	IN	NS	ns.blacknightsolutions.com.
 blacknight.gl.		3600	IN	NS	ns2.blacknightsolutions.com.
+blacksprut.gl.		3600	IN	NS	ns3.my-ndns.com.
+blacksprut.gl.		3600	IN	NS	ns4.my-ndns.com.
 bless.gl.		3600	IN	NS	ishaan.ns.cloudflare.com.
 bless.gl.		3600	IN	NS	suzanne.ns.cloudflare.com.
 blinker.gl.		3600	IN	NS	ns.hostpoint.ch.
@@ -11440,8 +11443,8 @@ lkg.gl.			3600	IN	NS	ns4.iwantmyname.net.
 lkr.gl.			3600	IN	NS	ns1.modulo.gl.
 lkr.gl.			3600	IN	NS	ns2.modulo.gl.
 lkr.gl.			3600	IN	NS	ns3.modulo.gl.
-ll.gl.			3600	IN	NS	ns1.afternic.com.
-ll.gl.			3600	IN	NS	ns2.afternic.com.
+ll.gl.			3600	IN	NS	ns1.sav.com.
+ll.gl.			3600	IN	NS	ns2.sav.com.
 lll.gl.			3600	IN	NS	ns1.reg.ru.
 lll.gl.			3600	IN	NS	ns2.reg.ru.
 llregnskab.gl.		3600	IN	NS	ns1.nunahosting.net.
@@ -20733,8 +20736,8 @@ vuu.gl.			3600	IN	NS	ns1.iwantmyname.net.
 vuu.gl.			3600	IN	NS	ns2.iwantmyname.net.
 vuu.gl.			3600	IN	NS	ns3.iwantmyname.net.
 vuu.gl.			3600	IN	NS	ns4.iwantmyname.net.
-vv.gl.			3600	IN	NS	ns1.afternic.com.
-vv.gl.			3600	IN	NS	ns2.afternic.com.
+vv.gl.			3600	IN	NS	ns1.sav.com.
+vv.gl.			3600	IN	NS	ns2.sav.com.
 vve.gl.			3600	IN	NS	ns1.kimik-it.gl.
 vve.gl.			3600	IN	NS	ns2.kimik-it.gl.
 vvs.gl.			3600	IN	NS	ns1.hosting.inuit.gl.
@@ -23049,4 +23052,4 @@ VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN NSEC3 1 1 0 658A61DC VUQHSFBDKR2VUS
 VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. lB5c/I0tNAsaJ7UCvKCKGMjvpZtI1zBasrg1lZVxJf7QjeKyWpVhY/lw Fc48glolRmdd/T+ow2cPdpbwe8TrXHeCyvUZ2SyC7hE35NE404ZensIc ODBH3vz9zHMUUw94Z3gp3sVXG/NMH5l5TvsHXjdn4mgqDAa1tmuJ35qA qnLxgre6d8tNFaRx6I+N2oTWmmhXsr3AEC6xThZfpjixf6tfgVsd7XHE lTVHIgPcS5gg22BH7efKSzFdDuE1SWSeZ+E1RFwI4sV5joq+ksfuERi1 r/yVsnYM54dpx6HNFQaCW5SGLQBjTp4huPg/PHvcvzzfzu3ELm7aUT3W RaaDfg==
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN NSEC3 1 1 0 658A61DC 005143N77R1LRPFQ9D8APBF4U5LRION1 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. Kp8NqZcD3hD7BIx+Bms2gF12U6ESRmhbwrYbUxm3lD+tmgY8y48RrfFT HApkVzH5QVYNmFdxz99Q2szmzHKymbWvLhJElHyBdX6++pt/ADATcTWM RQcQLbvM3iPBaZwJMt04HeZaJLf/S2BgNOFUjHw1/FHocl7v0fz54627 TkNiVhIR3wh1I5Z4y3l1UwPdla0614aQQeMyMRLd6OJPl6ci4mn3jXo9 9wb/MH6ozCo0K6b2spI2n4lHfse93jmBOg7KWaL3nZ8cGQhj0sAwYcE/ EiSsHXOwS6q5actoaPYEv5vDxsL+GarwxaHoXUNT6Ddt8bvl8+xwUKbj jNY+IQ==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166439 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166444 900 1800 6048000 3600
