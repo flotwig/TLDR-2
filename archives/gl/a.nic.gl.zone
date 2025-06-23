@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166432 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. d6fY8K5R16ZhBnbQj/KQ70GK+J+rMB5jElXmXNovkP5DU5vNDIo88f/x z3hxnadAMJGf60eiVpiUxzQ6ijaTY6qisU1c/zMUSHGyAK/LFddLs/jj rZ4eoDpJfXnDeEUnNgZzPoL3KpSs20Kgyio2NSxCH+Yw09X24ILeEyEo kwwLpuSAYRdbzL+by8Pe1qqWamrmP8rO/6DGey52KXVOWvqhPuIE5B25 dct9sC1MX4M5monyepcCKz6e8nU9i/gELer/8qM275M/m7nBtmWRRjZI 19fheFOIk1zEf0/QnsspguNKJ4xeUwE3VdSNC3eTZVdoa8k46LjAczUb 8EsD1Q==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166435 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. DpA4BCv+tpsDGjG5pFbwFMatVQ7H9QeVO7J8ymMatDBJTvyijKN4ac/C Wbe7bbivPWzneO7UGLV4d4z35CNBfo0Cw5yzmxif5EJpH1JGQFC0vhse 0azleZSe+piOF0Rp3Ssv+l01+GSkfgf7bBYa5fZiUau3wi3O+AEhMrJh GAlMLL1PGjDpC1DiYEBG5GfLwFgxWrMGJ/Noh0AUa+QreJOsR5RcxO3Z D74ayZNx7VPzrJlCQYwc2mzQG7Ic8KcFOu8TAltvAMznXcyk534N3faz 25Dg81cuXsBYqrsHMCVfEF8StjOhVWTZ3znFfvsAZ5qJf4qXz+2p/SZw C8pwrw==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -7200,6 +7200,10 @@ greenland-mining.gl.	3600	IN	RRSIG	DS 8 2 3600 20250813020000 20250525020000 573
 greenland-news.gl.	3600	IN	NS	ns1.modulo.gl.
 greenland-news.gl.	3600	IN	NS	ns2.modulo.gl.
 greenland-news.gl.	3600	IN	NS	ns3.modulo.gl.
+greenland-outdoor.gl.	3600	IN	NS	a.hosting.gl.
+greenland-outdoor.gl.	3600	IN	NS	b.hosting.gl.
+greenland-outdoor.gl.	3600	IN	NS	c.hosting.gl.
+greenland-outdoor.gl.	3600	IN	NS	d.hosting.gl.
 greenland-resource-assessment.gl. 3600 IN NS	ryan.ns.cloudflare.com.
 greenland-resource-assessment.gl. 3600 IN NS	fatima.ns.cloudflare.com.
 greenland-tours.gl.	3600	IN	NS	a.hosting.gl.
@@ -7317,6 +7321,10 @@ greenlandmonitor.gl.	3600	IN	DS	31202 13 4 1880A02432E41183602C812ECEB777B68DB0D
 greenlandmonitor.gl.	3600	IN	RRSIG	DS 8 2 3600 20250813020000 20250525020000 57390 gl. ALvVwwsWXmf84NHBX/wUzpV1g9bX7t9kwV7kIeQvldbFQ0ELstfz3kzA 5GW6oFjXN14jss7/Fm7YBmr1TEN0UxWQkFA8wEJ/NgHImziCrvogoxHn Q05ie3rpcyVEZ9wkVFFZzgOdN/5+faahPqJm+kDokZd6E94puP48zrvI DDUd17zZaAlbVnpye3NZRtB1+LSBT/K/g0WS+7baQ8WZdbCTOjRpKvRx oZp/yDYfSJy2GmPJ+n7521viQA1ggN3xjzmrguMkEzqcUDJUtvDv5z8j VxrZwvEdZC1ppeG/JlsASPevbu4YPAJNMqv1ayVGBxRNAS9JojZ/T2kA gy2qNQ==
 greenlandnews.gl.	3600	IN	NS	leah.ns.cloudflare.com.
 greenlandnews.gl.	3600	IN	NS	pablo.ns.cloudflare.com.
+greenlandoutdoor.gl.	3600	IN	NS	a.hosting.gl.
+greenlandoutdoor.gl.	3600	IN	NS	b.hosting.gl.
+greenlandoutdoor.gl.	3600	IN	NS	c.hosting.gl.
+greenlandoutdoor.gl.	3600	IN	NS	d.hosting.gl.
 greenlandpolice.gl.	3600	IN	NS	udns1.cscdns.net.
 greenlandpolice.gl.	3600	IN	NS	udns2.cscdns.uk.
 greenlandprojects.gl.	3600	IN	NS	ns1.aputit.gl.
@@ -8641,6 +8649,10 @@ ilinnut.gl.		3600	IN	DS	25210 13 2 D8ABA2A1525C0B324C8882754B809DD3776C433C34D52
 ilinnut.gl.		3600	IN	RRSIG	DS 8 2 3600 20250813020000 20250525020000 57390 gl. XCOBL1cpMO/jxepLbbiFlfcN/tuu/rPNdxhssoSXjzzBOxM6Ym0G9YXR 8L4kmSqWYqx7IMsrSOpui2rpeKVS9WFdQOORzZl7Co25Ef2pwtRPNCWG 0AuZ+WCJg2riFe/9843NtKZqV1RyZw4JAv2LKVX0IE28tEi5l0CwtJhV 9olqv2zMFU1WuLypjuyPINCJjhEMiCwPi/hOMsz9QUh0B9U6sc4MaGZP ATZUcitr1mYmqZbsryx//mD+783K2w8bdCnx4COowKYjU5+gcMGDLNnb 44kUzKqnkXyiY3ZAxzFfJk/cjpD8z4CuLH3lKGGFSbKjO4vZDqT3u6G9 f29lLQ==
 ilisimasavut.gl.	3600	IN	NS	ns1.curanet.dk.
 ilisimasavut.gl.	3600	IN	NS	ns2.curanet.dk.
+ilisimatusarfik.gl.	3600	IN	NS	ns1.dnsimple.com.
+ilisimatusarfik.gl.	3600	IN	NS	ns2.dnsimple.com.
+ilisimatusarfik.gl.	3600	IN	NS	ns3.dnsimple.com.
+ilisimatusarfik.gl.	3600	IN	NS	ns4.dnsimple.com.
 ilisivik.gl.		3600	IN	NS	ns1.modulo.gl.
 ilisivik.gl.		3600	IN	NS	ns2.modulo.gl.
 ilisivik.gl.		3600	IN	NS	ns3.modulo.gl.
@@ -17456,9 +17468,8 @@ set.gl.			3600	IN	NS	ns4.iwantmyname.net.
 setup.gl.		3600	IN	NS	ns1.netim.net.
 setup.gl.		3600	IN	NS	ns2.netim.net.
 setup.gl.		3600	IN	NS	ns3.netim.net.
-sex.gl.			3600	IN	NS	ns1.netim.net.
-sex.gl.			3600	IN	NS	ns2.netim.net.
-sex.gl.			3600	IN	NS	ns3.netim.net.
+sex.gl.			3600	IN	NS	ns1.sedoparking.com.
+sex.gl.			3600	IN	NS	ns2.sedoparking.com.
 sexhibition.gl.		3600	IN	NS	ns1.hyp.net.
 sexhibition.gl.		3600	IN	NS	ns2.hyp.net.
 sexhibition.gl.		3600	IN	NS	ns3.hyp.net.
@@ -20091,6 +20102,10 @@ unit.gl.		3600	IN	NS	reza.ns.cloudflare.com.
 united-domains.gl.	3600	IN	NS	ns.udag.de.
 united-domains.gl.	3600	IN	NS	ns.udag.net.
 united-domains.gl.	3600	IN	NS	ns.udag.org.
+university.gl.		3600	IN	NS	ns1.dnsimple.com.
+university.gl.		3600	IN	NS	ns2.dnsimple.com.
+university.gl.		3600	IN	NS	ns3.dnsimple.com.
+university.gl.		3600	IN	NS	ns4.dnsimple.com.
 universum.gl.		3600	IN	NS	dns1.hyperhost.ua.
 universum.gl.		3600	IN	NS	dns2.hyperhost.ua.
 unix.gl.		3600	IN	NS	ns1.hyp.net.
@@ -23032,4 +23047,4 @@ VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN NSEC3 1 1 0 658A61DC VUQHSFBDKR2VUS
 VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. lB5c/I0tNAsaJ7UCvKCKGMjvpZtI1zBasrg1lZVxJf7QjeKyWpVhY/lw Fc48glolRmdd/T+ow2cPdpbwe8TrXHeCyvUZ2SyC7hE35NE404ZensIc ODBH3vz9zHMUUw94Z3gp3sVXG/NMH5l5TvsHXjdn4mgqDAa1tmuJ35qA qnLxgre6d8tNFaRx6I+N2oTWmmhXsr3AEC6xThZfpjixf6tfgVsd7XHE lTVHIgPcS5gg22BH7efKSzFdDuE1SWSeZ+E1RFwI4sV5joq+ksfuERi1 r/yVsnYM54dpx6HNFQaCW5SGLQBjTp4huPg/PHvcvzzfzu3ELm7aUT3W RaaDfg==
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN NSEC3 1 1 0 658A61DC 005143N77R1LRPFQ9D8APBF4U5LRION1 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. Kp8NqZcD3hD7BIx+Bms2gF12U6ESRmhbwrYbUxm3lD+tmgY8y48RrfFT HApkVzH5QVYNmFdxz99Q2szmzHKymbWvLhJElHyBdX6++pt/ADATcTWM RQcQLbvM3iPBaZwJMt04HeZaJLf/S2BgNOFUjHw1/FHocl7v0fz54627 TkNiVhIR3wh1I5Z4y3l1UwPdla0614aQQeMyMRLd6OJPl6ci4mn3jXo9 9wb/MH6ozCo0K6b2spI2n4lHfse93jmBOg7KWaL3nZ8cGQhj0sAwYcE/ EiSsHXOwS6q5actoaPYEv5vDxsL+GarwxaHoXUNT6Ddt8bvl8+xwUKbj jNY+IQ==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166432 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166435 900 1800 6048000 3600
