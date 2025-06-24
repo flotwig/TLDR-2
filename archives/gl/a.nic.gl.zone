@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166462 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. bnUSkfgxaTZCqYZMddOsHa3KqnEzJ5Tru9Vfymggm4ORFk7IVQ4cUjqy loY8xZ57DmdPBk45zdxXrXj3iwQZ1PJHxQqEetBDAP8B+rGrKBTKHd8y jmk2aZ7XNWC5FPEkdZM+2PTSihWJS754X31qg/6vrCs7UXsA+x3cww/F kU2MVACnqjY0hGc8xdvnVXSMZW6LEVhI82UzXpoOri+D82lGmSNjr5GT qVVly5XOekSsF2u+xX+eVzIUll2ltmVRwCHMO86IjjEOkjXUeMDo0TbN Q4T2n26PY8cheJzjm9B56tzXDA+tvvllNUv1KDEzo/+HY32mt1njl4TZ HK8b8g==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166486 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. euUJ6dQFBlXO/yXOuJBx9e8KWZTOROOvs4WB2K3nJLBd1FDlMJUzaRQN clqcIBuTzkkAt3jaIB7Hb8TgtX0yuu4hqxp2hJdKd1cTu6WzdgvoQN+H WhxzE8zN92Vjb08X/UpitdPeDRbNgd27YT/u7Z23VBR49JUBRwAFh+Hg CR4WOO2LJgZHUZKZw9z5z2iX0EcOPUZqK7CY5dXLLl+i7l5jYuvoq7Xs rdIzvps0t3XtvVrHZiJRW+h9cHVTjqMs+nTOy/S0d/cUEl/x/hZm5/3l w/waSjhkzU6NYx846D37OTGDtxdNp8DqsEL4vGpi+nn+xvAK8XvvQHC4 NriUWA==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -6787,10 +6787,6 @@ ghf.gl.			3600	IN	NS	ns1.nunahosting.net.
 ghf.gl.			3600	IN	NS	ns2.nunahosting.net.
 ghf.gl.			3600	IN	NS	ns3.nunahosting.net.
 ghf.gl.			3600	IN	NS	ns4.nunahosting.net.
-ghsisimiut.gl.		3600	IN	NS	ns1.aputit.gl.
-ghsisimiut.gl.		3600	IN	NS	ns2.aputit.gl.
-ghsisimiut.gl.		3600	IN	NS	ns3.aputit.gl.
-ghsisimiut.gl.		3600	IN	NS	ns4.aputit.gl.
 ghui.gl.		3600	IN	NS	ns1.neoncrystal.com.
 ghui.gl.		3600	IN	NS	ns2.neoncrystal.com.
 ghui.gl.		3600	IN	NS	ns3.neoncrystal.com.
@@ -12389,8 +12385,8 @@ mg-rover.gl.		3600	IN	NS	ns15.domserver.de.
 mg-rover.gl.		3600	IN	NS	ns16.domserver.de.
 mg-rover.gl.		3600	IN	NS	ns17.domserver.de.
 mg-rover.gl.		3600	IN	NS	ns18.domserver.de.
-mgmarket.gl.		3600	IN	NS	ns1.ezydomain.com.
-mgmarket.gl.		3600	IN	NS	ns2.ezydomain.com.
+mgmarket.gl.		3600	IN	NS	elisa.ns.cloudflare.com.
+mgmarket.gl.		3600	IN	NS	wells.ns.cloudflare.com.
 mgmarket4.gl.		3600	IN	NS	fay.ns.cloudflare.com.
 mgmarket4.gl.		3600	IN	NS	yevgen.ns.cloudflare.com.
 mgrf.gl.		3600	IN	NS	meera.ns.cloudflare.com.
@@ -18260,6 +18256,9 @@ srk.gl.			3600	IN	NS	ns11.dnsmadeeasy.com.
 srk.gl.			3600	IN	NS	ns12.dnsmadeeasy.com.
 srk.gl.			3600	IN	NS	ns13.dnsmadeeasy.com.
 srk.gl.			3600	IN	NS	ns14.dnsmadeeasy.com.
+srl.gl.			3600	IN	NS	ns1.netim.net.
+srl.gl.			3600	IN	NS	ns2.netim.net.
+srl.gl.			3600	IN	NS	ns3.netim.net.
 srm.gl.			3600	IN	NS	dee.ns.cloudflare.com.
 srm.gl.			3600	IN	NS	todd.ns.cloudflare.com.
 srv.gl.			3600	IN	NS	adam.ns.cloudflare.com.
@@ -23059,4 +23058,4 @@ VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN NSEC3 1 1 0 658A61DC VUQHSFBDKR2VUS
 VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. lB5c/I0tNAsaJ7UCvKCKGMjvpZtI1zBasrg1lZVxJf7QjeKyWpVhY/lw Fc48glolRmdd/T+ow2cPdpbwe8TrXHeCyvUZ2SyC7hE35NE404ZensIc ODBH3vz9zHMUUw94Z3gp3sVXG/NMH5l5TvsHXjdn4mgqDAa1tmuJ35qA qnLxgre6d8tNFaRx6I+N2oTWmmhXsr3AEC6xThZfpjixf6tfgVsd7XHE lTVHIgPcS5gg22BH7efKSzFdDuE1SWSeZ+E1RFwI4sV5joq+ksfuERi1 r/yVsnYM54dpx6HNFQaCW5SGLQBjTp4huPg/PHvcvzzfzu3ELm7aUT3W RaaDfg==
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN NSEC3 1 1 0 658A61DC 005143N77R1LRPFQ9D8APBF4U5LRION1 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. Kp8NqZcD3hD7BIx+Bms2gF12U6ESRmhbwrYbUxm3lD+tmgY8y48RrfFT HApkVzH5QVYNmFdxz99Q2szmzHKymbWvLhJElHyBdX6++pt/ADATcTWM RQcQLbvM3iPBaZwJMt04HeZaJLf/S2BgNOFUjHw1/FHocl7v0fz54627 TkNiVhIR3wh1I5Z4y3l1UwPdla0614aQQeMyMRLd6OJPl6ci4mn3jXo9 9wb/MH6ozCo0K6b2spI2n4lHfse93jmBOg7KWaL3nZ8cGQhj0sAwYcE/ EiSsHXOwS6q5actoaPYEv5vDxsL+GarwxaHoXUNT6Ddt8bvl8+xwUKbj jNY+IQ==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166462 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166486 900 1800 6048000 3600
