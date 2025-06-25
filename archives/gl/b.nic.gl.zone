@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166555 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. QQcSPggQFj71WMf/dRLwjZH4qnDnDO07K69RXvhirWcPL4Od8geyKmJy z38q7H8YEAd5DsuNyy9mTQuITkTepRlAxIIyTyBVWCqg7Sy4AsuR9DH1 DwEWulytmnNVu6qcccKE/G7VWwN0Dw5BRj1Vy9CxcEYc0wIDggAVVj/l VZvb9DqXMsS0ebkGNji75TqczJ6P3Y7lUUf/cSNU+1pKkvPFIbJ9wn2J 7SrDdtZZrL3hD3H+oEADXdEkE/7kBn/NBj0I0Y42+U84QwimmGQCLt3d TIZKmHcTKo9ZmsrEcna1zX+D23AyzGxVHfxIsBceDLrRrq5uUnc6q7yl RAURkA==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166564 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. Awu+SRJ4BxZ1Gb/lDCSQ1aKfWTeQjs64dBsCuEniXm4y3iOubkeOmyw8 cOq1ATLJDj98d2xP46owDN0EblGK3zQeICqGh2+zU4rgdZi5IX/iFjae jvlzbIlP4p6aICy6s7sVdNCXX8SEHEPlAmzy49b+5SSa0bIwLer2QGPN nMgVXir4yiPFTnfqguebKYBe5BNbu3IvxbCBYFXqoD3OqoIB4xdyQcjI eoiMIucLh1zavvKjPp9PrlGN/9ObcSrfx4B1gXKaAf7JLnBXdMsiAkte sTLVV/xx0y/5yQIHkymvEjsyR+dFhCRkJPMNkHjMHt3WO0hFDEJ/toK5 NL03/w==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -475,6 +475,10 @@ a1.gl.			3600	IN	NS	ns1-08.azure-dns.com.
 a1.gl.			3600	IN	NS	ns2-08.azure-dns.net.
 a1.gl.			3600	IN	NS	ns3-08.azure-dns.org.
 a1.gl.			3600	IN	NS	ns4-08.azure-dns.info.
+a11.gl.			3600	IN	NS	a.ns14.net.
+a11.gl.			3600	IN	NS	b.ns14.net.
+a11.gl.			3600	IN	NS	c.ns14.net.
+a11.gl.			3600	IN	NS	d.ns14.net.
 a4.gl.			3600	IN	NS	kurt.ns.cloudflare.com.
 a4.gl.			3600	IN	NS	lisa.ns.cloudflare.com.
 a5.gl.			3600	IN	NS	fish.ns.cloudflare.com.
@@ -7575,6 +7579,9 @@ gu.gl.			3600	IN	NS	ns3.netim.net.
 gu-nuuk.gl.		3600	IN	NS	ns1.modulo.gl.
 gu-nuuk.gl.		3600	IN	NS	ns2.modulo.gl.
 gu-nuuk.gl.		3600	IN	NS	ns3.modulo.gl.
+guard.gl.		3600	IN	NS	1-you.njalla.no.
+guard.gl.		3600	IN	NS	2-can.njalla.in.
+guard.gl.		3600	IN	NS	3-get.njalla.fo.
 gucci.gl.		3600	IN	NS	maya.ns.cloudflare.com.
 gucci.gl.		3600	IN	NS	vasilii.ns.cloudflare.com.
 guccivault.gl.		3600	IN	NS	dns1.comlaude-dns.com.
@@ -11117,12 +11124,10 @@ late25act.gl.		3600	IN	NS	ns3.simply.com.
 late25act.gl.		3600	IN	DS	3894 13 2 BF5EF5C3D2D6B8F9CB894283B9066E52FD6A90AF49B827BF4980C2A8 D7998010
 late25act.gl.		3600	IN	DS	3894 13 4 7F0A683A670FD1CA061C8D0FA18B891E96A163EFD23853201FCE30B3 B6C79DF8ED7F542FB0E6342DA32F5A5A391F74CF
 late25act.gl.		3600	IN	RRSIG	DS 8 2 3600 20250813020000 20250525020000 57390 gl. k59oeiiqGAXleYQLEsD1xUes6A8DU8ekr57/q0WQeqasqIuyGVgbZQJv kC7N2W7WsDTdVi+MMWtFuRjqLGjnSwatsWci4qVk+sLIl1ZB0clyUpK7 pIQAZ9gE5KIQOjN7YB1szAQMvMhfI7FGHWsSeWttAwR6Lc+/D9tgR8L4 bQiljSOY1NAhG79t9nerKhJedlGkdNJZIva0mMfDIclTrckXFYtjlOxE kq18Bff097Al52UwlW4FS8iXORSlVzq7DfTHk8IsrqKMeTSnvTd/zTcH Gis1TRVskKiOaj/6fxsb0kKG/JBEULwdWeYoladVrurqUWZqJHEAX9Jr Xr2B+Q==
-latisse.gl.		3600	IN	NS	ns11.constellix.com.
-latisse.gl.		3600	IN	NS	ns21.constellix.com.
-latisse.gl.		3600	IN	NS	ns31.constellix.com.
-latisse.gl.		3600	IN	NS	ns41.constellix.net.
-latisse.gl.		3600	IN	NS	ns51.constellix.net.
-latisse.gl.		3600	IN	NS	ns61.constellix.net.
+latisse.gl.		3600	IN	NS	ns1.abbviedns.com.
+latisse.gl.		3600	IN	NS	ns2.abbviedns.com.
+latisse.gl.		3600	IN	NS	ns3.abbviedns.com.
+latisse.gl.		3600	IN	NS	ns4.abbviedns.com.
 latravel.gl.		3600	IN	NS	dns9.telia.com.
 latravel.gl.		3600	IN	NS	dns10.telia.com.
 latravel.gl.		3600	IN	NS	dns11.se.telia.net.
@@ -23070,4 +23075,4 @@ VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000
 VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN NSEC3 1 1 0 658A61DC VUQHSFBDKR2VUS8IG9DQGGNO573521C7 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN NSEC3 1 1 0 658A61DC 005143N77R1LRPFQ9D8APBF4U5LRION1 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. Kp8NqZcD3hD7BIx+Bms2gF12U6ESRmhbwrYbUxm3lD+tmgY8y48RrfFT HApkVzH5QVYNmFdxz99Q2szmzHKymbWvLhJElHyBdX6++pt/ADATcTWM RQcQLbvM3iPBaZwJMt04HeZaJLf/S2BgNOFUjHw1/FHocl7v0fz54627 TkNiVhIR3wh1I5Z4y3l1UwPdla0614aQQeMyMRLd6OJPl6ci4mn3jXo9 9wb/MH6ozCo0K6b2spI2n4lHfse93jmBOg7KWaL3nZ8cGQhj0sAwYcE/ EiSsHXOwS6q5actoaPYEv5vDxsL+GarwxaHoXUNT6Ddt8bvl8+xwUKbj jNY+IQ==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166555 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166564 900 1800 6048000 3600
