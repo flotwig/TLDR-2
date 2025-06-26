@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025062605 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025062611 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1750914009"
+do.			3600	IN	TXT	"Generation Time: 1750935614"
 00.do.			3600	IN	NS	maria.ns.cloudflare.com.
 00.do.			3600	IN	NS	ian.ns.cloudflare.com.
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
@@ -5709,8 +5709,8 @@ bir.do.			3600	IN	NS	ns1.bir.do.
 bir.do.			3600	IN	NS	ns2.bir.do.
 ns1.bir.do.		3600	IN	AAAA	2403:580a:1f66::103
 ns1.bir.do.		3600	IN	A	167.179.175.1
-ns2.bir.do.		3600	IN	A	170.64.156.31
 ns2.bir.do.		3600	IN	AAAA	2400:6180:10:200::c:7000
+ns2.bir.do.		3600	IN	A	170.64.156.31
 bird.do.		3600	IN	NS	ns2.markmonitor.com.
 bird.do.		3600	IN	NS	ns1.markmonitor.com.
 biriz.do.		3600	IN	NS	ns3.netim.net.
@@ -10795,6 +10795,9 @@ coplaza.do.		3600	IN	NS	dns2.midominio.do.
 coplaza.do.		3600	IN	NS	dns1.midominio.do.
 copperloop.do.		3600	IN	NS	rs32b.registrar-servers.com.
 copperloop.do.		3600	IN	NS	rs32a.registrar-servers.com.
+coppini.do.		3600	IN	NS	c.dns.domgate.com.
+coppini.do.		3600	IN	NS	b.dns.domgate.com.
+coppini.do.		3600	IN	NS	a.dns.domgate.com.
 copsa.do.		3600	IN	NS	ns2.hostreditec.com.
 copsa.do.		3600	IN	NS	ns1.hostreditec.com.
 copybet.do.		3600	IN	NS	dns4.midominio.do.
@@ -18476,6 +18479,10 @@ genesis.do.		3600	IN	NS	ns7011.banahosting.com.
 genesis.do.		3600	IN	NS	ns7010.banahosting.com.
 genesys.do.		3600	IN	NS	cruz.ns.cloudflare.com.
 genesys.do.		3600	IN	NS	igor.ns.cloudflare.com.
+genevawindows.do.	3600	IN	NS	dns4.midominio.do.
+genevawindows.do.	3600	IN	NS	dns3.midominio.do.
+genevawindows.do.	3600	IN	NS	dns2.midominio.do.
+genevawindows.do.	3600	IN	NS	dns1.midominio.do.
 genia.do.		3600	IN	NS	hgns2.hostgator.com.
 genia.do.		3600	IN	NS	hgns1.hostgator.com.
 genialhome.do.		3600	IN	NS	dns4.midominio.do.
@@ -28429,22 +28436,22 @@ midominio.do.		3600	IN	NS	dns1.midominio.do.
 midominio.do.		3600	IN	NS	dns3.midominio.do.
 midominio.do.		3600	IN	NS	dns4.midominio.do.
 midominio.do.		3600	IN	NS	dns2.midominio.do.
-dns1.midominio.do.	3600	IN	A	162.251.82.122
-dns1.midominio.do.	3600	IN	A	162.251.82.250
 dns1.midominio.do.	3600	IN	A	162.251.82.251
+dns1.midominio.do.	3600	IN	A	162.251.82.250
+dns1.midominio.do.	3600	IN	A	162.251.82.122
 dns1.midominio.do.	3600	IN	A	162.251.82.123
 dns2.midominio.do.	3600	IN	A	162.251.82.249
-dns2.midominio.do.	3600	IN	A	162.251.82.120
 dns2.midominio.do.	3600	IN	A	162.251.82.121
+dns2.midominio.do.	3600	IN	A	162.251.82.120
 dns2.midominio.do.	3600	IN	A	162.251.82.248
-dns3.midominio.do.	3600	IN	A	162.251.82.247
 dns3.midominio.do.	3600	IN	A	162.251.82.118
 dns3.midominio.do.	3600	IN	A	162.251.82.119
 dns3.midominio.do.	3600	IN	A	162.251.82.246
-dns4.midominio.do.	3600	IN	A	162.251.82.125
+dns3.midominio.do.	3600	IN	A	162.251.82.247
 dns4.midominio.do.	3600	IN	A	162.251.82.252
-dns4.midominio.do.	3600	IN	A	162.251.82.253
+dns4.midominio.do.	3600	IN	A	162.251.82.125
 dns4.midominio.do.	3600	IN	A	162.251.82.124
+dns4.midominio.do.	3600	IN	A	162.251.82.253
 mie.do.			3600	IN	NS	ns2.gofruits.co.
 mie.do.			3600	IN	NS	ns1.gofruits.co.
 mielagro.do.		3600	IN	NS	dns4.midominio.do.
@@ -30513,12 +30520,12 @@ nic.do.			3600	IN	NS	a.lactld.org.
 nic.do.			3600	IN	NS	ns1.nic.do.
 nic.do.			3600	IN	NS	ns5.nic.do.
 nic.do.			3600	IN	NS	ns.nic.do.
-ns.nic.do.		3600	IN	AAAA	2001:13e0:85d0:106::177
 ns.nic.do.		3600	IN	A	190.113.72.177
-ns1.nic.do.		3600	IN	AAAA	2001:13e0:85d0:106::178
+ns.nic.do.		3600	IN	AAAA	2001:13e0:85d0:106::177
 ns1.nic.do.		3600	IN	A	190.113.72.178
-ns2.nic.do.		3600	IN	AAAA	2001:13e0:0:1::12
+ns1.nic.do.		3600	IN	AAAA	2001:13e0:85d0:106::178
 ns2.nic.do.		3600	IN	A	190.113.65.12
+ns2.nic.do.		3600	IN	AAAA	2001:13e0:0:1::12
 ns4.nic.do.		3600	IN	AAAA	2001:500:14:6124:ad::1
 ns4.nic.do.		3600	IN	A	204.61.216.124
 ns5.nic.do.		3600	IN	A	190.113.65.13
@@ -36657,10 +36664,10 @@ revisame.do.		3600	IN	NS	ns-481.awsdns-60.com.
 revisame.do.		3600	IN	NS	ns-820.awsdns-38.net.
 revisame.do.		3600	IN	NS	ns-1519.awsdns-61.org.
 revisame.do.		3600	IN	NS	ns-1757.awsdns-27.co.uk.
-revista110.do.		3600	IN	NS	dns4.midominio.do.
-revista110.do.		3600	IN	NS	dns3.midominio.do.
-revista110.do.		3600	IN	NS	dns2.midominio.do.
-revista110.do.		3600	IN	NS	dns1.midominio.do.
+revista110.do.		3600	IN	NS	ns-1291.awsdns-33.org.
+revista110.do.		3600	IN	NS	ns-1602.awsdns-08.co.uk.
+revista110.do.		3600	IN	NS	ns-262.awsdns-32.com.
+revista110.do.		3600	IN	NS	ns-604.awsdns-11.net.
 revistahola.do.		3600	IN	NS	dns2.midominio.do.
 revistahola.do.		3600	IN	NS	dns1.midominio.do.
 revistamedica.do.	3600	IN	NS	opal.ns.cloudflare.com.
@@ -40545,8 +40552,8 @@ stix.do.		3600	IN	NS	ns2.stix.do.
 stix.do.		3600	IN	NS	ns1.stix.do.
 ns1.stix.do.		3600	IN	A	45.5.11.11
 ns1.stix.do.		3600	IN	AAAA	2803:9c0:100::2b
-ns2.stix.do.		3600	IN	AAAA	2803:9c0:100::2a
 ns2.stix.do.		3600	IN	A	45.5.10.10
+ns2.stix.do.		3600	IN	AAAA	2803:9c0:100::2a
 stlcardinals.do.	3600	IN	NS	ns-cloud-c1.googledomains.com.
 stlcardinals.do.	3600	IN	NS	ns-664.awsdns-19.net.
 stlcardinals.do.	3600	IN	NS	ns-1660.awsdns-15.co.uk.
@@ -47168,6 +47175,10 @@ yoyo.do.		3600	IN	NS	ns-1712.awsdns-22.co.uk.
 yoyo.do.		3600	IN	NS	ns-1466.awsdns-55.org.
 yoyo.do.		3600	IN	NS	ns-766.awsdns-31.net.
 yoyo.do.		3600	IN	NS	ns-35.awsdns-04.com.
+yp.do.			3600	IN	NS	ns4.dns24.net.
+yp.do.			3600	IN	NS	ns3.dns24.net.
+yp.do.			3600	IN	NS	ns2.dns24.net.
+yp.do.			3600	IN	NS	ns1.dns24.net.
 ys.do.			3600	IN	NS	dns4.midominio.do.
 ys.do.			3600	IN	NS	dns3.midominio.do.
 ys.do.			3600	IN	NS	dns2.midominio.do.
@@ -47573,4 +47584,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025062605 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025062611 3600 3600 604800 3600
