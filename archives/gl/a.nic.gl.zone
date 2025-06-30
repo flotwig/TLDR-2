@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166797 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. h6r8dPOcoMi2GM2iYL61ftWz+AqYZvLhzIHubZeGoqntMTr0fpgrcRl5 RHlDo6wg0k18zmyQsKlejOyAfASTKIBiuPGzw8852Q8/AV7OmdkTjfDW ovwbxK2g4rHrAv95FgUbeKAPKm8AV/HKJ+wDNdg4yWPwXwNGCOPYTnIF H/LE2OzB7jp/t5e3BeYIK+g8TEy4cTHTfWzQozkGj4FBZet8oCYZosV/ 0wBoN9aM5H77SkAPPN14VbiYcbI5URBdDxFdwMtfSrw9Yq30aUzq5O04 0knWGRw9rvNAaiMeqwiCJGCejzNpcmBlWzftVgTM2LsCzmiXVVdYjWyF ReAEJA==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166815 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. TloNSMCVKgeJND0y9V53nr9B0BoBM59eu++BGQR2hrDhuFt+6U/ARsDi DjGL+CG+0QzcKsZmlA7iIsXeTquu7yqXqTfzO+KIyd3Jf9MXxYtil/m+ 5gQ0FoHhGGquDWLvCHCPaRMyg8V/fmllcLiDG7QI55xgOY4nb6iCNWi1 m2+4RsURMftrnvjlusv21HTjRF3u1iuMhlvuEOOs6Xgi62ApWWmsPDXU YLVUtwh0UeStGeBjiX8mgZmcmS7hpsfm4Oapn47BHYWDAczRBHyBBh3w hWXkwZ4JrvdAVxCJN0fmyqFspB+AqXnWLvDta0XPyI6SsiUfOW2jJpCw +LrkYw==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -1422,10 +1422,6 @@ apuls.gl.		3600	IN	NS	ns4.simply.com.
 apuls.gl.		3600	IN	DS	53343 13 2 91BF50FA16C9515D5B1D6D54C606B10B4B297F3BB26AD02E5C7C1796 FEBA44CD
 apuls.gl.		3600	IN	DS	53343 13 4 3E320D14AD20EAAD5DAB9F2331AB99D3D0A448CD58D1BADB8AC5478D 1611A6BD7450641B0D87C5866D8DA6887AA59402
 apuls.gl.		3600	IN	RRSIG	DS 8 2 3600 20250813020000 20250525020000 57390 gl. O0l1H8yip94h3zrJ3GZeJj3HlAEcch0pt59u6nRMF3BIdVLqRIsAPP9X H0REwruwec3sB/yDEsm6XcHipg9uJdjSQ95UvlKPYtoq9iL4s4KoZElk wf3pdnWEo8Rue9PAnVep9pY8sj3FiFUFP3MdIXM8UH1CXM29KHCpBRVa rjfInS0yG2wzYORuxScosJosgtU81DZHN06dPgSh6PGrBaf5v4waEhW7 or5fcEa/S4DirRiwVRC9OYv1KROr2E0c8pSd3Hfrr7HlonWdNLGDAvki agPIZo/Lq8fxxtW0iDj30KrLwP1n/snFsbX6DMJUANNry2SbNctfsJHR j2d0OQ==
-aput.gl.		3600	IN	NS	ns-cloud-c1.googledomains.com.
-aput.gl.		3600	IN	NS	ns-cloud-c2.googledomains.com.
-aput.gl.		3600	IN	NS	ns-cloud-c3.googledomains.com.
-aput.gl.		3600	IN	NS	ns-cloud-c4.googledomains.com.
 aputconsulting.gl.	3600	IN	NS	ns1.nunahosting.net.
 aputconsulting.gl.	3600	IN	NS	ns2.nunahosting.net.
 aputconsulting.gl.	3600	IN	NS	ns3.nunahosting.net.
@@ -7531,10 +7527,6 @@ gs.gl.			3600	IN	NS	ns4.markmonitor.com.
 gs.gl.			3600	IN	NS	ns5.markmonitor.com.
 gs.gl.			3600	IN	NS	ns6.markmonitor.com.
 gs.gl.			3600	IN	NS	ns7.markmonitor.com.
-gsb.gl.			3600	IN	NS	a.hosting.gl.
-gsb.gl.			3600	IN	NS	b.hosting.gl.
-gsb.gl.			3600	IN	NS	c.hosting.gl.
-gsb.gl.			3600	IN	NS	d.hosting.gl.
 gsc.gl.			3600	IN	NS	aragorn.ns.cloudflare.com.
 gsc.gl.			3600	IN	NS	jessica.ns.cloudflare.com.
 gse.gl.			3600	IN	NS	helium.ns.hetzner.de.
@@ -18200,8 +18192,6 @@ sqrk.gl.		3600	IN	NS	d.hosting.gl.
 squa.gl.		3600	IN	NS	ns-76-b.gandi.net.
 squa.gl.		3600	IN	NS	ns-225-c.gandi.net.
 squa.gl.		3600	IN	NS	ns-252-a.gandi.net.
-squi.gl.		3600	IN	NS	bob.ns.cloudflare.com.
-squi.gl.		3600	IN	NS	joan.ns.cloudflare.com.
 sr.gl.			3600	IN	NS	ns1.regery.net.
 sr.gl.			3600	IN	NS	ns2.regery.net.
 sr.gl.			3600	IN	NS	ns3.regery.net.
@@ -23026,4 +23016,4 @@ VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN NSEC3 1 1 0 658A61DC VUQHSFBDKR2VUS
 VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. lB5c/I0tNAsaJ7UCvKCKGMjvpZtI1zBasrg1lZVxJf7QjeKyWpVhY/lw Fc48glolRmdd/T+ow2cPdpbwe8TrXHeCyvUZ2SyC7hE35NE404ZensIc ODBH3vz9zHMUUw94Z3gp3sVXG/NMH5l5TvsHXjdn4mgqDAa1tmuJ35qA qnLxgre6d8tNFaRx6I+N2oTWmmhXsr3AEC6xThZfpjixf6tfgVsd7XHE lTVHIgPcS5gg22BH7efKSzFdDuE1SWSeZ+E1RFwI4sV5joq+ksfuERi1 r/yVsnYM54dpx6HNFQaCW5SGLQBjTp4huPg/PHvcvzzfzu3ELm7aUT3W RaaDfg==
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN NSEC3 1 1 0 658A61DC 005143N77R1LRPFQ9D8APBF4U5LRION1 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. Kp8NqZcD3hD7BIx+Bms2gF12U6ESRmhbwrYbUxm3lD+tmgY8y48RrfFT HApkVzH5QVYNmFdxz99Q2szmzHKymbWvLhJElHyBdX6++pt/ADATcTWM RQcQLbvM3iPBaZwJMt04HeZaJLf/S2BgNOFUjHw1/FHocl7v0fz54627 TkNiVhIR3wh1I5Z4y3l1UwPdla0614aQQeMyMRLd6OJPl6ci4mn3jXo9 9wb/MH6ozCo0K6b2spI2n4lHfse93jmBOg7KWaL3nZ8cGQhj0sAwYcE/ EiSsHXOwS6q5actoaPYEv5vDxsL+GarwxaHoXUNT6Ddt8bvl8+xwUKbj jNY+IQ==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166797 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166815 900 1800 6048000 3600
