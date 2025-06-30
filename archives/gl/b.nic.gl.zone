@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166849 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. CB8Zt7OIGNlLCYh3Ch3nI8pjSbTRgnsGThLR3slxOMu4Vho+WgWem4YZ H1xh8gM7U2Ketyn2rOCILBx6xUK9jrpHfcgAY2qbsQbK8aMX5nNcOUY4 xhDtYtTRPCiH1OjlCj/azEpPKCfDj6iZbx29tKzDokU2LdDOr+evf/k+ j+ffpChBPKshl6BWWHlBBe6nrYM7lvJPyanPxcP60P0NwXZH8MB7t5Hh SNtxkBZohvcLXZJSdpkd08Dg/K2tJeTFidvLyhFB6SEAgDgSAnyhIviL diBWjobYzPKyVPPAaz9WUmr4maM/fztHBA7Q1RywI0bL2oNjSzci+qqz ufPOOg==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166851 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. VVBlQpnmfcakVf4H1N4I1Ir7dFu3OMsGYqjctIqpIZAi116DGivM2m3q afCSL4EOGbUCfDBd3mRhcb4802+tCPd3gVCElNUTlCmaOmoGgWAjeCPE lrjI3TtiyBqm8aCXXzXt5cePczbisg1DPfjqmZoOE44wnlgy7MTGaHSa Cv9fDde0cJi+cMPpNotFDfR3dmHPU/ig0RbfQULguIeeiIkth1+Zm0I3 I6xpHug9Om6ncEdWZb9Uiq/ZOQ+ybDGHgzR/inMq3mOqZYZInCazj3fr TF/EOuq7z1dP87rS+KfJjFkTRPBRLixDUK0SiRf+BH+6f+/NeJuQRAKV OCl+BQ==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -5948,8 +5948,9 @@ festivalo.gl.		3600	IN	NS	ns3.dinahosting.com.
 festivalo.gl.		3600	IN	NS	ns4.dinahosting.com.
 fev.gl.			3600	IN	NS	ns1.curanet.dk.
 fev.gl.			3600	IN	NS	ns2.curanet.dk.
-ff.gl.			3600	IN	NS	ns1.sav.com.
-ff.gl.			3600	IN	NS	ns2.sav.com.
+ff.gl.			3600	IN	NS	ns1.afternic.com.
+ff.gl.			3600	IN	NS	ns2.afternic.com.
+ff.gl.			3600	IN	NS	verification-mjzgwbegydtnz5nquch3e2.ns101.verify.hn.
 fff.gl.			3600	IN	NS	a3.share-dns.com.
 fff.gl.			3600	IN	NS	b3.share-dns.net.
 ffg.gl.			3600	IN	NS	ns1.simply.com.
@@ -9725,8 +9726,8 @@ jp.gl.			3600	IN	NS	ns3.iwantmyname.net.
 jp.gl.			3600	IN	NS	ns4.iwantmyname.net.
 jqsupply.gl.		3600	IN	NS	ns1.hosting.inuit.gl.
 jqsupply.gl.		3600	IN	NS	ns2.hosting.inuit.gl.
-jr.gl.			3600	IN	NS	ns1.sav.com.
-jr.gl.			3600	IN	NS	ns2.sav.com.
+jr.gl.			3600	IN	NS	ns1.afternic.com.
+jr.gl.			3600	IN	NS	ns2.afternic.com.
 jra4.gl.		3600	IN	NS	vin.ns.cloudflare.com.
 jra4.gl.		3600	IN	NS	arya.ns.cloudflare.com.
 jrcc.gl.		3600	IN	NS	a.hosting.gl.
@@ -23031,4 +23032,4 @@ VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000
 VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN NSEC3 1 1 0 658A61DC VUQHSFBDKR2VUS8IG9DQGGNO573521C7 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN NSEC3 1 1 0 658A61DC 005143N77R1LRPFQ9D8APBF4U5LRION1 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. Kp8NqZcD3hD7BIx+Bms2gF12U6ESRmhbwrYbUxm3lD+tmgY8y48RrfFT HApkVzH5QVYNmFdxz99Q2szmzHKymbWvLhJElHyBdX6++pt/ADATcTWM RQcQLbvM3iPBaZwJMt04HeZaJLf/S2BgNOFUjHw1/FHocl7v0fz54627 TkNiVhIR3wh1I5Z4y3l1UwPdla0614aQQeMyMRLd6OJPl6ci4mn3jXo9 9wb/MH6ozCo0K6b2spI2n4lHfse93jmBOg7KWaL3nZ8cGQhj0sAwYcE/ EiSsHXOwS6q5actoaPYEv5vDxsL+GarwxaHoXUNT6Ddt8bvl8+xwUKbj jNY+IQ==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166849 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166851 900 1800 6048000 3600
