@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166914 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. BYcAqPXAIrX8dJao/MRV95qJvw6kCfyguC/hH9ZYwgLOcM93ffxx5p2G NLVV/UkVM+X7aChThooRg3l60NiRI8EYlu3BaV+dqkvAwC2VdVnHCeHZ 4kn4/82SqcnvH8H0eAK2RL85OJH3zakF5tnQW1nehfZHLLxq+J1kT5a4 yvlFU0lwFmXEgKETqciTrsyjK2KaGWu2d4RqxHwf2t8VF248VIOHg+Tn /VAz2kqW9Pnj5Yu3jWRNz7ZrGLsTJbaz7mMoDQ4YmsZDp7uyIvvj9Wjg WlrDZg2BVAcN+R6pwi4vT16HS1i8Rvw9V4uUqZtBnuMCR+QPSvnQkOjE yr7qfg==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166916 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. O3L/Qg4y6uPyjBPdFxGsrGV9aCqwhZ9NmiGF0wwh6j2OOIxe/uhVbzdS cmew/5Bw48l24x+Jmj7ffy5s1TF8h4Pwwr1RgGP7wHL2dgiWlq1doEyf E68JdARpjzLdf8lT6xpN7MJVMrnPJH3cBF9IQi7MjYCF5rg8kYjKF+Db 3AhHk4x1vB5CCMUfxJ2qJ+frSkY8nnj+WU7cSx2Ax+njoYnAKbt7a0kc aL8hbwmgcAk2EEt42pnGasOX2qnpW9J3IgG5gaLBdiGLXFSVihplxYyO sPGc72ghnouPgqdYdxFDgkWYFbsIYBQPKx+LXA2nradoJYdAflkjwVH1 /PXouw==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -6988,8 +6988,6 @@ gofundme.gl.		3600	IN	NS	ns3.lexsynergy.info.
 gogreenland.gl.		3600	IN	NS	ns1.modulo.gl.
 gogreenland.gl.		3600	IN	NS	ns2.modulo.gl.
 gogreenland.gl.		3600	IN	NS	ns3.modulo.gl.
-goi.gl.			3600	IN	NS	170.ns1.abovedomains.com.
-goi.gl.			3600	IN	NS	170.ns2.abovedomains.com.
 goiardi.gl.		3600	IN	NS	ns-313.awsdns-39.com.
 goiardi.gl.		3600	IN	NS	ns-949.awsdns-54.net.
 goiardi.gl.		3600	IN	NS	ns-1247.awsdns-27.org.
@@ -7770,6 +7768,8 @@ hcandersen.gl.		3600	IN	NS	ns3.bdm.microsoftonline.com.
 hcandersen.gl.		3600	IN	NS	ns4.bdm.microsoftonline.com.
 hcorsted.gl.		3600	IN	NS	udns1.cscdns.net.
 hcorsted.gl.		3600	IN	NS	udns2.cscdns.uk.
+hd.gl.			3600	IN	NS	west.ns.cloudflare.com.
+hd.gl.			3600	IN	NS	hattie.ns.cloudflare.com.
 hdhub4u.gl.		3600	IN	NS	coen.ns.cloudflare.com.
 hdhub4u.gl.		3600	IN	NS	samara.ns.cloudflare.com.
 hds.gl.			3600	IN	NS	ns1.iwantmyname.net.
@@ -20420,8 +20420,6 @@ villumresearchstation.gl. 3600	IN	NS	ns4.au.dk.
 vimcar.gl.		3600	IN	NS	ns-3-a.gandi.net.
 vimcar.gl.		3600	IN	NS	ns-47-b.gandi.net.
 vimcar.gl.		3600	IN	NS	ns-226-c.gandi.net.
-vin.gl.			3600	IN	NS	lunlun.ns.giantpanda.com.
-vin.gl.			3600	IN	NS	yangyang.ns.giantpanda.com.
 vinslottet.gl.		3600	IN	NS	ns.wannafind.dk.
 vinslottet.gl.		3600	IN	NS	ns2.wannafind.dk.
 vinspecialisten.gl.	3600	IN	NS	a.ns14.net.
@@ -23025,4 +23023,4 @@ VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN NSEC3 1 1 0 658A61DC VUQHSFBDKR2VUS
 VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. lB5c/I0tNAsaJ7UCvKCKGMjvpZtI1zBasrg1lZVxJf7QjeKyWpVhY/lw Fc48glolRmdd/T+ow2cPdpbwe8TrXHeCyvUZ2SyC7hE35NE404ZensIc ODBH3vz9zHMUUw94Z3gp3sVXG/NMH5l5TvsHXjdn4mgqDAa1tmuJ35qA qnLxgre6d8tNFaRx6I+N2oTWmmhXsr3AEC6xThZfpjixf6tfgVsd7XHE lTVHIgPcS5gg22BH7efKSzFdDuE1SWSeZ+E1RFwI4sV5joq+ksfuERi1 r/yVsnYM54dpx6HNFQaCW5SGLQBjTp4huPg/PHvcvzzfzu3ELm7aUT3W RaaDfg==
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN NSEC3 1 1 0 658A61DC 005143N77R1LRPFQ9D8APBF4U5LRION1 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. Kp8NqZcD3hD7BIx+Bms2gF12U6ESRmhbwrYbUxm3lD+tmgY8y48RrfFT HApkVzH5QVYNmFdxz99Q2szmzHKymbWvLhJElHyBdX6++pt/ADATcTWM RQcQLbvM3iPBaZwJMt04HeZaJLf/S2BgNOFUjHw1/FHocl7v0fz54627 TkNiVhIR3wh1I5Z4y3l1UwPdla0614aQQeMyMRLd6OJPl6ci4mn3jXo9 9wb/MH6ozCo0K6b2spI2n4lHfse93jmBOg7KWaL3nZ8cGQhj0sAwYcE/ EiSsHXOwS6q5actoaPYEv5vDxsL+GarwxaHoXUNT6Ddt8bvl8+xwUKbj jNY+IQ==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166914 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166916 900 1800 6048000 3600
