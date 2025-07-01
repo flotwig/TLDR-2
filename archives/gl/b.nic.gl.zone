@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166861 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. JQ4TCh0uhHqyIUH49llBFmniW00eDWub3JrjOOul46RWShi2i1AnTK+g 9DYZfxOrLsp/2+MfB6Q5z7cuJhLpf2lTl5D8iHt+dglcrnfUpylcRaae TxOpBr/Kcb+d6+kLENtlziqAcESujZm7Z3JELa7LdZFmHN8QiR8mRnHX uGO4DvAsoQs9GExzy7F7OVAKB4ztM+Kf5cDpf+H6kLfUtkjHZeGQakmY /7fZDiy3mLx5XnPXx8s8ocL4GeTfu5vHoPFPQXJS5SIkFfA3QRUqrFuH ecTS9/1xkPA1dJZOpxTL0E9RiovPpkH3v+HbMaY5XAhV+2itDYw0EEqz Hsk5GQ==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166864 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. iubng4p3lva/t3trMNM9/8Fos20HQVqRuoxtsFFr31wWT8223uEWLhjC Jk9+utVzhU+aryu10DEXpARbDJMTVXTiA0APEX/rvuS53dl/sCDZFoMA Z74VpWVYhtvxJLcChwBq04OiWFZuLnjjOuM+Q3eMhLD5oFlxom94crvt bMecJIpxdB6WP3AicZH9bDQyPwoBWzwUFOjKptLxps0SLHUe84Y7JhvJ d8Ig3ybRWl7tsQ/UjOG7LBwouytWD/tALqI04xoWOtyhsVJi9Y8mpl8X R++mt1JJR95eTek0VYWXM1zAXipN35bTROcB8uf4P5h0uraiVMXgLur3 +5MK2g==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -3370,10 +3370,6 @@ burlington.gl.		3600	IN	NS	ns9.managed-ip.com.
 burlington.gl.		3600	IN	NS	ns10.managed-ip.com.
 burlington.gl.		3600	IN	NS	ns11.managed-ip.info.
 burlington.gl.		3600	IN	NS	ns12.managed-ip.info.
-burmeister.gl.		3600	IN	NS	ns-cloud-c1.googledomains.com.
-burmeister.gl.		3600	IN	NS	ns-cloud-c2.googledomains.com.
-burmeister.gl.		3600	IN	NS	ns-cloud-c3.googledomains.com.
-burmeister.gl.		3600	IN	NS	ns-cloud-c4.googledomains.com.
 bus.gl.			3600	IN	NS	ns1.hosting.inuit.gl.
 bus.gl.			3600	IN	NS	ns2.hosting.inuit.gl.
 business.gl.		3600	IN	NS	ns1.curanet.dk.
@@ -12726,6 +12722,8 @@ moviemad.gl.		3600	IN	NS	guy.ns.cloudflare.com.
 moviemad.gl.		3600	IN	NS	wanda.ns.cloudflare.com.
 movierulz.gl.		3600	IN	NS	athena.ns.cloudflare.com.
 movierulz.gl.		3600	IN	NS	mustafa.ns.cloudflare.com.
+movies4u.gl.		3600	IN	NS	skip.ns.cloudflare.com.
+movies4u.gl.		3600	IN	NS	monika.ns.cloudflare.com.
 movietransit.gl.	3600	IN	NS	ns1.hyp.net.
 movietransit.gl.	3600	IN	NS	ns2.hyp.net.
 movietransit.gl.	3600	IN	NS	ns3.hyp.net.
@@ -15109,9 +15107,6 @@ paartoq.gl.		3600	IN	NS	ns2.wordpress.com.
 paartoq.gl.		3600	IN	NS	ns3.wordpress.com.
 paasisavut.gl.		3600	IN	NS	ns1.curanet.dk.
 paasisavut.gl.		3600	IN	NS	ns2.curanet.dk.
-pablo.gl.		3600	IN	NS	ns.hostpoint.ch.
-pablo.gl.		3600	IN	NS	ns2.hostpoint.ch.
-pablo.gl.		3600	IN	NS	ns3.hostpoint.ch.
 paintball.gl.		3600	IN	NS	ns1.gridfast.net.
 paintball.gl.		3600	IN	NS	ns2.gridfast.net.
 paju.gl.		3600	IN	NS	dax.ns.cloudflare.com.
@@ -20777,8 +20772,6 @@ watery.gl.		3600	IN	RRSIG	DS 8 2 3600 20250813020000 20250525020000 57390 gl. Gj
 wave.gl.		3600	IN	NS	1-you.njalla.no.
 wave.gl.		3600	IN	NS	2-can.njalla.in.
 wave.gl.		3600	IN	NS	3-get.njalla.fo.
-wb.gl.			3600	IN	NS	ns1-expired.sav.com.
-wb.gl.			3600	IN	NS	ns2-expired.sav.com.
 we.gl.			3600	IN	NS	ns-40.awsdns-05.com.
 we.gl.			3600	IN	NS	ns-823.awsdns-38.net.
 we.gl.			3600	IN	NS	ns-1277.awsdns-31.org.
@@ -23028,4 +23021,4 @@ VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000
 VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN NSEC3 1 1 0 658A61DC VUQHSFBDKR2VUS8IG9DQGGNO573521C7 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN NSEC3 1 1 0 658A61DC 005143N77R1LRPFQ9D8APBF4U5LRION1 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. Kp8NqZcD3hD7BIx+Bms2gF12U6ESRmhbwrYbUxm3lD+tmgY8y48RrfFT HApkVzH5QVYNmFdxz99Q2szmzHKymbWvLhJElHyBdX6++pt/ADATcTWM RQcQLbvM3iPBaZwJMt04HeZaJLf/S2BgNOFUjHw1/FHocl7v0fz54627 TkNiVhIR3wh1I5Z4y3l1UwPdla0614aQQeMyMRLd6OJPl6ci4mn3jXo9 9wb/MH6ozCo0K6b2spI2n4lHfse93jmBOg7KWaL3nZ8cGQhj0sAwYcE/ EiSsHXOwS6q5actoaPYEv5vDxsL+GarwxaHoXUNT6Ddt8bvl8+xwUKbj jNY+IQ==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166861 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166864 900 1800 6048000 3600
