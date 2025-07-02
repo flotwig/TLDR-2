@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166935 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. dpn9KoSJwupkc/94m+Th7S+UgjGUwkbPiI8tZv56HW9TQ5cg1D33SfCh tyNmzc8k0Ybx9rDHcScBOoNOUOwwqF/UTkP+LxiJZ9e25xQ6j6xMv0Ud tgSf5DwZwOavHfUv++KHsFNoLk4b09mbBR1PEQYqvv4cLAF8A90FYEar AMbQ0F3gFk9YNULhIlMxxxXqwgk1NiL907Fzkf9vzvBCqCU20vpjIbbC u1TYqCCCj7dqR9WVwUdaN+JqUO2/EYN/0s45SE528WYnPK7wZAA5rlbC q2ImuYFHf1wBOARhDDqrDKCrOMMoRR2vO/ve6qF13gRGkQdvJgUE4AI4 3m7cJw==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166947 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. iW2P+v4jd99aEHhtaC9aeSWYM5lj7ZjUpXftDoU2LR9ZZpoodQPnE9KQ FBDhqXsDpqJ8uEWb6E0kPaFf9vjFTuNnLFXt7qN794CWpmVu2PTCP1c4 ElVplYv46mET2D74oeUjRO/DRJI1WKzsVEzr82gZQJwPMZezbqa4Xub6 Pc8kdkY8u9UdIBdYgF6Y/HAXOCzH/RwQ/y+uGpRe8CP2IklgaFxNkHAi TfWyoArPGv1LdSREa90bES8+Pfb09gsiL6NpVHQ36Cz7vZdAOOcKt34X 5gbzD0drDCT6FTVl4lnvMa0wcKXi5JfzPhOxrwVIGK4aYUfJrSAVz4oR nKHJOw==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -120,9 +120,6 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250813020000 20250525020000 57390 gl. UcJ/fs
 1and1.gl.		3600	IN	NS	ns56.1und1.de.
 1buyom.gl.		3600	IN	NS	aria.ns.cloudflare.com.
 1buyom.gl.		3600	IN	NS	felipe.ns.cloudflare.com.
-1d.gl.			3600	IN	NS	ns-10-a.gandi.net.
-1d.gl.			3600	IN	NS	ns-110-b.gandi.net.
-1d.gl.			3600	IN	NS	ns-205-c.gandi.net.
 1g.gl.			3600	IN	NS	ns1.bdydns.cn.
 1g.gl.			3600	IN	NS	ns2.bdydns.cn.
 1krn.gl.		3600	IN	NS	bob.ns.cloudflare.com.
@@ -2947,8 +2944,8 @@ bloombergtradebook.gl.	3600	IN	NS	pdns3.ultradns.org.
 bloombergtradebook.gl.	3600	IN	NS	pdns5.ultradns.info.
 bls.gl.			3600	IN	NS	vera.ns.cloudflare.com.
 bls.gl.			3600	IN	NS	fonzie.ns.cloudflare.com.
-blsp.gl.		3600	IN	NS	ns1.ezydomain.com.
-blsp.gl.		3600	IN	NS	ns2.ezydomain.com.
+blsp.gl.		3600	IN	NS	mona.ns.cloudflare.com.
+blsp.gl.		3600	IN	NS	hasslo.ns.cloudflare.com.
 blst.gl.		3600	IN	NS	vera.ns.cloudflare.com.
 blst.gl.		3600	IN	NS	fonzie.ns.cloudflare.com.
 blu.gl.			3600	IN	NS	n1.blueglass.ch.
@@ -23023,4 +23020,4 @@ VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000
 VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN NSEC3 1 1 0 658A61DC VUQHSFBDKR2VUS8IG9DQGGNO573521C7 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN NSEC3 1 1 0 658A61DC 005143N77R1LRPFQ9D8APBF4U5LRION1 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. Kp8NqZcD3hD7BIx+Bms2gF12U6ESRmhbwrYbUxm3lD+tmgY8y48RrfFT HApkVzH5QVYNmFdxz99Q2szmzHKymbWvLhJElHyBdX6++pt/ADATcTWM RQcQLbvM3iPBaZwJMt04HeZaJLf/S2BgNOFUjHw1/FHocl7v0fz54627 TkNiVhIR3wh1I5Z4y3l1UwPdla0614aQQeMyMRLd6OJPl6ci4mn3jXo9 9wb/MH6ozCo0K6b2spI2n4lHfse93jmBOg7KWaL3nZ8cGQhj0sAwYcE/ EiSsHXOwS6q5actoaPYEv5vDxsL+GarwxaHoXUNT6Ddt8bvl8+xwUKbj jNY+IQ==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166935 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166947 900 1800 6048000 3600
