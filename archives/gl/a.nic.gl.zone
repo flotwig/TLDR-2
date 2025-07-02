@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166944 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. PAGmwhUON1M70V0nhdGafeFzds4v3gDa81JhIopumHc1HmrTxvpguZuA Bj3IX2d2UzyBaBMJzYbnUx5d9lLb28/5Gy9/YZwSzOxADGVuDONdIuTQ kcHSGAyme8LZrGb8u/NEaTCi971v0D3bIjdIiJAZc7YrN0ck4sIxcSjY 3eS4mX/2pGLrDtGfqGzPny+bmWbnVuw/jUUHdJ4QJBv7RGCrj88deTpH N+7LDu7aTVNZyGK21S/hwvAgKai9UewgJQSSKo7q81HDaSE3Vyfxm6XW j0dozzLBf5KIJEru/E2+V2Z/B9HWNzDNWP6yT4wL/eCPLvJCZPRyWWlb DSHQTw==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166954 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. OG6Mbabvf7HJ/ReR7oiylc13USLn+I2TdFBRcA5QiL3eRx7IS6lfxWtH eKDXnM+WvtW7xl1WoKknUeTt4wk8ztff8QWsj1AuBH9NTZvPqhWWJRIh GInPsd62i11jsoWwnZ2ByCPrsu9NpKqDlDBfe1OPLTkpWp6Nq8Klj6Rc 69pxkZ+9tiNGYFbS3vgjILA2wt82yyO8gyFvh8Q40SiieiiwkFt9pObR f61D/VaLj4EGs72E9ODAYGPGKaDooIUEFKskAOWQHYTOoqm4+mgkHiOy LZuyKVX6EjUM30YuwFQKkFCuFyCZDQFnMm1s/cW2zFNyhG8+8U09x+k0 nJ6C2Q==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -120,9 +120,6 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20250813020000 20250525020000 57390 gl. UcJ/fs
 1and1.gl.		3600	IN	NS	ns56.1und1.de.
 1buyom.gl.		3600	IN	NS	aria.ns.cloudflare.com.
 1buyom.gl.		3600	IN	NS	felipe.ns.cloudflare.com.
-1d.gl.			3600	IN	NS	ns-10-a.gandi.net.
-1d.gl.			3600	IN	NS	ns-110-b.gandi.net.
-1d.gl.			3600	IN	NS	ns-205-c.gandi.net.
 1g.gl.			3600	IN	NS	ns1.bdydns.cn.
 1g.gl.			3600	IN	NS	ns2.bdydns.cn.
 1krn.gl.		3600	IN	NS	bob.ns.cloudflare.com.
@@ -2947,8 +2944,8 @@ bloombergtradebook.gl.	3600	IN	NS	pdns3.ultradns.org.
 bloombergtradebook.gl.	3600	IN	NS	pdns5.ultradns.info.
 bls.gl.			3600	IN	NS	vera.ns.cloudflare.com.
 bls.gl.			3600	IN	NS	fonzie.ns.cloudflare.com.
-blsp.gl.		3600	IN	NS	ns1.ezydomain.com.
-blsp.gl.		3600	IN	NS	ns2.ezydomain.com.
+blsp.gl.		3600	IN	NS	mona.ns.cloudflare.com.
+blsp.gl.		3600	IN	NS	hasslo.ns.cloudflare.com.
 blst.gl.		3600	IN	NS	vera.ns.cloudflare.com.
 blst.gl.		3600	IN	NS	fonzie.ns.cloudflare.com.
 blu.gl.			3600	IN	NS	n1.blueglass.ch.
@@ -9910,6 +9907,10 @@ kalaaleq.gl.		3600	IN	DS	8831 13 4 8F2971ACD74966B324FDD60B14AD178FF60AE834AD7D4
 kalaaleq.gl.		3600	IN	RRSIG	DS 8 2 3600 20250813020000 20250525020000 57390 gl. dHD2hS7WbAB/EYorv5lgM/OZjS2Xk1jE7k2AIzvOgyjpmx7fAAzWuRYq OHVp1eyHGbM2sOIuMTJ/qGlUed21RjdTOaTlFnWBt4su10vUDIFJPtJ6 cS975v8ac/5tGwWlAQdRUjlTKtM38nWC4McIeoMoJrTW7J5ZL5P0KKHr 5rO54ROho4Skpo/oBufGU+BsltygOMYxBB0xG8j+mRAa8SV7whr4FIfQ ecjSSbViY3sfx9JJeBD5cnQjW/XPWyTW5PwH5G165N0gvWRxQ6XPuo5Y z3tW0QPhHQXAoMk0lIMKMgt+gZQo9F82CPpprSW5HYhuauGhfD+/L70T mtmnHw==
 kalaaliaraq.gl.		3600	IN	NS	ns1.nanu.dk.
 kalaaliaraq.gl.		3600	IN	NS	ns2.nanu.dk.
+kalaallisut.gl.		3600	IN	NS	ns-cloud-c1.googledomains.com.
+kalaallisut.gl.		3600	IN	NS	ns-cloud-c2.googledomains.com.
+kalaallisut.gl.		3600	IN	NS	ns-cloud-c3.googledomains.com.
+kalaallisut.gl.		3600	IN	NS	ns-cloud-c4.googledomains.com.
 kalaallit.gl.		3600	IN	NS	a.hosting.gl.
 kalaallit.gl.		3600	IN	NS	b.hosting.gl.
 kalaallit.gl.		3600	IN	NS	c.hosting.gl.
@@ -23023,4 +23024,4 @@ VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN NSEC3 1 1 0 658A61DC VUQHSFBDKR2VUS
 VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. lB5c/I0tNAsaJ7UCvKCKGMjvpZtI1zBasrg1lZVxJf7QjeKyWpVhY/lw Fc48glolRmdd/T+ow2cPdpbwe8TrXHeCyvUZ2SyC7hE35NE404ZensIc ODBH3vz9zHMUUw94Z3gp3sVXG/NMH5l5TvsHXjdn4mgqDAa1tmuJ35qA qnLxgre6d8tNFaRx6I+N2oTWmmhXsr3AEC6xThZfpjixf6tfgVsd7XHE lTVHIgPcS5gg22BH7efKSzFdDuE1SWSeZ+E1RFwI4sV5joq+ksfuERi1 r/yVsnYM54dpx6HNFQaCW5SGLQBjTp4huPg/PHvcvzzfzu3ELm7aUT3W RaaDfg==
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN NSEC3 1 1 0 658A61DC 005143N77R1LRPFQ9D8APBF4U5LRION1 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. Kp8NqZcD3hD7BIx+Bms2gF12U6ESRmhbwrYbUxm3lD+tmgY8y48RrfFT HApkVzH5QVYNmFdxz99Q2szmzHKymbWvLhJElHyBdX6++pt/ADATcTWM RQcQLbvM3iPBaZwJMt04HeZaJLf/S2BgNOFUjHw1/FHocl7v0fz54627 TkNiVhIR3wh1I5Z4y3l1UwPdla0614aQQeMyMRLd6OJPl6ci4mn3jXo9 9wb/MH6ozCo0K6b2spI2n4lHfse93jmBOg7KWaL3nZ8cGQhj0sAwYcE/ EiSsHXOwS6q5actoaPYEv5vDxsL+GarwxaHoXUNT6Ddt8bvl8+xwUKbj jNY+IQ==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166944 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022166954 900 1800 6048000 3600
