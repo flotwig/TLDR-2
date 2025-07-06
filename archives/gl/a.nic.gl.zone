@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167139 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. JFGqcJiU//mjZsQAAIk2JgA0+sjfOtEPXSF+51t4wJ/sgOBal5QhcKEX UPQ2/mtjjDxawg1lT6+RPo8b6Rq+W6ut+dk2zEterq07gdJnHEf4QzRt mder1KFD2ficnWVRrc9um6undOuNvqHFoQlRKz6ErMRHyJOyj99Yujfo +Vg/wYKNPDtdrTYZlIjR26TEjALNf+DAKFxinruhVbOnOOvxemSfGRII TVY4Auncebe1dlFQwuG01bhMZw+DYs2xLewXJCbqH3BnbqquSzDOdMX9 7YS73+/9WBAXM/++zAiEL77AeN/9fgIg1Map3rHg/5IiNgOKUONpugS6 tuOhnQ==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167144 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. H9yTMuPOg6o6nM2YISFqx311cWJsNQwhAfeQrJZ94/harzRD33YsuXTW /NcvZ5Vb1p8k3xD87HOHtN895X+wfCnrY0a8AUzlowkVFJxsoOxzifm/ Gz/i2UNDqR8vUeUblYBVKQQUitDznweNXnUe6TQo/KJk6q7ueSVvu6e0 +/3vVn2NDmcpEdojGrmtPXQy7EGyBj5/tD2fuWfUxFHpdloadr2MoDpt gDpSLNvySlZ2+1Y8vWjN6HCYvVf01sTyWlXnzqLn3fWBCronlGwuhfrJ zKR39nnSToLSAtHO5M+bfLatrXUZhucbBN/GSOaHylolbvJOUpcg8Xyr Vt0/Lw==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -2669,8 +2669,6 @@ bettogo.gl.		3600	IN	NS	ns0.rro.de.
 bettogo.gl.		3600	IN	NS	ns1.rro.de.
 bettogoal.gl.		3600	IN	NS	ns0.rro.de.
 bettogoal.gl.		3600	IN	NS	ns1.rro.de.
-beyond.gl.		3600	IN	NS	ns1.digitalocean.com.
-beyond.gl.		3600	IN	NS	ns2.digitalocean.com.
 beyondairbnb.gl.	3600	IN	NS	ns1.markmonitor.com.
 beyondairbnb.gl.	3600	IN	NS	ns3.markmonitor.com.
 beyondbyairbnb.gl.	3600	IN	NS	ns1.markmonitor.com.
@@ -19310,9 +19308,6 @@ thule.gl.		3600	IN	DS	23532 15 4 C2A14734231F6F052DF196D21767CCFA07E564496711EE5
 thule.gl.		3600	IN	RRSIG	DS 8 2 3600 20250813020000 20250525020000 57390 gl. HaHjm8SVzjYyv9D+jTQ4AXI09XZCESCn5AGveZO9LRm+tnkgGuGm0b3m zrznMVkouZ4T8WqcjWdnTDI3hoWpPsCINKLySqU1fjWzilhd93uBF+Tj vYCNE3f3RWd/SwKUlm7n55syor9Gk/MkCZvcVcvLeZ7bpGAizoy7/+Lg oNjAmto0uHFuN0HG6O9csBmBXhkpTQgxUPY7jxVJZ42YZM0JLT22NgeS imsVculekOPhefbT21FmI+wcb8CtxCoxlx7WodnY+Y/pjb9qLW8DqLpo 8o+3FMsaWudjAGNkVHFaJvknHlDwWCgh4ZTsbOQbuVKHShWf4xUsD0u6 S05WJw==
 thunderpick.gl.		3600	IN	NS	bill.ns.cloudflare.com.
 thunderpick.gl.		3600	IN	NS	susan.ns.cloudflare.com.
-thx.gl.			3600	IN	NS	ns1.myplesk.cc.
-thx.gl.			3600	IN	NS	ns2.myplesk.cc.
-thx.gl.			3600	IN	NS	ns3.myplesk.cc.
 thybo.gl.		3600	IN	NS	ns1.simply.com.
 thybo.gl.		3600	IN	NS	ns2.simply.com.
 thybo.gl.		3600	IN	NS	ns3.simply.com.
@@ -23054,4 +23049,4 @@ VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN NSEC3 1 1 0 658A61DC VUQHSFBDKR2VUS
 VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. lB5c/I0tNAsaJ7UCvKCKGMjvpZtI1zBasrg1lZVxJf7QjeKyWpVhY/lw Fc48glolRmdd/T+ow2cPdpbwe8TrXHeCyvUZ2SyC7hE35NE404ZensIc ODBH3vz9zHMUUw94Z3gp3sVXG/NMH5l5TvsHXjdn4mgqDAa1tmuJ35qA qnLxgre6d8tNFaRx6I+N2oTWmmhXsr3AEC6xThZfpjixf6tfgVsd7XHE lTVHIgPcS5gg22BH7efKSzFdDuE1SWSeZ+E1RFwI4sV5joq+ksfuERi1 r/yVsnYM54dpx6HNFQaCW5SGLQBjTp4huPg/PHvcvzzfzu3ELm7aUT3W RaaDfg==
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN NSEC3 1 1 0 658A61DC 005143N77R1LRPFQ9D8APBF4U5LRION1 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. Kp8NqZcD3hD7BIx+Bms2gF12U6ESRmhbwrYbUxm3lD+tmgY8y48RrfFT HApkVzH5QVYNmFdxz99Q2szmzHKymbWvLhJElHyBdX6++pt/ADATcTWM RQcQLbvM3iPBaZwJMt04HeZaJLf/S2BgNOFUjHw1/FHocl7v0fz54627 TkNiVhIR3wh1I5Z4y3l1UwPdla0614aQQeMyMRLd6OJPl6ci4mn3jXo9 9wb/MH6ozCo0K6b2spI2n4lHfse93jmBOg7KWaL3nZ8cGQhj0sAwYcE/ EiSsHXOwS6q5actoaPYEv5vDxsL+GarwxaHoXUNT6Ddt8bvl8+xwUKbj jNY+IQ==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167139 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167144 900 1800 6048000 3600
