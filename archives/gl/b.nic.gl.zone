@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167168 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. bdgi2RvcjPYtrrh64tYflunuD9o/Iz7w7mC0xjB8y5b1WG/+WnzALTZR 3XrzMWTzxwoYKwLJQJPLF6/YMjf/zDTLNqE12Z3mYvJRgWM120uQUlRh u5MdqwlnmyQbuD7q10fbf3Oz8yyOV/3thRUZekL7UNxqI0Ft6oxHLMcS vzxopCqSJJV3HD24LeFfW2etxRS8YmWQNac3+YQMlCDtmckw6Gy8eej7 iLjZ8U/Ju87SAU7RYDeiV2K1mG4xO1NoPnzseT7WOSkh6qOXoicoUxYR aTNRCLc5t1KtfGykBYvoyLxcWvuQ17BiRZNX+wPdibyWAKEukB8FUOtR a9Rw6Q==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167173 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. XWJdD4fYeqIjy6AZC0jYbAeRrhwdmgGG9/5zVJUM63I1s2vHtq1v386B GYtRXv6ni2BLEiDWRwWZHLdAKvjKWl7m1ruDK+Om8iVQbzzHSPqRlE2z EyHuUkvGIMXyuUfd9yaiTAd/97LiL9nxBb0TsJlEbDkeOgLG0R7ZXDPA smYX2jl/3s2DZgIqu/MQxpJvwbadIMeDqLfMg90SI47nt5sJJ5GMTJkW LT03PSzJUnQKPq/McVOVRndVW2iHpL6UxAJLp7RoMxBrKBmSpRKFtYUZ CxBeVtSWuKN33hEneI4r5Uoud9hmKobLWD/ofHMR3gaG8O7UgYdtqknK v7eKgQ==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -2465,9 +2465,9 @@ bbp.gl.			3600	IN	DS	11855 13 4 E69027EF33B21E316544B0B9EE860F64819AE31B7CA4D006
 bbp.gl.			3600	IN	RRSIG	DS 8 2 3600 20250813020000 20250525020000 57390 gl. IZkgncjRg16UgxZisIADdvCgiStj1ItnQWXiLe8XIvBkEsKCjVArNHP7 GkEftAy7c/Kde9EfswLDZdQVT2GPvO70v+AgBvjTs91tBYVr4S6K3j0q 4WjEr2+8f1PRVyl/I+soRLpQ+Bf7EW2qZ6vGt3ihmqq2UStxH0ERWw7V DAh/9B7CdR857/2bbMWhjWRi+eRt176QORLtCA9Z0PKIP9MTfJVwZRQY TGdec60+bCdZsNGyQPCexikWMK79JWN9R+bbRIy09ebgZ7oMQgWgRO45 JnYbhIdbYPWSeY2dkPed9lVQzneyTPnYFB13mvlFZurZflAKeZzRE5sH Y/xmRA==
 bc.gl.			3600	IN	NS	ns.bccard.co.kr.
 bc.gl.			3600	IN	NS	ns2.bccard.co.kr.
-bcclub.gl.		3600	IN	NS	ns1200.ispapi.net.
-bcclub.gl.		3600	IN	NS	ns2189.ispapi.net.
-bcclub.gl.		3600	IN	NS	ns3219.ispapi.net.
+bcclub.gl.		3600	IN	NS	ns1.ndsplitter.com.
+bcclub.gl.		3600	IN	NS	ns2.ndsplitter.com.
+bcclub.gl.		3600	IN	NS	ns3.ndsplitter.com.
 bcllub.gl.		3600	IN	NS	ns3.my-ndns.com.
 bcllub.gl.		3600	IN	NS	ns4.my-ndns.com.
 bclub.gl.		3600	IN	NS	ns1.fx-dns.net.
@@ -12732,8 +12732,6 @@ mouser.gl.		3600	IN	NS	ns6.markmonitor.com.
 mouser.gl.		3600	IN	NS	ns7.markmonitor.com.
 move.gl.		3600	IN	NS	luke.ns.cloudflare.com.
 move.gl.		3600	IN	NS	karsyn.ns.cloudflare.com.
-moviemad.gl.		3600	IN	NS	guy.ns.cloudflare.com.
-moviemad.gl.		3600	IN	NS	wanda.ns.cloudflare.com.
 movierulz.gl.		3600	IN	NS	athena.ns.cloudflare.com.
 movierulz.gl.		3600	IN	NS	mustafa.ns.cloudflare.com.
 movies4u.gl.		3600	IN	NS	skip.ns.cloudflare.com.
@@ -23049,4 +23047,4 @@ VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000
 VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN NSEC3 1 1 0 658A61DC VUQHSFBDKR2VUS8IG9DQGGNO573521C7 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN NSEC3 1 1 0 658A61DC 005143N77R1LRPFQ9D8APBF4U5LRION1 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. Kp8NqZcD3hD7BIx+Bms2gF12U6ESRmhbwrYbUxm3lD+tmgY8y48RrfFT HApkVzH5QVYNmFdxz99Q2szmzHKymbWvLhJElHyBdX6++pt/ADATcTWM RQcQLbvM3iPBaZwJMt04HeZaJLf/S2BgNOFUjHw1/FHocl7v0fz54627 TkNiVhIR3wh1I5Z4y3l1UwPdla0614aQQeMyMRLd6OJPl6ci4mn3jXo9 9wb/MH6ozCo0K6b2spI2n4lHfse93jmBOg7KWaL3nZ8cGQhj0sAwYcE/ EiSsHXOwS6q5actoaPYEv5vDxsL+GarwxaHoXUNT6Ddt8bvl8+xwUKbj jNY+IQ==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167168 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167173 900 1800 6048000 3600
