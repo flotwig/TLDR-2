@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167217 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. O16XuA3/N+bH1tQzivd8bZdVbkCn+Y5WpfZeLtp5WsSFLDdfjRe5dBOL pLQbapB5Olf06/OsuuahUW/J1tjEKyyADKhtHY3IymjcvF4jlRBEX1YZ hjOGnuRl/ou8ovo6Wo0HuEU3nHkVJFbh61Rf8gtJkbch0UiRPvm/vS0u /Ywdu5zhe7aiNEIVKwBtQ7IoRlndLeSsB9pwP5xRh79QbJYW/HjhS+Lk 0k20n/CTLC0msW3qAyV/S2FoH53pMgEygGcnOj2dSC3QJjBNPwObm2me 8zVb/Rl2wu0Aa3fzTBuR8FolQ7auI8BQjG2/bw3rmIeRkIY9q6NLcUV0 235oww==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167227 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. ZhkPFy1dTTYo9Ng8vFzb7OE5bJlZA4mtlZwbUmkgc5nyIj2tP5uI46Ab 5GHkPlN3soPv1E41aiODZReuAuiClhcgQxXMgXQbvo7VFGh8bH9HaDWw ntpE9ufQlRCom7+9c1gz89hq4k+RPxC43CjV0xJNVzf12RMv7FOxG4Sd 42f/thJGtp4NovNGLdoOc4qJNuzR/RTHtGnnEjz6ZEl5xgthw/RrbGOU yv8vi7U+N3J3AxF+Qug4uy8Nmre0FpXETG9Xt7wdaBlUqoKkA/07EHmS OlNSExbKypBviUncn9k5je8FeAQdNDO1kLUcj7bKNaFft07I8mFB6BrX z5cNtw==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -8693,6 +8693,9 @@ iluaqut.gl.		3600	IN	NS	c.hosting.gl.
 iluaqut.gl.		3600	IN	NS	d.hosting.gl.
 ilubib.gl.		3600	IN	NS	ns01.one.com.
 ilubib.gl.		3600	IN	NS	ns02.one.com.
+ilulissat.gl.		3600	IN	NS	ns1.netim.net.
+ilulissat.gl.		3600	IN	NS	ns2.netim.net.
+ilulissat.gl.		3600	IN	NS	ns3.netim.net.
 ilulissatdigital.gl.	3600	IN	NS	ns1.modulo.gl.
 ilulissatdigital.gl.	3600	IN	NS	ns2.modulo.gl.
 ilulissatdigital.gl.	3600	IN	NS	ns3.modulo.gl.
@@ -12658,9 +12661,10 @@ monster.gl.		3600	IN	NS	ns1.tmpw.net.
 monster.gl.		3600	IN	NS	ns2.tmpw.net.
 montenegro.gl.		3600	IN	RRSIG	DS 8 2 3600 20250813020000 20250525020000 57390 gl. a7yAT3UTOyAT3ygN5A2q8RjXzimmNpYiH9JYP6QoCI2p7VDr2yrT2zas yYar0pWhKyS3tVcaxV0ZtwU7O4cI9LwG2IQEJqaIumiJbsyupY64qNbv BZSqsdSCdd0Q2US9L2Kc56i240btu1bzbxKgFeUWEDKRIywlqwOhYCUE JS/NKJoEurTHqpxRwy9Yr60FqqLtEVfR9AupC4iLIhF9gsB2nBnSv4v4 r8Zgj3W9OFwEybsyX4JrHdY35Fd8Wx4AjfOn2yTXAe2APEGZdLys2EH7 PaDycX4Zz8XMeZn4hBIlVDEbLf+Ojozd6mlaEX1qmTqiLq3+95wGB1wi BiFJag==
 montenegro.gl.		3600	IN	DS	36323 13 2 41072CC315DF00B071D8338758E8A869C1FE6717C1965B007EA1D7EB B4BCD5F9
-montenegro.gl.		3600	IN	NS	ns1177.hexonet.net.
-montenegro.gl.		3600	IN	NS	ns2211.hexonet.net.
-montenegro.gl.		3600	IN	NS	ns3163.hexonet.net.
+montenegro.gl.		3600	IN	NS	ns1.monikerdns.net.
+montenegro.gl.		3600	IN	NS	ns2.monikerdns.net.
+montenegro.gl.		3600	IN	NS	ns3.monikerdns.net.
+montenegro.gl.		3600	IN	NS	ns4.monikerdns.net.
 moo.gl.			3600	IN	NS	root-dns.netcup.net.
 moo.gl.			3600	IN	NS	third-dns.netcup.net.
 moo.gl.			3600	IN	NS	second-dns.netcup.net.
@@ -23045,4 +23049,4 @@ VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000
 VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN NSEC3 1 1 0 658A61DC VUQHSFBDKR2VUS8IG9DQGGNO573521C7 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN NSEC3 1 1 0 658A61DC 005143N77R1LRPFQ9D8APBF4U5LRION1 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. Kp8NqZcD3hD7BIx+Bms2gF12U6ESRmhbwrYbUxm3lD+tmgY8y48RrfFT HApkVzH5QVYNmFdxz99Q2szmzHKymbWvLhJElHyBdX6++pt/ADATcTWM RQcQLbvM3iPBaZwJMt04HeZaJLf/S2BgNOFUjHw1/FHocl7v0fz54627 TkNiVhIR3wh1I5Z4y3l1UwPdla0614aQQeMyMRLd6OJPl6ci4mn3jXo9 9wb/MH6ozCo0K6b2spI2n4lHfse93jmBOg7KWaL3nZ8cGQhj0sAwYcE/ EiSsHXOwS6q5actoaPYEv5vDxsL+GarwxaHoXUNT6Ddt8bvl8+xwUKbj jNY+IQ==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167217 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167227 900 1800 6048000 3600
