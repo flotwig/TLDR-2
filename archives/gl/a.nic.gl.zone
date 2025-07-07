@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167193 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. TyTbNPW84QHJDcE60HhQkXZ6/SKoZGIuRzFWiRVLFADb2lE0Eoc5iEfK h5/4v1F037WA2fzHe+dFh+t8O3CltoZ6qKkLnG1Cr32wJy2rNunZdISZ UzZHjtDl80NnbOtWUXE+kPeRc10A758MRUFOd34lpBEJcuQOJNfCzSVz Wkd2L9XmO/UtkS3EkmnwLK0RFP6n85bXF/i5CXfI5GxrjnGTneoCnDjA 08pZPWtVfeH+Xyy+LkOpvb+838+rAC+3Az83jVoe8Zy2TJcIRYX1edpf QePZtXbaZYDvZrn57VyJr3iU8TTAtRDIRJRU2fu7L3ANul8kB7Vvw6kE zlOceQ==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167199 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. ftfKBfiIf3qsHT//LcqEAO8OBQbh8qWeo3RweYobc7Rcc17cj6RO+whz ymNEoQ7lCjSK1GfnUt5qCrphzRfIT3iX7BUQ8z38bZjo4tLEVSONXvVo otZacrV5iGX30EiSQi1A4SZ4jV0HYX+93XoKWreCGdmT0i/vWrnyaeuQ mUhGrn64IUdo3EoJt28PwiE4C1aMQhtErY0D2JX7iByxzFe+9RHYm099 hB7SIDkBmgkhPkHslL+ubeXKvRMwL5kdWljae4EyhU1+EQIsZ71ZIT3a Rhs9cT/JK+8Es/mw5um2pwpJmuv9aYQUYlzNL/s5tol35AXv+Ip95NcF hS5VDw==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -5820,6 +5820,9 @@ faia.gl.		3600	IN	NS	ns.dinahosting.com.
 faia.gl.		3600	IN	NS	ns2.dinahosting.com.
 faia.gl.		3600	IN	NS	ns3.dinahosting.com.
 faia.gl.		3600	IN	NS	ns4.dinahosting.com.
+fair.gl.		3600	IN	NS	ns01.trademarkarea.com.
+fair.gl.		3600	IN	NS	ns02.trademarkarea.com.
+fair.gl.		3600	IN	NS	ns03.trademarkarea.com.
 fait.gl.		3600	IN	NS	hal.ns.cloudflare.com.
 fait.gl.		3600	IN	NS	donna.ns.cloudflare.com.
 fakoeleteknik.gl.	3600	IN	NS	a.hosting.gl.
@@ -7288,8 +7291,6 @@ greenlandking.gl.	3600	IN	NS	a.hosting.gl.
 greenlandking.gl.	3600	IN	NS	b.hosting.gl.
 greenlandking.gl.	3600	IN	NS	c.hosting.gl.
 greenlandking.gl.	3600	IN	NS	d.hosting.gl.
-greenlandminerals.gl.	3600	IN	NS	teagan.ns.cloudflare.com.
-greenlandminerals.gl.	3600	IN	NS	cameron.ns.cloudflare.com.
 greenlandmining.gl.	3600	IN	NS	ns1.simply.com.
 greenlandmining.gl.	3600	IN	NS	ns2.simply.com.
 greenlandmining.gl.	3600	IN	NS	ns3.simply.com.
@@ -16083,6 +16084,8 @@ qaarpiaq.gl.		3600	IN	NS	ns1.omninet.dk.
 qaarpiaq.gl.		3600	IN	NS	ns2.omninet.dk.
 qaarpiaq.gl.		3600	IN	NS	ns3.omninet.dk.
 qaarpiaq.gl.		3600	IN	NS	ns4.omninet.dk.
+qaasuitsup.gl.		3600	IN	NS	ns1.catched.com.
+qaasuitsup.gl.		3600	IN	NS	ns2.catched.com.
 qajaq.gl.		3600	IN	NS	ns1.bdm.microsoftonline.com.
 qajaq.gl.		3600	IN	NS	ns2.bdm.microsoftonline.com.
 qajaq.gl.		3600	IN	NS	ns3.bdm.microsoftonline.com.
@@ -21307,6 +21310,8 @@ xyz.gl.			3600	IN	NS	ns3.domaindiscount24.net.
 ya.gl.			3600	IN	NS	helium.ns.hetzner.de.
 ya.gl.			3600	IN	NS	oxygen.ns.hetzner.com.
 ya.gl.			3600	IN	NS	hydrogen.ns.hetzner.com.
+yag.gl.			3600	IN	NS	pat.ns.cloudflare.com.
+yag.gl.			3600	IN	NS	doug.ns.cloudflare.com.
 yahoo.gl.		3600	IN	NS	ns1.yahoo.com.
 yahoo.gl.		3600	IN	NS	ns5.yahoo.com.
 yamaha.gl.		3600	IN	NS	ns1.modulo.gl.
@@ -23045,4 +23050,4 @@ VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN NSEC3 1 1 0 658A61DC VUQHSFBDKR2VUS
 VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. lB5c/I0tNAsaJ7UCvKCKGMjvpZtI1zBasrg1lZVxJf7QjeKyWpVhY/lw Fc48glolRmdd/T+ow2cPdpbwe8TrXHeCyvUZ2SyC7hE35NE404ZensIc ODBH3vz9zHMUUw94Z3gp3sVXG/NMH5l5TvsHXjdn4mgqDAa1tmuJ35qA qnLxgre6d8tNFaRx6I+N2oTWmmhXsr3AEC6xThZfpjixf6tfgVsd7XHE lTVHIgPcS5gg22BH7efKSzFdDuE1SWSeZ+E1RFwI4sV5joq+ksfuERi1 r/yVsnYM54dpx6HNFQaCW5SGLQBjTp4huPg/PHvcvzzfzu3ELm7aUT3W RaaDfg==
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN NSEC3 1 1 0 658A61DC 005143N77R1LRPFQ9D8APBF4U5LRION1 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. Kp8NqZcD3hD7BIx+Bms2gF12U6ESRmhbwrYbUxm3lD+tmgY8y48RrfFT HApkVzH5QVYNmFdxz99Q2szmzHKymbWvLhJElHyBdX6++pt/ADATcTWM RQcQLbvM3iPBaZwJMt04HeZaJLf/S2BgNOFUjHw1/FHocl7v0fz54627 TkNiVhIR3wh1I5Z4y3l1UwPdla0614aQQeMyMRLd6OJPl6ci4mn3jXo9 9wb/MH6ozCo0K6b2spI2n4lHfse93jmBOg7KWaL3nZ8cGQhj0sAwYcE/ EiSsHXOwS6q5actoaPYEv5vDxsL+GarwxaHoXUNT6Ddt8bvl8+xwUKbj jNY+IQ==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167193 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167199 900 1800 6048000 3600
