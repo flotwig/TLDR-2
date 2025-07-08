@@ -3,7 +3,7 @@
 ;; Connection to 41.221.99.135#53(41.221.99.135) for mw. failed: timed out.
 ;; no servers could be reached
 ;; Connection to 41.221.99.135#53(41.221.99.135) for mw. failed: timed out.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1751911501 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1751933101 1800 600 604800 1800
 mw.			18000	IN	NS	mw.cctld.authdns.ripe.net.
 mw.			18000	IN	NS	ns4.apnic.net.
 mw.			18000	IN	NS	rip.psg.com.
@@ -1251,6 +1251,8 @@ cowi.mw.		18000	IN	NS	ns3.eurodns.com.
 cowi.mw.		18000	IN	NS	ns4.eurodns.com.
 cpl.mw.			18000	IN	NS	dns1.supremepanel.com.
 cpl.mw.			18000	IN	NS	dns2.supremepanel.com.
+cpp.mw.			18000	IN	NS	ns1.yourdomain.co.za.
+cpp.mw.			18000	IN	NS	ns2.yourdomain.co.za.
 cprds.mw.		18000	IN	NS	n8662.hostgator.com.
 cprds.mw.		18000	IN	NS	ns8661.hostgator.com.
 cra.mw.			18000	IN	NS	proxy2.africa-online.net.
@@ -3547,6 +3549,8 @@ nbsib.mw.		18000	IN	NS	maxdns.globemw.net.
 nbsib.mw.		18000	IN	NS	araliya.globemw.net.
 nbsihub.mw.		18000	IN	NS	maxdns.globemw.net.
 nbsihub.mw.		18000	IN	NS	araliya.globemw.net.
+ncic.mw.		18000	IN	NS	proxy2.africa-online.net.
+ncic.mw.		18000	IN	NS	proxy3.africa-online.net.
 ncst.mw.		18000	IN	NS	domwe.sdn.mw.
 ncst.mw.		18000	IN	NS	nyala.sdnp.org.mw.
 ncst.mw.		18000	IN	NS	maxdns.globemw.net.
@@ -5380,4 +5384,4 @@ zurich.mw.		18000	IN	NS	ns1.a1.impervasecuredns.net.
 zurich.mw.		18000	IN	NS	ns1.a2.impervasecuredns.net.
 zutari.mw.		18000	IN	NS	dns1.cscdns.net.
 zutari.mw.		18000	IN	NS	dns2.cscdns.net.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1751911501 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1751933101 1800 600 604800 1800
