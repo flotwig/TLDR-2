@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167365 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. ZyFGGT0X6JmwnSsrEaKfZeoGrKxzR/NEMENlVdxbvmxFYXwyypAxiLl3 0wxrG1FJX7UN91UM/ojYjKXCwDLlB6tWsPyv1Mhy0KGkCmYwCBtoJ/5F vq5vyhcD4VboN1oxFI8FJ9/nh/Py1mtCXqwRd2IQhqk8exPE1vxPhJyg qhenFGGh+8hdyzC4Xl9bSpEwfddTIV0GehsmTe5i/Wb+c8Rx1VudYzfP TihdkRQ4Js1LzSbHEYw+2gSUFO6KdN1Q40dwY/Ax8yiL7CIWmZw+v3mZ JTVr99hfVuDP+kv5BRXFloOT5LnHnxH18F1TfNa6QvtSBmgVWJo1+6Y4 ACfszQ==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167373 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. LyaLCvn692z0UHyqUE0dochcMjFAAEBZlpgTGMxQCVrnxAG3TogJnOhT PuicSjdQSeiIqVuJdsrPv+G4CcDCXsNRz34zSMxyOfCRLLnvuleBLwgI IkOPX3FduhhtqFcDrvu0a/dYRG5/WS/dNlx3pJy5nR/LQ6BBmJvREIJS ux70H7+KEpqqV3UbDYrugmC0QTbl3TRIlQybI9/r080Jdqdksk1qK4GD aztEBlDoYNoBXNsvL908igbi1OdyJ41s3Yeva9aweZ8dDYiqziz5SP5O w5anYXY4HUrmYFnLlSOkDvcbieKoGiz0pkyPUpscKsuV3Nb8dGBvipWD UH35SQ==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -2266,8 +2266,6 @@ baadcenter.gl.		3600	IN	NS	a.hosting.gl.
 baadcenter.gl.		3600	IN	NS	b.hosting.gl.
 baadcenter.gl.		3600	IN	NS	c.hosting.gl.
 baadcenter.gl.		3600	IN	NS	d.hosting.gl.
-baaja.gl.		3600	IN	NS	ns1.curanet.dk.
-baaja.gl.		3600	IN	NS	ns2.curanet.dk.
 baby.gl.		3600	IN	NS	ns3.epik.com.
 baby.gl.		3600	IN	NS	ns4.epik.com.
 baby.gl.		3600	IN	DS	6045 13 2 C465405D6554DC7E758DDC688E840766AAA96798869768E456D4EAEC 39DBBA5B
@@ -13101,10 +13099,6 @@ nalunaarutit.gl.	3600	IN	NS	ns2.modulo.gl.
 nalunaarutit.gl.	3600	IN	NS	ns3.modulo.gl.
 nalunaq.gl.		3600	IN	NS	ns1.101domain.com.
 nalunaq.gl.		3600	IN	NS	ns2.101domain.com.
-nalunng.gl.		3600	IN	NS	a.hosting.gl.
-nalunng.gl.		3600	IN	NS	b.hosting.gl.
-nalunng.gl.		3600	IN	NS	c.hosting.gl.
-nalunng.gl.		3600	IN	NS	d.hosting.gl.
 name.gl.		3600	IN	NS	mia.ns.cloudflare.com.
 nameyourownprice.gl.	3600	IN	NS	ns1.markmonitor.com.
 nameyourownprice.gl.	3600	IN	NS	ns2.markmonitor.com.
@@ -14741,8 +14735,6 @@ omgomgshop4.gl.		3600	IN	NS	eoin.ns.cloudflare.com.
 omgomgshop4.gl.		3600	IN	NS	diana.ns.cloudflare.com.
 omgomgzzz.gl.		3600	IN	NS	eleanor.ns.cloudflare.com.
 omgomgzzz.gl.		3600	IN	NS	santino.ns.cloudflare.com.
-omgpwa.gl.		3600	IN	NS	eu.atakdomain.com.
-omgpwa.gl.		3600	IN	NS	tr.atakdomain.com.
 omgshop.gl.		3600	IN	NS	surina.ns.cloudflare.com.
 omgshop.gl.		3600	IN	NS	mustafa.ns.cloudflare.com.
 omgshop4.gl.		3600	IN	NS	eoin.ns.cloudflare.com.
@@ -23123,4 +23115,4 @@ VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN NSEC3 1 1 0 658A61DC VUQHSFBDKR2VUS
 VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. lB5c/I0tNAsaJ7UCvKCKGMjvpZtI1zBasrg1lZVxJf7QjeKyWpVhY/lw Fc48glolRmdd/T+ow2cPdpbwe8TrXHeCyvUZ2SyC7hE35NE404ZensIc ODBH3vz9zHMUUw94Z3gp3sVXG/NMH5l5TvsHXjdn4mgqDAa1tmuJ35qA qnLxgre6d8tNFaRx6I+N2oTWmmhXsr3AEC6xThZfpjixf6tfgVsd7XHE lTVHIgPcS5gg22BH7efKSzFdDuE1SWSeZ+E1RFwI4sV5joq+ksfuERi1 r/yVsnYM54dpx6HNFQaCW5SGLQBjTp4huPg/PHvcvzzfzu3ELm7aUT3W RaaDfg==
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN NSEC3 1 1 0 658A61DC 005143N77R1LRPFQ9D8APBF4U5LRION1 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. Kp8NqZcD3hD7BIx+Bms2gF12U6ESRmhbwrYbUxm3lD+tmgY8y48RrfFT HApkVzH5QVYNmFdxz99Q2szmzHKymbWvLhJElHyBdX6++pt/ADATcTWM RQcQLbvM3iPBaZwJMt04HeZaJLf/S2BgNOFUjHw1/FHocl7v0fz54627 TkNiVhIR3wh1I5Z4y3l1UwPdla0614aQQeMyMRLd6OJPl6ci4mn3jXo9 9wb/MH6ozCo0K6b2spI2n4lHfse93jmBOg7KWaL3nZ8cGQhj0sAwYcE/ EiSsHXOwS6q5actoaPYEv5vDxsL+GarwxaHoXUNT6Ddt8bvl8+xwUKbj jNY+IQ==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167365 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167373 900 1800 6048000 3600
