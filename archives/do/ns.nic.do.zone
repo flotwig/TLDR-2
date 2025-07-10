@@ -1,5 +1,5 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071021 3600 3600 604800 3600
-do.			3600	IN	TXT	"Generation Time: 1752181211"
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071023 3600 3600 604800 3600
+do.			3600	IN	TXT	"Generation Time: 1752188413"
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -483,18 +483,14 @@ abb.do.			3600	IN	NS	a13-65.akam.net.
 abb.do.			3600	IN	NS	a10-66.akam.net.
 abb.do.			3600	IN	NS	a1-226.akam.net.
 abb.do.			3600	IN	NS	a7-64.akam.net.
-abbvie.do.		3600	IN	NS	ns41.constellix.net.
-abbvie.do.		3600	IN	NS	ns61.constellix.net.
-abbvie.do.		3600	IN	NS	ns31.constellix.com.
-abbvie.do.		3600	IN	NS	ns11.constellix.com.
-abbvie.do.		3600	IN	NS	ns21.constellix.com.
-abbvie.do.		3600	IN	NS	ns51.constellix.net.
-abbviepharmaceuticals.do. 3600	IN	NS	ns41.constellix.net.
-abbviepharmaceuticals.do. 3600	IN	NS	ns61.constellix.net.
-abbviepharmaceuticals.do. 3600	IN	NS	ns31.constellix.com.
-abbviepharmaceuticals.do. 3600	IN	NS	ns11.constellix.com.
-abbviepharmaceuticals.do. 3600	IN	NS	ns21.constellix.com.
-abbviepharmaceuticals.do. 3600	IN	NS	ns51.constellix.net.
+abbvie.do.		3600	IN	NS	ns1.abbviedns.com.
+abbvie.do.		3600	IN	NS	ns2.abbviedns.com.
+abbvie.do.		3600	IN	NS	ns3.abbviedns.com.
+abbvie.do.		3600	IN	NS	ns4.abbviedns.com.
+abbviepharmaceuticals.do. 3600	IN	NS	ns1.abbviedns.com.
+abbviepharmaceuticals.do. 3600	IN	NS	ns2.abbviedns.com.
+abbviepharmaceuticals.do. 3600	IN	NS	ns3.abbviedns.com.
+abbviepharmaceuticals.do. 3600	IN	NS	ns4.abbviedns.com.
 abc.do.			3600	IN	NS	candy.ns.cloudflare.com.
 abc.do.			3600	IN	NS	adam.ns.cloudflare.com.
 abcdenoticias.do.	3600	IN	NS	dns4.midominio.do.
@@ -9751,6 +9747,10 @@ cmo.do.			3600	IN	NS	gina.ns.cloudflare.com.
 cmo.do.			3600	IN	NS	ernest.ns.cloudflare.com.
 cmra.do.		3600	IN	NS	n2.intodomain.net.
 cmra.do.		3600	IN	NS	n1.intodomain.net.
+cna.do.			3600	IN	NS	dns1.midominio.do.
+cna.do.			3600	IN	NS	dns2.midominio.do.
+cna.do.			3600	IN	NS	dns3.midominio.do.
+cna.do.			3600	IN	NS	dns4.midominio.do.
 cnn.do.			3600	IN	NS	ns-427.awsdns-53.com.
 cnn.do.			3600	IN	NS	ns-1194.awsdns-21.org.
 cnn.do.			3600	IN	NS	ns-1644.awsdns-13.co.uk.
@@ -9778,10 +9778,8 @@ cobex.do.		3600	IN	NS	dns4.midominio.do.
 cobex.do.		3600	IN	NS	dns3.midominio.do.
 cobex.do.		3600	IN	NS	dns2.midominio.do.
 cobex.do.		3600	IN	NS	dns1.midominio.do.
-cobija.do.		3600	IN	NS	dns1.midominio.do.
-cobija.do.		3600	IN	NS	dns2.midominio.do.
-cobija.do.		3600	IN	NS	dns3.midominio.do.
-cobija.do.		3600	IN	NS	dns4.midominio.do.
+cobija.do.		3600	IN	NS	ian.ns.cloudflare.com.
+cobija.do.		3600	IN	NS	barbara.ns.cloudflare.com.
 cobox.do.		3600	IN	NS	dns4.midominio.do.
 cobox.do.		3600	IN	NS	dns3.midominio.do.
 cobox.do.		3600	IN	NS	dns2.midominio.do.
@@ -47680,4 +47678,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071021 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071023 3600 3600 604800 3600
