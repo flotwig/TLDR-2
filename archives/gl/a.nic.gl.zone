@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167458 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. Tc9nJf2DlIdDuatIY9I1ijvsdpOe06FAH6cCLQlgWg2oTkb0UyzFvWX8 5jwKfl0ljyKwACWASSFMsyBs6T9oIBw3efJ7PLjXR4ctysRwdIvyuB8+ Qt50CU2QF7VsRrhtrYW4vxpSNDNeP/wvZ+EgffqIYYZcDfW0QZcfuBlK NNK0AFsGaXVE9AIsv3q48zkVMZBpSemkZ+bi4QqnHQRQWUAr77pmr72+ t15JdtW7gdTESqrmQFO3H6nn+/ESWCQeFK453wZyMfZqIZu3DDQ/blSl /2g/ucCuuvzjswcrQyiC3xyN7L7mmKgdgLKYp5ujVz9que6MJ/BrICib 16yl7w==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167464 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. JhUMbTF9gJ80aXQzde6mLXnj7dFNEr2qNXSDsON1byM8+rBTo2ygRDBO d6YGLLaz+pEtzjXqs6a5SFA0+KAc9osn+nujMC6O//ot9ui/cccUq4hR /iakQlAq+tlQ6KWzDlvC9S06EAsHZtR1855LOkwpMTqdSSU7IILIpxiq kgJ6a+5QxOoIvsfZGiYT/SuKU+wp6nDNv6dmhQKIadS59vOw4M1yA9a4 jkewDs6PcKPCpOZllYladYu9nIV8QQpAGtyupI0jCvv62pIVcp9uvhJb v6FAPVM1RHGsUAoWcVMVKwy4t7ULPaUW4BQgKX/uk93ludbUN60gLihu xBFLUg==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -4745,9 +4745,10 @@ dni.gl.			3600	IN	NS	ns1-02.azure-dns.com.
 dni.gl.			3600	IN	NS	ns2-02.azure-dns.net.
 dni.gl.			3600	IN	NS	ns3-02.azure-dns.org.
 dni.gl.			3600	IN	NS	ns4-02.azure-dns.info.
-dns.gl.			3600	IN	NS	ns1.ispapi.net.
-dns.gl.			3600	IN	NS	ns2.ispapi.net.
-dns.gl.			3600	IN	NS	ns3.ispapi.net.
+dns.gl.			3600	IN	NS	ns1.monikerdns.net.
+dns.gl.			3600	IN	NS	ns2.monikerdns.net.
+dns.gl.			3600	IN	NS	ns3.monikerdns.net.
+dns.gl.			3600	IN	NS	ns4.monikerdns.net.
 dnv.gl.			3600	IN	NS	zita.ns.cloudflare.com.
 dnv.gl.			3600	IN	NS	weston.ns.cloudflare.com.
 dnvgl.gl.		3600	IN	NS	zita.ns.cloudflare.com.
@@ -6232,8 +6233,8 @@ fm.gl.			3600	IN	NS	ns04.firemodules.net.
 fms.gl.			3600	IN	NS	ns1.netim.net.
 fms.gl.			3600	IN	NS	ns2.netim.net.
 fms.gl.			3600	IN	NS	ns3.netim.net.
-fn.gl.			3600	IN	NS	ns1.vercel-dns.com.
-fn.gl.			3600	IN	NS	ns2.vercel-dns.com.
+fn.gl.			3600	IN	NS	gwen.ns.cloudflare.com.
+fn.gl.			3600	IN	NS	yevgen.ns.cloudflare.com.
 fo.gl.			3600	IN	NS	ns1.iwantmyname.net.
 fo.gl.			3600	IN	NS	ns2.iwantmyname.net.
 fo.gl.			3600	IN	NS	ns3.iwantmyname.net.
@@ -23020,4 +23021,4 @@ VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN NSEC3 1 1 0 658A61DC VUQHSFBDKR2VUS
 VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. lB5c/I0tNAsaJ7UCvKCKGMjvpZtI1zBasrg1lZVxJf7QjeKyWpVhY/lw Fc48glolRmdd/T+ow2cPdpbwe8TrXHeCyvUZ2SyC7hE35NE404ZensIc ODBH3vz9zHMUUw94Z3gp3sVXG/NMH5l5TvsHXjdn4mgqDAa1tmuJ35qA qnLxgre6d8tNFaRx6I+N2oTWmmhXsr3AEC6xThZfpjixf6tfgVsd7XHE lTVHIgPcS5gg22BH7efKSzFdDuE1SWSeZ+E1RFwI4sV5joq+ksfuERi1 r/yVsnYM54dpx6HNFQaCW5SGLQBjTp4huPg/PHvcvzzfzu3ELm7aUT3W RaaDfg==
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN NSEC3 1 1 0 658A61DC 005143N77R1LRPFQ9D8APBF4U5LRION1 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. Kp8NqZcD3hD7BIx+Bms2gF12U6ESRmhbwrYbUxm3lD+tmgY8y48RrfFT HApkVzH5QVYNmFdxz99Q2szmzHKymbWvLhJElHyBdX6++pt/ADATcTWM RQcQLbvM3iPBaZwJMt04HeZaJLf/S2BgNOFUjHw1/FHocl7v0fz54627 TkNiVhIR3wh1I5Z4y3l1UwPdla0614aQQeMyMRLd6OJPl6ci4mn3jXo9 9wb/MH6ozCo0K6b2spI2n4lHfse93jmBOg7KWaL3nZ8cGQhj0sAwYcE/ EiSsHXOwS6q5actoaPYEv5vDxsL+GarwxaHoXUNT6Ddt8bvl8+xwUKbj jNY+IQ==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167458 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167464 900 1800 6048000 3600
