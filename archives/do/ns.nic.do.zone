@@ -1,5 +1,5 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071205 3600 3600 604800 3600
-do.			3600	IN	TXT	"Generation Time: 1752296415"
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071206 3600 3600 604800 3600
+do.			3600	IN	TXT	"Generation Time: 1752300001"
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -420,6 +420,10 @@ a1.do.			3600	IN	NS	dns4.midominio.do.
 a1.do.			3600	IN	NS	dns3.midominio.do.
 a1.do.			3600	IN	NS	dns2.midominio.do.
 a1.do.			3600	IN	NS	dns1.midominio.do.
+a1group.do.		3600	IN	NS	dns1.midominio.do.
+a1group.do.		3600	IN	NS	dns2.midominio.do.
+a1group.do.		3600	IN	NS	dns3.midominio.do.
+a1group.do.		3600	IN	NS	dns4.midominio.do.
 a2a.do.			3600	IN	NS	ns3.regery.net.
 a2a.do.			3600	IN	NS	ns2.regery.net.
 a2a.do.			3600	IN	NS	ns1.regery.net.
@@ -47707,4 +47711,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071205 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071206 3600 3600 604800 3600
