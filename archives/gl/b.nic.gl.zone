@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167528 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. LkINA6Mojg29ZQOh+3Q80rZjGrv16ndw+ttkv+hmZxRybJJk93fUc3CI XFYQGOgiVwkGHNMzJYxHM0XuX5aHBEZ8eui/p5hhRR/dHVmncsrb0Ymt xLe9dCoAr40mP6MTgdi+hvhravsr+2WaEuL5iWjdNK1NwVP6/QmkoJd+ g+BjExfUHpVR3kgb1xS6FhFIBfV4g2bTryu1jTK6qUQjvq+RQXMrngIy GG5OKrU5kOB9JrWapUpgg13FECQ5QTaLe07hPYzk6Uiu3J/O1qUrbkZc Q0BS6qOwJ8/7kgp8xqSWbCsAfKpvz7RbSm4uvkStnCFnqhyQN2Nr7xVY 4YANRg==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167541 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. iSH1mTht+qdgXg5wpBMogaauNd4cSZs39cYYV3jK/7Id2GAkn51DUSEX aAmrK+ivBgZ+/0u4/FeoyCEi6oAPwC5TQnMlfBAgUIA/0lad0jxFBgY6 SagMQ/rSZ3+Zq2+aADjsoapBuFktEdfrMxiPy13CnZ2B3Pil1uGNDCgg boY+vWaoM4psec/lkbMJdBS7DR8QPmQfGnaCflaD2aJNixlWr/AlP6NI +QLoP9+imgr1jynMnQIoEzOIf9SPLogVUIaFzUs3YgQjwKxAVQAF/YKW CKCFe3cdgpt0qTftoBh2jQsWD666m6xzdsMTe/4FhNpdl7V2T8utBpZt aPbmCg==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -4462,8 +4462,6 @@ decode.gl.		3600	IN	NS	dns1.p01.nsone.net.
 decode.gl.		3600	IN	NS	dns2.p01.nsone.net.
 decode.gl.		3600	IN	NS	dns3.p01.nsone.net.
 decode.gl.		3600	IN	NS	dns4.p01.nsone.net.
-deep.gl.		3600	IN	NS	vin.ns.cloudflare.com.
-deep.gl.		3600	IN	NS	dell.ns.cloudflare.com.
 deepseek.gl.		3600	IN	NS	ns-38-a.gandi.net.
 deepseek.gl.		3600	IN	NS	ns-57-b.gandi.net.
 deepseek.gl.		3600	IN	NS	ns-224-c.gandi.net.
@@ -4860,9 +4858,6 @@ donaldtrump.gl.		3600	IN	DS	10884 15 4 084478877B5A8D3732D31F294E4B4FCFE223E1E97
 donaldtrump.gl.		3600	IN	RRSIG	DS 8 2 3600 20250813020000 20250525020000 57390 gl. XQrit7ud12sA1dXeJxjQll2r0mxp0ftuOyo+unVCoSpayV5h/Xx3aOiF mVNdZI0FoKphYULYsnU7FTpYD5ssnc+fbn8ZLIRpjFM6Ohf0+GgDCNn6 NxE+gIM496nCn5bJ4SCLyQeEogQGjKy82+XUesR7cD7rF8i/XaHHc2B5 EIvD/zuEYaYIfkra+UF03et0TMWzNawrv6irNWF/Cqg4f8jlSYBjagr9 BDgwot5iV910BEPUC/mz1W1HT2Kmjz7JqjWVYq5LXDWiJ2BGHNRNoMeM mRgX89Fu7BKmCTtJznwsYGUgm+R6Qyu5TMSNJaqo7nRtsxdr4nd623Aa OjnpOA==
 dongenergy.gl.		3600	IN	NS	udns1.cscdns.net.
 dongenergy.gl.		3600	IN	NS	udns2.cscdns.uk.
-donnasdyreklinik.gl.	3600	IN	NS	helium.ns.hetzner.de.
-donnasdyreklinik.gl.	3600	IN	NS	oxygen.ns.hetzner.com.
-donnasdyreklinik.gl.	3600	IN	NS	hydrogen.ns.hetzner.com.
 dot.gl.			3600	IN	NS	ns01.one.com.
 dot.gl.			3600	IN	NS	ns02.one.com.
 dotgl.gl.		3600	IN	NS	ns.incogdns.gl.
@@ -23094,4 +23089,4 @@ VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000
 VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN NSEC3 1 1 0 658A61DC VUQHSFBDKR2VUS8IG9DQGGNO573521C7 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN NSEC3 1 1 0 658A61DC 005143N77R1LRPFQ9D8APBF4U5LRION1 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. Kp8NqZcD3hD7BIx+Bms2gF12U6ESRmhbwrYbUxm3lD+tmgY8y48RrfFT HApkVzH5QVYNmFdxz99Q2szmzHKymbWvLhJElHyBdX6++pt/ADATcTWM RQcQLbvM3iPBaZwJMt04HeZaJLf/S2BgNOFUjHw1/FHocl7v0fz54627 TkNiVhIR3wh1I5Z4y3l1UwPdla0614aQQeMyMRLd6OJPl6ci4mn3jXo9 9wb/MH6ozCo0K6b2spI2n4lHfse93jmBOg7KWaL3nZ8cGQhj0sAwYcE/ EiSsHXOwS6q5actoaPYEv5vDxsL+GarwxaHoXUNT6Ddt8bvl8+xwUKbj jNY+IQ==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167528 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167541 900 1800 6048000 3600
