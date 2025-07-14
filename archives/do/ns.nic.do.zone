@@ -1,5 +1,5 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071419 3600 3600 604800 3600
-do.			3600	IN	TXT	"Generation Time: 1752519607"
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071421 3600 3600 604800 3600
+do.			3600	IN	TXT	"Generation Time: 1752526809"
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -1562,6 +1562,10 @@ ahmadia.do.		3600	IN	NS	ns1045.ui-dns.com.
 ahmadia.do.		3600	IN	NS	ns1045.ui-dns.biz.
 ahmadia.do.		3600	IN	NS	ns1045.ui-dns.de.
 ahmadia.do.		3600	IN	NS	ns1045.ui-dns.org.
+ahora.do.		3600	IN	NS	dns1.midominio.do.
+ahora.do.		3600	IN	NS	dns2.midominio.do.
+ahora.do.		3600	IN	NS	dns3.midominio.do.
+ahora.do.		3600	IN	NS	dns4.midominio.do.
 ahorra.do.		3600	IN	NS	rayne.ns.cloudflare.com.
 ahorra.do.		3600	IN	NS	olof.ns.cloudflare.com.
 ahorramasgo.do.		3600	IN	NS	dns4.midominio.do.
@@ -17771,10 +17775,8 @@ fro.do.			3600	IN	NS	ns-1044.awsdns-02.org.
 fro.do.			3600	IN	NS	ns-198.awsdns-24.com.
 fro.do.			3600	IN	NS	ns-2016.awsdns-60.co.uk.
 fro.do.			3600	IN	NS	ns-806.awsdns-36.net.
-fronteranortealdia.do.	3600	IN	NS	dns1.midominio.do.
-fronteranortealdia.do.	3600	IN	NS	dns2.midominio.do.
-fronteranortealdia.do.	3600	IN	NS	dns3.midominio.do.
-fronteranortealdia.do.	3600	IN	NS	dns4.midominio.do.
+fronteranortealdia.do.	3600	IN	NS	ns23.asurahosting.com.
+fronteranortealdia.do.	3600	IN	NS	ns24.asurahosting.com.
 frontier.do.		3600	IN	NS	michael.ns.cloudflare.com.
 frontier.do.		3600	IN	NS	josh.ns.cloudflare.com.
 frost.do.		3600	IN	NS	ns2.justhost.com.
@@ -20715,6 +20717,14 @@ holaautoparts.do.	3600	IN	NS	dns4.midominio.do.
 holaautoparts.do.	3600	IN	NS	dns3.midominio.do.
 holaautoparts.do.	3600	IN	NS	dns2.midominio.do.
 holaautoparts.do.	3600	IN	NS	dns1.midominio.do.
+holacar.do.		3600	IN	NS	dns1.midominio.do.
+holacar.do.		3600	IN	NS	dns2.midominio.do.
+holacar.do.		3600	IN	NS	dns3.midominio.do.
+holacar.do.		3600	IN	NS	dns4.midominio.do.
+holacasa.do.		3600	IN	NS	dns1.midominio.do.
+holacasa.do.		3600	IN	NS	dns2.midominio.do.
+holacasa.do.		3600	IN	NS	dns3.midominio.do.
+holacasa.do.		3600	IN	NS	dns4.midominio.do.
 holaclean.do.		3600	IN	NS	ns200.anycast.me.
 holaclean.do.		3600	IN	NS	dns200.anycast.me.
 holacourier.do.		3600	IN	NS	dns4.midominio.do.
@@ -25582,6 +25592,8 @@ light-tec.do.		3600	IN	NS	dns1.midominio.do.
 light-tec.do.		3600	IN	NS	dns2.midominio.do.
 light-tec.do.		3600	IN	NS	dns3.midominio.do.
 light-tec.do.		3600	IN	NS	dns4.midominio.do.
+lightbox.do.		3600	IN	NS	ns7061.banahosting.com.
+lightbox.do.		3600	IN	NS	ns7062.banahosting.com.
 lightnest.do.		3600	IN	NS	ns2.siteground.net.
 lightnest.do.		3600	IN	NS	ns1.siteground.net.
 lights.do.		3600	IN	NS	dns4.midominio.do.
@@ -31587,6 +31599,14 @@ olab.do.		3600	IN	NS	dns4.midominio.do.
 olab.do.		3600	IN	NS	dns3.midominio.do.
 olab.do.		3600	IN	NS	dns2.midominio.do.
 olab.do.		3600	IN	NS	dns1.midominio.do.
+olacar.do.		3600	IN	NS	dns1.midominio.do.
+olacar.do.		3600	IN	NS	dns2.midominio.do.
+olacar.do.		3600	IN	NS	dns3.midominio.do.
+olacar.do.		3600	IN	NS	dns4.midominio.do.
+olacasa.do.		3600	IN	NS	dns1.midominio.do.
+olacasa.do.		3600	IN	NS	dns2.midominio.do.
+olacasa.do.		3600	IN	NS	dns3.midominio.do.
+olacasa.do.		3600	IN	NS	dns4.midominio.do.
 oladigital.do.		3600	IN	NS	nile.ns.cloudflare.com.
 oladigital.do.		3600	IN	NS	leah.ns.cloudflare.com.
 olae.do.		3600	IN	NS	ns3.netim.net.
@@ -36787,10 +36807,8 @@ reynosorivera.do.	3600	IN	NS	dns4.midominio.do.
 reynosorivera.do.	3600	IN	NS	dns3.midominio.do.
 reynosorivera.do.	3600	IN	NS	dns2.midominio.do.
 reynosorivera.do.	3600	IN	NS	dns1.deltacrm.com.
-rfs.do.			3600	IN	NS	dns4.midominio.do.
-rfs.do.			3600	IN	NS	dns3.midominio.do.
-rfs.do.			3600	IN	NS	dns2.midominio.do.
-rfs.do.			3600	IN	NS	dns1.midominio.do.
+rfs.do.			3600	IN	NS	cleo.ns.cloudflare.com.
+rfs.do.			3600	IN	NS	gwen.ns.cloudflare.com.
 rfy.do.			3600	IN	NS	robin.ns.cloudflare.com.
 rfy.do.			3600	IN	NS	damian.ns.cloudflare.com.
 rg.do.			3600	IN	NS	ns16.dnszi.com.
@@ -39143,6 +39161,8 @@ simon.do.		3600	IN	NS	ns.namespace4you.com.
 simon.do.		3600	IN	NS	ns.namespace4you.de.
 simon.do.		3600	IN	NS	ns12.domaincontrol.com.
 simon.do.		3600	IN	NS	ns11.domaincontrol.com.
+simoneprofessional.do.	3600	IN	NS	ns1.nw1.fcomet.com.
+simoneprofessional.do.	3600	IN	NS	ns2.nw1.fcomet.com.
 simple.do.		3600	IN	NS	elaine.ns.cloudflare.com.
 simple.do.		3600	IN	NS	clark.ns.cloudflare.com.
 simpleadmin.do.		3600	IN	NS	bill.ns.cloudflare.com.
@@ -47666,4 +47686,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071419 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071421 3600 3600 604800 3600
