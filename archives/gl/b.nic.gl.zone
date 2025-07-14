@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167612 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. VwhvJ9QXSh+ZT6czD0mW93esqZ+yeqkVwYnbIKitfMnSM/iJ+rubRPI9 SYub06puNKdE0CRiMS3G6uhOY7q0rxv4Wb36tqNP+rOv2AYfeGqQIJvY 9ncU/rNjFp+3Gk+QgyrHG39pFF/ugKlpU1kSH6Oy7usPSzimRa60ESuH NIGQZLihpj9oM9HLSP5X7uRrPkWQwNCEDxfbwcBX8GgrjyFWgCBWkiST 0E3U86Tmb1Lor10S/WJ0gwF07Qhv4gq8tBIj5f/gIgFfVgT+TKOnEavG bjyFFyQP1VgVKgkZAI126qUYoW5P93ZOmNF5zMR88sC/xi0u4aAjmeSS HbdGHg==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167615 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20250813020000 20250525020000 57390 gl. PbTZh4P/kQ5IcLv8ze7pOlyMK+wpzyyj4a+FOgA9uwXCi9ibdhXoxWT7 gjmaOYbImrhYZQ9eN5NFOAey65rxMWLKDNS+j/JbXIiiOlIxPCzFv133 /a3Crx/rt4qIjJa/P7GGZ8kbCGNKwGS4W3QjVKayu7htWn2LX98MG3w7 SOTSA7ETAqrw2ouxUf+7zJHRRC86AdBUbhCrPTdWUqX1ZVMyGSToZH0j JYllkdYeDzKXFZuLxYdENun8byQhMj8VW+1XVU6AasdmXbd5Is+tveHY RnlRE+D/3j+yy995z4tqwdF+0McyrjK8Z2hBOwKW4RyAYjzcmyu3dRB5 1RdRVg==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -1658,9 +1658,6 @@ arcticproaccounting.gl.	3600	IN	NS	a.hosting.gl.
 arcticproaccounting.gl.	3600	IN	NS	b.hosting.gl.
 arcticproaccounting.gl.	3600	IN	NS	c.hosting.gl.
 arcticproaccounting.gl.	3600	IN	NS	d.hosting.gl.
-arcticrental.gl.	3600	IN	NS	ns1.modulo.gl.
-arcticrental.gl.	3600	IN	NS	ns2.modulo.gl.
-arcticrental.gl.	3600	IN	NS	ns3.modulo.gl.
 arcticrentals.gl.	3600	IN	NS	ns1.simply.com.
 arcticrentals.gl.	3600	IN	NS	ns2.simply.com.
 arcticrentals.gl.	3600	IN	NS	ns3.simply.com.
@@ -3086,9 +3083,6 @@ bookingsuite.gl.	3600	IN	NS	ns-508.awsdns-63.com.
 bookingsuite.gl.	3600	IN	NS	ns-716.awsdns-25.net.
 bookingsuite.gl.	3600	IN	NS	ns-1288.awsdns-33.org.
 bookingsuite.gl.	3600	IN	NS	ns-1959.awsdns-52.co.uk.
-booksandcoffee.gl.	3600	IN	NS	ns1.modulo.gl.
-booksandcoffee.gl.	3600	IN	NS	ns2.modulo.gl.
-booksandcoffee.gl.	3600	IN	NS	ns3.modulo.gl.
 boomerang.gl.		3600	IN	NS	a.hosting.gl.
 boomerang.gl.		3600	IN	NS	b.hosting.gl.
 boomerang.gl.		3600	IN	NS	c.hosting.gl.
@@ -7856,9 +7850,9 @@ heyvet.gl.		3600	IN	NS	emea.excedodns.eu.
 heyvet.gl.		3600	IN	NS	world.excedodns.org.
 heyvet.gl.		3600	IN	NS	global.excedodns.com.
 heyvet.gl.		3600	IN	NS	nordic.excedodns.net.
-hf.gl.			3600	IN	NS	ns1.netim.net.
-hf.gl.			3600	IN	NS	ns2.netim.net.
-hf.gl.			3600	IN	NS	ns3.netim.net.
+hf.gl.			3600	IN	NS	ns1.digitalocean.com.
+hf.gl.			3600	IN	NS	ns2.digitalocean.com.
+hf.gl.			3600	IN	NS	ns3.digitalocean.com.
 hg.gl.			3600	IN	NS	jill.ns.cloudflare.com.
 hg.gl.			3600	IN	NS	tony.ns.cloudflare.com.
 hgkkk.gl.		3600	IN	NS	ns1.aputit.gl.
@@ -9306,6 +9300,8 @@ isfu.gl.		3600	IN	NS	a.hosting.gl.
 isfu.gl.		3600	IN	NS	b.hosting.gl.
 isfu.gl.		3600	IN	NS	c.hosting.gl.
 isfu.gl.		3600	IN	NS	d.hosting.gl.
+isg.gl.			3600	IN	NS	ns1.to1.fcomet.com.
+isg.gl.			3600	IN	NS	ns2.to1.fcomet.com.
 isgreenlandforsale.gl.	3600	IN	NS	ns.scannet2.dk.
 isgreenlandforsale.gl.	3600	IN	NS	ns2.scannet2.dk.
 ishockey.gl.		3600	IN	NS	ns1.hyp.net.
@@ -15265,8 +15261,9 @@ pascucci.gl.		3600	IN	NS	ns3.simply.com.
 pascucci.gl.		3600	IN	DS	6277 13 2 6EA734F998EB546ED2CE556CEEF3C7A3CFDA1996162772283780F0BC BADB205A
 pascucci.gl.		3600	IN	DS	6277 13 4 7C28651E618708427F68CC3EC5BAB5B45799644522CFEE41C8E3E560 F569E4B21EE55F35556370261895FC52F8A6B901
 pascucci.gl.		3600	IN	RRSIG	DS 8 2 3600 20250813020000 20250525020000 57390 gl. izI2x3iULBCunnR5yz6CYK1nxVIoN07jdG2OkbcnyidooLT4XRDFZBVY q0FNk3gLZ4lTlnrRvK69rrI9SmxeNZqJ8aIzhKIrR4ZbY0uMI/VQ+NGl IZvHxSA+yBW25ktgY3NGj5LPhRc87GSniipvU//dGWxXIdWhHNe89diY S7DLqgWujj7jfgnuhr+6oxXUYnLGmA5djZmQT2VaLuk5xsS1nhj9qdEr R1BDzyWqsu/I+c1tBVwsZtanrNRIyaERvm24ebcqifW7VBS1WKble3CP xA49UmwCiKIKNrXmVuWFmJDKyals9ejumydzuQxAFHNXS3h8QNztEAFf Yd3mjQ==
-patrickstash.gl.	3600	IN	NS	wren.ns.cloudflare.com.
-patrickstash.gl.	3600	IN	NS	jacob.ns.cloudflare.com.
+patrickstash.gl.	3600	IN	NS	ns-11-c.gandi.net.
+patrickstash.gl.	3600	IN	NS	ns-99-b.gandi.net.
+patrickstash.gl.	3600	IN	NS	ns-132-a.gandi.net.
 paw.gl.			3600	IN	NS	ns-307.awsdns-38.com.
 paw.gl.			3600	IN	NS	ns-677.awsdns-20.net.
 paw.gl.			3600	IN	NS	ns-1161.awsdns-17.org.
@@ -20433,8 +20430,9 @@ vidvinkel.gl.		3600	IN	NS	ns4.simply.com.
 vidvinkel.gl.		3600	IN	DS	18415 13 2 78756D8826E77ECF8A714BDD980B7AB365F4F190025C7737ED9BECE6 25740628
 vidvinkel.gl.		3600	IN	DS	18415 13 4 215CAF061F62FC2CA2771B89C93DD6914B76CDD23F3F582F6D6024FE 77A7B6A80112CC7409E16718AB72614DFD8C927A
 vidvinkel.gl.		3600	IN	RRSIG	DS 8 2 3600 20250813020000 20250525020000 57390 gl. YAiqOvsf1zlKIhF8TuIaFjwYoa3HhHjW4z5kVvfyi7Op0CzD0LjeTqVw z58jLok6/OAPCcbSsqYEAQCUqzVVv44j2tVfrLmABDkY2EzEnHY0NHJu //pIHPRYHfviOCgrDWQ30H8Y3MgT4bQVqObsq3TFmX3S3tChdO2uysXC uPxZp4FTMJV0WLKVV+xKZBRwaeZ0AskNHfVt0IIiRYiTkBl8jxq/gM0h 31vIH6FUFZUqdcO2cvuDnEiymiZLosbQLXfNTEAeC0XFF9iNHokzVJxD 87zR090ByTXRg5nnEf1KVOe2M+emlMT1/QmNdmdHtfGjLGhNZiy2APLf dqpGHQ==
-viet69.gl.		3600	IN	NS	sid.ns.cloudflare.com.
-viet69.gl.		3600	IN	NS	robin.ns.cloudflare.com.
+viet69.gl.		3600	IN	NS	3-pas.njalla.in.
+viet69.gl.		3600	IN	NS	1-ceci.njalla.do.
+viet69.gl.		3600	IN	NS	2-nest.pipe.ma.
 view.gl.		3600	IN	NS	ns1.xpertnet.in.
 view.gl.		3600	IN	NS	ns2.xpertnet.in.
 viggo.gl.		3600	IN	NS	ns1.linode.com.
@@ -23091,4 +23089,4 @@ VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000
 VU6SAA0R1D6PFC5AC0NACOQF029MPRS6.gl. 3600 IN NSEC3 1 1 0 658A61DC VUQHSFBDKR2VUS8IG9DQGGNO573521C7 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN NSEC3 1 1 0 658A61DC 005143N77R1LRPFQ9D8APBF4U5LRION1 NS DS RRSIG
 VUQHSFBDKR2VUS8IG9DQGGNO573521C7.gl. 3600 IN RRSIG NSEC3 8 2 3600 20250813020000 20250525020000 57390 gl. Kp8NqZcD3hD7BIx+Bms2gF12U6ESRmhbwrYbUxm3lD+tmgY8y48RrfFT HApkVzH5QVYNmFdxz99Q2szmzHKymbWvLhJElHyBdX6++pt/ADATcTWM RQcQLbvM3iPBaZwJMt04HeZaJLf/S2BgNOFUjHw1/FHocl7v0fz54627 TkNiVhIR3wh1I5Z4y3l1UwPdla0614aQQeMyMRLd6OJPl6ci4mn3jXo9 9wb/MH6ozCo0K6b2spI2n4lHfse93jmBOg7KWaL3nZ8cGQhj0sAwYcE/ EiSsHXOwS6q5actoaPYEv5vDxsL+GarwxaHoXUNT6Ddt8bvl8+xwUKbj jNY+IQ==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167612 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167615 900 1800 6048000 3600
