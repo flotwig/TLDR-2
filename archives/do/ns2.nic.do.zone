@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071501 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071502 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1752541513"
+do.			3600	IN	TXT	"Generation Time: 1752545114"
 00.do.			3600	IN	NS	maria.ns.cloudflare.com.
 00.do.			3600	IN	NS	ian.ns.cloudflare.com.
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
@@ -28495,22 +28495,22 @@ midominio.do.		3600	IN	NS	dns1.midominio.do.
 midominio.do.		3600	IN	NS	dns3.midominio.do.
 midominio.do.		3600	IN	NS	dns4.midominio.do.
 midominio.do.		3600	IN	NS	dns2.midominio.do.
+dns1.midominio.do.	3600	IN	A	162.251.82.250
+dns1.midominio.do.	3600	IN	A	162.251.82.122
 dns1.midominio.do.	3600	IN	A	162.251.82.251
 dns1.midominio.do.	3600	IN	A	162.251.82.123
-dns1.midominio.do.	3600	IN	A	162.251.82.122
-dns1.midominio.do.	3600	IN	A	162.251.82.250
 dns2.midominio.do.	3600	IN	A	162.251.82.120
-dns2.midominio.do.	3600	IN	A	162.251.82.121
 dns2.midominio.do.	3600	IN	A	162.251.82.249
 dns2.midominio.do.	3600	IN	A	162.251.82.248
-dns3.midominio.do.	3600	IN	A	162.251.82.247
-dns3.midominio.do.	3600	IN	A	162.251.82.246
-dns3.midominio.do.	3600	IN	A	162.251.82.119
+dns2.midominio.do.	3600	IN	A	162.251.82.121
 dns3.midominio.do.	3600	IN	A	162.251.82.118
-dns4.midominio.do.	3600	IN	A	162.251.82.124
-dns4.midominio.do.	3600	IN	A	162.251.82.253
-dns4.midominio.do.	3600	IN	A	162.251.82.252
+dns3.midominio.do.	3600	IN	A	162.251.82.246
+dns3.midominio.do.	3600	IN	A	162.251.82.247
+dns3.midominio.do.	3600	IN	A	162.251.82.119
 dns4.midominio.do.	3600	IN	A	162.251.82.125
+dns4.midominio.do.	3600	IN	A	162.251.82.253
+dns4.midominio.do.	3600	IN	A	162.251.82.124
+dns4.midominio.do.	3600	IN	A	162.251.82.252
 mie.do.			3600	IN	NS	ns2.gofruits.co.
 mie.do.			3600	IN	NS	ns1.gofruits.co.
 mielagro.do.		3600	IN	NS	dns4.midominio.do.
@@ -28552,10 +28552,9 @@ mifirma.do.		3600	IN	NS	ns2-05.azure-dns.net.
 mifirma.do.		3600	IN	NS	ns1-05.azure-dns.com.
 migente.do.		3600	IN	NS	ns1511.banahosting.com.
 migente.do.		3600	IN	NS	ns1510.banahosting.com.
-migenteenlinea.do.	3600	IN	NS	dns4.midominio.do.
-migenteenlinea.do.	3600	IN	NS	dns3.midominio.do.
-migenteenlinea.do.	3600	IN	NS	dns2.midominio.do.
-migenteenlinea.do.	3600	IN	NS	dns1.midominio.do.
+migenteenlinea.do.	3600	IN	NS	ns3.site4now.net.
+migenteenlinea.do.	3600	IN	NS	ns2.site4now.net.
+migenteenlinea.do.	3600	IN	NS	ns1.site4now.net.
 migo.do.		3600	IN	NS	dns4.midominio.do.
 migo.do.		3600	IN	NS	dns3.midominio.do.
 migo.do.		3600	IN	NS	dns2.midominio.do.
@@ -30595,14 +30594,14 @@ nic.do.			3600	IN	NS	a.lactld.org.
 nic.do.			3600	IN	NS	ns1.nic.do.
 nic.do.			3600	IN	NS	ns5.nic.do.
 nic.do.			3600	IN	NS	ns.nic.do.
-ns.nic.do.		3600	IN	AAAA	2001:13e0:85d0:106::177
 ns.nic.do.		3600	IN	A	190.113.72.177
+ns.nic.do.		3600	IN	AAAA	2001:13e0:85d0:106::177
 ns1.nic.do.		3600	IN	AAAA	2001:13e0:85d0:106::178
 ns1.nic.do.		3600	IN	A	190.113.72.178
 ns2.nic.do.		3600	IN	A	190.113.65.12
 ns2.nic.do.		3600	IN	AAAA	2001:13e0:0:1::12
-ns4.nic.do.		3600	IN	A	204.61.216.124
 ns4.nic.do.		3600	IN	AAAA	2001:500:14:6124:ad::1
+ns4.nic.do.		3600	IN	A	204.61.216.124
 ns5.nic.do.		3600	IN	AAAA	2001:13e0:0:1::13
 ns5.nic.do.		3600	IN	A	190.113.65.13
 nicasio.do.		3600	IN	NS	dns4.midominio.do.
@@ -33615,6 +33614,8 @@ pixelbox.do.		3600	IN	NS	dns4.midominio.do.
 pixelbox.do.		3600	IN	NS	dns3.midominio.do.
 pixelbox.do.		3600	IN	NS	dns2.midominio.do.
 pixelbox.do.		3600	IN	NS	dns1.midominio.do.
+pixelinformativo.do.	3600	IN	NS	ns2.dns-parking.com.
+pixelinformativo.do.	3600	IN	NS	ns1.dns-parking.com.
 pixeltek.do.		3600	IN	NS	dns4.midominio.do.
 pixeltek.do.		3600	IN	NS	dns3.midominio.do.
 pixeltek.do.		3600	IN	NS	dns2.midominio.do.
@@ -35205,6 +35206,10 @@ pya.do.			3600	IN	NS	dns4.midominio.do.
 pya.do.			3600	IN	NS	dns3.midominio.do.
 pya.do.			3600	IN	NS	dns2.midominio.do.
 pya.do.			3600	IN	NS	dns1.midominio.do.
+pyday.do.		3600	IN	NS	dns4.midominio.do.
+pyday.do.		3600	IN	NS	dns3.midominio.do.
+pyday.do.		3600	IN	NS	dns2.midominio.do.
+pyday.do.		3600	IN	NS	dns1.midominio.do.
 pyhexwork.do.		3600	IN	NS	dns4.midominio.do.
 pyhexwork.do.		3600	IN	NS	ns-412.awsdns-51.com.
 pyhexwork.do.		3600	IN	NS	ns-669.awsdns-19.net.
@@ -47696,4 +47701,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071501 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071502 3600 3600 604800 3600
