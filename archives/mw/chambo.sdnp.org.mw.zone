@@ -3,7 +3,7 @@
 ;; Connection to 41.221.99.135#53(41.221.99.135) for mw. failed: timed out.
 ;; no servers could be reached
 ;; Connection to 41.221.99.135#53(41.221.99.135) for mw. failed: timed out.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1752501901 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1752588301 1800 600 604800 1800
 mw.			18000	IN	NS	mw.cctld.authdns.ripe.net.
 mw.			18000	IN	NS	ns4.apnic.net.
 mw.			18000	IN	NS	rip.psg.com.
@@ -1387,6 +1387,8 @@ disney.mw.		18000	IN	NS	orns01.dig.com.
 disney.mw.		18000	IN	NS	orns02.dig.com.
 disney.mw.		18000	IN	NS	sens01.dig.com.
 disney.mw.		18000	IN	NS	sens02.dig.com.
+dividendgroup.mw.	18000	IN	NS	ns21.my-control-panel.com.
+dividendgroup.mw.	18000	IN	NS	ns22.my-control-panel.com.
 do.mw.			18000	IN	NS	ns1.vercel-dns.com.
 do.mw.			18000	IN	NS	ns2.vercel-dns.com.
 domain.mw.		18000	IN	NS	mona.ns.cloudflare.com.
@@ -1571,8 +1573,8 @@ elephantbet.mw.		18000	IN	NS	sid.ns.cloudflare.com.
 elephantbet.mw.		18000	IN	NS	heidi.ns.cloudflare.com.
 eliterealestate.mw.	18000	IN	NS	vda7900a.trouble-free.net.
 eliterealestate.mw.	18000	IN	NS	vda7900b.trouble-free.net.
-embiemlavie.mw.		18000	IN	NS	domwe.sdn.mw.
-embiemlavie.mw.		18000	IN	NS	nyala.sdnp.org.mw.
+embiemlavie.mw.		18000	IN	NS	ns1.linthipe4.com.
+embiemlavie.mw.		18000	IN	NS	ns2.linthipe4.com.
 emirates.mw.		18000	IN	NS	ns3.emirates.com.
 emirates.mw.		18000	IN	NS	pdns124.ultradns.biz.
 emirates.mw.		18000	IN	NS	pdns124.ultradns.com.
@@ -3667,6 +3669,10 @@ nissan.mw.		18000	IN	NS	ns5.markmonitor.com.
 nissan.mw.		18000	IN	NS	ns6.markmonitor.com.
 nitel.mw.		18000	IN	NS	pluto.malswitch.com.
 nitel.mw.		18000	IN	NS	venus.malswitch.com.
+nitl.mw.		18000	IN	NS	ns1.mysecurecloudhost.com.
+nitl.mw.		18000	IN	NS	ns2.mysecurecloudhost.com.
+nitl.mw.		18000	IN	NS	ns3.mysecurecloudhost.com.
+nitl.mw.		18000	IN	NS	ns4.mysecurecloudhost.com.
 nk.mw.			18000	IN	NS	beau.ns.cloudflare.com.
 nk.mw.			18000	IN	NS	meilani.ns.cloudflare.com.
 nkhomaradio.mw.		18000	IN	NS	dns1.supremepanel.com.
@@ -5089,12 +5095,6 @@ verizon.mw.		18000	IN	NS	ns-scrm.verizon.com.
 verizon.mw.		18000	IN	NS	ns-tmtr.verizon.com.
 verizonenterprise.mw.	18000	IN	NS	dns2.verizon.com.
 verizonenterprise.mw.	18000	IN	NS	vzdns01.verizon.com.
-viaplay.mw.		18000	IN	NS	ns1.zaccodns.com.
-viaplay.mw.		18000	IN	NS	ns2.zaccodns.se.
-viaplay.mw.		18000	IN	NS	dns1.zaccodigitaltrustlabs.com.
-viaplay.mw.		18000	IN	NS	dns2.zaccodigitaltrustlabs.net.
-viaplay.mw.		18000	IN	NS	dns3.zaccodigitaltrustlabs.se.
-viaplay.mw.		18000	IN	NS	dns4.zaccodigitaltrustlabs.se.
 victoriaforex.mw.	18000	IN	NS	ns1.siteground.net.
 victoriaforex.mw.	18000	IN	NS	ns2.siteground.net.
 victoriaforexbureaucommunity.mw. 18000 IN NS	ns1.host-h.net.
@@ -5387,8 +5387,8 @@ zombacitycouncil.mw.	18000	IN	NS	ns871.websitewelcome.com.
 zombacitycouncil.mw.	18000	IN	NS	ns872.websitewelcome.com.
 zoomin.mw.		18000	IN	NS	ns1663.websitewelcome.com.
 zoomin.mw.		18000	IN	NS	ns1664.websitewelcome.com.
-zs.mw.			18000	IN	NS	ns1.dyna-ns.net.
-zs.mw.			18000	IN	NS	ns2.dyna-ns.net.
+zs.mw.			18000	IN	NS	ns1.alidns.com.
+zs.mw.			18000	IN	NS	ns2.alidns.com.
 zumba.mw.		18000	IN	NS	abby.ns.cloudflare.com.
 zumba.mw.		18000	IN	NS	paul.ns.cloudflare.com.
 zurich.mw.		18000	IN	NS	ns1.a0.impervasecuredns.net.
@@ -5396,4 +5396,4 @@ zurich.mw.		18000	IN	NS	ns1.a1.impervasecuredns.net.
 zurich.mw.		18000	IN	NS	ns1.a2.impervasecuredns.net.
 zutari.mw.		18000	IN	NS	dns1.cscdns.net.
 zutari.mw.		18000	IN	NS	dns2.cscdns.net.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1752501901 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1752588301 1800 600 604800 1800
