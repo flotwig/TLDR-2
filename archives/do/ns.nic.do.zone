@@ -1,5 +1,5 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071601 3600 3600 604800 3600
-do.			3600	IN	TXT	"Generation Time: 1752627608"
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071602 3600 3600 604800 3600
+do.			3600	IN	TXT	"Generation Time: 1752631209"
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -20488,6 +20488,10 @@ hgrb.do.		3600	IN	NS	dns4.midominio.do.
 hgrb.do.		3600	IN	NS	dns3.midominio.do.
 hgrb.do.		3600	IN	NS	dns2.midominio.do.
 hgrb.do.		3600	IN	NS	dns1.midominio.do.
+hgw.do.			3600	IN	NS	dns1.midominio.do.
+hgw.do.			3600	IN	NS	dns2.midominio.do.
+hgw.do.			3600	IN	NS	dns3.midominio.do.
+hgw.do.			3600	IN	NS	dns4.midominio.do.
 hh.do.			3600	IN	NS	vera.ns.cloudflare.com.
 hh.do.			3600	IN	NS	duke.ns.cloudflare.com.
 hhconsultores.do.	3600	IN	NS	dns4.midominio.do.
@@ -41652,8 +41656,8 @@ tat2.do.		3600	IN	NS	ns-1302.awsdns-34.org.
 tat2.do.		3600	IN	NS	ns-1606.awsdns-08.co.uk.
 tat2.do.		3600	IN	NS	ns-462.awsdns-57.com.
 tat2.do.		3600	IN	NS	ns-679.awsdns-20.net.
-tato.do.		3600	IN	NS	ns2.tatohosting.com.
-tato.do.		3600	IN	NS	ns1.tatohosting.com.
+tato.do.		3600	IN	NS	jobs.ns.cloudflare.com.
+tato.do.		3600	IN	NS	rachel.ns.cloudflare.com.
 tatt.do.		3600	IN	NS	ns3.onlydomains.com.
 tatt.do.		3600	IN	NS	ns2.onlydomains.com.
 tatt.do.		3600	IN	NS	ns1.onlydomains.com.
@@ -47702,4 +47706,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071601 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025071602 3600 3600 604800 3600
