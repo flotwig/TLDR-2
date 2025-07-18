@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167808 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. Ezg9BnqC7bnlPBOnPo6O/nrrWwTI6TgcJc7dAUue4OQ6Yh5ji0KOhXUN O/Agt0ilX3ZswLzcwmnFfrx+m/qzA519eE0u9TOoavQYRz7C5/sWrU9Q BrO6AcAEvHzPg4X81bqmLppPjki1l8DPSTeX3PJvLkDSfNeJt1N2Rni1 UnPfT6hBscB26RAEZGLPjEjSJTVvrMmDj56N1MBivO4Oxf6ymQxQSAUk ZdCqPLikCrzBFCchO35TfM/d+8ubMYeUn0lWIot23ZzAgdB8Nv3mQ8Gi IIc7ecEhkKE2q3YNTKyTwFQxJADWoR187udxiH406XKsU1PTuCiCRbka tlX80g==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167821 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. cZicf+s0J0e0Mk6+EADTnk/AXqx2G92dnEhubp/dROosU8oXW48GAJdt cBo/GlPGFXmcWup4fnKFIHIURULWc24lW+IwPoR0L2y1B0LoDdEYvVrN fSIKG7Cu7GEeXHbpTb5nflR3kr0OyJ0dtpA1lYKjJdI9Yw2wBss0GsAK UwIbThtVezOrDeDQ1jD6s3zr7to8iWSKrlt7iE89Q5B4Hy3ZMz6xuFqi WM1f+uYHpBShF7j2szzAUoChbs/72ONpDtoaIJkp5eilIXZWECj1pyGG x8AySHEmlSPeO6UChjtStju2nTT2aduFx+s6AQCO8fsdh+PbLgVBBrnB ooLeaw==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -4419,9 +4419,8 @@ dcr.gl.			3600	IN	NS	ns.dandomain.dk.
 dcr.gl.			3600	IN	NS	ns2.dandomain.dk.
 dd.gl.			3600	IN	NS	ns1.afternic.com.
 dd.gl.			3600	IN	NS	ns2.afternic.com.
-de.gl.			3600	IN	NS	ns1.regery.net.
-de.gl.			3600	IN	NS	ns2.regery.net.
-de.gl.			3600	IN	NS	ns3.regery.net.
+de.gl.			3600	IN	NS	sl1.sedo.com.
+de.gl.			3600	IN	NS	sl2.sedo.com.
 de-mail.gl.		3600	IN	NS	ns-mam.ui-dns.de.
 de-mail.gl.		3600	IN	NS	ns-mam.ui-dns.biz.
 de-mail.gl.		3600	IN	NS	ns-mam.ui-dns.com.
@@ -5615,9 +5614,6 @@ eugenius.gl.		3600	IN	NS	a.hosting.gl.
 eugenius.gl.		3600	IN	NS	b.hosting.gl.
 eugenius.gl.		3600	IN	NS	c.hosting.gl.
 eugenius.gl.		3600	IN	NS	d.hosting.gl.
-euro.gl.		3600	IN	NS	ns1.netim.net.
-euro.gl.		3600	IN	NS	ns2.netim.net.
-euro.gl.		3600	IN	NS	ns3.netim.net.
 eurocard.gl.		3600	IN	NS	dns1.cscdns.net.
 eurocard.gl.		3600	IN	NS	dns2.cscdns.net.
 euroflorist.gl.		3600	IN	NS	ns1.zaccodns.com.
@@ -9075,10 +9071,6 @@ inuitbolig.gl.		3600	IN	NS	ns2.curanet.dk.
 inuitflirt.gl.		3600	IN	NS	1-you.njalla.no.
 inuitflirt.gl.		3600	IN	NS	2-can.njalla.in.
 inuitflirt.gl.		3600	IN	NS	3-get.njalla.fo.
-inuitheritage.gl.	3600	IN	NS	ns1-07.azure-dns.com.
-inuitheritage.gl.	3600	IN	NS	ns2-07.azure-dns.net.
-inuitheritage.gl.	3600	IN	NS	ns3-07.azure-dns.org.
-inuitheritage.gl.	3600	IN	NS	ns4-07.azure-dns.info.
 inuitheritagemap.gl.	3600	IN	NS	ursula.ns.cloudflare.com.
 inuitheritagemap.gl.	3600	IN	NS	dimitris.ns.cloudflare.com.
 inuithome.gl.		3600	IN	NS	ns1.nunahosting.net.
@@ -14055,9 +14047,6 @@ nsty.gl.		3600	IN	NS	ns1.eurodns.com.
 nsty.gl.		3600	IN	NS	ns2.eurodns.com.
 nsty.gl.		3600	IN	NS	ns3.eurodns.com.
 nsty.gl.		3600	IN	NS	ns4.eurodns.com.
-nt.gl.			3600	IN	NS	ns1.netim.net.
-nt.gl.			3600	IN	NS	ns2.netim.net.
-nt.gl.			3600	IN	NS	ns3.netim.net.
 ntk.gl.			3600	IN	NS	ns1.simply.com.
 ntk.gl.			3600	IN	NS	ns2.simply.com.
 ntk.gl.			3600	IN	NS	ns3.simply.com.
@@ -16262,6 +16251,9 @@ qn.gl.			3600	IN	NS	ns4.iwantmyname.net.
 qonto.gl.		3600	IN	NS	ns-55-b.gandi.net.
 qonto.gl.		3600	IN	NS	ns-76-c.gandi.net.
 qonto.gl.		3600	IN	NS	ns-220-a.gandi.net.
+qoo.gl.			3600	IN	NS	ns1.netim.net.
+qoo.gl.			3600	IN	NS	ns2.netim.net.
+qoo.gl.			3600	IN	NS	ns3.netim.net.
 qooqa.gl.		3600	IN	NS	ns01.one.com.
 qooqa.gl.		3600	IN	NS	ns02.one.com.
 qp.gl.			3600	IN	NS	dean.ns.cloudflare.com.
@@ -23054,4 +23046,4 @@ VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN NSEC3 1 1 0 69CB137E VUL8DRBSTJJ1JE
 VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. OlCIyEa/DsYZJ70PJC43/FzOzagHzqBjjOQAWRQA9OiS+7rYzho/bgxB GLMwDzU8DX06bYlt3NvVIuVyzEEnyBEzpPVRPw2Fybl12LbcLQXLqQfL hXQvAWulEEJIkL0y+V/ABPftfdpbDWgWEEE/BhZctaxMfP3Aw1JynG/U waodFeSg6cBP3vS+nA1ZJSAeKvM2A9GLylc7cfRn7R+CImvAKVdd+u7Z fKfO9QIgYksLiNLGctjwQaee9/cq9wod8XSP3wuCM8P0udX2lB9RXHpw 0umX2PyoUHx6WUkKDOc+dpXPzNiMjN57lBjC13nYqTsCqZx5UaQB9ADk cABChA==
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN NSEC3 1 1 0 69CB137E 00D3UL2O9M016T39VM6MHB4BM9IH3DAP NS DS RRSIG
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. KgyHNT/ccfCC8+FrXeQQkupAccRoJu1Iu3e841XSxv9cMj2dbv0jULXG Kg7pLRUUAV5vMid39dr9KnYRqdPizyKnppP+++HZuwXRIvyxY6R8oX1c 5c7uJA4TmZc3BbWxMMIOPrb4hgGkfQOywKDlaO+hRuofhwYAUL+Ie9df khgQRepKs7GKx6xE1oUcthwTXgLAkOcLG7aeKWYD/MX+SGum5CWuqosD LqwBLXehsbSNuFcew78z2xjpfyebnk102N/iixh/Os+A+7Aurmcwo3aH WBsjP0JyM05UF1FPGYEi2Rb6gL+5/tOHbkZRLwMUoBoPOMqPVwKG9cW7 7IL5BA==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167808 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022167821 900 1800 6048000 3600
