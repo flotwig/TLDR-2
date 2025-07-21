@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168017 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. gnO0JPzqZtFnUaUzvNbwdvR+SphBDzbr5bwTKCHSh6e1pNE+aS4O+nr4 B0fTpaUumhUg0idVelRGgOpvpuBeM1FYNDvn6I6purk+J9fWFXW59Ga+ c98eFUMZHZfCecY6Pmzc6e45RXVWMEPBdgO2urTRvQFRfBK5exll2m2a szYm6WSclCkvXykWv4Dh6rs7wt5GgvPf0OyGKVDlJrQf2XcZsIywGOmy DTNUQLdvA3Ll5jaYS7vGS+R/tStTXKEPuNfUmWwP8qpbH8IE7GQrL4gf SeOoYwQaKUJK1tSFwpXTdjxow0krfmE0G3R0i/OJbBGIzX3EpGNpzrLr 63RkwQ==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168035 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. DdXRxXNXdJsfIWpUz1q9QizVzoIknw0dRUdA/kMIAN3MNSGVzGcSdYjm tCjiNfjbUER/+frKwwGrl5IpoqRwDxxrPnOxjgBXWGdSQyb10hyy7zY+ Zs7X0VzxRTx3hKhpuf67Oqweqy+P478hBsNIQbBpnYAqhE2bg9b+eaEg 4upSNEAIubSP7geJxK3I9RnpUK10h/KPd3bIfY3WzNH2D3KVmNcl5X9f tif3nhN5J9q5AH08dB5nBDqMmDyjE4V7j1jiQnQPSOzRtEgONv/+sapM xdXCQo26PwPlxeD8TGiTSSILDcoPUya69LJu00ijDrq6qLyoB4uhcrcp /NshRw==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -401,6 +401,8 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20251005090000 20250717090000 57390 gl. c7ziJ2
 7finance.gl.		3600	IN	NS	ns3.gransy.com.
 7finance.gl.		3600	IN	NS	ns4.gransy.com.
 7finance.gl.		3600	IN	NS	ns5.gransy.com.
+7k.gl.			3600	IN	NS	ns1.justhost.ru.
+7k.gl.			3600	IN	NS	ns2.justhost.ru.
 7kra.gl.		3600	IN	NS	ns1.disabled.ispapi.net.
 7kra.gl.		3600	IN	NS	ns3.disabled.ispapi.net.
 7krn.gl.		3600	IN	NS	bob.ns.cloudflare.com.
@@ -5179,9 +5181,6 @@ eg.gl.			3600	IN	NS	ns1.eurodns.com.
 eg.gl.			3600	IN	NS	ns2.eurodns.com.
 eg.gl.			3600	IN	NS	ns3.eurodns.com.
 eg.gl.			3600	IN	NS	ns4.eurodns.com.
-egg.gl.			3600	IN	NS	ns1.hukot.cz.
-egg.gl.			3600	IN	NS	ns2.securitynet.cz.
-egg.gl.			3600	IN	NS	ns3.hukot.cz.
 egoo.gl.		3600	IN	NS	ruth.ns.cloudflare.com.
 egoo.gl.		3600	IN	NS	walt.ns.cloudflare.com.
 eguide4data.gl.		3600	IN	NS	ns.dandomain.dk.
@@ -5668,9 +5667,10 @@ evidensia.gl.		3600	IN	NS	global.excedodns.com.
 evidensia.gl.		3600	IN	NS	nordic.excedodns.net.
 evilan.gl.		3600	IN	NS	erin.ns.cloudflare.com.
 evilan.gl.		3600	IN	NS	pete.ns.cloudflare.com.
-evo.gl.			3600	IN	NS	ns1221.hexonet.net.
-evo.gl.			3600	IN	NS	ns2184.hexonet.net.
-evo.gl.			3600	IN	NS	ns3185.hexonet.net.
+evo.gl.			3600	IN	NS	ns1.monikerdns.net.
+evo.gl.			3600	IN	NS	ns2.monikerdns.net.
+evo.gl.			3600	IN	NS	ns3.monikerdns.net.
+evo.gl.			3600	IN	NS	ns4.monikerdns.net.
 evolution.gl.		3600	IN	NS	ns1.zaccodns.com.
 evolution.gl.		3600	IN	NS	ns2.zaccodns.se.
 evolution.gl.		3600	IN	NS	dns1.zaccodigitaltrustlabs.com.
@@ -9560,9 +9560,9 @@ jespersen.gl.		3600	IN	RRSIG	DS 8 2 3600 20251005090000 20250717090000 57390 gl.
 jesus.gl.		3600	IN	NS	ns1.hyp.net.
 jesus.gl.		3600	IN	NS	ns2.hyp.net.
 jesus.gl.		3600	IN	NS	ns3.hyp.net.
-jesus.gl.		3600	IN	DS	44326 15 2 BDC19426C2C6D049BBD025DBB1784ABFFD12123BF77DBB6362653697 4B54A838
-jesus.gl.		3600	IN	DS	44326 15 4 43BF0FE0012906A6FF9AD3B5AB72356D21CD8A768DC7F28918012A67 24883AD2F0E96850573EDBB39BF6A543B2A6E734
-jesus.gl.		3600	IN	RRSIG	DS 8 2 3600 20251005090000 20250717090000 57390 gl. HgjueIBeFqGN+xJp1lFpqgttSaS4nWs8bKYa/zUNLq20L+cWhhK6XS+3 NLNo4WoKq7uzjuws2s2Fv5xAjzRICkEynfaYvfpMor3gCQ09W/yI3XWE 5E4veWjjUtb6s8F/uEydSI66Ck3Guaqk5G2fiGNyIiCx6JMj/m96zaDN NkGXRd5FU7IcaGjYKFpUyFrKrI9NbLYj7PPTRg/wFWGgm0GtSWdwD14z 05yHZDImtc8LeeF+8q1g3mQx8XR8YJg4Pbm+/tLkRhOhUYC6eniwc2kA eKEebanhpOadvsWM2NXhl1Ih07J2jJjeW5F+8k/YJsIwYXjuBC4XqHE2 HO5EyQ==
+jesus.gl.		3600	IN	DS	63004 15 2 E3189AA3B5F22FF29F83957DC60A64474009A8A5F7E9CA019ECE2079 08077880
+jesus.gl.		3600	IN	DS	63004 15 4 7EE9F1154F5ED465B11A108BE10B32F5F91F793E5A512D3CCFD9304B 5DACB0C3C6BDD8718B794B1F7E5F0D26D082EB5D
+jesus.gl.		3600	IN	RRSIG	DS 8 2 3600 20251005090000 20250717090000 57390 gl. VufY426Nzb1AiDD1+LJH7Amq8iEDIiUroyXBdE3+aWiBvP/5T+PL/1O6 iFdj6qQZU6Udy7LvT/O8sL9b/03rXzdRNfNqg4Kr5i6ISXY6FerMMg0d 0653D0phFNH33qOmseHBsiVwXsMZj2c1gClYCITY3t8hFnHqKla6y8zj yZyPqN5jWOnpODkZS+DehEPpvZMYU0V6HhDjYNY7inS1H3vv4EJ5vW4s ZseMR+CzSV98q/J6iV+hQBN9XLI+sTXOqQHgiCYsHxLyxZw645Y8+SBz E1A0CMcZ5Hb600DAmnyfNE5nB1DC3J7pSJDZUvAwZ76cjj/voTxRNeWH RBkEbg==
 jetbrains.gl.		3600	IN	NS	ns1.markmonitor.com.
 jetbrains.gl.		3600	IN	NS	ns2.markmonitor.com.
 jetbrains.gl.		3600	IN	NS	ns3.markmonitor.com.
@@ -15938,9 +15938,10 @@ property.gl.		3600	IN	NS	ns2.netim.net.
 property.gl.		3600	IN	NS	ns3.netim.net.
 proshop.gl.		3600	IN	NS	nia.ns.cloudflare.com.
 proshop.gl.		3600	IN	NS	sam.ns.cloudflare.com.
-provod.gl.		3600	IN	NS	ns1172.ispapi.net.
-provod.gl.		3600	IN	NS	ns2220.ispapi.net.
-provod.gl.		3600	IN	NS	ns3189.ispapi.net.
+provod.gl.		3600	IN	NS	ns1.monikerdns.net.
+provod.gl.		3600	IN	NS	ns2.monikerdns.net.
+provod.gl.		3600	IN	NS	ns3.monikerdns.net.
+provod.gl.		3600	IN	NS	ns4.monikerdns.net.
 proxy.gl.		3600	IN	NS	ns1.regery.net.
 proxy.gl.		3600	IN	NS	ns2.regery.net.
 proxy.gl.		3600	IN	NS	ns3.regery.net.
@@ -23059,4 +23060,4 @@ VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN NSEC3 1 1 0 69CB137E VUL8DRBSTJJ1JE
 VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. OlCIyEa/DsYZJ70PJC43/FzOzagHzqBjjOQAWRQA9OiS+7rYzho/bgxB GLMwDzU8DX06bYlt3NvVIuVyzEEnyBEzpPVRPw2Fybl12LbcLQXLqQfL hXQvAWulEEJIkL0y+V/ABPftfdpbDWgWEEE/BhZctaxMfP3Aw1JynG/U waodFeSg6cBP3vS+nA1ZJSAeKvM2A9GLylc7cfRn7R+CImvAKVdd+u7Z fKfO9QIgYksLiNLGctjwQaee9/cq9wod8XSP3wuCM8P0udX2lB9RXHpw 0umX2PyoUHx6WUkKDOc+dpXPzNiMjN57lBjC13nYqTsCqZx5UaQB9ADk cABChA==
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN NSEC3 1 1 0 69CB137E 00D3UL2O9M016T39VM6MHB4BM9IH3DAP NS DS RRSIG
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. KgyHNT/ccfCC8+FrXeQQkupAccRoJu1Iu3e841XSxv9cMj2dbv0jULXG Kg7pLRUUAV5vMid39dr9KnYRqdPizyKnppP+++HZuwXRIvyxY6R8oX1c 5c7uJA4TmZc3BbWxMMIOPrb4hgGkfQOywKDlaO+hRuofhwYAUL+Ie9df khgQRepKs7GKx6xE1oUcthwTXgLAkOcLG7aeKWYD/MX+SGum5CWuqosD LqwBLXehsbSNuFcew78z2xjpfyebnk102N/iixh/Os+A+7Aurmcwo3aH WBsjP0JyM05UF1FPGYEi2Rb6gL+5/tOHbkZRLwMUoBoPOMqPVwKG9cW7 7IL5BA==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168017 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168035 900 1800 6048000 3600
