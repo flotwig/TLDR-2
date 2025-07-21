@@ -1,5 +1,5 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025072101 3600 3600 604800 3600
-do.			3600	IN	TXT	"Generation Time: 1753059900"
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025072103 3600 3600 604800 3600
+do.			3600	IN	TXT	"Generation Time: 1753067103"
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -4145,8 +4145,8 @@ autocruzman.do.		3600	IN	NS	dns1.midominio.do.
 autocruzman.do.		3600	IN	NS	dns2.midominio.do.
 autocruzman.do.		3600	IN	NS	dns3.midominio.do.
 autocruzman.do.		3600	IN	NS	dns4.midominio.do.
-autodata.do.		3600	IN	NS	ns1.dns-parking.com.
-autodata.do.		3600	IN	NS	ns2.dns-parking.com.
+autodata.do.		3600	IN	NS	ns1.example.com.
+autodata.do.		3600	IN	NS	ns2.example.com.
 autodesk.do.		3600	IN	NS	ns36.mochahost.com.
 autodesk.do.		3600	IN	NS	ns37.mochahost.com.
 autodiscover.do.	3600	IN	NS	ns3-38.azure-dns.org.
@@ -15300,7 +15300,7 @@ ens.do.			3600	IN	NS	dns2.midominio.do.
 ens.do.			3600	IN	NS	dns1.midominio.do.
 ensegundos.do.		3600	IN	NS	ns2.ensegundos.do.
 ensegundos.do.		3600	IN	NS	ns1.ensegundos.do.
-ns1.ensegundos.do.	3600	IN	A	198.136.62.216
+ns1.ensegundos.do.	3600	IN	A	205.234.134.186
 ns2.ensegundos.do.	3600	IN	A	198.136.62.217
 enseq.do.		3600	IN	NS	dns4.midominio.do.
 enseq.do.		3600	IN	NS	dns3.midominio.do.
@@ -44519,6 +44519,8 @@ usdocs.do.		3600	IN	NS	ns4.technosysies.com.
 usdocs.do.		3600	IN	NS	ns3.technosysies.com.
 usdocs.do.		3600	IN	NS	ns2.technosysies.com.
 usdocs.do.		3600	IN	NS	ns1.technosysies.com.
+usdt.do.		3600	IN	NS	launch1.spaceship.net.
+usdt.do.		3600	IN	NS	launch2.spaceship.net.
 use.do.			3600	IN	NS	leah.ns.cloudflare.com.
 use.do.			3600	IN	NS	jeff.ns.cloudflare.com.
 useflow.do.		3600	IN	NS	dns4.midominio.do.
@@ -47670,4 +47672,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025072101 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025072103 3600 3600 604800 3600
