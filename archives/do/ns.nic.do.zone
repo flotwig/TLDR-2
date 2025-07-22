@@ -1,5 +1,5 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025072220 3600 3600 604800 3600
-do.			3600	IN	TXT	"Generation Time: 1753214401"
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025072221 3600 3600 604800 3600
+do.			3600	IN	TXT	"Generation Time: 1753218002"
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6359,6 +6359,10 @@ bran.do.		3600	IN	NS	ns2.101domain.com.
 branch.do.		3600	IN	NS	ns5.101domain.com.
 branch.do.		3600	IN	NS	ns2.101domain.com.
 branch.do.		3600	IN	NS	ns1.101domain.com.
+brand-dom.do.		3600	IN	NS	dns1.midominio.do.
+brand-dom.do.		3600	IN	NS	dns2.midominio.do.
+brand-dom.do.		3600	IN	NS	dns3.midominio.do.
+brand-dom.do.		3600	IN	NS	dns4.midominio.do.
 brandable.do.		3600	IN	NS	ns2.brandable.do.
 brandable.do.		3600	IN	NS	ns1.brandable.do.
 ns1.brandable.do.	3600	IN	A	92.223.100.53
@@ -12663,8 +12667,10 @@ digisign.do.		3600	IN	NS	dns1.midominio.do.
 digisign.do.		3600	IN	NS	dns2.midominio.do.
 digisign.do.		3600	IN	NS	dns3.midominio.do.
 digisign.do.		3600	IN	NS	dns4.midominio.do.
-digisol.do.		3600	IN	NS	sara.ns.cloudflare.com.
-digisol.do.		3600	IN	NS	apollo.ns.cloudflare.com.
+digisol.do.		3600	IN	NS	ns1.bdm.microsoftonline.com.
+digisol.do.		3600	IN	NS	ns2.bdm.microsoftonline.com.
+digisol.do.		3600	IN	NS	ns3.bdm.microsoftonline.com.
+digisol.do.		3600	IN	NS	ns4.bdm.microsoftonline.com.
 digital.do.		3600	IN	NS	yes.im.forsale.
 digital.do.		3600	IN	NS	im.forsale.
 digital955.do.		3600	IN	NS	dns4.midominio.do.
@@ -47686,4 +47692,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025072220 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025072221 3600 3600 604800 3600
