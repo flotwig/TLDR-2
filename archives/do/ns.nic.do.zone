@@ -1,5 +1,5 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025072513 3600 3600 604800 3600
-do.			3600	IN	TXT	"Generation Time: 1753448709"
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025072514 3600 3600 604800 3600
+do.			3600	IN	TXT	"Generation Time: 1753452310"
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6967,6 +6967,10 @@ cadomca.do.		3600	IN	NS	ns4.dnsrubycom.com.
 cadomca.do.		3600	IN	NS	ns3.dnsrubycom.com.
 cadomca.do.		3600	IN	NS	ns2.dnsrubycom.com.
 cadomca.do.		3600	IN	NS	ns1.dnsrubycom.com.
+caei.do.		3600	IN	NS	dns1.midominio.do.
+caei.do.		3600	IN	NS	dns2.midominio.do.
+caei.do.		3600	IN	NS	dns3.midominio.do.
+caei.do.		3600	IN	NS	dns4.midominio.do.
 caeno.do.		3600	IN	NS	dns4.midominio.do.
 caeno.do.		3600	IN	NS	dns3.midominio.do.
 caeno.do.		3600	IN	NS	dns2.midominio.do.
@@ -17533,10 +17537,8 @@ foque.do.		3600	IN	NS	ns2.dondominio.com.
 foque.do.		3600	IN	NS	ns8.dondominio.com.
 for.do.			3600	IN	NS	lia.ns.cloudflare.com.
 for.do.			3600	IN	NS	greg.ns.cloudflare.com.
-foranea.do.		3600	IN	NS	dns1.midominio.do.
-foranea.do.		3600	IN	NS	dns2.midominio.do.
-foranea.do.		3600	IN	NS	dns3.midominio.do.
-foranea.do.		3600	IN	NS	dns4.midominio.do.
+foranea.do.		3600	IN	NS	ns1.dns-parking.com.
+foranea.do.		3600	IN	NS	ns2.dns-parking.com.
 forbes.do.		3600	IN	NS	dina.ns.cloudflare.com.
 forbes.do.		3600	IN	NS	walt.ns.cloudflare.com.
 forcepoint.do.		3600	IN	NS	dns1.ladasdomains.com.
@@ -36072,6 +36074,8 @@ reca.do.		3600	IN	NS	2-can.njalla.in.
 reca.do.		3600	IN	NS	1-you.njalla.no.
 recamic.do.		3600	IN	NS	dns1.cscdns.net.
 recamic.do.		3600	IN	NS	dns2.cscdns.net.
+recarga.do.		3600	IN	NS	ns1.intodomain.net.
+recarga.do.		3600	IN	NS	ns2.intodomain.net.
 recarga360.do.		3600	IN	NS	dns4.midominio.do.
 recarga360.do.		3600	IN	NS	dns3.midominio.do.
 recarga360.do.		3600	IN	NS	dns2.midominio.do.
@@ -47770,4 +47774,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025072513 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025072514 3600 3600 604800 3600
