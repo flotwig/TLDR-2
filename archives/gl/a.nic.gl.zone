@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168201 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. ETESWc/GcEDHUbevKQ4EJzsM7l6rLqN8nEdAs4B4GpbAlaUr7tydPebF G7yZSviUnox4WXuLbBUgdyhHi+N8VdmJxR3HFtQIBLowPlkM1JgfF6fa JVmoBgcpEKSMuOYlnA6J8EjDssJCtAHch023J3Oivqae9VwgAImfSY2q BXLaYhlmVzx89Rq/OCpQAizYCiV4NhVWTCjcCB8cOx4yVo/zSTP5QvHy /A/HeCI11An3pkM832vEG3RFq3q3Z26KudFraM4pTMllVtKd5DieOGfH w8V10lrM/Bv6ipre+jvp/WDtRKydxwjaasJ9hMqw2SYa1cSOEze9rCW8 i1sNkQ==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168204 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. TU9msRiR919q4itTfklbiAxFTIVnV2k2TjI/DHYAHjAU7skjxPHj/sqx dPrAUYMuU486yvQferVDnSeTfndu/W3oR1+M9nHi/fFaGw4je0zGuDHM i/4TTHMivpYrmc2SYxUf0utRdoIzPSpEp3OieswN88xyfAl4HHSjgFN+ AJXftMtO3BH4AQJSyXtja/JWLzjKg2fvRYaP3gAgEV7bIETHlL/agUXy bBfujTvb/ZLyqXitYlX4PZTgyycpal0JfvGswda+WpJxvV21hwdqgGO1 BoIMw8P6+9VX7wr5wiK+HRZa2+Vr+ribrXzKnmTvbro+Z9mcOfNmgqHk b+PMSA==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -4401,6 +4401,10 @@ davidsen.gl.		3600	IN	NS	c.hosting.gl.
 davidsen.gl.		3600	IN	NS	d.hosting.gl.
 davidsenshop.gl.	3600	IN	NS	ns.scannet2.dk.
 davidsenshop.gl.	3600	IN	NS	ns2.scannet2.dk.
+day.gl.			3600	IN	NS	pns41.cloudns.net.
+day.gl.			3600	IN	NS	pns42.cloudns.net.
+day.gl.			3600	IN	NS	pns43.cloudns.net.
+day.gl.			3600	IN	NS	pns44.cloudns.net.
 db.gl.			3600	IN	NS	ns.sourcedns.com.
 db.gl.			3600	IN	NS	ns1.sourcedns.com.
 dbet.gl.		3600	IN	NS	ns1.dnshost.net.
@@ -9760,8 +9764,8 @@ jrcc.gl.		3600	IN	NS	a.hosting.gl.
 jrcc.gl.		3600	IN	NS	b.hosting.gl.
 jrcc.gl.		3600	IN	NS	c.hosting.gl.
 jrcc.gl.		3600	IN	NS	d.hosting.gl.
-js.gl.			3600	IN	NS	launch1.spaceship.net.
-js.gl.			3600	IN	NS	launch2.spaceship.net.
+js.gl.			3600	IN	NS	errp1.nameonhold.com.
+js.gl.			3600	IN	NS	errp2.nameonhold.com.
 js.gl.			3600	IN	DS	2371 13 2 CE43665A40DF33C8C26F51FFC8C184B2F3DA78FA007AFD48FD3E188F F741562F
 js.gl.			3600	IN	RRSIG	DS 8 2 3600 20251005090000 20250717090000 57390 gl. j0GKIHwVJgeLqlY+0McR5ijj+qJldsBDhm/ZKn4jKkFnsaVW3wUypj8R 7XT2xfvRmOHyaSertcCCiJuis5CUWLoKq2ZG5zurwHKn7azuVDyV0DSP Gc30SRozp2a+Z7sIg965L98bUOpbOBAtviVgx7JLnKJZYvkW9eMJeuTg OMv/o6rG4bgViARVwxEAc5L/dY8rqnBd3sYUQp3tnyFvNyFm9xjn8jfQ d6MKAYlzWB83kyNXXM4CiRNC7JhNooZKOx7A/TsNv6gLVuLVr2Olao6c k8cfQ35v2a3Eg6yRyt1w3GM3iTWq3GJpz4uubtJYJ9QVOQaPXQO3kvhU 0txZ7w==
 jt.gl.			3600	IN	NS	ns-cloud-b1.googledomains.com.
@@ -23076,4 +23080,4 @@ VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN NSEC3 1 1 0 69CB137E VUL8DRBSTJJ1JE
 VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. OlCIyEa/DsYZJ70PJC43/FzOzagHzqBjjOQAWRQA9OiS+7rYzho/bgxB GLMwDzU8DX06bYlt3NvVIuVyzEEnyBEzpPVRPw2Fybl12LbcLQXLqQfL hXQvAWulEEJIkL0y+V/ABPftfdpbDWgWEEE/BhZctaxMfP3Aw1JynG/U waodFeSg6cBP3vS+nA1ZJSAeKvM2A9GLylc7cfRn7R+CImvAKVdd+u7Z fKfO9QIgYksLiNLGctjwQaee9/cq9wod8XSP3wuCM8P0udX2lB9RXHpw 0umX2PyoUHx6WUkKDOc+dpXPzNiMjN57lBjC13nYqTsCqZx5UaQB9ADk cABChA==
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN NSEC3 1 1 0 69CB137E 00D3UL2O9M016T39VM6MHB4BM9IH3DAP NS DS RRSIG
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. KgyHNT/ccfCC8+FrXeQQkupAccRoJu1Iu3e841XSxv9cMj2dbv0jULXG Kg7pLRUUAV5vMid39dr9KnYRqdPizyKnppP+++HZuwXRIvyxY6R8oX1c 5c7uJA4TmZc3BbWxMMIOPrb4hgGkfQOywKDlaO+hRuofhwYAUL+Ie9df khgQRepKs7GKx6xE1oUcthwTXgLAkOcLG7aeKWYD/MX+SGum5CWuqosD LqwBLXehsbSNuFcew78z2xjpfyebnk102N/iixh/Os+A+7Aurmcwo3aH WBsjP0JyM05UF1FPGYEi2Rb6gL+5/tOHbkZRLwMUoBoPOMqPVwKG9cW7 7IL5BA==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168201 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168204 900 1800 6048000 3600
