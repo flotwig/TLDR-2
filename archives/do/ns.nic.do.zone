@@ -1,5 +1,5 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025072518 3600 3600 604800 3600
-do.			3600	IN	TXT	"Generation Time: 1753466714"
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025072520 3600 3600 604800 3600
+do.			3600	IN	TXT	"Generation Time: 1753473901"
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -2138,6 +2138,10 @@ almacenesprogreso.do.	3600	IN	NS	dns4.midominio.do.
 almacenesprogreso.do.	3600	IN	NS	dns3.midominio.do.
 almacenesprogreso.do.	3600	IN	NS	dns2.midominio.do.
 almacenesprogreso.do.	3600	IN	NS	dns1.midominio.do.
+almalogic.do.		3600	IN	NS	dns1.midominio.do.
+almalogic.do.		3600	IN	NS	dns2.midominio.do.
+almalogic.do.		3600	IN	NS	dns3.midominio.do.
+almalogic.do.		3600	IN	NS	dns4.midominio.do.
 almanzarautotech.do.	3600	IN	NS	dns4.midominio.do.
 almanzarautotech.do.	3600	IN	NS	dns3.midominio.do.
 almanzarautotech.do.	3600	IN	NS	dns2.midominio.do.
@@ -6963,10 +6967,8 @@ cadomca.do.		3600	IN	NS	ns4.dnsrubycom.com.
 cadomca.do.		3600	IN	NS	ns3.dnsrubycom.com.
 cadomca.do.		3600	IN	NS	ns2.dnsrubycom.com.
 cadomca.do.		3600	IN	NS	ns1.dnsrubycom.com.
-caei.do.		3600	IN	NS	dns1.midominio.do.
-caei.do.		3600	IN	NS	dns2.midominio.do.
-caei.do.		3600	IN	NS	dns3.midominio.do.
-caei.do.		3600	IN	NS	dns4.midominio.do.
+caei.do.		3600	IN	NS	ns11.domaincontrol.com.
+caei.do.		3600	IN	NS	ns12.domaincontrol.com.
 caeno.do.		3600	IN	NS	dns4.midominio.do.
 caeno.do.		3600	IN	NS	dns3.midominio.do.
 caeno.do.		3600	IN	NS	dns2.midominio.do.
@@ -14943,10 +14945,10 @@ eltaller.do.		3600	IN	NS	norman.ns.cloudflare.com.
 eltaller.do.		3600	IN	NS	dell.ns.cloudflare.com.
 eltestigo.do.		3600	IN	NS	ns2.dns-parking.com.
 eltestigo.do.		3600	IN	NS	ns1.dns-parking.com.
-eltiempo.do.		3600	IN	NS	dns1.midominio.do.
-eltiempo.do.		3600	IN	NS	dns2.midominio.do.
-eltiempo.do.		3600	IN	NS	dns3.midominio.do.
-eltiempo.do.		3600	IN	NS	dns4.midominio.do.
+eltiempo.do.		3600	IN	NS	ns1045.ui-dns.de.
+eltiempo.do.		3600	IN	NS	ns1045.ui-dns.biz.
+eltiempo.do.		3600	IN	NS	ns1045.ui-dns.com.
+eltiempo.do.		3600	IN	NS	ns1045.ui-dns.org.
 eltitular.do.		3600	IN	NS	dns1.midominio.do.
 eltitular.do.		3600	IN	NS	dns2.midominio.do.
 eltitular.do.		3600	IN	NS	dns3.midominio.do.
@@ -31247,10 +31249,10 @@ obi.do.			3600	IN	NS	dns10.ovh.net.
 obi.do.			3600	IN	NS	ns10.ovh.net.
 objects.do.		3600	IN	NS	gina.ns.cloudflare.com.
 objects.do.		3600	IN	NS	ernest.ns.cloudflare.com.
-obm.do.			3600	IN	NS	dns1.midominio.do.
-obm.do.			3600	IN	NS	dns2.midominio.do.
-obm.do.			3600	IN	NS	dns3.midominio.do.
-obm.do.			3600	IN	NS	dns4.midominio.do.
+obm.do.			3600	IN	NS	ns-404.awsdns-50.com.
+obm.do.			3600	IN	NS	ns-800.awsdns-36.net.
+obm.do.			3600	IN	NS	ns-1290.awsdns-33.org.
+obm.do.			3600	IN	NS	ns-1941.awsdns-50.co.uk.
 observatorio.do.	3600	IN	NS	dns4.midominio.do.
 observatorio.do.	3600	IN	NS	dns3.midominio.do.
 observatorio.do.	3600	IN	NS	dns2.midominio.do.
@@ -42335,6 +42337,8 @@ thechildrensplace.do.	3600	IN	NS	dns2.cscdns.net.
 theclimatepledge.do.	3600	IN	NS	nsusa.comlaude.net.
 theclimatepledge.do.	3600	IN	NS	nssui.comlaude.ch.
 theclimatepledge.do.	3600	IN	NS	nsgbr.comlaude.co.uk.
+thecreativetable.do.	3600	IN	NS	dell.ns.cloudflare.com.
+thecreativetable.do.	3600	IN	NS	norman.ns.cloudflare.com.
 thedada.do.		3600	IN	NS	ns03.trademarkarea.com.
 thedada.do.		3600	IN	NS	ns02.trademarkarea.com.
 thedada.do.		3600	IN	NS	ns01.trademarkarea.com.
@@ -42472,6 +42476,8 @@ thesix.do.		3600	IN	NS	raegan.ns.cloudflare.com.
 thesix.do.		3600	IN	NS	lennon.ns.cloudflare.com.
 thesize.do.		3600	IN	NS	dns27.servidoresdns.net.
 thesize.do.		3600	IN	NS	dns28.servidoresdns.net.
+thetable.do.		3600	IN	NS	dell.ns.cloudflare.com.
+thetable.do.		3600	IN	NS	norman.ns.cloudflare.com.
 thetravelcentral.do.	3600	IN	NS	dns1.midominio.do.
 thetravelcentral.do.	3600	IN	NS	dns2.midominio.do.
 thetravelcentral.do.	3600	IN	NS	dns3.midominio.do.
@@ -43418,6 +43424,8 @@ trayca.do.		3600	IN	NS	ns8951.banahosting.com.
 trayca.do.		3600	IN	NS	ns8950.banahosting.com.
 trebel.do.		3600	IN	NS	ns2.bluehost.com.
 trebel.do.		3600	IN	NS	ns1.bluehost.com.
+trebol.do.		3600	IN	NS	ns31.domaincontrol.com.
+trebol.do.		3600	IN	NS	ns32.domaincontrol.com.
 tree.do.		3600	IN	NS	ns1.instradns.com.
 tree.do.		3600	IN	NS	ns2.instradns.com.
 treehut.do.		3600	IN	NS	dns4.midominio.do.
@@ -47725,4 +47733,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025072518 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025072520 3600 3600 604800 3600
