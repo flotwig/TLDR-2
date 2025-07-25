@@ -1,5 +1,5 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025072500 3600 3600 604800 3600
-do.			3600	IN	TXT	"Generation Time: 1753401910"
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025072502 3600 3600 604800 3600
+do.			3600	IN	TXT	"Generation Time: 1753409112"
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -15244,8 +15244,8 @@ enfila.do.		3600	IN	NS	dns4.midominio.do.
 enfila.do.		3600	IN	NS	dns3.midominio.do.
 enfila.do.		3600	IN	NS	dns2.midominio.do.
 enfila.do.		3600	IN	NS	dns1.midominio.do.
-enfoco.do.		3600	IN	NS	ns1.dns-parking.com.
-enfoco.do.		3600	IN	NS	ns2.dns-parking.com.
+enfoco.do.		3600	IN	NS	apollo.dns-parking.com.
+enfoco.do.		3600	IN	NS	athena.dns-parking.com.
 enfoque.do.		3600	IN	NS	dns4.midominio.do.
 enfoque.do.		3600	IN	NS	dns3.midominio.do.
 enfoque.do.		3600	IN	NS	dns2.midominio.do.
@@ -35808,8 +35808,10 @@ rate.do.		3600	IN	NS	dns4.midominio.do.
 rate.do.		3600	IN	NS	dns3.midominio.do.
 rate.do.		3600	IN	NS	dns2.midominio.do.
 rate.do.		3600	IN	NS	dns1.midominio.do.
-rato.do.		3600	IN	NS	ns1.teodns.com.
-rato.do.		3600	IN	NS	ns2.teodns.com.
+rato.do.		3600	IN	NS	ns.rato.do.
+rato.do.		3600	IN	NS	nss.rato.do.
+ns.rato.do.		3600	IN	A	162.62.163.82
+nss.rato.do.		3600	IN	A	43.132.78.111
 rattan.do.		3600	IN	NS	ns-1210.awsdns-23.org.
 rattan.do.		3600	IN	NS	ns-1951.awsdns-51.co.uk.
 rattan.do.		3600	IN	NS	ns-275.awsdns-34.com.
@@ -37578,8 +37580,12 @@ sabaco.do.		3600	IN	NS	ns3.dinahosting.com.
 sabaco.do.		3600	IN	NS	ns2.dinahosting.com.
 sabana.do.		3600	IN	NS	ns2.cp26.intodomain.net.
 sabana.do.		3600	IN	NS	ns1.cp26.intodomain.net.
+sabda.do.		3600	IN	NS	ns1.geekstorage.com.
+sabda.do.		3600	IN	NS	ns2.geekstorage.com.
 saberhacer.do.		3600	IN	NS	ns2.siteground.net.
 saberhacer.do.		3600	IN	NS	ns1.siteground.net.
+sabiduriadelalma.do.	3600	IN	NS	ns1.geekstorage.com.
+sabiduriadelalma.do.	3600	IN	NS	ns2.geekstorage.com.
 sabordominicano.do.	3600	IN	NS	lee.ns.cloudflare.com.
 sabordominicano.do.	3600	IN	NS	galilea.ns.cloudflare.com.
 sac.do.			3600	IN	NS	ns4.bdm.microsoftonline.com.
@@ -47758,4 +47764,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025072500 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025072502 3600 3600 604800 3600
