@@ -1,4 +1,4 @@
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025072508 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025072604 86400 7200 3600000 172800
 ps.			86400	IN	NS	ps.cctld.authdns.ripe.net.
 ps.			86400	IN	NS	ns1.pnina.ps.
 ps.			86400	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.			86400	IN	NS	rip.psg.com.
 ps.			86400	IN	NS	fork.sth.dnsnode.net.
 ps.			86400	IN	NS	Bilal.pnina.ps.
 ps.			86400	IN	NS	ps-ns.anycast.pch.net.
-ps.			86400	IN	TXT	"Generation Time: 1753452104"
+ps.			86400	IN	TXT	"Generation Time: 1753509708"
 01net.ps.		86400	IN	NS	ns1.safebrands.fr.
 01net.ps.		86400	IN	NS	ns2.safebrands.eu.
 01net.ps.		86400	IN	NS	ns3.safebrands.com.
@@ -387,6 +387,8 @@ aco.ps.			86400	IN	NS	ns1.lemarit.net.
 aco.ps.			86400	IN	NS	ns2.lemarit.de.
 aco.ps.			86400	IN	NS	ns2.lemarit.net.
 aco.ps.			86400	IN	NS	ns3.lemarit.de.
+acr.ps.			86400	IN	NS	nola.ns.cloudflare.com.
+acr.ps.			86400	IN	NS	jason.ns.cloudflare.com.
 acrff.ps.		86400	IN	NS	skip.ns.cloudflare.com.
 acrff.ps.		86400	IN	NS	rayne.ns.cloudflare.com.
 acs.ps.			86400	IN	NS	ns1.i-net.ps.
@@ -6219,6 +6221,8 @@ fleurop.ps.		86400	IN	NS	dns1.fleurop.com.
 fleurop.ps.		86400	IN	NS	dns2.fleurop.com.
 flex.ps.		86400	IN	NS	ns1.atyaf.co.
 flex.ps.		86400	IN	NS	ns2.atyaf.co.
+flexi.ps.		86400	IN	NS	ns1.dns-parking.com.
+flexi.ps.		86400	IN	NS	ns2.dns-parking.com.
 flexlinksystems.ps.	86400	IN	NS	ns1.zaccodns.com.
 flexlinksystems.ps.	86400	IN	NS	ns2.zaccodns.se.
 flexlinksystems.ps.	86400	IN	NS	dns1.zaccodigitaltrustlabs.com.
@@ -7154,11 +7158,11 @@ hackerone.ps.		86400	IN	NS	a.ns.hackerone.com.
 hackerone.ps.		86400	IN	NS	b.ns.hackerone.com.
 hackers.ps.		86400	IN	NS	cdns1.hadara.ps.
 hackers.ps.		86400	IN	NS	cdns2.hadara.ps.
+hadara.ps.		86400	IN	DS	54434 8 2 D9C2763F9E4AF0205C6EBF14299D6169A5AD9D6A59A72749879E4374 2D713D84
 hadara.ps.		86400	IN	NS	ns-cloud-a1.googledomains.com.
 hadara.ps.		86400	IN	NS	ns-cloud-a2.googledomains.com.
 hadara.ps.		86400	IN	NS	ns-cloud-a3.googledomains.com.
 hadara.ps.		86400	IN	NS	ns-cloud-a4.googledomains.com.
-hadara.ps.		86400	IN	DS	54434 8 2 D9C2763F9E4AF0205C6EBF14299D6169A5AD9D6A59A72749879E4374 2D713D84
 hadara-tv.ps.		86400	IN	NS	cdns1.hadara.ps.
 hadara-tv.ps.		86400	IN	NS	cdns2.hadara.ps.
 hadarah.ps.		86400	IN	NS	ns.paltel.net.
@@ -16578,6 +16582,8 @@ supherb.ps.		86400	IN	NS	ns2.101domain.com.
 supherb.ps.		86400	IN	NS	ns5.101domain.com.
 supp.ps.		86400	IN	NS	ns1.variomedia.de.
 supp.ps.		86400	IN	NS	ns2.variomedia.de.
+supplies.ps.		86400	IN	NS	dns1.namecheaphosting.com.
+supplies.ps.		86400	IN	NS	dns2.namecheaphosting.com.
 suqy.ps.		86400	IN	NS	gail.ns.cloudflare.com.
 suqy.ps.		86400	IN	NS	norm.ns.cloudflare.com.
 surdaqash.ps.		86400	IN	NS	cdns1.hadara.ps.
@@ -18905,4 +18911,4 @@ zuwadeh.ps.		86400	IN	NS	ns3.ftswebservices.com.
 zuwadeh.ps.		86400	IN	NS	ns4.ftswebservices.com.
 zuwar.ps.		86400	IN	NS	ns1.dns-parking.com.
 zuwar.ps.		86400	IN	NS	ns2.dns-parking.com.
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025072508 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025072604 86400 7200 3600000 172800
