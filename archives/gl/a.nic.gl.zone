@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168339 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. aRYJKf8bkhediyBw/3fcJBO5A2KSu+/D2UF8Uk+94u7nmOqw+OHEwDtY yaosAadNDx/S8YyGRFSxXRMJ9lw6AL8Mby2LDnWMqvpKtBtzdAdOiNPR +fHNfMsMPj0U1mZAjWO88akCBW5+P04PnBDUvwxEAjs+bCovUwZohG34 RQ9bbtE7O6ak5oP04lsTgsmvodJiNFx9H/CB/fySrnlHm6s2woG5a0QK P52ee5fYEkDQkzd53MxSsrYKUeX8RHxPJ2RtKhTuYfzftbDMaf/oR1B0 4g6VhiU7s0vyNADvHFdq2Qhr3j6vOSLd7euu4ii4lFemfQH24WvP8qTe ffg5LQ==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168351 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. MqRI0cmx8Eamisc3jGNwwVjBs0eiRqBsxX6pHqatRXFyntOCRjYNis3/ HJHSIHymYnaV+hXXs0TBeqcBNCHaCllXqpzH8QwwqHCpvZP0qaxdbfFM fxEYJpNsiNotTy++ITe8K61RpFDNKwfhLEuKlLcgsTxgEdAWNRFE1xt4 bxwauRrzPvflUgJZmOnHTPrlzYJCD5/TiHkiS+VbnH9LsHbaVjK9dxtM oQCPqlCEcKXDo4P0NvXjaFV4S8ssC3BeKrMAhUEVI+01PWx+SiubDBhi X8rRYRvny031lMNmPsnAINm7tDpcSrxJay7tWsBJ+A1S9mes4JR1CKxY tq2brA==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -3955,6 +3955,9 @@ cohen.gl.		3600	IN	NS	a.hosting.gl.
 cohen.gl.		3600	IN	NS	b.hosting.gl.
 cohen.gl.		3600	IN	NS	c.hosting.gl.
 cohen.gl.		3600	IN	NS	d.hosting.gl.
+coin.gl.		3600	IN	NS	ns1.netim.net.
+coin.gl.		3600	IN	NS	ns2.netim.net.
+coin.gl.		3600	IN	NS	ns3.netim.net.
 coinbase.gl.		3600	IN	NS	ns1.markmonitor.com.
 coinbase.gl.		3600	IN	NS	ns2.markmonitor.com.
 coinbase.gl.		3600	IN	NS	ns3.markmonitor.com.
@@ -12381,8 +12384,9 @@ micha.gl.		3600	IN	NS	ns1.nunahosting.net.
 micha.gl.		3600	IN	NS	ns2.nunahosting.net.
 micha.gl.		3600	IN	NS	ns3.nunahosting.net.
 micha.gl.		3600	IN	NS	ns4.nunahosting.net.
-microgreens.gl.		3600	IN	NS	ns1.patys.com.
-microgreens.gl.		3600	IN	NS	ns2.patys.com.
+microgreens.gl.		3600	IN	NS	ns1.ndsplitter.com.
+microgreens.gl.		3600	IN	NS	ns2.ndsplitter.com.
+microgreens.gl.		3600	IN	NS	ns3.ndsplitter.com.
 microsoft.gl.		3600	IN	NS	ns1-03.azure-dns.com.
 microsoft.gl.		3600	IN	NS	ns2-03.azure-dns.net.
 microsoft.gl.		3600	IN	NS	ns3-03.azure-dns.org.
@@ -23069,4 +23073,4 @@ VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN NSEC3 1 1 0 69CB137E VUL8DRBSTJJ1JE
 VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. OlCIyEa/DsYZJ70PJC43/FzOzagHzqBjjOQAWRQA9OiS+7rYzho/bgxB GLMwDzU8DX06bYlt3NvVIuVyzEEnyBEzpPVRPw2Fybl12LbcLQXLqQfL hXQvAWulEEJIkL0y+V/ABPftfdpbDWgWEEE/BhZctaxMfP3Aw1JynG/U waodFeSg6cBP3vS+nA1ZJSAeKvM2A9GLylc7cfRn7R+CImvAKVdd+u7Z fKfO9QIgYksLiNLGctjwQaee9/cq9wod8XSP3wuCM8P0udX2lB9RXHpw 0umX2PyoUHx6WUkKDOc+dpXPzNiMjN57lBjC13nYqTsCqZx5UaQB9ADk cABChA==
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN NSEC3 1 1 0 69CB137E 00D3UL2O9M016T39VM6MHB4BM9IH3DAP NS DS RRSIG
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. KgyHNT/ccfCC8+FrXeQQkupAccRoJu1Iu3e841XSxv9cMj2dbv0jULXG Kg7pLRUUAV5vMid39dr9KnYRqdPizyKnppP+++HZuwXRIvyxY6R8oX1c 5c7uJA4TmZc3BbWxMMIOPrb4hgGkfQOywKDlaO+hRuofhwYAUL+Ie9df khgQRepKs7GKx6xE1oUcthwTXgLAkOcLG7aeKWYD/MX+SGum5CWuqosD LqwBLXehsbSNuFcew78z2xjpfyebnk102N/iixh/Os+A+7Aurmcwo3aH WBsjP0JyM05UF1FPGYEi2Rb6gL+5/tOHbkZRLwMUoBoPOMqPVwKG9cW7 7IL5BA==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168339 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168351 900 1800 6048000 3600
