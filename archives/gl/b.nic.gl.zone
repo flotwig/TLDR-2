@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168390 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. Qdzd4Olz571vYWEbRarCPFGH/lJ7Yw8Hh+UasvFKnhcIXkKMek9EfRAH 7PX9XSR22uMUGlI0EaI/SMxheA6qLFvekDZQUwgprXA6i7W9/PdlYo0A pE52gTfqUTdpfY9h1VW9qzkvmP6sTNhvNQsR008G+IXM62jZVbpy2ZYV MhncBwjQVlK2jLMhYH+YEQvh/Li9afJMf9oqSIfqw7K/4salgInIVPmG Fyngf3AfIPSruu9CvKOyFEhaQlrQeOQDym8ueVAP5paRt1zyuM1KgXR1 pcVW3Y3tmVaiingjksSkS7gOrB/t4WdicTJ9zfGf2iA4xgd1lyHGa1EQ 3/53Xg==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168398 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. Iak5A2KuSRFqlhxemKDKoI5l8qVx4w4GAM40f8iYK5CO8HEiFSp4MvrT DTLpyzsbkCHKYHiFefnbbaWgpAkfjbYXDYWrJH66Q6T0qpqCmke0csz7 669dAI2u2PzvE+H2eeKFgaUc9JDkWQPPXG2sfcNuXtBCgiTaxbdZXNsl 1pFnjg3oswucf2ycj6QP2sPsOKc559V1GJuu3vrqp0i5gyntZMXm7iJJ 35Irtqe4xMnFnvEwZES8iModbWvK3vrgVB9ChL9bxYrnNsJ5oy38sh/4 Uuk780EI53hzXt0OVF2beLWvYzsRL4zQm2ICBc/3n1MggQZKumZN/JMi bTyLyA==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -16,10 +16,8 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20251005090000 20250717090000 57390 gl. c7ziJ2
 0.gl.			3600	IN	NS	ns2.fruits.co.
 00.gl.			3600	IN	NS	ns1.registry-server.com.
 00.gl.			3600	IN	NS	ns2.registry-server.com.
-000.gl.			3600	IN	NS	pns61.cloudns.net.
-000.gl.			3600	IN	NS	pns62.cloudns.com.
-000.gl.			3600	IN	NS	pns63.cloudns.net.
-000.gl.			3600	IN	NS	pns64.cloudns.uk.
+000.gl.			3600	IN	NS	n1.xundns.com.
+000.gl.			3600	IN	NS	n2.xundns.com.
 01.gl.			3600	IN	NS	gwen.ns.cloudflare.com.
 01.gl.			3600	IN	NS	yevgen.ns.cloudflare.com.
 02202.gl.		3600	IN	NS	ns01.ondns.de.
@@ -52,10 +50,8 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20251005090000 20250717090000 57390 gl. c7ziJ2
 10kra.gl.		3600	IN	NS	ns3.disabled.ispapi.net.
 11.gl.			3600	IN	NS	n1.xundns.com.
 11.gl.			3600	IN	NS	n2.xundns.com.
-111.gl.			3600	IN	NS	pns61.cloudns.net.
-111.gl.			3600	IN	NS	pns62.cloudns.com.
-111.gl.			3600	IN	NS	pns63.cloudns.net.
-111.gl.			3600	IN	NS	pns64.cloudns.uk.
+111.gl.			3600	IN	NS	n1.xundns.com.
+111.gl.			3600	IN	NS	n2.xundns.com.
 113.gl.			3600	IN	NS	ns1.wannafind.dk.
 113.gl.			3600	IN	NS	ns2.wannafind.dk.
 11kra.gl.		3600	IN	NS	ns1.disabled.ispapi.net.
@@ -243,10 +239,8 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20251005090000 20250717090000 57390 gl. c7ziJ2
 31284.gl.		3600	IN	NS	ns2.netsto.net.
 33.gl.			3600	IN	NS	ns1.registry-server.com.
 33.gl.			3600	IN	NS	ns2.registry-server.com.
-333.gl.			3600	IN	NS	pns61.cloudns.net.
-333.gl.			3600	IN	NS	pns62.cloudns.com.
-333.gl.			3600	IN	NS	pns63.cloudns.net.
-333.gl.			3600	IN	NS	pns64.cloudns.uk.
+333.gl.			3600	IN	NS	n1.xundns.com.
+333.gl.			3600	IN	NS	n2.xundns.com.
 345.gl.			3600	IN	NS	ns1.netsto.net.
 345.gl.			3600	IN	NS	ns2.netsto.net.
 363636.gl.		3600	IN	NS	ns1.curanet.dk.
@@ -291,10 +285,8 @@ gl.			0	IN	RRSIG	NSEC3PARAM 8 1 0 20251005090000 20250717090000 57390 gl. c7ziJ2
 42.gl.			3600	IN	NS	ns16.asurahosting.com.
 44.gl.			3600	IN	NS	ns1.dns.com.
 44.gl.			3600	IN	NS	ns2.dns.com.
-444.gl.			3600	IN	NS	pns61.cloudns.net.
-444.gl.			3600	IN	NS	pns62.cloudns.com.
-444.gl.			3600	IN	NS	pns63.cloudns.net.
-444.gl.			3600	IN	NS	pns64.cloudns.uk.
+444.gl.			3600	IN	NS	n1.xundns.com.
+444.gl.			3600	IN	NS	n2.xundns.com.
 45177.gl.		3600	IN	NS	ns1.netsto.net.
 45177.gl.		3600	IN	NS	ns2.netsto.net.
 49.gl.			3600	IN	NS	a4.share-dns.com.
@@ -2765,7 +2757,7 @@ biocircle.gl.		3600	IN	NS	ns1.iquer.net.
 biocircle.gl.		3600	IN	NS	ns2.iquer.net.
 biomerieux.gl.		3600	IN	NS	ns01.eolas.fr.
 biomerieux.gl.		3600	IN	NS	ns02.eolas.fr.
-biomerieux.gl.		3600	IN	NS	ns03.eolas.fr.
+biomerieux.gl.		3600	IN	NS	ns03.eolas-dns.eu.
 biontainer.gl.		3600	IN	NS	ns.udag.de.
 biontainer.gl.		3600	IN	NS	ns.udag.net.
 biontainer.gl.		3600	IN	NS	ns.udag.org.
@@ -20152,6 +20144,9 @@ usa.gl.			3600	IN	NS	c.hosting.gl.
 usa.gl.			3600	IN	NS	d.hosting.gl.
 usdt.gl.		3600	IN	NS	vip7.alidns.com.
 usdt.gl.		3600	IN	NS	vip8.alidns.com.
+use.gl.			3600	IN	NS	1-you.njalla.no.
+use.gl.			3600	IN	NS	2-can.njalla.in.
+use.gl.			3600	IN	NS	3-get.njalla.fo.
 usf.gl.			3600	IN	NS	ns1.modulo.gl.
 usf.gl.			3600	IN	NS	ns2.modulo.gl.
 usf.gl.			3600	IN	NS	ns3.modulo.gl.
@@ -23073,4 +23068,4 @@ VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN NSEC3 1 1 0 69CB137E VUL8DRBSTJJ1JE
 VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. OlCIyEa/DsYZJ70PJC43/FzOzagHzqBjjOQAWRQA9OiS+7rYzho/bgxB GLMwDzU8DX06bYlt3NvVIuVyzEEnyBEzpPVRPw2Fybl12LbcLQXLqQfL hXQvAWulEEJIkL0y+V/ABPftfdpbDWgWEEE/BhZctaxMfP3Aw1JynG/U waodFeSg6cBP3vS+nA1ZJSAeKvM2A9GLylc7cfRn7R+CImvAKVdd+u7Z fKfO9QIgYksLiNLGctjwQaee9/cq9wod8XSP3wuCM8P0udX2lB9RXHpw 0umX2PyoUHx6WUkKDOc+dpXPzNiMjN57lBjC13nYqTsCqZx5UaQB9ADk cABChA==
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN NSEC3 1 1 0 69CB137E 00D3UL2O9M016T39VM6MHB4BM9IH3DAP NS DS RRSIG
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. KgyHNT/ccfCC8+FrXeQQkupAccRoJu1Iu3e841XSxv9cMj2dbv0jULXG Kg7pLRUUAV5vMid39dr9KnYRqdPizyKnppP+++HZuwXRIvyxY6R8oX1c 5c7uJA4TmZc3BbWxMMIOPrb4hgGkfQOywKDlaO+hRuofhwYAUL+Ie9df khgQRepKs7GKx6xE1oUcthwTXgLAkOcLG7aeKWYD/MX+SGum5CWuqosD LqwBLXehsbSNuFcew78z2xjpfyebnk102N/iixh/Os+A+7Aurmcwo3aH WBsjP0JyM05UF1FPGYEi2Rb6gL+5/tOHbkZRLwMUoBoPOMqPVwKG9cW7 7IL5BA==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168390 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168398 900 1800 6048000 3600
