@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168386 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. ffLQHYe0gxPFqjwth8n74O+XK/trpBCLJpTuEyff6OHcG1wdR5y1ntUf JbCB1t3qONzOwDe8iPBrDlqg0HFfs+8ntTV2s9Ma4xFqgNtabBClL5tD iXubgA6sR19m9He/UeM0F8HpGmku0cpN5cgDmPoZq1sCvlXXnl33Zl3P 8vmXr8VjOZtgW1VlIPhJalxGUfNeA9RXFry4rCmu+aO90tR8hHL6Epn3 GqlGictHRvBY7XUx2h2nwQEpkeY5VihQdBVmFpAHVYwyoiRL4cyGicp0 5ETJcfvwxQ5wEnqYmuD6QrtqTMff7+UdM1l/wqlaYgLWLZbttNsZ2J+U ie4Saw==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168388 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. DLZP2H6whHVw4hiCuApUmrJB8g4PNJx9QV8/6Gmov5Z/X0V33Ewhz8QP ElCBClanJj99yn4SpWzbq0WABcm9Us/0l5zR0j5qJ2lRa/laxcUlwNSC kxnEfTSPvWseJOrNROiIo9MxbrGVKHsGQGC6Ju7vV7EKapd2UTJTOtN0 yRxXS/fOCCWbrESNubuOiwwEFMfEB/wuqERT05OT1cPoX/u3BCdHGHG2 +HGAa8eQ9JAzMIjvb3kbq+BZho6McbBjpfhQkqsfUxPmsOpCbIbSML/a vQmMIndEc+2OGi562AkI/Aqs+lLxkZ4k7UKLP2ZNMM1vCkpuhMHPdOS3 /NYGag==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -6757,9 +6757,8 @@ gg.gl.			3600	IN	NS	donald.ns.cloudflare.com.
 ggc.gl.			3600	IN	NS	ns1.dns.services.
 ggc.gl.			3600	IN	NS	ns2.dns.services.
 ggc.gl.			3600	IN	NS	ns3.dns.services.
-ggl.gl.			3600	IN	NS	ns10.nicnames.com.
-ggl.gl.			3600	IN	NS	ns11.nicnames.com.
-ggl.gl.			3600	IN	NS	ns12.nicnames.com.
+ggl.gl.			3600	IN	NS	seamus.ns.cloudflare.com.
+ggl.gl.			3600	IN	NS	kristin.ns.cloudflare.com.
 ggmgastro.gl.		3600	IN	NS	dns.teamartwork.com.
 ggmgastro.gl.		3600	IN	NS	dns2.teamartwork.com.
 ggnuuk.gl.		3600	IN	NS	ns1.hosting.inuit.gl.
@@ -17962,8 +17961,9 @@ soccerway.gl.		3600	IN	NS	ns-cloud-b1.googledomains.com.
 soccerway.gl.		3600	IN	NS	ns-cloud-b2.googledomains.com.
 soccerway.gl.		3600	IN	NS	ns-cloud-b3.googledomains.com.
 soccerway.gl.		3600	IN	NS	ns-cloud-b4.googledomains.com.
-social.gl.		3600	IN	NS	ns1.sedoparking.com.
-social.gl.		3600	IN	NS	ns2.sedoparking.com.
+social.gl.		3600	IN	NS	ns1.expireddomain.hyp.net.
+social.gl.		3600	IN	NS	ns2.expireddomain.hyp.net.
+social.gl.		3600	IN	NS	ns3.expireddomain.hyp.net.
 socialstyrelsen.gl.	3600	IN	NS	ns1.modulo.gl.
 socialstyrelsen.gl.	3600	IN	NS	ns2.modulo.gl.
 socialstyrelsen.gl.	3600	IN	NS	ns3.modulo.gl.
@@ -23073,4 +23073,4 @@ VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN NSEC3 1 1 0 69CB137E VUL8DRBSTJJ1JE
 VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. OlCIyEa/DsYZJ70PJC43/FzOzagHzqBjjOQAWRQA9OiS+7rYzho/bgxB GLMwDzU8DX06bYlt3NvVIuVyzEEnyBEzpPVRPw2Fybl12LbcLQXLqQfL hXQvAWulEEJIkL0y+V/ABPftfdpbDWgWEEE/BhZctaxMfP3Aw1JynG/U waodFeSg6cBP3vS+nA1ZJSAeKvM2A9GLylc7cfRn7R+CImvAKVdd+u7Z fKfO9QIgYksLiNLGctjwQaee9/cq9wod8XSP3wuCM8P0udX2lB9RXHpw 0umX2PyoUHx6WUkKDOc+dpXPzNiMjN57lBjC13nYqTsCqZx5UaQB9ADk cABChA==
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN NSEC3 1 1 0 69CB137E 00D3UL2O9M016T39VM6MHB4BM9IH3DAP NS DS RRSIG
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. KgyHNT/ccfCC8+FrXeQQkupAccRoJu1Iu3e841XSxv9cMj2dbv0jULXG Kg7pLRUUAV5vMid39dr9KnYRqdPizyKnppP+++HZuwXRIvyxY6R8oX1c 5c7uJA4TmZc3BbWxMMIOPrb4hgGkfQOywKDlaO+hRuofhwYAUL+Ie9df khgQRepKs7GKx6xE1oUcthwTXgLAkOcLG7aeKWYD/MX+SGum5CWuqosD LqwBLXehsbSNuFcew78z2xjpfyebnk102N/iixh/Os+A+7Aurmcwo3aH WBsjP0JyM05UF1FPGYEi2Rb6gL+5/tOHbkZRLwMUoBoPOMqPVwKG9cW7 7IL5BA==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168386 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168388 900 1800 6048000 3600
