@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168563 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. IhlYf0U6OajJN5R3HolUFcNcpmddsJ0yYM8Jc9P01P7iTQCh0w035Pjx du68s78xmqYrSrdfS5wJUQ9dP6o7be9dff+rW/wM42ilfHPonfCjJp2r z/L9+12+J5W3D3wmRQD+Nuh8t00oqAADLkWJcw2j4JZ1dZvFYa9bgRe/ tUEZ9Xi+slDFlAXD5a5s8sXk8gsPKfoFbSuMhZ7vG3A3Q3jbcPtlfP3j cTsK3xS/Vmi4+epMizDnsxqiv7bLcKoWPL3+wW1aYA116CDS782gB3il xTeMomPa3miGOOeifkpSgAEWwkoxDDsyQXB+7twTtoGl0ks0uz/nlBd1 hsjv6g==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168569 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. CxtOzj6gU04g79nRbKg/OBs7cD/NL/uu42yYA/emCT4uqSSAa6VUQ8Q6 Mdw7SXoUXhL36oSQDk5BhRFOrig/LhjsyeD2fZA+5gHI4F5pilPpUKth inLadww0TU98/DldhN+nIcbwCUgU35iJ2MXK0p91dtEF+SqfQZS+qmTt EDowBDS7V1h9ZZZRZt8MJwQoMCOp5lRC66ErELaU8KMBdAIs7731O3xr Poy+GbEVi0Fk+NZwiGipz41YxUyij1E5yZ8TsjUFzhM3GvpI/pq/6NjA PgxcsG4ZOaLIj2FkY/GfyNn6gvVYXa2cUMdalh4cL5xW4v0OuZH4xQvU Gg10Hg==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -2015,6 +2015,10 @@ audi.gl.		3600	IN	NS	ns2.audi.de.
 audi.gl.		3600	IN	NS	ns5.xc-ns.de.
 audit.gl.		3600	IN	NS	ns1.arvixeshared.com.
 audit.gl.		3600	IN	NS	ns2.arvixeshared.com.
+auktion.gl.		3600	IN	NS	a.hosting.gl.
+auktion.gl.		3600	IN	NS	b.hosting.gl.
+auktion.gl.		3600	IN	NS	c.hosting.gl.
+auktion.gl.		3600	IN	NS	d.hosting.gl.
 aul.gl.			3600	IN	NS	a.hosting.gl.
 aul.gl.			3600	IN	NS	b.hosting.gl.
 aul.gl.			3600	IN	NS	c.hosting.gl.
@@ -16622,9 +16626,6 @@ rex.gl.			3600	IN	NS	ns02.one.com.
 rexistro.gl.		3600	IN	NS	ns.dinahosting.com.
 rexistro.gl.		3600	IN	NS	ns2.dinahosting.com.
 rexistro.gl.		3600	IN	NS	ns3.dinahosting.com.
-rf.gl.			3600	IN	NS	ns-63-b.gandi.net.
-rf.gl.			3600	IN	NS	ns-133-a.gandi.net.
-rf.gl.			3600	IN	NS	ns-200-c.gandi.net.
 rg.gl.			3600	IN	NS	kyle.ns.cloudflare.com.
 rg.gl.			3600	IN	NS	cheryl.ns.cloudflare.com.
 rg.gl.			3600	IN	DS	2371 13 2 CA37BBF510925568DFC917CE3C730F9AE7EE1A43432D43EE7161955D 9EBDC330
@@ -23047,4 +23048,4 @@ VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN NSEC3 1 1 0 69CB137E VUL8DRBSTJJ1JE
 VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. OlCIyEa/DsYZJ70PJC43/FzOzagHzqBjjOQAWRQA9OiS+7rYzho/bgxB GLMwDzU8DX06bYlt3NvVIuVyzEEnyBEzpPVRPw2Fybl12LbcLQXLqQfL hXQvAWulEEJIkL0y+V/ABPftfdpbDWgWEEE/BhZctaxMfP3Aw1JynG/U waodFeSg6cBP3vS+nA1ZJSAeKvM2A9GLylc7cfRn7R+CImvAKVdd+u7Z fKfO9QIgYksLiNLGctjwQaee9/cq9wod8XSP3wuCM8P0udX2lB9RXHpw 0umX2PyoUHx6WUkKDOc+dpXPzNiMjN57lBjC13nYqTsCqZx5UaQB9ADk cABChA==
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN NSEC3 1 1 0 69CB137E 00D3UL2O9M016T39VM6MHB4BM9IH3DAP NS DS RRSIG
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. KgyHNT/ccfCC8+FrXeQQkupAccRoJu1Iu3e841XSxv9cMj2dbv0jULXG Kg7pLRUUAV5vMid39dr9KnYRqdPizyKnppP+++HZuwXRIvyxY6R8oX1c 5c7uJA4TmZc3BbWxMMIOPrb4hgGkfQOywKDlaO+hRuofhwYAUL+Ie9df khgQRepKs7GKx6xE1oUcthwTXgLAkOcLG7aeKWYD/MX+SGum5CWuqosD LqwBLXehsbSNuFcew78z2xjpfyebnk102N/iixh/Os+A+7Aurmcwo3aH WBsjP0JyM05UF1FPGYEi2Rb6gL+5/tOHbkZRLwMUoBoPOMqPVwKG9cW7 7IL5BA==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168563 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168569 900 1800 6048000 3600
