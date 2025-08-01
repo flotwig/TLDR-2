@@ -1,9 +1,4 @@
-;; Connection to 41.221.99.135#53(41.221.99.135) for mw. failed: timed out.
-;; no servers could be reached
-;; Connection to 41.221.99.135#53(41.221.99.135) for mw. failed: timed out.
-;; no servers could be reached
-;; Connection to 41.221.99.135#53(41.221.99.135) for mw. failed: timed out.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1753430701 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1754042701 1800 600 604800 1800
 mw.			18000	IN	NS	mw.cctld.authdns.ripe.net.
 mw.			18000	IN	NS	ns4.apnic.net.
 mw.			18000	IN	NS	rip.psg.com.
@@ -381,8 +376,6 @@ api.mw.			18000	IN	NS	gina.ns.cloudflare.com.
 api.mw.			18000	IN	NS	ernest.ns.cloudflare.com.
 apollotyres.mw.		18000	IN	NS	dns1.cscdns.net.
 apollotyres.mw.		18000	IN	NS	dns2.cscdns.net.
-app.mw.			18000	IN	NS	mariah.ns.cloudflare.com.
-app.mw.			18000	IN	NS	gabriel.ns.cloudflare.com.
 apple.mw.		18000	IN	NS	nsgbr.comlaude.co.uk.
 apple.mw.		18000	IN	NS	nssui.comlaude.ch.
 apple.mw.		18000	IN	NS	nsusa.comlaude.net.
@@ -706,7 +699,7 @@ bioderma.mw.		18000	IN	NS	nsb.perf1.com.
 bioderma.mw.		18000	IN	NS	nsc.perf1.com.
 biomerieux.mw.		18000	IN	NS	ns01.eolas.fr.
 biomerieux.mw.		18000	IN	NS	ns02.eolas.fr.
-biomerieux.mw.		18000	IN	NS	ns03.eolas.fr.
+biomerieux.mw.		18000	IN	NS	ns03.eolas-dns.eu.
 biontech.mw.		18000	IN	NS	ns.udag.de.
 biontech.mw.		18000	IN	NS	ns.udag.net.
 biontech.mw.		18000	IN	NS	ns.udag.org.
@@ -1005,8 +998,6 @@ cbs.mw.			18000	IN	NS	dns3.p09.nsone.net.
 cbs.mw.			18000	IN	NS	dns4.p09.nsone.net.
 cbs.mw.			18000	IN	NS	ns0004.secondary.cloudflare.com.
 cbs.mw.			18000	IN	NS	ns0243.secondary.cloudflare.com.
-ccap.mw.		18000	IN	NS	pdns13.domaincontrol.com.
-ccap.mw.		18000	IN	NS	pdns14.domaincontrol.com.
 ccuonline.mw.		18000	IN	NS	ns1.instradns.com.
 ccuonline.mw.		18000	IN	NS	ns2.instradns.com.
 ccuonline.mw.		18000	IN	NS	ns3.instradns.com.
@@ -1325,6 +1316,8 @@ daruliftaa.mw.		18000	IN	NS	ns1.dns-h.com.
 daruliftaa.mw.		18000	IN	NS	ns1.host-h.net.
 daruliftaa.mw.		18000	IN	NS	ns2.dns-h.com.
 daruliftaa.mw.		18000	IN	NS	ns2.host-h.net.
+dashen.mw.		18000	IN	NS	ns1.dyna-ns.net.
+dashen.mw.		18000	IN	NS	ns2.dyna-ns.net.
 datacom.mw.		18000	IN	NS	ns1.he.net.
 datacom.mw.		18000	IN	NS	ns2.he.net.
 datacom.mw.		18000	IN	NS	ns3.he.net.
@@ -1359,6 +1352,9 @@ designprinters.mw.	18000	IN	NS	ns1.linthipe4.com.
 designprinters.mw.	18000	IN	NS	ns2.linthipe4.com.
 destination.mw.		18000	IN	NS	ns3.servconfig.com.
 destination.mw.		18000	IN	NS	ns4.servconfig.com.
+dfs.mw.			18000	IN	NS	ams-ns1.websitehostserver.net.
+dfs.mw.			18000	IN	NS	chi-ns1.websitehostserver.net.
+dfs.mw.			18000	IN	NS	chi-ns2.websitehostserver.net.
 dhotmail.mw.		18000	IN	NS	ns1-09.azure-dns.com.
 dhotmail.mw.		18000	IN	NS	ns2-09.azure-dns.net.
 dhotmail.mw.		18000	IN	NS	ns3-09.azure-dns.org.
@@ -1877,9 +1873,6 @@ freseniusmedicalcare.mw. 18000	IN	NS	ns1.markmonitor.com.
 freseniusmedicalcare.mw. 18000	IN	NS	ns2.markmonitor.com.
 freseniusmedicalcare.mw. 18000	IN	NS	ns3.markmonitor.com.
 freseniusmedicalcare.mw. 18000	IN	NS	ns4.markmonitor.com.
-freseniusmedicalcare.mw. 18000	IN	NS	ns5.markmonitor.com.
-freseniusmedicalcare.mw. 18000	IN	NS	ns6.markmonitor.com.
-freseniusmedicalcare.mw. 18000	IN	NS	ns7.markmonitor.com.
 fsecure.mw.		18000	IN	NS	a4-64.akam.net.
 fsecure.mw.		18000	IN	NS	a7-66.akam.net.
 fsecure.mw.		18000	IN	NS	a1-129.akam.net.
@@ -2263,8 +2256,6 @@ hsbc.mw.		18000	IN	NS	ns20.hsbc.uk.
 hsbc.mw.		18000	IN	NS	ns20.hsbc.net.
 hsbc.mw.		18000	IN	NS	ns21.hsbc.uk.
 hsbc.mw.		18000	IN	NS	ns21.hsbc.net.
-ht.mw.			18000	IN	NS	ns2.globemw.com.
-ht.mw.			18000	IN	NS	ns3.globemw.com.
 htenterprise.mw.	18000	IN	NS	ns2.globemw.com.
 htenterprise.mw.	18000	IN	NS	ns3.globemw.com.
 htmalawi.mw.		18000	IN	NS	ns01.trademarkarea.com.
@@ -2600,10 +2591,6 @@ karooooo.mw.		18000	IN	NS	ns2.lexsynergy.us.
 karooooo.mw.		18000	IN	NS	ns3.lexsynergy.info.
 kasfreightmalawi.mw.	18000	IN	NS	ns1.linthipe4.com.
 kasfreightmalawi.mw.	18000	IN	NS	ns2.linthipe4.com.
-kasinthula.mw.		18000	IN	NS	ns1.mysecurecloudhost.com.
-kasinthula.mw.		18000	IN	NS	ns2.mysecurecloudhost.com.
-kasinthula.mw.		18000	IN	NS	ns3.mysecurecloudhost.com.
-kasinthula.mw.		18000	IN	NS	ns4.mysecurecloudhost.com.
 kaspersky.mw.		18000	IN	NS	ns1.markmonitor.com.
 kaspersky.mw.		18000	IN	NS	ns2.markmonitor.com.
 kasungucommunity.mw.	18000	IN	NS	domwe.sdn.mw.
@@ -2687,6 +2674,8 @@ kuwalatravel.mw.	18000	IN	NS	ns5.notfounderror.com.
 kuwalatravel.mw.	18000	IN	NS	ns6.notfounderror.com.
 kwacha.mw.		18000	IN	NS	ns1.dns-parking.com.
 kwacha.mw.		18000	IN	NS	ns2.dns-parking.com.
+kwachakonverters.mw.	18000	IN	NS	dns1.namecheaphosting.com.
+kwachakonverters.mw.	18000	IN	NS	dns2.namecheaphosting.com.
 kweza.mw.		18000	IN	NS	ns1.inmotionhosting.com.
 kweza.mw.		18000	IN	NS	ns2.inmotionhosting.com.
 kwithukitchen.mw.	18000	IN	NS	ns1.supercp.com.
@@ -3196,6 +3185,9 @@ metawhatsapp.mw.	18000	IN	NS	ns3.lexsynergy.info.
 metaworkplace.mw.	18000	IN	NS	ns1.lexsynergy.net.
 metaworkplace.mw.	18000	IN	NS	ns2.lexsynergy.us.
 metaworkplace.mw.	18000	IN	NS	ns3.lexsynergy.info.
+metaworld.mw.		18000	IN	NS	ns1.regery.net.
+metaworld.mw.		18000	IN	NS	ns2.regery.net.
+metaworld.mw.		18000	IN	NS	ns3.regery.net.
 mfc.mw.			18000	IN	NS	ns1.advancenet.co.za.
 mfc.mw.			18000	IN	NS	ns2.advancenet.co.za.
 mgcc.mw.		18000	IN	NS	ns1.bdsmw.com.
@@ -3428,6 +3420,8 @@ msd.mw.			18000	IN	NS	ns01.msddns.com.
 msd.mw.			18000	IN	NS	ns02.msddns.com.
 msd.mw.			18000	IN	NS	ns03.msddns.com.
 msd.mw.			18000	IN	NS	ns04.msddns.com.
+msika.mw.		18000	IN	NS	ns1.linthipe4.com.
+msika.mw.		18000	IN	NS	ns2.linthipe4.com.
 msikawanga.mw.		18000	IN	NS	ns1.pakayatechnologies.com.
 msikawanga.mw.		18000	IN	NS	ns2.pakayatechnologies.com.
 msn.mw.			18000	IN	NS	ns1-09.azure-dns.com.
@@ -3629,6 +3623,8 @@ networkappliance.mw.	18000	IN	NS	ns1.netnames.net.
 networkappliance.mw.	18000	IN	NS	ns2.netnames.net.
 netx.mw.		18000	IN	NS	ns7.alidns.com.
 netx.mw.		18000	IN	NS	ns8.alidns.com.
+nevotechsystems.mw.	18000	IN	NS	ns1.dns-parking.com.
+nevotechsystems.mw.	18000	IN	NS	ns2.dns-parking.com.
 newagesolutions.mw.	18000	IN	NS	ns1.newagesolutions.africa.
 newagesolutions.mw.	18000	IN	NS	ns2.newagesolutions.africa.
 news.mw.		18000	IN	NS	ns1.dyna-ns.net.
@@ -3777,8 +3773,6 @@ nycom.mw.		18000	IN	NS	ns1.bdsmw.com.
 nycom.mw.		18000	IN	NS	ns2.bdsmw.com.
 nycom.mw.		18000	IN	NS	ns3.bdsmw.com.
 nycom.mw.		18000	IN	NS	ns4.bdsmw.com.
-nyengo.mw.		18000	IN	NS	proxy2.africa-online.net.
-nyengo.mw.		18000	IN	NS	proxy3.africa-online.net.
 nyungwe.mw.		18000	IN	NS	domwe.sdn.mw.
 nyungwe.mw.		18000	IN	NS	nyala.sdnp.org.mw.
 nyungwefm.mw.		18000	IN	NS	ns1.bdsmw.com.
@@ -5414,4 +5408,4 @@ zurich.mw.		18000	IN	NS	ns1.a1.impervasecuredns.net.
 zurich.mw.		18000	IN	NS	ns1.a2.impervasecuredns.net.
 zutari.mw.		18000	IN	NS	dns1.cscdns.net.
 zutari.mw.		18000	IN	NS	dns2.cscdns.net.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1753430701 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1754042701 1800 600 604800 1800
