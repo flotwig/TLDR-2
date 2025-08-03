@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168699 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. LY3msa2QbXiChgLrnS8V/79FshqbRC9aqAp3kQ2zRdR47kNhfT3PSRhR Q4a/e+IUgCUyyNu3+vSsrQT0yurHbJqmONZrZPV8V6aUvKbkcmPNEm1i cdTQ8vDQcvUwPJmlUFFmWAITNdhr2drsJO2fENkVHpseb3GYGGeLbE0s 0LGD3XcA3ZzZ1ZLXTcYDlVZZTs91s5tIXqT4ow5RhRjeC4iqh4w29rro jxgM7h4H9momjZHeErqj7pFPPyn0fGMe5g0nhkEu/d+RZBHDro6C1hmv VxjmS8vMvpGpUtXImuWs/U9CmtAMw8wwp0obA38fXXlcDeqoD4yJwoUO MtBasg==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168704 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. g/1WsCyghLoRxnqkuvp7O3CqkmFpeJPzNoRb7C6xKGNsBb9d+6C+9pmy xdHFIbgD/TCWLBXp94suPMzGrqT6q8euSGHLglAax1ExT60g7YBiAmFL +D2WMDFRSsOJMBLUqhxrB20Dmwo67T4G8qFy1jPMuuPBAfJWdVkYx+m/ kvzlg3vlCTwTc4rNJr4rJ2B/1hnow2os2BxLFNlTjvPDfTJcIjXX5lrR ZZoXHYAQt4ImZ4EzgFRbsq+AcB62Rsl07gKOXTEs3WorbrSD/utSfDck 62h89E0y7PLQ7TjGdWn5KpafNE0nZU+MGi9Rj05HqGzMPRGT5b4qRU9a 4dH4Ng==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -2751,8 +2751,6 @@ bingo3.gl.		3600	IN	NS	ns4.simply.com.
 bingo3.gl.		3600	IN	DS	64343 13 2 087A5B586336D2F4870554CA256C605BEC6FDB1FA81928861F7A8F1A 0B8E947C
 bingo3.gl.		3600	IN	DS	64343 13 4 6A2B93688A664A27979EC75C7804402644042B7623FEA595812C2CAE B33C357C24D4C2C1445055137ECA70FE06082263
 bingo3.gl.		3600	IN	RRSIG	DS 8 2 3600 20251005090000 20250717090000 57390 gl. TFHTd403FUsj08xThRTLu4ROT+7as/6x1hjtCD2bgqGfXCAEB7G743DL lbPRgeMOHaYxafRTWSzx+lBLCH1PQxL/vYo+A4XcHl9aIuobzCyZOoAn cnh9aIjBNYF7L/ju8JWBnZmIVHazexBiB6o2DzRdBOc3i5mOi4W70TbJ GvzuBPegO9sv6h3zPqyoAuNVKO9KvYDfACNEHedKTWwBN7AIG7yJcYfi HbtO681kAMOd37+NV4VYmj6yeRCThwAsG/0mG5/EeXlsdxlbsdcsHvDw CY8o+PrfD/5zMNabuyC1MVoNGKzhnqn/QyLlzpT1cMjtAtZovL7Dyp4G y07z+w==
-bio.gl.			3600	IN	NS	ns1-expired.sav.com.
-bio.gl.			3600	IN	NS	ns2-expired.sav.com.
 bio-circle.gl.		3600	IN	NS	ns0.iquer.net.
 bio-circle.gl.		3600	IN	NS	ns1.iquer.net.
 bio-circle.gl.		3600	IN	NS	ns2.iquer.net.
@@ -6706,9 +6704,6 @@ gemander.gl.		3600	IN	NS	a.hosting.gl.
 gemander.gl.		3600	IN	NS	b.hosting.gl.
 gemander.gl.		3600	IN	NS	c.hosting.gl.
 gemander.gl.		3600	IN	NS	d.hosting.gl.
-gemini.gl.		3600	IN	NS	ns1.netim.net.
-gemini.gl.		3600	IN	NS	ns2.netim.net.
-gemini.gl.		3600	IN	NS	ns3.netim.net.
 gendigital.gl.		3600	IN	NS	ns1.markmonitor.com.
 gendigital.gl.		3600	IN	NS	ns2.markmonitor.com.
 genius.gl.		3600	IN	NS	ns0.transip.net.
@@ -16969,6 +16964,9 @@ saka-indeklima.gl.	3600	IN	NS	a.hosting.gl.
 saka-indeklima.gl.	3600	IN	NS	b.hosting.gl.
 saka-indeklima.gl.	3600	IN	NS	c.hosting.gl.
 saka-indeklima.gl.	3600	IN	NS	d.hosting.gl.
+sakkut.gl.		3600	IN	NS	ns1.simply.com.
+sakkut.gl.		3600	IN	NS	ns2.simply.com.
+sakkut.gl.		3600	IN	NS	ns3.simply.com.
 salary.gl.		3600	IN	NS	ns1.simply.com.
 salary.gl.		3600	IN	NS	ns2.simply.com.
 salary.gl.		3600	IN	NS	ns3.simply.com.
@@ -23058,4 +23056,4 @@ VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN NSEC3 1 1 0 69CB137E VUL8DRBSTJJ1JE
 VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. OlCIyEa/DsYZJ70PJC43/FzOzagHzqBjjOQAWRQA9OiS+7rYzho/bgxB GLMwDzU8DX06bYlt3NvVIuVyzEEnyBEzpPVRPw2Fybl12LbcLQXLqQfL hXQvAWulEEJIkL0y+V/ABPftfdpbDWgWEEE/BhZctaxMfP3Aw1JynG/U waodFeSg6cBP3vS+nA1ZJSAeKvM2A9GLylc7cfRn7R+CImvAKVdd+u7Z fKfO9QIgYksLiNLGctjwQaee9/cq9wod8XSP3wuCM8P0udX2lB9RXHpw 0umX2PyoUHx6WUkKDOc+dpXPzNiMjN57lBjC13nYqTsCqZx5UaQB9ADk cABChA==
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN NSEC3 1 1 0 69CB137E 00D3UL2O9M016T39VM6MHB4BM9IH3DAP NS DS RRSIG
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. KgyHNT/ccfCC8+FrXeQQkupAccRoJu1Iu3e841XSxv9cMj2dbv0jULXG Kg7pLRUUAV5vMid39dr9KnYRqdPizyKnppP+++HZuwXRIvyxY6R8oX1c 5c7uJA4TmZc3BbWxMMIOPrb4hgGkfQOywKDlaO+hRuofhwYAUL+Ie9df khgQRepKs7GKx6xE1oUcthwTXgLAkOcLG7aeKWYD/MX+SGum5CWuqosD LqwBLXehsbSNuFcew78z2xjpfyebnk102N/iixh/Os+A+7Aurmcwo3aH WBsjP0JyM05UF1FPGYEi2Rb6gL+5/tOHbkZRLwMUoBoPOMqPVwKG9cW7 7IL5BA==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168699 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168704 900 1800 6048000 3600
