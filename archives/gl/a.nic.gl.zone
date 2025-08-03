@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168715 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. hKyQMNCetPxEnCwHuQHshmtCui4tnHrHLStYXz/8t7p6hs5vGi9nMTjn ZC5wiH91L8ah+RT9iJmPDpnlZ7vev5MEI6AokZXEGK7lx+u+TQ0rxxz+ XTL3E2gGn1hfzfJ81VRcqeJDrwTTjIE2U0XcUcDm9vKJgNap3yA7miJM gVHOkO7Sd+TdGwSuNUiwREwk58lpZlvqkCyB2v5vJ6ZKI8hbU4LYdzOP zqB7UVbMttkWhRx10xrex6RXwdGBNXHFAvwbduzJif/GT27em7h8cgm4 hxyqfhtPAsEgxaWIPGBuLh91RKdt78dFOtSEMOletf2XMfBaP/al7P08 8KirzA==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168724 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. cjycfs3hsl8T1CKDrnNtfpDS7guBCRvuEnCdtFaDf4tGjG8e9VySioeT pRTRY53OhodEb9FCAxTLhzdI8VVsJ3taf2cTgr+dEI52MFzy38limyA6 aHfyaXNFgcCNmMu+srA27GfMjtude3cPMMkZ33OKLUbWlK6IFyFNz7xb 1tDQNq8uhGjD+fTUkYZLgr5GuhFrQZFsgH2YngFVp63fDsIWUGni4Oe0 iJnysaiD201J1LEVGqXi+Uu56+9CoVlhoc7Bn1a4GGuOb4HV7MHS1S3u rITldH6i3yYtXuqKZ4P8ggxn/0ppZbE1yyScT9jbArFQE1ZpPweatFMO Fv4RKw==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -13060,7 +13060,8 @@ nalunaarutit.gl.	3600	IN	NS	ns2.modulo.gl.
 nalunaarutit.gl.	3600	IN	NS	ns3.modulo.gl.
 nalunaq.gl.		3600	IN	NS	ns1.101domain.com.
 nalunaq.gl.		3600	IN	NS	ns2.101domain.com.
-name.gl.		3600	IN	NS	mia.ns.cloudflare.com.
+name.gl.		3600	IN	NS	connie.ns.cloudflare.com.
+name.gl.		3600	IN	NS	miguel.ns.cloudflare.com.
 nameyourownprice.gl.	3600	IN	NS	ns1.markmonitor.com.
 nameyourownprice.gl.	3600	IN	NS	ns2.markmonitor.com.
 nameyourownprice.gl.	3600	IN	NS	ns3.markmonitor.com.
@@ -14802,8 +14803,8 @@ onlinecasinos.gl.	3600	IN	NS	ns1.bb-online.net.
 onlinecasinos.gl.	3600	IN	NS	ns2.bb-online.org.
 onlinecasinos.gl.	3600	IN	NS	ns3.bb-online.info.
 onlinecasinos.gl.	3600	IN	NS	ns4.bb-online.biz.
-onlinecasinos.gl.	3600	IN	DS	20344 8 2 B4FEF429F2ABB6C344972352314CDEE26AE38E55197A5AF194ADF27D CD1ADE30
-onlinecasinos.gl.	3600	IN	RRSIG	DS 8 2 3600 20251005090000 20250717090000 57390 gl. enjjdrTQ7H4vTYAIGZfwHt9ieHYsA0/hjPJswh8OLrCB72gKvvypR1Ol 6Obrr3yxitE6iom52tdyg9EDJ1yFhHnIRDFovcmvytdtlfdnklJcFqp7 NBkGGSod4nz9ItGlQQi7wrPrramwAbp9tdtPLrmrnD22Zwzyrt+0zTTt HHxP54sQzeDzEvk7tN7uJ2fkNAwg2B7DJqnlhQbgEC1THrcfZ0IJYxdK FRybdMvzc+Gr4eewqNiSbVidsha5nyx0HjkLR7NHKPDjoIs2/qVl5Djm 146xgVrYgaS4xovXlG/yibC7nuGqH0K3RQajqtUAd/Ss7yROSnsb3nYe zQaNzw==
+onlinecasinos.gl.	3600	IN	DS	17026 8 2 9DB0BF806AD412D2A9C2DDA1AA3FDCCD631C45F4672E022D4864C694 BCA4D23F
+onlinecasinos.gl.	3600	IN	RRSIG	DS 8 2 3600 20251005090000 20250717090000 57390 gl. bbM3OjRXToQzQWHKXJQX6UxlkhgZX+WJTl1P3SoMt8d1DnPQ5GiStlvC 1Xe9KhA1DtVmfPesnIRUHNkqy+uo+5DZ31l/MMNvsAdi/vyaayro26er Go1DYBaAyCQ8FT+Cns6Bvw/1/CdezBzmK0EDcxldnAk0yxHBiGgYzKpX fGYEzsvbQNs9KXKWpCVNGZlBXZOluqw+DC7uq8kujW8PZfNYOVWkxjIy oGQ0g04GUht75ItuiYB5ErL31c3m1F/o7HGfoq8FAZN3q+aLzxn26lUM VdD/u+jVn2t6CBMokYPdeXnzoE38sEkKIV3AVmyd+UxinvTaRiNkM403 jgTXCg==
 onlineshop.gl.		3600	IN	NS	ns.gransy.com.
 onlineshop.gl.		3600	IN	NS	ns2.gransy.com.
 onlineshop.gl.		3600	IN	NS	ns3.gransy.com.
@@ -23063,4 +23064,4 @@ VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN NSEC3 1 1 0 69CB137E VUL8DRBSTJJ1JE
 VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. OlCIyEa/DsYZJ70PJC43/FzOzagHzqBjjOQAWRQA9OiS+7rYzho/bgxB GLMwDzU8DX06bYlt3NvVIuVyzEEnyBEzpPVRPw2Fybl12LbcLQXLqQfL hXQvAWulEEJIkL0y+V/ABPftfdpbDWgWEEE/BhZctaxMfP3Aw1JynG/U waodFeSg6cBP3vS+nA1ZJSAeKvM2A9GLylc7cfRn7R+CImvAKVdd+u7Z fKfO9QIgYksLiNLGctjwQaee9/cq9wod8XSP3wuCM8P0udX2lB9RXHpw 0umX2PyoUHx6WUkKDOc+dpXPzNiMjN57lBjC13nYqTsCqZx5UaQB9ADk cABChA==
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN NSEC3 1 1 0 69CB137E 00D3UL2O9M016T39VM6MHB4BM9IH3DAP NS DS RRSIG
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. KgyHNT/ccfCC8+FrXeQQkupAccRoJu1Iu3e841XSxv9cMj2dbv0jULXG Kg7pLRUUAV5vMid39dr9KnYRqdPizyKnppP+++HZuwXRIvyxY6R8oX1c 5c7uJA4TmZc3BbWxMMIOPrb4hgGkfQOywKDlaO+hRuofhwYAUL+Ie9df khgQRepKs7GKx6xE1oUcthwTXgLAkOcLG7aeKWYD/MX+SGum5CWuqosD LqwBLXehsbSNuFcew78z2xjpfyebnk102N/iixh/Os+A+7Aurmcwo3aH WBsjP0JyM05UF1FPGYEi2Rb6gL+5/tOHbkZRLwMUoBoPOMqPVwKG9cW7 7IL5BA==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168715 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168724 900 1800 6048000 3600
