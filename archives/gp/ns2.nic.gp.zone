@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025080114 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025080413 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -851,10 +851,6 @@ bosch.gp.		86400	IN	NS	gwa.fe.bosch.de.
 bosch.gp.		86400	IN	NS	gwa2.fe.bosch.de.
 bot.gp.			86400	IN	NS	dns5.cloudns.net.
 bot.gp.			86400	IN	NS	dns6.cloudns.net.
-botanicalgarden.gp.	86400	IN	NS	ns101.cloudns.net.
-botanicalgarden.gp.	86400	IN	NS	ns102.cloudns.net.
-botanicalgarden.gp.	86400	IN	NS	ns103.cloudns.net.
-botanicalgarden.gp.	86400	IN	NS	ns104.cloudns.net.
 boudoum.gp.		86400	IN	NS	dns.quad9.net.
 boudoum.gp.		86400	IN	NS	ns0.fdn.org.
 bouge.gp.		86400	IN	NS	ns10.ovh.net.
@@ -2607,10 +2603,6 @@ jan.gp.			86400	IN	NS	frankfurt.pickel.cc.
 jan.gp.			86400	IN	NS	duesseldorf4.pickel.cc.
 japan.gp.		86400	IN	NS	kiki.ns.cloudflare.com.
 japan.gp.		86400	IN	NS	achiel.ns.cloudflare.com.
-jardinbotanique.gp.	86400	IN	NS	ns101.cloudns.net.
-jardinbotanique.gp.	86400	IN	NS	ns102.cloudns.net.
-jardinbotanique.gp.	86400	IN	NS	ns103.cloudns.net.
-jardinbotanique.gp.	86400	IN	NS	ns104.cloudns.net.
 jde.gp.			86400	IN	NS	ns1.iptwins.net.
 jde.gp.			86400	IN	NS	ns2.iptwins.net.
 jde.gp.			86400	IN	NS	ns3.iptwins.com.
@@ -3677,8 +3669,10 @@ nfi.gp.			86400	IN	NS	ns20.ovh.net.
 nfi.gp.			86400	IN	NS	dns20.ovh.net.
 nft.gp.			86400	IN	NS	dns5.cloudns.net.
 nft.gp.			86400	IN	NS	dns6.cloudns.net.
-nhs.gp.			86400	IN	NS	ns1.30ww.com.
-nhs.gp.			86400	IN	NS	ns2.30ww.com.
+nhs.gp.			86400	IN	NS	ns1.aducus.com.
+nhs.gp.			86400	IN	NS	ns2.aducus.com.
+nhs.gp.			86400	IN	NS	ns3.aducus.com.
+nhs.gp.			86400	IN	NS	ns4.aducus.com.
 nic.gp.			86400	IN	NS	ns1.nic.gp.
 nic.gp.			86400	IN	NS	ns2.nic.gp.
 nic.gp.			86400	IN	NS	ns-gp.nic.fr.
@@ -4185,9 +4179,8 @@ puressentiel.gp.	86400	IN	NS	ns-117-a.gandi.net.
 puressentiel.gp.	86400	IN	NS	ns-201-c.gandi.net.
 puzzle.gp.		86400	IN	NS	ns1.amenworld.com.
 puzzle.gp.		86400	IN	NS	ns2.amenworld.com.
-pwcglobal.gp.		86400	IN	NS	dnsauth1.sys.gtei.net.
-pwcglobal.gp.		86400	IN	NS	dnsauth2.sys.gtei.net.
-pwcglobal.gp.		86400	IN	NS	dnsauth3.sys.gtei.net.
+pwcglobal.gp.		86400	IN	NS	dns1.cscdns.net.
+pwcglobal.gp.		86400	IN	NS	dns2.cscdns.net.
 q.gp.			86400	IN	NS	ns1.website.org.
 q.gp.			86400	IN	NS	ns2.website.org.
 q1.gp.			86400	IN	NS	dns1.cloudns.net.
@@ -4724,6 +4717,11 @@ sothys.gp.		86400	IN	NS	ns0.ordipat.fr.
 sothys.gp.		86400	IN	NS	ns2.ordipat.fr.
 sourire.gp.		86400	IN	NS	dns1.hosteur.com.
 sourire.gp.		86400	IN	NS	dns2.hosteur.com.
+sovy.gp.		86400	IN	NS	ns1.netim.net.
+sovy.gp.		86400	IN	NS	ns2.netim.net.
+sovy.gp.		86400	IN	NS	ns3.netim.net.
+sovy.gp.		86400	IN	NS	ns4.netim.net.
+sovy.gp.		86400	IN	NS	ns5.netim.net.
 sp.gp.			86400	IN	NS	ns11.ovh.net.
 sp.gp.			86400	IN	NS	dns11.ovh.net.
 spa.gp.			86400	IN	NS	kiki.ns.cloudflare.com.
@@ -4849,9 +4847,6 @@ sunnycars.gp.		86400	IN	NS	a.ns14.net.
 sunnycars.gp.		86400	IN	NS	b.ns14.net.
 sunnycars.gp.		86400	IN	NS	c.ns14.net.
 sunnycars.gp.		86400	IN	NS	d.ns14.net.
-sunsetcar.gp.		86400	IN	NS	nsa.n0c.com.
-sunsetcar.gp.		86400	IN	NS	nsb.n0c.com.
-sunsetcar.gp.		86400	IN	NS	nsc.n0c.com.
 supermarchebio.gp.	86400	IN	NS	ns1.francedns.com.
 supermarchebio.gp.	86400	IN	NS	ns2.francedns.com.
 supermarchebio.gp.	86400	IN	NS	ns3.francedns.com.
@@ -5190,8 +5185,10 @@ urbaclotp.gp.		86400	IN	NS	ns10.wixdns.net.
 urbaclotp.gp.		86400	IN	NS	ns11.wixdns.net.
 us.gp.			86400	IN	NS	kiki.ns.cloudflare.com.
 us.gp.			86400	IN	NS	achiel.ns.cloudflare.com.
-usa.gp.			86400	IN	NS	ns1.30ww.com.
-usa.gp.			86400	IN	NS	ns2.30ww.com.
+usa.gp.			86400	IN	NS	ns1.aducus.com.
+usa.gp.			86400	IN	NS	ns2.aducus.com.
+usa.gp.			86400	IN	NS	ns3.aducus.com.
+usa.gp.			86400	IN	NS	ns4.aducus.com.
 usdt.gp.		86400	IN	NS	ns7.alidns.com.
 usdt.gp.		86400	IN	NS	ns8.alidns.com.
 uz.gp.			86400	IN	NS	ns1.website.org.
@@ -5227,8 +5224,6 @@ vanityfair.gp.		86400	IN	NS	dns1.cscdns.net.
 vanityfair.gp.		86400	IN	NS	dns2.cscdns.net.
 vasa.gp.		86400	IN	NS	ns1.amenworld.com.
 vasa.gp.		86400	IN	NS	ns2.amenworld.com.
-vasseur.gp.		86400	IN	NS	ns20.ovh.net.
-vasseur.gp.		86400	IN	NS	dns20.ovh.net.
 vatel.gp.		86400	IN	NS	ns1.safebrands.fr.
 vatel.gp.		86400	IN	NS	ns2.safebrands.eu.
 vatel.gp.		86400	IN	NS	ns3.safebrands.com.
@@ -5611,4 +5606,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025080114 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025080413 86400 7200 2592000 345600
