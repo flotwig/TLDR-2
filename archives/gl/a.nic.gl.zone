@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168863 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. KjSKmLPwnCfJ/y7CNOtTeNkwMbyurh2khYOAQBM5xB2QYBgGJB301fuR x1UJTmMOxoFSsixPPdkQw/ms2A6dd/etPgYInbIash3CidnHQbnG2csR u8AFvVXrJg2oWWCa3ruZOe7ZrMfkzCUGlPNPsc2PtNIA4UgXOpXQrZMG W8Vh+dt7Jzm3UTdZVZEdoOxpMxXFwjFaOeB97xMmn6Y9vhbTCJY4YI93 yWbm4bh9Cwb4sKLUrll+03RrSJxtM3tqctaU9wvuHjuipYXpsasLIQg4 /bfIN/fBTZztWSK2q7n/+KneWYxi9yPP1RC2a5jnUMLKFSgFl7ADsbQo lNcTVA==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168866 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. bz1AZ4v+mrAJujNn7udSJY4eHkMGhMrOkTgra1Kn577UdlRbqpgKwIkj nSnxgeW1mmTQtgpCYNLWSEOds7vtVSGaPmxuzT7nzP1Ce0LpsXojI1UN YefPYACVo7m4Qhc+K0+bbjQj2fBGtu63pn6TgX4nMB4OPVfh0mGvHpL8 kePL0RIzIHWRtI598l9pM+hI1j7vhy3PYEyN3jUXQAagPkqJk9sjgaJs mQ+Vy98ZeJ9PAl93CDtezbJakVHutYzZzjZBJ79ETvlUH59ivyYkZi77 0Au7KKn3IJdAaPsjcWBXJJwrjJSPrczvt8At9k/prZbOdw6O2iIYVyau mZDS6g==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -4653,6 +4653,8 @@ diskobayexcursions.gl.	3600	IN	NS	a.hosting.gl.
 diskobayexcursions.gl.	3600	IN	NS	b.hosting.gl.
 diskobayexcursions.gl.	3600	IN	NS	c.hosting.gl.
 diskobayexcursions.gl.	3600	IN	NS	d.hosting.gl.
+diskoisland.gl.		3600	IN	NS	ns1.sedoparking.com.
+diskoisland.gl.		3600	IN	NS	ns2.sedoparking.com.
 diskoline.gl.		3600	IN	NS	ns1.pil.dk.
 diskoline.gl.		3600	IN	NS	ns2.pil.dk.
 diskoline.gl.		3600	IN	NS	ns3.pil.dk.
@@ -8182,6 +8184,8 @@ hotelreservationservice.gl. 3600 IN	NS	1.dnsservers.de.
 hotelreservationservice.gl. 3600 IN	NS	2.dns-servers.eu.
 hotelreservationservice.gl. 3600 IN	NS	3.dnsservers.de.
 hotelreservationservice.gl. 3600 IN	NS	4.dns-servers.eu.
+hotels.gl.		3600	IN	NS	ns1.sedoparking.com.
+hotels.gl.		3600	IN	NS	ns2.sedoparking.com.
 hotelservice.gl.	3600	IN	NS	1.dnsservers.de.
 hotelservice.gl.	3600	IN	NS	2.dns-servers.eu.
 hotelservice.gl.	3600	IN	NS	3.dnsservers.de.
@@ -9600,6 +9604,8 @@ jh.gl.			3600	IN	DS	14200 15 4 9C40D6CC98A665D9F8CD12355C7AAE8B8DE9A4F2A029C629C
 jh.gl.			3600	IN	RRSIG	DS 8 2 3600 20251005090000 20250717090000 57390 gl. A31T83md6ddQspRFz4CxSG6l79lDv6/8lJOXLg+VmxfxAk2+pXWVeu1y CqHMSzM3/kHwmmx9wvh3vo6carh0gGarTAYEbnusbU/onYCcL2dYlU4K LRGR1b63GN3D/w3kPtMA8F7wmHxNLXZFH6lAIpJWLTQtIbe+woiv0z5s 8iipwfhDc2O5eEXX0mGvfdUJTvDxxHmD1uM/N/Q8sPVHFsjBbLxQfXVy ND9/LqwXoBhQ58XjDsqbq6ekgDwSoc/YFyr5bqjs+qwyTmfdHvighqoB xlo+SYUsuuPvD84FRKasjmgrcBT2knwx9eorBimcV3eT2A8976LgzbFw BcCEug==
 ji.gl.			3600	IN	NS	ns1.aftermarket.com.
 ji.gl.			3600	IN	NS	ns2.aftermarket.com.
+jig.gl.			3600	IN	NS	ns1.sedoparking.com.
+jig.gl.			3600	IN	NS	ns2.sedoparking.com.
 jin.gl.			3600	IN	NS	ns-64-a.gandi.net.
 jin.gl.			3600	IN	NS	ns-177-c.gandi.net.
 jin.gl.			3600	IN	NS	ns-199-b.gandi.net.
@@ -9699,6 +9705,8 @@ jobtap.gl.		3600	IN	NS	ns3.iwantmyname.net.
 jobtap.gl.		3600	IN	NS	ns4.iwantmyname.net.
 joe.gl.			3600	IN	NS	ken.ns.cloudflare.com.
 joe.gl.			3600	IN	NS	sara.ns.cloudflare.com.
+jog.gl.			3600	IN	NS	ns1.sedoparking.com.
+jog.gl.			3600	IN	NS	ns2.sedoparking.com.
 johannesen.gl.		3600	IN	NS	ns1.bdm.microsoftonline.com.
 johannesen.gl.		3600	IN	NS	ns2.bdm.microsoftonline.com.
 johannesen.gl.		3600	IN	NS	ns3.bdm.microsoftonline.com.
@@ -12423,6 +12431,8 @@ milan.gl.		3600	IN	NS	cdns1.controlpanel.si.
 milan.gl.		3600	IN	NS	cdns2.controlpanel.si.
 milik.gl.		3600	IN	NS	tia.ns.cloudflare.com.
 milik.gl.		3600	IN	NS	jonah.ns.cloudflare.com.
+min.gl.			3600	IN	NS	ns1.sedoparking.com.
+min.gl.			3600	IN	NS	ns2.sedoparking.com.
 mindhelper.gl.		3600	IN	NS	ns1.modulo.gl.
 mindhelper.gl.		3600	IN	NS	ns2.modulo.gl.
 mindhelper.gl.		3600	IN	NS	ns3.modulo.gl.
@@ -16428,6 +16438,8 @@ reach.gl.		3600	IN	NS	mark.ns.cloudflare.com.
 reach.gl.		3600	IN	NS	opal.ns.cloudflare.com.
 reader.gl.		3600	IN	NS	owen.ns.cloudflare.com.
 reader.gl.		3600	IN	NS	tani.ns.cloudflare.com.
+realestate.gl.		3600	IN	NS	ns1.sedoparking.com.
+realestate.gl.		3600	IN	NS	ns2.sedoparking.com.
 realkompetencer.gl.	3600	IN	NS	ns3.nordicway.dk.
 realkompetencer.gl.	3600	IN	NS	ns4.nordicway.dk.
 rectan.gl.		3600	IN	NS	damien.ns.cloudflare.com.
@@ -16588,12 +16600,16 @@ reso.gl.		3600	IN	NS	ns4.monikerdns.net.
 resources.gl.		3600	IN	NS	ns1.modulo.gl.
 resources.gl.		3600	IN	NS	ns2.modulo.gl.
 resources.gl.		3600	IN	NS	ns3.modulo.gl.
+restaurant.gl.		3600	IN	NS	ns1.sedoparking.com.
+restaurant.gl.		3600	IN	NS	ns2.sedoparking.com.
 restaurant-nordbo.gl.	3600	IN	NS	ns1.curanet.dk.
 restaurant-nordbo.gl.	3600	IN	NS	ns2.curanet.dk.
 restaurant-tunit.gl.	3600	IN	NS	ns1.curanet.dk.
 restaurant-tunit.gl.	3600	IN	NS	ns2.curanet.dk.
 restaurantnordbo.gl.	3600	IN	NS	ns1.curanet.dk.
 restaurantnordbo.gl.	3600	IN	NS	ns2.curanet.dk.
+restaurants.gl.		3600	IN	NS	ns1.sedoparking.com.
+restaurants.gl.		3600	IN	NS	ns2.sedoparking.com.
 resume.gl.		3600	IN	NS	ns1.sedoparking.com.
 resume.gl.		3600	IN	NS	ns2.sedoparking.com.
 retard.gl.		3600	IN	NS	ns1.vercel-dns.com.
@@ -17667,6 +17683,8 @@ simzy.gl.		3600	IN	NS	ns2.brandshelter.de.
 simzy.gl.		3600	IN	NS	ns3.brandshelter.info.
 simzy.gl.		3600	IN	NS	ns4.brandshelter.net.
 simzy.gl.		3600	IN	NS	ns5.brandshelter.us.
+sin.gl.			3600	IN	NS	ns1.sedoparking.com.
+sin.gl.			3600	IN	NS	ns2.sedoparking.com.
 sinerissamik.gl.	3600	IN	NS	adam.ns.cloudflare.com.
 sinerissamik.gl.	3600	IN	NS	sharon.ns.cloudflare.com.
 sinerissamiradioqarfik.gl. 3600	IN	NS	adam.ns.cloudflare.com.
@@ -18951,6 +18969,10 @@ taxfree.gl.		3600	IN	NS	ns4.simply.com.
 taxfree.gl.		3600	IN	DS	30378 13 2 24B24FE742EFB877C80B4B1D08AC7AC8BEEEA9220CC8DA006BB6AB26 3F2AF28B
 taxfree.gl.		3600	IN	DS	30378 13 4 3D43B218A059A38D3A0D6FF8E5A6FEC5C9261A23C5179DCCB8830F19 08C96E754C0841B331F16B2B3C78EF4BC5E9D0E2
 taxfree.gl.		3600	IN	RRSIG	DS 8 2 3600 20251005090000 20250717090000 57390 gl. L5PqbIBReNR1q3mcXXDuioB3jmZ63tCCzE40mdLUoMmWWFiKRCfDdmhs 9tM0FBsGuFpELfpWj6pZOjpwbUwB6esCxU89ORJYinrn4zEsObTfc/UJ 82xYbkSAmU4w3PIfYoe4+jADJsIzfCrCt+Ma2g/yw1H0cmRXuhL0/rl7 jq/OlJ+1PET3vW5Fqn+tjD2gX3rUOTtUciO+bJbDME21ucTWMRntOft5 /VJ+N809zVceX+O+71BsrIJ2g7J/h4aex/G5TnO9laOeokdVMaVzcQf/ XBnl7hdCGKD9hElmJNNO3GO+W8bE2pDm9cEQF68UxwQzil04U2O7EdXZ P+zP3A==
+taxi.gl.		3600	IN	NS	ns1.sedoparking.com.
+taxi.gl.		3600	IN	NS	ns2.sedoparking.com.
+taxis.gl.		3600	IN	NS	ns1.sedoparking.com.
+taxis.gl.		3600	IN	NS	ns2.sedoparking.com.
 taycan.gl.		3600	IN	NS	dns.porsche.ch.
 taycan.gl.		3600	IN	NS	dns.porsche.de.
 taycan.gl.		3600	IN	NS	dns.porsche.com.
@@ -23054,4 +23076,4 @@ VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN NSEC3 1 1 0 69CB137E VUL8DRBSTJJ1JE
 VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. OlCIyEa/DsYZJ70PJC43/FzOzagHzqBjjOQAWRQA9OiS+7rYzho/bgxB GLMwDzU8DX06bYlt3NvVIuVyzEEnyBEzpPVRPw2Fybl12LbcLQXLqQfL hXQvAWulEEJIkL0y+V/ABPftfdpbDWgWEEE/BhZctaxMfP3Aw1JynG/U waodFeSg6cBP3vS+nA1ZJSAeKvM2A9GLylc7cfRn7R+CImvAKVdd+u7Z fKfO9QIgYksLiNLGctjwQaee9/cq9wod8XSP3wuCM8P0udX2lB9RXHpw 0umX2PyoUHx6WUkKDOc+dpXPzNiMjN57lBjC13nYqTsCqZx5UaQB9ADk cABChA==
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN NSEC3 1 1 0 69CB137E 00D3UL2O9M016T39VM6MHB4BM9IH3DAP NS DS RRSIG
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. KgyHNT/ccfCC8+FrXeQQkupAccRoJu1Iu3e841XSxv9cMj2dbv0jULXG Kg7pLRUUAV5vMid39dr9KnYRqdPizyKnppP+++HZuwXRIvyxY6R8oX1c 5c7uJA4TmZc3BbWxMMIOPrb4hgGkfQOywKDlaO+hRuofhwYAUL+Ie9df khgQRepKs7GKx6xE1oUcthwTXgLAkOcLG7aeKWYD/MX+SGum5CWuqosD LqwBLXehsbSNuFcew78z2xjpfyebnk102N/iixh/Os+A+7Aurmcwo3aH WBsjP0JyM05UF1FPGYEi2Rb6gL+5/tOHbkZRLwMUoBoPOMqPVwKG9cW7 7IL5BA==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168863 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168866 900 1800 6048000 3600
