@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168918 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. PlmfCf4m86flpxD3k6ZOdzMElmugsuPMCNg3msiaGEKnGP7b/kYy79YI wg6V+PLqrIzBfW884phiyW+vl8/KkASHomCeelX5y95NXt7PjPmX5ZPc V8pNlTeNWXaE1phBb5MRhnBO0Ah+9LpUtPRhNSx0pdyk3RalzaVu3cbX zoEiEN+LQ8d5gTBcKBMv1b6tctPHzJTwaxB1i9OfG2cDlcFz7SQND3R/ tHY2LgWqFsE9WB0anOYSyZx7fVIFtUE7YNFSg82uv8/q9NkbVwrk7uQz msmOd1t8EqQfCdk8Bc03yFmiQk+bS7ZmvOChYDfLqUA/0HpabuZmBCNQ ladYnQ==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168924 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. R5lwfnzHkNz/2MhZmyYy2D+YVgsEAwfv9n4wXfX7Yn2TbfdYleFPpzGx F8I/pcjqdTi10NlP3/oXz/3hNDLu3qF/h86E6qNCmgNSvg2dbW1Eptz7 T6N74u5Zxa1bATa7UvubJjBUyl8YOAY/aEJN9cx/nGqfPTo2217kZEWB YMHPGgE5jnvCR3rLXTEvBUl7XRBfH+t6s+vsrvrYmknPxc7Nl0kr2Rr6 siALVhLNopXapS/eNtMHts4nDkkxxS6TgLw7vFGsA0oFNGPiNOpVM0T2 8Xcnfdoqh0BbGQ+9cktPGuxztJ5XNHalJ9VCdnU8l/0xpth1wKjTyWOc 6+v4XQ==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -7894,6 +7894,8 @@ hhl.gl.			3600	IN	NS	pns31.cloudns.net.
 hhl.gl.			3600	IN	NS	pns32.cloudns.net.
 hhl.gl.			3600	IN	NS	pns33.cloudns.net.
 hhl.gl.			3600	IN	NS	pns34.cloudns.net.
+hi.gl.			3600	IN	NS	ns1.sav.com.
+hi.gl.			3600	IN	NS	ns2.sav.com.
 hid.gl.			3600	IN	NS	ns1.linode.com.
 hid.gl.			3600	IN	NS	ns2.linode.com.
 hid.gl.			3600	IN	NS	ns3.linode.com.
@@ -9202,6 +9204,8 @@ investwithconfidence.gl. 3600	IN	NS	edns1.ultradns.biz.
 investwithconfidence.gl. 3600	IN	NS	edns1.ultradns.com.
 investwithconfidence.gl. 3600	IN	NS	edns1.ultradns.net.
 investwithconfidence.gl. 3600	IN	NS	edns1.ultradns.org.
+io.gl.			3600	IN	NS	ns1.sav.com.
+io.gl.			3600	IN	NS	ns2.sav.com.
 iot.gl.			3600	IN	NS	ns1.hosting.inuit.gl.
 iot.gl.			3600	IN	NS	ns2.hosting.inuit.gl.
 ip.gl.			3600	IN	NS	bella.ns.cloudflare.com.
@@ -20591,10 +20595,6 @@ viz.gl.			3600	IN	NS	ns1.iwantmyname.net.
 viz.gl.			3600	IN	NS	ns2.iwantmyname.net.
 viz.gl.			3600	IN	NS	ns3.iwantmyname.net.
 viz.gl.			3600	IN	NS	ns4.iwantmyname.net.
-vl.gl.			3600	IN	NS	ns-217.awsdns-27.com.
-vl.gl.			3600	IN	NS	ns-1004.awsdns-61.net.
-vl.gl.			3600	IN	NS	ns-1272.awsdns-31.org.
-vl.gl.			3600	IN	NS	ns-1940.awsdns-50.co.uk.
 vlxx.gl.		3600	IN	NS	a10.share-dns.com.
 vlxx.gl.		3600	IN	NS	b10.share-dns.net.
 vm.gl.			3600	IN	NS	1-you.njalla.no.
@@ -23091,4 +23091,4 @@ VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN NSEC3 1 1 0 69CB137E VUL8DRBSTJJ1JE
 VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. OlCIyEa/DsYZJ70PJC43/FzOzagHzqBjjOQAWRQA9OiS+7rYzho/bgxB GLMwDzU8DX06bYlt3NvVIuVyzEEnyBEzpPVRPw2Fybl12LbcLQXLqQfL hXQvAWulEEJIkL0y+V/ABPftfdpbDWgWEEE/BhZctaxMfP3Aw1JynG/U waodFeSg6cBP3vS+nA1ZJSAeKvM2A9GLylc7cfRn7R+CImvAKVdd+u7Z fKfO9QIgYksLiNLGctjwQaee9/cq9wod8XSP3wuCM8P0udX2lB9RXHpw 0umX2PyoUHx6WUkKDOc+dpXPzNiMjN57lBjC13nYqTsCqZx5UaQB9ADk cABChA==
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN NSEC3 1 1 0 69CB137E 00D3UL2O9M016T39VM6MHB4BM9IH3DAP NS DS RRSIG
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. KgyHNT/ccfCC8+FrXeQQkupAccRoJu1Iu3e841XSxv9cMj2dbv0jULXG Kg7pLRUUAV5vMid39dr9KnYRqdPizyKnppP+++HZuwXRIvyxY6R8oX1c 5c7uJA4TmZc3BbWxMMIOPrb4hgGkfQOywKDlaO+hRuofhwYAUL+Ie9df khgQRepKs7GKx6xE1oUcthwTXgLAkOcLG7aeKWYD/MX+SGum5CWuqosD LqwBLXehsbSNuFcew78z2xjpfyebnk102N/iixh/Os+A+7Aurmcwo3aH WBsjP0JyM05UF1FPGYEi2Rb6gL+5/tOHbkZRLwMUoBoPOMqPVwKG9cW7 7IL5BA==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168918 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168924 900 1800 6048000 3600
