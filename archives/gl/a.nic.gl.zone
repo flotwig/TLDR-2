@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168947 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. HYLTZWQDmD/wsGxXdwS3MdiQS99XKo/l8OUdNo2pSaBefoMN5yeAVEm6 +xxXPKpA1W/vgWr+AGWbwS7DyxJd+G3sMFHGHnj3A82tWCTYmMF/kctW 0gP8Z2DRPPZ872uzQMp/eQfzrYEQoTZwawq4gBYVaIh64PHPgjZNIO9a 09S0KMeZyU6EXY+qYZpEkPFQZYk25dU1nSQQ48IFDwNqdJZ4Jj2aHF7I hyAlDEIWsZpD8c8g/BLKaPclyHFOSD/ezoU92Yb+AUqOQjaq4hTuneMu YLlMPIJgkDxM7XCCRLqZxIBkYHVaq9dvXgv7XW5myc71qtK6Nv8zqTTg MGu1ng==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168959 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. BpDB320CvB6y5xjuBTj7Cs3CBy+WlWzs+fBCn/XEnsIrhR8BzHsNuYOK eK2rf8fLN9/7vi7kyRfumzkY6BupbtI74IxHOsh2E+g4VW8wO3JaGhCW m61/gerfqA4K6TTq7xu10UgF+2Do/mtxz4Q+P5EUJj+sehUXNWmh0fqf raxCgOwoT9SBf0dTcvhrj/AeIK7kpv8BOHgcOOPCQamRNvYJzVR8wWAV LEQijSRntImWmZo6KRj4tFyyUA3al06MzQIRk7BwxQIxCd55apWc6K+X oxZEGN4sY92dMvtMjqCieoW8SKCbwYNeRDegAZw16oj/fAWQj2a1ah/G h7lkYQ==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -3560,8 +3560,8 @@ captcha-kra6.gl.	3600	IN	NS	ns1.disabled.ispapi.net.
 captcha-kra6.gl.	3600	IN	NS	ns3.disabled.ispapi.net.
 captcha-kra7.gl.	3600	IN	NS	ns1.disabled.ispapi.net.
 captcha-kra7.gl.	3600	IN	NS	ns3.disabled.ispapi.net.
-car.gl.			3600	IN	NS	ns1.sedoparking.com.
-car.gl.			3600	IN	NS	ns2.sedoparking.com.
+car.gl.			3600	IN	NS	launch1.spaceship.net.
+car.gl.			3600	IN	NS	launch2.spaceship.net.
 caravan.gl.		3600	IN	NS	ns1.brandshelter.com.
 caravan.gl.		3600	IN	NS	ns2.brandshelter.de.
 caravan.gl.		3600	IN	NS	ns3.brandshelter.info.
@@ -8295,6 +8295,8 @@ hsbc.gl.		3600	IN	NS	ns21.hsbc.uk.
 hsbc.gl.		3600	IN	NS	ns21.hsbc.net.
 hsbyg.gl.		3600	IN	NS	ns1.hosting.inuit.gl.
 hsbyg.gl.		3600	IN	NS	ns2.hosting.inuit.gl.
+hsl.gl.			3600	IN	NS	etta.ns.cloudflare.com.
+hsl.gl.			3600	IN	NS	terry.ns.cloudflare.com.
 ht.gl.			3600	IN	NS	tara.ns.cloudflare.com.
 ht.gl.			3600	IN	NS	mitch.ns.cloudflare.com.
 hth.gl.			3600	IN	NS	udns1.cscdns.net.
@@ -23086,4 +23088,4 @@ VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN NSEC3 1 1 0 69CB137E VUL8DRBSTJJ1JE
 VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. OlCIyEa/DsYZJ70PJC43/FzOzagHzqBjjOQAWRQA9OiS+7rYzho/bgxB GLMwDzU8DX06bYlt3NvVIuVyzEEnyBEzpPVRPw2Fybl12LbcLQXLqQfL hXQvAWulEEJIkL0y+V/ABPftfdpbDWgWEEE/BhZctaxMfP3Aw1JynG/U waodFeSg6cBP3vS+nA1ZJSAeKvM2A9GLylc7cfRn7R+CImvAKVdd+u7Z fKfO9QIgYksLiNLGctjwQaee9/cq9wod8XSP3wuCM8P0udX2lB9RXHpw 0umX2PyoUHx6WUkKDOc+dpXPzNiMjN57lBjC13nYqTsCqZx5UaQB9ADk cABChA==
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN NSEC3 1 1 0 69CB137E 00D3UL2O9M016T39VM6MHB4BM9IH3DAP NS DS RRSIG
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. KgyHNT/ccfCC8+FrXeQQkupAccRoJu1Iu3e841XSxv9cMj2dbv0jULXG Kg7pLRUUAV5vMid39dr9KnYRqdPizyKnppP+++HZuwXRIvyxY6R8oX1c 5c7uJA4TmZc3BbWxMMIOPrb4hgGkfQOywKDlaO+hRuofhwYAUL+Ie9df khgQRepKs7GKx6xE1oUcthwTXgLAkOcLG7aeKWYD/MX+SGum5CWuqosD LqwBLXehsbSNuFcew78z2xjpfyebnk102N/iixh/Os+A+7Aurmcwo3aH WBsjP0JyM05UF1FPGYEi2Rb6gL+5/tOHbkZRLwMUoBoPOMqPVwKG9cW7 7IL5BA==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168947 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168959 900 1800 6048000 3600
