@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168959 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. BpDB320CvB6y5xjuBTj7Cs3CBy+WlWzs+fBCn/XEnsIrhR8BzHsNuYOK eK2rf8fLN9/7vi7kyRfumzkY6BupbtI74IxHOsh2E+g4VW8wO3JaGhCW m61/gerfqA4K6TTq7xu10UgF+2Do/mtxz4Q+P5EUJj+sehUXNWmh0fqf raxCgOwoT9SBf0dTcvhrj/AeIK7kpv8BOHgcOOPCQamRNvYJzVR8wWAV LEQijSRntImWmZo6KRj4tFyyUA3al06MzQIRk7BwxQIxCd55apWc6K+X oxZEGN4sY92dMvtMjqCieoW8SKCbwYNeRDegAZw16oj/fAWQj2a1ah/G h7lkYQ==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168965 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. VEYAID6Qyx/SeFKD9KPlZ1SFeeX1JO0TvloRsJJEVtJJxcY1SxzokBCk XUGo0VzMW/9KYMyVPpryORfm7IKSfUS/rCcLIv3kfMvpzPCbk7tKsS/C ABdV26k3RcIJaM3L+eWv8TYQFXep5FZ7f5DRtmJtIUKpeT8mwUJD0H6R M11KTTTMFhHwcDbnaaNlM2B4WYKEMRSVn/oklfhJBu2QZ/KjRQdQ6T9x HpEcB6oOBYokmdtzNM26Eimp5/laBj0/HAutcBcfvxiMURl7EylMBSNw ZmoA7fAuW5TJGIlCcApDSl1dCxFEzCYUjS3lJkihFG8Ee+4Gh51fRFuU lm34Pg==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -2434,6 +2434,9 @@ baza.gl.		3600	IN	NS	henrik.ns.cloudflare.com.
 baza.gl.		3600	IN	NS	clarissa.ns.cloudflare.com.
 baza10.gl.		3600	IN	NS	aria.ns.cloudflare.com.
 baza10.gl.		3600	IN	NS	felipe.ns.cloudflare.com.
+bazaar.gl.		3600	IN	NS	1-you.njalla.no.
+bazaar.gl.		3600	IN	NS	2-can.njalla.in.
+bazaar.gl.		3600	IN	NS	3-get.njalla.fo.
 bazr.gl.		3600	IN	NS	bailey.ns.cloudflare.com.
 bazr.gl.		3600	IN	NS	elijah.ns.cloudflare.com.
 bb.gl.			3600	IN	NS	ns1.siteground.net.
@@ -2528,6 +2531,8 @@ bebra.gl.		3600	IN	NS	grant.ns.cloudflare.com.
 bebra.gl.		3600	IN	NS	luciane.ns.cloudflare.com.
 beccaletto.gl.		3600	IN	NS	ns1.glariosa.com.
 beccaletto.gl.		3600	IN	NS	ns2.glariosa.com.
+beckons.gl.		3600	IN	NS	ns1.101domain.com.
+beckons.gl.		3600	IN	NS	ns2.101domain.com.
 beclub.gl.		3600	IN	NS	ns3.my-ndns.com.
 beclub.gl.		3600	IN	NS	ns4.my-ndns.com.
 becom.gl.		3600	IN	NS	may.ns.cloudflare.com.
@@ -23088,4 +23093,4 @@ VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN NSEC3 1 1 0 69CB137E VUL8DRBSTJJ1JE
 VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. OlCIyEa/DsYZJ70PJC43/FzOzagHzqBjjOQAWRQA9OiS+7rYzho/bgxB GLMwDzU8DX06bYlt3NvVIuVyzEEnyBEzpPVRPw2Fybl12LbcLQXLqQfL hXQvAWulEEJIkL0y+V/ABPftfdpbDWgWEEE/BhZctaxMfP3Aw1JynG/U waodFeSg6cBP3vS+nA1ZJSAeKvM2A9GLylc7cfRn7R+CImvAKVdd+u7Z fKfO9QIgYksLiNLGctjwQaee9/cq9wod8XSP3wuCM8P0udX2lB9RXHpw 0umX2PyoUHx6WUkKDOc+dpXPzNiMjN57lBjC13nYqTsCqZx5UaQB9ADk cABChA==
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN NSEC3 1 1 0 69CB137E 00D3UL2O9M016T39VM6MHB4BM9IH3DAP NS DS RRSIG
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. KgyHNT/ccfCC8+FrXeQQkupAccRoJu1Iu3e841XSxv9cMj2dbv0jULXG Kg7pLRUUAV5vMid39dr9KnYRqdPizyKnppP+++HZuwXRIvyxY6R8oX1c 5c7uJA4TmZc3BbWxMMIOPrb4hgGkfQOywKDlaO+hRuofhwYAUL+Ie9df khgQRepKs7GKx6xE1oUcthwTXgLAkOcLG7aeKWYD/MX+SGum5CWuqosD LqwBLXehsbSNuFcew78z2xjpfyebnk102N/iixh/Os+A+7Aurmcwo3aH WBsjP0JyM05UF1FPGYEi2Rb6gL+5/tOHbkZRLwMUoBoPOMqPVwKG9cW7 7IL5BA==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168959 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168965 900 1800 6048000 3600
