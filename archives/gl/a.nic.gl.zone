@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168968 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. fadDV/W1CLbJCgxj5vDtfpyaiwQrYGUaNGuUkLwocnJ4aRVVZVAUxqMK Q1+gV4pvB+zSagAVRV7nwFKwW6ZHKNORNA77004ga0NKqhjh3Hi0aXcx El3u48+ZnhIEROCgX6LWo6bbFhgjVDnhnKsHIJz0iZCtV9T1RNC2gXmm h1TcRnjOljJgFrBEvj6LZIPZ2o6ADsT1t3DPphlrXCY53BvBbDANF8+9 Ob8nADfqg3gzn29PuahFwqvjaWaByMJ26FODAbsPdspASMFrnm3z9fPa HU8DU/01HmfJga8KZNQGYnyZF3kbhvtIXUEVrZlKIWJTf+f7NV129s+S ugZodA==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168973 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. BJimCcy3UxO1RXnc7etNLXIVQ9RrKl/rm3jV+R6f0d+91TRq1C/4bYiD kc9QGIEl3MrBWOLliPg6/woF8oGSw+kUrhR3wvUjU5unMqGRs8Xixi4I /YHkvH6ohgPPZfvKiyRJeNUhEe7+vNjkFSlVhwfRvY1zNNKa8L1iBDBk kpft+QxRbh9ZdYHyd0fLoG3vyVl/JMbr7J2JGn7XE7TK4CCH8F2Efk2O sce5aA7evki0MUxE3X+akg0DVs02JZcJXQRvJV/qcbNqCMlllHxyFG9h aNvPr/JSqKkUpubRVMBrIuTRwvNS877Z1Bu8hev1fIx9PMDc160nIlB0 vdnSsg==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -15267,6 +15267,8 @@ pb.gl.			3600	IN	NS	sl1.sedo.com.
 pb.gl.			3600	IN	NS	sl2.sedo.com.
 pbd.gl.			3600	IN	NS	amalia.ns.cloudflare.com.
 pbd.gl.			3600	IN	NS	emerson.ns.cloudflare.com.
+pbknf.gl.		3600	IN	NS	sonia.ns.cloudflare.com.
+pbknf.gl.		3600	IN	NS	garret.ns.cloudflare.com.
 pbo.gl.			3600	IN	NS	ns3.combell.net.
 pbo.gl.			3600	IN	NS	ns4.combell.net.
 pbs.gl.			3600	IN	NS	udns1.cscdns.net.
@@ -20891,12 +20893,13 @@ wellness.gl.		3600	IN	NS	ns1.gigahost.dk.
 wellness.gl.		3600	IN	NS	ns2.gigahost.dk.
 wellness.gl.		3600	IN	NS	ns3.gigahost.dk.
 wellness.gl.		3600	IN	NS	ns4.gigahost.dk.
-wellsfargo.gl.		3600	IN	NS	a2-64.akam.net.
-wellsfargo.gl.		3600	IN	NS	edns1.ultradns.biz.
-wellsfargo.gl.		3600	IN	NS	edns1.ultradns.com.
-wellsfargo.gl.		3600	IN	NS	edns1.ultradns.net.
-wellsfargo.gl.		3600	IN	NS	a1-189.akam.net.
-wellsfargo.gl.		3600	IN	NS	a24-66.akam.net.
+wellsfargo.gl.		3600	IN	NS	ns1.markmonitor.com.
+wellsfargo.gl.		3600	IN	NS	ns2.markmonitor.com.
+wellsfargo.gl.		3600	IN	NS	ns3.markmonitor.com.
+wellsfargo.gl.		3600	IN	NS	ns4.markmonitor.com.
+wellsfargo.gl.		3600	IN	NS	ns5.markmonitor.com.
+wellsfargo.gl.		3600	IN	NS	ns6.markmonitor.com.
+wellsfargo.gl.		3600	IN	NS	ns7.markmonitor.com.
 wemarket.gl.		3600	IN	RRSIG	DS 8 2 3600 20251005090000 20250717090000 57390 gl. bIxsnzlG4MZLf2ZEdOI0+WCpxqDOmQuLtn4FE4dGZgO+H5sf47eJsJY2 hNJPKt6z2/rXsU9JGQ3pZRpQcrjjFVLieSWmnCyGIqvJc9BEBKJqEyqP UGM/71gEgjH9Yel1LlqSorb+d10MkcIvmOimzJq7XhEKhO+YjtgrOQoU oj/mdGUbbmikwkx8ta3CEgI0PcYUxXkqesE4Ru6hoTdRO5TJN41MmUcv URBsdTpGnEsnZJ6cA1uqJBJqstoP8hiunJBX2uCEOntmKCSLej3/phC0 roA3PKIaAXejgAMA8IW8ShIVIH38hcP4dQefGFFyb6EAPcG5PheL1Yjx 55D1Og==
 wemarket.gl.		3600	IN	DS	229 13 2 63A39702D3C6CA6F7DB2CEB25A9A9D559CB289A36BE220C8DD7E7F1F C6B14EA2
 wemarket.gl.		3600	IN	NS	ns1.simply.com.
@@ -21063,6 +21066,8 @@ wook.gl.		3600	IN	NS	ns1.icp100.net.
 wook.gl.		3600	IN	NS	ns2.icp100.net.
 woolrich.gl.		3600	IN	NS	ns1.register.it.
 woolrich.gl.		3600	IN	NS	ns2.register.it.
+woozn.gl.		3600	IN	NS	sonia.ns.cloudflare.com.
+woozn.gl.		3600	IN	NS	garret.ns.cloudflare.com.
 work.gl.		3600	IN	NS	dns1.epag.net.
 work.gl.		3600	IN	NS	dns2.epag.net.
 workgreenland.gl.	3600	IN	NS	ns1.simply.com.
@@ -23093,4 +23098,4 @@ VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN NSEC3 1 1 0 69CB137E VUL8DRBSTJJ1JE
 VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. OlCIyEa/DsYZJ70PJC43/FzOzagHzqBjjOQAWRQA9OiS+7rYzho/bgxB GLMwDzU8DX06bYlt3NvVIuVyzEEnyBEzpPVRPw2Fybl12LbcLQXLqQfL hXQvAWulEEJIkL0y+V/ABPftfdpbDWgWEEE/BhZctaxMfP3Aw1JynG/U waodFeSg6cBP3vS+nA1ZJSAeKvM2A9GLylc7cfRn7R+CImvAKVdd+u7Z fKfO9QIgYksLiNLGctjwQaee9/cq9wod8XSP3wuCM8P0udX2lB9RXHpw 0umX2PyoUHx6WUkKDOc+dpXPzNiMjN57lBjC13nYqTsCqZx5UaQB9ADk cABChA==
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN NSEC3 1 1 0 69CB137E 00D3UL2O9M016T39VM6MHB4BM9IH3DAP NS DS RRSIG
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. KgyHNT/ccfCC8+FrXeQQkupAccRoJu1Iu3e841XSxv9cMj2dbv0jULXG Kg7pLRUUAV5vMid39dr9KnYRqdPizyKnppP+++HZuwXRIvyxY6R8oX1c 5c7uJA4TmZc3BbWxMMIOPrb4hgGkfQOywKDlaO+hRuofhwYAUL+Ie9df khgQRepKs7GKx6xE1oUcthwTXgLAkOcLG7aeKWYD/MX+SGum5CWuqosD LqwBLXehsbSNuFcew78z2xjpfyebnk102N/iixh/Os+A+7Aurmcwo3aH WBsjP0JyM05UF1FPGYEi2Rb6gL+5/tOHbkZRLwMUoBoPOMqPVwKG9cW7 7IL5BA==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168968 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022168973 900 1800 6048000 3600
