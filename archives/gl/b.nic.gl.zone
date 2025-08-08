@@ -1,5 +1,5 @@
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022169015 900 1800 6048000 3600
-gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. ZkdD/KDIDVt/5xxdRB/RyuO+MlpN9+rKy6L7E8aB0KnFeNcT1bgqFx/R 9ujBENPiIY0lbGy2CaSwv3dlME1uvbtpYpqYBtViRGzjAtq3i9zT6K4B 6cRF77D8HY8gckKKHtOoBOhgZR6yFCMY3hlKbN3qg1tfcWgBmGVdOrZg bP2Yeb7TgEG6A5FgI81YkoSjzusiX0XdoLb4x1rollWWFjXl8zwWsiJt 81O1Jgf8t+x+uiVQKG42wdLeLyRe8xervWoOfzHT55AfM5zcPXFSZjFg zjgxUW3zZ7qZ4QS6n0kXxl1bBehoUlH+UlOTr+QYTSTeSW1yCIq3+4uh uSXtVA==
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022169018 900 1800 6048000 3600
+gl.			900	IN	RRSIG	SOA 8 1 900 20251005090000 20250717090000 57390 gl. KLXcFFNS9PA1eFSAITci3hdfDZdYP3uPf8wZf9K+UNkgAc1fisCUyEUw DAhDFOKb025JzyHal1qEDMO4OhAzIK0N+Mr3glqA1azOBDtswKiSYTml ASWAibsCWKLf+4ZuAxNDKU5M4hX85k9iKSOd8o8WVxAbMG8RucVhwPwB rvoib+97e0bTfPbLHGM5QHiJWs+ERAStpOJMJs1t+Z82l4OfG/NZNqCG hxcbFX5nTU2MyjgipOF72Je9qVHL+w8lJVD+GlFbw97ZGnNMvWsKRtbq 4Kcit5CNslnfd2T4uWDW8p/g26MaLumyWZYOCTHILjgFufVWITNXlOy4 cbqYKg==
 gl.			86400	IN	NS	a.nic.gl.
 gl.			86400	IN	NS	b.nic.gl.
 gl.			86400	IN	NS	d.nic.gl.
@@ -9822,10 +9822,11 @@ juancarlosescotet.gl.	3600	IN	NS	ns3.interdomain.es.
 jug.gl.			3600	IN	NS	ns0.transip.net.
 jug.gl.			3600	IN	NS	ns1.transip.nl.
 jug.gl.			3600	IN	NS	ns2.transip.eu.
-juicy.gl.		3600	IN	NS	a.hosting.gl.
-juicy.gl.		3600	IN	NS	b.hosting.gl.
-juicy.gl.		3600	IN	NS	c.hosting.gl.
-juicy.gl.		3600	IN	NS	d.hosting.gl.
+juicy.gl.		3600	IN	NS	ns1.gigahost.dk.
+juicy.gl.		3600	IN	NS	ns2.gigahost.dk.
+juicy.gl.		3600	IN	NS	ns3.gigahost.dk.
+juicy.gl.		3600	IN	NS	ns4.gigahost.dk.
+juicy.gl.		3600	IN	NS	ns5.gigahost.dk.
 jul.gl.			3600	IN	NS	a.hosting.gl.
 jul.gl.			3600	IN	NS	b.hosting.gl.
 jul.gl.			3600	IN	NS	c.hosting.gl.
@@ -14073,6 +14074,8 @@ nowa.gl.		3600	IN	NS	ns1.wannafind.dk.
 nowa.gl.		3600	IN	NS	ns2.wannafind.dk.
 nowocoat.gl.		3600	IN	NS	ns1.curanet.dk.
 nowocoat.gl.		3600	IN	NS	ns2.curanet.dk.
+np.gl.			3600	IN	NS	ns1-coming-soon.sav.com.
+np.gl.			3600	IN	NS	ns2-coming-soon.sav.com.
 npk.gl.			3600	IN	NS	ns1.nunahosting.net.
 npk.gl.			3600	IN	NS	ns2.nunahosting.net.
 npk.gl.			3600	IN	NS	ns3.nunahosting.net.
@@ -23097,4 +23100,4 @@ VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN NSEC3 1 1 0 69CB137E VUL8DRBSTJJ1JE
 VTKEVBOBS43N1HIGEQ93H8KBCQASOJTA.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. OlCIyEa/DsYZJ70PJC43/FzOzagHzqBjjOQAWRQA9OiS+7rYzho/bgxB GLMwDzU8DX06bYlt3NvVIuVyzEEnyBEzpPVRPw2Fybl12LbcLQXLqQfL hXQvAWulEEJIkL0y+V/ABPftfdpbDWgWEEE/BhZctaxMfP3Aw1JynG/U waodFeSg6cBP3vS+nA1ZJSAeKvM2A9GLylc7cfRn7R+CImvAKVdd+u7Z fKfO9QIgYksLiNLGctjwQaee9/cq9wod8XSP3wuCM8P0udX2lB9RXHpw 0umX2PyoUHx6WUkKDOc+dpXPzNiMjN57lBjC13nYqTsCqZx5UaQB9ADk cABChA==
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN NSEC3 1 1 0 69CB137E 00D3UL2O9M016T39VM6MHB4BM9IH3DAP NS DS RRSIG
 VUL8DRBSTJJ1JE8GM3JIO2P2EQPKKF9S.gl. 3600 IN RRSIG NSEC3 8 2 3600 20251005090000 20250717090000 57390 gl. KgyHNT/ccfCC8+FrXeQQkupAccRoJu1Iu3e841XSxv9cMj2dbv0jULXG Kg7pLRUUAV5vMid39dr9KnYRqdPizyKnppP+++HZuwXRIvyxY6R8oX1c 5c7uJA4TmZc3BbWxMMIOPrb4hgGkfQOywKDlaO+hRuofhwYAUL+Ie9df khgQRepKs7GKx6xE1oUcthwTXgLAkOcLG7aeKWYD/MX+SGum5CWuqosD LqwBLXehsbSNuFcew78z2xjpfyebnk102N/iixh/Os+A+7Aurmcwo3aH WBsjP0JyM05UF1FPGYEi2Rb6gL+5/tOHbkZRLwMUoBoPOMqPVwKG9cW7 7IL5BA==
-gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022169015 900 1800 6048000 3600
+gl.			900	IN	SOA	a.nuuk.nic.gl. gl-admin.tele.gl. 2022169018 900 1800 6048000 3600
