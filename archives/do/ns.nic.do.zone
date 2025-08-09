@@ -1,5 +1,5 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025080904 3600 3600 604800 3600
-do.			3600	IN	TXT	"Generation Time: 1754712008"
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025080905 3600 3600 604800 3600
+do.			3600	IN	TXT	"Generation Time: 1754715609"
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -23884,10 +23884,8 @@ k3d.do.			3600	IN	NS	ns2.bluehost.com.
 k7.do.			3600	IN	NS	ns3.netim.net.
 k7.do.			3600	IN	NS	ns2.netim.net.
 k7.do.			3600	IN	NS	ns1.netim.net.
-k8s.do.			3600	IN	NS	dns1.midominio.do.
-k8s.do.			3600	IN	NS	dns2.midominio.do.
-k8s.do.			3600	IN	NS	dns3.midominio.do.
-k8s.do.			3600	IN	NS	dns4.midominio.do.
+k8s.do.			3600	IN	NS	clara.ns.cloudflare.com.
+k8s.do.			3600	IN	NS	henrik.ns.cloudflare.com.
 ka.do.			3600	IN	NS	sue.ns.cloudflare.com.
 ka.do.			3600	IN	NS	jake.ns.cloudflare.com.
 ka-international.do.	3600	IN	NS	dns4.midominio.do.
@@ -39193,6 +39191,8 @@ short.do.		3600	IN	NS	elma.ns.cloudflare.com.
 short.do.		3600	IN	NS	jobs.ns.cloudflare.com.
 shortcut.do.		3600	IN	NS	ns2.vultr.com.
 shortcut.do.		3600	IN	NS	ns1.vultr.com.
+shorturl.do.		3600	IN	NS	sue.ns.cloudflare.com.
+shorturl.do.		3600	IN	NS	anton.ns.cloudflare.com.
 should.do.		3600	IN	NS	ns1164.dns.dyn.com.
 should.do.		3600	IN	NS	ns2151.dns.dyn.com.
 should.do.		3600	IN	NS	ns3168.dns.dyn.com.
@@ -47953,4 +47953,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025080904 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025080905 3600 3600 604800 3600
