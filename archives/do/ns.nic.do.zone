@@ -1,5 +1,5 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025081121 3600 3600 604800 3600
-do.			3600	IN	TXT	"Generation Time: 1754946003"
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025081200 3600 3600 604800 3600
+do.			3600	IN	TXT	"Generation Time: 1754957106"
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6310,6 +6310,8 @@ bpd.do.			3600	IN	NS	ns2.claro.net.do.
 bpd.do.			3600	IN	NS	ns1.claro.net.do.
 bpo.do.			3600	IN	NS	poppy.ns.cloudflare.com.
 bpo.do.			3600	IN	NS	terry.ns.cloudflare.com.
+bps.do.			3600	IN	NS	ns1.intodomain.net.
+bps.do.			3600	IN	NS	ns2.intodomain.net.
 bpstec.do.		3600	IN	NS	dns4.midominio.do.
 bpstec.do.		3600	IN	NS	dns3.midominio.do.
 bpstec.do.		3600	IN	NS	dns2.midominio.do.
@@ -6326,10 +6328,8 @@ brafix.do.		3600	IN	NS	ns2.sedoparking.com.
 brafix.do.		3600	IN	NS	ns1.sedoparking.com.
 braflix.do.		3600	IN	NS	ns4.films.org.
 braflix.do.		3600	IN	NS	ns3.films.org.
-brain.do.		3600	IN	NS	ns-1336.awsdns-39.org.
-brain.do.		3600	IN	NS	ns-1871.awsdns-41.co.uk.
-brain.do.		3600	IN	NS	ns-198.awsdns-24.com.
-brain.do.		3600	IN	NS	ns-922.awsdns-51.net.
+brain.do.		3600	IN	NS	buck.ns.cloudflare.com.
+brain.do.		3600	IN	NS	martha.ns.cloudflare.com.
 brainmarket.do.		3600	IN	NS	ns1.bluehost.com.
 brainmarket.do.		3600	IN	NS	ns2.bluehost.com.
 brainpop.do.		3600	IN	NS	ns01.trademarkarea.com.
@@ -36413,10 +36413,10 @@ redsox.do.		3600	IN	NS	ns-1424.awsdns-50.org.
 redsox.do.		3600	IN	NS	ns-127.awsdns-15.com.
 redsox.do.		3600	IN	NS	ns-cloud-c3.googledomains.com.
 redsox.do.		3600	IN	NS	ns-cloud-c2.googledomains.com.
-redstone.do.		3600	IN	NS	ns4.mochahost.com.
-redstone.do.		3600	IN	NS	ns3.mochahost.com.
-redstone.do.		3600	IN	NS	ns2.mochahost.com.
-redstone.do.		3600	IN	NS	ns1.mochahost.com.
+redstone.do.		3600	IN	NS	dns1.midominio.do.
+redstone.do.		3600	IN	NS	dns2.midominio.do.
+redstone.do.		3600	IN	NS	dns3.midominio.do.
+redstone.do.		3600	IN	NS	dns4.midominio.do.
 reef.do.		3600	IN	NS	dns2.cscdns.net.
 reef.do.		3600	IN	NS	dns1.cscdns.net.
 reestructuracionmercantil.do. 3600 IN	NS	ns4-08.azure-dns.info.
@@ -41129,10 +41129,8 @@ sum4n.do.		3600	IN	NS	dns4.midominio.do.
 sum4n.do.		3600	IN	NS	dns3.midominio.do.
 sum4n.do.		3600	IN	NS	dns2.midominio.do.
 sum4n.do.		3600	IN	NS	dns1.midominio.do.
-suma.do.		3600	IN	NS	dns4.midominio.do.
-suma.do.		3600	IN	NS	dns3.midominio.do.
-suma.do.		3600	IN	NS	dns2.midominio.do.
-suma.do.		3600	IN	NS	dns1.midominio.do.
+suma.do.		3600	IN	NS	ns21.domaincontrol.com.
+suma.do.		3600	IN	NS	ns22.domaincontrol.com.
 sumatec.do.		3600	IN	NS	ns03.trademarkarea.com.
 sumatec.do.		3600	IN	NS	ns02.trademarkarea.com.
 sumatec.do.		3600	IN	NS	ns01.trademarkarea.com.
@@ -47964,4 +47962,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025081121 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025081200 3600 3600 604800 3600
