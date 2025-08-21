@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025082112 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025082116 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -3674,12 +3674,16 @@ networkappliance.gp.	86400	IN	NS	ns1.netnames.net.
 networkappliance.gp.	86400	IN	NS	ns2.netnames.net.
 networkappliance.gp.	86400	IN	NS	ns5.netnames.net.
 networkappliance.gp.	86400	IN	NS	ns6.netnames.net.
-networking.gp.		86400	IN	NS	dns1.cloudns.net.
-networking.gp.		86400	IN	NS	dns2.cloudns.net.
+networking.gp.		86400	IN	NS	ns10.ovh.net.
+networking.gp.		86400	IN	NS	dns10.ovh.net.
 networking-technologies.gp. 86400 IN	NS	dns5.cloudns.net.
 networking-technologies.gp. 86400 IN	NS	dns6.cloudns.net.
+networking-technologies-domains.gp. 86400 IN NS	dns5.cloudns.net.
+networking-technologies-domains.gp. 86400 IN NS	dns6.cloudns.net.
 networkingtechnologies.gp. 86400 IN	NS	dns5.cloudns.net.
 networkingtechnologies.gp. 86400 IN	NS	dns6.cloudns.net.
+networkingtechnologiesdomains.gp. 86400	IN NS	dns5.cloudns.net.
+networkingtechnologiesdomains.gp. 86400	IN NS	dns6.cloudns.net.
 newbalanceteam.gp.	86400	IN	NS	udns1.cscudns.com.
 newbalanceteam.gp.	86400	IN	NS	udns2.cscudns.org.
 news.gp.		86400	IN	NS	hal.ns.cloudflare.com.
@@ -3758,6 +3762,8 @@ nou.gp.			86400	IN	NS	dns2.cloudns.net.
 nove.gp.		86400	IN	NS	ns14.ovh.net.
 nove.gp.		86400	IN	NS	dns14.ovh.net.
 ns.gp.			86400	IN	NS	ns1.geek.gp.
+ntd.gp.			86400	IN	NS	dns5.cloudns.net.
+ntd.gp.			86400	IN	NS	dns6.cloudns.net.
 ntdomain.gp.		86400	IN	NS	dns5.cloudns.net.
 ntdomain.gp.		86400	IN	NS	dns6.cloudns.net.
 ntdomains.gp.		86400	IN	NS	dns5.cloudns.net.
@@ -5635,4 +5641,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025082112 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025082116 86400 7200 2592000 345600
