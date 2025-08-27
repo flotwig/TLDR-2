@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025082718 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025082719 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1756317601"
+do.			3600	IN	TXT	"Generation Time: 1756321202"
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
 007.do.			3600	IN	NS	ns1.arvixeshared.com.
 01.do.			3600	IN	NS	roman.ns.cloudflare.com.
@@ -21549,6 +21549,10 @@ iades.do.		3600	IN	NS	dns2.midominio.do.
 iades.do.		3600	IN	NS	dns1.midominio.do.
 iai.do.			3600	IN	NS	ns1.xserver.jp.
 iai.do.			3600	IN	NS	ns2.xserver.jp.
+ialab.do.		3600	IN	NS	dns1.midominio.do.
+ialab.do.		3600	IN	NS	dns2.midominio.do.
+ialab.do.		3600	IN	NS	dns3.midominio.do.
+ialab.do.		3600	IN	NS	dns4.midominio.do.
 iam.do.			3600	IN	NS	ns-1159.awsdns-16.org.
 iam.do.			3600	IN	NS	ns-743.awsdns-28.net.
 iam.do.			3600	IN	NS	ns-352.awsdns-44.com.
@@ -32207,8 +32211,8 @@ onyx.do.		3600	IN	NS	dns4.midominio.do.
 onyx.do.		3600	IN	NS	dns3.midominio.do.
 onyx.do.		3600	IN	NS	dns2.midominio.do.
 onyx.do.		3600	IN	NS	dns1.midominio.do.
-oo.do.			3600	IN	NS	noah.ns.cloudflare.com.
-oo.do.			3600	IN	NS	jill.ns.cloudflare.com.
+oo.do.			3600	IN	NS	sue.ns.cloudflare.com.
+oo.do.			3600	IN	NS	jake.ns.cloudflare.com.
 oonni.do.		3600	IN	NS	ns2.101domain.com.
 oonni.do.		3600	IN	NS	ns1.101domain.com.
 ooo.do.			3600	IN	NS	freedns5.registrar-servers.com.
@@ -32376,10 +32380,8 @@ orbit.do.		3600	IN	NS	ns-1.awsdns-00.com.
 orbit.do.		3600	IN	NS	ns-1257.awsdns-29.org.
 orbit.do.		3600	IN	NS	ns-1572.awsdns-04.co.uk.
 orbit.do.		3600	IN	NS	ns-869.awsdns-44.net.
-orbitech.do.		3600	IN	NS	dns1.midominio.do.
-orbitech.do.		3600	IN	NS	dns2.midominio.do.
-orbitech.do.		3600	IN	NS	dns3.midominio.do.
-orbitech.do.		3600	IN	NS	dns4.midominio.do.
+orbitech.do.		3600	IN	NS	eva.ns.cloudflare.com.
+orbitech.do.		3600	IN	NS	colin.ns.cloudflare.com.
 orbitek.do.		3600	IN	NS	stan.ns.cloudflare.com.
 orbitek.do.		3600	IN	NS	alina.ns.cloudflare.com.
 orbits.do.		3600	IN	NS	ns-321.awsdns-40.com.
@@ -38641,8 +38643,8 @@ sealquila.do.		3600	IN	NS	ns2.dns-parking.com.
 sealquila.do.		3600	IN	NS	ns1.dns-parking.com.
 searates.do.		3600	IN	NS	dns2.cscdns.net.
 searates.do.		3600	IN	NS	dns1.cscdns.net.
-search.do.		3600	IN	NS	sue.ns.cloudflare.com.
-search.do.		3600	IN	NS	jake.ns.cloudflare.com.
+search.do.		3600	IN	NS	jill.ns.cloudflare.com.
+search.do.		3600	IN	NS	noah.ns.cloudflare.com.
 searchenginemarketing.do. 3600	IN	NS	dns4.midominio.do.
 searchenginemarketing.do. 3600	IN	NS	dns3.midominio.do.
 searchenginemarketing.do. 3600	IN	NS	dns2.midominio.do.
@@ -40827,8 +40829,8 @@ srg.do.			3600	IN	NS	ns107.ovh.net.
 srg.do.			3600	IN	NS	dns107.ovh.net.
 srl.do.			3600	IN	NS	ns2.mediatemple.net.
 srl.do.			3600	IN	NS	ns1.mediatemple.net.
-ss.do.			3600	IN	NS	sue.ns.cloudflare.com.
-ss.do.			3600	IN	NS	jake.ns.cloudflare.com.
+ss.do.			3600	IN	NS	jill.ns.cloudflare.com.
+ss.do.			3600	IN	NS	noah.ns.cloudflare.com.
 ssh.do.			3600	IN	NS	ns5.he.net.
 ssh.do.			3600	IN	NS	ns4.he.net.
 ssh.do.			3600	IN	NS	ns3.he.net.
@@ -48155,4 +48157,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025082718 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025082719 3600 3600 604800 3600
