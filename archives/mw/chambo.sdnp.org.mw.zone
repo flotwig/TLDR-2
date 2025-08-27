@@ -1,4 +1,9 @@
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1756274701 1800 600 604800 1800
+;; Connection to 41.221.99.135#53(41.221.99.135) for mw. failed: timed out.
+;; no servers could be reached
+;; Connection to 41.221.99.135#53(41.221.99.135) for mw. failed: timed out.
+;; no servers could be reached
+;; Connection to 41.221.99.135#53(41.221.99.135) for mw. failed: timed out.
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1756303501 1800 600 604800 1800
 mw.			18000	IN	NS	mw.cctld.authdns.ripe.net.
 mw.			18000	IN	NS	ns4.apnic.net.
 mw.			18000	IN	NS	rip.psg.com.
@@ -215,6 +220,8 @@ acg.mw.			18000	IN	NS	proxy3.africa-online.net.
 achieverbanking.mw.	18000	IN	NS	ns1.lexsynergy.net.
 achieverbanking.mw.	18000	IN	NS	ns2.lexsynergy.us.
 achieverbanking.mw.	18000	IN	NS	ns3.lexsynergy.info.
+achlimited.mw.		18000	IN	NS	domwe.sdn.mw.
+achlimited.mw.		18000	IN	NS	nyala.sdnp.org.mw.
 adfs.mw.		18000	IN	NS	maxdns.globemw.net.
 adfs.mw.		18000	IN	NS	araliya.globemw.net.
 adsgoogle.mw.		18000	IN	NS	ns1.markmonitor.com.
@@ -1284,6 +1291,10 @@ crocodile.mw.		18000	IN	NS	ns7.markmonitor.com.
 crowe.mw.		18000	IN	NS	dns1.idp365.net.
 crowe.mw.		18000	IN	NS	dns2.idp365.net.
 crowe.mw.		18000	IN	NS	dns3.idp365.net.
+crwb.mw.		18000	IN	NS	ns1.bdsmw.com.
+crwb.mw.		18000	IN	NS	ns2.bdsmw.com.
+crwb.mw.		18000	IN	NS	ns3.bdsmw.com.
+crwb.mw.		18000	IN	NS	ns4.bdsmw.com.
 crypto.mw.		18000	IN	NS	ns1.101domain.com.
 crypto.mw.		18000	IN	NS	ns2.101domain.com.
 csinvestments.mw.	18000	IN	NS	ns1.bdsmw.com.
@@ -1316,10 +1327,10 @@ daimler.mw.		18000	IN	NS	dns1.p01.nsone.net.
 daimler.mw.		18000	IN	NS	dns2.p01.nsone.net.
 daimler.mw.		18000	IN	NS	dns3.p01.nsone.net.
 daimler.mw.		18000	IN	NS	dns4.p01.nsone.net.
-daimler-ag.mw.		18000	IN	NS	ns1.corpinter.net.
-daimler-ag.mw.		18000	IN	NS	ns2.corpinter.de.
-daimler-ag.mw.		18000	IN	NS	ns3.corpinter.net.
-daimler-ag.mw.		18000	IN	NS	ns4.corpinter.de.
+daimler-ag.mw.		18000	IN	NS	dns1.p01.nsone.net.
+daimler-ag.mw.		18000	IN	NS	dns2.p01.nsone.net.
+daimler-ag.mw.		18000	IN	NS	dns3.p01.nsone.net.
+daimler-ag.mw.		18000	IN	NS	dns4.p01.nsone.net.
 daruliftaa.mw.		18000	IN	NS	ns1.dns-h.com.
 daruliftaa.mw.		18000	IN	NS	ns1.host-h.net.
 daruliftaa.mw.		18000	IN	NS	ns2.dns-h.com.
@@ -2871,8 +2882,8 @@ lovisa.mw.		18000	IN	NS	ns02.trademarkarea.com.
 lovisa.mw.		18000	IN	NS	ns03.trademarkarea.com.
 ltd.mw.			18000	IN	NS	sage.ns.cloudflare.com.
 ltd.mw.			18000	IN	NS	audrey.ns.cloudflare.com.
-ltsl.mw.		18000	IN	NS	sns35.hostgator.in.
-ltsl.mw.		18000	IN	NS	sns36.hostgator.in.
+ltsl.mw.		18000	IN	NS	webhosting3009a.trouble-free.net.
+ltsl.mw.		18000	IN	NS	webhosting3009b.trouble-free.net.
 luanar.mw.		18000	IN	NS	ns1.maren.ac.mw.
 luanar.mw.		18000	IN	NS	ns1.luanar.ac.mw.
 luanar.mw.		18000	IN	NS	ns2.maren.ac.mw.
@@ -3687,10 +3698,8 @@ nkhotakotacomradio.mw.	18000	IN	NS	ns3.bdsmw.com.
 nkhotakotacomradio.mw.	18000	IN	NS	ns4.bdsmw.com.
 nl.mw.			18000	IN	NS	ns1.qth.nl.
 nl.mw.			18000	IN	NS	ns2.qth.nl.
-nls.mw.			18000	IN	NS	ns1.supercp.com.
-nls.mw.			18000	IN	NS	ns2.supercp.com.
-nls.mw.			18000	IN	NS	ns3.supercp.com.
-nls.mw.			18000	IN	NS	ns4.supercp.com.
+nls.mw.			18000	IN	NS	ns1.servconfig.com.
+nls.mw.			18000	IN	NS	ns2.servconfig.com.
 nn88.mw.		18000	IN	NS	fatima.ns.cloudflare.com.
 nn88.mw.		18000	IN	NS	aragorn.ns.cloudflare.com.
 noahsarcfarm.mw.	18000	IN	NS	ns19.asurahosting.com.
@@ -4459,10 +4468,10 @@ selectafrica.mw.	18000	IN	NS	ns1-01.azure-dns.com.
 selectafrica.mw.	18000	IN	NS	ns2-01.azure-dns.net.
 selectafrica.mw.	18000	IN	NS	ns3-01.azure-dns.org.
 selectafrica.mw.	18000	IN	NS	ns4-01.azure-dns.info.
-selectrucks.mw.		18000	IN	NS	ns1.corpinter.net.
-selectrucks.mw.		18000	IN	NS	ns2.corpinter.de.
-selectrucks.mw.		18000	IN	NS	ns3.corpinter.net.
-selectrucks.mw.		18000	IN	NS	ns4.corpinter.de.
+selectrucks.mw.		18000	IN	NS	dns1.p01.nsone.net.
+selectrucks.mw.		18000	IN	NS	dns2.p01.nsone.net.
+selectrucks.mw.		18000	IN	NS	dns3.p01.nsone.net.
+selectrucks.mw.		18000	IN	NS	dns4.p01.nsone.net.
 sentry.mw.		18000	IN	NS	ns1.dns-parking.com.
 sentry.mw.		18000	IN	NS	ns2.dns-parking.com.
 serendibhotels.mw.	18000	IN	NS	maxdns.globemw.net.
@@ -5421,4 +5430,4 @@ zurich.mw.		18000	IN	NS	ns1.a1.impervasecuredns.net.
 zurich.mw.		18000	IN	NS	ns1.a2.impervasecuredns.net.
 zutari.mw.		18000	IN	NS	dns1.cscdns.net.
 zutari.mw.		18000	IN	NS	dns2.cscdns.net.
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1756274701 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1756303501 1800 600 604800 1800
