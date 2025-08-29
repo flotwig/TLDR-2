@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025082919 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025082921 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1756488307"
+do.			3600	IN	TXT	"Generation Time: 1756494908"
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
 007.do.			3600	IN	NS	ns1.arvixeshared.com.
 01.do.			3600	IN	NS	roman.ns.cloudflare.com.
@@ -4222,8 +4222,6 @@ autofashion.do.		3600	IN	NS	ns1.vm2041.tmdcloud.com.
 autoferia.do.		3600	IN	NS	dns3.grupohost.net.
 autoferia.do.		3600	IN	NS	dns2.grupohost.net.
 autoferia.do.		3600	IN	NS	dns1.grupohost.net.
-autoferiapopular.do.	3600	IN	NS	ns2.claro.net.do.
-autoferiapopular.do.	3600	IN	NS	ns1.claro.net.do.
 autoferiapopular.do.	3600	IN	NS	ns3-01.azure-dns.org.
 autoferiapopular.do.	3600	IN	NS	ns2-01.azure-dns.net.
 autoferiapopular.do.	3600	IN	NS	ns1-01.azure-dns.com.
@@ -5669,8 +5667,10 @@ bimzelx.do.		3600	IN	NS	ns2.register.be.
 bimzelx.do.		3600	IN	NS	ns1.register.be.
 bin.do.			3600	IN	NS	ken.ns.cloudflare.com.
 bin.do.			3600	IN	NS	vera.ns.cloudflare.com.
-binary.do.		3600	IN	NS	ns1.101domain.com.
-binary.do.		3600	IN	NS	ns2.101domain.com.
+binary.do.		3600	IN	NS	ns1.bdm.microsoftonline.com.
+binary.do.		3600	IN	NS	ns2.bdm.microsoftonline.com.
+binary.do.		3600	IN	NS	ns3.bdm.microsoftonline.com.
+binary.do.		3600	IN	NS	ns4.bdm.microsoftonline.com.
 binder.do.		3600	IN	NS	aida.ns.cloudflare.com.
 binder.do.		3600	IN	NS	pablo.ns.cloudflare.com.
 bing.do.		3600	IN	NS	ns4-04.azure-dns.info.
@@ -12628,10 +12628,8 @@ dev.do.			3600	IN	NS	dns4.midominio.do.
 dev.do.			3600	IN	NS	dns3.midominio.do.
 dev.do.			3600	IN	NS	dns2.midominio.do.
 dev.do.			3600	IN	NS	dns1.midominio.do.
-dev-igma.do.		3600	IN	NS	dns1.midominio.do.
-dev-igma.do.		3600	IN	NS	dns2.midominio.do.
-dev-igma.do.		3600	IN	NS	dns3.midominio.do.
-dev-igma.do.		3600	IN	NS	dns4.midominio.do.
+dev-igma.do.		3600	IN	NS	eva.ns.cloudflare.com.
+dev-igma.do.		3600	IN	NS	igor.ns.cloudflare.com.
 devcode.do.		3600	IN	NS	ns2.dns-parking.com.
 devcode.do.		3600	IN	NS	ns1.dns-parking.com.
 devel.do.		3600	IN	NS	dns4.midominio.do.
@@ -15257,10 +15255,10 @@ embutidom.do.		3600	IN	NS	dns4.midominio.do.
 embutidom.do.		3600	IN	NS	dns3.midominio.do.
 embutidom.do.		3600	IN	NS	dns2.midominio.do.
 embutidom.do.		3600	IN	NS	dns1.midominio.do.
-emdoc.do.		3600	IN	NS	dns1.midominio.do.
-emdoc.do.		3600	IN	NS	dns2.midominio.do.
 emdoc.do.		3600	IN	NS	dns3.midominio.do.
 emdoc.do.		3600	IN	NS	dns4.midominio.do.
+emdoc.do.		3600	IN	NS	coco.ns.cloudflare.com.
+emdoc.do.		3600	IN	NS	aiden.ns.cloudflare.com.
 emerald.do.		3600	IN	NS	dns4.midominio.do.
 emerald.do.		3600	IN	NS	dns3.midominio.do.
 emerald.do.		3600	IN	NS	dns2.midominio.do.
@@ -30885,6 +30883,10 @@ nft.do.			3600	IN	NS	cormorant.dnspod.net.
 nft.do.			3600	IN	NS	cow.dnspod.net.
 nftgames.do.		3600	IN	NS	ns74.domaincontrol.com.
 nftgames.do.		3600	IN	NS	ns73.domaincontrol.com.
+nfticket.do.		3600	IN	NS	dns1.midominio.do.
+nfticket.do.		3600	IN	NS	dns2.midominio.do.
+nfticket.do.		3600	IN	NS	dns3.midominio.do.
+nfticket.do.		3600	IN	NS	dns4.midominio.do.
 ng1.do.			3600	IN	NS	ns1.p48.dynect.net.
 ng1.do.			3600	IN	NS	ns2.p48.dynect.net.
 ng1.do.			3600	IN	NS	ns3.p48.dynect.net.
@@ -32510,8 +32512,8 @@ ormika.do.		3600	IN	NS	ns1.bluehost.com.
 ormika.do.		3600	IN	NS	ns2.bluehost.com.
 oro.do.			3600	IN	NS	ns2.101domain.com.
 oro.do.			3600	IN	NS	ns1.101domain.com.
-orobet.do.		3600	IN	NS	serena.ns.cloudflare.com.
-orobet.do.		3600	IN	NS	doug.ns.cloudflare.com.
+orobet.do.		3600	IN	NS	ns1.101domain.com.
+orobet.do.		3600	IN	NS	ns2.101domain.com.
 orocaribe.do.		3600	IN	NS	dns4.midominio.do.
 orocaribe.do.		3600	IN	NS	dns3.midominio.do.
 orocaribe.do.		3600	IN	NS	dns2.midominio.do.
@@ -36289,6 +36291,8 @@ rdrsolartech.do.	3600	IN	NS	dns4.midominio.do.
 rdrsolartech.do.	3600	IN	NS	dns3.midominio.do.
 rdrsolartech.do.	3600	IN	NS	dns2.midominio.do.
 rdrsolartech.do.	3600	IN	NS	dns1.midominio.do.
+rdvacationtours.do.	3600	IN	NS	dns81.servidoresph.com.
+rdvacationtours.do.	3600	IN	NS	dns82.servidoresph.com.
 rdval.do.		3600	IN	NS	dns4.midominio.do.
 rdval.do.		3600	IN	NS	dns3.midominio.do.
 rdval.do.		3600	IN	NS	dns2.midominio.do.
@@ -42738,6 +42742,8 @@ the-glenlivet.do.	3600	IN	NS	dns1.cscdns.net.
 the-glenlivet.do.	3600	IN	NS	dns2.cscdns.net.
 the-urostrong.do.	3600	IN	NS	ns2.101domain.com.
 the-urostrong.do.	3600	IN	NS	ns1.101domain.com.
+theadcompany.do.	3600	IN	NS	ns1.vultr.com.
+theadcompany.do.	3600	IN	NS	ns2.vultr.com.
 theadvertisingcompany.do. 3600	IN	NS	ns2.vultr.com.
 theadvertisingcompany.do. 3600	IN	NS	ns1.vultr.com.
 theai.do.		3600	IN	NS	tosana.ns.cloudflare.com.
@@ -48164,4 +48170,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025082919 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025082921 3600 3600 604800 3600
