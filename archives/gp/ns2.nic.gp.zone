@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025090315 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025090513 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -406,6 +406,8 @@ antilles-b2b.gp.	86400	IN	NS	ns10.ovh.net.
 antilles-b2b.gp.	86400	IN	NS	dns10.ovh.net.
 antillesradio.gp.	86400	IN	NS	ns1.ikoula.fr.
 antillesradio.gp.	86400	IN	NS	ns2.ikoula.fr.
+apex.gp.		86400	IN	NS	kiki.ns.cloudflare.com.
+apex.gp.		86400	IN	NS	achiel.ns.cloudflare.com.
 api.gp.			86400	IN	NS	ns-54-c.gandi.net.
 api.gp.			86400	IN	NS	ns-195-b.gandi.net.
 api.gp.			86400	IN	NS	ns-204-a.gandi.net.
@@ -415,6 +417,8 @@ apple.gp.		86400	IN	NS	a.ns.apple.com.
 apple.gp.		86400	IN	NS	b.ns.apple.com.
 apple.gp.		86400	IN	NS	c.ns.apple.com.
 apple.gp.		86400	IN	NS	d.ns.apple.com.
+apx.gp.			86400	IN	NS	kiki.ns.cloudflare.com.
+apx.gp.			86400	IN	NS	achiel.ns.cloudflare.com.
 ar.gp.			86400	IN	NS	ns1.website.org.
 ar.gp.			86400	IN	NS	ns2.website.org.
 aragon.gp.		86400	IN	NS	kiki.ns.cloudflare.com.
@@ -5659,4 +5663,4 @@ zwav.gp.		86400	IN	NS	ns1.register.be.
 zwav.gp.		86400	IN	NS	ns2.register.be.
 zz.gp.			86400	IN	NS	ns1.sedoparking.com.
 zz.gp.			86400	IN	NS	ns2.sedoparking.com.
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025090315 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2025090513 86400 7200 2592000 345600
