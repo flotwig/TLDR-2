@@ -1,4 +1,4 @@
-xn--54b7fta0cc.		10800	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2025091006 120 3600 604800 10800
+xn--54b7fta0cc.		10800	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2025091009 120 3600 604800 10800
 xn--54b7fta0cc.		10800	IN	NS	bd-ns.anycast.pch.net.
 xn--54b7fta0cc.		10800	IN	NS	bayanno.btcl.net.bd.
 xn--54b7fta0cc.		10800	IN	NS	ekushey.btcl.net.bd.
@@ -9,26 +9,730 @@ xn--54b7fta0cc.		10800	IN	DNSKEY	257 3 8 AwEAAc3eAC/OU1vXWM5YuAll5A9JFZxMgrfy8vq
 xn--54b7fta0cc.		10800	IN	RRSIG	DNSKEY 8 1 10800 20250925100820 20250826091332 15315 xn--54b7fta0cc. CvxpXXQnLHay7XzrETwm5BnkDdl3QOE1VD9SuT+/M8jPkngYZr0Lp5G6 n9sQC1sIZ7v//iBKV+b6F0TQJ+IU5r19VI3gz+nFN0vkMgYGiOi26SDD WzfjO6bhktEKknxm4V68kF4NsTajYKRvfhlXqGD8iKYYLJvDdq5LgBHD vgI=
 xn--54b7fta0cc.		10800	IN	RRSIG	DNSKEY 8 1 10800 20250925100820 20250826091332 63049 xn--54b7fta0cc. CXTw781lmqX8VO8T26D35z391m4XyafAbIRWhHkigRPFhnv0Dcm5fWyB OrACAQrrneE7nib5v5y7/o14yJxgRmRU1pZ3ucXG9OYzQemo4sKLZxJP x0EtbUIcGIlMb4tJHGzJij1JzOZ4uDsocLhFEZLxhQmgwEfHIq91eneX 4vgqbsJc6+CovVEWwSQWrA09Xe57LBt8DuvfXfIpaKzBqyHso4YjHjgO J4mXvMv1KIEUypPyyGIpR2d4y9oTbEeBMnM4szSKoPABQIipdv6rnZOJ rybBYjaoZX8TKT4YD17gzZ7K8AwbqCb3efKGDU7tW8SqLWBI8ESm+tNw rgGwDA==
 xn--54b7fta0cc.		0	IN	RRSIG	TYPE65534 8 1 0 20250925092315 20250826084938 15315 xn--54b7fta0cc. VsAqhth0PYro8v2mTNQH5LydGldB362JFvB+LqwhzXmcmx3pTcLGwzvU iz6hlDsXiNhR0KPsExQJPzYCFuseNCLJswQKgpqAfil1XLJSL1ItUTxj YKkeXo4Gpj//ZeWDKtFJKoaJCcSdjIYpgFEFyPWDtGCcs+7qB2nzXUzY 940=
-xn--54b7fta0cc.		10800	IN	RRSIG	SOA 8 1 10800 20251009211422 20250909201422 15315 xn--54b7fta0cc. tJM1bokYw/eCDmBs7ThDXlpmOVRACeFlVom3rVDG3ejLNAQLjHeOU71T TaGUoQBg47HQG4Hje+wUFOHMK1f9KjwwkqZbYKLf8AH+b8aPqSXxdU/J XPqT1ox0lwg82dTEV/T2CAX/AhhKk3q50vVX2ruOAPif4d6MmEqQv7X3 0E8=
+xn--54b7fta0cc.		10800	IN	RRSIG	SOA 8 1 10800 20251009221553 20250909211553 15315 xn--54b7fta0cc. NsigbKZvu5jmYdB2/dK5ugadFhx2zD4vRCq31HkAZpcMYZZafqJr93FM DbKc7dWc1pAWu3/jdR/b+s893qRQEKueykiiFLavHMGK4AexoYIBDDRc M0qizQSwlp3Tm9Ojer3iYHtpKzsRO6LLlIY+ORaQ2F14isN1hMtS62kf uM0=
 xn--54b7fta0cc.		10800	IN	RRSIG	NS 8 1 10800 20250925074734 20250826074143 15315 xn--54b7fta0cc. Tgfr/rbVuCWmDrMdUER3D7M3ehJ+9HjmArsY//rg8HiBOsQx0XcUhPGI gdSp1MOYRYDKKYuGIQ8sRAEb1dzMTCR9ZJciRoxzX14w98PVrbEBRtDA xrVUhIWIm6PWzYBN1QFjse9i6QULOPQVIFHBzu8+TLh8oCdNDWlKB9zE jn8=
-xn--54b7fta0cc.		10800	IN	NSEC	xn--45bikn9djb.xn--54b7fta0cc. NS SOA RRSIG NSEC DNSKEY TYPE65534
-xn--54b7fta0cc.		10800	IN	RRSIG	NSEC 8 1 10800 20251009211422 20250909201422 15315 xn--54b7fta0cc. EreqR1fCott0rXZaGNRVpKuc9Z+o8d3TyyH9M8OLIqTQqCLuQ73VCYq4 uShWC878AkOSRcwKasgneU8b/4O3NzL7gUgLMYnf7ZF+vT3Mz+8qhWR8 YmCptFikQu+JjjZOOui00h8aE1+vVbDOsFsWtgGz8qLSCAV+/xOZeBdt EFk=
+xn--54b7fta0cc.		10800	IN	NSEC	xn----32dhv6cdc4bbp8eb.xn--54b7fta0cc. NS SOA RRSIG NSEC DNSKEY TYPE65534
+xn--54b7fta0cc.		10800	IN	RRSIG	NSEC 8 1 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. IVl48c3ivjYXWiluOwVfxEciPweFZWm8/T3Vg3v7erC4vSAMlCKpZwRF fOU7VDHSFSzB/2NPGgRmIDa0TKOghy3WQTnH3ZipdoO5sklQUrVMJaz5 RKmDGys3pW0mbYpfbdLNi3OugfhWVc/dtfXK5our6323PR8pdkYrdIBC 6Jw=
+xn----32dhv6cdc4bbp8eb.xn--54b7fta0cc. 10800 IN	RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. pu0aI/FIOVJwHcbWWP8wnjmILaBdsaQUjHvOkHUaCe0vxDS9mEUSKBFS m9bb6GCp19Wb965YbM7mIlwMNJcbKH06afDYKj78JWZT5RZWm8L6UxO5 ST5hjzecNO3C+aroSHmPzsJYksBvsN2IJ9ejY8jRcGFb2/YWCmXeEJ60 HdA=
+xn----32dhv6cdc4bbp8eb.xn--54b7fta0cc. 10800 IN	NSEC xn----c2d8axa0aae5d0b9joac.xn--54b7fta0cc. NS RRSIG NSEC
+xn----32dhv6cdc4bbp8eb.xn--54b7fta0cc. 10800 IN	NS leia.ns.cloudflare.com.
+xn----32dhv6cdc4bbp8eb.xn--54b7fta0cc. 10800 IN	NS sean.ns.cloudflare.com.
+xn----c2d8axa0aae5d0b9joac.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. d7cnhq0nwCZWJxOflEUuoMTcZGgyOK+WdTaGjhi2/OG9IMQ9BWGaPg99 ktXVMYw3M0SODkVViEXpJirRId6gX0Vh4AlJCQVY8PaFRR/PZw99V8hL 2nT7wvHhHri2yNlzYij51rgh58Pm6RAjvV7JnJSv2EUzYSE0JTF7ujBt pW0=
+xn----c2d8axa0aae5d0b9joac.xn--54b7fta0cc. 10800 IN NSEC xn--05b5arf3f8ad.xn--54b7fta0cc. NS RRSIG NSEC
+xn----c2d8axa0aae5d0b9joac.xn--54b7fta0cc. 10800 IN NS aida.ns.cloudflare.com.
+xn----c2d8axa0aae5d0b9joac.xn--54b7fta0cc. 10800 IN NS quinton.ns.cloudflare.com.
+xn--05b5arf3f8ad.xn--54b7fta0cc. 10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. YDAswDzeAY2rg02x1Eo/l04cLtcMVmTu6+wSOvRxFjubddrlxzMIXBHv E5x9rfpHkmEvbzgknwaH8Pru6ua3lDWJRfXcRpJ6Oqp+WlhM8tcztcFF WU4MA1QF7/V9xMtriy0osQxxWkK3MjXWcTR+qrWyXWMl8oTqdvudeBtF udo=
+xn--05b5arf3f8ad.xn--54b7fta0cc. 10800 IN NSEC	xn--15b3ax0a7b8a.xn--54b7fta0cc. NS RRSIG NSEC
+xn--05b5arf3f8ad.xn--54b7fta0cc. 10800 IN NS	ns1.dns-parking.com.
+xn--05b5arf3f8ad.xn--54b7fta0cc. 10800 IN NS	ns2.dns-parking.com.
+xn--15b3ax0a7b8a.xn--54b7fta0cc. 10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. OsTcVTZd6nokElM2HZmjyjS06TLhcFu0XVyFcV0zfJjcXgSmrzkkhWLZ lymZKfEbpnScva0VAClQvj13zL33a6ZXvjD7+CMO3X+3dqsCzK9B5UL2 3nobHYwIwP+YnILoIRWvikuIfRuphvxmhxBoStN+NfvDM2UGZLWYNQLi i6k=
+xn--15b3ax0a7b8a.xn--54b7fta0cc. 10800 IN NSEC	xn--15bdknmaazae1a7b6ezajdz1tbee.xn--54b7fta0cc. NS RRSIG NSEC
+xn--15b3ax0a7b8a.xn--54b7fta0cc. 10800 IN NS	ns1.bangladesh.gov.bd.
+xn--15b3ax0a7b8a.xn--54b7fta0cc. 10800 IN NS	ns2.bangladesh.gov.bd.
+xn--15bdknmaazae1a7b6ezajdz1tbee.xn--54b7fta0cc. 10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. FutvAvockl0SiBIvT3pgjEzN6ijvqo0ZVNejzvckJUzUev3K++zmUogK r+xD+uMVhXWW5Q4wVxky1WwD9N1E3aRHK97x2N6bSRY1nE7DOF2UPZa/ 8cY01YSLJzf9KCcmBtxAUUIXHHJ3qa7QWKZ6m5EhlC8z4XJUyxAudj6v XPI=
+xn--15bdknmaazae1a7b6ezajdz1tbee.xn--54b7fta0cc. 10800 IN NSEC xn--15bnfow6ej1i.xn--54b7fta0cc. NS RRSIG NSEC
+xn--15bdknmaazae1a7b6ezajdz1tbee.xn--54b7fta0cc. 10800 IN NS dns5.centriohost.com.
+xn--15bdknmaazae1a7b6ezajdz1tbee.xn--54b7fta0cc. 10800 IN NS dns6.centriohost.com.
+xn--15bnfow6ej1i.xn--54b7fta0cc. 10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. s88ukoXvX4h3QTKhGLX0p/R1O/G6xDgMfg9fvKpveREBeqcWZl2qxapO azVHDiCmCQ63mLaTaKRNDYIUrfXQXdQg4vZwzbK5ZAL0zz0Q0qe9y89V GLZ3s6mRGyaf6uQtc3wj+NxkQefOrWbwP71m5kGe1OAg5XRVcI8tPPoY 6oQ=
+xn--15bnfow6ej1i.xn--54b7fta0cc. 10800 IN NSEC	xn--15brq5cbms.xn--54b7fta0cc. NS RRSIG NSEC
+xn--15bnfow6ej1i.xn--54b7fta0cc. 10800 IN NS	ns1.a2iservices.gov.bd.
+xn--15bnfow6ej1i.xn--54b7fta0cc. 10800 IN NS	ns2.a2iservices.gov.bd.
+xn--15brq5cbms.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. RfncLnHIU+1PGkJ0Fm/1+uBzkZ7webqsUnUkK1NIqgH+Y0uEzfeWRSqn RY1c+86tIT+7fodX0vYGOgpbIofTJ/6NceBSLnJ68EHkDW29XAyVOx0r QoBau2fPffCo1gs4Jogo2jIkf+Vrg4S+I/S1Fk1H8IB+KwIHbX/lpm9M q2w=
+xn--15brq5cbms.xn--54b7fta0cc. 10800 IN	NSEC	xn--15bw9a1abb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--15brq5cbms.xn--54b7fta0cc. 10800 IN	NS	ns5.eicra.net.
+xn--15brq5cbms.xn--54b7fta0cc. 10800 IN	NS	ns6.eicra.net.
+xn--15bw9a1abb.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. ikr0tCBKTyWoZDRwd+4HrhUFonnXpfSe88MYErGIEikgFsa7wctPoUYZ XnfPO1YcedEtkfWVqZfSqCyzDmOM7Y1x2rukuneY3ddTWgGdl21XfXyX 9fiFbl4xO470Eq/L0D5pZgleBRsbgXZMGvVEG8/eiZuEcL/a/t0WsoF9 tzU=
+xn--15bw9a1abb.xn--54b7fta0cc. 10800 IN	NSEC	xn--35brapb8b9ie.xn--54b7fta0cc. NS RRSIG NSEC
+xn--15bw9a1abb.xn--54b7fta0cc. 10800 IN	NS	ns1.nothi.org.bd.
+xn--15bw9a1abb.xn--54b7fta0cc. 10800 IN	NS	ns2.nothi.org.bd.
+xn--35brapb8b9ie.xn--54b7fta0cc. 10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. faJkgapozBiREF3DXr08TiN+HP6fVikzU12WGSq6+sLvtJLK+V8NwiN+ s4Q0YFG8vBaGLsBLsRXIo3dShQgXWh9Ldy3EWsgU8j+CgAD3gWHqGTzL acBdCvj7Mfhl+nS08UvNHtrh+sWEmOH/0XElFmRrjjYKc4aDsnZAAdmX 4rs=
+xn--35brapb8b9ie.xn--54b7fta0cc. 10800 IN NSEC	xn--45baqb3ac7gdu8je.xn--54b7fta0cc. NS RRSIG NSEC
+xn--35brapb8b9ie.xn--54b7fta0cc. 10800 IN NS	ns1.webrserver.com.
+xn--35brapb8b9ie.xn--54b7fta0cc. 10800 IN NS	ns2.webrserver.com.
+xn--45baqb3ac7gdu8je.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. rXzy1imQdzqcA00t/uafKHYv0/s4MlHDO1RI9nBbtY9r8DxDad28fooG 71LIv83COIekbmOIQpiRAMfwNtNwIqml6XjA3pNVW9byJUmGG+LzKmaE 9OLL/+ArnJpRLohUJooam/s6IiYOYy2YtTaIQEDuLNs99BF0n2mxVFZW /oQ=
+xn--45baqb3ac7gdu8je.xn--54b7fta0cc. 10800 IN NSEC xn--45bdsjdh2hta3ic.xn--54b7fta0cc. NS RRSIG NSEC
+xn--45baqb3ac7gdu8je.xn--54b7fta0cc. 10800 IN NS ns1.dhakawebhost.com.
+xn--45baqb3ac7gdu8je.xn--54b7fta0cc. 10800 IN NS ns2.dhakawebhost.com.
+xn--45bdsjdh2hta3ic.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. Fh0ubZ179T5GJaH2KCZrhTDK5bHFo4+4Jm4nWMZOwn/N0C1HHvMMDpAS rrmfgoDFa5k4fDDwFn/pjNVHecVY9cDBDjyX1AMCyMojCVw/xgj5bmxH 5kFoAhY5uuSQNPzlkfA203W6tmOX+wD1iXP8mhIaCN4+D1tkS73px2L6 npA=
+xn--45bdsjdh2hta3ic.xn--54b7fta0cc. 10800 IN NSEC xn--45be4a8a4an7e.xn--54b7fta0cc. NS RRSIG NSEC
+xn--45bdsjdh2hta3ic.xn--54b7fta0cc. 10800 IN NS	ns1.nothi.org.bd.
+xn--45bdsjdh2hta3ic.xn--54b7fta0cc. 10800 IN NS	ns2.nothi.org.bd.
+xn--45be4a8a4an7e.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. dMOxnVA8ocTjIa4R+wiEI08Y2d+dAUdFsRJJSO4yeER1VH0MNzH/v423 nQyv9A9r7+bla4gbFiaadW4Vwp/yQazvtR1RtANFnJTwTfOGWYGCiUMZ 1UZGzgNhQY3XjXtGucxQPBGDfyX3ew9+fB+RyBFbwzcUPLQOTOi9fb2l jmk=
+xn--45be4a8a4an7e.xn--54b7fta0cc. 10800	IN NSEC	xn--45bikn9djb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--45be4a8a4an7e.xn--54b7fta0cc. 10800	IN NS	violet.ns.cloudflare.com.
+xn--45be4a8a4an7e.xn--54b7fta0cc. 10800	IN NS	giancarlo.ns.cloudflare.com.
 xn--45bikn9djb.xn--54b7fta0cc. 10800 IN	NS	ns1.nothi.org.bd.
 xn--45bikn9djb.xn--54b7fta0cc. 10800 IN	NS	ns2.nothi.org.bd.
-xn--45bikn9djb.xn--54b7fta0cc. 10800 IN	NSEC	xn--55bf4e.xn--54b7fta0cc. NS RRSIG NSEC
-xn--45bikn9djb.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009211422 20250909201422 15315 xn--54b7fta0cc. lk5tGAZp26z3oYBfuE8woxx+zQuTCmrZWCZM16oI5zEy9NBnDoXxfd1d UAEAEYORgbKK1nIGgGiqIQNhKRGhPNN2i0libFZVcGx78giiSW49hkGP Od3u0Xgt5S7+SM0A2xwV4C+1dk4+16cJTU2Sm1hZXptVLM8fHVe8yYE8 E7o=
+xn--45bikn9djb.xn--54b7fta0cc. 10800 IN	NSEC	xn--45bn2bzad1vag.xn--54b7fta0cc. NS RRSIG NSEC
+xn--45bikn9djb.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. Wqahrxeu6CDuDNqrt1EzMWGRXPFbeAF2YQgbv13GrV6PwL7boeMztCF5 ez5iMn6whc8syc3Y+7YBgs2oZrHpgPl++MSP7DC5FVrZLO3BoUtpAxrm ud0aC7zilbZOgUwzrjGV1TFqitni0gVs2mhqIs9WRCaHaYdmNoAHajDw OhQ=
+xn--45bn2bzad1vag.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. MWg/kvBWKrCdezwKLV5z4lK4X3i//rzLeAs1uUdebZnkrNpG4nSdsHjp 9h5lgvE+eguJIhaAvnRiAcdRI3tSkFuYaPR6sqXZVynzNUugOt2CcPmK jmqh4r/TUd8Vz3+zkEqC7qTBNp3CVpY/9GgHwBLorkTyCmKr6KfS9HSS KlM=
+xn--45bn2bzad1vag.xn--54b7fta0cc. 10800	IN NSEC	xn--45bno1dd.xn--54b7fta0cc. NS RRSIG NSEC
+xn--45bn2bzad1vag.xn--54b7fta0cc. 10800	IN NS	ns1.sitechai.com.
+xn--45bn2bzad1vag.xn--54b7fta0cc. 10800	IN NS	ns2.sitechai.com.
+xn--45bno1dd.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. J14AsnuHCjt6RnIRZfNLQJpdtceW5W/xV41eYkYPvry0yMazQ9JRRsmL 2L8ZryWxLHjrtBk97YA5marLQNEIhfRl5V9fPZ8ZPXmPvxTQJKh1QwoL DFaZ5DRUTm97iABSFNcWrOmc2/F/K+Jf3ViF5UkAxIXyY5XvXu5OzkTb +kc=
+xn--45bno1dd.xn--54b7fta0cc. 10800 IN	NSEC	xn--45bt3aa0bj9f.xn--54b7fta0cc. NS RRSIG NSEC
+xn--45bno1dd.xn--54b7fta0cc. 10800 IN	NS	ns6011.hostgator.com.
+xn--45bno1dd.xn--54b7fta0cc. 10800 IN	NS	ns6012.hostgator.com.
+xn--45bt3aa0bj9f.xn--54b7fta0cc. 10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. qG3H0OOaglXb17MW+YNA1jvFA5j+DSpgguosqNQ6UFSClnFVSKMECRN+ nchTra/L7SJY5Ehl6V1t5xnfu1rUXZip2lWhBG/iQj+dUB+aj/wmGFvk s9lG5OtXrIIRhv+zkoEhMKfNUbLbCYEbclYjSA1OiqxVaClUPeMlcV85 qTI=
+xn--45bt3aa0bj9f.xn--54b7fta0cc. 10800 IN NSEC	xn--45bth8g0a.xn--54b7fta0cc. NS RRSIG NSEC
+xn--45bt3aa0bj9f.xn--54b7fta0cc. 10800 IN NS	dns.btcl.net.bd.
+xn--45bt3aa0bj9f.xn--54b7fta0cc. 10800 IN NS	slave.btcl.net.bd.
+xn--45bth8g0a.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. mZJifql/paXa82J4C/xz6n1etaU8QOY8OpXAQZAV+kAfC/aV8owEckT1 dA8BE4wnhhN3vnnd5B6z1HGFzOqeBerDI8jY/Xgtn+ZVaWi5KdY2sHwn UTs+gQXQKxWs5wDnTjBqLKZUd5tQdFWJfLI1a5mr0nLFDI38400alwik 1Rc=
+xn--45bth8g0a.xn--54b7fta0cc. 10800 IN	NSEC	xn--45bue4d.xn--54b7fta0cc. NS RRSIG NSEC
+xn--45bth8g0a.xn--54b7fta0cc. 10800 IN	NS	dns.btcl.net.bd.
+xn--45bth8g0a.xn--54b7fta0cc. 10800 IN	NS	slave.btcl.net.bd.
+xn--45bue4d.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. F0KtSW4jP5XPmqlC1JWPMQpbkXG716+MYOP6OM7QbJfplGp62U7Tgxtj 99FtkPQqvGNEUwcooMNmRaWir7RXJeJQOiMXQww1+o4WIEdMojb6YbwP fYD3ohXCnIAqikR3AiSQk7cK/+jxd8Y7Qal/Tjw8nAsdgtrAAYcdRJ07 bqU=
+xn--45bue4d.xn--54b7fta0cc. 10800 IN	NSEC	xn--45byu2an.xn--54b7fta0cc. NS RRSIG NSEC
+xn--45bue4d.xn--54b7fta0cc. 10800 IN	NS	ris5.realitsolution.com.
+xn--45bue4d.xn--54b7fta0cc. 10800 IN	NS	ris6.realitsolution.com.
+xn--45byu2an.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. XcUOzpqVUqh5A+rzjHxJ/WitiH5k+ccuGfDxyEkGHQwbIPmVpy7aQ3F6 DqaNuUn+MiKVIuCLVd4jJUmA27vnsQbblMoWv2SHZBkXmPVtDb2bXoJH yPMoRr0Co7B7PiUELdmA5yhmjx8sccdaC3k7tN8ixI/p9OjqvXbQKp16 qAQ=
+xn--45byu2an.xn--54b7fta0cc. 10800 IN	NSEC	xn--54b1bf7fuab9gcl9k.xn--54b7fta0cc. NS RRSIG NSEC
+xn--45byu2an.xn--54b7fta0cc. 10800 IN	NS	ns1.dns-parking.com.
+xn--45byu2an.xn--54b7fta0cc. 10800 IN	NS	ns2.dns-parking.com.
+xn--54b1bf7fuab9gcl9k.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. C8XXmw4TvagohXQw22SEh3tBdarva87nteQ86kLiUGmw0EhlVKLyBB4h 2nvEnNFTucNIHzNNHd/0/uY5dGXnBncHBlRxv3xbg48P2okrsNr/N+oJ QXpN1qyybTuZEbUoARCv11bZiOX9AT/T/F/xZ3KEV9ZR+WuSIuIJguWV ElI=
+xn--54b1bf7fuab9gcl9k.xn--54b7fta0cc. 10800 IN NSEC xn--54b1d6ajto6fc8eybu.xn--54b7fta0cc. NS RRSIG NSEC
+xn--54b1bf7fuab9gcl9k.xn--54b7fta0cc. 10800 IN NS ns1.btraccl.net.
+xn--54b1bf7fuab9gcl9k.xn--54b7fta0cc. 10800 IN NS ns2.btraccl.net.
+xn--54b1d6ajto6fc8eybu.xn--54b7fta0cc. 10800 IN	RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. kUrui9z/aMoVLoUF1nmYLsWu/GYC4nIMAuIz5AzQMzclqe0lHMHxbcIp BgphGoWyFzRYOnT2XqEKTzLxy9Aako8DHa0QYHiufsyPZCbloS/CBHbJ pnZzxY1PCc7knqHE56vwtVDc8inRlOoriHgIicd3jp6/NonNEJDF6osI TeY=
+xn--54b1d6ajto6fc8eybu.xn--54b7fta0cc. 10800 IN	NSEC xn--54b1dwagioshx5b6ec2j4c.xn--54b7fta0cc. NS RRSIG NSEC
+xn--54b1d6ajto6fc8eybu.xn--54b7fta0cc. 10800 IN	NS dns1.bcc.gov.bd.
+xn--54b1d6ajto6fc8eybu.xn--54b7fta0cc. 10800 IN	NS dns2.bcc.gov.bd.
+xn--54b1dwagioshx5b6ec2j4c.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. jkSUsejvzg48FiaIyqPyiZVIWmgVxRv67O599NDM8f9kREFJipf3qHMf DZP9TIg4ajxy3Sx7KtjmaHbkaw2oohUUurdFPSYaBMc8s4iiG18+4DOW flMdk15Y7idpglfxLsTS9Givs6uw+WcJ8/d13WtMj4XES5ptHsy5AtMD Zok=
+xn--54b1dwagioshx5b6ec2j4c.xn--54b7fta0cc. 10800 IN NSEC xn--54b2b2a4ciif4ieg0n.xn--54b7fta0cc. NS RRSIG NSEC
+xn--54b1dwagioshx5b6ec2j4c.xn--54b7fta0cc. 10800 IN NS ns1.ithostbd8.com.
+xn--54b1dwagioshx5b6ec2j4c.xn--54b7fta0cc. 10800 IN NS ns2.ithostbd8.com.
+xn--54b2b2a4ciif4ieg0n.xn--54b7fta0cc. 10800 IN	RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. KV0tz2i8JL8cTJ2fa4S3nSWIXcmTRd6gtGSP07crUom5qKh1MOkx+J6A HErmezUmCKCLlIEaHT3smcIgh3lsrXspwuXXVAonM0xaeSyvKXkC2KJ/ daC2JRqnH4HQHiTlEDvABUgFzWS1h5rAo5S25cG2oB2bMV+3kdxvIH3t zdM=
+xn--54b2b2a4ciif4ieg0n.xn--54b7fta0cc. 10800 IN	NSEC xn--54b2b3a2crfm8gcd6nb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--54b2b2a4ciif4ieg0n.xn--54b7fta0cc. 10800 IN	NS ns1.quantummethod.info.
+xn--54b2b2a4ciif4ieg0n.xn--54b7fta0cc. 10800 IN	NS ns2.quantummethod.info.
+xn--54b2b3a2crfm8gcd6nb.xn--54b7fta0cc.	10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. oV2vPvulr7E+CB2gnpn9kVU96Dx5zY/2m9kRzn3YJ+tkYTJXK3apsxn0 1YbkNZ1DqNXr/1bCvWS9enlRSODFEBuNSFkHXSSpNG6dF02NW8bhhf+M PfbpgpH66FIv4QNRtTXkuvGGfhvFeyDZH09AzKpN9LGKunZxXppBm1bg T28=
+xn--54b2b3a2crfm8gcd6nb.xn--54b7fta0cc.	10800 IN NSEC xn--54b2b4aa8buxjog0e2ccce5l2dg.xn--54b7fta0cc. NS RRSIG NSEC
+xn--54b2b3a2crfm8gcd6nb.xn--54b7fta0cc.	10800 IN NS ns1.digitalvisionbd.com.
+xn--54b2b3a2crfm8gcd6nb.xn--54b7fta0cc.	10800 IN NS ns2.digitalvisionbd.com.
+xn--54b2b4aa8buxjog0e2ccce5l2dg.xn--54b7fta0cc.	10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. BkgLUFKAg/c4kKINS18nHBtrBbb7JTsAyLDxXEwixG0hSfy21Fs2awLq r/VuEIbQ0f58wYxryuXpJs7GRH77QJ+z/1SYAEMHB08KwNcPjVvj1h44 oYEvpwdQJn7wy7xSwDHKERGqy/VY3pR0t0j6O9CA1L1xKxUIpKVIlFcA 7EY=
+xn--54b2b4aa8buxjog0e2ccce5l2dg.xn--54b7fta0cc.	10800 IN NSEC xn--54b2b4aa8buxjog7jcce6kwdg.xn--54b7fta0cc. NS RRSIG NSEC
+xn--54b2b4aa8buxjog0e2ccce5l2dg.xn--54b7fta0cc.	10800 IN NS ns1.aknetbd.com.
+xn--54b2b4aa8buxjog0e2ccce5l2dg.xn--54b7fta0cc.	10800 IN NS ns2.aknetbd.com.
+xn--54b2b4aa8buxjog7jcce6kwdg.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. jYQg77OIAm9a8a9GngX7y4iZO+JY0AeI4ULqdCA5N3sp69gEHFNz6RsG aWbmES7AdC7+h5S0ndICX9xP2h8hTZiNKwtb1T624SiWCwKIg+ZIZwtu OQrpH3uliSweGRehyyC4RbOjnD5wqNUkPOlJR8CYaaZ36tdxcgkqWaBU CFE=
+xn--54b2b4aa8buxjog7jcce6kwdg.xn--54b7fta0cc. 10800 IN NSEC xn--54b2b4azcrq6fcc2m.xn--54b7fta0cc. NS RRSIG NSEC
+xn--54b2b4aa8buxjog7jcce6kwdg.xn--54b7fta0cc. 10800 IN NS ns1.aknetbd.com.
+xn--54b2b4aa8buxjog7jcce6kwdg.xn--54b7fta0cc. 10800 IN NS ns2.aknetbd.com.
+xn--54b2b4azcrq6fcc2m.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. b21u6c2cGFAb+qEdP9erPYB4+nT8BRjcAZr/9sSfkaOyBEdTYtBqU4RJ gZOVritKVfR/O4iz4+5fpcnWzbKE9E/Im8/kiBwcbW0fkhQVsfKeNZSQ b7Zo46xEenP+RjAHhIvBgkvHtEePo1IK9QZbBpnDBNKwEjTURezI8/B5 oBo=
+xn--54b2b4azcrq6fcc2m.xn--54b7fta0cc. 10800 IN NSEC xn--54b2b5cipdp9gdrs1l.xn--54b7fta0cc. NS RRSIG NSEC
+xn--54b2b4azcrq6fcc2m.xn--54b7fta0cc. 10800 IN NS ns1161.websitewelcome.com.
+xn--54b2b4azcrq6fcc2m.xn--54b7fta0cc. 10800 IN NS ns1162.websitewelcome.com.
+xn--54b2b5cipdp9gdrs1l.xn--54b7fta0cc. 10800 IN	RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. RbfkB5Jwnpx2c6HcpCnog79ZGDGs57g/9SavRvJ9WC45kpWi2f85K8iJ Ho9w3oIb7/YvNgPjJlHmuXLfYaPId+BdejMllKU3Z842bacT0PcXNEyk 1G6t6KcsJvi/D61b5IzFLRqLEEyn77oP2QZBLk7BIsxDbvKNVp1gCV/B Dxo=
+xn--54b2b5cipdp9gdrs1l.xn--54b7fta0cc. 10800 IN	NSEC xn--54b2b8b6bt9cvc.xn--54b7fta0cc. NS RRSIG NSEC
+xn--54b2b5cipdp9gdrs1l.xn--54b7fta0cc. 10800 IN	NS dns.btcl.net.bd.
+xn--54b2b5cipdp9gdrs1l.xn--54b7fta0cc. 10800 IN	NS slave.btcl.net.bd.
+xn--54b2b8b6bt9cvc.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. IRyu6/UOOqGT1j3fGhC876S/OfqxjVDSQgDuXdW+T0VjfLDrVp6AI+DC wAZ4hfejcL9CfZcl21b+2Nba+cGbs1SNVP6OwpIEPAsX0R/vruxdQKex p0htvFCvrMgp+mOKRClOnEABkaHH7d//42zSvFh4TqM4dIYMAwTxqJ9C Ee8=
+xn--54b2b8b6bt9cvc.xn--54b7fta0cc. 10800 IN NSEC xn--54b2bt6atzv2jc2m.xn--54b7fta0cc. NS RRSIG NSEC
+xn--54b2b8b6bt9cvc.xn--54b7fta0cc. 10800 IN NS	ns1.servconfig.com.
+xn--54b2b8b6bt9cvc.xn--54b7fta0cc. 10800 IN NS	ns2.servconfig.com.
+xn--54b2bt6atzv2jc2m.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. gV/iNdbrTvB1FT2+IuZTkp5xMatxRvniEjTmgKRZN9ZPNNZdW9LvNeaM 6w6gQuzwlYtjxG7Vygqyg2xsEDQQ/YTkJ53vZa5B3DVJ1CJIK/ruWNa6 xaccbcUC6oI+3FuMjyymYmfTiFQPqKAmiyO9gNbyb1pYSupxt56fFKRg 18Q=
+xn--54b2bt6atzv2jc2m.xn--54b7fta0cc. 10800 IN NSEC xn--54b2bvbs2a1b3a4dc5g0b.xn--54b7fta0cc. NS RRSIG NSEC
+xn--54b2bt6atzv2jc2m.xn--54b7fta0cc. 10800 IN NS dns1.bdmail.net.
+xn--54b2bt6atzv2jc2m.xn--54b7fta0cc. 10800 IN NS dns2.bdmail.net.
+xn--54b2bvbs2a1b3a4dc5g0b.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. ZGTurdRfT7tN0mf7OYSFRaLCvb5aQ2ZAY0FxLb6mKt7zfZcfYxs0AKku 0ITPi23FJ9IRwGw3cWm8UUgtJzJcC5SfdhTKB9FONtHFk6FZFwBiHIim mjWeTD987VfQGVvZHdpTwdU+k5u83pQLRTcRM7iPhkf87nW5i+IDLWkf CRc=
+xn--54b2bvbs2a1b3a4dc5g0b.xn--54b7fta0cc. 10800	IN NSEC	xn--54b2d0aovld2c7bcd9hqd.xn--54b7fta0cc. NS RRSIG NSEC
+xn--54b2bvbs2a1b3a4dc5g0b.xn--54b7fta0cc. 10800	IN NS ns1.bcc.gov.bd.
+xn--54b2bvbs2a1b3a4dc5g0b.xn--54b7fta0cc. 10800	IN NS ns2.bcc.gov.bd.
+xn--54b2d0aovld2c7bcd9hqd.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. mxJvp0NnxZDtCrdbnJzrNZvSA9Dk4MTm8NvRQ2hAUnC8L1VrFxWqixNW m4GJwPmnIlCvaL45n+UM3irspW6uGVix9DD30NV8ggwmcMxFW9u1fgH1 dtUTIiWElP83mwa4E5NnSgcTei+P35HyXoyuG1gFZP15NqEAiJgpcecV yW4=
+xn--54b2d0aovld2c7bcd9hqd.xn--54b7fta0cc. 10800	IN NSEC	xn--54b2d0aovld4gcd0h7c.xn--54b7fta0cc. NS RRSIG NSEC
+xn--54b2d0aovld2c7bcd9hqd.xn--54b7fta0cc. 10800	IN NS ns1.aknetbd.com.
+xn--54b2d0aovld2c7bcd9hqd.xn--54b7fta0cc. 10800	IN NS ns2.aknetbd.com.
+xn--54b2d0aovld4gcd0h7c.xn--54b7fta0cc.	10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. P8xcZFwxaEaxSF2d7bCVBJjkIvYf74UwAQgpf5ARrOddcycYzCjij5YF HPTo9siTCnPdQu7LnBlid0yU7HHKQtrdjR2gQuz18pP83rnmJ4nCW9NQ QN1SHCEqFkqQABc+0DRmSaHQpgF/f2mhLDVkv4nsz59xUDB7m8wyo76u Wg4=
+xn--54b2d0aovld4gcd0h7c.xn--54b7fta0cc.	10800 IN NSEC xn--54b2efwczk7a9dce8hc.xn--54b7fta0cc. NS RRSIG NSEC
+xn--54b2d0aovld4gcd0h7c.xn--54b7fta0cc.	10800 IN NS ns1.aknetbd.com.
+xn--54b2d0aovld4gcd0h7c.xn--54b7fta0cc.	10800 IN NS ns2.aknetbd.com.
+xn--54b2efwczk7a9dce8hc.xn--54b7fta0cc.	10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. nD1eBFtx5lyDN0Tl6U4GJOlpNArlCARGRVpeIgz6JMkUQqtlf9MmWmyF DyvnluWaJdQdXtCdW9pBESCBPVjQk6YiHrbDOhB0YlorZbi7gmzZa+FL sWgUJRcQu3h9FIzO5z46aXg5/ud98wJyxG1LsycMdYCJVp4Py4oogilw 7NU=
+xn--54b2efwczk7a9dce8hc.xn--54b7fta0cc.	10800 IN NSEC xn--54b3fl6an3b2e.xn--54b7fta0cc. NS RRSIG NSEC
+xn--54b2efwczk7a9dce8hc.xn--54b7fta0cc.	10800 IN NS ns1.bcc.gov.bd.
+xn--54b2efwczk7a9dce8hc.xn--54b7fta0cc.	10800 IN NS ns2.bcc.gov.bd.
+xn--54b3fl6an3b2e.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. Xvt1JUSbVJxrWw+8yoyHeQnkVPw/cCITxapeqn/Tdxdyltqcbql3iKux UPpJ/nPDLdc2dhbIK3Tb6meQEae3kIILG2K/Iy2ksvsQZttTXtNvQYLI kUZxXOpMNarjZ8Rmp8DohtLQq/euxmKsNGXhPWUY847kvRkDdTJtBqj7 9YA=
+xn--54b3fl6an3b2e.xn--54b7fta0cc. 10800	IN NSEC	xn--54b6d5ajgp7ekcehb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--54b3fl6an3b2e.xn--54b7fta0cc. 10800	IN NS	dns.btcl.net.bd.
+xn--54b3fl6an3b2e.xn--54b7fta0cc. 10800	IN NS	slave.btcl.net.bd.
+xn--54b6d5ajgp7ekcehb.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. TyvwetU7lVFFIPR4qZ2KHt7xgtrqP2kGVd8e3ILMy4SAtv5uyKAnr9Vq C5wXIA/jLgYnjP8nd0JcYv1GePyXtbqZ/6iqRe+zc45tf/ePxlhTBRbn H5k2USAfhdm6asdqitZ0UgeLRfnql+4Wcwu7ZHIWgsLEZOtbtDVcS9qV Zyk=
+xn--54b6d5ajgp7ekcehb.xn--54b7fta0cc. 10800 IN NSEC xn--54b6ekibv7bq0de3g.xn--54b7fta0cc. NS RRSIG NSEC
+xn--54b6d5ajgp7ekcehb.xn--54b7fta0cc. 10800 IN NS cns55.webhostbox.net.
+xn--54b6d5ajgp7ekcehb.xn--54b7fta0cc. 10800 IN NS cns56.webhostbox.net.
+xn--54b6ekibv7bq0de3g.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. Pw/fX0myxg6lFv0kndh1b/Qce96bYlNw9HrqJwsh39YsjQ/h30E8K354 rezdg7E+NWG6qFSO5z0KzUT+DHrzzPySWzZIb3HQSHJN6Rh/DLPmHhZq y7UjTPNq8hhm9Froxjxov3JxDVzTMsMbcpTZQzp7CiMl/+3ueng89qsw 6ZY=
+xn--54b6ekibv7bq0de3g.xn--54b7fta0cc. 10800 IN NSEC xn--54b6emfxj3as1cc4hd0f.xn--54b7fta0cc. NS RRSIG NSEC
+xn--54b6ekibv7bq0de3g.xn--54b7fta0cc. 10800 IN NS ns1.rootserver.pw.
+xn--54b6ekibv7bq0de3g.xn--54b7fta0cc. 10800 IN NS ns2.rootserver.pw.
+xn--54b6emfxj3as1cc4hd0f.xn--54b7fta0cc. 10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. dgz58ze9cynFZjHOY+bmUcl3xzwCQln0xgSxCDwY6zoqgg0jc/PN0JoM JYXmnfgNkl+2eEz9YGgOceCEX06JR8XFdUKlwel6cMLxwEUbp8jHCy5F pGHAt32+jAONFd2fGD70uxIGowywxhCwnHbvbFzi49ilmFZ7HsLXdr5l MRE=
+xn--54b6emfxj3as1cc4hd0f.xn--54b7fta0cc. 10800 IN NSEC xn--54b6eqazv8bc7e.xn--54b7fta0cc. NS RRSIG NSEC
+xn--54b6emfxj3as1cc4hd0f.xn--54b7fta0cc. 10800 IN NS dns.btcl.net.bd.
+xn--54b6emfxj3as1cc4hd0f.xn--54b7fta0cc. 10800 IN NS slave.btcl.net.bd.
+xn--54b6eqazv8bc7e.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. fQ8NxQTB4uRe9gdBJelgHnIM2soCTIdvwXdkNchwOW0KVXNeZ3HrUzoD 4u2oWSvNYX4gwmY96LsG+OeriI7kCSIWVnrE95XE2TxEbfjnmQN6tuED +yYZ6rKEdcQl+fXyWBGCPrLUxvVpKOe3pO3nEOmQqHxF9EoUPq+EkMqS Ml8=
+xn--54b6eqazv8bc7e.xn--54b7fta0cc. 10800 IN NSEC xn--54b7af2cb3bbqg8bly7ehl0c5adkn9m0dqbl.xn--54b7fta0cc. NS RRSIG NSEC
+xn--54b6eqazv8bc7e.xn--54b7fta0cc. 10800 IN NS	kobe.ns.cloudflare.com.
+xn--54b6eqazv8bc7e.xn--54b7fta0cc. 10800 IN NS	maisie.ns.cloudflare.com.
+xn--54b7af2cb3bbqg8bly7ehl0c5adkn9m0dqbl.xn--54b7fta0cc. 10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. ANkvkBtzrFayoHbo3wdCTd0f5tG6Q2cjv4sndh1FoENoz8Fq5V6HrJdd +c65ExGBi0G3A/wa0qs4AeYGnr8m/vZ+iaUaCtmo8byieQzmR3XZy7EY ohVGgi37ZwI/IX2K9yV26DZugRHBPzlQEFTndNvUNLNDDeD3GfUvirL6 OOI=
+xn--54b7af2cb3bbqg8bly7ehl0c5adkn9m0dqbl.xn--54b7fta0cc. 10800 IN NSEC xn--54b8a0dgsgk7fmcbd.xn--54b7fta0cc. NS RRSIG NSEC
+xn--54b7af2cb3bbqg8bly7ehl0c5adkn9m0dqbl.xn--54b7fta0cc. 10800 IN NS ns6497.hostgator.com.
+xn--54b7af2cb3bbqg8bly7ehl0c5adkn9m0dqbl.xn--54b7fta0cc. 10800 IN NS ns6498.hostgator.com.
+xn--54b8a0dgsgk7fmcbd.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. kjxyGKm8BPG7rWNZfxU4bmIAorJqpEbgoYmPPg++faUPDHdhVDvLm5Fu eROuVBjM6EZxyBvVMSDKaQJeRHTnPBoaLOATBI8GVjmgBhMMooBwCdSk GudBZxmRx471h6LyyCCCcy1IQfMj1/Mr9gOiA/NELjai0Sgo4WC9Nbch ZHw=
+xn--54b8a0dgsgk7fmcbd.xn--54b7fta0cc. 10800 IN NSEC xn--54ba0dye1ae5fbc.xn--54b7fta0cc. NS RRSIG NSEC
+xn--54b8a0dgsgk7fmcbd.xn--54b7fta0cc. 10800 IN NS ns1.aknetbd.com.
+xn--54b8a0dgsgk7fmcbd.xn--54b7fta0cc. 10800 IN NS ns2.aknetbd.com.
+xn--54ba0dye1ae5fbc.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. dE/P/GjmSmUfXxaYJYQH1TrkPcD6oPk+deU3whim1MXtGRX39cboIblW DZzhVKMPYaX3qMUH1JajR3EdbG7jES44HzgrPygN6OErDKOPg28zMP4x 32PBlcjAyWuhaKlOnxVuV3qmgKEgSZhOqQMd9LUvH0DsFY7IkFtmhOns WwY=
+xn--54ba0dye1ae5fbc.xn--54b7fta0cc. 10800 IN NSEC xn--54ba1d6c2acvv1b2ece7iud.xn--54b7fta0cc. NS RRSIG NSEC
+xn--54ba0dye1ae5fbc.xn--54b7fta0cc. 10800 IN NS	ns1.aamranetworks.com.
+xn--54ba0dye1ae5fbc.xn--54b7fta0cc. 10800 IN NS	ns2.aamranetworks.com.
+xn--54ba1d6c2acvv1b2ece7iud.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. isPHRnBwhTqvWm4LL80gU+aB/D8KtO1iWTspoDwawOkAov8TLIpn6lKw 6Q91xzCzbptljSx4Wj2Jl9gS6Qt/DquFfjCd/JnpJADSQpyL4dYHqDfy HQttifiwZpjrcfLR7dSyd2Br7DYWHdaI+fTgjaB4sMPrInMwqG7799RC YYY=
+xn--54ba1d6c2acvv1b2ece7iud.xn--54b7fta0cc. 10800 IN NSEC xn--54ba1dve5aa5fck.xn--54b7fta0cc. NS RRSIG NSEC
+xn--54ba1d6c2acvv1b2ece7iud.xn--54b7fta0cc. 10800 IN NS	ns1.mango.com.bd.
+xn--54ba1d6c2acvv1b2ece7iud.xn--54b7fta0cc. 10800 IN NS	ns2.mango.com.bd.
+xn--54ba1dve5aa5fck.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. VGZpzM9GDFqE5TjO96F94Q4A47jzXb3NwfEjHia3h4934YwtUwkZIfTa GCEuWTkVbBsj/Q2D3y9U5Ky1iEdOePUCWVaXICp7ovVs4kzKZGLtnRB7 BzuN5WiCXLPyiND4J0uQe0sZUNjbwbmh+Sp5xSZIPI1WZO6duPRSgT+r Dp8=
+xn--54ba1dve5aa5fck.xn--54b7fta0cc. 10800 IN NSEC xn--54bao5a2aab2drhsf8fbfe2bzfkj8m3d0bghhbe4szgefd.xn--54b7fta0cc. NS RRSIG NSEC
+xn--54ba1dve5aa5fck.xn--54b7fta0cc. 10800 IN NS	ns1.banglalinkgsm.com.
+xn--54ba1dve5aa5fck.xn--54b7fta0cc. 10800 IN NS	ns2.banglalinkgsm.com.
+xn--54ba1dve5aa5fck.xn--54b7fta0cc. 10800 IN NS	ns3.banglalinkgsm.com.
+xn--54bao5a2aab2drhsf8fbfe2bzfkj8m3d0bghhbe4szgefd.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. eSPl+tHopuGyq+o269ogR3jwJwzoogWi7knaEvIeSjEcdfGQ+9IdEU8S JBUPmHYSCSV54RE8Q2pqaqlxfHDsTrBS83k9pxZKHKl/gFydkco/FfwA X9eFc8pwsEWOIdCcZW2PSvBbNht4/XZm0x4X1KKkT183CgpjG1p3rRhw 8mI=
+xn--54bao5a2aab2drhsf8fbfe2bzfkj8m3d0bghhbe4szgefd.xn--54b7fta0cc. 10800 IN NSEC xn--54bf0hf3av1d8bzh.xn--54b7fta0cc. NS RRSIG NSEC
+xn--54bao5a2aab2drhsf8fbfe2bzfkj8m3d0bghhbe4szgefd.xn--54b7fta0cc. 10800 IN NS ns6497.hostgator.com.
+xn--54bao5a2aab2drhsf8fbfe2bzfkj8m3d0bghhbe4szgefd.xn--54b7fta0cc. 10800 IN NS ns6498.hostgator.com.
+xn--54bf0hf3av1d8bzh.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. GmdNtQGC7A2GoFNt2bTrv4GIGR91KxP1O/eMvY9GolXPB8pQP52ttUpi W90bwimcs0UVaAp73jP1HJrGv6HRwYzQlTSEI/EfYIsw304KH2X0lfWX w042e+/F3/7UbxiFYf6ugoFiw6EXPi06AFRJpI+zB65/kmCnL2LWgBnC 3Hk=
+xn--54bf0hf3av1d8bzh.xn--54b7fta0cc. 10800 IN NSEC xn--54bf3cg4ducvaf3kra4le.xn--54b7fta0cc. NS RRSIG NSEC
+xn--54bf0hf3av1d8bzh.xn--54b7fta0cc. 10800 IN NS brit.ns.cloudflare.com.
+xn--54bf0hf3av1d8bzh.xn--54b7fta0cc. 10800 IN NS gabe.ns.cloudflare.com.
+xn--54bf3cg4ducvaf3kra4le.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. eHzLTYM9wpth8NYsztbIFP4SOJXqewL2PHc3xk73E/SkkK0I/8nRmiq7 Qf6WipdeI3cjPGTgY8hT9WJk3pdm5XowpQs5pWaIg9CeHkGyS9a8C/ZQ 1nhEq5fsNG6FET5R5rCPiOO+nPBpgMRrMdAi/87pYa63FJTR6zQMUEJC hes=
+xn--54bf3cg4ducvaf3kra4le.xn--54b7fta0cc. 10800	IN NSEC	xn--54bgg6jlbw3cd1byfcf5j.xn--54b7fta0cc. NS RRSIG NSEC
+xn--54bf3cg4ducvaf3kra4le.xn--54b7fta0cc. 10800	IN NS dns.bangla.net.
+xn--54bf3cg4ducvaf3kra4le.xn--54b7fta0cc. 10800	IN NS ns1.bangla.net.
+xn--54bgg6jlbw3cd1byfcf5j.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. NltjmXETzpQTOPYqSWmBfwAN57K6Etn9nFWmQu69b1zt1uY4xUvJIrmS Dr3U7fHNzpv3hXnAd55Wz6Yv+i3XadID93PQ8dLK8GEavNbXecgMMnbH 6wcgqe1EutM3mhOI6eZE8EtndwGFgWCC/IVhkHbQ5b9EdIt/Ol90p8bm vKQ=
+xn--54bgg6jlbw3cd1byfcf5j.xn--54b7fta0cc. 10800	IN NSEC	xn--54bh0c3duasf7ducd7n.xn--54b7fta0cc. NS RRSIG NSEC
+xn--54bgg6jlbw3cd1byfcf5j.xn--54b7fta0cc. 10800	IN NS ns1.bol-online.com.
+xn--54bgg6jlbw3cd1byfcf5j.xn--54b7fta0cc. 10800	IN NS ns2.bol-online.com.
+xn--54bh0c3duasf7ducd7n.xn--54b7fta0cc.	10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. iWzzTRrfyNiUdsJOT/gIChhQzoTicaYoTp8P8yzXXdKQ23ZGxxNz6JRu 2f4DN6747aS5fJLWo9M7dQDaJ0/5G5UmQ9plq0ag1se0fjxEsm5V/DSd ABz9d3mhMNn6+AJFhqtW4ZHkXUbZTzaQ8Zyjj6lZ++b2WNDrH3FGoeEz YrA=
+xn--54bh0c3duasf7ducd7n.xn--54b7fta0cc.	10800 IN NSEC xn--54bid6a4a8jtbycc6ccp8p.xn--54b7fta0cc. NS RRSIG NSEC
+xn--54bh0c3duasf7ducd7n.xn--54b7fta0cc.	10800 IN NS ns1.nothi.org.bd.
+xn--54bh0c3duasf7ducd7n.xn--54b7fta0cc.	10800 IN NS ns2.nothi.org.bd.
+xn--54bid6a4a8jtbycc6ccp8p.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. tiligfkdH1UHIMvvWWYHBOjyDZIPCcpjX6rOYSF509yDw4g69Sp0hP/e jPj89l3YTBPXxE6mQn8u/w1Y7BIZos/avfabRTBpnsCOFryU+g9N08CO amuH+RYx/fQsh0PrUELtEmnpTBKHwiRZ7sIwx7RjpoJ/pAodGkgF29+L okU=
+xn--54bid6a4a8jtbycc6ccp8p.xn--54b7fta0cc. 10800 IN NSEC xn--54bid6jmat4ao1b2ec3ib.xn--54b7fta0cc. NS RRSIG NSEC
+xn--54bid6a4a8jtbycc6ccp8p.xn--54b7fta0cc. 10800 IN NS ns1.btraccl.net.
+xn--54bid6a4a8jtbycc6ccp8p.xn--54b7fta0cc. 10800 IN NS ns2.btraccl.net.
+xn--54bid6jmat4ao1b2ec3ib.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. ZkHy/1E7ISXLyLlQ/YBNWIIBPFlLJjJ2B8/QdS/JBbHg5j6AACqPi7qG tJe8GVkegZcVH3R/uxWAeWsDZ8zDFKxivHlenoEYK8VXkleDTU8UKmxT Plx9zVjdpfFakv9UAaA7Nwp5I0qiG8GUmA2m6t/fOsydMhsLU71LqLqs 1SA=
+xn--54bid6jmat4ao1b2ec3ib.xn--54b7fta0cc. 10800	IN NSEC	xn--54bo1d3bs1b8eck.xn--54b7fta0cc. NS RRSIG NSEC
+xn--54bid6jmat4ao1b2ec3ib.xn--54b7fta0cc. 10800	IN NS ns1.bcc.gov.bd.
+xn--54bid6jmat4ao1b2ec3ib.xn--54b7fta0cc. 10800	IN NS ns2.bcc.gov.bd.
+xn--54bo1d3bs1b8eck.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. tiRM0sLO4qNBkabJKnXBF6jC6WF72tUrgYOGXYw4rJjdFZrKppULtpz5 P3vZhU67jaP+xzZ6BSQdQtgagt2qzlqZkdy7VYkgnVWbDb5+q7airYer 6Jkunt2s6iUnloi9S+tB3wfjkBMiq1vjN9+gelzpJQnGPu0q4FsFkTif DFc=
+xn--54bo1d3bs1b8eck.xn--54b7fta0cc. 10800 IN NSEC xn--54bo9aab0d8cb2ayily9dxfcdvc5nseb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--54bo1d3bs1b8eck.xn--54b7fta0cc. 10800 IN NS	cns55.webhostbox.net.
+xn--54bo1d3bs1b8eck.xn--54b7fta0cc. 10800 IN NS	cns56.webhostbox.net.
+xn--54bo9aab0d8cb2ayily9dxfcdvc5nseb.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. nesrQ+iF1WEler5wAgDJgApPiw3IT1LSHs6xm0hYquFImSzjybnC0HOh E1bkOIe1+5xAdz/s260uoSIcEyTWwyiERa0yrW7HKTJEdsaXr4fP5mUk 2XFBFY2aCk0rfzkOHJHlhph5YpksismxV0G4BivPfP5NLPiYZ+BZlBGc FH4=
+xn--54bo9aab0d8cb2ayily9dxfcdvc5nseb.xn--54b7fta0cc. 10800 IN NSEC xn--54bo9dtbqc1ao0icnb2p.xn--54b7fta0cc. NS RRSIG NSEC
+xn--54bo9aab0d8cb2ayily9dxfcdvc5nseb.xn--54b7fta0cc. 10800 IN NS ns1.aknetbd.com.
+xn--54bo9aab0d8cb2ayily9dxfcdvc5nseb.xn--54b7fta0cc. 10800 IN NS ns2.aknetbd.com.
+xn--54bo9dtbqc1ao0icnb2p.xn--54b7fta0cc. 10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. rD5ViF7mX6j2WxQt42S3GR9jqKOb9JZ2pBL+yMGg6RHMJsdYJp7eSCRW 2pgheN5+N+kOr9yf7m2nRk/Gd8v5C5EOX9GsbxaqwBWjlWhp1D4qYhkM 9yeB2iIa2pU2eW+F0hSp5xM/IgSUMdSV6Jq4RVVHgH5QS9zeOvQnqLC9 Ct4=
+xn--54bo9dtbqc1ao0icnb2p.xn--54b7fta0cc. 10800 IN NSEC xn--55bf4e.xn--54b7fta0cc. NS RRSIG NSEC
+xn--54bo9dtbqc1ao0icnb2p.xn--54b7fta0cc. 10800 IN NS dns1.bdcom.com.
+xn--54bo9dtbqc1ao0icnb2p.xn--54b7fta0cc. 10800 IN NS dns2.bdcom.com.
 xn--55bf4e.xn--54b7fta0cc. 10800 IN	NS	ns1.nothi.org.bd.
 xn--55bf4e.xn--54b7fta0cc. 10800 IN	NS	ns2.nothi.org.bd.
-xn--55bf4e.xn--54b7fta0cc. 10800 IN	NSEC	xn--85bdr6e0a.xn--54b7fta0cc. NS RRSIG NSEC
-xn--55bf4e.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009211422 20250909201422 15315 xn--54b7fta0cc. MatLWm3BoNP2pJO+gAf6Ji41dufMJL4h9d35pA/RmtQLFxpbXJhHE4uf /ATKIT7NmPIi6mLeVb4SrgUeMmiU+DRTH876oIMPP/03mjzBb0izkIGB BKbAzVx6AgGOBRmbA+l5aLG39nW4kXk5s+Hvy7gPHHPGtzsTZEiWRkrz CPQ=
+xn--55bf4e.xn--54b7fta0cc. 10800 IN	NSEC	xn--65bd5ctg.xn--54b7fta0cc. NS RRSIG NSEC
+xn--55bf4e.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. hnCeGw3r9tVoSDADs0KOOzJAfjYwxUdGuP2XWEPJpVvMuFuosJuLxJvn yeHEmrsjwCXZmOASeMjOI4TGEOSSvZ4SBOhAqH0j/mjn/UP3yuol4q1B cAkdu+UM9Mh9OZkspRsLhnxKltb3cUff3bvl4vnbZ3m9iYv8jqH1/kjQ nDc=
+xn--65bd5ctg.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. Hfu5Y7ugKZabjuItHrPV+f94VeFxPyPVfmDtdFGK6KnWYKVhVrvgtNNz F6oBDKVRdzBkWwk8NpYPBV7T9Zge4MKDZ8pbAiPb7usb33yORasRJBtW vH1Ui+nEZshoSt0kKrOooO83GUYUBKJ1NpdWRZiiz+RsnL5zZaHdlPmR kXA=
+xn--65bd5ctg.xn--54b7fta0cc. 10800 IN	NSEC	xn--65bdbn9g5c.xn--54b7fta0cc. NS RRSIG NSEC
+xn--65bd5ctg.xn--54b7fta0cc. 10800 IN	NS	ns5.zhostbd.com.
+xn--65bd5ctg.xn--54b7fta0cc. 10800 IN	NS	ns6.zhostbd.com.
+xn--65bdbn9g5c.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. TylFVbPzbtYxqXWlPW84AxI9jHr5UMVjMKZY+YBeHHZQrUdA1N67iDsD HRjpklRdUAhXkgrt96QU7hgROaPvdPF3SESnUzpW8cWw5UQ0bv1EpYal jx9AUNroZTZCG66qyt1by0CnL9mxmy+zCoNcA2K7KOqivxyqWENodcsr P5o=
+xn--65bdbn9g5c.xn--54b7fta0cc. 10800 IN	NSEC	xn--65be4bak4bp.xn--54b7fta0cc. NS RRSIG NSEC
+xn--65bdbn9g5c.xn--54b7fta0cc. 10800 IN	NS	ram.ns.cloudflare.com.
+xn--65bdbn9g5c.xn--54b7fta0cc. 10800 IN	NS	sierra.ns.cloudflare.com.
+xn--65be4bak4bp.xn--54b7fta0cc.	10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. FjC9Rf5XUEDNdlav6Zb5bXFb61LxUAdnFlBVDIdS23vSQ556Fax6QYO/ ockD69RZpSzTztafArkkc9S/ECv1J1qdYBGpsPKikDI2Rgjz6369qAVD SdQn9upvHgMNrTwyD/jPK/4b1d7ngRwEnvpVr5b36xEuv766fsflgLgh dLc=
+xn--65be4bak4bp.xn--54b7fta0cc.	10800 IN NSEC	xn--65bea7cybc.xn--54b7fta0cc. NS RRSIG NSEC
+xn--65be4bak4bp.xn--54b7fta0cc.	10800 IN NS	ns1.quantummethod.info.
+xn--65be4bak4bp.xn--54b7fta0cc.	10800 IN NS	ns2.quantummethod.info.
+xn--65bea7cybc.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. b7yzfeOAiaCOTiLSOtzWx+XA7oPvH7cv5PyD2a85iBAwEsOyAMDfcufb d/wx/MtUuYRkXRwEqQcWXaFD5VXGsyGddrbbBTmLjLymguqkdRVlVlS4 NCgnMAXDJ0hleH/yUhrq+8PTH3KtuPWniGSox7xeTCjuH4YtbtHAyqyn ysk=
+xn--65bea7cybc.xn--54b7fta0cc. 10800 IN	NSEC	xn--65bjp7aye6a.xn--54b7fta0cc. NS RRSIG NSEC
+xn--65bea7cybc.xn--54b7fta0cc. 10800 IN	NS	ns1.dns-parking.com.
+xn--65bea7cybc.xn--54b7fta0cc. 10800 IN	NS	ns2.dns-parking.com.
+xn--65bea7cybc.xn--54b7fta0cc. 10800 IN	NS	ns3.dns-parking.com.
+xn--65bjp7aye6a.xn--54b7fta0cc.	10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. tc77ds3JtzT9dujtKaZILJOffFvXArYgsuXRgU4ygy79joF8KUEOgqSi 3bK5r8T5KkYY59MNeyRBq1LJIhzZvqlB+oS+RfhtZh1tOHTTXuMsDE0I FGnFU76xkt+gfW1/o6Jn58vSbrfhyDpb0Afp9Q2gnz2PzWKPdxBeUua4 MY4=
+xn--65bjp7aye6a.xn--54b7fta0cc.	10800 IN NSEC	xn--65bp7a3a6ab.xn--54b7fta0cc. NS RRSIG NSEC
+xn--65bjp7aye6a.xn--54b7fta0cc.	10800 IN NS	aragorn.ns.cloudflare.com.
+xn--65bjp7aye6a.xn--54b7fta0cc.	10800 IN NS	virginia.ns.cloudflare.com.
+xn--65bp7a3a6ab.xn--54b7fta0cc.	10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. g3jYRuHaXWJmSgD7Ed9qECWNYbidN3HXE97yorXL0LHyiqrdgCyS5Sxo 4nPE2jL8bZsffAs1QwbgM/lCKRSeJ7TszZqAnKU9b75DNMpSc9w0+xE8 nS2YyRUdh14VyhjNfovE5ttYzZuBcus+LEd7Mn1QIH5yFI8xsOa5j1OP xSE=
+xn--65bp7a3a6ab.xn--54b7fta0cc.	10800 IN NSEC	xn--65bp7aza1bb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--65bp7a3a6ab.xn--54b7fta0cc.	10800 IN NS	ns1.ssbdhosting.com.
+xn--65bp7a3a6ab.xn--54b7fta0cc.	10800 IN NS	ns2.ssbdhosting.com.
+xn--65bp7aza1bb.xn--54b7fta0cc.	10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. P5xEK2rq4xaEsrTsgn7Ef15EXaMPd8v+s3yXkiXjexKab8DKusth51G2 me55v1pgDESg4j8hwc/B5LmCpaPZRiZP4Zsfi1CW67inZ/UTsdRm5dP4 IWofb1H0eXIZswbKAaYFS3scWkQCkIobBjIwLBakM+SvTqNpd8lp6Uxn c6c=
+xn--65bp7aza1bb.xn--54b7fta0cc.	10800 IN NSEC	xn--65brc3ckd.xn--54b7fta0cc. NS RRSIG NSEC
+xn--65bp7aza1bb.xn--54b7fta0cc.	10800 IN NS	cheryl.ns.cloudflare.com.
+xn--65bp7aza1bb.xn--54b7fta0cc.	10800 IN NS	lennon.ns.cloudflare.com.
+xn--65brc3ckd.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. E5d1aHiEDRz8EqJFNPVIzL5uf9H40ihkXobWLxwQDcg0q4osPVyHoy0w LV8LAjcl6T9W20ZA2pSnO+LyU3tfoH+JfLyoE40YOCrhGMZtXJh3EkG5 3pUESJ+7KSeM8QLgbPA0HJaKgONY6syIPlbl0BA13dZmOYBzXBCjXOhc aNg=
+xn--65brc3ckd.xn--54b7fta0cc. 10800 IN	NSEC	xn--75bkg1e.xn--54b7fta0cc. NS RRSIG NSEC
+xn--65brc3ckd.xn--54b7fta0cc. 10800 IN	NS	cass.ns.cloudflare.com.
+xn--65brc3ckd.xn--54b7fta0cc. 10800 IN	NS	achiel.ns.cloudflare.com.
+xn--75bkg1e.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. aqCzw7o7mc2R8lASvbxrEcAB2xs5xmYzt3kOyFxDyLEkUv+pAztaGAjk dLTVTEV9Mwj6IKuFqr09uNCQ6IWlv9YjZAl19d9AJw1/tG2qIXtA0GCK xiv3dm4gFVs2m5Pz8b8QIeizksKbmThJMgBnf7Y3H7LaoVi/MiLc4AbU LiY=
+xn--75bkg1e.xn--54b7fta0cc. 10800 IN	NSEC	xn--75bnbd7e8d.xn--54b7fta0cc. NS RRSIG NSEC
+xn--75bkg1e.xn--54b7fta0cc. 10800 IN	NS	ns1.bcc.gov.bd.
+xn--75bkg1e.xn--54b7fta0cc. 10800 IN	NS	ns2.bcc.gov.bd.
+xn--75bnbd7e8d.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. Qn2Hia0n0iaEshofPiRFbDLVooWnTOn9Bsm08DBoSTKSlvLPXyv+VwnP K3WLUOXX0rlrPHlluYx2xcDMuS4QNa95dtB1gOJOnm3FBc2p8OVDBnvO UClLcKw0Mkpuyw5k2wnnh90KpqgQgytGfOTdsbPaIMaBuOY9jsDYP/cu j1E=
+xn--75bnbd7e8d.xn--54b7fta0cc. 10800 IN	NSEC	xn--84b0ci1b4dk6b8d6a.xn--54b7fta0cc. NS RRSIG NSEC
+xn--75bnbd7e8d.xn--54b7fta0cc. 10800 IN	NS	ns1.sitechai.com.
+xn--75bnbd7e8d.xn--54b7fta0cc. 10800 IN	NS	ns2.sitechai.com.
+xn--84b0ci1b4dk6b8d6a.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. FIIXMh7Lo7Waz35BPdTm6hA07xh381DLsb/sG5FF6x+ABwrgTR6zMw/R qiMzK6YlOrcXeM378dMn5gS9v3Vg8BS27lIUe8PY7DqCifYCALbtWJN9 EBXr922tucdDhM7jHV/EM2eQDWtvcTJQYa5gKUrya96bbXdbGhlzaDzc AdI=
+xn--84b0ci1b4dk6b8d6a.xn--54b7fta0cc. 10800 IN NSEC xn--84b6a2eqf.xn--54b7fta0cc. NS RRSIG NSEC
+xn--84b0ci1b4dk6b8d6a.xn--54b7fta0cc. 10800 IN NS ns1.quantummethod.info.
+xn--84b0ci1b4dk6b8d6a.xn--54b7fta0cc. 10800 IN NS ns2.quantummethod.info.
+xn--84b6a2eqf.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. ajjyS4IWYu2bUVqR5rpf/xozVVqxBD8IpHjWNRL0AJ8SQ09mf8DgmLr3 Z8/jamOQtpZPwM2v7t1+o1kBLKTT8UTRipn382gqZaguJpVcFKGoQ/q3 j8S9B6ILwDETvfArvL35g7zUoz577KiZeIrR50outwh7DRf3JOnnu21z tY8=
+xn--84b6a2eqf.xn--54b7fta0cc. 10800 IN	NSEC	xn--84b6a5c1an6dkc9i.xn--54b7fta0cc. NS RRSIG NSEC
+xn--84b6a2eqf.xn--54b7fta0cc. 10800 IN	NS	ns1.digitalocean.com.
+xn--84b6a2eqf.xn--54b7fta0cc. 10800 IN	NS	ns2.digitalocean.com.
+xn--84b6a2eqf.xn--54b7fta0cc. 10800 IN	NS	ns3.digitalocean.com.
+xn--84b6a5c1an6dkc9i.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. MeY3EtgvT8DeHALuPeYyVFuBqVwL36k43ZZOxKLiKqRShEcVc2rnoyP3 YVHxg49IJGaEKrD6X/q8u8EieGAmRiZqMkOOHZeZQZotdx+isB8aSe8+ Ddro/eiivFzg4Osc53kUo0Ow88mb+Sp/9r9RodaFA8etF4dKtID0YlSM /C8=
+xn--84b6a5c1an6dkc9i.xn--54b7fta0cc. 10800 IN NSEC xn--84bc9be.xn--54b7fta0cc. NS RRSIG NSEC
+xn--84b6a5c1an6dkc9i.xn--54b7fta0cc. 10800 IN NS ns1.quantummethod.info.
+xn--84b6a5c1an6dkc9i.xn--54b7fta0cc. 10800 IN NS ns2.quantummethod.info.
+xn--84bc9be.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. Oxp172GvEH0z7hZ4UyHpuzgFUH1lqTPSDgCiW64Dv1byFrLWwzmxMOMO 1R5Lwy8HLjYxfJ3WwVaTLATeD4hjq3/9knn60MlwLejNRvXOTF86K7G+ FJgr6cMHtMosRYkWP/G0XAa42ICuerejWFYSxPCAGtgFkfGU9GvZMVS2 fFY=
+xn--84bc9be.xn--54b7fta0cc. 10800 IN	NSEC	xn--84bdgb4a1gybu2bh2af8fvad3ewaggeebi73a.xn--54b7fta0cc. NS RRSIG NSEC
+xn--84bc9be.xn--54b7fta0cc. 10800 IN	NS	ns1.digitalocean.com.
+xn--84bc9be.xn--54b7fta0cc. 10800 IN	NS	ns2.digitalocean.com.
+xn--84bc9be.xn--54b7fta0cc. 10800 IN	NS	ns3.digitalocean.com.
+xn--84bdgb4a1gybu2bh2af8fvad3ewaggeebi73a.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. iVw6W+SE3gNft9tuUTMmrNRhXlCQRSAKBDUe2PtT9Upmr5OcjWEao9XG w4w65BlhsU5B048nzNkMy/4AWKp8vc+CAvk4YmaNEJltqfpDmRdsOD7b 2+F8a7IwkOZ9N3U4XCnO2d+mYPu+40Foo7z4eOzJEVjMk8xjZ4u2E1nu 9yE=
+xn--84bdgb4a1gybu2bh2af8fvad3ewaggeebi73a.xn--54b7fta0cc. 10800	IN NSEC	xn--84be0dvcc8p.xn--54b7fta0cc. NS RRSIG NSEC
+xn--84bdgb4a1gybu2bh2af8fvad3ewaggeebi73a.xn--54b7fta0cc. 10800	IN NS ns1.dtechonline.xyz.
+xn--84bdgb4a1gybu2bh2af8fvad3ewaggeebi73a.xn--54b7fta0cc. 10800	IN NS ns2.dtechonline.xyz.
+xn--84be0dvcc8p.xn--54b7fta0cc.	10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. FeUpevBazkCIIZBFxD8AIfQt9K0Jp1S0cB95k7PFsk10Pnw33LjSBn6q juUh9b6HHfBhCtJVZ+x9wkchlS2NvTAJKAXxFlNFAtzestIVPvtfAlyk dNHd4WWkKYhH9LG1Nv2aIszEi0vkIeBkjsK88fdbV+e9olAw8SwvlCce vEg=
+xn--84be0dvcc8p.xn--54b7fta0cc.	10800 IN NSEC	xn--84be7d2bby3al2idb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--84be0dvcc8p.xn--54b7fta0cc.	10800 IN NS	dns.btcl.net.bd.
+xn--84be0dvcc8p.xn--54b7fta0cc.	10800 IN NS	slave.btcl.net.bd.
+xn--84be7d2bby3al2idb.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. tsiXRKGQvyFSlka0dBfoN+z/YcAAMkOINPKmkDMEZPhWoKoWOz5vh4rb F1moJWLhiJn9iDSU9svK8pmni4yPH7CNJhTgp1025alc0runBhZAwERl Kbszfj+ZTCGehy6deodOFCH/LBNzusHlH3OsAanmYH2sS0v5WZ4kOrBs hvQ=
+xn--84be7d2bby3al2idb.xn--54b7fta0cc. 10800 IN NSEC xn--84bh7i0c.xn--54b7fta0cc. NS RRSIG NSEC
+xn--84be7d2bby3al2idb.xn--54b7fta0cc. 10800 IN NS ns1.dns-parking.com.
+xn--84be7d2bby3al2idb.xn--54b7fta0cc. 10800 IN NS ns2.dns-parking.com.
+xn--84bh7i0c.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. BF5H7M56HmcOo9pa9Lgl0PpaE+H5HY8V/WI6aM10JEdfKmczc257qzbM ukdq6U8EZoVw5WylX5iaKtVWkmue38hUKJrQz5iQ1UZ2T9mRmHCSMqHs VcYzk4jtsol7ePMKAom7UWmmz3PPpHt7X67TPlkHd0z4rvhCosgkco/S v1E=
+xn--84bh7i0c.xn--54b7fta0cc. 10800 IN	NSEC	xn--85bajj6f2d.xn--54b7fta0cc. NS RRSIG NSEC
+xn--84bh7i0c.xn--54b7fta0cc. 10800 IN	NS	ns1.a2iservices.gov.bd.
+xn--84bh7i0c.xn--54b7fta0cc. 10800 IN	NS	ns2.a2iservices.gov.bd.
+xn--85bajj6f2d.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. ACReKxBA4F0KxgWzuQfPBDq+IVZTzQpo7/9sfFZp+6v62os5rFGMuPYN 4A+Y68dIkSkPsJvvgKNCt1bjAq77X2wswHkJvxDBHiv/pXGHovfGq5S9 hk65Co6XDr1GaxVKrq4FYbjtBbUZvz9Ai5s0Rr2z9qXvZw9NrnYdzSvb FNo=
+xn--85bajj6f2d.xn--54b7fta0cc. 10800 IN	NSEC	xn--85bdr6e0a.xn--54b7fta0cc. NS RRSIG NSEC
+xn--85bajj6f2d.xn--54b7fta0cc. 10800 IN	NS	vda6100a.trouble-free.net.
+xn--85bajj6f2d.xn--54b7fta0cc. 10800 IN	NS	vda6100b.trouble-free.net.
 xn--85bdr6e0a.xn--54b7fta0cc. 10800 IN	A	162.222.184.72
-xn--85bdr6e0a.xn--54b7fta0cc. 10800 IN	NSEC	xn--94bcy3esc8fb.xn--54b7fta0cc. A RRSIG NSEC
-xn--85bdr6e0a.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009211422 20250909201422 15315 xn--54b7fta0cc. MOxbkoKAhx44PwzST923TlWW+s5Ni7ZCBLmXsJc4oT32Ws8moqvIGT47 Wj0VPBxix/ahB1fzRFPSUefCM2ZgLnbK0hcbU7IoVBdZ0zlXPAUPRi2o /ykZrLB82NN8d7RzZHzdw5Q1e1qQZlW8eT79hLn2o+04kaw2h63ACLEk TgA=
+xn--85bdr6e0a.xn--54b7fta0cc. 10800 IN	NSEC	xn--85bik6gwa.xn--54b7fta0cc. A RRSIG NSEC
+xn--85bdr6e0a.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. BYgrLJxR68s0MMrdEbqAsN3UJ6y5Z7g5YkUN/hZwGmWJTPvFjjsmmBcM nbw9H8UYIrllvxRHucQmWDv99oXlBuooAvptzsCmmAXkMe5cVgVDwPgd sTS5O/B4fkY+pDSwwc6PfPYnYSq6LVvE0z8KI1sSOxsHKZzB7164TeBP jbo=
 xn--85bdr6e0a.xn--54b7fta0cc. 10800 IN	RRSIG	A 8 2 10800 20250925073634 20250826065445 15315 xn--54b7fta0cc. IV3uoSYCXburDS/PbT/b2oxGPunvQ6Wj8auXqGi95oO3/dpzsNbkayAp gwEwET4M0HgkkYQNLGOnZTXPAiXhX/7dQh8r8aYtZGfFbW6vFfmhk3r+ 9IgCaTpG3opcd/W4p8BIGMIrjUxucNySKqC7bFB60Z/kEi4x+fEejlrs 0dc=
+xn--85bik6gwa.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. mXsczt/QZqmYcsDk9BBYsjohyzqVni/t+GjCmOJlG35mjkpu8GbXXa1K mEZgV2+XGo4N+WHdqH7cFF2ZWYh3CmLk7U4/WdtI609iFCcV8LAqui4z 8FnkkRA9+9uaoEx8DzwR1NeADk/5JBoOSoxJ2RURrbimaQYKH4cpPeXv 3w4=
+xn--85bik6gwa.xn--54b7fta0cc. 10800 IN	NSEC	xn--85bjg6cn.xn--54b7fta0cc. NS RRSIG NSEC
+xn--85bik6gwa.xn--54b7fta0cc. 10800 IN	NS	ns1.quickened.online.
+xn--85bik6gwa.xn--54b7fta0cc. 10800 IN	NS	ns2.quickened.online.
+xn--85bjg6cn.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. nNDwuo522WSuClFbosykV3jtPVETznKgWOm12r5Vc8NqTJv1elA5S40g Wr8Ew5j24mhSlqygH1wmnloVo/XggFtMnRrRPOYxxOYQLZhMvHUqFUEZ j/eMCxGeNxrWy6+Uel23s9JEImhKTLHRQG1oapInJZgKLlL4P5WUznky 93g=
+xn--85bjg6cn.xn--54b7fta0cc. 10800 IN	NSEC	xn--85bl3azb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--85bjg6cn.xn--54b7fta0cc. 10800 IN	NS	ns1.banglalinkgsm.com.
+xn--85bjg6cn.xn--54b7fta0cc. 10800 IN	NS	ns2.banglalinkgsm.com.
+xn--85bjg6cn.xn--54b7fta0cc. 10800 IN	NS	ns3.banglalinkgsm.com.
+xn--85bl3azb.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. bey4u4NsNpgz+NJatTftQXPKCY7wPcTx0JB8Jrgs0oTPbNDD2Mw+ei1k 2L7IZD1xglqPrbiexgKLGenDE1ytISaHinl2LyThzjcEuxK/1+WK0hEy 9DoKKZeJZ6yLfspA4B1x4LU/jUcGpCB2sM2hbHxYb7gZIqHlgmite48C Wy8=
+xn--85bl3azb.xn--54b7fta0cc. 10800 IN	NSEC	xn--85bqwz7d.xn--54b7fta0cc. NS RRSIG NSEC
+xn--85bl3azb.xn--54b7fta0cc. 10800 IN	NS	ns1.dns-parking.com.
+xn--85bl3azb.xn--54b7fta0cc. 10800 IN	NS	ns2.dns-parking.com.
+xn--85bqwz7d.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. Me+41iAaaxzlYGIf9DI3BfuOg6Mjd/76sq4wYUm4H9D6s0PlsJ/6wVt3 tp27QIoDPNBE2cUSGDhLMH1maJ42Pgxj+mW7mCVsSobg6RFHkcBRuS5t KsWI7KwGIicwg7e4lvcQQyvleJBCs7LhaAwxZq01b2j230+6YNTCRpRw D4w=
+xn--85bqwz7d.xn--54b7fta0cc. 10800 IN	NSEC	xn--94b2eraib0c0bd9i.xn--54b7fta0cc. NS RRSIG NSEC
+xn--85bqwz7d.xn--54b7fta0cc. 10800 IN	NS	ns1.digitalocean.com.
+xn--85bqwz7d.xn--54b7fta0cc. 10800 IN	NS	ns2.digitalocean.com.
+xn--85bqwz7d.xn--54b7fta0cc. 10800 IN	NS	ns3.digitalocean.com.
+xn--94b2eraib0c0bd9i.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. XTUllu+eobR8izoFEKAdctC8oKkU8uJk10r66cbZcndIS6WGDBLd7CcH 1Ax4/XntJIBwaGGlPdlIShH9jPs/vFfRFqCgwT7orqIwWD1ZVvmLQrUQ QU11+N18YfynjwDNeVLgDwpyp7KofjDCGJAmzvy31/EQ1BdxiCF2rBzm n0o=
+xn--94b2eraib0c0bd9i.xn--54b7fta0cc. 10800 IN NSEC xn--94b2erar7dn.xn--54b7fta0cc. NS RRSIG NSEC
+xn--94b2eraib0c0bd9i.xn--54b7fta0cc. 10800 IN NS ns1.xeonbd.com.
+xn--94b2eraib0c0bd9i.xn--54b7fta0cc. 10800 IN NS ns2.xeonbd.com.
+xn--94b2erar7dn.xn--54b7fta0cc.	10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. rI6VpFcZIEGyu+xVv/JpHiL/kPeZJCGrEvbPiVedjCfVdGA48Ag4FrGa LSNovOUKIQMdwHP6VnjRiizmX8PPv0z57BzMJhHK+3hhUHISHBCucWbj pJVGf/AhPs0e/SmFOMEhx2V2QtvtdUyPl0nBEJipZyle19oPYratQEyR 5vc=
+xn--94b2erar7dn.xn--54b7fta0cc.	10800 IN NSEC	xn--94b3cvbs4bzbbd.xn--54b7fta0cc. NS RRSIG NSEC
+xn--94b2erar7dn.xn--54b7fta0cc.	10800 IN NS	dns.btcl.net.bd.
+xn--94b2erar7dn.xn--54b7fta0cc.	10800 IN NS	slave.btcl.net.bd.
+xn--94b3cvbs4bzbbd.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. t0fkmVW1q+xcO1nX5oqkOiZc7yYgCooKnmuG/uwLCPOMbIPC0K6/pXKd xO2O8AHPKw66PPcYQZmYuLgAlIWLtEeWwWzmAiBhdvE6GP5gniN5tO9N q4519Cdh8APIL/0gVG/O0Wpx8FjD3VQKXKGl8E7G6pQZrZ/OSXN9ELVF BEM=
+xn--94b3cvbs4bzbbd.xn--54b7fta0cc. 10800 IN NSEC xn--94b4a9anrl7bd5jcc2p.xn--54b7fta0cc. NS RRSIG NSEC
+xn--94b3cvbs4bzbbd.xn--54b7fta0cc. 10800 IN NS	ns1.bcc.gov.bd.
+xn--94b3cvbs4bzbbd.xn--54b7fta0cc. 10800 IN NS	ns2.bcc.gov.bd.
+xn--94b4a9anrl7bd5jcc2p.xn--54b7fta0cc.	10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. HBYlHioWAvZRRBCzHBD9fx8vqlW29M3MgC5d/lU3ZoxrJZ3YkDuaZIyP NsruQiMeUMjKteK+aMZXEnTrQADdC+tmemdO7m97VuEiwSAaQNfx+fBH uJAzSkk83Lmj6Xhxi2RcWxRSMi1HIBVpoQ8/bR02TLLhSxkV8w8sx1c9 QBs=
+xn--94b4a9anrl7bd5jcc2p.xn--54b7fta0cc.	10800 IN NSEC xn--94b4a9bc3bn0he1f.xn--54b7fta0cc. NS RRSIG NSEC
+xn--94b4a9anrl7bd5jcc2p.xn--54b7fta0cc.	10800 IN NS ns1.dhakawebhost.com.
+xn--94b4a9anrl7bd5jcc2p.xn--54b7fta0cc.	10800 IN NS ns2.dhakawebhost.com.
+xn--94b4a9bc3bn0he1f.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. jFlTlScpSCQONTZ35/ffo7/a1Y8WqRQ7ifpeGsPb5XAKrS3yzMxN7fkj Hs7omqyJkP2+Li8PrNRb5lSEye3yTlc5RXgpvvWrhDUzcgtrgQiXc3pG j8qvXsix4+sNMz7N+4oYep0JfhOJpWtC3xl+phMweRSJQXujVLog2cEA gLo=
+xn--94b4a9bc3bn0he1f.xn--54b7fta0cc. 10800 IN NSEC xn--94b4dfhan7b7pd.xn--54b7fta0cc. NS RRSIG NSEC
+xn--94b4a9bc3bn0he1f.xn--54b7fta0cc. 10800 IN NS dns1.namecheaphosting.com.
+xn--94b4a9bc3bn0he1f.xn--54b7fta0cc. 10800 IN NS dns2.namecheaphosting.com.
+xn--94b4dfhan7b7pd.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. UaNkvoaY/w32CAk7INpY49wqorz5mydHuy9hByBrI4dw9pHvznU4xXUZ pQGIY5TSW4vrXuMuA/jUaFMpcYctRSNWvtJ3+x1ZmS1V1etOxhIUIkKw gf6Sj+D3ViWdAlKPogo4PsQdk0TWZ2N79UyfMejSRa7i2k9HsauwR9qr Pec=
+xn--94b4dfhan7b7pd.xn--54b7fta0cc. 10800 IN NSEC xn--94b7b4bog9a2bqdd.xn--54b7fta0cc. NS RRSIG NSEC
+xn--94b4dfhan7b7pd.xn--54b7fta0cc. 10800 IN NS	ns1.mysecurecloudhost.com.
+xn--94b4dfhan7b7pd.xn--54b7fta0cc. 10800 IN NS	ns2.mysecurecloudhost.com.
+xn--94b7b4bog9a2bqdd.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. jBnOAz0VLn7J/1gQZffl1fUxifCMECnizK7nHbszQsfhiULLjWmA26TY u9fMKoU+UY+pSe55+CQaBZr2HbAPBsEYej5hk0tg5SZcDorP+BOwYDd8 nSVkigW+QmOeSzZZKKz/v8KPDBa/t22DYv9eD7ht3ftvVqjlbmpoqdfV Ij4=
+xn--94b7b4bog9a2bqdd.xn--54b7fta0cc. 10800 IN NSEC xn--94b7bxcfb9av1bcv.xn--54b7fta0cc. NS RRSIG NSEC
+xn--94b7b4bog9a2bqdd.xn--54b7fta0cc. 10800 IN NS ns1.dnsimple.com.
+xn--94b7b4bog9a2bqdd.xn--54b7fta0cc. 10800 IN NS ns2.dnsimple.com.
+xn--94b7b4bog9a2bqdd.xn--54b7fta0cc. 10800 IN NS ns3.dnsimple.com.
+xn--94b7bxcfb9av1bcv.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. YLUgNIvVQLWZWifuWycVnSUAOlry65v/aUa7q73PdT55YqcfEHKLlOiB BmvYYNzp/rE+mjezam1jekABwsdjDFPyJyIp8oHHZlAeSGByodNxURCr gU3bs29AcjeW23p2tVujf8QEv7qHXnw7Q6baI8VP/9//MN9lbhikX1Nc gC8=
+xn--94b7bxcfb9av1bcv.xn--54b7fta0cc. 10800 IN NSEC xn--94b8c5acs2gdb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--94b7bxcfb9av1bcv.xn--54b7fta0cc. 10800 IN NS quincy.ns.cloudflare.com.
+xn--94b7bxcfb9av1bcv.xn--54b7fta0cc. 10800 IN NS kristina.ns.cloudflare.com.
+xn--94b8c5acs2gdb.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. UCRSD3nblm/78UMIqcqHUR8RIBks/Y6Sv//wdjoM6ZZinC87JK1njiOg eCBhrjPt0+7Jz8eO91SHpBS9OJXRDqlyy+fi+Xnm72AyexEcSl2aUGVY y8pt+r6u/WVd2vXHkNhbgxKKUselcR7yja96wwU6cLOHEk6DsXNPU7+3 RVQ=
+xn--94b8c5acs2gdb.xn--54b7fta0cc. 10800	IN NSEC	xn--94b8cuaqi6hcb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--94b8c5acs2gdb.xn--54b7fta0cc. 10800	IN NS	ns1.bcc.gov.bd.
+xn--94b8c5acs2gdb.xn--54b7fta0cc. 10800	IN NS	ns2.bcc.gov.bd.
+xn--94b8cuaqi6hcb.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. uaYoRphvOUsEctabBCQGbw+yHTFI4mhvYKshG0m2OnNOuY303lFY3yfp LufySHk24Ur66iGfWo3ew/MnWkD/+aUdDDpm5huGhq7oJAWb2dW991vI HfiQAvPAcPqvGafke6xvOdHhxMdrDgysOLpGyc5fUV3YF0qlsIyaO4/u LMY=
+xn--94b8cuaqi6hcb.xn--54b7fta0cc. 10800	IN NSEC	xn--94b8dgapcp5a5iza4kf.xn--54b7fta0cc. NS RRSIG NSEC
+xn--94b8cuaqi6hcb.xn--54b7fta0cc. 10800	IN NS	dns.btcl.net.bd.
+xn--94b8cuaqi6hcb.xn--54b7fta0cc. 10800	IN NS	slave.btcl.net.bd.
+xn--94b8dgapcp5a5iza4kf.xn--54b7fta0cc.	10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. txxiQcMwvpjJ0YAiv3z6nlbRE05YQKBkjC70SVzTHC58LwQbzB67UUTX EhOw5mlhQxeMn1cZmqyjywM5mlfCIaRQNSuvsxw3BEumxXeKcAWpRC08 9amQZ4XeuZSzrDgTrRqkaB1mcw8FOQdKZdRieHa24YliperIYxShwaNX OKM=
+xn--94b8dgapcp5a5iza4kf.xn--54b7fta0cc.	10800 IN NSEC xn--94b8draz8e6c.xn--54b7fta0cc. NS RRSIG NSEC
+xn--94b8dgapcp5a5iza4kf.xn--54b7fta0cc.	10800 IN NS vda6100a.trouble-free.net.
+xn--94b8dgapcp5a5iza4kf.xn--54b7fta0cc.	10800 IN NS vda6100b.trouble-free.net.
+xn--94b8draz8e6c.xn--54b7fta0cc. 10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. OLcpR9OpYv5+U80TSwUSeZryt8wMr1fCNXuqvnk/cH0L3LDuYQ739Kel DXOOfUDQRpfX+gErcVg1PEZn1iHoYx4+nKb/XQF6vzR9eieE/5G8X4tK JH0tfi54e+1wYHgjT2G7dyDd0M7OU0g2ZIW7amq5jrWmTAvrZhufDpn8 /zE=
+xn--94b8draz8e6c.xn--54b7fta0cc. 10800 IN NSEC	xn--94b8dxaas7b8a0a.xn--54b7fta0cc. NS RRSIG NSEC
+xn--94b8draz8e6c.xn--54b7fta0cc. 10800 IN NS	vda6100a.trouble-free.net.
+xn--94b8draz8e6c.xn--54b7fta0cc. 10800 IN NS	vda6100b.trouble-free.net.
+xn--94b8dxaas7b8a0a.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. EfYqUZF9HFIYWcovkC3YP5WM+izItAKkZxYTMqXduHFwSQRsIyG8wsHI HBLeGF3B3C4DYpwac5pP5plq8VIfKyhnR9YeEKF6MPB2H2NH0V3pQc2F 1Ywz/GD5T011UKez0Zj5nkk60/sxl5ZV6f2equxLiM1NcpBBFIXtWDjU 5ik=
+xn--94b8dxaas7b8a0a.xn--54b7fta0cc. 10800 IN NSEC xn--94b8erb2a.xn--54b7fta0cc. NS RRSIG NSEC
+xn--94b8dxaas7b8a0a.xn--54b7fta0cc. 10800 IN NS	dns1.namecheaphosting.com.
+xn--94b8dxaas7b8a0a.xn--54b7fta0cc. 10800 IN NS	dns2.namecheaphosting.com.
+xn--94b8erb2a.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. RwRu3bC3GZkbnQAvwd/5DaASkbj3WA5zDLVD5w0nOVtLLwsxceR7YKGJ lgSgIGUhnTZnzvl8YsxK6sVVg3vPSS9gse6JccRXs5f/2NEbEIs6A1bI 9DoiksHdoUs+A/atR5O6423/SCH1kbZjtF9a8XIqHWSauIwGsHLMOcFc Gjc=
+xn--94b8erb2a.xn--54b7fta0cc. 10800 IN	NSEC	xn--94baae5pzab0j.xn--54b7fta0cc. NS RRSIG NSEC
+xn--94b8erb2a.xn--54b7fta0cc. 10800 IN	NS	robert.ns.cloudflare.com.
+xn--94b8erb2a.xn--54b7fta0cc. 10800 IN	NS	serenity.ns.cloudflare.com.
+xn--94baae5pzab0j.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. Pc+VbvkQlV/YIOOK+a/89CFJSELjx9o8KazS3Od3kayGj6/FKEoV4T8c 6J9UZ5mblEb5+UHQbvzRuwzWUHyU7pD+bcmhVstX23kyaC+TXmAIgM0t A/tRcR+dQ8+4FEZrggGuces7vyxdM7AeQyoVVREb+Q5Z6UA/dUMQ6bdu 1tU=
+xn--94baae5pzab0j.xn--54b7fta0cc. 10800	IN NSEC	xn--94bac7a2f5dxe.xn--54b7fta0cc. NS RRSIG NSEC
+xn--94baae5pzab0j.xn--54b7fta0cc. 10800	IN NS	ns1.nothi.org.bd.
+xn--94baae5pzab0j.xn--54b7fta0cc. 10800	IN NS	ns2.nothi.org.bd.
+xn--94bac7a2f5dxe.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. cDLW3QCB6dH/vw8+U8c8Iuto+0Uun49TZcDvzzfdn6E82+i4PBXgUCRa 9yEYTrUgihtsh3bEfPjNPOdaTir6mMU356JQzyO5FHg+dMbrhrwdbOeU 6Ivl2MrR+lm+AmrFNeHuXvMkiF4D2i7LRivY0wyfbbJFSHfkQ+dkApZU 4SU=
+xn--94bac7a2f5dxe.xn--54b7fta0cc. 10800	IN NSEC	xn--94bad0hsclp5in7k.xn--54b7fta0cc. NS RRSIG NSEC
+xn--94bac7a2f5dxe.xn--54b7fta0cc. 10800	IN NS	ns1.bcc.gov.bd.
+xn--94bac7a2f5dxe.xn--54b7fta0cc. 10800	IN NS	ns2.bcc.gov.bd.
+xn--94bad0hsclp5in7k.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. ETswTYR+/ta1dQKgEFFoJHv6bewHrUVhqN5C4d43jHXQaAxcU2IuUMto dbUa6U6il/1KpyJLWU3L7AyBoLAS6sk+X7QsMJS7llsMN1KBLA4U5gXy E2iFJdt9FKOJPS1hcjdUoQKkR3zK0X+jhAND37QCJfmW8yn9Ynpvl5tB mPU=
+xn--94bad0hsclp5in7k.xn--54b7fta0cc. 10800 IN NSEC xn--94bb3hpambgbw6a7a1bwem9k.xn--54b7fta0cc. NS RRSIG NSEC
+xn--94bad0hsclp5in7k.xn--54b7fta0cc. 10800 IN NS ns1.dhakacom.com.
+xn--94bad0hsclp5in7k.xn--54b7fta0cc. 10800 IN NS ns2.dhakacom.com.
+xn--94bb3hpambgbw6a7a1bwem9k.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. CHXssch+5+1aKbq+VK73K3aEzqXM0YSFHaWFjeTvnccJIAqs9F3/GjH6 cXpoumxT00kzC3JnW1T3vnHy9Z2LeF4zzIpnbQhLOkUg6f5V+ll3Yn42 jnPD8m4Ot0UiDSImfdkKgVglhb2+L0nrYenLyNIVJZpTwydLd1eTmgLs GXA=
+xn--94bb3hpambgbw6a7a1bwem9k.xn--54b7fta0cc. 10800 IN NSEC xn--94bc1ma8ab.xn--54b7fta0cc. NS RRSIG NSEC
+xn--94bb3hpambgbw6a7a1bwem9k.xn--54b7fta0cc. 10800 IN NS mack.ns.cloudflare.com.
+xn--94bb3hpambgbw6a7a1bwem9k.xn--54b7fta0cc. 10800 IN NS ashley.ns.cloudflare.com.
+xn--94bc1ma8ab.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. pC0yDbcTxf121u6wVEqNVFbCSAGpr6WGlFOO3E1J6t9lRke0UljJ0OOd ecUH3ykpk65nCAoGTaX8NcWdd0UyYV8oxGyEM7Fyx9zatS5dN997xCzI Q2CvMb8wXGZPqUA4qDEBCZ2OyaIcfSr8PTmBcNPKPxBldkFrhVET1wtW kEY=
+xn--94bc1ma8ab.xn--54b7fta0cc. 10800 IN	NSEC	xn--94bc3izbc2bbd.xn--54b7fta0cc. NS RRSIG NSEC
+xn--94bc1ma8ab.xn--54b7fta0cc. 10800 IN	NS	ns1.ssbl.com.bd.
+xn--94bc1ma8ab.xn--54b7fta0cc. 10800 IN	NS	ns2.ssbl.com.bd.
+xn--94bc3izbc2bbd.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. h2ewTo1lbtNg1PUFD+oy3emzGC7+7J+m/XBP0G2cST8X4p1eJGSYoe9n RxiYNUzqyDh5d8TxpYPKCT0lgm5Dq1HDkcm6yPX4/mDIzx/EIS7VGuDj F5RywSP4J8yN3dPSouQC1dwsFXk0W0q71LDKPK9euCmlh3GQJR/oA/K3 3to=
+xn--94bc3izbc2bbd.xn--54b7fta0cc. 10800	IN NSEC	xn--94bc4ba6czdp3fzcf3f9bva.xn--54b7fta0cc. NS RRSIG NSEC
+xn--94bc3izbc2bbd.xn--54b7fta0cc. 10800	IN NS	ns1.a2iservices.gov.bd.
+xn--94bc3izbc2bbd.xn--54b7fta0cc. 10800	IN NS	ns2.a2iservices.gov.bd.
+xn--94bc4ba6czdp3fzcf3f9bva.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. ETZJTq8s3r99qtaCI76kdtz9JnVI2sMFn5REbIInTxNZSg+XmAmuB/vz hENWMjaalwMEBYvMu8h6vVdDC7+fu3Rp17BDVY/5W7wCg4sxUGxoHrel 46BVTtMReput2Iudap9OyMLLUIf/9zR5yd+TGP3X7Gwnp6MnicZe0Vee XWs=
+xn--94bc4ba6czdp3fzcf3f9bva.xn--54b7fta0cc. 10800 IN NSEC xn--94bc4ihk7f.xn--54b7fta0cc. NS RRSIG NSEC
+xn--94bc4ba6czdp3fzcf3f9bva.xn--54b7fta0cc. 10800 IN NS	ns1.bol-online.com.
+xn--94bc4ba6czdp3fzcf3f9bva.xn--54b7fta0cc. 10800 IN NS	ns2.bol-online.com.
+xn--94bc4ihk7f.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. IZQRvHf+/7aLnWoiWydj92BTmjzdrylO6SWGUFozmKXtVGe4V4zamOes EOfvo7Tmh3iy6dV2Lx7yLHO8BSCTE61Hp0o7A2Jq9IP9UWV82SFs7tx7 J33pgS7fqAZEoB86cOE8JBj7ZKN6HTxM0RdGIe2iAi3w1rV2wu5aMNBw QBg=
+xn--94bc4ihk7f.xn--54b7fta0cc. 10800 IN	NSEC	xn--94bc6b2a6eubzbc3dbd2h.xn--54b7fta0cc. NS RRSIG NSEC
+xn--94bc4ihk7f.xn--54b7fta0cc. 10800 IN	NS	dns1.namecheaphosting.com.
+xn--94bc4ihk7f.xn--54b7fta0cc. 10800 IN	NS	dns2.namecheaphosting.com.
+xn--94bc6b2a6eubzbc3dbd2h.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. cP7lShHN9aZR+IjRzYrto2pZjamuRLJ6bnBGuvNxJLjh/bGR6YfjWDNi SMOJNOrI2rOj2WnneQPHkaHqt5xWS+wGQeUuymOLyWicW9/Y5vHSOLkW WHB/JHunvZxvmqTeY7jroWLwRLwkuDqK6a3lhiyGJoudwrW0hJBtSll2 xqU=
+xn--94bc6b2a6eubzbc3dbd2h.xn--54b7fta0cc. 10800	IN NSEC	xn--94bc6ete9ab.xn--54b7fta0cc. NS RRSIG NSEC
+xn--94bc6b2a6eubzbc3dbd2h.xn--54b7fta0cc. 10800	IN NS ns1.mysecurecloudhost.com.
+xn--94bc6b2a6eubzbc3dbd2h.xn--54b7fta0cc. 10800	IN NS ns2.mysecurecloudhost.com.
+xn--94bc6ete9ab.xn--54b7fta0cc.	10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. EVl/7m/7C9yLheARKqDB0NDe7+Ut4rHgfRBYDb5x/kvfJVHLFm5cIJlk OjuT7tVzFAmB2P6K3Qn0edcAWkHEN5cDMYDP4Bl3G8/sfK03jq1BLy0V bN95umldxfNFHfpJjzmS3MkAcMto0A7MactenTb7PEEjU4SjufE/aKpu o9g=
+xn--94bc6ete9ab.xn--54b7fta0cc.	10800 IN NSEC	xn--94bc7hk6gd.xn--54b7fta0cc. NS RRSIG NSEC
+xn--94bc6ete9ab.xn--54b7fta0cc.	10800 IN NS	ns1.mysecurecloudhost.com.
+xn--94bc6ete9ab.xn--54b7fta0cc.	10800 IN NS	ns2.mysecurecloudhost.com.
+xn--94bc6ete9ab.xn--54b7fta0cc.	10800 IN NS	ns3.mysecurecloudhost.com.
+xn--94bc7hk6gd.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. LUqTNO3jeuvC8Yp0ei5DbLzfj+FjjbHDa4ykW5Exu/ijbjC+UtRig4NK V8nvmgWM7Hkewhq0e89fXXJKx9EP04zD1KYtCBAJHUjDuAPvwhdnbtzw C1PAvZ+PUNC5ZIgN5m4okTrtmAYRUhYXEM80yKG0fzGZz3wL8djRF0rg FLY=
+xn--94bc7hk6gd.xn--54b7fta0cc. 10800 IN	NSEC	xn--94bc8fdta5blhv5iva5qb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--94bc7hk6gd.xn--54b7fta0cc. 10800 IN	NS	ns1.nothi.org.bd.
+xn--94bc7hk6gd.xn--54b7fta0cc. 10800 IN	NS	ns2.nothi.org.bd.
+xn--94bc8fdta5blhv5iva5qb.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. qjlP/qrX+HzRsAxOnV9vqIxxRx772rT5cyfVnXqA4M0NWN14mQVfI1+z 5SlVTeMpYF5XL868aHhAw1ZoRN55AIbzUESnBK6b7Zba+YHUNP6+wIGT 7ndu3GH4UJRRsi3oVSmmCfbEHGE5QyQyi97zTFP2c13hu30/TiS76W8o nGY=
+xn--94bc8fdta5blhv5iva5qb.xn--54b7fta0cc. 10800	IN NSEC	xn--94bca5a8c7jxb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--94bc8fdta5blhv5iva5qb.xn--54b7fta0cc. 10800	IN NS ns1.bcc.gov.bd.
+xn--94bc8fdta5blhv5iva5qb.xn--54b7fta0cc. 10800	IN NS ns2.bcc.gov.bd.
+xn--94bca5a8c7jxb.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. I4oDDKSH/C6U9HI+NvdfBUdxl5CYrWbE+pbFpuIg00jBOYxyUeflyC8Y op3kXVJlv0lI0l3XwTUWidwP45DSS4dmsjyMu87H+b4ztii3l7JDgavI PvS83u1SWLzpvTXYHVuVd7EhhCMydr5YonScHncG0Tx1K6jnnuAhEtuX G70=
+xn--94bca5a8c7jxb.xn--54b7fta0cc. 10800	IN NSEC	xn--94bcw.xn--54b7fta0cc. NS RRSIG NSEC
+xn--94bca5a8c7jxb.xn--54b7fta0cc. 10800	IN NS	ns1.aknetbd.com.
+xn--94bca5a8c7jxb.xn--54b7fta0cc. 10800	IN NS	ns2.aknetbd.com.
+xn--94bcw.xn--54b7fta0cc. 10800	IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. Fxz8Z+CcMbKBZJ1csaEDicsN1XCfzhacejx7NcQpUno3fvAKXRkniPxn BBJCoHxa6O59ejehKuZY+q8NgGNNhUm0nSJ95N1SxKPQBkebMmiMJ1HR Bm19Sk4T92yAADD2s8WZGvuqmEKSfbliJo3Q6+pBXuVIJ7b8mlslTopR fJU=
+xn--94bcw.xn--54b7fta0cc. 10800	IN	NSEC	xn--94bcw4hwa8i.xn--54b7fta0cc. NS RRSIG NSEC
+xn--94bcw.xn--54b7fta0cc. 10800	IN	NS	marvin.ns.cloudflare.com.
+xn--94bcw.xn--54b7fta0cc. 10800	IN	NS	vivienne.ns.cloudflare.com.
+xn--94bcw4hwa8i.xn--54b7fta0cc.	10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. cMooHZF7els21v76WS0eyb7TxfrsJnZa2darsGBRsgpd4gx+uhulj5hU kvtVedXKzX3zHOHHY91IoVp/OTYt15Ujyst6t7WmU4Ulznhc1tWQAblO oRXhveXp5T3LOrfLFsL7LO//Rr6H4YdKjJx0/kmCQEg+d2dIBy/enIgw uwo=
+xn--94bcw4hwa8i.xn--54b7fta0cc.	10800 IN NSEC	xn--94bcwca4snb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--94bcw4hwa8i.xn--54b7fta0cc.	10800 IN NS	ns1.bcc.gov.bd.
+xn--94bcw4hwa8i.xn--54b7fta0cc.	10800 IN NS	ns2.bcc.gov.bd.
+xn--94bcwca4snb.xn--54b7fta0cc.	10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. cWO4U6ir2L5qTlXeYjReLJMzsDuceM1vB/yxL1vsL5rZwBL/4KiTPPVN VfO4RuELjU4qNpcJdqfteos4aX8Wc93dleksRSz5D0BWqJg1FkaetTof Ob3jZ5VYpol6L26ATGnnUs+OoW8Xwmel/RRRcv57RE8iVgQWVQ7iyTXg sxw=
+xn--94bcwca4snb.xn--54b7fta0cc.	10800 IN NSEC	xn--94bcy0j9bb1cd.xn--54b7fta0cc. NS RRSIG NSEC
+xn--94bcwca4snb.xn--54b7fta0cc.	10800 IN NS	ns1.aknetbd.com.
+xn--94bcwca4snb.xn--54b7fta0cc.	10800 IN NS	ns2.aknetbd.com.
+xn--94bcy0j9bb1cd.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. seLSKnde7mvN0Mt9vCagAXhWpaweDQRGYurFUIEyTjtDek137Y1FHkWr KuuNeotuoOVDir6y0/QNW9/uxvFxlyVluirVIvu/X9TNsczdtKHiWLoQ VmBMHA36hg+5cmyDZ2K7Z7xmSb6nCaoREx7CS41zc9yfEkoAaLuULBlM IL0=
+xn--94bcy0j9bb1cd.xn--54b7fta0cc. 10800	IN NSEC	xn--94bcy3esc8fb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--94bcy0j9bb1cd.xn--54b7fta0cc. 10800	IN NS	ns1.bol-online.com.
+xn--94bcy0j9bb1cd.xn--54b7fta0cc. 10800	IN NS	ns2.bol-online.com.
 xn--94bcy3esc8fb.xn--54b7fta0cc. 10800 IN A	123.49.12.131
-xn--94bcy3esc8fb.xn--54b7fta0cc. 10800 IN NSEC	xn--j5b5azb0a2a4bbb.xn--54b7fta0cc. A RRSIG NSEC
-xn--94bcy3esc8fb.xn--54b7fta0cc. 10800 IN RRSIG	NSEC 8 2 10800 20251009211422 20250909201422 15315 xn--54b7fta0cc. lop/wr0CKyvj0Pe+lP35Ol16WnTsY895ylhf0aanJJ2LqafxiYGN+Jsk Zy59CLoevEmlfDFU8bpGtsxQo33fXFLydV3fIKDO/UySDzdoi0EgvJ2h k010+LNQ1HzOmiKOupxDf4wzr9mvGFSJH6NBDwJbxJnhY5kJlLzzJyUh ybg=
+xn--94bcy3esc8fb.xn--54b7fta0cc. 10800 IN NSEC	xn--94bcy5c2db7kd.xn--54b7fta0cc. A RRSIG NSEC
+xn--94bcy3esc8fb.xn--54b7fta0cc. 10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. aa7rfXn4/Am6kvuQlq8OCV9wk6y0OgQ5a40ovEaR/Vd6qnEdFElyuSjI 8RMKOfCMm089kB6+GCkW6+jAr65sZHi6IrYGS02ThRxGLGmys3V6Azks dsZMLsK5UPRyBjTFyMCc+6wqsUJMFLgHCklvlv9mwldyP8t9+9+lSfrv c/w=
 xn--94bcy3esc8fb.xn--54b7fta0cc. 10800 IN RRSIG	A 8 2 10800 20250925085739 20250826084739 15315 xn--54b7fta0cc. qtRNpOdr3CyaI8yw9fkRamGdZIycuD8KIIx9OQ4cc0SwlibI+TqeULcH HY4uvMJT4nBNHNJt3upU4Fvct9u6Elyo+hffRlaSHIbuy6gY0RUyl/Nx 4rrSgPj293LPZHtNw7bN+bqbOEF4GJlJ3kjF5rtHvhhMN9clmXCVRkWJ Y9U=
+xn--94bcy5c2db7kd.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. Il2KeGZMWCG9j0WkMoTbmuRFq/aV820kyBR9VEojw/+euXIlNNnjT9Pj hmeA9ryOSu+gRjZ9CxunYcJllETyYOdsGUzd+fChTzOOI469GtdyeV4N 4tpjcooG4x8W0FJLC3FGikgfDo6Y7juvZCvs68F73SwrSzchZ7D8iJy5 ehQ=
+xn--94bcy5c2db7kd.xn--54b7fta0cc. 10800	IN NSEC	xn--94bcy7ina2d4bd.xn--54b7fta0cc. NS RRSIG NSEC
+xn--94bcy5c2db7kd.xn--54b7fta0cc. 10800	IN NS	ns1.dhakacom.com.
+xn--94bcy5c2db7kd.xn--54b7fta0cc. 10800	IN NS	ns2.dhakacom.com.
+xn--94bcy7ina2d4bd.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. e7LHLRjZrSVE4WsRxHk+Az3SOct0M2nVUqa38DesW/TNLbIr6Mtgm+On 37zE05ZASYDBCzeQkUKZGr7XvO9ftKnngyrYE2vniDJhPN85tTegei1Y +k2KNN7iUSacFuL6oV84nnt9KtBnDc1woKP7VNlIvnqieBHNovtxqwG5 WAU=
+xn--94bcy7ina2d4bd.xn--54b7fta0cc. 10800 IN NSEC xn--94bsa5dc7e5a4ie.xn--54b7fta0cc. NS RRSIG NSEC
+xn--94bcy7ina2d4bd.xn--54b7fta0cc. 10800 IN NS	ns1.nothi.org.bd.
+xn--94bcy7ina2d4bd.xn--54b7fta0cc. 10800 IN NS	ns2.nothi.org.bd.
+xn--94bsa5dc7e5a4ie.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. Xrof6zzJ6tADMxYXHkPOiFSWV4HsX8UW7Uo07GsFotq4NPFNMLwYn0wD wFYKUqvu5kd6RQGBDPVAfahiCq+X/WYS+AGtO1sqUx+SYm18dGXHvj69 VTpAx120yvkUmfFLWF/NbYtv45YeHnBPCnNf9yMdzZh1FphxJkxwh4w5 /R8=
+xn--94bsa5dc7e5a4ie.xn--54b7fta0cc. 10800 IN NSEC xn--b5b0esa7d.xn--54b7fta0cc. NS RRSIG NSEC
+xn--94bsa5dc7e5a4ie.xn--54b7fta0cc. 10800 IN NS	ns1.bcc.gov.bd.
+xn--94bsa5dc7e5a4ie.xn--54b7fta0cc. 10800 IN NS	ns2.bcc.gov.bd.
+xn--b5b0esa7d.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. m7wKVWpviJhx1rLP8c0GM0fn/6PYigoFNqdVnHkW0LiXX/c6F8KD/8RV +8dwxZt06qTrZBNn+Cd10fbZs7YcHNECxR7c/1fMiIvLOZ9KhCOuA6Yk ONLydm+aO9ODfFygcPXvhRpHkjQWLjB4PAGe7eppkyu5AoFozFf9Tcui K1I=
+xn--b5b0esa7d.xn--54b7fta0cc. 10800 IN	NSEC	xn--b5b1a3ab6dtagcu9ihg9h8cb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--b5b0esa7d.xn--54b7fta0cc. 10800 IN	NS	elsa.ns.cloudflare.com.
+xn--b5b0esa7d.xn--54b7fta0cc. 10800 IN	NS	jack.ns.cloudflare.com.
+xn--b5b1a3ab6dtagcu9ihg9h8cb.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. iJNVYEXtZyVtyC9tUor1+ktrDfe/SgAVV1SX5lybJJjLS/rCi9XmYjML 46onAUoiOWyzJAyC9mFDEHVS27qudy35PGyGgooGlnlMwZ1tavn0gg16 GJNZDvqMOAfzc/xlOCY9GMRW6rYHJ2Q0v4syarv/WGn+DZNTCbElffAL wq8=
+xn--b5b1a3ab6dtagcu9ihg9h8cb.xn--54b7fta0cc. 10800 IN NSEC xn--b5b1aba3cj2cbz9ct4euei6ie2hfb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--b5b1a3ab6dtagcu9ihg9h8cb.xn--54b7fta0cc. 10800 IN NS ns1.btraccl.net.
+xn--b5b1a3ab6dtagcu9ihg9h8cb.xn--54b7fta0cc. 10800 IN NS ns2.btraccl.net.
+xn--b5b1aba3cj2cbz9ct4euei6ie2hfb.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. aO/CyBEnjZdWSKypWjSqhT1qaF/LJjKxlQLMwf7F0yfdnr3MYySwiDR4 UdAdzQb9hnLiNerd5gQyhMC6udtDZi0k0YAlKdrcRBJ99iIrVv4mRD2r M+e0VPmDrkAc2gwY6gpFEsqpraY9pCc1dsD3+TeifCnPdzKDnhTXIeko x70=
+xn--b5b1aba3cj2cbz9ct4euei6ie2hfb.xn--54b7fta0cc. 10800	IN NSEC	xn--b5b1ah4a7bxbee6ifqcf4okz.xn--54b7fta0cc. NS RRSIG NSEC
+xn--b5b1aba3cj2cbz9ct4euei6ie2hfb.xn--54b7fta0cc. 10800	IN NS ns6497.hostgator.com.
+xn--b5b1aba3cj2cbz9ct4euei6ie2hfb.xn--54b7fta0cc. 10800	IN NS ns6498.hostgator.com.
+xn--b5b1ah4a7bxbee6ifqcf4okz.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. AokCcd9DRlpm3Ub3qTuUiuHi6d9iBd3gkkqarXs7dKHGuc1go6HkrkrD 7SSNSQnputc2mBRfFsS8jiPDXBc+DN2RtaW+HDYB/6YPQMSNDucEBPXT TjBVTm8A48B0FwM3G2Ag11YBpD+DXq7vxv+j+kAUg4zefTjeQLtA8Xpj uIE=
+xn--b5b1ah4a7bxbee6ifqcf4okz.xn--54b7fta0cc. 10800 IN NSEC xn--b5b1awhc1fwah1kgi4nbf.xn--54b7fta0cc. NS RRSIG NSEC
+xn--b5b1ah4a7bxbee6ifqcf4okz.xn--54b7fta0cc. 10800 IN NS ns1.quantummethod.info.
+xn--b5b1ah4a7bxbee6ifqcf4okz.xn--54b7fta0cc. 10800 IN NS ns2.quantummethod.info.
+xn--b5b1awhc1fwah1kgi4nbf.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. tBmMPIkPGuy7++Z+plSTBynzHV1RgKe7uuWdM38iQ8ZpeYxpiGaThQ9d 6TcvNVmr/d3/QyFlxdvF/ADU+bsIeVAdpgpNuRXA0uP5mHA9ggTNis++ G0ebw+Irii2uCgejJJiXQbk75t4Fx5TLoAV2Gv1uU+cBvFAyZ0VSAcWg CNw=
+xn--b5b1awhc1fwah1kgi4nbf.xn--54b7fta0cc. 10800	IN NSEC	xn--b5b1awvxm4bg1jqabdbcq.xn--54b7fta0cc. NS RRSIG NSEC
+xn--b5b1awhc1fwah1kgi4nbf.xn--54b7fta0cc. 10800	IN NS ns1.aknetbd.com.
+xn--b5b1awhc1fwah1kgi4nbf.xn--54b7fta0cc. 10800	IN NS ns2.aknetbd.com.
+xn--b5b1awvxm4bg1jqabdbcq.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. CHxUE7eAx7X8qTKFyLVLPKQu2w7zqFhj+sMW28IfdXgWCBNpvMk797Tq i67Tpmc4BDsXBjTdXsb3p6CDoU+MvUqxln3kMr3xHPACcP5xSV8KhkO4 UwXyLpqWChhFKPh/mP2W3UdsOMPf7+6JZ7JwYysAyNO5BQJd4NQQmfQC K7o=
+xn--b5b1awvxm4bg1jqabdbcq.xn--54b7fta0cc. 10800	IN NSEC	xn--b5b1b8cycb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--b5b1awvxm4bg1jqabdbcq.xn--54b7fta0cc. 10800	IN NS ns1.vercel-dns.com.
+xn--b5b1awvxm4bg1jqabdbcq.xn--54b7fta0cc. 10800	IN NS ns2.vercel-dns.com.
+xn--b5b1b8cycb.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. KBvp9JPQeYt4nbBqYT2Cr0mWb9SLkow3A42PBLmNC2EtqKlBBf0ckI5Z AoZ+G1b6f2SQlTPzJSI6K0+7H9Bi33Son9dZIHYRu+LYYT3GNTGLql8z ThlV8DkN/yJyXbFIGBA2YJ3507RGgKpQ3tXEFFZ1+QBXPOVS8WPA9KNg ts0=
+xn--b5b1b8cycb.xn--54b7fta0cc. 10800 IN	NSEC	xn--b5b1bf0lb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--b5b1b8cycb.xn--54b7fta0cc. 10800 IN	NS	dns.btcl.net.bd.
+xn--b5b1b8cycb.xn--54b7fta0cc. 10800 IN	NS	slave.btcl.net.bd.
+xn--b5b1bf0lb.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. AFJOU+a1GtekpozmQXZXhheoCEKWSx3bwPI8eBkApeBuxBT/BtOOHYze Dt7j/waoN4/5fh/9/Eum91FNWJCfN6dryNJ3CzGzI/8oeG/f+xEjZDkI UX2Z0zSgVbLTjOJnnGpVoyr5cCsccNPxx4ig2+TkzfDLzTIJr5nyzWtL N0k=
+xn--b5b1bf0lb.xn--54b7fta0cc. 10800 IN	NSEC	xn--b5b1cfc1c4b0e5ctce.xn--54b7fta0cc. NS RRSIG NSEC
+xn--b5b1bf0lb.xn--54b7fta0cc. 10800 IN	NS	dns.btcl.net.bd.
+xn--b5b1bf0lb.xn--54b7fta0cc. 10800 IN	NS	slave.btcl.net.bd.
+xn--b5b1cfc1c4b0e5ctce.xn--54b7fta0cc. 10800 IN	RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. gQ+jfmDA/PkDIEVIKT0ziwvlF5Qa5dbnES8ZwJ7eyHHvmse79pnQtupB PH2O6HJEFmh7PaO+xzDtV9v/P9gXhtC3XkVAJbWFNSLC5TnaZEFXfQqZ QbUhltrWaL7FzrOVjII0k7rkq/bRsPu5W8w9Pb7x9swanYoHnmyQ7Kwx 0B0=
+xn--b5b1cfc1c4b0e5ctce.xn--54b7fta0cc. 10800 IN	NSEC xn--b5b2a4a1dq2d7a2cb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--b5b1cfc1c4b0e5ctce.xn--54b7fta0cc. 10800 IN	NS ns6011.hostgator.com.
+xn--b5b1cfc1c4b0e5ctce.xn--54b7fta0cc. 10800 IN	NS ns6012.hostgator.com.
+xn--b5b2a4a1dq2d7a2cb.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. nyP72rsT01ZanvYQTZ25t+TOVU2z4JJRQWpkJ3yFKj0DfSzwzDggC/zN IseYvmZiAN3GDeowSuf+IH6zTbhCS6wDjuvedipu2oVHsiII0ZYA8AsL DgPBat2bT1d96gvCKCq0F2AMS3n6VLcXDqUTQwTICAux7ZzbvnmB+/lS 3Mg=
+xn--b5b2a4a1dq2d7a2cb.xn--54b7fta0cc. 10800 IN NSEC xn--b5b2a6ba9a4hrc3b.xn--54b7fta0cc. NS RRSIG NSEC
+xn--b5b2a4a1dq2d7a2cb.xn--54b7fta0cc. 10800 IN NS ns1.btraccl.net.
+xn--b5b2a4a1dq2d7a2cb.xn--54b7fta0cc. 10800 IN NS ns2.btraccl.net.
+xn--b5b2a6ba9a4hrc3b.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. rMZ6XQZNsJIDS50Ft6YmLa6mXMq8B2Lpd4TXuxfSAbH2B8+XRu41SVnP M5yqFTeYZKeVPtcCFY6ugxJQf+GU+U8Rsr6UuEFbuZy3A5CzoXmvHvrW TjaNzkwWjkb3+K1jc0ZrUg/J602qtlW2+GwHg3ycb/mAE1kmJ2lw2SZD Xco=
+xn--b5b2a6ba9a4hrc3b.xn--54b7fta0cc. 10800 IN NSEC xn--b5b2a9a1f6csb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--b5b2a6ba9a4hrc3b.xn--54b7fta0cc. 10800 IN NS clyde.ns.cloudflare.com.
+xn--b5b2a6ba9a4hrc3b.xn--54b7fta0cc. 10800 IN NS sofia.ns.cloudflare.com.
+xn--b5b2a9a1f6csb.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. S4nMQ1GUHuZlLacrQN4YyX3oRjbuml3D2RVtEQaXlPOGHR/ANvsz75qq He4Qq7d+ZbxoLcMa3oaQjrVlKWH3RsbmLdTm1RmOkIXoOieCGPaELrZL EBxpqwkuv9brD3aOh7azY9ZQWfRoWW7aZBq0UlYWrec85U9+VkznzHvu yE8=
+xn--b5b2a9a1f6csb.xn--54b7fta0cc. 10800	IN NSEC	xn--b5b2aa3b6b7bl7c5c1d6ce.xn--54b7fta0cc. NS RRSIG NSEC
+xn--b5b2a9a1f6csb.xn--54b7fta0cc. 10800	IN NS	ns1.dns-parking.com.
+xn--b5b2a9a1f6csb.xn--54b7fta0cc. 10800	IN NS	ns2.dns-parking.com.
+xn--b5b2aa3b6b7bl7c5c1d6ce.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. Rf+xxBNjKLzEoSxRR7+8AbU93VVo/N+3v4llFH8X7mHT7n9YL8KjpflU vu6WY+jTHkjsdING/2U3EgiEIFx8pxk+AEjjPD4Hg11PwXeqdmg5idlR KdMXaaghXXGlgc91THZC0fC/Q5xzdoUqEjuhhncV+MC37uSUOEZYvHlS J9I=
+xn--b5b2aa3b6b7bl7c5c1d6ce.xn--54b7fta0cc. 10800 IN NSEC xn--b5b2dln9g5b.xn--54b7fta0cc. NS RRSIG NSEC
+xn--b5b2aa3b6b7bl7c5c1d6ce.xn--54b7fta0cc. 10800 IN NS nero.ns.cloudflare.com.
+xn--b5b2aa3b6b7bl7c5c1d6ce.xn--54b7fta0cc. 10800 IN NS monroe.ns.cloudflare.com.
+xn--b5b2dln9g5b.xn--54b7fta0cc.	10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. HatHxpNaqi2Qicv5my4bOSY16oAVbUDmdV/ScIbYk2AkcrKVYwsXThCB xeJ7VHZFMEgwNa0fCJXGd7UXXfO956YgL2bbqPi4NyQGlF9xk9UC0g8X Eq8DKzo+db10J2kR5C9JHCG1vK/77G/SVusw86+PLcRlwcohFQ72kKQa RTE=
+xn--b5b2dln9g5b.xn--54b7fta0cc.	10800 IN NSEC	xn--b5b4a3b3a0gb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--b5b2dln9g5b.xn--54b7fta0cc.	10800 IN NS	ns1.aamranetworks.com.
+xn--b5b4a3b3a0gb.xn--54b7fta0cc. 10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. TKu1pb4y6NM7DHTGjDftKj7wubObbKXp1SlLYKDD5+A1vXJhPzbJ/b2a HzhcRVJs2ueYrHHiMWXUyGk9R2RSs3lUq4SrqpWU/CnTij6xD5Xvcd96 ZoELjbJmVoLHxD6vNO5sgOE86go1NRRmYNGhX+9I2CruuWgOXt0osQFS Kxc=
+xn--b5b4a3b3a0gb.xn--54b7fta0cc. 10800 IN NSEC	xn--b5b4b3cl5cme.xn--54b7fta0cc. NS RRSIG NSEC
+xn--b5b4a3b3a0gb.xn--54b7fta0cc. 10800 IN NS	dns1.bdwebservices.com.
+xn--b5b4a3b3a0gb.xn--54b7fta0cc. 10800 IN NS	dns2.bdwebservices.com.
+xn--b5b4b3cl5cme.xn--54b7fta0cc. 10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. RSUD6MFnff2z36X5W0MLcRNaQNjHFbnO5+aYx91EvLqoLFPq9T4p0rUp 4W4/RuF3FPpwjSRFrGHcCdK2jZQWBweNgi1AWEWq1gBKquOAmvYNrK5Y HwA3AMz8d0UmWHPteavzPTIHpBxO/9FJUNEBEGvUtCGaeqig9yFIcI/n kRM=
+xn--b5b4b3cl5cme.xn--54b7fta0cc. 10800 IN NSEC	xn--b5b5ao0l.xn--54b7fta0cc. NS RRSIG NSEC
+xn--b5b4b3cl5cme.xn--54b7fta0cc. 10800 IN NS	ns1.quickened.online.
+xn--b5b4b3cl5cme.xn--54b7fta0cc. 10800 IN NS	ns2.quickened.online.
+xn--b5b5ao0l.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. qejW1WWxkY0gxLfm+F24vxiQtX42CEGJLMlPsl2Nz7beJnceZViOCOvU VZ5QrDTWhENg13cao4wO7Qa739Qx6popRqMZPwrehuE2xzQcZa5btq6q 4ysLT89y5SbbWS3VM0Hnf42kuGceAm0AZT3uqRe+9VanEJlR5mO1MRDi GZM=
+xn--b5b5ao0l.xn--54b7fta0cc. 10800 IN	NSEC	xn--b5b6bf8ct5gd4i.xn--54b7fta0cc. NS RRSIG NSEC
+xn--b5b5ao0l.xn--54b7fta0cc. 10800 IN	NS	ns1.bcc.gov.bd.
+xn--b5b5ao0l.xn--54b7fta0cc. 10800 IN	NS	ns2.bcc.gov.bd.
+xn--b5b6bf8ct5gd4i.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. MzNgP8klwgT3333sxt7Vl9rCpUjdT+jgS5n8Ve/06YimjLPRlR8CATR3 aZEsVrXu3n1E8MebXuKpW+dtArbLWOUS+Ao2hRF6vJUNJo8sAJ/509NU 1ofpO2UgeWmux/pFku+FtHSiYZnzfOzQO0cwaRT2aEOphY1ZwTWf9BH+ 0pI=
+xn--b5b6bf8ct5gd4i.xn--54b7fta0cc. 10800 IN NSEC xn--b5b6cuamf8ib6g.xn--54b7fta0cc. NS RRSIG NSEC
+xn--b5b6bf8ct5gd4i.xn--54b7fta0cc. 10800 IN NS	ns1.aknetbd.com.
+xn--b5b6bf8ct5gd4i.xn--54b7fta0cc. 10800 IN NS	ns2.aknetbd.com.
+xn--b5b6cuamf8ib6g.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. tmeBXiX9xCjNYLaXNZfgIbdtGRh2ifQJ3dJOrhLGzd6E26T4rMwBNPtn a2+yyyd+OlmltYKqHW5hfMAIhRKcbqzWAgMmu4MBhyCPm6ZhFaNAZE7a VYMjvM/DDXnEH5CL1SdHuNVvJ++yKtWEb9iECC2mGbT8BuqlrsEPdso9 H90=
+xn--b5b6cuamf8ib6g.xn--54b7fta0cc. 10800 IN NSEC xn--b5b6eqbya.xn--54b7fta0cc. NS RRSIG NSEC
+xn--b5b6cuamf8ib6g.xn--54b7fta0cc. 10800 IN NS	cosmin.ns.cloudflare.com.
+xn--b5b6cuamf8ib6g.xn--54b7fta0cc. 10800 IN NS	ainsley.ns.cloudflare.com.
+xn--b5b6eqbya.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. GC6uk2r+jNq/uJvV9l1PYtrYFUFwgrVG7kZs7wZNpKcc7j0YC4pXISki 6o+XFMLbl7J+mlMVqxngkLrFQLYGpK+ChCW0rr3gc69NEnqWhgqc+W6N LFG4oOY3xbFtQA/pjl8sUIqDkTk+LXoIUez0OzvPD8orpMXVcenFHFFx yJY=
+xn--b5b6eqbya.xn--54b7fta0cc. 10800 IN	NSEC	xn--b5b6fwac1ac.xn--54b7fta0cc. NS RRSIG NSEC
+xn--b5b6eqbya.xn--54b7fta0cc. 10800 IN	NS	dns1.namecheaphosting.com.
+xn--b5b6eqbya.xn--54b7fta0cc. 10800 IN	NS	dns2.namecheaphosting.com.
+xn--b5b6fwac1ac.xn--54b7fta0cc.	10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. S87lj8Ey3invBvyy91zvwE+wNf8eIAfzyhMeU480yicQv8eaR0ywugeY ti0aT2rvFlvoZItdja/G+NNhjKbfyxRjIhSZ9xPhd9NmDtfUFj3bj3RH xoxcPwnxC1R07hujUlPGx7EJCSfuWwTpOIHYzJP1BSpTq1hBcSeljdQk t78=
+xn--b5b6fwac1ac.xn--54b7fta0cc.	10800 IN NSEC	xn--b5b8e9aza7b.xn--54b7fta0cc. NS RRSIG NSEC
+xn--b5b6fwac1ac.xn--54b7fta0cc.	10800 IN NS	zoe.ns.cloudflare.com.
+xn--b5b6fwac1ac.xn--54b7fta0cc.	10800 IN NS	kevin.ns.cloudflare.com.
+xn--b5b8e9aza7b.xn--54b7fta0cc.	10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. O1Tt0FhXA3k5FwO4HDhgY1iCKXkLMpokGkHUDDIPHTmaZTAG0tbjbUaT PzZMVIS/4ggBiVtfOyXggloovETx1oUVK6ElIqFI6hc4JtQn74vdr1Hn VVHpBxs+0YInm8Z0utvT20w4s6Gybjz4aClIrs3uykirTDHKjPuAA62K Hew=
+xn--b5b8e9aza7b.xn--54b7fta0cc.	10800 IN NSEC	xn--b5b9dta6d.xn--54b7fta0cc. NS RRSIG NSEC
+xn--b5b8e9aza7b.xn--54b7fta0cc.	10800 IN NS	ns1.a2iservices.gov.bd.
+xn--b5b8e9aza7b.xn--54b7fta0cc.	10800 IN NS	ns2.a2iservices.gov.bd.
+xn--b5b9dta6d.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. HlF3U49cjprIhM8zwZXvNACjdLbFJR10FpK9ZkKnlEfb6l0AiyZ5opDR 9Z7jp7hJ0peBh0P1bxMJG/XtpoP77rrU8jBweJT5h2pUU/yi/5RCltEJ 87ticXBtS3JuvfOK3oD/yeBZ04ry4tyjU3tYOy9aJZuNUzHEceBMcqNf 8ug=
+xn--b5b9dta6d.xn--54b7fta0cc. 10800 IN	NSEC	xn--b5ba5b9emjb3dwccd2p.xn--54b7fta0cc. NS RRSIG NSEC
+xn--b5b9dta6d.xn--54b7fta0cc. 10800 IN	NS	dns2.hostever.com.
+xn--b5b9dta6d.xn--54b7fta0cc. 10800 IN	NS	dns3.hostever.com.
+xn--b5b9dta6d.xn--54b7fta0cc. 10800 IN	NS	dns4.hostever.com.
+xn--b5ba5b9emjb3dwccd2p.xn--54b7fta0cc.	10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. GWZQCM0z/8ZdJLmOKgAajaUQRXw26iuqgpX6MXXvTw4iNWk06PVVMZZZ HYiwiQCEioLgCJzNQ8jf0cgfGfW9nJO5f8Tag9IeuUN9i7HPW7ezql1x CJGeSeUhtCMNpnT677m/nhgyNEeKYKjY2Fla21SKLPVR6YlxJ5gyUp/8 hm0=
+xn--b5ba5b9emjb3dwccd2p.xn--54b7fta0cc.	10800 IN NSEC xn--b5ba5eab4cb7dxda5dfp9hucya.xn--54b7fta0cc. NS RRSIG NSEC
+xn--b5ba5b9emjb3dwccd2p.xn--54b7fta0cc.	10800 IN NS dns1.bcc.gov.bd.
+xn--b5ba5b9emjb3dwccd2p.xn--54b7fta0cc.	10800 IN NS dns2.bcc.gov.bd.
+xn--b5ba5eab4cb7dxda5dfp9hucya.xn--54b7fta0cc. 10800 IN	RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. TMg1fR7Zwf7Gd68iAjhmSkn+glU6tdQ+whex6CKgYd1VK5G6lbK76U/5 soXDHx3sP/4gAJYfghsl0Ky2uQluC5sz2zH0vNFFaMnZJtX1SxUUqlfJ bCJT3TB4NOLED7QtNyjnPs5XX4kS2U83lJubmgz/aRkNnlJIy+PSVWfh N8I=
+xn--b5ba5eab4cb7dxda5dfp9hucya.xn--54b7fta0cc. 10800 IN	NSEC xn--b5ba6ewbikfo2e1cdpb2q.xn--54b7fta0cc. NS RRSIG NSEC
+xn--b5ba5eab4cb7dxda5dfp9hucya.xn--54b7fta0cc. 10800 IN	NS ns1.dhakacom.com.
+xn--b5ba5eab4cb7dxda5dfp9hucya.xn--54b7fta0cc. 10800 IN	NS ns2.dhakacom.com.
+xn--b5ba6ewbikfo2e1cdpb2q.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. rnrX5ABzcwMNoFE6CCMlfXGlQw9vZOkM1vnVKq0K/uVqNQ9/QWjGFvRn oJklisrTUqLW4Ui9+n73HPk+/xHYFu6NlC2U5ZDrFk/2II5z809ZoGQK hyWjrVxq0M6okDDT6vB0Lt5uV71WYnxgDVsT2cegWdo4+jDzy9wCKV9l Pdo=
+xn--b5ba6ewbikfo2e1cdpb2q.xn--54b7fta0cc. 10800	IN NSEC	xn--b5bd1b9b3b5azgqaebb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--b5ba6ewbikfo2e1cdpb2q.xn--54b7fta0cc. 10800	IN NS dns.btcl.net.bd.
+xn--b5ba6ewbikfo2e1cdpb2q.xn--54b7fta0cc. 10800	IN NS slave.btcl.net.bd.
+xn--b5bd1b9b3b5azgqaebb.xn--54b7fta0cc.	10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. kn5oqbjLMh5/q14SFJvwXUOTffyg7rOa0NnO9bUHj7hRVhdlbnz6zlL0 YzxZ9WPu0waEyZnyjmFf8ZjraZJwgC4fy1CRO8EFjcierPiCFib86Y/Q 3gu3tKMdNB7f+nSt+USZN/rb4B9u32P/7O+ioEuW2TixMGbBDpTSCdNR 3eM=
+xn--b5bd1b9b3b5azgqaebb.xn--54b7fta0cc.	10800 IN NSEC xn--b5bd1b9b8ch5gqaebb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--b5bd1b9b3b5azgqaebb.xn--54b7fta0cc.	10800 IN NS ns5.zhostbd.com.
+xn--b5bd1b9b3b5azgqaebb.xn--54b7fta0cc.	10800 IN NS ns6.zhostbd.com.
+xn--b5bd1b9b8ch5gqaebb.xn--54b7fta0cc. 10800 IN	RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. CU71gj1smoi3fPsisXQvGrzmiOGHEbbrU0FUufvreqirct76WZuF9dJ2 zZRClWlxOH5SxsXFUs7hJ1AFCsB6IYFH0d8PzySEmL54i1EpRF/pBhU4 R5NKJo4ffDyfAela8Xw9lCH6+qnj6hAj90luWD78T+qiQwmT0+gDztJQ oP0=
+xn--b5bd1b9b8ch5gqaebb.xn--54b7fta0cc. 10800 IN	NSEC xn--b5bd1bzl.xn--54b7fta0cc. NS RRSIG NSEC
+xn--b5bd1b9b8ch5gqaebb.xn--54b7fta0cc. 10800 IN	NS dns1.whitelabelwebserver.com.
+xn--b5bd1b9b8ch5gqaebb.xn--54b7fta0cc. 10800 IN	NS dns2.whitelabelwebserver.com.
+xn--b5bd1bzl.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. mFccAxUOz0bDTrVhqEoFfe6+6G2WKEMZ/hljb/MGSWbvnPc3dnp4ZQ6G XCst10nKa9xe7NvDfSr/D8YaNdjsywBVcrmyMqK5m5RqkE2y288SrMST gNcAJtpETyAtUvh+X3x+WYUSLRLOho6jsir82g0PgTht74EslB6I06J/ +io=
+xn--b5bd1bzl.xn--54b7fta0cc. 10800 IN	NSEC	xn--b5bd9axgva8euc.xn--54b7fta0cc. NS RRSIG NSEC
+xn--b5bd1bzl.xn--54b7fta0cc. 10800 IN	NS	ns5.zhostbd.com.
+xn--b5bd1bzl.xn--54b7fta0cc. 10800 IN	NS	ns6.zhostbd.com.
+xn--b5bd9axgva8euc.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. X1BbwtUD5YFh0xs7ZcE04mXrZ1fkyzqJZyH+iXStw6vgXmxa+u0Kjjvc C26Zc7C/Y2HYSc5BSLBRaB4AykPQspO6qisiFVY9U0Ix0qEF3SXl37Po pHiAOCifXUa+n8u9JpN3yI8kuAzT7G63zTvR1WntWIRlFQybwOFf6YPR hYw=
+xn--b5bd9axgva8euc.xn--54b7fta0cc. 10800 IN NSEC xn--b5be0efj7aj3axe2g4clebs9rbi.xn--54b7fta0cc. NS RRSIG NSEC
+xn--b5bd9axgva8euc.xn--54b7fta0cc. 10800 IN NS	ns1.quantummethod.info.
+xn--b5bd9axgva8euc.xn--54b7fta0cc. 10800 IN NS	ns2.quantummethod.info.
+xn--b5be0efj7aj3axe2g4clebs9rbi.xn--54b7fta0cc.	10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. obg2Y1TpG6It4zEnPGyv9qpngjIzlfSb1QcPpJ6e6G1UqN1Pm8rQI+Yz CbkDqe6DMP/Pkm1qgXpw74hGRauI5wBISOCbx4SmHRwUPMmv7AX6srLf cLvampo3RIo+TP2NmCVETpc+cEoEcrtyX9jtR0J3loAYD/5YFhyGuAZu FRY=
+xn--b5be0efj7aj3axe2g4clebs9rbi.xn--54b7fta0cc.	10800 IN NSEC xn--b5bp9c0b4cb3cbb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--b5be0efj7aj3axe2g4clebs9rbi.xn--54b7fta0cc.	10800 IN NS dns5.centriohost.com.
+xn--b5be0efj7aj3axe2g4clebs9rbi.xn--54b7fta0cc.	10800 IN NS dns6.centriohost.com.
+xn--b5bp9c0b4cb3cbb.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. QZds1m965xY4WzGCe8WPdf4daVKjmGP3/xumpmpS/CzFXawmHApVdm8L f7Pf4I3hTyRycOGeoNKUuWl9AKZrCZpRIqy51Xi46skX2DICUXvluKRu n0MLkDENleTOzXZPqNAbV0pbR50LcsFOGCHyFzuD+xa3ilbWN7VraUvY wGs=
+xn--b5bp9c0b4cb3cbb.xn--54b7fta0cc. 10800 IN NSEC xn--b6bdhh7e2d.xn--54b7fta0cc. NS RRSIG NSEC
+xn--b5bp9c0b4cb3cbb.xn--54b7fta0cc. 10800 IN NS	ns1.bcc.gov.bd.
+xn--b5bp9c0b4cb3cbb.xn--54b7fta0cc. 10800 IN NS	ns2.bcc.gov.bd.
+xn--b6bdhh7e2d.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. j20lU7LIJPxGRwG2z4aWJhmm5wLtRSNd8te76/0XEVNjE1eOc6wytj6N aFL1r7Wf/d/A+LTL4YISQlZc4gSR8lY5UQdCDoXpBs/PLoM7nOiy3P9Q ojDVKsUQEfvC/iBvsSZzy58rNOHYVt2N2kAI/ebCz+V5J8/sVh70Vovp oyw=
+xn--b6bdhh7e2d.xn--54b7fta0cc. 10800 IN	NSEC	xn--b6bhbh4e8d.xn--54b7fta0cc. NS RRSIG NSEC
+xn--b6bdhh7e2d.xn--54b7fta0cc. 10800 IN	NS	ns1.nothi.org.bd.
+xn--b6bdhh7e2d.xn--54b7fta0cc. 10800 IN	NS	ns2.nothi.org.bd.
+xn--b6bhbh4e8d.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. JyukiuX28wnV0u3QpEqcthK3ZJiF4VfFYFWuJ/Dq40E41gteyxbVVSPZ khHnyXpAhKwKYh/pPi5omw93G9HipDw6KebVzTQxDpANvduSJ/CSdAcw zI0a6cKPf27AhUO2HNZAySNvZBRiabkExgoJsB51U9i1gpTGENsn0uhO OkE=
+xn--b6bhbh4e8d.xn--54b7fta0cc. 10800 IN	NSEC	xn--b6bi3ax.xn--54b7fta0cc. NS RRSIG NSEC
+xn--b6bhbh4e8d.xn--54b7fta0cc. 10800 IN	NS	ns1.nothi.org.bd.
+xn--b6bhbh4e8d.xn--54b7fta0cc. 10800 IN	NS	ns2.nothi.org.bd.
+xn--b6bi3ax.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. gNibIOScN40IQJZzvtudfbZdu8NmWMZSd2c8NFnqzCyMMOp51HnoJPI2 e3i5xWeuyE+1JHiVQoF4C2eEe1/y3uDG3osmc+SnGsFoKECSU36a85n2 oCiYnDjBKxoOR7mXiMb7DS/rL2mD0o7AqenYJYuOW+9+sEDyJ4mSJPOw BFw=
+xn--b6bi3ax.xn--54b7fta0cc. 10800 IN	NSEC	xn--b6bkc7atm5h.xn--54b7fta0cc. NS RRSIG NSEC
+xn--b6bi3ax.xn--54b7fta0cc. 10800 IN	NS	ns1.bcc.gov.bd.
+xn--b6bkc7atm5h.xn--54b7fta0cc.	10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. e09AaJQuvNgGKqJLUnC6DK4DJT+5WneIX5kYqEDDRdYVSqre7ZKRG7a4 yVky1lglz4bi8T0S9DPf9UWpoGdszgMR+c0SU/uxW/AbIlO0qCfp11vk StVlFyWYva3iKV5088tRhbzM5ep3O5mDMDKz2K3U7OABpDRlBniXGqSH P9g=
+xn--b6bkc7atm5h.xn--54b7fta0cc.	10800 IN NSEC	xn--c5b7dta6d.xn--54b7fta0cc. NS RRSIG NSEC
+xn--b6bkc7atm5h.xn--54b7fta0cc.	10800 IN NS	dee.ns.cloudflare.com.
+xn--b6bkc7atm5h.xn--54b7fta0cc.	10800 IN NS	moura.ns.cloudflare.com.
+xn--c5b7dta6d.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. J3cUzstURX4nbCAAiGBFViBcN6ELqaRyjTXwtJzw1SPnG3Kl6dBsYIJB N4HlG6DEzEAxq82tppyjYlzjPRwZw6JCEUfl5v6SpdEbPd74C4O74aqI D3Skyxmdnx2fZ2eUPffQAoghSN+fuUc4aHnUUtadW727jyrB4DDqpRo2 na0=
+xn--c5b7dta6d.xn--54b7fta0cc. 10800 IN	NSEC	xn--c6bj6bf.xn--54b7fta0cc. NS RRSIG NSEC
+xn--c5b7dta6d.xn--54b7fta0cc. 10800 IN	NS	sri.ns.cloudflare.com.
+xn--c5b7dta6d.xn--54b7fta0cc. 10800 IN	NS	treasure.ns.cloudflare.com.
+xn--c6bj6bf.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. OGy4x+Gq1aW3VwqTnazgCgyFyvhDrlo+UqW8yQGFlF6d4RvG4wD1ddDR ei/2wrrjN10xetk96mUhdpGi1cp3m/QFhqQM65L1S6344IlBFP8xSCcF oaPCU17eeAq5n23gm04PzDww8JthZUYpNnhUrdBKVoo7SCbTVIDRPV/y tSs=
+xn--c6bj6bf.xn--54b7fta0cc. 10800 IN	NSEC	xn--d5b1a5a1abo0a5dudzerb3a.xn--54b7fta0cc. NS RRSIG NSEC
+xn--c6bj6bf.xn--54b7fta0cc. 10800 IN	NS	dns.btcl.net.bd.
+xn--c6bj6bf.xn--54b7fta0cc. 10800 IN	NS	slave.btcl.net.bd.
+xn--d5b1a5a1abo0a5dudzerb3a.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. islVB3Gm6A7r9CwtcH1ADNoyaXHZSac7ZS3UnCNhe0/jO51pRiHobYMD un02jxXHTQ1E0ARwYpyYpPJIdV+cHuPW3rr9ddGIARkzH+kKvHgoW/0R JSxC0VZZV+j+waiVxtXiLRydaWdo9mKaE0ZhKruCFd3UdhpIyS7bxvnJ sfU=
+xn--d5b1a5a1abo0a5dudzerb3a.xn--54b7fta0cc. 10800 IN NSEC xn--d5b2bja5bdw3am0j2ah5h7bh2a.xn--54b7fta0cc. NS RRSIG NSEC
+xn--d5b1a5a1abo0a5dudzerb3a.xn--54b7fta0cc. 10800 IN NS	ns1.quantummethod.info.
+xn--d5b1a5a1abo0a5dudzerb3a.xn--54b7fta0cc. 10800 IN NS	ns2.quantummethod.info.
+xn--d5b2bja5bdw3am0j2ah5h7bh2a.xn--54b7fta0cc. 10800 IN	RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. QDmCszGN46mh+nO2+tdHVs3dfi8JMAr/VKhHUPBMtUFFKZMZPeRkpdPx 0txVVzts2yrOH+SWMy46uoz0BAguh8xQfWKWjid4n3J23LVA3mW9Ls/6 zZ0xBptJfFRss+T2tJfnUa5OqCt4SmWBxcmNS9xDivE8oKO8ZaT6Hy7f lGY=
+xn--d5b2bja5bdw3am0j2ah5h7bh2a.xn--54b7fta0cc. 10800 IN	NSEC xn--d5b2bja5bdw3am0j2ahv0g0c2a.xn--54b7fta0cc. NS RRSIG NSEC
+xn--d5b2bja5bdw3am0j2ah5h7bh2a.xn--54b7fta0cc. 10800 IN	NS conrad.ns.cloudflare.com.
+xn--d5b2bja5bdw3am0j2ah5h7bh2a.xn--54b7fta0cc. 10800 IN	NS clarissa.ns.cloudflare.com.
+xn--d5b2bja5bdw3am0j2ahv0g0c2a.xn--54b7fta0cc. 10800 IN	RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. qqsXSPDT1IemJBhCzjwdUbH0oaNqbkrlpiL2tc6jSdwT6C9rvl02Zb/g zGTlvh5ZaOqdMvR7DEOG8+v+0ZHcW7GEts2eVE2URanOQSoEIxsu0ugN +6+wDaxx1oRYL6GGLQaDhmfVEboZcsRwxWssXotd/TRu8HpOlUnASmZJ +Cs=
+xn--d5b2bja5bdw3am0j2ahv0g0c2a.xn--54b7fta0cc. 10800 IN	NSEC xn--d5b2bn2as8ibb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--d5b2bja5bdw3am0j2ahv0g0c2a.xn--54b7fta0cc. 10800 IN	NS conrad.ns.cloudflare.com.
+xn--d5b2bja5bdw3am0j2ahv0g0c2a.xn--54b7fta0cc. 10800 IN	NS clarissa.ns.cloudflare.com.
+xn--d5b2bn2as8ibb.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. CHxbq2bVHJpqUxDAp/9pZBExmPZJbwltGLcDKY9LNyCBFO9ymoGY/Tmp EnDOjJUq/a/pIifdpQPhI56NokXb6sMOgh6oHYLGF5Q0k7H4pezD5RJG P9Mn1Beq5zzhWphj8WogFO62TAYT5e/8MT9fh6mR2sFDkKeWy5fUZ831 3IY=
+xn--d5b2bn2as8ibb.xn--54b7fta0cc. 10800	IN NSEC	xn--d5b2bn2as8ibb58aua.xn--54b7fta0cc. NS RRSIG NSEC
+xn--d5b2bn2as8ibb.xn--54b7fta0cc. 10800	IN NS	conrad.ns.cloudflare.com.
+xn--d5b2bn2as8ibb.xn--54b7fta0cc. 10800	IN NS	clarissa.ns.cloudflare.com.
+xn--d5b2bn2as8ibb58aua.xn--54b7fta0cc. 10800 IN	RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. cQpcSKfdFzQkUc1rJmFEFosmAbkGuJFTZGN+So5MQS5KY0b7mcdFT4Yh /xygcnOMbKyL7Q/1ZzThYkJJJoG8RFWvIabHgnXAxKURM2PYdMiGx9dZ lI2dZFug8ygTQfSFh2iVLqtS7cGNxuP4PfygRLO2PBlfUqA5yWAlTfM9 zJo=
+xn--d5b2bn2as8ibb58aua.xn--54b7fta0cc. 10800 IN	NSEC xn--d5b5ei4db.xn--54b7fta0cc. NS RRSIG NSEC
+xn--d5b2bn2as8ibb58aua.xn--54b7fta0cc. 10800 IN	NS conrad.ns.cloudflare.com.
+xn--d5b2bn2as8ibb58aua.xn--54b7fta0cc. 10800 IN	NS clarissa.ns.cloudflare.com.
+xn--d5b5ei4db.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. IFjNB77owQYgPlVlz8dupq/jlIICJiz4SHpPiING0+BZd9xzUVO8M9td ylaK9o65jX+i/pUWBiyb+Bj8osf6o1L0LWnpPsSXIJQBGY77X2tm0K38 9WWQAD29UOh4I3Fjv4OjO2/t6uv8+g+0s9Q9NnaTP7G5Yz4NzGwXF3c2 b4Q=
+xn--d5b5ei4db.xn--54b7fta0cc. 10800 IN	NSEC	xn--d5b6dsa0b1e8a.xn--54b7fta0cc. NS RRSIG NSEC
+xn--d5b5ei4db.xn--54b7fta0cc. 10800 IN	NS	ns1.securehostingpanel.com.
+xn--d5b5ei4db.xn--54b7fta0cc. 10800 IN	NS	ns2.securehostingpanel.com.
+xn--d5b6dsa0b1e8a.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. DM7KdVXnbDlUXA6zp3ZFYAwpn8iV95mXkKua09n/TJ/FdY+tdm6Gxjxg 0Rg64pbn1TBeFVzzi5uStIkrvpTuWW4h1L2yOYXvGyFT8j5yJUsVXIco fCTeqJRCFq3SvzsydGkz0jcF8iriuCrCcMtGFDGKNnRo0w17jw07vvV5 yvE=
+xn--d5b6dsa0b1e8a.xn--54b7fta0cc. 10800	IN NSEC	xn--d5b7aw7amy8g1eta.xn--54b7fta0cc. NS RRSIG NSEC
+xn--d5b6dsa0b1e8a.xn--54b7fta0cc. 10800	IN NS	freedns1.registrar-servers.com.
+xn--d5b6dsa0b1e8a.xn--54b7fta0cc. 10800	IN NS	freedns2.registrar-servers.com.
+xn--d5b7aw7amy8g1eta.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. ROTkduduZRjvYZnDzVW3Y56k0R23IiLxTtoE4C5z9AVPxOQrZGi6CMkD 8ltXo65ttKkKSwkPsR32aRH/5lcDOI+zvsa7gCDZJA+ZHqFc00QDH/8W f1pXCFbF/b68JayygTsvVeAc9x3gFkS0L0wSbyXA7LRXDlLmmY8WeJew AQ4=
+xn--d5b7aw7amy8g1eta.xn--54b7fta0cc. 10800 IN NSEC xn--d5b9dfc1gb7g.xn--54b7fta0cc. NS RRSIG NSEC
+xn--d5b7aw7amy8g1eta.xn--54b7fta0cc. 10800 IN NS rs62a.registrar-servers.com.
+xn--d5b7aw7amy8g1eta.xn--54b7fta0cc. 10800 IN NS rs62b.registrar-servers.com.
+xn--d5b9dfc1gb7g.xn--54b7fta0cc. 10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. EhmlqMAVceG4LNtztnBOUaADKW7JEE2iRyaIxnrzTczmG4zbSWEAvN0a LDMOYRYGK1g3Hk2Cv1i8tEBBIJYI6LBXiWo4p/jY3I5P0iIltA2u+Ty4 0ph2w84Feu9928MnZF+vIXSOcDbw5rINBJm8RxhexQmlxDgwNdBDFHmy SUA=
+xn--d5b9dfc1gb7g.xn--54b7fta0cc. 10800 IN NSEC	xn--d5blsa0aa8fwbbe8aadb5ah2gb4g1accghfdg30be.xn--54b7fta0cc. NS RRSIG NSEC
+xn--d5b9dfc1gb7g.xn--54b7fta0cc. 10800 IN NS	ns1.bwdb.gov.bd.
+xn--d5b9dfc1gb7g.xn--54b7fta0cc. 10800 IN NS	ns2.bwdb.gov.bd.
+xn--d5blsa0aa8fwbbe8aadb5ah2gb4g1accghfdg30be.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. YvdvVGyVs6On5FCABnSeHMw/7cG9WgspQWK5GCIIDqdIbIklnbNCb19m slfyqao9ndsSL3jc4slAmgj33DUKPt8qV3ThRz18rgUsAfpskJQt/HUh Au/BqXEeS7xha8c4+U+crJdOxRhg3/XIxw+MSTYbW4LVk5z2vY/DeHjx 5KU=
+xn--d5blsa0aa8fwbbe8aadb5ah2gb4g1accghfdg30be.xn--54b7fta0cc. 10800 IN NSEC xn--d5bx4aj6acbu0ah8f0c0acc1m5bzbh.xn--54b7fta0cc. NS RRSIG NSEC
+xn--d5blsa0aa8fwbbe8aadb5ah2gb4g1accghfdg30be.xn--54b7fta0cc. 10800 IN NS ns3.amarserver.com.
+xn--d5blsa0aa8fwbbe8aadb5ah2gb4g1accghfdg30be.xn--54b7fta0cc. 10800 IN NS ns4.amarserver.com.
+xn--d5bx4aj6acbu0ah8f0c0acc1m5bzbh.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. AKOK9r+Jkqo2qqAu4JjDTPuYR54LoPY4kBRIhFMn4LjXII7uLfEDqKws rHQIuoeIGGAG2tVkEH/eE8IlOCQEFYF6i8Masf56X3jI899GSw9o0Egd Z7D/3WMpAqe/ACfW1EVZuQP1hpRx9VqgEFl9d59NpT/TmQNmYUh6BIez Rcw=
+xn--d5bx4aj6acbu0ah8f0c0acc1m5bzbh.xn--54b7fta0cc. 10800 IN NSEC xn--d5bxa3bm2b4bf5a9gwacd6o8ae.xn--54b7fta0cc. NS RRSIG NSEC
+xn--d5bx4aj6acbu0ah8f0c0acc1m5bzbh.xn--54b7fta0cc. 10800 IN NS ns1.quantummethod.info.
+xn--d5bx4aj6acbu0ah8f0c0acc1m5bzbh.xn--54b7fta0cc. 10800 IN NS ns2.quantummethod.info.
+xn--d5bxa3bm2b4bf5a9gwacd6o8ae.xn--54b7fta0cc. 10800 IN	RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. XtRhAwFoW/Z6Dmznj5eiU26bYjGTTgGIOtzbTKvx9mrkuMbSyZlMT0LT Ve9Wincxk/I1gXF4XHZNSMFFseS6fM0y9/d2JbwsBmWSMGkImeTzlUH4 0Ux22opQpr1GU72EVqrypzi8QinDkVIWfCi9QgvAG4CFja5/SJ0KXRcv weE=
+xn--d5bxa3bm2b4bf5a9gwacd6o8ae.xn--54b7fta0cc. 10800 IN	NSEC xn--d5by7bap7cc3ici3m.xn--54b7fta0cc. NS RRSIG NSEC
+xn--d5bxa3bm2b4bf5a9gwacd6o8ae.xn--54b7fta0cc. 10800 IN	NS ns1.quantummethod.info.
+xn--d5bxa3bm2b4bf5a9gwacd6o8ae.xn--54b7fta0cc. 10800 IN	NS ns2.quantummethod.info.
+xn--d5by7bap7cc3ici3m.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. R2RE9n0EACsTzwufhvZiVLIq9fnh6eKDj7TvaGii5RpOkAVp65SJZcv0 tDNiTurjqIEPw/zaR9fVviA4x8FcjmDQFFAYeNqAySxQz31wOJEcqXHR 0+lzL7z1rduDei9nv2x+IRk9JPhbNb2vk5GwnRVqBu2X1ppA6wOJLcbd 5aA=
+xn--d5by7bap7cc3ici3m.xn--54b7fta0cc. 10800 IN NSEC xn--d5by8di3f.xn--54b7fta0cc. NS RRSIG NSEC
+xn--d5by7bap7cc3ici3m.xn--54b7fta0cc. 10800 IN NS kobe.ns.cloudflare.com.
+xn--d5by7bap7cc3ici3m.xn--54b7fta0cc. 10800 IN NS maisie.ns.cloudflare.com.
+xn--d5by8di3f.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. LpwUasT1h1JxREHvWeNZJcO9bdGEC5q4GhelDOV7QvYqQ2z/M7cC6ELX qcDA1kXpW8gL+PCuCNsCKwoEt2v1AEXwK+MBxuvi/WBdjmA08IZAtVBA Ejtgvxkg3557sKIdAmDdnXQOeYizOkh5W81gSyCMQ97r5XYfmpYIdv0r jjc=
+xn--d5by8di3f.xn--54b7fta0cc. 10800 IN	NSEC	xn--d5byumaaje2dd8ae1bhs2qsbbbh9nndh8b.xn--54b7fta0cc. NS RRSIG NSEC
+xn--d5by8di3f.xn--54b7fta0cc. 10800 IN	NS	ns1.nothi.org.bd.
+xn--d5by8di3f.xn--54b7fta0cc. 10800 IN	NS	ns2.nothi.org.bd.
+xn--d5byumaaje2dd8ae1bhs2qsbbbh9nndh8b.xn--54b7fta0cc. 10800 IN	RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. M0UFQ+OGJNQqrgPMnXiolVpxaVJ9iykarLiP3EdQ3U1b2EfAGAk+SKKD qXvsBsDhzaGgH3Acm+qDpltX0nSRWm/+5BBbg0cFpJ74ju9t4GZ296hv AHZY60i4cwQ8T9nurYjbqyPk+jIVQvsC+bwYzwB72JBtWgJr/fAP9GI1 g0M=
+xn--d5byumaaje2dd8ae1bhs2qsbbbh9nndh8b.xn--54b7fta0cc. 10800 IN	NSEC xn--d6bai1b4a5f.xn--54b7fta0cc. NS RRSIG NSEC
+xn--d5byumaaje2dd8ae1bhs2qsbbbh9nndh8b.xn--54b7fta0cc. 10800 IN	NS conrad.ns.cloudflare.com.
+xn--d5byumaaje2dd8ae1bhs2qsbbbh9nndh8b.xn--54b7fta0cc. 10800 IN	NS clarissa.ns.cloudflare.com.
+xn--d6bai1b4a5f.xn--54b7fta0cc.	10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. aQMbx3s0GJNFm6EcvkzfaiZwtv/fQxfHS05vEFnmMiSOTZ88i2VFDi07 qb+0wiq7hirDNsgenn9KKQGbQV7KV4ABbQsDv2BxIBgpAyhy0SJf6YeN 5nmD+dXA7w6nC8kzXFO6Aq98P4pplnCj0fAH6x5YQW64VyYXAquX1zrx 8NE=
+xn--d6bai1b4a5f.xn--54b7fta0cc.	10800 IN NSEC	xn--d6bed7ab0a.xn--54b7fta0cc. NS RRSIG NSEC
+xn--d6bai1b4a5f.xn--54b7fta0cc.	10800 IN NS	ns1.a2iservices.gov.bd.
+xn--d6bai1b4a5f.xn--54b7fta0cc.	10800 IN NS	ns2.a2iservices.gov.bd.
+xn--d6bed7ab0a.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. edJ8WxAWEEsD8pR1hJCXZ2N2Q0yPAWzPvV1cJ5Zpg03mcyWZ3yCJDUIr cV82hkZTdpYZpvYsI44TxFAWeLkswAHsV/wRZLoWDOtlb7b9L4xsLUWK KIZZTH0y++8mql/iKVEPySUw5ToQRlFTfao8p98myboRykcMbjv524+0 34w=
+xn--d6bed7ab0a.xn--54b7fta0cc. 10800 IN	NSEC	xn--d6bgxvm.xn--54b7fta0cc. NS RRSIG NSEC
+xn--d6bed7ab0a.xn--54b7fta0cc. 10800 IN	NS	ns1.ipage.com.
+xn--d6bed7ab0a.xn--54b7fta0cc. 10800 IN	NS	ns2.ipage.com.
+xn--d6bgxvm.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. cxe0HEEwHHnvIy7DUq5bkpzO3Vw2sgx4IebVxhGKe/BiiaunbISCGHIX G7jSGsQRcuv+E70SifbU0hmnQdqt8mwkXeMX1IdfW4LmThqXLjQepnRM 4bDGO9K2ZVQMW5rANd/pPMAAhMjD+CEQjImMO7GNnSTBV1ta08JNFzI7 H+U=
+xn--d6bgxvm.xn--54b7fta0cc. 10800 IN	NSEC	xn--d6bh0c.xn--54b7fta0cc. NS RRSIG NSEC
+xn--d6bgxvm.xn--54b7fta0cc. 10800 IN	NS	zita.ns.cloudflare.com.
+xn--d6bgxvm.xn--54b7fta0cc. 10800 IN	NS	miles.ns.cloudflare.com.
+xn--d6bh0c.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. SHzgF1b1WVl3ZubEwPcfgS+ah5UOkZUZW41PcqfK54gZFwzfVxrq7lQy fKP463VmB0evyM2apGAemO1OgHwW4r+8XcYt7OwUTYjCiDaPnahJFEP9 JrUpZBcCbwAYJSp5l05OsILOgxITrIqKXZQKaWHNW18EEFBn4/4761Oc Gvc=
+xn--d6bh0c.xn--54b7fta0cc. 10800 IN	NSEC	xn--d6bxt8a.xn--54b7fta0cc. NS RRSIG NSEC
+xn--d6bh0c.xn--54b7fta0cc. 10800 IN	NS	103.242.20.8.
+xn--d6bh0c.xn--54b7fta0cc. 10800 IN	NS	202.134.12.10.
+xn--d6bh0c.xn--54b7fta0cc. 10800 IN	NS	202.134.12.58.
+xn--d6bxt8a.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. KMxE/9t/HVDbgdJLxgIcSdU3lStATi3YnZJ/0x9lEPjiKw/FxsSOYN+P XJOQh7StSJEbDrEVVxwA4rv01LPDqQqg1cmXuDlPU+CHqnxNuYpso1eI vJZrdtbOY0eU/kcQBExorpHZs2r+d93KNA/jMOqGj9d9pYRg2WcCqj05 R0M=
+xn--d6bxt8a.xn--54b7fta0cc. 10800 IN	NSEC	xn--e6buub.xn--54b7fta0cc. NS RRSIG NSEC
+xn--d6bxt8a.xn--54b7fta0cc. 10800 IN	NS	ns1.a2iservices.gov.bd.
+xn--d6bxt8a.xn--54b7fta0cc. 10800 IN	NS	ns2.a2iservices.gov.bd.
+xn--e6buub.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. CSgOiFqFPx/ykfAno/SIx8daAHfiwUXmVL3UBKCLUYMAnlIw/soB7RPo F6mfsyvU/mCEwYBkYyt8W31D3Fa0+V1CZ3d7xneyTZvkEOWdqO61MDkS HK4KfmtRIyQRd2ZLH+9AGclO2cg7EZXHaHnS73gEetrcFMFfWGRpnt1o +a8=
+xn--e6buub.xn--54b7fta0cc. 10800 IN	NSEC	xn--f6baw6al.xn--54b7fta0cc. NS RRSIG NSEC
+xn--e6buub.xn--54b7fta0cc. 10800 IN	NS	ns1.bcc.gov.bd.
+xn--e6buub.xn--54b7fta0cc. 10800 IN	NS	ns2.bcc.gov.bd.
+xn--f6baw6al.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. XXjRF1ldsubO9pmysxsrju6iVcxas7i+cidf/I4jM6N6LYc8Q4PATo7O 5dQasinwc10hueogBclBYmQ7C4o46iQwiiV6ky3cbdRWn1Mw8q4n7Vn2 A8wWvFZWfIxqNkSSHuv1H0760vuOJmfUpnkWlBap6JJGnhsEsfMjby7I 37o=
+xn--f6baw6al.xn--54b7fta0cc. 10800 IN	NSEC	xn--f6bczs.xn--54b7fta0cc. NS RRSIG NSEC
+xn--f6baw6al.xn--54b7fta0cc. 10800 IN	NS	premium5.webrserver.com.
+xn--f6baw6al.xn--54b7fta0cc. 10800 IN	NS	premium6.webrserver.com.
+xn--f6bczs.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. OqJlzl/YcqNzz+Ln3YV0Vl4V+DNEBhbiPePrRUCQOn8VLsJefg7Tdbmu MA9CR2waXchUx3OJU3A4D4aiV8iH9NqUN8DCd6Uw2v9mr2Sd42TYY+lm eMGDlb/XPZf479+e6+03k3myvYgmnRjkgQ80hHXe32WnCbzr14SAyD3u UN0=
+xn--f6bczs.xn--54b7fta0cc. 10800 IN	NSEC	xn--j5b0dbc3dwbdb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--f6bczs.xn--54b7fta0cc. 10800 IN	NS	dns.btcl.net.bd.
+xn--f6bczs.xn--54b7fta0cc. 10800 IN	NS	slave.btcl.net.bd.
+xn--j5b0dbc3dwbdb.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. anOyY7tRJ2hAKgI88Mx5PwmRKueJxbPhu5MSVkNgQaMhUuagBzTEstR3 zzgEupEvsWbJo+d1zcCZbDAYI3vcE27wXOiXL+8600oVjN97bYKVFVtZ Sjg77hojkrz8OgUH3Cnpu4S7vEpx9CVZpLQ1s1kV3A9nLUS6s+/MRp8X BdA=
+xn--j5b0dbc3dwbdb.xn--54b7fta0cc. 10800	IN NSEC	xn--j5b4craj8cub.xn--54b7fta0cc. NS RRSIG NSEC
+xn--j5b0dbc3dwbdb.xn--54b7fta0cc. 10800	IN NS	ns1.nothi.org.bd.
+xn--j5b0dbc3dwbdb.xn--54b7fta0cc. 10800	IN NS	ns2.nothi.org.bd.
+xn--j5b4craj8cub.xn--54b7fta0cc. 10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. rppYzc9IGlsoAISuO6fIFoyF0WIBLQ4sAOQ+7JVz+R4cKTc/VSg0fL1A GZKyd8HYR4eK8wj+x1KvlCgG7j3ziHi+NlWO+VNN0q/Dxl+YTzDQcCE+ 49HnHU6OWnx74vtAQ3A0Sc3mwgaYjOoI+qZCg0/XjwPpLsJntBQUDSAw o4k=
+xn--j5b4craj8cub.xn--54b7fta0cc. 10800 IN NSEC	xn--j5b5ab0kc.xn--54b7fta0cc. NS RRSIG NSEC
+xn--j5b4craj8cub.xn--54b7fta0cc. 10800 IN NS	ns1.ssbdhosting.com.
+xn--j5b4craj8cub.xn--54b7fta0cc. 10800 IN NS	ns2.ssbdhosting.com.
+xn--j5b5ab0kc.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. a2LLDVguKa/0OzyCZHaj7YG7vKmWRz9P0EiZ79BN5kLXW1FL9K7pWr8f VawWwQVjtEbtCc/KQKvaN014UPBFcqE8vHGehGN+tg5TofnfrS57//Cr hOAdnWFCyv1Q8ICGOxmimbbvgkKzjjN5hNX2p46atlGWGqraPA5FpNZS 4tk=
+xn--j5b5ab0kc.xn--54b7fta0cc. 10800 IN	NSEC	xn--j5b5azb0a2a4bbb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--j5b5ab0kc.xn--54b7fta0cc. 10800 IN	NS	ns1.nothi.org.bd.
+xn--j5b5ab0kc.xn--54b7fta0cc. 10800 IN	NS	ns2.nothi.org.bd.
 xn--j5b5azb0a2a4bbb.xn--54b7fta0cc. 10800 IN TXT "v=spf1 ip4:118.179.92.58 ~all"
 xn--j5b5azb0a2a4bbb.xn--54b7fta0cc. 10800 IN A	123.49.12.155
 xn--j5b5azb0a2a4bbb.xn--54b7fta0cc. 10800 IN MX	10 xn--b5b1fn6f.xn--j5b5azb0a2a4bbb.xn--54b7fta0cc.
@@ -38,11 +742,471 @@ xn--j5b5azb0a2a4bbb.xn--54b7fta0cc. 10800 IN RRSIG MX 8 2 10800 20250925092332 2
 xn--j5b5azb0a2a4bbb.xn--54b7fta0cc. 10800 IN RRSIG A 8 2 10800 20250925092332 20250826083703 15315 xn--54b7fta0cc. cs7doDlbSMp8o4Zg1ubCZVM/PV4ZlS2mDuLWNtgWc006eDRYB7jWELXX 0KKSetU69Gmy7v42SCZs4FWNIiaJ0iqcA4P3uXoQJH9rsVnVABnts5Sb qS+qrOTNp2rZgYBk1/zhWGscybV3/v0866j5c+IzZuUnN2VUiWKl+zcN Tgw=
 xn--j5b5azb0a2a4bbb.xn--54b7fta0cc. 10800 IN RRSIG TXT 8 2 10800 20250925092332 20250826083703 15315 xn--54b7fta0cc. WNw3TPjR/EDSFLCnmuz3DnIoMnIrQuOEVZhaVhvfhGXoanSKJVabuCGf yU227GFDMTxxjoLbcH/HHxGihKQNj6istm5J1Eegsu+yuvYMFC7dwmYD qgHzfSzAbiGz4nZzQDEH7ZAgj1ndO3X4zI358M90j4ABhNBCS7ZfJi/8 24s=
 xn--b5b1fn6f.xn--j5b5azb0a2a4bbb.xn--54b7fta0cc. 10800 IN A 118.179.92.58
-xn--b5b1fn6f.xn--j5b5azb0a2a4bbb.xn--54b7fta0cc. 10800 IN NSEC xn--z5ba8etc5a5m.xn--54b7fta0cc. A RRSIG NSEC
-xn--b5b1fn6f.xn--j5b5azb0a2a4bbb.xn--54b7fta0cc. 10800 IN RRSIG	NSEC 8 3 10800 20251009211422 20250909201422 15315 xn--54b7fta0cc. LEUPBP49xMcQKXchTUB8Maw7qiCITJUq2oCQBMeDXRkWwYZoSCD/ODPP tw7wSmlxdjPaD7mAotCfnTlmGdme+fIcPihWUZmjmV/17r/yeSbQM93H F+B5cxbhDbtri6iFiVUbabz2F+HdWfcb6MKzbHdm14UB+nmgFtudqkEY YoM=
+xn--b5b1fn6f.xn--j5b5azb0a2a4bbb.xn--54b7fta0cc. 10800 IN NSEC xn--j5b5azb9b7abb.xn--54b7fta0cc. A RRSIG NSEC
+xn--b5b1fn6f.xn--j5b5azb0a2a4bbb.xn--54b7fta0cc. 10800 IN RRSIG	NSEC 8 3 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. aKwrnp6GENiMuDqesrSlf6gMPmEtUsfogDuFIJ/M7302Ia5GpxDSZ82I CdUrjAQVJnAqHaySaUmnHvdT4paHLujnMRnm5Q/zaABcBIxis8IfwwLj yON9PQEQeEY2W1RzIkpOtNDNZemc8hb0QxNVyuGK08uscvpGv4aYvQ1Q 2Og=
 xn--b5b1fn6f.xn--j5b5azb0a2a4bbb.xn--54b7fta0cc. 10800 IN RRSIG	A 8 3 10800 20250925080402 20250826080243 15315 xn--54b7fta0cc. YXRZdo+plN+xbjCNpxlbBt1XssP/zB5howHMyTYBvgEYp/aQynem2xeQ HbDOhafAagUIZHtt03QycE8EFZ1d3UY4y7/4c7x1hVX4fMGw9uD8AMkk /TOGgpsD00BEpuepzn8dKUNi/+vrWtquyU7fFkOpizh21x3CIU/Sy4sQ eI4=
+xn--j5b5azb9b7abb.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. M77A//uAg4ZqUsOVUCtgCeMEOCoJGosTWRZ3EX+s8RH+qCRe2QWQODXj inUCtQIbw8WOMM/TKB6wXohSxLdfmwIymz09HMNsbHa2pA/KCndmEDs/ aoy06cDAft+X9zJcGhs6BbKp/5udvYpOdoIGOz15PSJplTtHhxF55ssz CEU=
+xn--j5b5azb9b7abb.xn--54b7fta0cc. 10800	IN NSEC	xn--j5b6a0a6azf.xn--54b7fta0cc. NS RRSIG NSEC
+xn--j5b5azb9b7abb.xn--54b7fta0cc. 10800	IN NS	ns1.aknetbd.com.
+xn--j5b5azb9b7abb.xn--54b7fta0cc. 10800	IN NS	ns2.aknetbd.com.
+xn--j5b6a0a6azf.xn--54b7fta0cc.	10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. RdN4R7RnxP066V/FPfIhWvta6WE0tC9HTpqq7S1jXureJzUN1twSjUqa jJnMHDqCXpcX6fnT5FUEobO92f8iWSrCHLh61l2HcwCnSnnJUUsaB+2B aYWV3xeEoY99O+FYb29DuBPQVAmMQtUaN7Wh6fQ3LP7buSa31BuLaWdJ DUc=
+xn--j5b6a0a6azf.xn--54b7fta0cc.	10800 IN NSEC	xn--j5b6a8bel1do8e.xn--54b7fta0cc. NS RRSIG NSEC
+xn--j5b6a0a6azf.xn--54b7fta0cc.	10800 IN NS	ns1.sudokkho.com.
+xn--j5b6a0a6azf.xn--54b7fta0cc.	10800 IN NS	ns2.sudokkho.com.
+xn--j5b6a8bel1do8e.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. tvTr38wXS7U9DcCDXQiWMCOsGBJ1+/djWr7u+41DDXA48nuTayqm9gFW L67HdbKwaPsGQguuomVilxOO08JoX1wzSsS4kd669ni1BzDvzDq8zfMC iKByG0Z51fgLjBvyweLKEYZGOvyMltO/ZnyIzMg8QLaSQRbPGcPdwilu j1o=
+xn--j5b6a8bel1do8e.xn--54b7fta0cc. 10800 IN NSEC xn--j5b7d0bb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--j5b6a8bel1do8e.xn--54b7fta0cc. 10800 IN NS	202.56.230.5.
+xn--j5b6a8bel1do8e.xn--54b7fta0cc. 10800 IN NS	202.56.230.6.
+xn--j5b7d0bb.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. fNnmvzlTX3NUNi1KTIJDIJTxxhxQiUjxpWiY0xJhSTrEdZq7uePJhApE 4cbp6oZBC4hejeU6LyXDdCpJ4xWCuywAOnmsOSAIdAxqxUO3nGnnva9B 2W7tX11v2Mi8frC+RcSSoQvt5bnKGwkDaAsdCqdIBEC5mKdZWKDznRUF d2Q=
+xn--j5b7d0bb.xn--54b7fta0cc. 10800 IN	NSEC	xn--j5b7d0bj.xn--54b7fta0cc. NS RRSIG NSEC
+xn--j5b7d0bb.xn--54b7fta0cc. 10800 IN	NS	ns1.dns-parking.com.
+xn--j5b7d0bb.xn--54b7fta0cc. 10800 IN	NS	ns2.dns-parking.com.
+xn--j5b7d0bj.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. NPTwWdqBtwFcZ7TTR+hEu6ULKFkw+xo7h8f/5lAov2labsNBBr9oLQEc XgCnS2tVBnZNKdhwDajIe7/o1vQIFkb3CTg6EIicKodfgwhjayfrgDL3 ION4xFtLgiw+oGsLICLPiCezVQTxP1QqwgPTgMn1SdqIsv6cTLI4vAfW TIw=
+xn--j5b7d0bj.xn--54b7fta0cc. 10800 IN	NSEC	xn--j5ba1b9cc4b1b0cbd.xn--54b7fta0cc. NS RRSIG NSEC
+xn--j5b7d0bj.xn--54b7fta0cc. 10800 IN	NS	ns1.dns-parking.com.
+xn--j5b7d0bj.xn--54b7fta0cc. 10800 IN	NS	ns2.dns-parking.com.
+xn--j5ba1b9cc4b1b0cbd.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. BnECMLbC1VwrNYoIXAayN+i0cr6HelA4UxDGarOetOxJZYLpKkyZZmCJ jriPDvdabOe4va9ZG9BEnDnoWG1ZEm50P3od4phhAbSITCL0iIpVL1EP b7unhpCd1ARdBl4VwEy8Pt4XuzSgNinr+UbnKPJ3ROCniKHLwi0JXswK w4A=
+xn--j5ba1b9cc4b1b0cbd.xn--54b7fta0cc. 10800 IN NSEC xn--j5ba4fi5a6ab9cbb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--j5ba1b9cc4b1b0cbd.xn--54b7fta0cc. 10800 IN NS ns1.bangladesh.gov.bd.
+xn--j5ba1b9cc4b1b0cbd.xn--54b7fta0cc. 10800 IN NS ns2.bangladesh.gov.bd.
+xn--j5ba4fi5a6ab9cbb.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. XwcAwSLbioDIwoFyM2sIfz1FaZwm9Yz8a0KMuzQO7HK4AwaflRsvaxKR fIlCA/N4imMN3xEebfJbhoQP0h8dDM9raGqA/c/R4AbHkMSJL8OWgf4d nWd10X4IEmxeoS5eWgXyoz/jTM6pe28ogdI64Q+dldoQPrzRts7zH+V1 iOQ=
+xn--j5ba4fi5a6ab9cbb.xn--54b7fta0cc. 10800 IN NSEC xn--j5ba7cyb8c0b.xn--54b7fta0cc. NS RRSIG NSEC
+xn--j5ba4fi5a6ab9cbb.xn--54b7fta0cc. 10800 IN NS ns1.nothi.org.bd.
+xn--j5ba4fi5a6ab9cbb.xn--54b7fta0cc. 10800 IN NS ns2.nothi.org.bd.
+xn--j5ba7cyb8c0b.xn--54b7fta0cc. 10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. nLfvG2uxoxAHV3htSE/X32VLciKacjLvdTO4Au9B7bjtxqJKW1k5zcUQ b66ORz3al3hKGwUoqvHwOprRNR7yDkofGj7MPZ1dMkYK/CmclFi5p8lO ijRH2CHPBfs819DWwVlKCyL4w6wFjUBDs1caYXwlznLBz50Zg3HRyt8K jM0=
+xn--j5ba7cyb8c0b.xn--54b7fta0cc. 10800 IN NSEC	xn--j5ba9fjv6ac6cbd.xn--54b7fta0cc. NS RRSIG NSEC
+xn--j5ba7cyb8c0b.xn--54b7fta0cc. 10800 IN NS	ns1.arnimit.org.
+xn--j5ba7cyb8c0b.xn--54b7fta0cc. 10800 IN NS	ns2.arnimit.org.
+xn--j5ba9fjv6ac6cbd.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. VDYmKJwVVS7YSp69jIEr4OjBeR1Frb70Mvp75NuJo+qHAnvSLmj7MLpw nedcw3d2+MVi8yezVelB9CbiIzwUOGgsW/1n324M0bL9qteZGC76sOAr eom+iSiHhuh5JEBorFi0ZDrh/G5O80ZliTizWoKWpZ33U6RgfC5zsy7S NM0=
+xn--j5ba9fjv6ac6cbd.xn--54b7fta0cc. 10800 IN NSEC xn--j5baa6e3bd2g5bg.xn--54b7fta0cc. NS RRSIG NSEC
+xn--j5ba9fjv6ac6cbd.xn--54b7fta0cc. 10800 IN NS	ns1.bcc.gov.bd.
+xn--j5ba9fjv6ac6cbd.xn--54b7fta0cc. 10800 IN NS	ns2.bcc.gov.bd.
+xn--j5baa6e3bd2g5bg.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. jATzaZYNvZ/WsogvOdWzEPXclf4Z/d9ebVq+EMSBKg15rbvvdwicISNp yCRYRxaduoYg6nzEsYWzRKydTqJj9ZO3y6pYhptUYLqeq8lz6QsBSNo6 X/DLbGmQS81s6eMio/VI7Ts5swBPWHrJjv5PrmuMqaGcuB8TbZyQK8aR 6S4=
+xn--j5baa6e3bd2g5bg.xn--54b7fta0cc. 10800 IN NSEC xn--j5bhf4b4bxbe1f4auc4m4a.xn--54b7fta0cc. NS RRSIG NSEC
+xn--j5baa6e3bd2g5bg.xn--54b7fta0cc. 10800 IN NS	ns1.bluehost.com.
+xn--j5baa6e3bd2g5bg.xn--54b7fta0cc. 10800 IN NS	ns2.bluehost.com.
+xn--j5bhf4b4bxbe1f4auc4m4a.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. jMbPOB/CrT+eeMLCow4bIwRTWchVCpCA6y/1mBBicZlB3oUlaFW4DDim vNLvP8D2ZisdR28olcFDlNnVkT/KrxHfa1aJD40yhUQDQndlhWQcgh7b Mz8od6bsiv3FU2BbokD3kXvxTLZxwnk4AhbK/H8GsvBPaFPzVhSSoFI5 lxw=
+xn--j5bhf4b4bxbe1f4auc4m4a.xn--54b7fta0cc. 10800 IN NSEC xn--j5bi6di9h.xn--54b7fta0cc. NS RRSIG NSEC
+xn--j5bhf4b4bxbe1f4auc4m4a.xn--54b7fta0cc. 10800 IN NS ns1.quantummethod.info.
+xn--j5bhf4b4bxbe1f4auc4m4a.xn--54b7fta0cc. 10800 IN NS ns2.quantummethod.info.
+xn--j5bi6di9h.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. nKVzoEH1dhq712TDS+gbQ4QhQiCIg/otp1X8J04wMCu1GZ86esUG6bNg 9utIRTZl3DpaKNkBf9KePlkEafFf5MWgkhZA+IvXcMh11sTkOzLXQaxE HK/ObT4IuYfqUMZNz59+SrVjEYeRGeQBnakfSE6AZHdxW0LnyU6EIXqP NPE=
+xn--j5bi6di9h.xn--54b7fta0cc. 10800 IN	NSEC	xn--j5bl3a3cqfr0cycgg6nb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--j5bi6di9h.xn--54b7fta0cc. 10800 IN	NS	ns1.bangladesh.gov.bd.
+xn--j5bi6di9h.xn--54b7fta0cc. 10800 IN	NS	ns2.bangladesh.gov.bd.
+xn--j5bl3a3cqfr0cycgg6nb.xn--54b7fta0cc. 10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. H+VBpbuXuMmd9H/cYxAOn8fUbx4NkpVQHzUHLZ8OWv7f5pQP4mMTG35F 169lOG6lUULDufUSrE8tZr457iylrA/LT9Bsp4nLlDeZmEjv6WFxlOw0 Dec6UhagYOZw6CesSrkd3WQbRCqkESI0a7ll4P5WFw4aKMXKbf5HF+WJ mRQ=
+xn--j5bl3a3cqfr0cycgg6nb.xn--54b7fta0cc. 10800 IN NSEC xn--j5blvu0g8a9bbb8e.xn--54b7fta0cc. NS RRSIG NSEC
+xn--j5bl3a3cqfr0cycgg6nb.xn--54b7fta0cc. 10800 IN NS ns1.aknetbd.com.
+xn--j5bl3a3cqfr0cycgg6nb.xn--54b7fta0cc. 10800 IN NS ns2.aknetbd.com.
+xn--j5blvu0g8a9bbb8e.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. LB4vlbN0GZbfwY0xHmgqI2LS6mrQ3t5AU+SkFMiXOvZ0xMT3XpUYuu8n nMlSHxiZZSh/CAoLq2S36DPr1Oo/5OMmMDccFIUJw6Hlc2ErF6WEPCyL EHvl081Jc5SbyTBZloLNFwp2yfp+TuQIqXABsCMA++el52z98Y6mFOgN 94o=
+xn--j5blvu0g8a9bbb8e.xn--54b7fta0cc. 10800 IN NSEC xn--j5bm0b1auw1ib.xn--54b7fta0cc. NS RRSIG NSEC
+xn--j5blvu0g8a9bbb8e.xn--54b7fta0cc. 10800 IN NS ns1.bangladesh.gov.bd.
+xn--j5blvu0g8a9bbb8e.xn--54b7fta0cc. 10800 IN NS ns2.bangladesh.gov.bd.
+xn--j5bm0b1auw1ib.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. DRnepG+8GTko/6d+l/7SxrrkOQw9BWigBlTde7Pqc/eHeNByi8MljVQ4 GPYI1Y9bDQc5W5Lmmy4Fl0Bhl949ZGe3gFQq2EW4XPCg+k5XbdllrItr eP0ZbGFxtJa0cMb+nVu6ZTPj2ecIh/ePrQx6Vt1HTQF9xgfEMyHer8E/ 9k8=
+xn--j5bm0b1auw1ib.xn--54b7fta0cc. 10800	IN NSEC	xn--j5bm4aybjm1aq0iiz6j.xn--54b7fta0cc. NS RRSIG NSEC
+xn--j5bm0b1auw1ib.xn--54b7fta0cc. 10800	IN NS	ns1.aknetbd.com.
+xn--j5bm0b1auw1ib.xn--54b7fta0cc. 10800	IN NS	ns2.aknetbd.com.
+xn--j5bm4aybjm1aq0iiz6j.xn--54b7fta0cc.	10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. cT+mJ8ljMlLSOG4M6UflRJ4J+bGns3Qi8uEgvcb+2n5ybrRNmnVh+UNq UFmHLK9wZjg3GzJwFJAoNgDnA2rOc2yOoOv9BetznygQ4BoE3lCUWD45 czk3QFzjlq5oLuMWNSbK96J8BZYyM8tamHdux+FE/OFf8pvrDUB0B0DF ItI=
+xn--j5bm4aybjm1aq0iiz6j.xn--54b7fta0cc.	10800 IN NSEC xn--j5bm7dfaydk2dc6fj3fh2fic.xn--54b7fta0cc. NS RRSIG NSEC
+xn--j5bm4aybjm1aq0iiz6j.xn--54b7fta0cc.	10800 IN NS ns1.digitalocean.com.
+xn--j5bm4aybjm1aq0iiz6j.xn--54b7fta0cc.	10800 IN NS ns2.digitalocean.com.
+xn--j5bm7dfaydk2dc6fj3fh2fic.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. IRJ5ZaYbGsTnldqrSYPnWKBfOKNJNRQh1a32sqnB8WCqSl4GBAQTBGk2 ODdi2mXNUWku1edV6zbHjYACW1g0GCY3wHSuWZ2x/OQmMrxBqGBMAxIo QkZt9aMhEY5pZaYdQQ/l6PI0YWYmSFP8CkorclUXC/Er+FulOdsk8s09 Brc=
+xn--j5bm7dfaydk2dc6fj3fh2fic.xn--54b7fta0cc. 10800 IN NSEC xn--j5bmt7dq8bzbvx5d.xn--54b7fta0cc. NS RRSIG NSEC
+xn--j5bm7dfaydk2dc6fj3fh2fic.xn--54b7fta0cc. 10800 IN NS ns1.domain-is-4-sale-at-domainmarket.com.
+xn--j5bm7dfaydk2dc6fj3fh2fic.xn--54b7fta0cc. 10800 IN NS ns2.domainmarket.com.
+xn--j5bmt7dq8bzbvx5d.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. hMjmVpyVnTkOvPFbL8aAMhH+H4WE0whcBfIEZy+rI0/bfOTb/SSlQ7y4 TTLgHWc2dM8Jk0U0Exs95OFUbx5r/CNWATgugra2nn5Pp5W/PvGAp2da oXdn8T/iQr91VY6l2X1KiMZot8rJPKzTDTyUFbAtNPH0RMWKfIh3E/L2 zRI=
+xn--j5bmt7dq8bzbvx5d.xn--54b7fta0cc. 10800 IN NSEC xn--j5bqy8a8a3b4bqg9f.xn--54b7fta0cc. NS RRSIG NSEC
+xn--j5bmt7dq8bzbvx5d.xn--54b7fta0cc. 10800 IN NS ns1.mysecurecloudhost.com.
+xn--j5bmt7dq8bzbvx5d.xn--54b7fta0cc. 10800 IN NS ns2.mysecurecloudhost.com.
+xn--j5bqy8a8a3b4bqg9f.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. O8VoGO7IZC4kabCj0K/9DIqkGCnduL28pdnWpX3lbsEprqOKv64Whlnl TKp314I5gmiO0f0Lq8GDbjBPr7xPqmL9vmmhPwIKG/RWxcJBrTwrKYuY IPY+BosXplwVzXDNcXPq7AHUTo54XdTDbLcu9upIIKoBcIhsYIF35nFB +ag=
+xn--j5bqy8a8a3b4bqg9f.xn--54b7fta0cc. 10800 IN NSEC xn--j5bz4b8a2a4bbb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--j5bqy8a8a3b4bqg9f.xn--54b7fta0cc. 10800 IN NS ns1.aknetbd.com.
+xn--j5bqy8a8a3b4bqg9f.xn--54b7fta0cc. 10800 IN NS ns2.aknetbd.com.
+xn--j5bz4b8a2a4bbb.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. kvt5lCYpl5copul5R/nbCLHYD7qmquYv9+M0CT8FloMAhcp6qHrhK7Tv kZPwZ7NMnWwdcuHG6eF9pk4GXeIghlCxdUTaOLIpI18Hj+0LeZaNJGXa jBl/ie3UBVLwf0o4uKACVUfoA0vGRHofDdJmtgWPcBvuOwZ67MgVKhW1 Trk=
+xn--j5bz4b8a2a4bbb.xn--54b7fta0cc. 10800 IN NSEC xn--k5b2bcyyce4e9bwe0cf.xn--54b7fta0cc. NS RRSIG NSEC
+xn--j5bz4b8a2a4bbb.xn--54b7fta0cc. 10800 IN NS	ns1.bcc.gov.bd.
+xn--j5bz4b8a2a4bbb.xn--54b7fta0cc. 10800 IN NS	ns2.bcc.gov.bd.
+xn--k5b2bcyyce4e9bwe0cf.xn--54b7fta0cc.	10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. DMrzTPTgohiXUizLU87FZ9Y8HmhKp2/oIUvV7w3GChfvZmukb5HQBP/y tgeJIQeQB/dV18i4Xqe7u+YdT7a0lYK8oM8ZFsgjHoaVB82l2KEQhSQT Qm8KYUYXLpyID34Eyj5NTVVEkHzJrZ3dVRssySzs53LhgrYEWZ7yBbbN 6Ww=
+xn--k5b2bcyyce4e9bwe0cf.xn--54b7fta0cc.	10800 IN NSEC xn--n5b0booh0dxbef6i0a.xn--54b7fta0cc. NS RRSIG NSEC
+xn--k5b2bcyyce4e9bwe0cf.xn--54b7fta0cc.	10800 IN NS matt.ns.cloudflare.com.
+xn--k5b2bcyyce4e9bwe0cf.xn--54b7fta0cc.	10800 IN NS hazel.ns.cloudflare.com.
+xn--n5b0booh0dxbef6i0a.xn--54b7fta0cc. 10800 IN	RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. KPpiU2xpV6gt2vwNJccRqLdZj13gmGXdrnUJ2Tc6wzCTR55BFEvASOHa 0scuAQKq4j/OKl4DPetxzsTBP2upRkBNIG/zOLm8c0zxNDZOdqB6MZ1N rsE+CUpsq6TyHefBT5Z4coQy6KrlV+nnkxMxJQ6uaMii3VrTjIX+1Xsq dEU=
+xn--n5b0booh0dxbef6i0a.xn--54b7fta0cc. 10800 IN	NSEC xn--n5bh5a0a0bddq2guar8mib.xn--54b7fta0cc. NS RRSIG NSEC
+xn--n5b0booh0dxbef6i0a.xn--54b7fta0cc. 10800 IN	NS ns1.mysecurecloudhost.com.
+xn--n5b0booh0dxbef6i0a.xn--54b7fta0cc. 10800 IN	NS ns2.mysecurecloudhost.com.
+xn--n5b0booh0dxbef6i0a.xn--54b7fta0cc. 10800 IN	NS ns3.mysecurecloudhost.com.
+xn--n5bh5a0a0bddq2guar8mib.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. rSP5nV5LN7/ubNGQO0txxpwJ6ie8A6C1PVTDtGecFn1qj8itHTIVCLs3 q4POaUpQye4u1eLZp+aEjWE+6nJ6CaxH4bRBHXrkUhPkOD82THAh/U/o qKc204yFG0DBUl6FFWEZVeFd7dWdg/FEIJvsH6cTY9m1sIOg+RcRJCzt 2FM=
+xn--n5bh5a0a0bddq2guar8mib.xn--54b7fta0cc. 10800 IN NSEC xn--n5bi4cb1a3d1bl.xn--54b7fta0cc. NS RRSIG NSEC
+xn--n5bh5a0a0bddq2guar8mib.xn--54b7fta0cc. 10800 IN NS dns.btcl.net.bd.
+xn--n5bh5a0a0bddq2guar8mib.xn--54b7fta0cc. 10800 IN NS slave.btcl.net.bd.
+xn--n5bi4cb1a3d1bl.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. cnhboLa0hNxfc/4eoYkqr2XTtT4KyYMinFXtGzknbuCresbqJ/mQ60he Dsl7ObZDD+IHnLAPhVJejP5RsK6rqO4yw/IxAVGbPSuTpf20AWtbb+ej 5UlC6u/j27wSxcWr3j7IRD3Z/F1TNmPhPUE5pm1VBpn/ucGzLV2oDKfi nwY=
+xn--n5bi4cb1a3d1bl.xn--54b7fta0cc. 10800 IN NSEC xn--n5bi8b0bwb0b.xn--54b7fta0cc. NS RRSIG NSEC
+xn--n5bi4cb1a3d1bl.xn--54b7fta0cc. 10800 IN NS	dns.btcl.net.bd.
+xn--n5bi4cb1a3d1bl.xn--54b7fta0cc. 10800 IN NS	slave.btcl.net.bd.
+xn--n5bi8b0bwb0b.xn--54b7fta0cc. 10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. jOCfh82h+6W42MzUjJNJ6eS+TOFc9Yjt2hTSnl1oIh1BFMG9nCZk+7zk z+YuryphScxsHpfxDJm4mkh94mcrZLDsXbmsW2fKM4sYB7mlLaxjP/OQ ETY7VniwDuFhKck4alr5mHOZd6tKdtE62ypip/dA127koRQhRfdwtYrh z7w=
+xn--n5bi8b0bwb0b.xn--54b7fta0cc. 10800 IN NSEC	xn--n5by1a0ap3do.xn--54b7fta0cc. NS RRSIG NSEC
+xn--n5bi8b0bwb0b.xn--54b7fta0cc. 10800 IN NS	ns1.kawsargroup.com.
+xn--n5bi8b0bwb0b.xn--54b7fta0cc. 10800 IN NS	ns2.kawsargroup.com.
+xn--n5by1a0ap3do.xn--54b7fta0cc. 10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. ueCIHaVlle+6mESs1S6g2wITSp4n90mBusA7ISvgq2iDTmQzg4ANIx3w 9r1UOfWKcUX2pHd+jalDt2Uf2q4zvWjexR5XJDtsSrknNhHJvFDP7V0h M7LjjV91zpEkSSv+ePTjY+eUJChKo8BSDvrMWKEzxYGv7rGt+H+1Z+7A YXI=
+xn--n5by1a0ap3do.xn--54b7fta0cc. 10800 IN NSEC	xn--p5b1bfsr6e5e.xn--54b7fta0cc. NS RRSIG NSEC
+xn--n5by1a0ap3do.xn--54b7fta0cc. 10800 IN NS	ns1.mail6bd.net.
+xn--n5by1a0ap3do.xn--54b7fta0cc. 10800 IN NS	ns2.mail6bd.net.
+xn--p5b1bfsr6e5e.xn--54b7fta0cc. 10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. psqMgIsZGVJNYo53g4qd3HORFwREh1FyXi4icy84WHRyJsKs030+Tuj+ BDWp9iAwrwl6L+sbW9DFegKQrLXdmCV0lD78ArrnpVFGhitwC5HKzTJv XBHJEV0a6w1tsFVsW499XLrzw8OL3vWwjiQZH1BKPK5N+gzfhQ+NaKld TIQ=
+xn--p5b1bfsr6e5e.xn--54b7fta0cc. 10800 IN NSEC	xn--p5b2ba7ca3cer.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5b1bfsr6e5e.xn--54b7fta0cc. 10800 IN NS	ns1.a2iservices.gov.bd.
+xn--p5b1bfsr6e5e.xn--54b7fta0cc. 10800 IN NS	ns2.a2iservices.gov.bd.
+xn--p5b2ba7ca3cer.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. h001jyImQZNXBTzflerxH+BkR/T/ccRap/aHw6ZiKE+Iz52eYZKLXBsZ SqTjcWPuB2fv/hp/6LA/wNkdbGQ58ueLni38XWGn/HKAG/yEEhg161Fn rud5Pt/p7X8XxK9BumAd7GY5sZ2z41sCVFZKVEJ6stWD2TV76db4ihz0 sNQ=
+xn--p5b2ba7ca3cer.xn--54b7fta0cc. 10800	IN NSEC	xn--p5b2bm1bdd3cff9k.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5b2ba7ca3cer.xn--54b7fta0cc. 10800	IN NS	ns1.quantummethod.info.
+xn--p5b2ba7ca3cer.xn--54b7fta0cc. 10800	IN NS	ns2.quantummethod.info.
+xn--p5b2bm1bdd3cff9k.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. XcWjS6/fkqYterGkFzzhM4M+61DdnYfX04/IhuhefR35jUsuFUdoboDo qPbM/qcEE7CRjgKxzaW+v3rKVQxPZMA5jxyU3gShR8H5fZPeLz/5JN9M A0QT7/o91QL6Fwu27FlBci3LFN2MxZsnmlEZR6VCH0kEwM7BR7ZFPzwn bO4=
+xn--p5b2bm1bdd3cff9k.xn--54b7fta0cc. 10800 IN NSEC xn--p5b2bm1bgi3bff9k.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5b2bm1bdd3cff9k.xn--54b7fta0cc. 10800 IN NS ns1.bcc.gov.bd.
+xn--p5b2bm1bdd3cff9k.xn--54b7fta0cc. 10800 IN NS ns2.bcc.gov.bd.
+xn--p5b2bm1bgi3bff9k.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. Q4OFkrx+n4iUAw2upbv7hIyvTjnmV2xcgFOC8o+5QzCXq3ehfPwyaQyY J6d+NTo7U/kOb9Qya2G5POtQu+zZIjQbhlc1blY0qAlQsUjQGHqo0XVv rudCoxm2202ubiWRN3/fWlTkLDQWBR5RxjHp8Un964QuWbTCDlRLMQQF Dqw=
+xn--p5b2bm1bgi3bff9k.xn--54b7fta0cc. 10800 IN NSEC xn--p5b2bqf8aqymbb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5b2bm1bgi3bff9k.xn--54b7fta0cc. 10800 IN NS ns1.bcc.gov.bd.
+xn--p5b2bm1bgi3bff9k.xn--54b7fta0cc. 10800 IN NS ns2.bcc.gov.bd.
+xn--p5b2bqf8aqymbb.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. sO38R3OM/V8H9axwIeWEJYEZxDzWgXhcqQC7oVwh7+vzut0Gep2TR5bq LUy5fo6fm7Ldf+0jMSark1DtYC4+3mCCPwnyNkAf8GXzht/3VS4E6QFy ClKjdrrN/9GjX5bhGZOKazLdh0SgB5A3AY/2DaMx4ktJHyo//ZOz/xxK YpE=
+xn--p5b2bqf8aqymbb.xn--54b7fta0cc. 10800 IN NSEC xn--p5b2bul5due.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5b2bqf8aqymbb.xn--54b7fta0cc. 10800 IN NS	ns1.quantummethod.info.
+xn--p5b2bqf8aqymbb.xn--54b7fta0cc. 10800 IN NS	ns2.quantummethod.info.
+xn--p5b2bul5due.xn--54b7fta0cc.	10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. BawL2afAjjEhNKnMMIFDiuYChY+b7JUI22OvchvmmAK17UdQDouiSChi CcoAsiIMGzhFM96tTc+YWEY3BtXHCEK7f60pk6ZIWOZ5IGrJLfvCubu/ ifE6ArSvxUWBGzQt5N4fdBqFvuPAq/yUtTFq8z29zeVs7/45rrlIvg04 0Dc=
+xn--p5b2bul5due.xn--54b7fta0cc.	10800 IN NSEC	xn--p5b2dqc7a8e.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5b2bul5due.xn--54b7fta0cc.	10800 IN NS	ns1.bcc.gov.bd.
+xn--p5b2bul5due.xn--54b7fta0cc.	10800 IN NS	ns2.bcc.gov.bd.
+xn--p5b2dqc7a8e.xn--54b7fta0cc.	10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. DnxzFTMW1m78yRKSR3cDJI6L104hCMf8GiGeV3Oop0SoVKrx+VTHl7P5 ChIvnMfi9GsvfscbJLmKJdsxPkGzPPM355CRjpyhRFSQs1+ikxsztUlZ J8zVgwPPGcKAPqnaUxmw5Nj/+A0MZwLA9akrR4ZPno5C0kMVJrsYdB8d XZ0=
+xn--p5b2dqc7a8e.xn--54b7fta0cc.	10800 IN NSEC	xn--p5b3a6af2ei0h.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5b2dqc7a8e.xn--54b7fta0cc.	10800 IN NS	ns1.bcc.gov.bd.
+xn--p5b2dqc7a8e.xn--54b7fta0cc.	10800 IN NS	ns2.bcc.gov.bd.
+xn--p5b3a6af2ei0h.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. Hw7xuaXhzVWiL00X7rbUOP6IFUQEXI6a9SpQcseIsWXLdWvfnEKRRjbk OGQPUbp4SmR4g9ut0jrwxGXILJHVisLLtoHrrJVqoRcXcrYJpoHMCUIO cfsF4FNGKEbbj8it7+W6B9TZx0qysafHldRCNxIVUJ7g8sWNdMRhTfN/ jok=
+xn--p5b3a6af2ei0h.xn--54b7fta0cc. 10800	IN NSEC	xn--p5b3aa3bjc0hge7kf.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5b3a6af2ei0h.xn--54b7fta0cc. 10800	IN NS	ns1.dns-parking.com.
+xn--p5b3a6af2ei0h.xn--54b7fta0cc. 10800	IN NS	ns2.dns-parking.com.
+xn--p5b3aa3bjc0hge7kf.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. URpF4LNUALW+EwPPAdkn2S/oku1DKavLLhnA3AAUGvSSXq4LaZfRChCw 5Yl9jGyuhMoxkZMx499Em+Da6i4ac5NdiicGTQE1WxjSh9aFAhfuer88 vXfrNZ32fx6k87rqE22NPpr3Rt1shom9TnSLm/t9pt2022hmx8/cSMWg peo=
+xn--p5b3aa3bjc0hge7kf.xn--54b7fta0cc. 10800 IN NSEC xn--p5b3cnv6a.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5b3aa3bjc0hge7kf.xn--54b7fta0cc. 10800 IN NS dns.btcl.net.bd.
+xn--p5b3aa3bjc0hge7kf.xn--54b7fta0cc. 10800 IN NS slave.btcl.net.bd.
+xn--p5b3cnv6a.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. Z0PfPiQ+DeCJpQ9Sb3Ea4z95H9Vcqb3LFjA7p6xWWEmujpLJomNQXelA vGEDdIzjyOBSo94dgIDVN8Nrhedp34hO4EyOIaaGzDJK4p8gG0HGzm// mkUP8WU4w+E8AIRImPFAS/rozxbfWogQPzfuxYG0G3gFL7W/hDslypei Ebk=
+xn--p5b3cnv6a.xn--54b7fta0cc. 10800 IN	NSEC	xn--p5b4ae3esb1f.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5b3cnv6a.xn--54b7fta0cc. 10800 IN	NS	ns.sourcedns.com.
+xn--p5b3cnv6a.xn--54b7fta0cc. 10800 IN	NS	ns1.sourcedns.com.
+xn--p5b4ae3esb1f.xn--54b7fta0cc. 10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. XiwKPzCHGrf7TRrHjL2z2mlL9L8NlHSUg8pmOH3nS3NsJHYgcXz0+IHk xZ+K1Ko7dVvjEBou2Qvh6eXEV0Jlp73+ZxspMlELo73La7fGqaXE8ZtD qE7B03hiraXLcPww9I9kU5Fls0PgMjejxyMisO1HAYNEKe1cVArl/jV9 Brg=
+xn--p5b4ae3esb1f.xn--54b7fta0cc. 10800 IN NSEC	xn--p5b4agi0b1fwe.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5b4ae3esb1f.xn--54b7fta0cc. 10800 IN NS	ns1.bcc.gov.bd.
+xn--p5b4ae3esb1f.xn--54b7fta0cc. 10800 IN NS	ns2.bcc.gov.bd.
+xn--p5b4agi0b1fwe.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. C0kh+wsZucvUvggP5v61EtM1NKB3geV3YNK9cT4LviWrkMjvY46dqfTG FmSziy5icypjw4Prcx89zC8LzdCn7dLuoasOE+8HgkdgonJlEw1DrvtB FAcN4/2c4mckpUfZdFXoLb5U5nzNi2KaYDWAHs9UmE3s1lLdmRnjKn9B 4Ng=
+xn--p5b4agi0b1fwe.xn--54b7fta0cc. 10800	IN NSEC	xn--p5b4aque7gl7ge.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5b4agi0b1fwe.xn--54b7fta0cc. 10800	IN NS	ns1.quantummethod.info.
+xn--p5b4agi0b1fwe.xn--54b7fta0cc. 10800	IN NS	ns1.quantumfoundation.info.
+xn--p5b4aque7gl7ge.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. i2QYa844ldQAViLobGMY0a4kURs2bXGwX77EyCs1/r8scwPoCvCxTVGD Ps4qlgG78q07nHKC9mgSKHMtMIw50WnITzYOnWXT85oiQZB399H1vCEh Y2hzJn1I3ryyJkNDS+XH+U6NR104QbTtyPzDnA+aVpqR7+Em4cAYqDMD WMg=
+xn--p5b4aque7gl7ge.xn--54b7fta0cc. 10800 IN NSEC xn--p5b4cec3eh.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5b4aque7gl7ge.xn--54b7fta0cc. 10800 IN NS	ns1.bcc.gov.bd.
+xn--p5b4aque7gl7ge.xn--54b7fta0cc. 10800 IN NS	ns2.bcc.gov.bd.
+xn--p5b4cec3eh.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. LjBgUPIrdIKGI/OYU3r4f0t/dGhjkkXUD7UrvasgeIwvSIty3ddV0FvB uI2Hkdg2TQAev2RtpNFeVIitt1tjrY7WNU+ppnC8Ekj6pprFkHoLyice LfZkXnhdPI/kr+K/XoVzHtP+z9xh04mwdIZuMAdSv643dFlqecACDDAF NHM=
+xn--p5b4cec3eh.xn--54b7fta0cc. 10800 IN	NSEC	xn--p5b5bahmicb4c3ede4h3d.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5b4cec3eh.xn--54b7fta0cc. 10800 IN	NS	tim.ns.cloudflare.com.
+xn--p5b4cec3eh.xn--54b7fta0cc. 10800 IN	NS	rita.ns.cloudflare.com.
+xn--p5b5bahmicb4c3ede4h3d.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. BL+u6EbrwoqVh+VSHSjIaM9oCjY0+nOZZvcPlgj4XIfze5UepJ5XKeJB dlfMD4FDNoNPWV6u8J8OEteOQf7dttD+TQ9ZK46DewKkVVwCqC3u8DKv 1dq7OVc8YTmmuLW3Z6fudclrTfVqKQ/67kDcjyAjogGn5lfCS5RKFbpy +W4=
+xn--p5b5bahmicb4c3ede4h3d.xn--54b7fta0cc. 10800	IN NSEC	xn--p5b5bf5byb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5b5bahmicb4c3ede4h3d.xn--54b7fta0cc. 10800	IN NS ns3.rootserver.pw.
+xn--p5b5bahmicb4c3ede4h3d.xn--54b7fta0cc. 10800	IN NS ns4.rootserver.pw.
+xn--p5b5bf5byb.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. F3/hfDXeWDkHx9vju7ch3J+f6Ytz/vD2M2SOjo5Z/vewbCuggKpjRRoc VoaQEiIfyIqfJdrSh7P/eNu0tguD+8oV79LxxwxLF29EnNfX48gxdqw+ lsuFn+Vh+lWJ+UEbYKJY97ixZNhG4FQEJAazYIoxIweO/umAzAQab1N5 Nos=
+xn--p5b5bf5byb.xn--54b7fta0cc. 10800 IN	NSEC	xn--p5b5bh5edp.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5b5bf5byb.xn--54b7fta0cc. 10800 IN	NS	ns1.nothi.org.bd.
+xn--p5b5bf5byb.xn--54b7fta0cc. 10800 IN	NS	ns2.nothi.org.bd.
+xn--p5b5bh5edp.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. AxPfS4BXpGhDNHxVaoJTM8F+Hoo4bPc1z1XzIDFvAkBIQnN1JIBbsTtI zdZGmId03zO0JEmWZkbMUqCMB1oydqK5roOTZmELOKYOJPd5xMqvQ6ge 1TFl8/zyJ9Nn/2X7wJY0svHBOvm/lZWlESuxTvg9vWHEzM2n/TgKd5dv Brk=
+xn--p5b5bh5edp.xn--54b7fta0cc. 10800 IN	NSEC	xn--p5b7ah1a6b1akbb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5b5bh5edp.xn--54b7fta0cc. 10800 IN	NS	dns.btcl.net.bd.
+xn--p5b5bh5edp.xn--54b7fta0cc. 10800 IN	NS	slave.btcl.net.bd.
+xn--p5b7ah1a6b1akbb.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. sjFtgDRtOtte3/eLoZo2nllIeagtJzoJlL/DgbRZSqCx8mkP4uMH5v2E RCt4zLgyzTFr0PgCcRekVXjQGi6sHGprcfLY2apfPeEOvpFJlnIVxAhI U46pvZi16p2h+PDwn0+d3BGGGCygdT4CQxpQN5QAtwcmUWa6ITfZU7cD Gdw=
+xn--p5b7ah1a6b1akbb.xn--54b7fta0cc. 10800 IN NSEC xn--p5b7cb3a6a.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5b7ah1a6b1akbb.xn--54b7fta0cc. 10800 IN NS	ns1.quantummethod.info.
+xn--p5b7ah1a6b1akbb.xn--54b7fta0cc. 10800 IN NS	ns2.quantummethod.info.
+xn--p5b7cb3a6a.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. OZR1QX7lmSalfCsMOFbTGo0O68nfi/upLvmMmXpbae9oqCKan15EZM62 AyURV6L1Glfjfh9a0FxqWsF8+ACWD/21iz/R3/h7ObDWwetpUYB3koeT r/3v+MctlZaqaSmPAD9OuE8qLukv7Nt12UVTYVfI+1mE6VkUDFoHEat8 CU4=
+xn--p5b7cb3a6a.xn--54b7fta0cc. 10800 IN	NSEC	xn--p5b9b5a5ad.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5b7cb3a6a.xn--54b7fta0cc. 10800 IN	NS	ns1.a2iservices.gov.bd.
+xn--p5b7cb3a6a.xn--54b7fta0cc. 10800 IN	NS	ns2.a2iservices.gov.bd.
+xn--p5b9b5a5ad.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. Hk3uQD25I65Ho2rYuK9H2hnNN/n0Z6jSELvJPs+oY3bAEe9r7AmqWdwy rqpdI0c8+BxpLUOYbC5lJly4ykJrCBkzgRHV243dUy/CKmPbe05DkjBt CUdWQeg+kcWItXwVpXkRBpEogMUCOqPd7sTEhoSv0QrtUvp51CKwmxiC q2w=
+xn--p5b9b5a5ad.xn--54b7fta0cc. 10800 IN	NSEC	xn--p5ba1ej3c1b1cwbn.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5b9b5a5ad.xn--54b7fta0cc. 10800 IN	NS	dns7.eyhost.biz.
+xn--p5b9b5a5ad.xn--54b7fta0cc. 10800 IN	NS	dns8.eyhost.biz.
+xn--p5ba1ej3c1b1cwbn.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. mzhD5bgGH2rPNfdznPH3jUKlueitVi85JQjukeLiTQ12DlCbpsX7vYKo 70CgDgNx6qwnb3BoA0ECXcegr3on0f9FDir486ppKe+gKxk0vNFohItD eKcgX3/U2aBTsunI4MQu9Lg/20oBFyvcRC6NzkiJ47BpsWFTaCFyz0Vz 248=
+xn--p5ba1ej3c1b1cwbn.xn--54b7fta0cc. 10800 IN NSEC xn--p5ba2a3cndg7if5lb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5ba1ej3c1b1cwbn.xn--54b7fta0cc. 10800 IN NS ns1.bol-online.com.
+xn--p5ba1ej3c1b1cwbn.xn--54b7fta0cc. 10800 IN NS ns2.bol-online.com.
+xn--p5ba2a3cndg7if5lb.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. D2oAw72oLi2aR7zm/0+iW4iabZD+zUqsmeKmHdiNOKMg+ACQUTjkGrmJ /M/P0MsmHkYNk7OWlotoc/Z8A/Fuw4PC3c8m3xbzw4qOQYvm4nkwgejA kt0ZHP0yT1cTtoW6HMnDIUZ3yfv7harQDhtK+Og9vuufQ1lEPjxNOFlz gNk=
+xn--p5ba2a3cndg7if5lb.xn--54b7fta0cc. 10800 IN NSEC xn--p5ba3a9a8a4eo8e4ay.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5ba2a3cndg7if5lb.xn--54b7fta0cc. 10800 IN NS ns1.aknetbd.com.
+xn--p5ba2a3cndg7if5lb.xn--54b7fta0cc. 10800 IN NS ns2.aknetbd.com.
+xn--p5ba3a9a8a4eo8e4ay.xn--54b7fta0cc. 10800 IN	RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. ABoDKjzN/HU8l3MXHF67l44tI/YiaBvG6JUWkJ11UCaajl4SilDGJrue MmWW2zJ2hUXjGvYhEktXE6tI/aeY2zkmFl70auiIaKQNhjYRi147FSBh BAti3VsRbS3G0SnaZIP5cecxG0t/ycFdyzQEOW2hw/bCA1zCEvBR1xB9 vik=
+xn--p5ba3a9a8a4eo8e4ay.xn--54b7fta0cc. 10800 IN	NSEC xn--p5ba3ab6b6afbeq9fd7b2acftb5ska9ak.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5ba3a9a8a4eo8e4ay.xn--54b7fta0cc. 10800 IN	NS ns1.quantummethod.info.
+xn--p5ba3a9a8a4eo8e4ay.xn--54b7fta0cc. 10800 IN	NS ns2.quantummethod.info.
+xn--p5ba3ab6b6afbeq9fd7b2acftb5ska9ak.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. QULaxGkSjiCr4q1A3Vds5hGJjfsTfJiiSfKPoqfb/JHDqrcvafbZDXdT baOotlUFI8IwBXhtuFolotpqNIMeo08lXN4XlFk15CZAcvnqJ0taE0Y3 N/qHJ+afvmwFx1SaSzvSy/IjZTYF72y3a6RruE+OJi7957pM62QEehLZ zEY=
+xn--p5ba3ab6b6afbeq9fd7b2acftb5ska9ak.xn--54b7fta0cc. 10800 IN NSEC xn--p5ba3m.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5ba3ab6b6afbeq9fd7b2acftb5ska9ak.xn--54b7fta0cc. 10800 IN NS ns1.quantummethod.info.
+xn--p5ba3ab6b6afbeq9fd7b2acftb5ska9ak.xn--54b7fta0cc. 10800 IN NS ns2.quantummethod.info.
+xn--p5ba3m.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. I/rv8JheShmEHisBHKBAC3uzpx01dash8S9wJrDnK7xtp3hXL4tWp08b 6BNv25TdniV1zUQdVvRJxjWe55i2pNhcA+pDKIa4tuDnGz+3rQrmj5Ci 6MHgdh9fOWGykFdTN85G3GOsFtKZ7C/pF8vxyDVhWT/iPnXpMVdvugFX +aw=
+xn--p5ba3m.xn--54b7fta0cc. 10800 IN	NSEC	xn--p5ba4a8a0hbb0e.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5ba3m.xn--54b7fta0cc. 10800 IN	NS	dns.btcl.net.bd.
+xn--p5ba3m.xn--54b7fta0cc. 10800 IN	NS	slave.btcl.net.bd.
+xn--p5ba4a8a0hbb0e.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. qp0/3uUXLIvwMy/0GwHzsZIRmAWbKxxar0IQTvnd4uqlxVF5OJNqoLoI LEidNSf9R/zePRm+H9GNIzwR+Nczeba1ntrM38yhgTsJRjUiFHn3b2Ci 5twf8wpd4HJv1qGdnV98Y7hlGnN53l0tWrzmo1xhgLYtHLlL0+sXCjfU LvU=
+xn--p5ba4a8a0hbb0e.xn--54b7fta0cc. 10800 IN NSEC xn--p5ba8era1ab8d0dta.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5ba4a8a0hbb0e.xn--54b7fta0cc. 10800 IN NS	ns1.securehostingpanel.com.
+xn--p5ba4a8a0hbb0e.xn--54b7fta0cc. 10800 IN NS	ns2.securehostingpanel.com.
+xn--p5ba8era1ab8d0dta.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. VVacr/qUSkjfBbeWy9lZqMn6gJDTML8stme+KDnFJni0ra9SjXzO+2qM EET530oqdTepJNcqqH/BLP7Xfr9gCGlK7mpHJorx11O4/QZmps/ULk0I 6EcSgA7Z0Yxu/7Hm6Ok0NIEzIN7pAJZjDzYsucomcKBlJQSD1I7OAzo3 vw0=
+xn--p5ba8era1ab8d0dta.xn--54b7fta0cc. 10800 IN NSEC xn--p5baa2a8dsbblg6aza5edpw0id.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5ba8era1ab8d0dta.xn--54b7fta0cc. 10800 IN NS ns1.quantummethod.info.
+xn--p5ba8era1ab8d0dta.xn--54b7fta0cc. 10800 IN NS ns2.quantummethod.info.
+xn--p5baa2a8dsbblg6aza5edpw0id.xn--54b7fta0cc. 10800 IN	RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. OYRUhF1Yp9Tv2ryFaMRc/E4pCCpGutHPcuKXvXtbRkGdo9CjR2cQjhXv q3Tg3pzIrKRO1fqdr6WD+MudntWnnBEmHUoDsWZpzOcdAeZTRoUey0pA NXiZ58IMHgb8XkWzvH6IIBsI+JlTuWeaqP/tiBL81W0rKvVM3+J8gU/q DQQ=
+xn--p5baa2a8dsbblg6aza5edpw0id.xn--54b7fta0cc. 10800 IN	NSEC xn--p5baa2am7c2bbe0b1d1b0ac5l2bk3a.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5baa2a8dsbblg6aza5edpw0id.xn--54b7fta0cc. 10800 IN	NS ns1.ssbl.com.bd.
+xn--p5baa2a8dsbblg6aza5edpw0id.xn--54b7fta0cc. 10800 IN	NS ns2.ssbl.com.bd.
+xn--p5baa2am7c2bbe0b1d1b0ac5l2bk3a.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. lttGWad3hxnb54etsvEoH9EoozTAPMc144UeFhBNv0q25/h0tESZhk+F 7Jpzw5OrW5uVGQpqo/C2j+P4bKJZt95R3G0Kwz09BQwaFq5mOpjUWMtL TrXiUhShOboSuV1/qsf30NWaW01v6cnYWgn79GIQxc6TTAnKNYzTptp7 yZI=
+xn--p5baa2am7c2bbe0b1d1b0ac5l2bk3a.xn--54b7fta0cc. 10800 IN NSEC xn--p5baa2b5bxbbd7a9cb5b0ac5c9ik3ai.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5baa2am7c2bbe0b1d1b0ac5l2bk3a.xn--54b7fta0cc. 10800 IN NS ns1.quantummethod.info.
+xn--p5baa2am7c2bbe0b1d1b0ac5l2bk3a.xn--54b7fta0cc. 10800 IN NS ns2.quantummethod.info.
+xn--p5baa2b5bxbbd7a9cb5b0ac5c9ik3ai.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. M+fymQG1P50UctV2lcBOEIgm6mklZJOdpRUTDU9577w7FIj3pJGBWX7f k4wBNGyTQL6Sn7LVFcGoJsaAJYNVXK7cMRpDGtBQdZD+lfcCcnkT11v3 PgF+mgpM/LLHLT5s1JOSauVMxk0/sFukM+lMKzBmDtj0BKC7ZlCnJ2iF FXE=
+xn--p5baa2b5bxbbd7a9cb5b0ac5c9ik3ai.xn--54b7fta0cc. 10800 IN NSEC xn--p5bav4eva7a5h3a.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5baa2b5bxbbd7a9cb5b0ac5c9ik3ai.xn--54b7fta0cc. 10800 IN NS	ns1.quantummethod.info.
+xn--p5baa2b5bxbbd7a9cb5b0ac5c9ik3ai.xn--54b7fta0cc. 10800 IN NS	ns2.quantummethod.info.
+xn--p5bav4eva7a5h3a.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. rRcygRvADYdcTgwJ/LEcEwvknfBIE42JbKeNWMS0AKAemk5Wfowm1k2v tcEP2LUKJI1XSguGii5h0b+LvZ4QsD9Vdsv3sWXFkd0kuJRNGXsgVCZr UBGRV9WOMCstkzUr2bkFmO6pk4UlEIeVAq5khCbcE29pITAZ6EEGNAX7 fBE=
+xn--p5bav4eva7a5h3a.xn--54b7fta0cc. 10800 IN NSEC xn--p5bdfl7fwac0e1bbyd7n.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5bav4eva7a5h3a.xn--54b7fta0cc. 10800 IN NS	ns1.quantummethod.info.
+xn--p5bav4eva7a5h3a.xn--54b7fta0cc. 10800 IN NS	ns2.quantummethod.info.
+xn--p5bdfl7fwac0e1bbyd7n.xn--54b7fta0cc. 10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. lNcdV2bosR2f4OCasGC8KNewhKxxbq16I/nt/gRQPuxyqBmwTFqiRmh1 vXoO69gpuyni7R5GFW5LBuETmsZu17DptnGO4fsjrYocAMw56Ka9o7XF FmwDqp1aeBrHGbVCx51FKBZ1M8AUUK3c0R0VXFnpd3sNO9ZMyo9EfUs+ 8lI=
+xn--p5bdfl7fwac0e1bbyd7n.xn--54b7fta0cc. 10800 IN NSEC xn--p5bdz8auw2d5bp9ewcg.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5bdfl7fwac0e1bbyd7n.xn--54b7fta0cc. 10800 IN NS ns1.arinacloud.com.
+xn--p5bdfl7fwac0e1bbyd7n.xn--54b7fta0cc. 10800 IN NS ns2.arinacloud.com.
+xn--p5bdfl7fwac0e1bbyd7n.xn--54b7fta0cc. 10800 IN NS ns3.arinacloud.com.
+xn--p5bdz8auw2d5bp9ewcg.xn--54b7fta0cc.	10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. rZnXTBbYnXcaddDgizGVhqDLk0FR1FhafrzrTME8cLYChxFsKML3Kqv+ 0MEXCvNls3Aap6BZ0WKp5WEY5L0g5TeN5nmCxH5DlXoT76CntFsph3W4 OqSf1DUIDYGEycEDwBjP7CofAaTQXhzbSs7xv4Ny8qNBV6MGlCjIxYF2 QiI=
+xn--p5bdz8auw2d5bp9ewcg.xn--54b7fta0cc.	10800 IN NSEC xn--p5be3a1abnd7b5d5c1a1e2dc.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5bdz8auw2d5bp9ewcg.xn--54b7fta0cc.	10800 IN NS quincy.ns.cloudflare.com.
+xn--p5bdz8auw2d5bp9ewcg.xn--54b7fta0cc.	10800 IN NS kristina.ns.cloudflare.com.
+xn--p5be3a1abnd7b5d5c1a1e2dc.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. eNwzEgvBqz7ld8ipPe4CCwgHQ4hSYwJZP73GJ6oosWYLvpzI+ApaxIjJ 113VftGAwSf3bcjxsACemtVH5J9iZaqC8uzFpZ+82UjWJ55Xd0QpTWmg FSIzHoy64WN8zLBPUzJmo7Ev3Qay7aT+Otm8cAgArfBY4UH4Tg9dBEmY MSw=
+xn--p5be3a1abnd7b5d5c1a1e2dc.xn--54b7fta0cc. 10800 IN NSEC xn--p5bj7bn5gc2dd.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5be3a1abnd7b5d5c1a1e2dc.xn--54b7fta0cc. 10800 IN NS ns6497.hostgator.com.
+xn--p5be3a1abnd7b5d5c1a1e2dc.xn--54b7fta0cc. 10800 IN NS ns6498.hostgator.com.
+xn--p5bj7bn5gc2dd.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. SD/uDkaRCfikAubzTt5MpwlY82JXNUX8xDtAUHG5D6scbWmZo+/+hvsZ zZ11lFdxdAdGK1RQmvl7td5jUzEuF+nciWZCfEI3H2JaC2KHeAWWCUBC 1A8ufM7tpH0gVwqqw0czrGcYbxOmTL94ADMMlqVa7uorQWhNez18CEx7 35w=
+xn--p5bj7bn5gc2dd.xn--54b7fta0cc. 10800	IN NSEC	xn--p5bk3dhc7fp3h.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5bj7bn5gc2dd.xn--54b7fta0cc. 10800	IN NS	ns1.dhakawebhost.com.
+xn--p5bj7bn5gc2dd.xn--54b7fta0cc. 10800	IN NS	ns2.dhakawebhost.com.
+xn--p5bk3dhc7fp3h.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. bUbvabMPF1S6RqHqjIV/zOKL+qb9zIDDmNYT3Zk7Xm84iub9fB4KiMHk 0rYdpWgavNhnyIhcshB0zIzRLKjprQytixDqrtJ76aN//MN53CdTTyNV oI5k9D/Jp7uLp9qDJWrSpXe/G/lkK47Gke6H2Skyza7sF0tBKVu1lT26 fqE=
+xn--p5bk3dhc7fp3h.xn--54b7fta0cc. 10800	IN NSEC	xn--p5bnq7brd3bakr6cceln6p4af.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5bk3dhc7fp3h.xn--54b7fta0cc. 10800	IN NS	meera.ns.cloudflare.com.
+xn--p5bk3dhc7fp3h.xn--54b7fta0cc. 10800	IN NS	uriah.ns.cloudflare.com.
+xn--p5bnq7brd3bakr6cceln6p4af.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. ht+j6yDoGqKbA2Vw1koOj1te/0wbIOEe4RVDoooy3bK0GHy8sDDL3Dqt nFq8EF/oGnDN1hPW4chzDuybOWvpmhwrrvL3YN1fA9c3QvXcfn82D0qF +fGjYshAwlXhUNhYWxnBDk9ghccXxCtCFcMwcToh9oSrBo8VduIHAouC 0DU=
+xn--p5bnq7brd3bakr6cceln6p4af.xn--54b7fta0cc. 10800 IN NSEC xn--p5bny2b3c4ab.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5bnq7brd3bakr6cceln6p4af.xn--54b7fta0cc. 10800 IN NS ns1.nothi.org.bd.
+xn--p5bnq7brd3bakr6cceln6p4af.xn--54b7fta0cc. 10800 IN NS ns2.nothi.org.bd.
+xn--p5bny2b3c4ab.xn--54b7fta0cc. 10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. ExJAMFite+J9m9eKyFH8dzy8j0dWO9yanV1NA0+5VD0A1Zp9k9AOSaU9 2cvToyKATVVRaHK9eVcUpEQQx+Q1QzB2Oji04ZdzhSN3Ao3+KekPrTTb 5nboR2UO5LaXy5guDv4Mt7HnwLCnPgx7xaDdlqcd5hH6v6GxyWqnqUnv Imw=
+xn--p5bny2b3c4ab.xn--54b7fta0cc. 10800 IN NSEC	xn--p5bt1alg7e0bb3k.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5bny2b3c4ab.xn--54b7fta0cc. 10800 IN NS	ns1.quantummethod.info.
+xn--p5bny2b3c4ab.xn--54b7fta0cc. 10800 IN NS	ns2.quantummethod.info.
+xn--p5bt1alg7e0bb3k.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. jzEniil/i8wYQEagupTDfu0G+SlWXU/uFC6M6AxAbIiozoS/r1Sdw/Ji Dc2dr6Si21F0/PMAHgWebWnKdjqniflJJGM+gAcgg4GG63KeueYt/ulq 1oHJU6ztfLU5sO9fzHFtKXQ4v+2KvVX5foUmevmLg3Pdctlrw6FGMbQu PCQ=
+xn--p5bt1alg7e0bb3k.xn--54b7fta0cc. 10800 IN NSEC xn--p5bt8ea8a0c.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5bt1alg7e0bb3k.xn--54b7fta0cc. 10800 IN NS	ns1.btraccl.net.
+xn--p5bt1alg7e0bb3k.xn--54b7fta0cc. 10800 IN NS	ns2.btraccl.net.
+xn--p5bt8ea8a0c.xn--54b7fta0cc.	10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. F83mWRYXGJMylmt8NgdwSJzNWHC1Hpslt4kdOvvYhboOtHw96+NdWFRO RdihNfXDPf65LwnTlEA75mbJM2wpgm9qi5ZqhP2whnx3GJMO+ZTP3WhU /BWX01j0lk9luKBG5lILti6lAPowFQ/N4qBhVqHcW/6OL99X5cPnAvB2 WZg=
+xn--p5bt8ea8a0c.xn--54b7fta0cc.	10800 IN NSEC	xn--p5btb0kb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5bt8ea8a0c.xn--54b7fta0cc.	10800 IN NS	ns6361.hostgator.com.
+xn--p5bt8ea8a0c.xn--54b7fta0cc.	10800 IN NS	ns6362.hostgator.com.
+xn--p5btb0kb.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. TK4y604AKwfykH+AO4ZUMiRQ1Hv9Qol8xsXEnozM/iFKonAqUPsyUrDS sB6pJMLWG+dNb4lDIKpf55DcQxqOsnoAiyHoi4wqe5MpvpzyAWRdgYq6 KLCMMeceptegceBACusba4zeGgzOr21Eaxd1KhgoK1Xv/42GzxaTsheK I2U=
+xn--p5btb0kb.xn--54b7fta0cc. 10800 IN	NSEC	xn--p5btb9aybg7fqg0f2b.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5btb0kb.xn--54b7fta0cc. 10800 IN	NS	ns1.dns-parking.com.
+xn--p5btb0kb.xn--54b7fta0cc. 10800 IN	NS	ns2.dns-parking.com.
+xn--p5btb9aybg7fqg0f2b.xn--54b7fta0cc. 10800 IN	RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. pojVXAR1uGMLdKiViMrHWN0JTBNXnPa0S/fRu3y5oBIA/1whigYm7YZh 10p5r8sn4jlZrvG0R/QGOXR+t+PkTGYafFD+xPd8JmLPyrZGq/sLYrRU o+1DEteBqWUCQzDsajyXXF0TnSUmVenT8OjYz+hzqIN/jLC2lZyDGQpD mDQ=
+xn--p5btb9aybg7fqg0f2b.xn--54b7fta0cc. 10800 IN	NSEC xn--p5bu0a1acg4fdoei2l4a.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5btb9aybg7fqg0f2b.xn--54b7fta0cc. 10800 IN	NS ns1.quantummethod.info.
+xn--p5btb9aybg7fqg0f2b.xn--54b7fta0cc. 10800 IN	NS ns2.quantummethod.info.
+xn--p5bu0a1acg4fdoei2l4a.xn--54b7fta0cc. 10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. mVm1Ei084V8G5v8uK98t7Pa9bjwlRYZPmcb/WfxRPHVHgOO1Wr0YWENH 6qm11SfPLcIkqVcJd1OSieJTJlBDgLKaOss0DcbJ6XTaQ1tpy4MqNpQV 9xsWQCrxzal6KqBElXIRvHUlV+0dUYcYvIiL9tPyc3DqiZ4CtCYwbVhp bfI=
+xn--p5bu0a1acg4fdoei2l4a.xn--54b7fta0cc. 10800 IN NSEC xn--p5bu0arjbcea8jgrcdc9qmbe.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5bu0a1acg4fdoei2l4a.xn--54b7fta0cc. 10800 IN NS ns1.quantummethod.info.
+xn--p5bu0a1acg4fdoei2l4a.xn--54b7fta0cc. 10800 IN NS ns2.quantummethod.info.
+xn--p5bu0arjbcea8jgrcdc9qmbe.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. eRM08CB8IkbHOM0JCk01HELZG5N0xdACC9YWqZjw5Whw54sr7mUoJpEb hvIc+tdwZ6iad7fYEr2YMKHd7Q9cCsF6Ff34n2c5ParpnoevGc4uYSh3 R5E/5lAKB9Q0UVbqMIz1l87pa5/MtZ11qjoa33IURpv36Qt8W9PD4JzL 0mg=
+xn--p5bu0arjbcea8jgrcdc9qmbe.xn--54b7fta0cc. 10800 IN NSEC xn--p5bu0azaac5gqac8j0a.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5bu0arjbcea8jgrcdc9qmbe.xn--54b7fta0cc. 10800 IN NS ns1.quantummethod.info.
+xn--p5bu0arjbcea8jgrcdc9qmbe.xn--54b7fta0cc. 10800 IN NS ns2.quantummethod.info.
+xn--p5bu0azaac5gqac8j0a.xn--54b7fta0cc.	10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. HJ45cyPSuEwt+zqWWzJzCSWRUunMgBtKOC+9fdEJrIO5b4NGRVt9sO9Z bX4GETCYwLSJelypW1mc1lw80u8F9eWRtZKnu9xbA0ZSwa8xouHRCfyp 1gCh/rOrblyIBx6CEO8z8RfSW6dsqNnOEk19PwoWjzD1MBd6B3oYX9Ib 3ZQ=
+xn--p5bu0azaac5gqac8j0a.xn--54b7fta0cc.	10800 IN NSEC xn--p5bu5bdl9bd0clb9j1a.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5bu0azaac5gqac8j0a.xn--54b7fta0cc.	10800 IN NS ns1.quantummethod.info.
+xn--p5bu0azaac5gqac8j0a.xn--54b7fta0cc.	10800 IN NS ns2.quantummethod.info.
+xn--p5bu5bdl9bd0clb9j1a.xn--54b7fta0cc.	10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. c731poeh8PAgzwjuG+6xkWwumayqN33Ec8Md0+de2PDZWKiVdWB+j1TV mnE4LvKglg0emgt1qA0tngut0EPrnNixB7m/Mx/nu+0yQJ5c+4nD5pp5 pFZiPHYwiT/vSTi8wiW+buOX/Tvv4oVek5D3TXqEkEUTs03k55ysKw0g 9rE=
+xn--p5bu5bdl9bd0clb9j1a.xn--54b7fta0cc.	10800 IN NSEC xn--p5bu6bge7eqdd2fzc.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5bu5bdl9bd0clb9j1a.xn--54b7fta0cc.	10800 IN NS ns1.quantummethod.info.
+xn--p5bu5bdl9bd0clb9j1a.xn--54b7fta0cc.	10800 IN NS ns2.quantummethod.info.
+xn--p5bu6bge7eqdd2fzc.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. YuatNw/U5y9hJzY2pUpRBKR/r5QhyboT3sylqsl+qE/k0Q1NxAD1btc3 N1KiQpsAmjgudAqB6Zj1MZTH1FJd0gdS7UTXU0Y29xOX3+ezatN4VtUu uZrhifHhQeJGX7jIcgFJSM8CxGp5vfUb1vU1ToYT4ydKxoTRTRV7abuD eGg=
+xn--p5bu6bge7eqdd2fzc.xn--54b7fta0cc. 10800 IN NSEC xn--p5bua8a1aee8hsacnb9l6a.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5bu6bge7eqdd2fzc.xn--54b7fta0cc. 10800 IN NS dns.btcl.net.bd.
+xn--p5bu6bge7eqdd2fzc.xn--54b7fta0cc. 10800 IN NS dns3.hostever.com.
+xn--p5bua8a1aee8hsacnb9l6a.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. bqJ2iNUZJtXX3tiGQjgDol3+KrlO2N07B/XwDqCUa8V6Sy8MSed3UgNY Nar7vfx0SJIoO6ayIiXer0yHw5cojhBeNLU4ZsPEMghjVowkJ15NDWJv Z6wWdT47Ef3DxCOsXEQvEUArhYDsrmD/X0OowCyuWuEjqZQRhyX9YMgy /Rg=
+xn--p5bua8a1aee8hsacnb9l6a.xn--54b7fta0cc. 10800 IN NSEC xn--p5buah7ad3baf0fxcyacr2jd9czb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5bua8a1aee8hsacnb9l6a.xn--54b7fta0cc. 10800 IN NS ns1.quantummethod.info.
+xn--p5bua8a1aee8hsacnb9l6a.xn--54b7fta0cc. 10800 IN NS ns2.quantummethod.info.
+xn--p5buah7ad3baf0fxcyacr2jd9czb.xn--54b7fta0cc. 10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. RqLoboSehbeZyPnbECMXy/CASZ6AyQd9Mrwixv3jhuN8smCf/XYv8WuF CcJdsxvjxO8Akxd7Lokx9Y3biNSB+ZbqYS9r9AztuJhr+1Y67Bmoii0C PIZvcUZMcM8It9mlWNG1YO0IhuZGkJvcbhCaLutPCznmnb0w5Nr57Zjh fe0=
+xn--p5buah7ad3baf0fxcyacr2jd9czb.xn--54b7fta0cc. 10800 IN NSEC xn--p5buf1abas0a3ga7ee4hf9fg.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5buah7ad3baf0fxcyacr2jd9czb.xn--54b7fta0cc. 10800 IN NS ns1.quantummethod.info.
+xn--p5buah7ad3baf0fxcyacr2jd9czb.xn--54b7fta0cc. 10800 IN NS ns2.quantummethod.info.
+xn--p5buf1abas0a3ga7ee4hf9fg.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. EBbIRzPgqHmPcbmix4dKHT64OHJmGSndYkb2+W+Q9wK1VviYDpYetVt3 zjgemFuyJoYA8OmaU3vGhfXZGiimfT8cSIFT2J+bVOcwd/EMFXhqyfB0 xsydvbo9LmUbFavdKgV7jcYNr3igkfvwXC7f4HcWd93bCvObzq86DOwI KGw=
+xn--p5buf1abas0a3ga7ee4hf9fg.xn--54b7fta0cc. 10800 IN NSEC xn--p5buf1abq6c5ba0ef5gtdc.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5buf1abas0a3ga7ee4hf9fg.xn--54b7fta0cc. 10800 IN NS ns6497.hostgator.com.
+xn--p5buf1abas0a3ga7ee4hf9fg.xn--54b7fta0cc. 10800 IN NS ns6498.hostgator.com.
+xn--p5buf1abq6c5ba0ef5gtdc.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. U/kDSzzin9jlTmkHFJoqi2d6pmw8MB6U445uEu0mDNqtY5u58FxcsYJf rUu2xAiVMokbF7PsP6fI/8kz12AQM8i4Z9qzyvojfX08mmeZrVoH1q/S SgpK3zfJlaEM0Z2j6NzfQLODTt7uI7JUYhRRBz8ClRsH6SdsSCHzHoa6 sKY=
+xn--p5buf1abq6c5ba0ef5gtdc.xn--54b7fta0cc. 10800 IN NSEC xn--p5bug0al1ae3hfocejb4olb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5buf1abq6c5ba0ef5gtdc.xn--54b7fta0cc. 10800 IN NS ns6497.hostgator.com.
+xn--p5buf1abq6c5ba0ef5gtdc.xn--54b7fta0cc. 10800 IN NS ns6498.hostgator.com.
+xn--p5bug0al1ae3hfocejb4olb.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. Y189k07lOwLxbyNV3v6WxtFVoCr1ND0O1gDI453WN/DbRrdht5BnB8OY QavGIvSYRssjVoP3jiqmVi9J1/xDaRporVrKUTeKeMeVWVeoSEG08Td4 ULzY2Bc8qZv2//1GDbnON4honZ79fmEhjLKPSs7aMPsPVX8msfbLk1YK DB0=
+xn--p5bug0al1ae3hfocejb4olb.xn--54b7fta0cc. 10800 IN NSEC xn--p5bugpn1bae1juac4iwb6a.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5bug0al1ae3hfocejb4olb.xn--54b7fta0cc. 10800 IN NS	ns1.quantummethod.info.
+xn--p5bug0al1ae3hfocejb4olb.xn--54b7fta0cc. 10800 IN NS	ns2.quantummethod.info.
+xn--p5bugpn1bae1juac4iwb6a.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. GgkWzIrUUo9sNVGJEljtJ1TBS87irhMArMhuyZx/Ti4HTmvCFiGf1scC igO7A3aobwJIf47wke7vyrl+t2VA59vrlaIGwmwqCsX3NCTRw7dv4heP n4CgkzzAMWLzvPwtbSlNzT/uAVSHq0duIXRNHpqMMSCOu2GGwMprS0TE 2pU=
+xn--p5bugpn1bae1juac4iwb6a.xn--54b7fta0cc. 10800 IN NSEC xn--p5bwlyr3hra1h.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5bugpn1bae1juac4iwb6a.xn--54b7fta0cc. 10800 IN NS ns1.quantummethod.info.
+xn--p5bugpn1bae1juac4iwb6a.xn--54b7fta0cc. 10800 IN NS ns2.quantummethod.info.
+xn--p5bwlyr3hra1h.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. Aq25jBxRPCARnyTYZKAOMUV0IZK81Vl46H/hQbtGisJU77kz0ZXJVJYN S1maSsXnpM8UKAmy8ld4DHsG0o7ij0VuSx9BRVL9tkzQywm63gPHxGGK zzChI9ypgMzO84tG3ajtNMLP25Zu4thr9tWHV7A8Orci3TV2PpQor0AE 5bk=
+xn--p5bwlyr3hra1h.xn--54b7fta0cc. 10800	IN NSEC	xn--p5bx6a8bwbbc4a.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5bwlyr3hra1h.xn--54b7fta0cc. 10800	IN NS	dns.btcl.net.bd.
+xn--p5bwlyr3hra1h.xn--54b7fta0cc. 10800	IN NS	slave.btcl.net.bd.
+xn--p5bx6a8bwbbc4a.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. MJDR9lWwNZSKD9KbhHPWr0/AlwxNIWYMQQhp3kWwnTi3tlfXO39bTHwA NxfgGMLmI7dPzUbx6dBmFrUL748/YvK5mVeA4DbhRNqZivgit6dJUoY9 t12+XoYv4zr/8Q0Rb5LLZ0TLtQRkXal9LrO1hffqIkE8VPcfBm2hJahf 6uE=
+xn--p5bx6a8bwbbc4a.xn--54b7fta0cc. 10800 IN NSEC xn--p5bx6ak6fb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5bx6a8bwbbc4a.xn--54b7fta0cc. 10800 IN NS	dns.btcl.net.bd.
+xn--p5bx6a8bwbbc4a.xn--54b7fta0cc. 10800 IN NS	slave.btcl.net.bd.
+xn--p5bx6ak6fb.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. UO7fo0szfQPYWA55fRa2hRkDHsvmw+3f31tP0ur3mGUnxfZEIxL5Hsd4 ro+kO9RZ71mOuOWORoPdeSWycx/17MOSsKqcN/a3SXIv8VGftwefjIQ/ p6cN3UlF1ktbgPuBwcQEhhkDSNsduA0ILNqfepE3ePDZhOxgG8dV+VAZ YIw=
+xn--p5bx6ak6fb.xn--54b7fta0cc. 10800 IN	NSEC	xn--p5by1bbj9bwicq.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5bx6ak6fb.xn--54b7fta0cc. 10800 IN	NS	dns1.bdcom.com.
+xn--p5bx6ak6fb.xn--54b7fta0cc. 10800 IN	NS	dns2.bdcom.com.
+xn--p5by1bbj9bwicq.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. GtH3WGuOOYqMvDa9ea9dr/0GUy43siwYVL9dlIHf18rn29SZbCXy1iC/ lRRw63Qkd5L298Jec9MKVhPD00t2ej1xkqNKX7GxZIGv3GX8zM5EIjae zbeTKtRXjQulwzbtTzhJYFN/ao3iCiaYhpn2XHUCulipCx+OlGZ/hBjp 6PE=
+xn--p5by1bbj9bwicq.xn--54b7fta0cc. 10800 IN NSEC xn--p5by5alh7eonf6j.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5by1bbj9bwicq.xn--54b7fta0cc. 10800 IN NS	ns1.quantummethod.info.
+xn--p5by1bbj9bwicq.xn--54b7fta0cc. 10800 IN NS	ns2.quantummethod.info.
+xn--p5by5alh7eonf6j.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. blq4SN9H7xxzjPXERmkbfRuBxLJCOebQyoNPeFxMczI1mdSyeQ88Abyz isoBPgF1lc6S9CKmPzOukQARJsao3v6TRG+ABg4V3LN9tJ8QkVKbYYGd SUwAK+2HqVLvr/A/WQtNWWKqEyZdBhAV3fAPuUcJJKIYT1HsO6DbQUtV Vdg=
+xn--p5by5alh7eonf6j.xn--54b7fta0cc. 10800 IN NSEC xn--q5b0b0bwbl.xn--54b7fta0cc. NS RRSIG NSEC
+xn--p5by5alh7eonf6j.xn--54b7fta0cc. 10800 IN NS	103.163.210.121.
+xn--p5by5alh7eonf6j.xn--54b7fta0cc. 10800 IN NS	ns1.bcc.gov.bd.
+xn--p5by5alh7eonf6j.xn--54b7fta0cc. 10800 IN NS	ns2.bcc.gov.bd.
+xn--q5b0b0bwbl.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. lk3+baNCndy5LtIx95bKTaIJWA1KRG93EsmDMU4J4xuXAxxQYBZwxRNz iyGTn8J83OhDwvuzJqgDE2A/RODm+b6+PqLn/bOMDL8PLzi62ErhIsAV APjcaSv7SrX7wh2KaU93yPKlgmyQdrlyjOOdEM+CEPOpgrnhfPF8UeG9 VwQ=
+xn--q5b0b0bwbl.xn--54b7fta0cc. 10800 IN	NSEC	xn--q5b0b2a4c.xn--54b7fta0cc. NS RRSIG NSEC
+xn--q5b0b0bwbl.xn--54b7fta0cc. 10800 IN	NS	jose.ns.cloudflare.com.
+xn--q5b0b0bwbl.xn--54b7fta0cc. 10800 IN	NS	nancy.ns.cloudflare.com.
+xn--q5b0b2a4c.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. DtKKeNCXd3JaLmnrWqE4PycV5mt5LZIaH8nQlJGlVkJY6Zrxx0tlYyEL h4qDYRaMsgnsnteEVHy1Gt7fSdhTEE+ErQkkuloQKKHT4zgDJ7xyhGH6 YTSZyxtbJlzPc/1mLfzdqeseygr78XhBS8+rhFsIBVQ+voZ+/NhRHFfe +ZU=
+xn--q5b0b2a4c.xn--54b7fta0cc. 10800 IN	NSEC	xn--q5b0dsb8a9lma.xn--54b7fta0cc. NS RRSIG NSEC
+xn--q5b0b2a4c.xn--54b7fta0cc. 10800 IN	NS	nova.ns.cloudflare.com.
+xn--q5b0b2a4c.xn--54b7fta0cc. 10800 IN	NS	reese.ns.cloudflare.com.
+xn--q5b0dsb8a9lma.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. Wgm5QEB79pIIT6y2wTuAcQsECyAjx1bpaPELGeZZ5z6iBGbUsPjICrC+ BzhfY0xq3zmeVqK4AJEtsYIuu78uJp5Tf6krN6/J+hX7CscDtO8M9Xa2 muva58EPtta8Q5f4zWGt74xgWrRIIg6ErM/2iaD0mvrAYm/8U945wunL inE=
+xn--q5b0dsb8a9lma.xn--54b7fta0cc. 10800	IN NSEC	xn--q5b6a1azdzd.xn--54b7fta0cc. NS RRSIG NSEC
+xn--q5b0dsb8a9lma.xn--54b7fta0cc. 10800	IN NS	conrad.ns.cloudflare.com.
+xn--q5b0dsb8a9lma.xn--54b7fta0cc. 10800	IN NS	clarissa.ns.cloudflare.com.
+xn--q5b6a1azdzd.xn--54b7fta0cc.	10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. Fjk18UOj6BsDB+T09eEZKoJEyOyXuaYE8y7uk3+jitqZxkZrwXJ3rNzG xSrhrBUTv82K0PwCUKAedGKvyyp34syPDnymWOFmteXDPanm+F+mStMv BwB5MJ8qzlUPx7KQ2R1hxmO8tpujbvAkcxe8rqCaQBvgKWegIzf5EUZq Y9c=
+xn--q5b6a1azdzd.xn--54b7fta0cc.	10800 IN NSEC	xn--q5bh6bb6atb6gf1a7dud.xn--54b7fta0cc. NS RRSIG NSEC
+xn--q5b6a1azdzd.xn--54b7fta0cc.	10800 IN NS	ns1.nothi.org.bd.
+xn--q5b6a1azdzd.xn--54b7fta0cc.	10800 IN NS	ns2.nothi.org.bd.
+xn--q5bh6bb6atb6gf1a7dud.xn--54b7fta0cc. 10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. g4YyGtDFfkH4g/OWhQRgd2QsI2w80jCui33evqMYAb71OOeoxpY68CKZ XYBb8kjblql2aIFcrF0kgTc5pJvidsUkFGuUNMoHolD44aQdAgJQaiJX iTTr2rdVhgh2/41VMAeMWNNRZFxA+3Tywuus/UcmvfBh98EaeQ7JwHPV vpQ=
+xn--q5bh6bb6atb6gf1a7dud.xn--54b7fta0cc. 10800 IN NSEC xn--r5bjj6ceb4ab7c9cedc7he.xn--54b7fta0cc. NS RRSIG NSEC
+xn--q5bh6bb6atb6gf1a7dud.xn--54b7fta0cc. 10800 IN NS ns1.yourpromobd.com.
+xn--q5bh6bb6atb6gf1a7dud.xn--54b7fta0cc. 10800 IN NS ns2.yourpromobd.com.
+xn--r5bjj6ceb4ab7c9cedc7he.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. UKAlFu+LA+vEayofJbqBT6zOXR2LoD1UJK5VEpi1Dl2n+ae2ZPnP3rU1 BZnjK01GxOG6zEtLcxQQYZtxdIhbPDPk5ZvVZUJhhQESMl/pkkhAToVj KLENNwhXQSvXEuZtnAYVw4a8BF5DcKRMe57//1JiTBNxsu8c2OACbiOt iLw=
+xn--r5bjj6ceb4ab7c9cedc7he.xn--54b7fta0cc. 10800 IN NSEC xn--r5bqf3a1ae7czd8cd1b.xn--54b7fta0cc. NS RRSIG NSEC
+xn--r5bjj6ceb4ab7c9cedc7he.xn--54b7fta0cc. 10800 IN NS ns1.bcc.gov.bd.
+xn--r5bjj6ceb4ab7c9cedc7he.xn--54b7fta0cc. 10800 IN NS ns2.bcc.gov.bd.
+xn--r5bqf3a1ae7czd8cd1b.xn--54b7fta0cc.	10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. fEnbC0QQyEtX9uNMD8Fx2wvqI7ILU4EUxniMvBxdYhgvEicL4F+g5MKW 32Qx5UIQdL//5RAE9H8NC/NxOexxLwhWrbjXSxljfL3JvrUTvUWoouN3 +VQRbPZ6djR87ajAvWExcY3jaYY7BhBPYHGsdyU+1Tx2+015LqDfWOXs SwY=
+xn--r5bqf3a1ae7czd8cd1b.xn--54b7fta0cc.	10800 IN NSEC xn--r5bzlxmb2jb6hb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--r5bqf3a1ae7czd8cd1b.xn--54b7fta0cc.	10800 IN NS ns1.quantummethod.info.
+xn--r5bqf3a1ae7czd8cd1b.xn--54b7fta0cc.	10800 IN NS ns2.quantummethod.info.
+xn--r5bzlxmb2jb6hb.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. rIEhX9lip9DNRDqyy2NwuyVYY15R0bwApmY3t9LHDH2mYzxBlWk79ZIH fK42tmVwYzSWtUyDMSKENKJY4+sjYv15JPD+3CHjVOuEpWa45kFV+ieW mubds8cY7krscXSYwdNcrir0T0TXkFF97aOfxBgxYrxHmKb2V590Qv4R BVk=
+xn--r5bzlxmb2jb6hb.xn--54b7fta0cc. 10800 IN NSEC xn--s5bs9al6dkc.xn--54b7fta0cc. NS RRSIG NSEC
+xn--r5bzlxmb2jb6hb.xn--54b7fta0cc. 10800 IN NS	ns1.dns-parking.com.
+xn--r5bzlxmb2jb6hb.xn--54b7fta0cc. 10800 IN NS	ns2.dns-parking.com.
+xn--s5bs9al6dkc.xn--54b7fta0cc.	10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. cFpzazmSsbM017Y+Df+LuSBrdR8YUVGvCKT+hsH258mAph3QF3qvofcz NhKDL9NDwR6UJulNPCMM2pOgXCCbp/JHxb4qZ8HmiBWzArEQoAhw2f/r hqKWfU3jhrnKmeV+ZwgiiauR1Oc7bAQKu98G7nSed/zTV3lFv36+yi3V BJM=
+xn--s5bs9al6dkc.xn--54b7fta0cc.	10800 IN NSEC	xn--u5bo4cb1dc.xn--54b7fta0cc. NS RRSIG NSEC
+xn--s5bs9al6dkc.xn--54b7fta0cc.	10800 IN NS	ns1.dhakawebhost.com.
+xn--s5bs9al6dkc.xn--54b7fta0cc.	10800 IN NS	ns2.dhakawebhost.com.
+xn--u5bo4cb1dc.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. EcXKaSCBEnnuZp7smwLmojKXCKiylbeZciMzyXvnPr0gqUEld4/TTkLv mxBoDwkkpv97+hlOybGRVBs/7S5FrzsJpvlysWNZMDlrVuF3gdms86ex zi9wX8ObpoxEqXpcBF/SF61Y82ZGWJcsP+X9I/7oezeMySz/z+ofLbtc jJ4=
+xn--u5bo4cb1dc.xn--54b7fta0cc. 10800 IN	NSEC	xn--w5b5ak6cm.xn--54b7fta0cc. NS RRSIG NSEC
+xn--u5bo4cb1dc.xn--54b7fta0cc. 10800 IN	NS	ns1.dnsimple.com.
+xn--u5bo4cb1dc.xn--54b7fta0cc. 10800 IN	NS	ns2.dnsimple.com.
+xn--u5bo4cb1dc.xn--54b7fta0cc. 10800 IN	NS	ns3.dnsimple.com.
+xn--w5b5ak6cm.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. aR31CmxfJcZM18rAfp9tXPn5A/kBC8iEpBiZN3Mw917MvbIMu96xYjja ZpcxmPezqtumWRjFyEARBvx2IyOcu+5gLZQBeQnO2uMS11AyJqJhu9IX e5gDOK2rvHBQ+ivkk6w6PJUYwTm2+JrMOavnU3oxSMp5GtagK/WlvCLX ofg=
+xn--w5b5ak6cm.xn--54b7fta0cc. 10800 IN	NSEC	xn--w5b6ae3ei9tag.xn--54b7fta0cc. NS RRSIG NSEC
+xn--w5b5ak6cm.xn--54b7fta0cc. 10800 IN	NS	ns1.mysecurecloudhost.com.
+xn--w5b5ak6cm.xn--54b7fta0cc. 10800 IN	NS	ns2.mysecurecloudhost.com.
+xn--w5b6ae3ei9tag.xn--54b7fta0cc. 10800	IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. EOMRFj+igmoGhyvJAjoEieZNenMe+9N+gHLMY8rAge17EEvFLPwNP5Lr 5jC2VG+HbFV6c2nzZ3WHhbjDlAvSiz8Bm2tI3aur3J6A/EEexWJIWM5A l3gu3fVL88N/v8zWQjxYsHPT4uf006xXNNcjEdnwxtot6UzwCSEptMW9 SGE=
+xn--w5b6ae3ei9tag.xn--54b7fta0cc. 10800	IN NSEC	xn--w5b8bq.xn--54b7fta0cc. NS RRSIG NSEC
+xn--w5b6ae3ei9tag.xn--54b7fta0cc. 10800	IN NS	dns1.bcc.gov.bd.
+xn--w5b6ae3ei9tag.xn--54b7fta0cc. 10800	IN NS	dns2.bcc.gov.bd.
+xn--w5b6ae3ei9tag.xn--54b7fta0cc. 10800	IN NS	dns3.bcc.gov.bd.
+xn--w5b8bq.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. CGZYzBKNUd4NsP4zJCH0rBD52j1Sj1dZJrhqQpx4r/Fhhr1vFOJGXIPU kzIJkKX7q/EJjSjm77RmgdL1dsO38HPULcidSRWbpGBLaUfFu1IMdB/Z bkwK0DAH6vyEB3rw+/+Mwu9J1aNCIDCTOWmuxJ3gEUvi/sHN4UPQBAY2 xTg=
+xn--w5b8bq.xn--54b7fta0cc. 10800 IN	NSEC	xn--w5bge4evcdb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--w5b8bq.xn--54b7fta0cc. 10800 IN	NS	slave.btcl.net.bd.
+xn--w5b8bq.xn--54b7fta0cc. 10800 IN	NS	gv-rxtzxzrkgmpref.dv.googlehosted.com.
+xn--w5bge4evcdb.xn--54b7fta0cc.	10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. l6lhyQZl2Jz1ZJdWl0wL9eA2mVN94n07a66kfR4SEpfhfMTAtcWhcoIy Ll+wLdLRTsEjl3CDT/pPxdmHafYxE1FWAF4DUKMwXmV2gRjrTY55jMTu DNLhhc3bGid2aLcMrmQl7mVdRInzR4FcomoDmthOoLBgP1xQ/jIDKSWV kGQ=
+xn--w5bge4evcdb.xn--54b7fta0cc.	10800 IN NSEC	xn--w5bj6ac4dvbb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--w5bge4evcdb.xn--54b7fta0cc.	10800 IN NS	elsa.ns.cloudflare.com.
+xn--w5bge4evcdb.xn--54b7fta0cc.	10800 IN NS	hugh.ns.cloudflare.com.
+xn--w5bj6ac4dvbb.xn--54b7fta0cc. 10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. SDx4rzp5k5ULmqdlub8uqumTlwhGYF6NqL42ezTMYXXzZ2YQPMkew+R/ EvZKMF9Osmd95dJquFltSAjTm5Dd+83AEu5sqMCXRWrLmOj9gyJT5+bT 0wXzpy2LcwP2pgALrmojjICrg0il5keG0PGwlKYTXP/s7w9r7d0HqxZe 7GE=
+xn--w5bj6ac4dvbb.xn--54b7fta0cc. 10800 IN NSEC	xn--w5bjb3b7fbp.xn--54b7fta0cc. NS RRSIG NSEC
+xn--w5bj6ac4dvbb.xn--54b7fta0cc. 10800 IN NS	ns101.cloudns.net.
+xn--w5bj6ac4dvbb.xn--54b7fta0cc. 10800 IN NS	ns102.cloudns.net.
+xn--w5bjb3b7fbp.xn--54b7fta0cc.	10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. Fh9wj6/49qLMDgDI2wiVewShEze1cXqgg8yXed5Wu9sssYjnKB4nkzxl WJbgdgbDeZi7DphncpOJhdw2UlFZg2E66reP4gmurWue4w2JXYfo8dv3 7kMyD51bSBjaF6fP67sU4mAK3SM62vJMKdSJ2r8neUi2/1njqFCG+8nr xKM=
+xn--w5bjb3b7fbp.xn--54b7fta0cc.	10800 IN NSEC	xn--w5bne3acri1iece3oe.xn--54b7fta0cc. NS RRSIG NSEC
+xn--w5bjb3b7fbp.xn--54b7fta0cc.	10800 IN NS	ns1.nothi.org.bd.
+xn--w5bjb3b7fbp.xn--54b7fta0cc.	10800 IN NS	ns2.nothi.org.bd.
+xn--w5bne3acri1iece3oe.xn--54b7fta0cc. 10800 IN	RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. o9RwcXyseLtmN4IEQtog/IbPtcRRWwnUrcgtzaT9nt/C/AGiNiZ2vJhD cYfeKYrAB2ZaOtEOX7AmM6FsLKZEDseJWHFokv8GAHkMzF0K+hoOx6Kb xzDkPdx9NPet54/0uou/VpbueRKORc+QZfZJYI2puhfI90Qf/II+gBnV eBo=
+xn--w5bne3acri1iece3oe.xn--54b7fta0cc. 10800 IN	NSEC xn--w5bpmr1gi.xn--54b7fta0cc. NS RRSIG NSEC
+xn--w5bne3acri1iece3oe.xn--54b7fta0cc. 10800 IN	NS dns.btcl.net.bd.
+xn--w5bne3acri1iece3oe.xn--54b7fta0cc. 10800 IN	NS slave.btcl.net.bd.
+xn--w5bpmr1gi.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. CVzEA/63KW/8n+H+gJ713h/BI7b1yMkUPlVpU6dNRyh0s9d+SXuuIfNE TlYauIBHNWH9fPi2zmWjhWKdehbsnj2Whl3eW5E7PAzAPO+6Vm0tNXpl qCTBXMDHEp7GiSODXQL/t5sVtj3A1wThIYLJc/Okc581avnB/xkwhjNP u7o=
+xn--w5bpmr1gi.xn--54b7fta0cc. 10800 IN	NSEC	xn--w5bq6a2clk.xn--54b7fta0cc. NS RRSIG NSEC
+xn--w5bpmr1gi.xn--54b7fta0cc. 10800 IN	NS	kai.ns.cloudflare.com.
+xn--w5bpmr1gi.xn--54b7fta0cc. 10800 IN	NS	liz.ns.cloudflare.com.
+xn--w5bq6a2clk.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. sFbWSTRF1K4ijBW45gqNNfrZ6pr7uOdxR0zlU8Nj1xNeK18qEhq2xcvF AeWwZ6yc9zKPe7ynHmEG2JWB1fBmw4uADmBZXt9v0p9aKf3ovbdNWAMu 3yAg0WOgQHLkVzp/B+4fkjeRj4eca50Y6HM+QF2fzxLxR7V8haNAkBk1 Ktc=
+xn--w5bq6a2clk.xn--54b7fta0cc. 10800 IN	NSEC	xn--w5bu0dtag.xn--54b7fta0cc. NS RRSIG NSEC
+xn--w5bq6a2clk.xn--54b7fta0cc. 10800 IN	NS	dns.btcl.net.bd.
+xn--w5bq6a2clk.xn--54b7fta0cc. 10800 IN	NS	slave.btcl.net.bd.
+xn--w5bu0dtag.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. FZkBuZ/rEeCfqNlP8gheDloqeqVH0yqtLXhLHSiDVsL916yNcLsUp97z WAiUHEbIJqAC3tCND3tnwDNPkO31o+4rjN0GnHLswkci3JUTdP5hIUXS PQC4xlwrkWWEIjG/hy39kz8kXJA+vfDjsGidrLEzE6SypRTxIiDcszy3 E7g=
+xn--w5bu0dtag.xn--54b7fta0cc. 10800 IN	NSEC	xn--w5bxv6ckd.xn--54b7fta0cc. NS RRSIG NSEC
+xn--w5bu0dtag.xn--54b7fta0cc. 10800 IN	NS	dns1.p01.nsone.net.
+xn--w5bu0dtag.xn--54b7fta0cc. 10800 IN	NS	dns2.p01.nsone.net.
+xn--w5bu0dtag.xn--54b7fta0cc. 10800 IN	NS	dns3.p01.nsone.net.
+xn--w5bxv6ckd.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. BuvV4tebZOTXka8AGpnwSTuvyGkIXxUvTMMgEPtK5FsNwXaySrD9f0UJ Tt9FOVb/akKrXgGE0C5GFj0qD/yjHPrMLSWJpZbn4pNrAKNSaQuKuA8O q85Q9SxT02AAgC58+1pa0aw6ZEBXIgkvyNnNlRgL3Lhl8CqDbGgWDCsx hFo=
+xn--w5bxv6ckd.xn--54b7fta0cc. 10800 IN	NSEC	xn--w5byr7db.xn--54b7fta0cc. NS RRSIG NSEC
+xn--w5bxv6ckd.xn--54b7fta0cc. 10800 IN	NS	ns1.codebound.ltd.
+xn--w5bxv6ckd.xn--54b7fta0cc. 10800 IN	NS	ns2.codebound.ltd.
+xn--w5byr7db.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. bIq66YTmX+WoAPdxWM0RM4WmGeMEIzLAEoP+YjavVci4+cY8JpQTlSJz ZXDSBIwmEijcxfu9yd1SZoCH/4/pA8xKilAuw590BoLdRFwj2oDjTZSC vqsOZ/26l9oq+P7FVEhaZSu7ehIzKPZjIGGsUAB++PJRvoESVwFxcsCV ilU=
+xn--w5byr7db.xn--54b7fta0cc. 10800 IN	NSEC	xn--z5b0cg1a2b.xn--54b7fta0cc. NS RRSIG NSEC
+xn--w5byr7db.xn--54b7fta0cc. 10800 IN	NS	ns1.zaman.com.bd.
+xn--w5byr7db.xn--54b7fta0cc. 10800 IN	NS	ns2.zaman.com.bd.
+xn--z5b0cg1a2b.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. UskgcFTd5+VIQ+u3OwCmj48dupUod+hhfHR/Xs1jmJoRpQap4I1xjPOd NZxvJGiJKscvBWPK90egub6dwwWwu2d3qV9tDTPcGM/HXe3a7bsCkPQJ iApfe9bqiEkK+4eks2wuFLEJN+nhZukkKSKyaD8ypmomn5IVTHa8o+AC 8Fo=
+xn--z5b0cg1a2b.xn--54b7fta0cc. 10800 IN	NSEC	xn--z5b3abed8ejdce.xn--54b7fta0cc. NS RRSIG NSEC
+xn--z5b0cg1a2b.xn--54b7fta0cc. 10800 IN	NS	ns3.dhakawebhost.com.
+xn--z5b0cg1a2b.xn--54b7fta0cc. 10800 IN	NS	ns4.dhakawebhost.com.
+xn--z5b0cg1a2b.xn--54b7fta0cc. 10800 IN	NS	ns6.dhakawebhost.com.
+xn--z5b3abed8ejdce.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. N/Cd/sIHLI0CGr/4YEPw5YOjolfoWhvlPoSmvzoa4RPHoL7M0bfj/U6T kxcW9xfTATpWHQGxXsY3f1i1ptyghMvB0sX31NSOtu3JR132ls29tMb4 72707p+6H6KgIc392TgDEVBuHApKk/tEfgP+vUFwZsCcZtKQ4qyTiBaA VAM=
+xn--z5b3abed8ejdce.xn--54b7fta0cc. 10800 IN NSEC xn--z5ba8etc5a5m.xn--54b7fta0cc. NS RRSIG NSEC
+xn--z5b3abed8ejdce.xn--54b7fta0cc. 10800 IN NS	ns1.dewan-it.com.
+xn--z5b3abed8ejdce.xn--54b7fta0cc. 10800 IN NS	ns2.dewan-it.com.
 xn--z5ba8etc5a5m.xn--54b7fta0cc. 10800 IN A	180.234.212.122
-xn--z5ba8etc5a5m.xn--54b7fta0cc. 10800 IN NSEC	xn--54b7fta0cc. A RRSIG NSEC
-xn--z5ba8etc5a5m.xn--54b7fta0cc. 10800 IN RRSIG	NSEC 8 2 10800 20251009211422 20250909201422 15315 xn--54b7fta0cc. iwbb5bxKlGLC2EGpcl1Uzj2FjJNfib0NWZn7wEJpHVDaXgdsmcghDG0L E3NFuc0rbx73lhORAxb1bg3SrVwyGNGMZXTk1/O6fMj5S6kC1kBoiaP5 4oL13XZjeeD1xKAYdXs4cOmvZZZgIV+0Pbf/bi/+9VNarWBqY9sgOhWf kc0=
+xn--z5ba8etc5a5m.xn--54b7fta0cc. 10800 IN NSEC	xn--z5bd4akg8c1aqfb.xn--54b7fta0cc. A RRSIG NSEC
+xn--z5ba8etc5a5m.xn--54b7fta0cc. 10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. q6RVElmxHpdZ1IaGtw1Syx0GoZ9seVjj3jlQQa2zosbYALRCz8PGGInR m2jF9r7gaEB4c7RnQDqAPgyCCZ4gyhRHuYfmbAv26Hk2JmGs12HZUnp6 tsg+NGGHABhy6/+ft9ertQCiOyBCLZfqwsM81WAAnqPTDlrforBTXsr0 CDw=
 xn--z5ba8etc5a5m.xn--54b7fta0cc. 10800 IN RRSIG	A 8 2 10800 20250925090336 20250826082757 15315 xn--54b7fta0cc. WV/crZGvVrrvjGPFeUoNOpCdgQrWbLDWo6HMU9bl/MMX0OQg1ADPJf09 9PFa4HldOewlLUuWY/r2WyehUuB+8IipRprV0JBUU2SDsnPydaGMbAgQ Kxks3beFswcjPi9AGCDXItTvci1XdsXEvt+6GLeXIXTfeWFSTojwp7S6 RTg=
-xn--54b7fta0cc.		10800	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2025091006 120 3600 604800 10800
+xn--z5bd4akg8c1aqfb.xn--54b7fta0cc. 10800 IN RRSIG NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. DN1ZWe8Nfu+38vfmE3mp7kmoh7MhRAmsCZOWuATMj/pxU9FtNujWaJ9D hYu4pJv7T3emr44wIS19cyNhmnrcbmeQXl6/p0YoZhD7laowW0oSWeLx 7JLU/F7C+d+GCLdjPCAfJKSaYO42c8hKLNVit0/UWSQ2RM66hhi0QRVz 1dE=
+xn--z5bd4akg8c1aqfb.xn--54b7fta0cc. 10800 IN NSEC xn--z5bez8fbb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--z5bd4akg8c1aqfb.xn--54b7fta0cc. 10800 IN NS	ns5.amarserver.com.
+xn--z5bd4akg8c1aqfb.xn--54b7fta0cc. 10800 IN NS	ns6.amarserver.com.
+xn--z5bez8fbb.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. pxtsjOvriGGE+e7W+njRPkErGbC6Md7Cmgs71nZkwxyxGoqfg0bKZfkk MnMtQ7HHMNXXnewgX3cdEV1R8YyAZ/7J71eoMSH5nUSwtZ7G8hiM5fy1 bQ9Nn72tqW4p4BAKiSpEmlBE9g8RoFlqWoq8nQzAxOznU0VwF5fxrIAQ zqQ=
+xn--z5bez8fbb.xn--54b7fta0cc. 10800 IN	NSEC	xn--z5br0eb.xn--54b7fta0cc. NS RRSIG NSEC
+xn--z5bez8fbb.xn--54b7fta0cc. 10800 IN	NS	ns1.a2iservices.gov.bd.
+xn--z5bez8fbb.xn--54b7fta0cc. 10800 IN	NS	ns2.a2iservices.gov.bd.
+xn--z5br0eb.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. QtTg/e4chicSXiubY1ZoFW6UjfZ8j0kdMMk1rKN6RVW5yKSlKgfTv5p8 FmwmvyiMBvKx36D0inP0+y7qekYZXz3VEoFUNyNWk0XznmKu8uU0MrmE kSYlY5RRO9/UnCZ2vNuIfjvuFgO3LG3QGzOG/4RS2hg1heArtaUnLV6/ JqY=
+xn--z5br0eb.xn--54b7fta0cc. 10800 IN	NSEC	xn--z5bxvy8abb2d.xn--54b7fta0cc. NS RRSIG NSEC
+xn--z5br0eb.xn--54b7fta0cc. 10800 IN	NS	ns1.bcc.gov.bd.
+xn--z5br0eb.xn--54b7fta0cc. 10800 IN	NS	ns2.bcc.gov.bd.
+xn--z5bxvy8abb2d.xn--54b7fta0cc. 10800 IN RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. PVH/B+M3VglhrrettI+QbY6DlHAVBkt58Jnan3GdwieyNkvqMd91xZi7 iMYWsU15dixqutMNuyV+O51QMs/2rLU8ePOxtUh/gTMAcuRO/DJ6QWaS 1moINFCyVBrzSQYF3XbmcJAkyGaqkI2rsnWoJV7CNpO0eKhrYqU0U+jP J20=
+xn--z5bxvy8abb2d.xn--54b7fta0cc. 10800 IN NSEC	xn--z5bzzb7c5a.xn--54b7fta0cc. NS RRSIG NSEC
+xn--z5bxvy8abb2d.xn--54b7fta0cc. 10800 IN NS	dns1.bdcom.com.
+xn--z5bxvy8abb2d.xn--54b7fta0cc. 10800 IN NS	dns2.bdcom.com.
+xn--z5bxvy8abb2d.xn--54b7fta0cc. 10800 IN NS	ns-310.awsdns-38.com.
+xn--z5bzzb7c5a.xn--54b7fta0cc. 10800 IN	RRSIG	NSEC 8 2 10800 20251009214434 20250909204434 15315 xn--54b7fta0cc. EogtAUcqcQ7mgDCRlRFyL3gS1YjRW8TQAOo2fQnLSvVeu9TD1AM9usEX BlC61nfT+d7cQ4+qf5rtw3fP7GaFhbvCfP6R2rcRJcuPmO1HGqjMC8b+ Laocv0bUdM1WoDHb/PUInAAsUTD3fylfS+rQUtuSbJ2z4FuVXL50s3bd ba0=
+xn--z5bzzb7c5a.xn--54b7fta0cc. 10800 IN	NSEC	xn--54b7fta0cc. NS RRSIG NSEC
+xn--z5bzzb7c5a.xn--54b7fta0cc. 10800 IN	NS	ns1.exonhost.com.
+xn--z5bzzb7c5a.xn--54b7fta0cc. 10800 IN	NS	ns2.exonhost.com.
+xn--54b7fta0cc.		10800	IN	SOA	ekushey.btcl.net.bd. root.btcl.net.bd. 2025091009 120 3600 604800 10800
