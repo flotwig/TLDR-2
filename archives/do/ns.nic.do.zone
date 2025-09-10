@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025091014 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025091016 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1757511908"
+do.			3600	IN	TXT	"Generation Time: 1757518510"
 00.do.			3600	IN	NS	ns1.netsto.net.
 00.do.			3600	IN	NS	ns2.netsto.net.
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
@@ -5048,10 +5048,8 @@ bayercropscience.do.	3600	IN	NS	pdns1.cscdns.net.
 bayercropscience.do.	3600	IN	NS	pdns2.cscdns.net.
 bayerscheringpharma.do.	3600	IN	NS	pdns1.cscdns.net.
 bayerscheringpharma.do.	3600	IN	NS	pdns2.cscdns.net.
-baynao.do.		3600	IN	NS	ns-41.awsdns-05.com.
-baynao.do.		3600	IN	NS	ns-763.awsdns-31.net.
-baynao.do.		3600	IN	NS	ns-1306.awsdns-35.org.
-baynao.do.		3600	IN	NS	ns-1555.awsdns-02.co.uk.
+baynao.do.		3600	IN	NS	robin.ns.cloudflare.com.
+baynao.do.		3600	IN	NS	george.ns.cloudflare.com.
 baysea.do.		3600	IN	NS	dns4.midominio.do.
 baysea.do.		3600	IN	NS	dns3.midominio.do.
 baysea.do.		3600	IN	NS	dns2.midominio.do.
@@ -12105,6 +12103,9 @@ dashboardmedia.do.	3600	IN	NS	dns4.midominio.do.
 dashboardmedia.do.	3600	IN	NS	dns3.midominio.do.
 dashboardmedia.do.	3600	IN	NS	dns2.midominio.do.
 dashboardmedia.do.	3600	IN	NS	dns1.midominio.do.
+dashlink.do.		3600	IN	NS	ns1.digitalocean.com.
+dashlink.do.		3600	IN	NS	ns2.digitalocean.com.
+dashlink.do.		3600	IN	NS	ns3.digitalocean.com.
 dasi.do.		3600	IN	NS	cdns3.interserver.net.
 dasi.do.		3600	IN	NS	cdns2.interserver.net.
 dasi.do.		3600	IN	NS	cdns1.interserver.net.
@@ -13831,6 +13832,10 @@ dosjotas.do.		3600	IN	NS	dns4.midominio.do.
 dosjotas.do.		3600	IN	NS	dns3.midominio.do.
 dosjotas.do.		3600	IN	NS	dns2.midominio.do.
 dosjotas.do.		3600	IN	NS	dns1.midominio.do.
+doslagunas.do.		3600	IN	NS	dns1.midominio.do.
+doslagunas.do.		3600	IN	NS	dns2.midominio.do.
+doslagunas.do.		3600	IN	NS	dns3.midominio.do.
+doslagunas.do.		3600	IN	NS	dns4.midominio.do.
 dota.do.		3600	IN	NS	dns4.midominio.do.
 dota.do.		3600	IN	NS	dns3.midominio.do.
 dota.do.		3600	IN	NS	dns2.midominio.do.
@@ -38070,6 +38075,9 @@ safiuniversalrd.do.	3600	IN	NS	dns4.midominio.do.
 safiuniversalrd.do.	3600	IN	NS	dns3.midominio.do.
 safiuniversalrd.do.	3600	IN	NS	dns2.midominio.do.
 safiuniversalrd.do.	3600	IN	NS	dns1.midominio.do.
+safrax.do.		3600	IN	NS	ns1.netim.net.
+safrax.do.		3600	IN	NS	ns2.netim.net.
+safrax.do.		3600	IN	NS	ns3.netim.net.
 sagesse.do.		3600	IN	NS	dns4.midominio.do.
 sagesse.do.		3600	IN	NS	dns3.midominio.do.
 sagesse.do.		3600	IN	NS	dns2.midominio.do.
@@ -41350,6 +41358,10 @@ stuff.do.		3600	IN	NS	ns10.digicertdns.com.
 stuff.do.		3600	IN	NS	ns15.digicertdns.net.
 stx.do.			3600	IN	NS	jaime.ns.cloudflare.com.
 stx.do.			3600	IN	NS	alina.ns.cloudflare.com.
+suau.do.		3600	IN	NS	dns1.midominio.do.
+suau.do.		3600	IN	NS	dns2.midominio.do.
+suau.do.		3600	IN	NS	dns3.midominio.do.
+suau.do.		3600	IN	NS	dns4.midominio.do.
 subagente.do.		3600	IN	NS	ns2.claro.net.do.
 subagente.do.		3600	IN	NS	ns1.claro.net.do.
 subagentebancario.do.	3600	IN	NS	ns2.claro.net.do.
@@ -42834,6 +42846,9 @@ tgmpanel.do.		3600	IN	NS	ns1.netim.net.
 thag.do.		3600	IN	NS	ns01.trademarkarea.com.
 thag.do.		3600	IN	NS	ns02.trademarkarea.com.
 thag.do.		3600	IN	NS	ns03.trademarkarea.com.
+thai.do.		3600	IN	NS	1-you.njalla.no.
+thai.do.		3600	IN	NS	2-can.njalla.in.
+thai.do.		3600	IN	NS	3-get.njalla.fo.
 thailand.do.		3600	IN	NS	elliott.ns.cloudflare.com.
 thailand.do.		3600	IN	NS	aisha.ns.cloudflare.com.
 that.do.		3600	IN	NS	pdns13.domaincontrol.com.
@@ -47827,6 +47842,9 @@ yosoylocal.do.		3600	IN	NS	dns4.midominio.do.
 yosoylocal.do.		3600	IN	NS	dns3.midominio.do.
 yosoylocal.do.		3600	IN	NS	dns2.midominio.do.
 yosoylocal.do.		3600	IN	NS	dns1.midominio.do.
+yosper.do.		3600	IN	NS	ns1.netim.net.
+yosper.do.		3600	IN	NS	ns2.netim.net.
+yosper.do.		3600	IN	NS	ns3.netim.net.
 yostphotography.do.	3600	IN	NS	dns4.midominio.do.
 yostphotography.do.	3600	IN	NS	dns3.midominio.do.
 yostphotography.do.	3600	IN	NS	dns2.midominio.do.
@@ -48273,4 +48291,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025091014 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025091016 3600 3600 604800 3600
