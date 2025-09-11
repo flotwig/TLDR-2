@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025091121 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025091124 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1757621407"
+do.			3600	IN	TXT	"Generation Time: 1757631309"
 00.do.			3600	IN	NS	dorthy.ns.cloudflare.com.
 00.do.			3600	IN	NS	carlos.ns.cloudflare.com.
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
@@ -5787,8 +5787,8 @@ bir.do.			3600	IN	NS	ns1.bir.do.
 bir.do.			3600	IN	NS	ns2.bir.do.
 ns1.bir.do.		3600	IN	AAAA	2403:580a:1f66::103
 ns1.bir.do.		3600	IN	A	167.179.175.1
-ns2.bir.do.		3600	IN	AAAA	2400:6180:10:200::c:7000
 ns2.bir.do.		3600	IN	A	170.64.156.31
+ns2.bir.do.		3600	IN	AAAA	2400:6180:10:200::c:7000
 bird.do.		3600	IN	NS	ns2.markmonitor.com.
 bird.do.		3600	IN	NS	ns1.markmonitor.com.
 biriz.do.		3600	IN	NS	ns3.netim.net.
@@ -13365,6 +13365,10 @@ doctorpeso.do.		3600	IN	NS	dns4.midominio.do.
 doctorpeso.do.		3600	IN	NS	dns3.midominio.do.
 doctorpeso.do.		3600	IN	NS	dns2.midominio.do.
 doctorpeso.do.		3600	IN	NS	dns1.midominio.do.
+doctors.do.		3600	IN	NS	dns4.midominio.do.
+doctors.do.		3600	IN	NS	dns3.midominio.do.
+doctors.do.		3600	IN	NS	dns2.midominio.do.
+doctors.do.		3600	IN	NS	dns1.midominio.do.
 doctorscenter.do.	3600	IN	NS	ns2.nw66.fcomet.com.
 doctorscenter.do.	3600	IN	NS	ns1.nw66.fcomet.com.
 documentan.do.		3600	IN	NS	ns8.wixdns.net.
@@ -13739,10 +13743,8 @@ donate.do.		3600	IN	NS	ns-704.awsdns-24.net.
 donate.do.		3600	IN	NS	ns-1560.awsdns-03.co.uk.
 donate.do.		3600	IN	NS	ns-407.awsdns-50.com.
 donate.do.		3600	IN	NS	ns-1512.awsdns-61.org.
-donde.do.		3600	IN	NS	dns4.midominio.do.
-donde.do.		3600	IN	NS	dns3.midominio.do.
-donde.do.		3600	IN	NS	dns2.midominio.do.
-donde.do.		3600	IN	NS	dns1.midominio.do.
+donde.do.		3600	IN	NS	ns2.varvaros.com.
+donde.do.		3600	IN	NS	ns1.varvaros.com.
 done.do.		3600	IN	NS	ns-1130.awsdns-13.org.
 done.do.		3600	IN	NS	ns-1700.awsdns-20.co.uk.
 done.do.		3600	IN	NS	ns-355.awsdns-44.com.
@@ -28911,20 +28913,20 @@ midominio.do.		3600	IN	NS	dns1.midominio.do.
 midominio.do.		3600	IN	NS	dns3.midominio.do.
 midominio.do.		3600	IN	NS	dns4.midominio.do.
 midominio.do.		3600	IN	NS	dns2.midominio.do.
-dns1.midominio.do.	3600	IN	A	162.251.82.123
 dns1.midominio.do.	3600	IN	A	162.251.82.122
-dns1.midominio.do.	3600	IN	A	162.251.82.251
 dns1.midominio.do.	3600	IN	A	162.251.82.250
+dns1.midominio.do.	3600	IN	A	162.251.82.123
+dns1.midominio.do.	3600	IN	A	162.251.82.251
 dns2.midominio.do.	3600	IN	A	162.251.82.248
 dns2.midominio.do.	3600	IN	A	162.251.82.249
-dns2.midominio.do.	3600	IN	A	162.251.82.120
 dns2.midominio.do.	3600	IN	A	162.251.82.121
-dns3.midominio.do.	3600	IN	A	162.251.82.118
+dns2.midominio.do.	3600	IN	A	162.251.82.120
 dns3.midominio.do.	3600	IN	A	162.251.82.119
-dns3.midominio.do.	3600	IN	A	162.251.82.246
 dns3.midominio.do.	3600	IN	A	162.251.82.247
-dns4.midominio.do.	3600	IN	A	162.251.82.252
+dns3.midominio.do.	3600	IN	A	162.251.82.118
+dns3.midominio.do.	3600	IN	A	162.251.82.246
 dns4.midominio.do.	3600	IN	A	162.251.82.125
+dns4.midominio.do.	3600	IN	A	162.251.82.252
 dns4.midominio.do.	3600	IN	A	162.251.82.253
 dns4.midominio.do.	3600	IN	A	162.251.82.124
 mie.do.			3600	IN	NS	ns2.gofruits.co.
@@ -30992,12 +30994,12 @@ nic.do.			3600	IN	NS	a.lactld.org.
 nic.do.			3600	IN	NS	ns1.nic.do.
 nic.do.			3600	IN	NS	ns5.nic.do.
 nic.do.			3600	IN	NS	ns.nic.do.
-ns.nic.do.		3600	IN	AAAA	2001:13e0:85d0:106::177
 ns.nic.do.		3600	IN	A	190.113.72.177
-ns1.nic.do.		3600	IN	AAAA	2001:13e0:85d0:106::178
+ns.nic.do.		3600	IN	AAAA	2001:13e0:85d0:106::177
 ns1.nic.do.		3600	IN	A	190.113.72.178
-ns2.nic.do.		3600	IN	A	190.113.65.12
+ns1.nic.do.		3600	IN	AAAA	2001:13e0:85d0:106::178
 ns2.nic.do.		3600	IN	AAAA	2001:13e0:0:1::12
+ns2.nic.do.		3600	IN	A	190.113.65.12
 ns4.nic.do.		3600	IN	AAAA	2001:500:14:6124:ad::1
 ns4.nic.do.		3600	IN	A	204.61.216.124
 ns5.nic.do.		3600	IN	A	190.113.65.13
@@ -41494,6 +41496,10 @@ sunaluxmountainresidences.do. 3600 IN	NS	dns4.midominio.do.
 sunaluxmountainresidences.do. 3600 IN	NS	dns3.midominio.do.
 sunaluxmountainresidences.do. 3600 IN	NS	dns2.midominio.do.
 sunaluxmountainresidences.do. 3600 IN	NS	dns1.midominio.do.
+sunandmoon.do.		3600	IN	NS	dns4.midominio.do.
+sunandmoon.do.		3600	IN	NS	dns3.midominio.do.
+sunandmoon.do.		3600	IN	NS	dns2.midominio.do.
+sunandmoon.do.		3600	IN	NS	dns1.midominio.do.
 sunard.do.		3600	IN	NS	dns4.midominio.do.
 sunard.do.		3600	IN	NS	dns3.midominio.do.
 sunard.do.		3600	IN	NS	dns2.midominio.do.
@@ -45138,6 +45144,10 @@ usave.do.		3600	IN	NS	ns2.101domain.com.
 usave.do.		3600	IN	NS	ns1.101domain.com.
 usdc.do.		3600	IN	NS	norman.ns.cloudflare.com.
 usdc.do.		3600	IN	NS	kay.ns.cloudflare.com.
+usdocs.do.		3600	IN	NS	dns4.midominio.do.
+usdocs.do.		3600	IN	NS	dns3.midominio.do.
+usdocs.do.		3600	IN	NS	dns2.midominio.do.
+usdocs.do.		3600	IN	NS	dns1.midominio.do.
 usdt.do.		3600	IN	NS	launch1.spaceship.net.
 usdt.do.		3600	IN	NS	launch2.spaceship.net.
 use.do.			3600	IN	NS	leah.ns.cloudflare.com.
@@ -48075,6 +48085,12 @@ zehuri.do.		3600	IN	NS	dns4.midominio.do.
 zehuri.do.		3600	IN	NS	dns3.midominio.do.
 zehuri.do.		3600	IN	NS	dns2.midominio.do.
 zehuri.do.		3600	IN	NS	dns1.midominio.do.
+zellecoin.do.		3600	IN	NS	dns4.midominio.do.
+zellecoin.do.		3600	IN	NS	dns3.midominio.do.
+zellecoin.do.		3600	IN	NS	dns2.midominio.do.
+zellecoin.do.		3600	IN	NS	dns1.midominio.do.
+zellecoins.do.		3600	IN	NS	dns2.cscdns.net.
+zellecoins.do.		3600	IN	NS	dns1.cscdns.net.
 zemihotels.do.		3600	IN	NS	dns4.midominio.do.
 zemihotels.do.		3600	IN	NS	dns3.midominio.do.
 zemihotels.do.		3600	IN	NS	dns2.midominio.do.
@@ -48301,4 +48317,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025091121 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025091124 3600 3600 604800 3600
