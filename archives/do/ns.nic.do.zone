@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025091113 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025091114 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1757595015"
+do.			3600	IN	TXT	"Generation Time: 1757598301"
 00.do.			3600	IN	NS	carlos.ns.cloudflare.com.
 00.do.			3600	IN	NS	dorthy.ns.cloudflare.com.
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
@@ -13452,8 +13452,10 @@ doktorpeso.do.		3600	IN	NS	dns4.midominio.do.
 doktorpeso.do.		3600	IN	NS	dns3.midominio.do.
 doktorpeso.do.		3600	IN	NS	dns2.midominio.do.
 doktorpeso.do.		3600	IN	NS	dns1.midominio.do.
-dol.do.			3600	IN	NS	dana.ns.cloudflare.com.
-dol.do.			3600	IN	NS	glen.ns.cloudflare.com.
+dol.do.			3600	IN	NS	any-ns1.dol.do.
+dol.do.			3600	IN	NS	any-ns2.dol.do.
+any-ns1.dol.do.		3600	IN	A	91.200.176.1
+any-ns2.dol.do.		3600	IN	A	109.104.147.1
 dolar.do.		3600	IN	NS	dns4.midominio.do.
 dolar.do.		3600	IN	NS	dns3.midominio.do.
 dolar.do.		3600	IN	NS	dns2.midominio.do.
@@ -18104,6 +18106,7 @@ frie.do.		3600	IN	NS	pns54.cloudns.net.
 frie.do.		3600	IN	NS	pns53.cloudns.net.
 frie.do.		3600	IN	NS	pns52.cloudns.net.
 frie.do.		3600	IN	NS	pns51.cloudns.net.
+frie.do.		3600	IN	NS	ns51.cloudns.net.
 frien.do.		3600	IN	NS	ns3.dreamhost.com.
 frien.do.		3600	IN	NS	ns2.dreamhost.com.
 frien.do.		3600	IN	NS	ns1.dreamhost.com.
@@ -20479,9 +20482,8 @@ harvestgroup.do.	3600	IN	NS	dns4.midominio.do.
 harvestgroup.do.	3600	IN	NS	dns3.midominio.do.
 harvestgroup.do.	3600	IN	NS	dns2.midominio.do.
 harvestgroup.do.	3600	IN	NS	dns1.midominio.do.
-hautarzt.do.		3600	IN	NS	ns.udag.org.
-hautarzt.do.		3600	IN	NS	ns.udag.net.
-hautarzt.do.		3600	IN	NS	ns.udag.de.
+hautarzt.do.		3600	IN	NS	ns5.kasserver.com.
+hautarzt.do.		3600	IN	NS	ns6.kasserver.com.
 haval.do.		3600	IN	NS	ns8.gomydns.com.
 haval.do.		3600	IN	NS	ns7.gomydns.com.
 haval.do.		3600	IN	NS	ns6.gomydns.com.
@@ -48313,4 +48315,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025091113 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025091114 3600 3600 604800 3600
