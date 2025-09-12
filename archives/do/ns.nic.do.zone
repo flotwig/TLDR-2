@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025091211 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025091212 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1757674805"
+do.			3600	IN	TXT	"Generation Time: 1757678105"
 00.do.			3600	IN	NS	carlos.ns.cloudflare.com.
 00.do.			3600	IN	NS	dorthy.ns.cloudflare.com.
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
@@ -13443,8 +13443,10 @@ doktorpeso.do.		3600	IN	NS	dns4.midominio.do.
 doktorpeso.do.		3600	IN	NS	dns3.midominio.do.
 doktorpeso.do.		3600	IN	NS	dns2.midominio.do.
 doktorpeso.do.		3600	IN	NS	dns1.midominio.do.
-dol.do.			3600	IN	NS	dana.ns.cloudflare.com.
-dol.do.			3600	IN	NS	glen.ns.cloudflare.com.
+dol.do.			3600	IN	NS	any-ns1.dol.do.
+dol.do.			3600	IN	NS	any-ns2.dol.do.
+any-ns1.dol.do.		3600	IN	A	91.200.176.1
+any-ns2.dol.do.		3600	IN	A	109.104.147.1
 dolar.do.		3600	IN	NS	dns4.midominio.do.
 dolar.do.		3600	IN	NS	dns3.midominio.do.
 dolar.do.		3600	IN	NS	dns2.midominio.do.
@@ -48323,4 +48325,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025091211 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025091212 3600 3600 604800 3600
