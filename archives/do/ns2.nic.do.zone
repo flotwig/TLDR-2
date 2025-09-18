@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025091800 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025091803 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1758153614"
+do.			3600	IN	TXT	"Generation Time: 1758166801"
 00.do.			3600	IN	NS	dorthy.ns.cloudflare.com.
 00.do.			3600	IN	NS	carlos.ns.cloudflare.com.
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
@@ -19313,6 +19313,10 @@ gmgn.do.		3600	IN	NS	2-nest.pipe.ma.
 gmgn.do.		3600	IN	NS	1-ceci.njalla.do.
 gmh.do.			3600	IN	NS	ns2.hostsilo.com.
 gmh.do.			3600	IN	NS	ns1.hostsilo.com.
+gmonsantoconsulting.do.	3600	IN	NS	dns4.midominio.do.
+gmonsantoconsulting.do.	3600	IN	NS	dns3.midominio.do.
+gmonsantoconsulting.do.	3600	IN	NS	dns2.midominio.do.
+gmonsantoconsulting.do.	3600	IN	NS	dns1.midominio.do.
 gmonterotorres.do.	3600	IN	NS	ns2.dnns.net.
 gmonterotorres.do.	3600	IN	NS	ns1.dnns.net.
 gmp.do.			3600	IN	NS	gwen.ns.cloudflare.com.
@@ -28949,11 +28953,11 @@ midominio.do.		3600	IN	NS	dns3.midominio.do.
 midominio.do.		3600	IN	NS	dns4.midominio.do.
 midominio.do.		3600	IN	NS	dns2.midominio.do.
 dns1.midominio.do.	3600	IN	A	162.251.82.123
-dns1.midominio.do.	3600	IN	A	162.251.82.250
 dns1.midominio.do.	3600	IN	A	162.251.82.251
+dns1.midominio.do.	3600	IN	A	162.251.82.250
 dns1.midominio.do.	3600	IN	A	162.251.82.122
-dns2.midominio.do.	3600	IN	A	162.251.82.121
 dns2.midominio.do.	3600	IN	A	162.251.82.248
+dns2.midominio.do.	3600	IN	A	162.251.82.121
 dns2.midominio.do.	3600	IN	A	162.251.82.120
 dns2.midominio.do.	3600	IN	A	162.251.82.249
 dns3.midominio.do.	3600	IN	A	162.251.82.118
@@ -30896,8 +30900,10 @@ newsgroup.do.		3600	IN	NS	ns2.bluehost.com.
 newsgroup.do.		3600	IN	NS	ns1.bluehost.com.
 newsoft.do.		3600	IN	NS	ns57.domaincontrol.com.
 newsoft.do.		3600	IN	NS	ns58.domaincontrol.com.
-newworld.do.		3600	IN	NS	ns2.dns-parking.com.
-newworld.do.		3600	IN	NS	ns1.dns-parking.com.
+newworld.do.		3600	IN	NS	dns4.midominio.do.
+newworld.do.		3600	IN	NS	dns3.midominio.do.
+newworld.do.		3600	IN	NS	dns2.midominio.do.
+newworld.do.		3600	IN	NS	dns1.midominio.do.
 newyork.do.		3600	IN	NS	dns4.midominio.do.
 newyork.do.		3600	IN	NS	dns3.midominio.do.
 newyork.do.		3600	IN	NS	dns2.midominio.do.
@@ -31016,12 +31022,12 @@ nic.do.			3600	IN	NS	a.lactld.org.
 nic.do.			3600	IN	NS	ns1.nic.do.
 nic.do.			3600	IN	NS	ns5.nic.do.
 nic.do.			3600	IN	NS	ns.nic.do.
-ns.nic.do.		3600	IN	AAAA	2001:13e0:85d0:106::177
 ns.nic.do.		3600	IN	A	190.113.72.177
+ns.nic.do.		3600	IN	AAAA	2001:13e0:85d0:106::177
 ns1.nic.do.		3600	IN	A	190.113.72.178
 ns1.nic.do.		3600	IN	AAAA	2001:13e0:85d0:106::178
-ns2.nic.do.		3600	IN	AAAA	2001:13e0:0:1::12
 ns2.nic.do.		3600	IN	A	190.113.65.12
+ns2.nic.do.		3600	IN	AAAA	2001:13e0:0:1::12
 ns4.nic.do.		3600	IN	A	204.61.216.124
 ns4.nic.do.		3600	IN	AAAA	2001:500:14:6124:ad::1
 ns5.nic.do.		3600	IN	A	190.113.65.13
@@ -41228,8 +41234,8 @@ stix.do.		3600	IN	NS	ns2.stix.do.
 stix.do.		3600	IN	NS	ns1.stix.do.
 ns1.stix.do.		3600	IN	AAAA	2803:9c0:100::2b
 ns1.stix.do.		3600	IN	A	45.5.11.11
-ns2.stix.do.		3600	IN	A	45.5.10.10
 ns2.stix.do.		3600	IN	AAAA	2803:9c0:100::2a
+ns2.stix.do.		3600	IN	A	45.5.10.10
 stlcardinals.do.	3600	IN	NS	ns-cloud-c1.googledomains.com.
 stlcardinals.do.	3600	IN	NS	ns-664.awsdns-19.net.
 stlcardinals.do.	3600	IN	NS	ns-1660.awsdns-15.co.uk.
@@ -48339,4 +48345,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025091800 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025091803 3600 3600 604800 3600
