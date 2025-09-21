@@ -1,4 +1,4 @@
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025092007 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025092105 86400 7200 3600000 172800
 ps.			86400	IN	NS	ps.cctld.authdns.ripe.net.
 ps.			86400	IN	NS	ns1.pnina.ps.
 ps.			86400	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.			86400	IN	NS	rip.psg.com.
 ps.			86400	IN	NS	fork.sth.dnsnode.net.
 ps.			86400	IN	NS	Bilal.pnina.ps.
 ps.			86400	IN	NS	ps-ns.anycast.pch.net.
-ps.			86400	IN	TXT	"Generation Time: 1758369704"
+ps.			86400	IN	TXT	"Generation Time: 1758441695"
 01net.ps.		86400	IN	NS	ns1.safebrands.fr.
 01net.ps.		86400	IN	NS	ns2.safebrands.eu.
 01net.ps.		86400	IN	NS	ns3.safebrands.com.
@@ -330,8 +330,8 @@ abushukur.ps.		86400	IN	NS	ns1-cat.dl-cms.com.
 abushukur.ps.		86400	IN	NS	ns2-cat.dl-cms.com.
 abushusheh.ps.		86400	IN	NS	ines.ns.cloudflare.com.
 abushusheh.ps.		86400	IN	NS	norm.ns.cloudflare.com.
-abususu.ps.		86400	IN	NS	jill.ns.cloudflare.com.
-abususu.ps.		86400	IN	NS	kanye.ns.cloudflare.com.
+abususu.ps.		86400	IN	NS	ns1.dns-parking.com.
+abususu.ps.		86400	IN	NS	ns2.dns-parking.com.
 abuthabet.ps.		86400	IN	NS	ns1.injazatcloud.ps.
 abuthabet.ps.		86400	IN	NS	ns2.injazatcloud.ps.
 abuzahra.ps.		86400	IN	NS	liv.ns.cloudflare.com.
@@ -2257,6 +2257,8 @@ aseabrownboveri.ps.	86400	IN	NS	a13-65.akam.net.
 aseabrownboveri.ps.	86400	IN	NS	a22-65.akam.net.
 aseel.ps.		86400	IN	NS	ns3.masterweb-ps.com.
 aseel.ps.		86400	IN	NS	ns4.masterweb-ps.com.
+aselapp.ps.		86400	IN	NS	ns1.sederhost.com.
+aselapp.ps.		86400	IN	NS	ns2.sederhost.com.
 asfar.ps.		86400	IN	NS	cdns1.hadara.ps.
 asfar.ps.		86400	IN	NS	cdns2.hadara.ps.
 asha.ps.		86400	IN	NS	hosting01.mada.ps.
@@ -6313,6 +6315,8 @@ flypgs.ps.		86400	IN	NS	ns3.atakteknoloji.com.
 flypgs.ps.		86400	IN	NS	ns4.atakteknoloji.com.
 flyzone.ps.		86400	IN	NS	cdns1.hadara.ps.
 flyzone.ps.		86400	IN	NS	cdns2.hadara.ps.
+fmc.ps.			86400	IN	NS	ns1.mysecurecloudhost.com.
+fmc.ps.			86400	IN	NS	ns2.mysecurecloudhost.com.
 fmovie.ps.		86400	IN	NS	ns1.bodis.com.
 fmovie.ps.		86400	IN	NS	ns2.bodis.com.
 fmovies.ps.		86400	IN	NS	piotr.ns.cloudflare.com.
@@ -12365,6 +12369,9 @@ orset.ps.		86400	IN	NS	ns1.zone.ps.
 orset.ps.		86400	IN	NS	ns2.zone.ps.
 ortholand.ps.		86400	IN	NS	ns1.dns-parking.com.
 ortholand.ps.		86400	IN	NS	ns2.dns-parking.com.
+oryal.ps.		86400	IN	NS	ns1.i-net.ps.
+oryal.ps.		86400	IN	NS	ns4.i-net.ps.
+oryal.ps.		86400	IN	NS	ns7.i-net.ps.
 osaily.ps.		86400	IN	NS	cdns1.hadara.ps.
 osaily.ps.		86400	IN	NS	cdns2.hadara.ps.
 osailygroup.ps.		86400	IN	NS	hosting01.mada.ps.
@@ -12922,11 +12929,11 @@ paltelfoundation.ps.	86400	IN	NS	ns-cloud-c1.googledomains.com.
 paltelfoundation.ps.	86400	IN	NS	ns-cloud-c2.googledomains.com.
 paltelfoundation.ps.	86400	IN	NS	ns-cloud-c3.googledomains.com.
 paltelfoundation.ps.	86400	IN	NS	ns-cloud-c4.googledomains.com.
-paltelgroup.ps.		86400	IN	DS	50044 13 2 AC2016C79868DD2BBDDD9525CA58E33E0D752E049BF399F4A53532E2 41D38DAF
 paltelgroup.ps.		86400	IN	NS	ns-cloud-c1.googledomains.com.
 paltelgroup.ps.		86400	IN	NS	ns-cloud-c2.googledomains.com.
 paltelgroup.ps.		86400	IN	NS	ns-cloud-c3.googledomains.com.
 paltelgroup.ps.		86400	IN	NS	ns-cloud-c4.googledomains.com.
+paltelgroup.ps.		86400	IN	DS	50044 13 2 AC2016C79868DD2BBDDD9525CA58E33E0D752E049BF399F4A53532E2 41D38DAF
 paltelgrp.ps.		86400	IN	NS	ns1.atyaf.co.
 paltelgrp.ps.		86400	IN	NS	ns2.atyaf.co.
 paltellight.ps.		86400	IN	NS	ns.paltel.net.
@@ -14490,9 +14497,8 @@ redecanais.ps.		86400	IN	NS	chan.ns.cloudflare.com.
 redecanais.ps.		86400	IN	NS	finley.ns.cloudflare.com.
 redecanaistv.ps.	86400	IN	NS	chan.ns.cloudflare.com.
 redecanaistv.ps.	86400	IN	NS	finley.ns.cloudflare.com.
-redflag.ps.		86400	IN	NS	1-you.njalla.no.
-redflag.ps.		86400	IN	NS	2-can.njalla.in.
-redflag.ps.		86400	IN	NS	3-get.njalla.fo.
+redflag.ps.		86400	IN	NS	ns5.kasserver.com.
+redflag.ps.		86400	IN	NS	ns6.kasserver.com.
 redit.ps.		86400	IN	NS	ns1.injazatcloud.ps.
 redit.ps.		86400	IN	NS	ns2.injazatcloud.ps.
 redline.ps.		86400	IN	NS	ns-50.awsdns-06.com.
@@ -15216,8 +15222,8 @@ sara.ps.		86400	IN	NS	ns1-cat.dl-cms.com.
 sara.ps.		86400	IN	NS	ns2-cat.dl-cms.com.
 sarab.ps.		86400	IN	NS	ines.ns.cloudflare.com.
 sarab.ps.		86400	IN	NS	norm.ns.cloudflare.com.
-saracafe.ps.		86400	IN	NS	maxim.ns.cloudflare.com.
-saracafe.ps.		86400	IN	NS	sonia.ns.cloudflare.com.
+saracafe.ps.		86400	IN	NS	ns1.dns-parking.com.
+saracafe.ps.		86400	IN	NS	ns2.dns-parking.com.
 saragroup.ps.		86400	IN	NS	ns6551.hostgator.com.
 saragroup.ps.		86400	IN	NS	ns6552.hostgator.com.
 saraya.ps.		86400	IN	NS	sara.ns.derak.cloud.
@@ -16496,6 +16502,8 @@ streaneast.ps.		86400	IN	NS	ns1.abovedomains.com.
 streaneast.ps.		86400	IN	NS	ns2.abovedomains.com.
 stremeast.ps.		86400	IN	NS	ns1.abovedomains.com.
 stremeast.ps.		86400	IN	NS	ns2.abovedomains.com.
+stri.ps.		86400	IN	NS	rob.ns.cloudflare.com.
+stri.ps.		86400	IN	NS	zara.ns.cloudflare.com.
 stromer.ps.		86400	IN	NS	ns1.variomedia.de.
 stromer.ps.		86400	IN	NS	ns2.variomedia.de.
 strx.ps.		86400	IN	NS	ns1.dns-parking.com.
@@ -17796,6 +17804,8 @@ unitedgaz.ps.		86400	IN	NS	hosting01.mada.ps.
 unitedgaz.ps.		86400	IN	NS	hosting02.mada.ps.
 unitedgroup.ps.		86400	IN	NS	ns1.mysecurecloudhost.com.
 unitedgroup.ps.		86400	IN	NS	ns2.mysecurecloudhost.com.
+unitedoffice.ps.	86400	IN	NS	ns1.bluetd.com.
+unitedoffice.ps.	86400	IN	NS	ns2.bluetd.com.
 unitedvet.ps.		86400	IN	NS	ns155.securenet-server.net.
 unitedvet.ps.		86400	IN	NS	ns156.securenet-server.net.
 unitone.ps.		86400	IN	NS	ns4227.hostgator.com.
@@ -18968,4 +18978,4 @@ zuwadeh.ps.		86400	IN	NS	ns3.ftswebservices.com.
 zuwadeh.ps.		86400	IN	NS	ns4.ftswebservices.com.
 zuwar.ps.		86400	IN	NS	ns1.dns-parking.com.
 zuwar.ps.		86400	IN	NS	ns2.dns-parking.com.
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025092007 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025092105 86400 7200 3600000 172800
