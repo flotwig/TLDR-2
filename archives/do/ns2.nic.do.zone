@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025092203 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025092208 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1758512403"
+do.			3600	IN	TXT	"Generation Time: 1758528907"
 00.do.			3600	IN	NS	dorthy.ns.cloudflare.com.
 00.do.			3600	IN	NS	carlos.ns.cloudflare.com.
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
@@ -18072,6 +18072,9 @@ frie.do.		3600	IN	NS	ns51.cloudns.net.
 frien.do.		3600	IN	NS	ns3.dreamhost.com.
 frien.do.		3600	IN	NS	ns2.dreamhost.com.
 frien.do.		3600	IN	NS	ns1.dreamhost.com.
+friend.do.		3600	IN	NS	ns3.regery.net.
+friend.do.		3600	IN	NS	ns2.regery.net.
+friend.do.		3600	IN	NS	ns1.regery.net.
 friends.do.		3600	IN	NS	dns4.midominio.do.
 friends.do.		3600	IN	NS	dns3.midominio.do.
 friends.do.		3600	IN	NS	dns2.midominio.do.
@@ -24240,6 +24243,9 @@ kanada.do.		3600	IN	NS	ns8919.banahosting.com.
 kanada.do.		3600	IN	NS	ns8918.banahosting.com.
 kanban.do.		3600	IN	NS	ns2.101domain.com.
 kanban.do.		3600	IN	NS	ns1.101domain.com.
+kaneka.do.		3600	IN	NS	nsusa.comlaude.net.
+kaneka.do.		3600	IN	NS	nssui.comlaude.ch.
+kaneka.do.		3600	IN	NS	nsgbr.comlaude.co.uk.
 kanekalon.do.		3600	IN	NS	nsusa.comlaude.net.
 kanekalon.do.		3600	IN	NS	nssui.comlaude.ch.
 kanekalon.do.		3600	IN	NS	nsgbr.comlaude.co.uk.
@@ -28934,18 +28940,18 @@ midominio.do.		3600	IN	NS	dns1.midominio.do.
 midominio.do.		3600	IN	NS	dns3.midominio.do.
 midominio.do.		3600	IN	NS	dns4.midominio.do.
 midominio.do.		3600	IN	NS	dns2.midominio.do.
-dns1.midominio.do.	3600	IN	A	162.251.82.123
 dns1.midominio.do.	3600	IN	A	162.251.82.122
+dns1.midominio.do.	3600	IN	A	162.251.82.123
 dns1.midominio.do.	3600	IN	A	162.251.82.251
 dns1.midominio.do.	3600	IN	A	162.251.82.250
 dns2.midominio.do.	3600	IN	A	162.251.82.120
-dns2.midominio.do.	3600	IN	A	162.251.82.121
 dns2.midominio.do.	3600	IN	A	162.251.82.249
 dns2.midominio.do.	3600	IN	A	162.251.82.248
-dns3.midominio.do.	3600	IN	A	162.251.82.118
-dns3.midominio.do.	3600	IN	A	162.251.82.247
-dns3.midominio.do.	3600	IN	A	162.251.82.246
+dns2.midominio.do.	3600	IN	A	162.251.82.121
 dns3.midominio.do.	3600	IN	A	162.251.82.119
+dns3.midominio.do.	3600	IN	A	162.251.82.246
+dns3.midominio.do.	3600	IN	A	162.251.82.247
+dns3.midominio.do.	3600	IN	A	162.251.82.118
 dns4.midominio.do.	3600	IN	A	162.251.82.125
 dns4.midominio.do.	3600	IN	A	162.251.82.252
 dns4.midominio.do.	3600	IN	A	162.251.82.253
@@ -31013,14 +31019,14 @@ nic.do.			3600	IN	NS	ns5.nic.do.
 nic.do.			3600	IN	NS	ns.nic.do.
 ns.nic.do.		3600	IN	AAAA	2001:13e0:85d0:106::177
 ns.nic.do.		3600	IN	A	190.113.72.177
-ns1.nic.do.		3600	IN	A	190.113.72.178
 ns1.nic.do.		3600	IN	AAAA	2001:13e0:85d0:106::178
+ns1.nic.do.		3600	IN	A	190.113.72.178
 ns2.nic.do.		3600	IN	A	190.113.65.12
 ns2.nic.do.		3600	IN	AAAA	2001:13e0:0:1::12
 ns4.nic.do.		3600	IN	AAAA	2001:500:14:6124:ad::1
 ns4.nic.do.		3600	IN	A	204.61.216.124
-ns5.nic.do.		3600	IN	A	190.113.65.13
 ns5.nic.do.		3600	IN	AAAA	2001:13e0:0:1::13
+ns5.nic.do.		3600	IN	A	190.113.65.13
 nicasio.do.		3600	IN	NS	dns4.midominio.do.
 nicasio.do.		3600	IN	NS	dns3.midominio.do.
 nicasio.do.		3600	IN	NS	dns2.midominio.do.
@@ -37490,6 +37496,9 @@ ring.do.		3600	IN	NS	dns4.midominio.do.
 ring.do.		3600	IN	NS	dns3.midominio.do.
 ring.do.		3600	IN	NS	dns2.midominio.do.
 ring.do.		3600	IN	NS	dns1.midominio.do.
+rio.do.			3600	IN	NS	ns3.netim.net.
+rio.do.			3600	IN	NS	ns2.netim.net.
+rio.do.			3600	IN	NS	ns1.netim.net.
 riomare.do.		3600	IN	NS	ns2.vivacom.it.
 riomare.do.		3600	IN	NS	ns1.vivacom.it.
 riomare.do.		3600	IN	NS	ns3.vivacom.it.
@@ -41208,10 +41217,10 @@ stird.do.		3600	IN	NS	ns2.dns-parking.com.
 stird.do.		3600	IN	NS	ns1.dns-parking.com.
 stix.do.		3600	IN	NS	ns2.stix.do.
 stix.do.		3600	IN	NS	ns1.stix.do.
-ns1.stix.do.		3600	IN	AAAA	2803:9c0:100::2b
 ns1.stix.do.		3600	IN	A	45.5.11.11
-ns2.stix.do.		3600	IN	A	45.5.10.10
+ns1.stix.do.		3600	IN	AAAA	2803:9c0:100::2b
 ns2.stix.do.		3600	IN	AAAA	2803:9c0:100::2a
+ns2.stix.do.		3600	IN	A	45.5.10.10
 stlcardinals.do.	3600	IN	NS	ns-cloud-c1.googledomains.com.
 stlcardinals.do.	3600	IN	NS	ns-664.awsdns-19.net.
 stlcardinals.do.	3600	IN	NS	ns-1660.awsdns-15.co.uk.
@@ -45491,8 +45500,9 @@ vector.do.		3600	IN	NS	dns2.midominio.do.
 vector.do.		3600	IN	NS	dns1.midominio.do.
 vectors.do.		3600	IN	NS	sean.ns.cloudflare.com.
 vectors.do.		3600	IN	NS	dayana.ns.cloudflare.com.
-vectorworks.do.		3600	IN	NS	ns6000.mochahost.com.
-vectorworks.do.		3600	IN	NS	ns5000.mochahost.com.
+vectorworks.do.		3600	IN	NS	ns3.mysecurecloudhost.com.
+vectorworks.do.		3600	IN	NS	ns2.mysecurecloudhost.com.
+vectorworks.do.		3600	IN	NS	ns1.mysecurecloudhost.com.
 vee.do.			3600	IN	NS	dns3.home.pl.
 vee.do.			3600	IN	NS	dns2.home.pl.
 vee.do.			3600	IN	NS	dns.home.pl.
@@ -48335,4 +48345,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025092203 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025092208 3600 3600 604800 3600
