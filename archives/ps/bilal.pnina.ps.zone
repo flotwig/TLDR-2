@@ -1,4 +1,4 @@
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025092105 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025092109 86400 7200 3600000 172800
 ps.			86400	IN	NS	ps.cctld.authdns.ripe.net.
 ps.			86400	IN	NS	ns1.pnina.ps.
 ps.			86400	IN	NS	ote.pnina.ps.
@@ -6,7 +6,7 @@ ps.			86400	IN	NS	rip.psg.com.
 ps.			86400	IN	NS	fork.sth.dnsnode.net.
 ps.			86400	IN	NS	Bilal.pnina.ps.
 ps.			86400	IN	NS	ps-ns.anycast.pch.net.
-ps.			86400	IN	TXT	"Generation Time: 1758441695"
+ps.			86400	IN	TXT	"Generation Time: 1758470501"
 01net.ps.		86400	IN	NS	ns1.safebrands.fr.
 01net.ps.		86400	IN	NS	ns2.safebrands.eu.
 01net.ps.		86400	IN	NS	ns3.safebrands.com.
@@ -2338,6 +2338,8 @@ astra.ps.		86400	IN	NS	ns1.astra.ps.
 astra.ps.		86400	IN	NS	ns2.astra.ps.
 ns1.astra.ps.		86400	IN	A	185.203.66.79
 ns2.astra.ps.		86400	IN	A	185.203.66.80
+astrapal.ps.		86400	IN	NS	ns1.servconfig.com.
+astrapal.ps.		86400	IN	NS	ns2.servconfig.com.
 astrazeneca.ps.		86400	IN	NS	dns1.comlaude-dns.com.
 astrazeneca.ps.		86400	IN	NS	dns2.comlaude-dns.net.
 astrazeneca.ps.		86400	IN	NS	dns3.comlaude-dns.co.uk.
@@ -3681,8 +3683,6 @@ capitaltc.ps.		86400	IN	NS	cdns1.hadara.ps.
 capitaltc.ps.		86400	IN	NS	cdns2.hadara.ps.
 cappuccino.ps.		86400	IN	NS	ns1-dolphin.dl-cms.com.
 cappuccino.ps.		86400	IN	NS	ns2-dolphin.dl-cms.com.
-caption.ps.		86400	IN	NS	ns1-lion.dl-cms.com.
-caption.ps.		86400	IN	NS	ns2-lion.dl-cms.com.
 car.ps.			86400	IN	NS	ns1.netim.net.
 car.ps.			86400	IN	NS	ns2.netim.net.
 car.ps.			86400	IN	NS	ns3.netim.net.
@@ -5027,8 +5027,6 @@ dqfoods.ps.		86400	IN	NS	ns1.injazatcloud.ps.
 dqfoods.ps.		86400	IN	NS	ns2.injazatcloud.ps.
 dr.ps.			86400	IN	NS	ns1-estore.dns-supercode.com.
 dr.ps.			86400	IN	NS	ns2-estore.dns-supercode.com.
-dr-vet.ps.		86400	IN	NS	ns1.ttawor.com.
-dr-vet.ps.		86400	IN	NS	ns2.ttawor.com.
 drcoffee.ps.		86400	IN	NS	ns1.mysecurecloudhost.com.
 drcoffee.ps.		86400	IN	NS	ns2.mysecurecloudhost.com.
 dream.ps.		86400	IN	NS	ns1.dns-parking.com.
@@ -5312,8 +5310,6 @@ einsara.ps.		86400	IN	NS	ns1.mysecurecloudhost.com.
 einsara.ps.		86400	IN	NS	ns2.mysecurecloudhost.com.
 ejob.ps.		86400	IN	NS	ns1.bluetd.com.
 ejob.ps.		86400	IN	NS	ns2.bluetd.com.
-ejobs.ps.		86400	IN	NS	ns1.bluetd.com.
-ejobs.ps.		86400	IN	NS	ns2.bluetd.com.
 ekleel.ps.		86400	IN	NS	ns1.fikrtech.org.
 ekleel.ps.		86400	IN	NS	ns2.fikrtech.org.
 ektifa.ps.		86400	IN	NS	ns1.servconfig.com.
@@ -5456,8 +5452,6 @@ emailak.ps.		86400	IN	NS	dns.paltel.net.
 emailak.ps.		86400	IN	NS	gns.paltel.net.
 emanregencyhotel.ps.	86400	IN	NS	ns1.justhost.com.
 emanregencyhotel.ps.	86400	IN	NS	ns2.justhost.com.
-emarket.ps.		86400	IN	NS	courtney.ns.cloudflare.com.
-emarket.ps.		86400	IN	NS	giancarlo.ns.cloudflare.com.
 emcc.ps.		86400	IN	NS	tara.ns.cloudflare.com.
 emcc.ps.		86400	IN	NS	augustus.ns.cloudflare.com.
 emco.ps.		86400	IN	NS	lili.raed.co.
@@ -7727,6 +7721,8 @@ hoo.ps.			86400	IN	NS	ns-161-b.gandi.net.
 hoo.ps.			86400	IN	NS	ns-200-a.gandi.net.
 hoodista.ps.		86400	IN	NS	ns1.ttawor.com.
 hoodista.ps.		86400	IN	NS	ns2.ttawor.com.
+hook.ps.		86400	IN	NS	cdns1.hadara.ps.
+hook.ps.		86400	IN	NS	cdns2.hadara.ps.
 hop.ps.			86400	IN	NS	p2.hadara.ps.
 hop.ps.			86400	IN	NS	cdns1.hadara.ps.
 hop.ps.			86400	IN	NS	cdns2.hadara.ps.
@@ -11300,8 +11296,6 @@ mycloud.ps.		86400	IN	NS	melissa.ns.cloudflare.com.
 mydardesh.ps.		86400	IN	NS	ns.paltel.net.
 mydardesh.ps.		86400	IN	NS	dns.paltel.net.
 mydardesh.ps.		86400	IN	NS	gns.paltel.net.
-mydoctor.ps.		86400	IN	NS	ns1.ttawor.com.
-mydoctor.ps.		86400	IN	NS	ns2.ttawor.com.
 mydomain.ps.		86400	IN	NS	ns1.bluetd.com.
 mydomain.ps.		86400	IN	NS	ns2.bluetd.com.
 myflixer.ps.		86400	IN	NS	beau.ns.cloudflare.com.
@@ -11706,8 +11700,6 @@ newmodules.ps.		86400	IN	NS	hosting01.mada.ps.
 newmodules.ps.		86400	IN	NS	hosting02.mada.ps.
 newpal.ps.		86400	IN	NS	cass.ns.cloudflare.com.
 newpal.ps.		86400	IN	NS	dave.ns.cloudflare.com.
-newpress.ps.		86400	IN	NS	dns1.namecheaphosting.com.
-newpress.ps.		86400	IN	NS	dns2.namecheaphosting.com.
 newsmax.ps.		86400	IN	NS	dns1.idp365.net.
 newsmax.ps.		86400	IN	NS	dns2.idp365.net.
 newsmax.ps.		86400	IN	NS	dns3.idp365.net.
@@ -12929,11 +12921,11 @@ paltelfoundation.ps.	86400	IN	NS	ns-cloud-c1.googledomains.com.
 paltelfoundation.ps.	86400	IN	NS	ns-cloud-c2.googledomains.com.
 paltelfoundation.ps.	86400	IN	NS	ns-cloud-c3.googledomains.com.
 paltelfoundation.ps.	86400	IN	NS	ns-cloud-c4.googledomains.com.
+paltelgroup.ps.		86400	IN	DS	50044 13 2 AC2016C79868DD2BBDDD9525CA58E33E0D752E049BF399F4A53532E2 41D38DAF
 paltelgroup.ps.		86400	IN	NS	ns-cloud-c1.googledomains.com.
 paltelgroup.ps.		86400	IN	NS	ns-cloud-c2.googledomains.com.
 paltelgroup.ps.		86400	IN	NS	ns-cloud-c3.googledomains.com.
 paltelgroup.ps.		86400	IN	NS	ns-cloud-c4.googledomains.com.
-paltelgroup.ps.		86400	IN	DS	50044 13 2 AC2016C79868DD2BBDDD9525CA58E33E0D752E049BF399F4A53532E2 41D38DAF
 paltelgrp.ps.		86400	IN	NS	ns1.atyaf.co.
 paltelgrp.ps.		86400	IN	NS	ns2.atyaf.co.
 paltellight.ps.		86400	IN	NS	ns.paltel.net.
@@ -16437,8 +16429,6 @@ stlh.ps.		86400	IN	NS	josh.ns.cloudflare.com.
 stochastic.ps.		86400	IN	NS	1-you.njalla.no.
 stochastic.ps.		86400	IN	NS	2-can.njalla.in.
 stochastic.ps.		86400	IN	NS	3-get.njalla.fo.
-stonescafe.ps.		86400	IN	NS	hosting01.mada.ps.
-stonescafe.ps.		86400	IN	NS	hosting02.mada.ps.
 stoo.ps.		86400	IN	NS	ns1.101domain.com.
 stoo.ps.		86400	IN	NS	ns2.101domain.com.
 stop.ps.		86400	IN	NS	ns1-ded100317.plesklogin.net.
@@ -16457,8 +16447,6 @@ stories.ps.		86400	IN	NS	a1-139.akam.net.
 stories.ps.		86400	IN	NS	a11-66.akam.net.
 stories.ps.		86400	IN	NS	a12-67.akam.net.
 stories.ps.		86400	IN	NS	a28-64.akam.net.
-storiescafe.ps.		86400	IN	NS	hosting01.mada.ps.
-storiescafe.ps.		86400	IN	NS	hosting02.mada.ps.
 storycor.ps.		86400	IN	NS	ns1.101domain.com.
 storycor.ps.		86400	IN	NS	ns2.101domain.com.
 storycor.ps.		86400	IN	NS	ns5.101domain.com.
@@ -18978,4 +18966,4 @@ zuwadeh.ps.		86400	IN	NS	ns3.ftswebservices.com.
 zuwadeh.ps.		86400	IN	NS	ns4.ftswebservices.com.
 zuwar.ps.		86400	IN	NS	ns1.dns-parking.com.
 zuwar.ps.		86400	IN	NS	ns2.dns-parking.com.
-ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025092105 86400 7200 3600000 172800
+ps.			86400	IN	SOA	ns2.pnina.ps. sys.pnina.ps. 2025092109 86400 7200 3600000 172800
