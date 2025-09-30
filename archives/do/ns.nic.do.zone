@@ -1,4 +1,6 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025093006 3600 3600 604800 3600
+;; Connection to 190.113.72.177#53(190.113.72.177) for do. failed: timed out.
+;; no servers could be reached
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025093009 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +8,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1759213502"
+do.			3600	IN	TXT	"Generation Time: 1759223405"
 00.do.			3600	IN	NS	carlos.ns.cloudflare.com.
 00.do.			3600	IN	NS	dorthy.ns.cloudflare.com.
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
@@ -24134,6 +24136,9 @@ jupiterlabs.do.		3600	IN	NS	dns4.midominio.do.
 jupiterlabs.do.		3600	IN	NS	dns3.midominio.do.
 jupiterlabs.do.		3600	IN	NS	dns2.midominio.do.
 jupiterlabs.do.		3600	IN	NS	dns1.midominio.do.
+juplter.do.		3600	IN	NS	1-you.njalla.no.
+juplter.do.		3600	IN	NS	2-can.njalla.in.
+juplter.do.		3600	IN	NS	3-get.njalla.fo.
 jurinvest.do.		3600	IN	NS	dns4.midominio.do.
 jurinvest.do.		3600	IN	NS	dns3.midominio.do.
 jurinvest.do.		3600	IN	NS	dns2.midominio.do.
@@ -36426,6 +36431,10 @@ razasport.do.		3600	IN	NS	dns2.midominio.do.
 razasport.do.		3600	IN	NS	dns1.midominio.do.
 razine.do.		3600	IN	NS	dns1.elatomo.com.
 razine.do.		3600	IN	NS	dns2.elatomo.com.
+rb.do.			3600	IN	NS	ns41.cloudns.net.
+rb.do.			3600	IN	NS	ns42.cloudns.net.
+rb.do.			3600	IN	NS	ns43.cloudns.net.
+rb.do.			3600	IN	NS	ns44.cloudns.net.
 rbseguros.do.		3600	IN	NS	ns8028.hostgator.com.
 rbseguros.do.		3600	IN	NS	ns8027.hostgator.com.
 rbsolutions.do.		3600	IN	NS	ns1.dns-parking.com.
@@ -45611,10 +45620,8 @@ vclubshop.do.		3600	IN	NS	a.dnspod.com.
 vclubshop.do.		3600	IN	NS	c.dnspod.com.
 vclubshops.do.		3600	IN	NS	ns-jail2.101domain.com.
 vclubshops.do.		3600	IN	NS	ns-jail1.101domain.com.
-vclubsshop.do.		3600	IN	NS	ns1.cloudlax.com.
-vclubsshop.do.		3600	IN	NS	ns2.cloudlax.com.
-vclubsshop.do.		3600	IN	NS	ns3.cloudlax.com.
-vclubsshop.do.		3600	IN	NS	ns4.cloudlax.com.
+vclubsshop.do.		3600	IN	NS	keenan.ns.cloudflare.com.
+vclubsshop.do.		3600	IN	NS	marlowe.ns.cloudflare.com.
 vcr.do.			3600	IN	NS	ns-1132.awsdns-13.org.
 vcr.do.			3600	IN	NS	ns-1976.awsdns-55.co.uk.
 vcr.do.			3600	IN	NS	ns-473.awsdns-59.com.
@@ -48497,4 +48504,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025093006 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025093009 3600 3600 604800 3600
