@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025100400 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025100401 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1759536002"
+do.			3600	IN	TXT	"Generation Time: 1759542603"
 00.do.			3600	IN	NS	carlos.ns.cloudflare.com.
 00.do.			3600	IN	NS	dorthy.ns.cloudflare.com.
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
@@ -2180,10 +2180,9 @@ almapaq.do.		3600	IN	NS	ns2.dns-parking.com.
 almapaq.do.		3600	IN	NS	ns1.dns-parking.com.
 almas.do.		3600	IN	NS	ns2.dns-parking.com.
 almas.do.		3600	IN	NS	ns1.dns-parking.com.
-almendra.do.		3600	IN	NS	dns1.midominio.do.
-almendra.do.		3600	IN	NS	dns2.midominio.do.
-almendra.do.		3600	IN	NS	dns3.midominio.do.
-almendra.do.		3600	IN	NS	dns4.midominio.do.
+almendra.do.		3600	IN	NS	ns1.wordpress.com.
+almendra.do.		3600	IN	NS	ns2.wordpress.com.
+almendra.do.		3600	IN	NS	ns3.wordpress.com.
 almera.do.		3600	IN	NS	dns2.sered.net.
 almera.do.		3600	IN	NS	dns1.sered.net.
 almkaraka.do.		3600	IN	NS	ns1045.ui-dns.org.
@@ -46885,6 +46884,10 @@ weber.do.		3600	IN	NS	dns2.midominio.do.
 weber.do.		3600	IN	NS	dns1.midominio.do.
 webhooks.do.		3600	IN	NS	sean.ns.cloudflare.com.
 webhooks.do.		3600	IN	NS	dayana.ns.cloudflare.com.
+webhosting.do.		3600	IN	NS	ns1.webhosting.do.
+webhosting.do.		3600	IN	NS	ns2.webhosting.do.
+ns1.webhosting.do.	3600	IN	A	173.249.46.58
+ns2.webhosting.do.	3600	IN	A	173.249.46.58
 webinar.do.		3600	IN	NS	pdns10.domaincontrol.com.
 webinar.do.		3600	IN	NS	pdns09.domaincontrol.com.
 webmoney.do.		3600	IN	NS	ns2.relsoft.org.
@@ -48472,4 +48475,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025100400 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025100401 3600 3600 604800 3600
