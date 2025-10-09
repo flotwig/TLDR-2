@@ -1,4 +1,4 @@
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025100907 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025100917 3600 3600 604800 3600
 do.			3600	IN	NS	ns.nic.do.
 do.			3600	IN	NS	ns1.nic.do.
 do.			3600	IN	NS	ns2.nic.do.
@@ -6,7 +6,7 @@ do.			3600	IN	NS	phloem.uoregon.edu.
 do.			3600	IN	NS	ns4.nic.do.
 do.			3600	IN	NS	ns5.nic.do.
 do.			3600	IN	NS	a.lactld.org.
-do.			3600	IN	TXT	"Generation Time: 1759994406"
+do.			3600	IN	TXT	"Generation Time: 1760027401"
 00.do.			3600	IN	NS	dorthy.ns.cloudflare.com.
 00.do.			3600	IN	NS	carlos.ns.cloudflare.com.
 007.do.			3600	IN	NS	ns2.arvixeshared.com.
@@ -4546,6 +4546,9 @@ awm.do.			3600	IN	NS	dns4.midominio.do.
 awm.do.			3600	IN	NS	dns3.midominio.do.
 awm.do.			3600	IN	NS	dns2.midominio.do.
 awm.do.			3600	IN	NS	dns1.midominio.do.
+aws.do.			3600	IN	NS	3-get.njalla.fo.
+aws.do.			3600	IN	NS	2-can.njalla.in.
+aws.do.			3600	IN	NS	1-you.njalla.no.
 awsnova.do.		3600	IN	NS	dns4.comlaude-dns.eu.
 awsnova.do.		3600	IN	NS	dns3.comlaude-dns.co.uk.
 awsnova.do.		3600	IN	NS	dns2.comlaude-dns.net.
@@ -5022,8 +5025,6 @@ basilicalaaltagracia.do. 3600	IN	NS	dns2.midominio.do.
 basilicalaaltagracia.do. 3600	IN	NS	dns1.midominio.do.
 basis.do.		3600	IN	NS	dns2.namecheaphosting.com.
 basis.do.		3600	IN	NS	dns1.namecheaphosting.com.
-basket.do.		3600	IN	NS	cdns2.interserver.net.
-basket.do.		3600	IN	NS	cdns1.interserver.net.
 basketball.do.		3600	IN	NS	ns1.fastpark.net.
 basketball.do.		3600	IN	NS	ns2.fastpark.net.
 baskin-robbins.do.	3600	IN	NS	dns1.cscdns.net.
@@ -5099,10 +5100,6 @@ bbm.do.			3600	IN	NS	ns2.bbm-dns.com.
 bbm.do.			3600	IN	NS	ns1.bbm-dns.com.
 bbo.do.			3600	IN	NS	princess.ns.cloudflare.com.
 bbo.do.			3600	IN	NS	ezra.ns.cloudflare.com.
-bbq.do.			3600	IN	NS	ns1045.ui-dns.com.
-bbq.do.			3600	IN	NS	ns1045.ui-dns.biz.
-bbq.do.			3600	IN	NS	ns1045.ui-dns.de.
-bbq.do.			3600	IN	NS	ns1045.ui-dns.org.
 bbraun.do.		3600	IN	NS	ns2.knipp.de.
 bbraun.do.		3600	IN	NS	ns3.knipp.de.
 bbry.do.		3600	IN	NS	ns1.markmonitor.com.
@@ -5799,10 +5796,10 @@ biotropic.do.		3600	IN	NS	ns.udag.net.
 biotropic.do.		3600	IN	NS	ns.udag.org.
 bir.do.			3600	IN	NS	ns1.bir.do.
 bir.do.			3600	IN	NS	ns2.bir.do.
-ns1.bir.do.		3600	IN	AAAA	2403:580a:1f66::103
 ns1.bir.do.		3600	IN	A	167.179.175.1
-ns2.bir.do.		3600	IN	AAAA	2400:6180:10:200::c:7000
+ns1.bir.do.		3600	IN	AAAA	2403:580a:1f66::103
 ns2.bir.do.		3600	IN	A	170.64.156.31
+ns2.bir.do.		3600	IN	AAAA	2400:6180:10:200::c:7000
 bird.do.		3600	IN	NS	ns2.markmonitor.com.
 bird.do.		3600	IN	NS	ns1.markmonitor.com.
 biriz.do.		3600	IN	NS	ns3.netim.net.
@@ -6075,6 +6072,9 @@ bluemall.do.		3600	IN	NS	dns4.midominio.do.
 bluemall.do.		3600	IN	NS	dns3.midominio.do.
 bluemall.do.		3600	IN	NS	dns2.midominio.do.
 bluemall.do.		3600	IN	NS	dns1.midominio.do.
+bluenova.do.		3600	IN	NS	ns3.netim.net.
+bluenova.do.		3600	IN	NS	ns2.netim.net.
+bluenova.do.		3600	IN	NS	ns1.netim.net.
 blueocean.do.		3600	IN	NS	ns2.m2005.sgded.com.
 blueocean.do.		3600	IN	NS	ns1.m2005.sgded.com.
 blueops.do.		3600	IN	NS	mimi.ns.cloudflare.com.
@@ -13807,10 +13807,6 @@ donrogelio.do.		3600	IN	NS	route-a13.cyberguard.zelt.ae.
 dont.do.		3600	IN	NS	ns3.netim.net.
 dont.do.		3600	IN	NS	ns2.netim.net.
 dont.do.		3600	IN	NS	ns1.netim.net.
-donza.do.		3600	IN	NS	dns4.midominio.do.
-donza.do.		3600	IN	NS	dns3.midominio.do.
-donza.do.		3600	IN	NS	dns2.midominio.do.
-donza.do.		3600	IN	NS	dns1.midominio.do.
 doo.do.			3600	IN	NS	raphael.6dns.com.
 doo.do.			3600	IN	NS	leonardo.6dns.com.
 dood.do.		3600	IN	NS	ns19.ovh.net.
@@ -13960,6 +13956,10 @@ draxxin.do.		3600	IN	NS	ns1.pfizer.com.
 draxxin.do.		3600	IN	NS	ns2.pfizer.com.
 draxxin.do.		3600	IN	NS	ns3.pfizer.com.
 draxxin.do.		3600	IN	NS	ns4.pfizer.com.
+draygo.do.		3600	IN	NS	dns4.midominio.do.
+draygo.do.		3600	IN	NS	dns3.midominio.do.
+draygo.do.		3600	IN	NS	dns2.midominio.do.
+draygo.do.		3600	IN	NS	dns1.midominio.do.
 drbet.do.		3600	IN	NS	dns4.midominio.do.
 drbet.do.		3600	IN	NS	dns3.midominio.do.
 drbet.do.		3600	IN	NS	dns2.midominio.do.
@@ -15747,9 +15747,8 @@ eperezyasoc.do.		3600	IN	NS	ns4.bdm.microsoftonline.com.
 eperezyasoc.do.		3600	IN	NS	ns3.bdm.microsoftonline.com.
 eperezyasoc.do.		3600	IN	NS	ns2.bdm.microsoftonline.com.
 eperezyasoc.do.		3600	IN	NS	ns1.bdm.microsoftonline.com.
-epg.do.			3600	IN	NS	3-get.njalla.fo.
-epg.do.			3600	IN	NS	2-can.njalla.in.
-epg.do.			3600	IN	NS	1-you.njalla.no.
+epg.do.			3600	IN	NS	vern.ns.cloudflare.com.
+epg.do.			3600	IN	NS	june.ns.cloudflare.com.
 ephemeral.do.		3600	IN	NS	dns4.midominio.do.
 ephemeral.do.		3600	IN	NS	dns3.midominio.do.
 ephemeral.do.		3600	IN	NS	dns2.midominio.do.
@@ -16391,8 +16390,6 @@ exo.do.			3600	IN	NS	eric.ns.cloudflare.com.
 exonix-veracity.do.	3600	IN	NS	ns3.netim.net.
 exonix-veracity.do.	3600	IN	NS	ns2.netim.net.
 exonix-veracity.do.	3600	IN	NS	ns1.netim.net.
-exonixveracity.do.	3600	IN	NS	ns2-hold.netim.net.
-exonixveracity.do.	3600	IN	NS	ns1-hold.netim.net.
 exoticsamana.do.	3600	IN	NS	ns3.dreamhost.com.
 exoticsamana.do.	3600	IN	NS	ns2.dreamhost.com.
 exoticsamana.do.	3600	IN	NS	ns1.dreamhost.com.
@@ -18826,6 +18823,8 @@ gelighting.do.		3600	IN	NS	ns-91.awsdns-11.com.
 gelighting.do.		3600	IN	NS	ns-569.awsdns-07.net.
 gelighting.do.		3600	IN	NS	ns-1837.awsdns-37.co.uk.
 gelighting.do.		3600	IN	NS	ns-1222.awsdns-24.org.
+gelp.do.		3600	IN	NS	noel.ns.cloudflare.com.
+gelp.do.		3600	IN	NS	itzel.ns.cloudflare.com.
 gema.do.		3600	IN	NS	dns4.midominio.do.
 gema.do.		3600	IN	NS	dns3.midominio.do.
 gema.do.		3600	IN	NS	dns2.midominio.do.
@@ -19385,6 +19384,9 @@ gnosis.do.		3600	IN	NS	dns2.midominio.do.
 gnosis.do.		3600	IN	NS	dns1.midominio.do.
 gnr.do.			3600	IN	NS	henrik.ns.cloudflare.com.
 gnr.do.			3600	IN	NS	ashley.ns.cloudflare.com.
+gns.do.			3600	IN	NS	ns3.netim.net.
+gns.do.			3600	IN	NS	ns2.netim.net.
+gns.do.			3600	IN	NS	ns1.netim.net.
 gnu.do.			3600	IN	NS	rosemary.ns.cloudflare.com.
 gnu.do.			3600	IN	NS	cosmin.ns.cloudflare.com.
 go.do.			3600	IN	NS	ns2.afternic.com.
@@ -21258,6 +21260,10 @@ homes.do.		3600	IN	NS	ns1.sedoparking.com.
 homes.do.		3600	IN	NS	ns2.sedoparking.com.
 homeselect.do.		3600	IN	NS	dns2.midominio.do.
 homeselect.do.		3600	IN	NS	dns1.midominio.do.
+homeservices.do.	3600	IN	NS	ns3.dnsmadeeasy.com.
+homeservices.do.	3600	IN	NS	ns2.dnsmadeeasy.com.
+homeservices.do.	3600	IN	NS	ns1.dnsmadeeasy.com.
+homeservices.do.	3600	IN	NS	ns0.dnsmadeeasy.com.
 homics.do.		3600	IN	NS	dns4.midominio.do.
 homics.do.		3600	IN	NS	dns3.midominio.do.
 homics.do.		3600	IN	NS	www.midominio.do.
@@ -22503,8 +22509,6 @@ industry.do.		3600	IN	NS	dns1.midominio.do.
 ine.do.			3600	IN	NS	ns1.101domain.com.
 ine.do.			3600	IN	NS	ns2.101domain.com.
 ine.do.			3600	IN	NS	ns5.101domain.com.
-inebrya.do.		3600	IN	NS	ns4789.banahosting.com.
-inebrya.do.		3600	IN	NS	ns4788.banahosting.com.
 inertia.do.		3600	IN	NS	ns3.onlydomains.com.
 inertia.do.		3600	IN	NS	ns2.onlydomains.com.
 inertia.do.		3600	IN	NS	ns1.onlydomains.com.
@@ -28937,8 +28941,6 @@ micasajardin.do.	3600	IN	NS	dns4.midominio.do.
 micasajardin.do.	3600	IN	NS	dns3.midominio.do.
 micasajardin.do.	3600	IN	NS	dns2.midominio.do.
 micasajardin.do.	3600	IN	NS	dns1.midominio.do.
-micasard.do.		3600	IN	NS	owen.ns.cloudflare.com.
-micasard.do.		3600	IN	NS	meg.ns.cloudflare.com.
 micasino.do.		3600	IN	NS	ns2.micasino.do.
 micasino.do.		3600	IN	NS	ns1.micasino.do.
 ns1.micasino.do.	3600	IN	A	34.176.9.134
@@ -29058,17 +29060,17 @@ dns1.midominio.do.	3600	IN	A	162.251.82.251
 dns1.midominio.do.	3600	IN	A	162.251.82.250
 dns1.midominio.do.	3600	IN	A	162.251.82.122
 dns2.midominio.do.	3600	IN	A	162.251.82.120
-dns2.midominio.do.	3600	IN	A	162.251.82.248
 dns2.midominio.do.	3600	IN	A	162.251.82.249
+dns2.midominio.do.	3600	IN	A	162.251.82.248
 dns2.midominio.do.	3600	IN	A	162.251.82.121
-dns3.midominio.do.	3600	IN	A	162.251.82.246
-dns3.midominio.do.	3600	IN	A	162.251.82.247
 dns3.midominio.do.	3600	IN	A	162.251.82.119
+dns3.midominio.do.	3600	IN	A	162.251.82.247
 dns3.midominio.do.	3600	IN	A	162.251.82.118
-dns4.midominio.do.	3600	IN	A	162.251.82.253
+dns3.midominio.do.	3600	IN	A	162.251.82.246
 dns4.midominio.do.	3600	IN	A	162.251.82.124
-dns4.midominio.do.	3600	IN	A	162.251.82.125
 dns4.midominio.do.	3600	IN	A	162.251.82.252
+dns4.midominio.do.	3600	IN	A	162.251.82.253
+dns4.midominio.do.	3600	IN	A	162.251.82.125
 mie.do.			3600	IN	NS	ns2.gofruits.co.
 mie.do.			3600	IN	NS	ns1.gofruits.co.
 mielagro.do.		3600	IN	NS	dns4.midominio.do.
@@ -31134,14 +31136,14 @@ nic.do.			3600	IN	NS	a.lactld.org.
 nic.do.			3600	IN	NS	ns1.nic.do.
 nic.do.			3600	IN	NS	ns5.nic.do.
 nic.do.			3600	IN	NS	ns.nic.do.
-ns.nic.do.		3600	IN	AAAA	2001:13e0:85d0:106::177
 ns.nic.do.		3600	IN	A	190.113.72.177
+ns.nic.do.		3600	IN	AAAA	2001:13e0:85d0:106::177
 ns1.nic.do.		3600	IN	A	190.113.72.178
 ns1.nic.do.		3600	IN	AAAA	2001:13e0:85d0:106::178
 ns2.nic.do.		3600	IN	AAAA	2001:13e0:0:1::12
 ns2.nic.do.		3600	IN	A	190.113.65.12
-ns4.nic.do.		3600	IN	AAAA	2001:500:14:6124:ad::1
 ns4.nic.do.		3600	IN	A	204.61.216.124
+ns4.nic.do.		3600	IN	AAAA	2001:500:14:6124:ad::1
 ns5.nic.do.		3600	IN	AAAA	2001:13e0:0:1::13
 ns5.nic.do.		3600	IN	A	190.113.65.13
 nicasio.do.		3600	IN	NS	dns4.midominio.do.
@@ -31503,6 +31505,10 @@ novanet.do.		3600	IN	NS	ns1.adndatacenters.com.
 novanet.do.		3600	IN	NS	ns2.adndatacenters.com.
 novanet.do.		3600	IN	NS	ns3.adndatacenters.com.
 novanet.do.		3600	IN	NS	ns4.adndatacenters.com.
+novaramed.do.		3600	IN	NS	dns4.midominio.do.
+novaramed.do.		3600	IN	NS	dns3.midominio.do.
+novaramed.do.		3600	IN	NS	dns2.midominio.do.
+novaramed.do.		3600	IN	NS	dns1.midominio.do.
 novartis.do.		3600	IN	NS	a2-66.akam.net.
 novartis.do.		3600	IN	NS	a1-254.akam.net.
 novartis.do.		3600	IN	NS	a9-65.akam.net.
@@ -33286,10 +33292,10 @@ parimatch.do.		3600	IN	NS	ns2.netim.net.
 parimatch.do.		3600	IN	NS	ns1.netim.net.
 park.do.		3600	IN	NS	ns2.park.do.
 park.do.		3600	IN	NS	ns1.park.do.
-ns1.park.do.		3600	IN	AAAA	2a05:f480:1800:50b:5400:2ff:fe35:fe72
 ns1.park.do.		3600	IN	A	45.77.55.161
-ns2.park.do.		3600	IN	A	45.77.55.161
+ns1.park.do.		3600	IN	AAAA	2a05:f480:1800:50b:5400:2ff:fe35:fe72
 ns2.park.do.		3600	IN	AAAA	2a05:f480:1800:50b:5400:2ff:fe35:fe72
+ns2.park.do.		3600	IN	A	45.77.55.161
 parmalat.do.		3600	IN	NS	ns2.barbero.zone.
 parmalat.do.		3600	IN	NS	ns1.barbero.zone.
 parqueluna.do.		3600	IN	NS	dns4.midominio.do.
@@ -33302,6 +33308,8 @@ parroquiasanjuanbosco.do. 3600	IN	NS	ns4.hosting24.com.
 parroquiasanjuanbosco.do. 3600	IN	NS	ns3.hosting24.com.
 parroquiasanjuanbosco.do. 3600	IN	NS	ns2.hosting24.com.
 parroquiasanjuanbosco.do. 3600	IN	NS	ns1.hosting24.com.
+pars.do.		3600	IN	NS	ns2.aquilosupo.com.
+pars.do.		3600	IN	NS	ns1.aquilosupo.com.
 partes.do.		3600	IN	NS	ns4.linode.com.
 partes.do.		3600	IN	NS	ns3.linode.com.
 partes.do.		3600	IN	NS	ns2.linode.com.
@@ -35595,6 +35603,8 @@ pucmmsti.do.		3600	IN	NS	nss2.codetel.net.do.
 pue.do.			3600	IN	NS	ns3.onlydomains.com.
 pue.do.			3600	IN	NS	ns2.onlydomains.com.
 pue.do.			3600	IN	NS	ns1.onlydomains.com.
+pueblito.do.		3600	IN	NS	igor.ns.cloudflare.com.
+pueblito.do.		3600	IN	NS	cruz.ns.cloudflare.com.
 puenteazul.do.		3600	IN	NS	dns4.midominio.do.
 puenteazul.do.		3600	IN	NS	dns3.midominio.do.
 puenteazul.do.		3600	IN	NS	dns2.midominio.do.
@@ -36014,6 +36024,8 @@ qualityinn.do.		3600	IN	NS	udns1.cscdns.net.
 qualityinn.do.		3600	IN	NS	udns2.cscdns.uk.
 qualpro.do.		3600	IN	NS	ns8943.banahosting.com.
 qualpro.do.		3600	IN	NS	ns8942.banahosting.com.
+quan.do.		3600	IN	NS	zod.ns.cloudflare.com.
+quan.do.		3600	IN	NS	wren.ns.cloudflare.com.
 quang.do.		3600	IN	NS	ns.checkdomain.de.
 quang.do.		3600	IN	NS	ns2.checkdomain.de.
 quantica.do.		3600	IN	NS	dns4.midominio.do.
@@ -36902,8 +36914,6 @@ reflectkrystalgrandresorts.do. 3600 IN	NS	ns01.trademarkarea.com.
 reflectresorts.do.	3600	IN	NS	ns03.trademarkarea.com.
 reflectresorts.do.	3600	IN	NS	ns02.trademarkarea.com.
 reflectresorts.do.	3600	IN	NS	ns01.trademarkarea.com.
-reformafiscal.do.	3600	IN	NS	vera.ns.cloudflare.com.
-reformafiscal.do.	3600	IN	NS	greg.ns.cloudflare.com.
 refri.do.		3600	IN	NS	ns2062.banahosting.com.
 refri.do.		3600	IN	NS	ns2061.banahosting.com.
 refrigiwear.do.		3600	IN	NS	ns03.trademarkarea.com.
@@ -37177,10 +37187,6 @@ reportaya.do.		3600	IN	NS	dns4.midominio.do.
 reportaya.do.		3600	IN	NS	dns3.midominio.do.
 reportaya.do.		3600	IN	NS	dns2.midominio.do.
 reportaya.do.		3600	IN	NS	dns1.midominio.do.
-reporterord.do.		3600	IN	NS	dns4.midominio.do.
-reporterord.do.		3600	IN	NS	dns3.midominio.do.
-reporterord.do.		3600	IN	NS	dns2.midominio.do.
-reporterord.do.		3600	IN	NS	dns1.midominio.do.
 reppi.do.		3600	IN	NS	dns4.midominio.do.
 reppi.do.		3600	IN	NS	dns3.midominio.do.
 reppi.do.		3600	IN	NS	dns2.midominio.do.
@@ -41375,8 +41381,8 @@ stix.do.		3600	IN	NS	ns2.stix.do.
 stix.do.		3600	IN	NS	ns1.stix.do.
 ns1.stix.do.		3600	IN	AAAA	2803:9c0:100::2b
 ns1.stix.do.		3600	IN	A	45.5.11.11
-ns2.stix.do.		3600	IN	A	45.5.10.10
 ns2.stix.do.		3600	IN	AAAA	2803:9c0:100::2a
+ns2.stix.do.		3600	IN	A	45.5.10.10
 stlcardinals.do.	3600	IN	NS	ns-cloud-c1.googledomains.com.
 stlcardinals.do.	3600	IN	NS	ns-664.awsdns-19.net.
 stlcardinals.do.	3600	IN	NS	ns-1660.awsdns-15.co.uk.
@@ -42833,6 +42839,8 @@ temco.do.		3600	IN	NS	ns2.dreamhost.com.
 temco.do.		3600	IN	NS	ns1.dreamhost.com.
 temomontas.do.		3600	IN	NS	thomas.ns.cloudflare.com.
 temomontas.do.		3600	IN	NS	monika.ns.cloudflare.com.
+templates.do.		3600	IN	NS	gina.ns.cloudflare.com.
+templates.do.		3600	IN	NS	ernest.ns.cloudflare.com.
 templeton.do.		3600	IN	NS	diva.ns.cloudflare.com.
 templeton.do.		3600	IN	NS	dexter.ns.cloudflare.com.
 tempo.do.		3600	IN	NS	pablo.ns.cloudflare.com.
@@ -46400,10 +46408,6 @@ vivamoney.do.		3600	IN	NS	dns4.midominio.do.
 vivamoney.do.		3600	IN	NS	dns3.midominio.do.
 vivamoney.do.		3600	IN	NS	dns2.midominio.do.
 vivamoney.do.		3600	IN	NS	dns1.midominio.do.
-vivaris.do.		3600	IN	NS	dns4.midominio.do.
-vivaris.do.		3600	IN	NS	dns3.midominio.do.
-vivaris.do.		3600	IN	NS	dns2.midominio.do.
-vivaris.do.		3600	IN	NS	dns1.midominio.do.
 vive.do.		3600	IN	NS	ns2.dns-parking.com.
 vive.do.		3600	IN	NS	ns1.dns-parking.com.
 vive-ahora.do.		3600	IN	NS	ns.udag.org.
@@ -46635,6 +46639,8 @@ vraja.do.		3600	IN	NS	ns4.mixarthost.com.
 vraja.do.		3600	IN	NS	ns3.mixarthost.com.
 vroom.do.		3600	IN	NS	ns2.tildadns.com.
 vroom.do.		3600	IN	NS	ns1.tildadns.com.
+vs.do.			3600	IN	NS	terry.ns.cloudflare.com.
+vs.do.			3600	IN	NS	hera.ns.cloudflare.com.
 vsadvisory.do.		3600	IN	NS	ns2.gbhwebhosting.com.
 vsadvisory.do.		3600	IN	NS	ns.gbhwebhosting.com.
 vsb.do.			3600	IN	NS	ns2.bluehost.com.
@@ -47911,10 +47917,6 @@ yayajunglepark.do.	3600	IN	NS	dns4.midominio.do.
 yayajunglepark.do.	3600	IN	NS	dns3.midominio.do.
 yayajunglepark.do.	3600	IN	NS	dns2.midominio.do.
 yayajunglepark.do.	3600	IN	NS	dns1.midominio.do.
-yayotengoelmio.do.	3600	IN	NS	dns4.midominio.do.
-yayotengoelmio.do.	3600	IN	NS	dns3.midominio.do.
-yayotengoelmio.do.	3600	IN	NS	dns2.midominio.do.
-yayotengoelmio.do.	3600	IN	NS	dns1.midominio.do.
 ybc.do.			3600	IN	NS	ns2.bh-29.webhostbox.net.
 ybc.do.			3600	IN	NS	ns1.bh-29.webhostbox.net.
 yegerlaw.do.		3600	IN	NS	dns4.midominio.do.
@@ -48498,4 +48500,4 @@ zzz.do.			3600	IN	NS	ns4.he.net.
 zzz.do.			3600	IN	NS	ns3.he.net.
 zzz.do.			3600	IN	NS	ns2.he.net.
 zzz.do.			3600	IN	NS	ns1.he.net.
-do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025100907 3600 3600 604800 3600
+do.			3600	IN	SOA	ns1.nic.do. hostmaster.nic.do. 2025100917 3600 3600 604800 3600
